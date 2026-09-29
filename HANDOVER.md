@@ -140,3 +140,4 @@ python3 scripts/export_dataset.py
   Until then, the launch prompts carry the narrator, perspective, R2 and disclosure guidance.
   **Next:** `batches/queue_repair3.json` is built (6 groups, 46 batches, 57 notes, Opus). Launched repair3 group 0. Remaining: repair3 groups 1–5, and gen from 60.
 - **Session 1 (cont.):** Gen group 57 is done (dynamics b0013–b0018). Launched repair3 groups 0 and 1. Running: gen 55, 56, 58, 59 and repair3 0 and 1. **Next:** repair3 groups 2–5, and gen group 60 (dynamics b0031–b0036).
+- **Session 1 (cont.):** Repair3 group 0 is done (8 batches; 326, 398, 449, 480, 496, 640, 641, 776 and 841 per the critic, plus pronoun fixes). Launched repair3 group 2. Running: gen 55, 56, 58, 59 and repair3 1 and 2. Waiting on the user's OK for the blocked script edits (see above).
