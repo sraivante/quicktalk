@@ -7,26 +7,24 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
-## Current state  (last updated: 2026-09-29, session 1)
+## Current state  (last updated: 2026-09-29, session 1 — pilot in progress)
 
-- **Phase:** pilot — NOT STARTED. `status.py`: pilot 0/15 batches validated, 0/426 records.
-- **Pack location:** the whole `human_dev_pack` is unpacked at the repo root (README.md, scripts/, data/, kg/, prompts/, pilot/ …).
-- **Branch:** `claude/intelligent-ride-oxqjfy` (this is the working branch for all sessions unless the user says otherwise).
-- **Pilot batches:** already built in `pilot/batches/` (manifest `pilot/batches/manifest_pilot.csv`); no need to rerun `make_batches.py --phase pilot`.
-- **Outputs so far:** none (`pilot/out/`, `out/`, `batches/` empty).
+- **Phase:** pilot — IN PROGRESS. `status.py`: pilot 5/15 batches validated (01 core … 05 cognitive), 150/426 records.
+- **Next pending batch:** 06 foundational (`python3 scripts/status.py next 5 --phase pilot`).
+- **How generation is being done (user instruction 2026-09-29):** the main session writes the records itself — **no subagents unless unavoidable**. Per batch: write a small Python file in the scratchpad that lists (sno, variant, passage, 4×(q,a), grounding) and calls a helper which copies age/topic/subtopic/subtype/recipe from the batch JSON and writes the JSONL to the manifest out path; then `validate_jsonl.py --mark`. The helper is trivial to recreate (see Session log); the generator files are scratch and are not committed — the validated `.jsonl` + `.ok` files are the record.
+- **Branch:** `claude/intelligent-ride-oxqjfy`. Validated pilot outputs (`pilot/out/**.jsonl` + `.ok`) are committed here as working state so a new container can resume. They are NOT pushed via `commit_rows.py` (pilot rows go to data/rows only if the user asks).
 - **Blocked batches:** none.
-- **Open decisions waiting on the user:** see below.
 
-## Next action
+### Pilot first-try results (feeds PILOT_REPORT.md)
+| Stage | First-try rows passed | Failure reasons | Fixed in 1 repair |
+|---|---|---|---|
+| 01 core | 10/10 | — | n/a |
+| 02 expression | 10/10 | — | n/a |
+| 03 situational | 8/10 | literal-answer word overlap: a word in single quotes ('cringe) and a plural (biscuits vs biscuit) | yes |
+| 04 dynamics | 10/10 | — (self-review caught real cricketer names in S2974 v1; replaced) | n/a |
+| 05 cognitive | 8/10 | literal-answer singular/plural miss; one R6 chat passage 72 words (<90 min) | yes |
 
-Start the pilot per `RUN_IN_CLAUDE_CODE.md` (PHASE=pilot, 5 batches per run), **only when the user asks to generate**:
-```
-python3 scripts/status.py next 5 --phase pilot
-# one sonnet subagent per batch: system rules = prompts/MASTER.txt, message = batch .txt, write JSONL to out path
-python3 scripts/validate_jsonl.py <batch_json> <out.jsonl> --mark
-python3 scripts/status.py
-```
-After all 15 pilot batches: write the pilot quality report (per stage: first-try pass rate, failure reasons, tone, age fit, recipe adherence, emoji use) into `PILOT_REPORT.md` and STOP — do not scale to phase1 without the user's go-ahead.
+Validator observations so far: the literal-answer check tokenises on `[a-z']+`, so quoted words and plural/singular differences fail even when the answer is correct; short-line chat recipes (R6) run short on word count at 13+ ages.
 
 ## Open decisions / questions for the user
 
@@ -60,3 +58,4 @@ After all 15 pilot batches: write the pilot quality report (per stage: first-try
 ## Session log (append newest at the bottom)
 
 - **2026-09-29 — session 1:** Repo was empty. Unpacked `human_dev_pack.zip` (89 entries) into the repo root, read README, RUN_IN_CLAUDE_CODE, CLAUDE.md, config, prompt structure, specs and scripts. Verified `status.py` runs (pilot 0/15). Found the three open points above. Created this HANDOVER.md, added a pointer to it in CLAUDE.md, committed and pushed to `claude/intelligent-ride-oxqjfy`. No generation done yet.
+- **2026-09-29 — session 1 (cont.):** User said start the pilot, avoid subagents. Generated and validated pilot batches 01–05 in-session (150 records). Helper: `emit(batch_json, out, items)` builds each record as {sno, variant, recipe=plan[variant], age, topic, subtopic, subtype from batch row, passage (whitespace-normalised per line, newlines kept for chat/letters), qa typed literal/mental_state/application/perspective, grounding}. Committed pilot outputs + .ok markers + this file.
