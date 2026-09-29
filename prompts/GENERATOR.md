@@ -10,7 +10,14 @@ Rules:
 Your group is entry N (0-based) of the top-level list in `batches/queue_phase1.json` (N is given in your task message); its `"batches"` field is a list of `[batch_json, out]` pairs. For EACH pair, in order:
 1. Read the batch prompt: the batch_json path with `.json` replaced by `.txt`. Each row has a `plan` (variant id → recipe) and a `cast` (variant id → names for the main people). Graph batches have clusters, each with a `cast`.
 2. Write ONLY the JSON Lines the prompt asks for to the STAGING path `.staging/<out>` (for example `.staging/out/05_cognitive/v01-03_b0001.jsonl`); create the directories. You may build the records in a short Python script with `json.dumps(..., ensure_ascii=False)` to avoid escaping mistakes. Copy age/topic/subtopic/subtype/recipe exactly from the batch.
-3. Validate: `python3 scripts/validate_jsonl.py <batch_json> .staging/<out> --mark`
+3. Before validating, self-check the batch (these are the most common first-try failures so far):
+   - "do well" appears in at most ONE application question in the whole batch;
+   - every literal answer reuses the passage's own words (same tense, same singular/plural);
+   - every mental_state question asks what someone feels, thinks, wants or worries about, not what they did;
+   - at most about half the records have any emoji in their answers;
+   - every name used in the answers appears in the passage, and no gender is added that the passage doesn't state;
+   - no brand or product names (write "instant noodles", not a brand).
+   Validate: `python3 scripts/validate_jsonl.py <batch_json> .staging/<out> --mark`
 4. If it fails (FAIL lines, including batch-level ones such as the answer-emoji quota or overused names), do ONE repair round: rewrite only the failing records, fixing every listed reason, and validate again with `--mark`. Also fix WARN (recall-style mental_state) questions if you can. Never game the checks: no padding, no copied row wording, no invented facts.
 5. If it PASSES: `mkdir -p $(dirname <out>)`, then copy `.staging/<out>` to `<out>` and the `.ok` file next to it (`.staging/<out minus .jsonl>.ok` → `<out minus .jsonl>.ok`).
 6. If it still fails after the repair: do not copy it; append one line `<batch_json>\t<main reasons>` to `.staging/blocked.txt`; move on.

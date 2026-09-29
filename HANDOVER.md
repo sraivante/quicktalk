@@ -38,7 +38,7 @@ How it runs:
 - Run 5 agents at a time.
 
 **Queue progress:** groups 0–5, 7 and 10 are done (all pass, 0 blocked). Groups 6, 8, 9, 11 and 12 have been launched (running or unsynced). Launch the next groups in order from **13**.
-**Flag for the critic sample** (sensitive rows the agents reported): core 141, 144, 150 (mortality/grief/child labour/device defect), 174, 191, 205, 209 (unsafe touch, online pressure, puberty, abuse reporting), 231, 252 (sexual health), 258 (addiction).
+**Flag for the critic sample** (sensitive rows the agents reported): core 225 (blackmail/grooming), 232 (controlling relationship), 233 (grief), 235 (friend in distress), 141, 144, 150 (mortality/grief/child labour/device defect), 174, 191, 205, 209 (unsafe touch, online pressure, puberty, abuse reporting), 231, 252 (sexual health), 258 (addiction).
 **Fixes made during the run:**
 - per-agent scratch folders, and no direct writes to `out/` (GENERATOR.md);
 - cast names capped at 2 per batch; the phase1 batch files were rebuilt with the same rows and plans (make_batches.py).
