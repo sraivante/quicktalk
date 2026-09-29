@@ -138,4 +138,4 @@ python3 scripts/export_dataset.py
   - a per-index hash in `cast_for` to break the fixed pairs;
   - then rerunning `make_batches.py --phase phase1` to rebuild MASTER.txt and the casts.
   Until then, the launch prompts carry the narrator, perspective, R2 and disclosure guidance.
-  **Next:** build `batches/queue_repair3.json` from the 57 critic fixes (also run on same-pattern records?), and continue gen from 60.
+  **Next:** `batches/queue_repair3.json` is built (6 groups, 46 batches, 57 notes, Opus). Launched repair3 group 0. Remaining: repair3 groups 1–5, and gen from 60.

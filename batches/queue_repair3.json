@@ -1,0 +1,576 @@
+[
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0001.json",
+    "out/03_situational/v01-01_b0001.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0009.json",
+    "out/03_situational/v01-01_b0009.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0014.json",
+    "out/03_situational/v01-01_b0014.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0017.json",
+    "out/03_situational/v01-01_b0017.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0018.json",
+    "out/03_situational/v01-01_b0018.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0033.json",
+    "out/03_situational/v01-01_b0033.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0046.json",
+    "out/03_situational/v01-01_b0046.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0053.json",
+    "out/03_situational/v01-01_b0053.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 326,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0001.jsonl",
+    "issue": "Emoji rule for ages 4-6: the child never types emojis and only a caregiver's or teacher's note may use them; the passage ends a child's spoken line with 😊; Speaker attribution is missing throughout, so it is hard to tell who offers what (the answers depend on it); Recipe R2 asks for a family or home scene; no setting is given | SUGGESTED: Remove the passage emoji; add a setting ('On the balcony at Rajni's flat...') and a few tags ('said Rajni', 'Sunaina held out')."
+   },
+   {
+    "sno": 398,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0009.jsonl",
+    "issue": "emoji: the application answer ends with 😊, but Ines 'still felt heavy' after a rejection. A cheerful emoji does not match the scene | SUGGESTED: Remove the 😊 (or use none; a shame scene is better without one)."
+   },
+   {
+    "sno": 449,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0014.jsonl",
+    "issue": "recipe: R7 asks for a rural or small-town Indian setting, but the passage has no rural or small-town detail (only 'back room' and 'Dadi'). The row does not stop a rural setting | SUGGESTED: Add one concrete detail, e.g. 'the back room of the farmhouse, next to where the goats were tied'."
+   },
+   {
+    "sno": 450,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0014.jsonl",
+    "issue": "Answers call the toddler Jasleen 'she', but the passage never genders Jasleen (only Alka gets 'She') | SUGGESTED: Use 'Jasleen' in the answers, or add 'her' in the passage (e.g. 'Jasleen beamed and clapped her hands')."
+   },
+   {
+    "sno": 480,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0017.jsonl",
+    "issue": "grounding: the application answer says 'A gentle nudge worked better than force', but the teacher gave no nudge; the note shows only waiting | SUGGESTED: Either add a nudge to the note (e.g. 'I said, \"The blocks look fun today\"') or change the answer to 'Giving time rather than force let him come round on his own.'"
+   },
+   {
+    "sno": 496,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0018.jsonl",
+    "issue": "pronoun: answers/grounding gender Hafsa as 'her' in the perspective answer, whose gender the passage never states (Hafsa is only named) | SUGGESTED: 'It is Hafsa's feeling, not proof that Nitin did wrong.'"
+   },
+   {
+    "sno": 489,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0018.jsonl",
+    "issue": "Application answer calls the teacher-narrator Sudha 'She', but the first-person note never genders Sudha; Minor: answer says 'after class', but the passage says 'afterwards' (after circle time); Cast pair Mohit and Sudha repeats sno 1333 (Sudha appears three times in this part) | SUGGESTED: 'Sudha spoke to Mohit quietly afterwards...'; vary names."
+   },
+   {
+    "sno": 640,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0033.jsonl",
+    "issue": "pronoun: answers/grounding gender Charu as 'she/her/herself' in the answers and grounding, whose gender the passage never states (first-person, 'My name is Charu' only) | SUGGESTED: Use 'Charu' in the answers and 'blames themself' or 'Charu blames...' in the grounding, or let Mummy use a gendered word in the passage."
+   },
+   {
+    "sno": 641,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0033.jsonl",
+    "issue": "pronoun: answers/grounding gender Lalit as 'his' in the perspective question, whose gender the passage never states (Lalit is only called 'beta', which is used for children of any gender); minor: the narrator names himself in the third person at the end ('Your grandfather Chaitanya learned...'), which is awkward | SUGGESTED: Rephrase the question to 'How might Lalit feel on hearing that Grandfather Chaitanya once wanted to hit someone?'; optionally name the narrator at the start ('I'm your Dadu, Chaitanya')."
+   },
+   {
+    "sno": 776,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0046.jsonl",
+    "issue": "perspective: the question 'How might the girls' table have seemed to Harshita?' centres the protagonist, not another person | SUGGESTED: Ask about a different person, e.g. 'How might the girl who said \"There is no space here\" see the moment?' or 'What is it like for Tejas to watch this?'"
+   },
+   {
+    "sno": 841,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0053.jsonl",
+    "issue": "pronoun: answers/grounding gender Chetan as 'he/his' in the mental_state and perspective answers, whose gender the passage never states (diary signed only '- Chetan'); emoji: 😊 sits mid-sentence in the application answer ('more questions 😊.') and reads as decoration | SUGGESTED: Replace he/his for Chetan with the name; drop the 😊 or move it to the end of the sentence."
+   }
+  ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0054.json",
+    "out/03_situational/v01-01_b0054.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0056.json",
+    "out/03_situational/v01-01_b0056.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0057.json",
+    "out/03_situational/v01-01_b0057.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0062.json",
+    "out/03_situational/v01-01_b0062.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0067.json",
+    "out/03_situational/v01-01_b0067.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0069.json",
+    "out/03_situational/v01-01_b0069.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0071.json",
+    "out/03_situational/v01-01_b0071.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0074.json",
+    "out/03_situational/v01-01_b0074.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 856,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0054.jsonl",
+    "issue": "Perspective answer calls Ganga 'she', but the passage never genders Ganga or states the relation; Recipe R2 asks for a family or home scene; this is set at a shop counter with an unexplained companion | SUGGESTED: Give Ganga a stated relation and pronoun (e.g. 'his sister Ganga'), or use 'Ganga' in the answer; move a beat to home (counting coins at home) or state they came from home."
+   },
+   {
+    "sno": 851,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0054.jsonl",
+    "issue": "Row description has a male classmate ('he too loves the country', 'welcome him'); the passage makes the classmate a girl (Irawati, 'hers'); Recipe R2 asks for a family or home scene; the scene is at school (flag group, new classmate) | SUGGESTED: Keep the row's male classmate (rename and use he/him), and set the talk at home or on the way home, e.g. with a sibling present, or pick a school recipe."
+   },
+   {
+    "sno": 874,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0056.jsonl",
+    "issue": "recipe: R7 asks for a rural or small-town Indian setting, but none is shown (only 'Mummy's phone', 'the kitchen'); note: the subtopic 'Chatting with an online stranger' does not match the row description (a classmate in a group chat); this is a CSV issue, not a generator defect | SUGGESTED: Add one small-town detail (e.g. 'the kitchen behind the family's kirana shop'). Report the subtopic mismatch to the owner."
+   },
+   {
+    "sno": 873,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0056.jsonl",
+    "issue": "Disclosure rule: a child tells a parent that a stranger is asking a friend for photos, but the passage stops at 'I told my mother everything'; it never shows the adult acting that day (e.g. telling Ritika's parents or the school) | SUGGESTED: Add one line: 'She listened, told me I had done nothing wrong, and phoned Ritika's mother that same evening.'"
+   },
+   {
+    "sno": 884,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0057.jsonl",
+    "issue": "pronoun: answers/grounding gender Akash as 'He', whose gender the passage never states (first-person observer, only 'I'm Akash') | SUGGESTED: Perspective answer: 'Akash notices her behaviour...' instead of 'He notices'."
+   },
+   {
+    "sno": 936,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0062.jsonl",
+    "issue": "emoji: 😊 sits in the narration at the very end of the passage (not in a line a character speaks or types), so it is decoration; pronoun: the perspective answer uses 'He' for Thomas, whose gender the passage never states | SUGGESTED: Remove the passage emoji (or move it to a spoken or typed line); write 'Thomas encouraged her...' in the perspective answer."
+   },
+   {
+    "sno": 981,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0067.jsonl",
+    "issue": "Mental_state and grounding call the diarist Payal 'she', but the passage never genders Payal (first-person diary, only a signature); Perspective question is framed around how Vandana helped Payal; the answer centres Payal's feelings rather than Vandana's view | SUGGESTED: Use 'Payal' or 'they' for the diarist; ask e.g. 'What might Vandana have been thinking as she sat on the steps without saying anything?'"
+   },
+   {
+    "sno": 980,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0067.jsonl",
+    "issue": "Perspective question asks how Harsha's mother saw 'his shrug', but the shrug was to his friend on Thursday; the mother never saw it (grounding); Cast pair Harsha and Gargi repeats sno 1535 in the same part | SUGGESTED: Ask instead 'How might Gargi have felt when Harsha said it still hurts?' (answer: surprised, ready to listen, putting the ladle down); vary names."
+   },
+   {
+    "sno": 1007,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0069.jsonl",
+    "issue": "'I was Ayesha then' reads as if the speaker's name has since changed; awkward self-introduction for the elder | SUGGESTED: 'I'm Ayesha. I was fifteen then, in class ten.'"
+   },
+   {
+    "sno": 1006,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0069.jsonl",
+    "issue": "Recipe R2 asks for a family or home scene; the talk is at the school cycle shed and a bus stop | SUGGESTED: Move the first exchange to one of their homes (e.g. doing homework at Anirban's), keeping the later text message."
+   },
+   {
+    "sno": 1022,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0071.jsonl",
+    "issue": "Answers call the elder Pooja 'she/her', but the passage never genders Pooja; 'I was Pooja then' reads as if the narrator's name has changed (same wording problem as sno 1007) | SUGGESTED: 'I'm Pooja. I was sixteen then...'; use 'Pooja' in the answers, or add a gender cue."
+   },
+   {
+    "sno": 1053,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0074.jsonl",
+    "issue": "Answers call Sharmila 'she/her', but the chat never genders Sharmila; Perspective answer is garbled and adds facts: Minakshi was not 'cried over in class' (she cried), and 'afraid to come to school' is not in the passage | SUGGESTED: Use 'Sharmila' instead of she/her; rewrite perspective: 'Minakshi might feel small and picked on; being called a nobody after crying in class would hurt.'"
+   },
+   {
+    "sno": 1050,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0074.jsonl",
+    "issue": "Answers call the letter-writer Arohi 'she', but the passage never genders Arohi | SUGGESTED: Use 'Arohi' in the answers. Optional: the perspective answer could note that Mrs Bhatt should talk to Arohi and pass it to the right person that same day."
+   }
+  ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0078.json",
+    "out/03_situational/v01-01_b0078.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0080.json",
+    "out/03_situational/v01-01_b0080.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0083.json",
+    "out/03_situational/v01-01_b0083.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0085.json",
+    "out/03_situational/v01-01_b0085.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0090.json",
+    "out/03_situational/v01-01_b0090.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0091.json",
+    "out/03_situational/v01-01_b0091.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0097.json",
+    "out/03_situational/v01-01_b0097.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0099.json",
+    "out/03_situational/v01-01_b0099.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 1093,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0078.jsonl",
+    "issue": "pronoun: answers/grounding gender Jasleen as 'she/her', whose gender the passage never states (first-person letter, signed only 'Jasleen'); minor wording: 'I wanted you to know, because I'm not alone in this' reads illogically | SUGGESTED: Replace she/her for Jasleen with the name or 'the writer', or have the passage state it (e.g. Masi calls her 'my girl'); change the last line to '...so that I'm not alone in this.'"
+   },
+   {
+    "sno": 1110,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0080.jsonl",
+    "issue": "pronoun: answers/grounding gender Rukmini as 'she/her' in the answers, whose gender the passage never states (diary, 'Rukmini here' only) | SUGGESTED: Use 'Rukmini' in place of she/her, or have Aparna didi call her by a gendered word in the passage."
+   },
+   {
+    "sno": 1139,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0083.jsonl",
+    "issue": "Mental_state answer is garbled: 'made her good parts believable' should be 'made the good parts believable' | SUGGESTED: Rewrite: 'Urmila's honesty about the long studies, clients and missed dinners made the good parts believable.'"
+   },
+   {
+    "sno": 1165,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0085.jsonl",
+    "issue": "Perspective question says 'from his side' for Madhav, whose gender the passage never states (the record is careful to keep Darshan ungendered) | SUGGESTED: 'What might Madhav's laugh mean from Madhav's side?'"
+   },
+   {
+    "sno": 1208,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0090.jsonl",
+    "issue": "Safety/fidelity: the online contact has already pushed secrecy ('he said they wouldn't get it'), which the row names as the signal to step back, yet the plan still goes ahead and the answers present it as the safe outcome; The mother's part is not shown: the plan changes after Zeenat shows her the chats, but whether a parent agreed is left implicit; Perspective answer calls the narrator Dilnaz 'she', but the passage never genders Dilnaz | SUGGESTED: Make the secrecy push the reason Zeenat pauses, and have her mother (not Zeenat alone) decide any meeting, in a public place with an adult; or have Zeenat step back. Use 'Dilnaz' in the answer."
+   },
+   {
+    "sno": 1210,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0090.jsonl",
+    "issue": "Perspective question is about how Mridul (the protagonist) came to see the gift, framed through Sumit; it does not centre another person's view; Disclosure/safeguarding: the teen tells his mother about a secrecy-seeking adult contact, but the passage never shows her response (listening, not blaming, acting that day); Sumit is used a third time in this part | SUGGESTED: Ask 'How might Mridul's mother react when he tells her at dinner?' and add one line: she thanks him, says it is not his fault, and they block and report the account that evening."
+   },
+   {
+    "sno": 1224,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0091.jsonl",
+    "issue": "Sensitive topic (substances, unsafe party): the application answer uses 👍, which is outside the gentle set (🤍 🫂 🙏) and slightly trivialising | SUGGESTED: Remove 👍 or use 🤍."
+   },
+   {
+    "sno": 1278,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0097.jsonl",
+    "issue": "Application question says 'if she fears', but the passage never genders the listener Simran | SUGGESTED: 'What could Simran do if afraid a bully will get back at them?'"
+   },
+   {
+    "sno": 1302,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0099.jsonl",
+    "issue": "Answers call Reena 'she/her' ('She asked him', 'her own friends'), but the first-person passage never genders Reena | SUGGESTED: Replace with 'Reena' / 'Reena's own friends'."
+   }
+  ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0101.json",
+    "out/03_situational/v01-01_b0101.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0102.json",
+    "out/03_situational/v01-01_b0102.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0104.json",
+    "out/03_situational/v01-01_b0104.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0105.json",
+    "out/03_situational/v01-01_b0105.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0107.json",
+    "out/03_situational/v01-01_b0107.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0108.json",
+    "out/03_situational/v01-01_b0108.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0112.json",
+    "out/03_situational/v01-01_b0112.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0113.json",
+    "out/03_situational/v01-01_b0113.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 1321,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0101.jsonl",
+    "issue": "pronoun: answers/grounding gender Rekha as 'she/her' in all answers, whose gender the passage never states (spoken monologue, only 'Me, Rekha') | SUGGESTED: Use 'Rekha' in place of she/her, or give Rekha a gendered cue in the passage."
+   },
+   {
+    "sno": 1336,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0102.jsonl",
+    "issue": "Answers call the diarist Lavanya 'she/her', but the passage never genders Lavanya | SUGGESTED: Use 'Lavanya' in the answers ('Lavanya writes that they are sitting on Lavanya's chest')."
+   },
+   {
+    "sno": 1348,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0104.jsonl",
+    "issue": "Answers call the narrator Anjali 'she/her' ('She was afraid', 'respects her'), but the first-person passage never genders Anjali (Joseph is 'he'); Cast pair Anjali and Joseph repeats sno 1675 (Anjali appears three times in this part) | SUGGESTED: Use 'Anjali' in the answers, or gender Anjali in the passage; vary names."
+   },
+   {
+    "sno": 1367,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0105.jsonl",
+    "issue": "pronoun: answers/grounding gender Tanuja as 'her/she', whose gender the passage never states (first-person, 'My name is Tanuja' only) | SUGGESTED: Use 'Tanuja' in the mental_state and application answers instead of her/she."
+   },
+   {
+    "sno": 1386,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0107.jsonl",
+    "issue": "consistency: 'on Thursday he wanted her to come ... for dinner' conflicts with 'Rhea's coming Saturday evening' | SUGGESTED: Change the opening to 'Uday wanted Rhea to come to the Pune flat for dinner on Saturday and stay late' (or say that the thought came on Thursday)."
+   },
+   {
+    "sno": 1395,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0108.jsonl",
+    "issue": "Answers use 'her' for Himani ('presented it to her mother', 'not against her'), but the passage never genders the first-person speaker | SUGGESTED: Replace with 'Himani's mother' / 'not against Himani'."
+   },
+   {
+    "sno": 1396,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0108.jsonl",
+    "issue": "Grounding calls Parul 'her'/'she', but the chat never genders Parul (answers correctly avoid it) | SUGGESTED: Grounding: 'Parul is furious that the parents ignore what Parul wants...'."
+   },
+   {
+    "sno": 1432,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0112.jsonl",
+    "issue": "Answers call Naveen 'he' throughout, but the first-person passage never genders Naveen | SUGGESTED: Use 'Naveen' in the answers, or add a gendering cue in the passage."
+   },
+   {
+    "sno": 1447,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0113.jsonl",
+    "issue": "pronoun: answers/grounding gender Samir as 'He' in the application answer, whose gender the passage never states (first-person, 'I'm Samir' only) | SUGGESTED: Write 'Samir sat down and did the charts Samir owed...' or restructure the sentence."
+   }
+  ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0116.json",
+    "out/03_situational/v01-01_b0116.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0118.json",
+    "out/03_situational/v01-01_b0118.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0121.json",
+    "out/03_situational/v01-01_b0121.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0132.json",
+    "out/03_situational/v01-01_b0132.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0137.json",
+    "out/03_situational/v01-01_b0137.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0139.json",
+    "out/03_situational/v01-01_b0139.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0140.json",
+    "out/03_situational/v01-01_b0140.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0148.json",
+    "out/03_situational/v01-01_b0148.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 1472,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0116.jsonl",
+    "issue": "Answers call Sarita 'she/her', but the passage never genders Sarita (only Vijay is 'he'); Cast pair Vijay and Sarita repeats sno 703 | SUGGESTED: Use 'Sarita' in the answers, or add a pronoun cue in the passage."
+   },
+   {
+    "sno": 1496,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0118.jsonl",
+    "issue": "Mental_state answer says 'Alka says she can't tell', but the first-person passage never genders Alka | SUGGESTED: '...though Alka can't tell for sure what is in his mind.'"
+   },
+   {
+    "sno": 1527,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0121.jsonl",
+    "issue": "Recipe R2 asks for a family or home scene; the whole scene is at a work counter and pantry | SUGGESTED: Keep the counter moment brief, then move the talk to home (e.g. Manjula telling a sibling or parent at dinner, who gives the refuse-and-report advice)."
+   },
+   {
+    "sno": 1636,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0132.jsonl",
+    "issue": "safety/legal-adjacent: the closing 'Tomorrow I'll copy the files at home, not at the office' has the writer act on company documents before the lawyer talk that Charu just advised, and it could be read as a how-to. The row wants the safest proper channel | SUGGESTED: End with, e.g., 'Tomorrow I'll read the whistleblower policy and ask Charu to set up the lawyer call before I do anything else.'"
+   },
+   {
+    "sno": 1684,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0137.jsonl",
+    "issue": "Row is about being married; the passage never says Abhinav and the partner are married, yet the application answer and grounding speak of 'the marriage' and 'a married person' | SUGGESTED: Add one marriage cue to the passage (e.g. 'my wedding ring', 'since the wedding') or say 'the relationship' in the answers."
+   },
+   {
+    "sno": 1701,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0139.jsonl",
+    "issue": "Fidelity gap: the row's 'a little indebted' feeling is never shown; the scene carries gratitude and a boundary only; Cast names Payal and Vandana repeat sno 981 in the same part (Vandana as friend there, mother-in-law here); Application answer quotes the row description ('Help is a gift, not a purchase of control') in a slightly preachy way | SUGGESTED: Add one cue of indebtedness (e.g. Payal mentions feeling she owes Vandana and hesitates before saying no), vary names, and drop the quoted maxim from the answer."
+   },
+   {
+    "sno": 1705,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0139.jsonl",
+    "issue": "Perspective question asks how much the neighbour can tell (an evidence/recall question); the situational rule wants the counterpart (Rafiq) and how he sees the moment | SUGGESTED: Ask 'How might Rafiq have felt hearing Jahnavi ask to face it as a team?' and hedge it from the passage (quiet afterwards, calm morning)."
+   },
+   {
+    "sno": 1714,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0140.jsonl",
+    "issue": "Perspective question ('How can the narrator tell that things improved?') is a recall/evidence question about the observer; it does not ask how the counterpart (Sumit's mother Urmila) sees the moment; Cast pair Sumit and Urmila repeats sno 1139 in this part | SUGGESTED: Ask 'How might Urmila have felt when Sumit explained what Sumit can and can't do?' (grounded in the shorter, warmer calls); vary names."
+   },
+   {
+    "sno": 1790,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0148.jsonl",
+    "issue": "form: the name 'Sabina' hangs at the end of a first-person reflective account with no break, like a stray signature, so the narrator's name reads as a mistake | SUGGESTED: Put the name in naturally, e.g. open with 'I'm Sabina, and three interviews had ended...', or put the sign-off on its own line."
+   }
+  ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0159.json",
+    "out/03_situational/v01-01_b0159.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0168.json",
+    "out/03_situational/v01-01_b0168.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0170.json",
+    "out/03_situational/v01-01_b0170.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0171.json",
+    "out/03_situational/v01-01_b0171.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0172.json",
+    "out/03_situational/v01-01_b0172.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0173.json",
+    "out/03_situational/v01-01_b0173.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 1903,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0159.jsonl",
+    "issue": "Grounding says 'her parents', but the chat never genders Elizabeth (answers correctly use the name) | SUGGESTED: Grounding: 'Elizabeth fears the parents' judgment over a legal notice...'."
+   },
+   {
+    "sno": 1992,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0168.jsonl",
+    "issue": "Perspective question centres Charu, the newcomer and protagonist of the row ('you' who receives the lifeline and will pay it forward); it should centre someone else | SUGGESTED: Ask 'Why might Rekha push Charu toward trivia night instead of only the group dinners?' or 'How might Charu's colleagues see Charu joining trivia?'"
+   },
+   {
+    "sno": 2011,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0170.jsonl",
+    "issue": "pronoun: answers/grounding gender Karthik as 'He/him' in the mental_state and application answers, whose gender the passage never states (elder monologue, 'I, Karthik' only) | SUGGESTED: Use 'Karthik' in place of he/him, or have the passage give a gendered cue."
+   },
+   {
+    "sno": 2020,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0171.jsonl",
+    "issue": "fidelity: the row's key messages 'it was not your fault' and 'healing has no deadline' are never shown. The only line about time is 'Everyone said she should have moved on by now', and it goes unanswered, so the passage can read as backing the deadline belief | SUGGESTED: Have Jomon add one line, e.g. 'Taking a bus was not your fault. And there's no clock on this.' The application answer can then say this."
+   },
+   {
+    "sno": 2033,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0172.jsonl",
+    "issue": "Emoji mismatch: the perspective answer describes Ishita as 'embarrassed or defensive' and ends with 🙂 | SUGGESTED: Drop the 🙂 (the record already has no need for an answer emoji)."
+   },
+   {
+    "sno": 2041,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0173.jsonl",
+    "issue": "Passage grammar slip: 'then said feeling lighter' (repeated in the mental_state answer); Application question says 'keep her peace', but the passage never genders Hafsa (grounding uses 'Hafsa' elsewhere) | SUGGESTED: 'then said she felt lighter' only if Hafsa is gendered in the passage; otherwise 'then said it felt lighter'. Change the question to 'How did Hafsa keep the peace while staying safe?'"
+   }
+  ]
+ }
+]
