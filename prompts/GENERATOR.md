@@ -16,6 +16,7 @@ Your group is entry N (0-based) of the top-level list in `batches/queue_phase1.j
    - every mental_state question asks what someone feels, thinks, wants or worries about, not what they did;
    - at most about half the records have any emoji in their answers;
    - every name used in the answers appears in the passage, and no gender is added that the passage doesn't state;
+   - the row description wins over the cast: if the row fixes a person's gender or role (e.g. "her friend"), keep it and pick a different fitting name rather than changing the person;
    - no brand or product names (write "instant noodles", not a brand).
    Validate: `python3 scripts/validate_jsonl.py <batch_json> .staging/<out> --mark`
 4. If it fails (FAIL lines, including batch-level ones such as the answer-emoji quota or overused names), do ONE repair round: rewrite only the failing records, fixing every listed reason, and validate again with `--mark`. Also fix WARN (recall-style mental_state) questions if you can. Never game the checks: no padding, no copied row wording, no invented facts.
