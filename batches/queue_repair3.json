@@ -572,5 +572,49 @@
     "issue": "Passage grammar slip: 'then said feeling lighter' (repeated in the mental_state answer); Application question says 'keep her peace', but the passage never genders Hafsa (grounding uses 'Hafsa' elsewhere) | SUGGESTED: 'then said she felt lighter' only if Hafsa is gendered in the passage; otherwise 'then said it felt lighter'. Change the question to 'How did Hafsa keep the peace while staying safe?'"
    }
   ]
+ },
+ {
+  "stage": "03_situational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/03_situational/v01-01_b0121.json",
+    "out/03_situational/v01-01_b0121.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0137.json",
+    "out/03_situational/v01-01_b0137.jsonl"
+   ],
+   [
+    "batches/03_situational/v01-01_b0148.json",
+    "out/03_situational/v01-01_b0148.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 1682,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0137.jsonl",
+    "issue": "Answers speak of \"the marriage\" but the passage never says the couple is married; add a marriage cue to the passage or reword the answers"
+   },
+   {
+    "sno": 1683,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0137.jsonl",
+    "issue": "Same as 1682: \"the marriage\" in the mental_state answer without a marriage cue in the passage"
+   },
+   {
+    "sno": 1522,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0121.jsonl",
+    "issue": "The signature \"Imran\" hangs off the last sentence; introduce the narrator earlier (\"I'm Imran, ...\") or give the signature its own line"
+   },
+   {
+    "sno": 1791,
+    "variant": 1,
+    "batch": "out/03_situational/v01-01_b0148.jsonl",
+    "issue": "The signature \"Mohit\" hangs off the last sentence; introduce the narrator earlier or give the signature its own line"
+   }
+  ]
  }
 ]

@@ -150,3 +150,4 @@ python3 scripts/export_dataset.py
   - 987 and 1050 (R10 letters): the agent added a short same-day adult reply; review whether a second voice fits R10.
   - CSV issue for the user: sno 874's subtopic ("Chatting with an online stranger") does not match its description (a classmate's group-chat post).
   Launched repair3 group 4. Running: gen 56, 58, 59, 60 and repair3 3 and 4. **Next:** repair3 group 5, gen 61.
+- **Session 1 (cont.):** Repair3 groups 3 and 4 are done (b0101–b0148). 1636's closing now reads the policy and books the lawyer call first. 1684 has a wedding-ring cue. 1701 has an indebtedness cue. The critic's cast-pair notes (1348, 1472, 1701, 1714) were not applied (they keep the row cast); they depend on the cast-picker fix awaiting approval. Added repair3 **group 6** (1682, 1683: "marriage" without a cue; 1522, 1791: hanging signatures) and launched it with group 5. Running: gen 56, 58, 59, 60 and repair3 5 and 6. **Next:** gen 61.
