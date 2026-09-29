@@ -1,0 +1,462 @@
+[
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0001.json",
+"out/01_core/v01-03_b0001.jsonl"
+],
+[
+"batches/01_core/v01-03_b0002.json",
+"out/01_core/v01-03_b0002.jsonl"
+],
+[
+"batches/01_core/v01-03_b0006.json",
+"out/01_core/v01-03_b0006.jsonl"
+],
+[
+"batches/01_core/v01-03_b0007.json",
+"out/01_core/v01-03_b0007.jsonl"
+],
+[
+"batches/01_core/v01-03_b0008.json",
+"out/01_core/v01-03_b0008.jsonl"
+],
+[
+"batches/01_core/v01-03_b0009.json",
+"out/01_core/v01-03_b0009.jsonl"
+],
+[
+"batches/01_core/v01-03_b0010.json",
+"out/01_core/v01-03_b0010.jsonl"
+],
+[
+"batches/01_core/v01-03_b0011.json",
+"out/01_core/v01-03_b0011.jsonl"
+]
+],
+"critic": [
+{
+"sno": 57,
+"variant": 3,
+"issues": [
+"Answers name the diarist 'Tushar' and say 'each brother'; passage gives neither the narrator's name nor the relation to Vishal"
+]
+},
+{
+"sno": 74,
+"variant": 2,
+"issues": [
+"Perspective Q 'How might Gopika feel carrying the patched bag' centres the protagonist",
+"Literal answer adds 'rupees'; passage says only 'Six hundred'"
+]
+},
+{
+"sno": 74,
+"variant": 3,
+"issues": [
+"Answers name the first-person narrator 'Anjali' and grounding says 'a girl'; passage gives no name or gender"
+]
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0012.json",
+"out/01_core/v01-03_b0012.jsonl"
+],
+[
+"batches/01_core/v01-03_b0013.json",
+"out/01_core/v01-03_b0013.jsonl"
+],
+[
+"batches/01_core/v01-03_b0014.json",
+"out/01_core/v01-03_b0014.jsonl"
+],
+[
+"batches/01_core/v01-03_b0015.json",
+"out/01_core/v01-03_b0015.jsonl"
+],
+[
+"batches/01_core/v01-03_b0016.json",
+"out/01_core/v01-03_b0016.jsonl"
+],
+[
+"batches/01_core/v01-03_b0017.json",
+"out/01_core/v01-03_b0017.jsonl"
+],
+[
+"batches/01_core/v01-03_b0018.json",
+"out/01_core/v01-03_b0018.jsonl"
+],
+[
+"batches/01_core/v01-03_b0019.json",
+"out/01_core/v01-03_b0019.jsonl"
+]
+],
+"critic": [
+{
+"sno": 130,
+"variant": 3,
+"issues": [
+"Answers name the speaker 'Jyoti' and use 'She'; passage never names or genders the speaker"
+]
+},
+{
+"sno": 146,
+"variant": 1,
+"issues": [
+"Answers name the elder 'Damini' and use 'her'; passage never names or genders the storyteller"
+]
+},
+{
+"sno": 150,
+"variant": 1,
+"issues": [
+"Speaker attribution broken: line 1 addresses 'Ritu', so line 3 should be the same speaker, yet it addresses 'Jatin bhaiya'; reader cannot tell who visited the supplier",
+"Mental_state answer assumes Ritu visited"
+]
+},
+{
+"sno": 174,
+"variant": 1,
+"issues": [
+"Application Q 'What is Zeenat's plan after this?' is literal recall, not application"
+]
+},
+{
+"sno": 174,
+"variant": 3,
+"issues": [
+"Perspective Q 'How is Emil affected by Bilal's calm reply?' centres the protagonist, not another person"
+]
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0020.json",
+"out/01_core/v01-03_b0020.jsonl"
+],
+[
+"batches/01_core/v01-03_b0021.json",
+"out/01_core/v01-03_b0021.jsonl"
+],
+[
+"batches/01_core/v01-03_b0024.json",
+"out/01_core/v01-03_b0024.jsonl"
+],
+[
+"batches/01_core/v01-03_b0026.json",
+"out/01_core/v01-03_b0026.jsonl"
+],
+[
+"batches/01_core/v01-03_b0028.json",
+"out/01_core/v01-03_b0028.jsonl"
+],
+[
+"batches/01_core/v01-03_b0029.json",
+"out/01_core/v01-03_b0029.jsonl"
+],
+[
+"batches/01_core/v01-03_b0030.json",
+"out/01_core/v01-03_b0030.jsonl"
+],
+[
+"batches/01_core/v01-03_b0031.json",
+"out/01_core/v01-03_b0031.jsonl"
+]
+],
+"critic": [
+{
+"sno": 195,
+"variant": 3,
+"issues": [
+"Literal answer 'He whispered' gives Yuki a gender the passage never states"
+]
+},
+{
+"sno": 203,
+"variant": 1,
+"issues": [
+"Fidelity partial: the row is admitting one's own mistake; Zeenat returns the shopkeeper's error but never owns her two-day delay, yet grounding claims 'admitting a mistake'"
+]
+},
+{
+"sno": 209,
+"variant": 2,
+"issues": [
+"Perspective answer gives the class teacher a gender ('She becomes one of his safe people'); passage does not state it",
+"Grounding assumes Sabina is 'a parent'; not stated"
+]
+},
+{
+"sno": 231,
+"variant": 1,
+"issues": [
+"Perspective Q 'How might the school session have felt different for Damini' centres the protagonist"
+]
+},
+{
+"sno": 234,
+"variant": 3,
+"issues": [
+"Mental_state answer only restates behaviour ('She cried quietly at night so her mother wouldn't hear') and never names the inner state (lonely, hurting, pretending)",
+"'She wrote that in her notebook. \ud83d\ude42' - emoji added to narration as decoration"
+]
+},
+{
+"sno": 235,
+"variant": 2,
+"issues": [
+"Application answer 'She noticed changes' gives the note-writing teacher a gender never stated",
+"'What did the teacher do well' template (also used in sno 188/5)"
+]
+},
+{
+"sno": 252,
+"variant": 3,
+"issues": [
+"Chronology muddled: 'In the morning ... she'd said she'd had too much to drink the night before and didn't want anything to happen'",
+"Condom detail reads as the narrator inventorying a flatmate's cabinet and knowing it was 'bought from the chemist'; observer cannot know that"
+]
+},
+{
+"sno": 258,
+"variant": 1,
+"issues": [
+"R2 needs a family/home scene; no home or family shown and Anand's relation to Karthik never stated, yet grounding calls him 'a friend'",
+"Perspective asks about 'Karthik's family', who are not in the passage"
+]
+},
+{
+"sno": 258,
+"variant": 2,
+"issues": [
+"Perspective answer adds a fact: 'is getting back in touch' with Siddharth; passage never says so"
+]
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0008.json",
+"out/01_core/v04-05_b0008.jsonl"
+],
+[
+"batches/01_core/v04-05_b0009.json",
+"out/01_core/v04-05_b0009.jsonl"
+],
+[
+"batches/01_core/v04-05_b0010.json",
+"out/01_core/v04-05_b0010.jsonl"
+],
+[
+"batches/01_core/v04-05_b0011.json",
+"out/01_core/v04-05_b0011.jsonl"
+],
+[
+"batches/01_core/v04-05_b0013.json",
+"out/01_core/v04-05_b0013.jsonl"
+],
+[
+"batches/01_core/v04-05_b0019.json",
+"out/01_core/v04-05_b0019.jsonl"
+],
+[
+"batches/01_core/v04-05_b0020.json",
+"out/01_core/v04-05_b0020.jsonl"
+],
+[
+"batches/01_core/v04-05_b0021.json",
+"out/01_core/v04-05_b0021.jsonl"
+]
+],
+"critic": []
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0022.json",
+"out/01_core/v04-05_b0022.jsonl"
+],
+[
+"batches/01_core/v04-05_b0023.json",
+"out/01_core/v04-05_b0023.jsonl"
+],
+[
+"batches/01_core/v04-05_b0024.json",
+"out/01_core/v04-05_b0024.jsonl"
+],
+[
+"batches/01_core/v04-05_b0025.json",
+"out/01_core/v04-05_b0025.jsonl"
+],
+[
+"batches/01_core/v04-05_b0026.json",
+"out/01_core/v04-05_b0026.jsonl"
+],
+[
+"batches/01_core/v04-05_b0027.json",
+"out/01_core/v04-05_b0027.jsonl"
+],
+[
+"batches/01_core/v04-05_b0028.json",
+"out/01_core/v04-05_b0028.jsonl"
+],
+[
+"batches/01_core/v04-05_b0029.json",
+"out/01_core/v04-05_b0029.jsonl"
+]
+],
+"critic": [
+{
+"sno": 225,
+"variant": 5,
+"issues": [
+"Application answer says 'telling a parent' but passage says 'tell Mami' (usually maternal uncle's wife); relation not established",
+"Recipe asks for a home/family scene; setting never shown"
+]
+},
+{
+"sno": 233,
+"variant": 4,
+"issues": [
+"Kinship error: 'Ammamma' is the maternal grandmother (Amma's mother), but the perspective answer says Appa was 'grieving his mother too'"
+]
+},
+{
+"sno": 252,
+"variant": 5,
+"issues": [
+"Answers name the elder 'Omkar'; the passage never names the speaker (added name)",
+"\ud83d\ude42 appended to last answer on a consent topic; sensitive-emoji rule allows \ud83e\udd0d/\ud83e\udec2/\ud83d\ude4f only"
+]
+},
+{
+"sno": 258,
+"variant": 5,
+"issues": [
+"Sensitive (addiction) record has two emojis in the passage ('\ud83e\udd0d not freaking out', 'tomorrow \ud83d\ude4f'); rule 10 allows at most one gentle emoji and only in an answer (conflicts with the R6 chat recipe)"
+]
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0030.json",
+"out/01_core/v04-05_b0030.jsonl"
+],
+[
+"batches/01_core/v04-05_b0031.json",
+"out/01_core/v04-05_b0031.jsonl"
+],
+[
+"batches/01_core/v04-05_b0032.json",
+"out/01_core/v04-05_b0032.jsonl"
+]
+],
+"critic": [
+{
+"sno": 317,
+"variant": 4,
+"issues": [
+"Answers call the unnamed speaker 'Vikas' and use 'himself'; passage names only the listener Deepak"
+]
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0001.json",
+"out/02_expression/v01-02_b0001.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0002.json",
+"out/02_expression/v01-02_b0002.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0003.json",
+"out/02_expression/v01-02_b0003.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0004.json",
+"out/02_expression/v01-02_b0004.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0005.json",
+"out/02_expression/v01-02_b0005.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0006.json",
+"out/02_expression/v01-02_b0006.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0019.json",
+"out/02_expression/v01-02_b0019.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0020.json",
+"out/02_expression/v01-02_b0020.jsonl"
+]
+],
+"critic": []
+},
+{
+"stage": "02_expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0021.json",
+"out/02_expression/v01-02_b0021.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0022.json",
+"out/02_expression/v01-02_b0022.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0024.json",
+"out/02_expression/v01-02_b0024.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0025.json",
+"out/02_expression/v01-02_b0025.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0026.json",
+"out/02_expression/v01-02_b0026.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0027.json",
+"out/02_expression/v01-02_b0027.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0037.json",
+"out/02_expression/v01-02_b0037.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0038.json",
+"out/02_expression/v01-02_b0038.jsonl"
+]
+],
+"critic": []
+}
+]

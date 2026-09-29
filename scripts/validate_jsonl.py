@@ -141,6 +141,9 @@ for i,l in enumerate(lines,1):
         if ecount(q['a'])>amax: f.append(f'v{r.get("variant")}: {ecount(q["a"])} emojis in an answer, max {amax}')
         if ecount(q['q'])>0: f.append(f'v{r.get("variant")}: emoji in a question')
     if sum(ecount(q['a'])>0 for q in qa)>2: f.append(f'v{r.get("variant")}: emoji in more than 2 answers')
+    ans_names=set(re.findall(r'\b[A-Z][a-z]+(?:-[a-z]+)?\b',' '.join(q['q']+' '+q['a'] for q in qa)))&NAMESET
+    missing=sorted(n for n in ans_names if not re.search(r'\b'+re.escape(n)+r'\b',p))
+    if missing: f.append(f'v{r.get("variant")}: name(s) {missing} used in questions/answers but not in the passage')
     lit=qa[0]['a']; pw=cw(p)
     if cw(lit) and len(cw(lit)&pw)/len(cw(lit))<0.5: f.append(f'v{r.get("variant")}: literal answer not found in passage')
     for q in qa:
@@ -160,6 +163,8 @@ batch_checks(allrecs, fails)
 for x in allrecs:
     qa_=x.get('qa')
     if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {x.get("sno")} v{x.get("variant")}: mental_state question may be plain recall: {qa_[1].get("q")}')
+last_emo=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])==4 and ecount(str(x['qa'][3].get('a','')))>0)
+if allrecs and last_emo>max(2,len(allrecs)//4): fails['batch'].append(f'{last_emo}/{len(allrecs)} records put an emoji on the last answer (max 25%); place emojis where the feeling is, not by habit at the end')
 emo_recs=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and any(isinstance(q,dict) and ecount(str(q.get('a','')))>0 for q in x['qa']))
 if allrecs and emo_recs>EMOQUOTA*len(allrecs): fails['batch'].append(f'{emo_recs}/{len(allrecs)} records have an answer emoji (max {int(EMOQUOTA*100)}%); leave about half with none')
 dw=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])>2 and 'do well' in str(x['qa'][2].get('q','')).lower())
