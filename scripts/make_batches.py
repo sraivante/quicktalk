@@ -25,13 +25,17 @@ cfg = json.load(open(J('config', 'variants.json'), encoding='utf-8'))
 rec = json.load(open(J('config', 'recipes.json'), encoding='utf-8'))
 AGES = rec['age_order']; RECIPES = rec['recipes']; TWISTS = rec['twists']
 NAMES = json.load(open(J('config', 'names.json'), encoding='utf-8'))
-def cast_for(key, recipe, n=2):
+def cast_for(key, recipe, n=2, used=None):
+    """Deterministic names; `used` (a dict name->count for the current batch) keeps any name to at most 2 uses per batch."""
     pool = NAMES['global'] if recipe.split('+')[0] == 'R8' else NAMES['india']
     h = int(hashlib.sha1(str(key).encode()).hexdigest(), 16)
-    out = []
+    out, i = [], 0
     while len(out) < n:
-        nm = pool[h % len(pool)]; h //= len(pool)
-        if nm not in out: out.append(nm)
+        nm = pool[(h + i * 7919) % len(pool)]; i += 1
+        if nm in out or (used is not None and used.get(nm, 0) >= 2 and i < 10 * len(pool)): continue
+        out.append(nm)
+    if used is not None:
+        for nm in out: used[nm] = used.get(nm, 0) + 1
     return out
 RPB = a.rows or cfg['rows_per_batch']; PASS = cfg['pass_size']
 after = a.after if a.after is not None else ('phase1' if a.phase == 'full' else 'none')
@@ -117,7 +121,8 @@ for si, (k, _) in enumerate(STAGES, 1):
         add = block('ADDENDUM graph')
         for bi in range(0, len(cs), cfg['clusters_per_batch']):
             chunk = cs[bi:bi + cfg['clusters_per_batch']]; n = bi // cfg['clusters_per_batch'] + 1
-            chunk = [dict(c, cast=cast_for(c['cluster_id'], 'R1', 3)) for c in chunk]
+            _seen = {}
+            chunk = [dict(c, cast=cast_for(c['cluster_id'], 'R1', 3, used=_seen)) for c in chunk]
             name = f'g_b{n:04d}'
             json.dump({'kind': 'cluster', 'stage': 'graph', 'variant_ids': [1], 'clusters': chunk}, open(os.path.join(d, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             pr = batch_t.replace('{{STAGE}}', 'graph (clusters of related framework rows)').replace('{{VARIANT_IDS}}', 'n/a (one record per cluster)').replace('{{V}}', '1').replace('{{N}}', str(len(chunk))).replace('{{TOTAL}}', str(len(chunk))).replace('{{RECIPES}}', 'not used in cluster mode').replace('{{ADDENDUM}}', add).replace('{{ROWS_JSON}}', '\n'.join(json.dumps(x, ensure_ascii=False) for x in chunk))
@@ -130,10 +135,10 @@ for si, (k, _) in enumerate(STAGES, 1):
         tag = f'v{ids[0]:02d}-{ids[-1]:02d}'
         for bi in range(0, len(rs), RPB):
             chunk = rs[bi:bi + RPB]; n = bi // RPB + 1; name = f'{tag}_b{n:04d}'
-            recs, used = [], []
+            recs, used, seen_names = [], [], {}
             for r in chunk:
                 sno = int(r['S.No']); plan = {str(v): recipe_for(sno, r['Age'], v) for v in ids}; used += plan.values()
-                cast = {v: cast_for(f'{sno}-{v}', c) for v, c in plan.items()}
+                cast = {v: cast_for(f'{sno}-{v}', c, used=seen_names) for v, c in plan.items()}
                 o = {'sno': sno, 'plan': plan, 'cast': cast, 'age': r['Age'], 'topic': r['Topic'], 'subtopic': r['Subtopic'], 'subtype': r['Subtype'], 'description': r['Human Learning & Development']}
                 if ctx.get(sno): o['graph_context'] = ctx[sno]
                 recs.append(o)
