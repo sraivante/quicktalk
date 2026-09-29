@@ -5276,5 +5276,40 @@
 "out/15_graph/g_b0157.jsonl"
 ]
 ]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0098.json",
+"out/03_situational/v01-01_b0098.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0104.json",
+"out/03_situational/v01-01_b0104.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0115.json",
+"out/03_situational/v01-01_b0115.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0116.json",
+"out/03_situational/v01-01_b0116.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0120.json",
+"out/03_situational/v01-01_b0120.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0121.json",
+"out/03_situational/v01-01_b0121.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0122.json",
+"out/03_situational/v01-01_b0122.jsonl"
+]
+],
+"note": "leftovers of groups 41,42,44,45 after usage-limit stop"
 }
 ]
