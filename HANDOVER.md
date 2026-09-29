@@ -143,3 +143,10 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** Repair3 group 0 is done (8 batches; 326, 398, 449, 480, 496, 640, 641, 776 and 841 per the critic, plus pronoun fixes). Launched repair3 group 2. Running: gen 55, 56, 58, 59 and repair3 1 and 2. Waiting on the user's OK for the blocked script edits (see above).
 - **Session 1 (cont.):** Gen group 55 is done (dynamics b0001–b0006; many cast renames to match the rows). Launched gen 60. Running: gen 56, 58, 59, 60 and repair3 1 and 2. **Next:** repair3 groups 3–5, gen 61.
 - **Session 1 (cont.):** Repair3 group 2 is done (b0078–b0099; 30 records). Safety: 1208 now ends the contact and blocks/reports with the mother, no meeting; 1210 shows the mother's same-day response. The narrator in 1210 was renamed Sumit → Nakul (the critic flagged Sumit as overused); the user may want to revert. Even after repair2, many narrator pronoun slips remained in these batches, so the hand checks miss some; a validator WARN would help (awaiting approval). Launched repair3 group 3.
+- **Session 1 (cont.):** Repair3 group 1 is done (b0054–b0074; 35 records).
+  - 851: classmate made male per the row.
+  - 873: mother's same-day response added.
+  - 874: small-town detail added.
+  - 987 and 1050 (R10 letters): the agent added a short same-day adult reply; review whether a second voice fits R10.
+  - CSV issue for the user: sno 874's subtopic ("Chatting with an online stranger") does not match its description (a classmate's group-chat post).
+  Launched repair3 group 4. Running: gen 56, 58, 59, 60 and repair3 3 and 4. **Next:** repair3 group 5, gen 61.
