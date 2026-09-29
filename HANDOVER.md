@@ -2,33 +2,53 @@
 
 This file keeps consecutive Claude Code sessions in sync. Every session:
 1. Reads this file, then README.md and CLAUDE.md.
-2. Runs `python3 scripts/status.py` and checks it agrees with **Current state** below (the `.ok` markers are the source of truth; if they disagree, trust the markers and fix this file).
-3. Updates **Current state**, **Next action** and appends to **Session log** after every meaningful step (each validated group of batches, each decision, each blocker) — not only at the end. Commit + push this file with the work it describes, so a container reset loses nothing.
+2. Runs `python3 scripts/status.py` and checks it agrees with **Current state** below (the `.ok` markers are the source of truth, but see the v1/v2 note below).
+3. Updates **Current state**, **Next action** and appends to **Session log** after every meaningful step (each validated group of batches, each decision, each blocker), not only at the end. Commit and push this file with the work it describes, so a container reset loses nothing.
 
 ---
 
-## Current state  (last updated: 2026-09-29, session 1 — pilot COMPLETE)
+## Current state  (last updated: 2026-09-29, session 1: fixes applied, v2 check done, critic running)
 
-- **Phase:** pilot — DONE. `status.py`: pilot 15/15 batches validated, 426/426 records. **Not scaled to phase1** (the pack's rule: stop after the pilot and report).
-- **Pilot report:** `PILOT_REPORT.md` has first-try pass rates per stage, strengths and weaknesses, validator notes, and recommended next steps. Read it before doing anything else.
-- **How generation was done (user instruction 2026-09-29):** the main session wrote all records itself — **no subagents unless unavoidable**. Per batch: a scratch Python file lists (sno, variant, passage, 4×(q,a), grounding); a helper copies age/topic/subtopic/subtype/recipe from the batch JSON, writes the JSONL to the manifest out path and warns when a passage is outside the nominal word range; then `validate_jsonl.py --mark`. The scratch files are not committed; the validated `.jsonl` + `.ok` files are the record.
-- **Branch:** `claude/intelligent-ride-oxqjfy`. Validated pilot outputs (`pilot/out/**`) are committed here as working state. Nothing has gone through `commit_rows.py`.
-- **Blocked batches:** none.
-- **CRITIC pass:** NOT run yet (it needs a different agent from the generator).
+- **User decision (2026-09-29):** "do as your recommended plan", meaning (1) apply fixes, (2) regenerate 2–3 pilot batches to check them, (3) run the critic, (4) then phase1, (5) judge phase1 before full. The user has granted permission to edit prompts, config and scripts for these fixes.
+- **Step 1 done: fixes applied** (commit 9ad8586):
+  - `config/names.json` plus a per-record `cast` in the batch JSON (make_batches.py);
+  - `config/blocklist.json` (brands and public figures);
+  - MASTER rule changes: cast names, no brands or apps, aim for mid-range length, emoji placement inside dialogue, question-frame and opening variety (new rule 14);
+  - `validate_jsonl.py`: quote- and plural-tolerant overlap, 5% lower length slack, blocklist, a name may appear in at most 3 records per batch, at most one "do well" question per batch, emoji in at most 2 answers, graph relational answers may use row labels;
+  - `commit_rows.py`: the commit trailer now comes from `--trailer` (no hard-coded session).
+- **Step 2 done: v2 regenerated** for pilot 06 foundational, 10 culture and 14 planning (commit aa80da1). All pass the new validator. Versus v1: 0 short passages (was 5–8 per batch), 0 "do well" questions (was 2–7), 50–56 distinct names (was 11–18). **Still weak:** in 10 and 14 nearly every record has an answer emoji; the "about half with none" guidance is not enforced by the validator.
+- **The other 12 pilot batches are still v1.** Their `.ok` markers came from the OLD validator; under the new validator most fail (short passages, "do well", 6 brand mentions, overused names). They are kept for comparison only and are not exported unless `--include-pilot` is passed. Do not treat them as good data.
+- **Step 3 in progress: critic.** A separate Opus agent is reviewing `pilot/critic/sample.jsonl` (129 records: all 90 v2, 6 graph, 33 v1). Outputs go to `pilot/critic/critic_pilot.jsonl` and `pilot/critic/critic_summary.md`. If those files are missing, the session ended first: rerun the critic with the prompt in `prompts/training_data_prompt.md` [CRITIC] on the same sample.
+- **How generation is done:** the main session writes records itself (the user prefers no subagents except where needed, e.g. the critic, which must be a separate agent). A scratch helper copies metadata and recipe from the batch JSON, writes the JSONL and warns on the nominal word range; then `validate_jsonl.py --mark`. Scratch files are not committed.
+- **Branch:** `claude/intelligent-ride-oxqjfy`. Nothing has been pushed through `commit_rows.py` yet.
+
+## Next action
+
+1. When the critic finishes: read `pilot/critic/critic_summary.md`, apply any clear prompt or validator fixes it points to, and add a "Critic results" section to `PILOT_REPORT.md`. Commit and push.
+2. Then **phase1**: `python3 scripts/make_batches.py --phase phase1` (about 1,050 batches, about 16,200 records). This needs parallel generation (subagents or several sessions over days). Before launching at scale, tell the user the pace, the usage and the model choice.
+3. After phase1: run the critic on about 5% per stage, then `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
+
+Reference commands:
+```
+python3 scripts/status.py                  # progress
+python3 scripts/status.py next 5 --phase phase1
+python3 scripts/validate_jsonl.py <batch_json> <out.jsonl> --mark
+python3 scripts/commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy --trailer "Co-Authored-By: ...\nClaude-Session: ..."
+python3 scripts/export_dataset.py
+```
 
 ## Open decisions / questions for the user
 
-1. **Commit target for generated rows.** `scripts/commit_rows.py` defaults to `--branch main` and pushes there. The session rule is to push only to `claude/intelligent-ride-oxqjfy`, so run it as
-   `python3 scripts/commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy` unless the user approves `main`. Pilot rows are not committed unless the user asks (`--include-pilot`).
-2. **Stale commit trailer in `commit_rows.py`.** Its `TRAILER` constant names an older session URL and a fixed model. Per CLAUDE.md, scripts/config/prompts are not edited without approval — ask before changing it.
-3. **Pack tooling lives in the data repo.** The pack's own docs assume a separate clone of `quicktalk`; here the pack was committed into `quicktalk` itself (so any future session can resume). `commit_rows.py --repo .` then writes `data/rows/*.jsonl` next to `data/human_development_framework_v9.csv` — no clash, but confirm the user is happy with this layout before large commits.
+1. **Commit target for generated rows.** Run `commit_rows.py` with `--branch claude/intelligent-ride-oxqjfy` unless the user approves `main`. Pilot rows are not committed unless the user asks (`--include-pilot`).
+2. **Pack tooling lives in the data repo.** `commit_rows.py --repo .` writes `data/rows/*.jsonl` next to the framework CSV. There is no clash, but confirm the user is happy with this layout before large commits.
+3. **How to generate phase1 at scale** (subagents in parallel vs. many in-session runs): the user's preference was "no subagents unless it's a must". At ~1,050 batches it is effectively a must; confirm with the user.
 
 ## Environment notes
 
-- Python 3.11. `validate_jsonl.py`, `status.py`, `make_batches.py`, `export_dataset.py`, `commit_rows.py` use only the stdlib — they work as-is.
-- `build_kg.py` needs `networkx` + `scikit-learn` (not installed). Only needed if the CSV changes; `kg/` ships pre-built.
-- Cloud container is ephemeral: anything not committed and pushed is lost. Commit `pilot/out/`/`out/` outputs + `.ok` markers + this file after each validated group so resume state survives.
-- Model guidance (README): Sonnet for bulk/tier C/repairs; Opus for tier A, sensitive stages (deception, personality, body, dynamics) and the critic. Generator and critic must be different agents.
+- Python 3.11. `validate_jsonl.py`, `status.py`, `make_batches.py`, `export_dataset.py` and `commit_rows.py` use only the stdlib.
+- `build_kg.py` needs `networkx` + `scikit-learn` (not installed). It is only needed if the CSV changes; `kg/` ships pre-built.
+- The cloud container is ephemeral: commit outputs, `.ok` markers and this file after each validated group.
+- Model guidance (README): Sonnet for bulk, tier C and repairs; Opus for tier A, the sensitive stages and the critic. The generator and the critic must be different agents.
 
 ## Pack map (quick reference)
 
@@ -36,18 +56,20 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 |---|---|
 | `README.md` | Plan: 15 stages, tiers A/B/C/G, phases pilot → phase1 (~16.2k records) → full (~46.7k) |
 | `RUN_IN_CLAUDE_CODE.md` | Orchestrator loop for subagent generation |
-| `CLAUDE.md` | Project rules (safety, no hand-edits of batches/out, sonnet generators, never fabricate/pad) |
+| `CLAUDE.md` | Project rules (safety, no hand-edits of batches/out, never fabricate/pad) |
+| `PILOT_REPORT.md` | Pilot findings and recommendations |
 | `data/human_development_framework_v9.csv` | 7,689 rows, ages 1–3 … 23–26, 57 topics |
 | `kg/` | Pre-built knowledge graph (10,032 nodes, 54,893 edges, 940 clusters) |
 | `config/variants.json`, `config/recipes.json` | Variant counts per tier/phase; recipes R1–R15, twists T1–T6 |
+| `config/names.json`, `config/blocklist.json` | Name pool for casts; banned brands and public figures |
 | `prompts/training_data_prompt.md` → `prompts/MASTER.txt` | MASTER system prompt, BATCH template, stage addenda, CRITIC, REPAIR |
 | `scripts/` | make_batches, validate_jsonl, status, export_dataset, commit_rows, build_kg |
-| `pilot/batches/` | 15 ready pilot batches (14 stages × 10 rows × 3 variants + 6 graph clusters) |
-| `spec/`, `source/` | How the rows were authored; reference only |
+| `pilot/batches/`, `pilot/out/` | Pilot inputs and outputs (06, 10, 14 are v2; the rest are v1) |
+| `pilot/critic/` | Critic sample, verdicts and summary |
 
 ## Session log (append newest at the bottom)
 
-- **2026-09-29 — session 1:** Repo was empty. Unpacked `human_dev_pack.zip` (89 entries) into the repo root, read README, RUN_IN_CLAUDE_CODE, CLAUDE.md, config, prompt structure, specs and scripts. Verified `status.py` runs (pilot 0/15). Found the three open points above. Created this HANDOVER.md, added a pointer to it in CLAUDE.md, committed and pushed to `claude/intelligent-ride-oxqjfy`. No generation done yet.
-- **2026-09-29 — session 1 (cont.):** User said start the pilot, avoid subagents. Generated and validated pilot batches 01–05 in-session (150 records). Helper: `emit(batch_json, out, items)` builds each record as {sno, variant, recipe=plan[variant], age, topic, subtopic, subtype from batch row, passage (whitespace-normalised per line, newlines kept for chat/letters), qa typed literal/mental_state/application/perspective, grounding}. Committed pilot outputs + .ok markers + this file.
-- **2026-09-29 — session 1 (cont.):** Pilot batches 06–10 generated and validated (300/426 records total). Added nominal word-count warning to the helper.
-- **2026-09-29 — session 1 (cont.):** Pilot batches 11–15 generated and validated; the pilot is complete (426 records). Wrote PILOT_REPORT.md. Stopped before phase1 as the pack instructs.
+- **2026-09-29, session 1:** The repo was empty. Unpacked `human_dev_pack.zip` into the repo root, read the docs and scripts, created this HANDOVER.md and pointed CLAUDE.md at it.
+- **Session 1 (cont.):** The user said to start the pilot without subagents. Generated and validated all 15 pilot batches in-session (426 records). First try: 132/146 units passed; all failures were mechanical and fixed in one repair.
+- **Session 1 (cont.):** Wrote PILOT_REPORT.md: repetitive question templates, repeated names, short 13+ passages, formulaic emojis, and brand or real-person slips the validator cannot see.
+- **Session 1 (cont.):** The user approved the full plan. Applied the fixes, rebuilt the pilot batches with casts, regenerated 06, 10 and 14 as v2 (all pass, clear gains), and launched the critic on a 129-record sample.
