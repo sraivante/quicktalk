@@ -139,3 +139,4 @@ python3 scripts/export_dataset.py
   - then rerunning `make_batches.py --phase phase1` to rebuild MASTER.txt and the casts.
   Until then, the launch prompts carry the narrator, perspective, R2 and disclosure guidance.
   **Next:** `batches/queue_repair3.json` is built (6 groups, 46 batches, 57 notes, Opus). Launched repair3 group 0. Remaining: repair3 groups 1–5, and gen from 60.
+- **Session 1 (cont.):** Gen group 57 is done (dynamics b0013–b0018). Launched repair3 groups 0 and 1. Running: gen 55, 56, 58, 59 and repair3 0 and 1. **Next:** repair3 groups 2–5, and gen group 60 (dynamics b0031–b0036).
