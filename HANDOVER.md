@@ -28,14 +28,19 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action
 
-**Phase1 has started** (the user approved parallel subagents for generation on 2026-09-29). Batches were built with `make_batches.py --phase phase1`: 1,050 batches, 16,200 records, committed under `batches/`.
+**Phase1 is running** with the user's choice (option 1, 2026-09-29): Opus for core, foundational, cognitive, dynamics, personality, deception and body; Sonnet for the rest. Calibration (5 batches) is done and committed.
 
-1. **Calibration round (in progress):** 5 generator agents, one batch each: core b0001–b0003 on Opus, situational v01-01 b0001–b0002 on Sonnet. Each agent writes `out/...jsonl`, validates with `--mark`, and gets one repair round. Measure tokens per batch, time and first-try pass rate, then give the user a real estimate before scaling.
-2. **Scale:** rounds of about 5 parallel agents; each agent takes several batches of one stage. Use Opus for tier A (core, foundational, cognitive) and the sensitive stages (dynamics, personality, deception, body); Sonnet for the rest. I check every batch myself with the validator, log failures in `blocked.txt`, and commit and push after each round.
-3. **Critic:** run a separate agent on about 5% of each stage as it finishes.
-4. **After phase1:** run `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
+How it runs:
+- `batches/queue_phase1.json` holds 183 groups of up to 6 pending batches, each with its stage and model.
+- Each generator agent gets ONE group, with the prompt: "Read /home/user/quicktalk/prompts/GENERATOR.md and follow it exactly. Your group is N = <i> in /home/user/quicktalk/batches/queue_phase1.json." Use the group's `model`.
+- Agents stage their work in `.staging/` (git-ignored) and copy only passing batches, with their `.ok`, into `out/`. Unrepairable batches go into `.staging/blocked.txt`.
+- After each agent finishes, run `python3 scripts/sync_out.py --trailer "Co-Authored-By: ...\nClaude-Session: ..."`. It re-validates, commits and pushes; a batch that fails the re-check gets its marker removed and goes back to pending.
+- Run 5 agents at a time.
 
-Generator agent prompt (reuse verbatim, change only the paths and model): read `prompts/MASTER.txt` as system rules; read the batch `.txt`; write JSONL to the out path (a Python json.dumps script is allowed); run `validate_jsonl.py <json> <out> --mark`; do one repair round of failing records only; no gaming the checks; do not edit other files or commit; reply with path, count, first-try and after-repair PASS/FAIL, and the reasons.
+**Launched so far:** groups 0–4 (core, round 1). Launch the next groups in order from 5.
+**To resume in a new session:** `python3 scripts/status.py` shows what is done. Before relaunching a group, check which of its batches already have `.ok` and skip them; the agent's step 1 simply redoes any batch without `.ok`.
+
+After phase1: critic on about 5% per stage (a separate agent), then `export_dataset.py`, then ask the user before `full`.
 
 Reference commands:
 ```
@@ -84,3 +89,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** The user approved the full plan. Applied the fixes, rebuilt the pilot batches with casts, regenerated 06, 10 and 14 as v2 (all pass, clear gains), and launched the critic on a 129-record sample.
 - **Session 1 (cont.):** The critic finished (82/47/0). Applied its prompt and validator fixes and repaired the flagged v2 and graph records; the four batches pass. Waiting on the user about subagents for phase1.
 - **Session 1 (cont.):** The user approved subagents for phase1. Built the phase1 batches (1,050 / 16,200) and launched a 5-batch calibration round (3 core on Opus, 2 situational on Sonnet).
+- **Session 1 (cont.):** The user chose option 1 (Opus + Sonnet). Wrote GENERATOR.md, queue_phase1.json and sync_out.py; launched round 1 (groups 0–4, core).
