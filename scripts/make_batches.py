@@ -24,6 +24,15 @@ a = ap.parse_args()
 cfg = json.load(open(J('config', 'variants.json'), encoding='utf-8'))
 rec = json.load(open(J('config', 'recipes.json'), encoding='utf-8'))
 AGES = rec['age_order']; RECIPES = rec['recipes']; TWISTS = rec['twists']
+NAMES = json.load(open(J('config', 'names.json'), encoding='utf-8'))
+def cast_for(key, recipe, n=2):
+    pool = NAMES['global'] if recipe.split('+')[0] == 'R8' else NAMES['india']
+    h = int(hashlib.sha1(str(key).encode()).hexdigest(), 16)
+    out = []
+    while len(out) < n:
+        nm = pool[h % len(pool)]; h //= len(pool)
+        if nm not in out: out.append(nm)
+    return out
 RPB = a.rows or cfg['rows_per_batch']; PASS = cfg['pass_size']
 after = a.after if a.after is not None else ('phase1' if a.phase == 'full' else 'none')
 STAGES = [('core', None), ('expression', 'Expression & Mind State'), ('situational', 'Situational Awareness'), ('dynamics', 'Interaction Dynamics'), ('cognitive', 'Cognitive Machinery'), ('foundational', 'Foundational Concepts'), ('personality', 'Personality & Individual Difference'), ('group', 'Group Behaviour'), ('deception', 'Honesty, Deception & Influence'), ('culture', 'Culture & Society'), ('body', 'Body & Mind'), ('execution', 'Execution & Practical Skills'), ('wellbeing', 'Wellbeing, Wisdom & Conversation'), ('planning', 'Planning & Problem Solving'), ('graph', None)]
@@ -108,6 +117,7 @@ for si, (k, _) in enumerate(STAGES, 1):
         add = block('ADDENDUM graph')
         for bi in range(0, len(cs), cfg['clusters_per_batch']):
             chunk = cs[bi:bi + cfg['clusters_per_batch']]; n = bi // cfg['clusters_per_batch'] + 1
+            chunk = [dict(c, cast=cast_for(c['cluster_id'], 'R1', 3)) for c in chunk]
             name = f'g_b{n:04d}'
             json.dump({'kind': 'cluster', 'stage': 'graph', 'variant_ids': [1], 'clusters': chunk}, open(os.path.join(d, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             pr = batch_t.replace('{{STAGE}}', 'graph (clusters of related framework rows)').replace('{{VARIANT_IDS}}', 'n/a (one record per cluster)').replace('{{V}}', '1').replace('{{N}}', str(len(chunk))).replace('{{TOTAL}}', str(len(chunk))).replace('{{RECIPES}}', 'not used in cluster mode').replace('{{ADDENDUM}}', add).replace('{{ROWS_JSON}}', '\n'.join(json.dumps(x, ensure_ascii=False) for x in chunk))
@@ -123,7 +133,8 @@ for si, (k, _) in enumerate(STAGES, 1):
             recs, used = [], []
             for r in chunk:
                 sno = int(r['S.No']); plan = {str(v): recipe_for(sno, r['Age'], v) for v in ids}; used += plan.values()
-                o = {'sno': sno, 'plan': plan, 'age': r['Age'], 'topic': r['Topic'], 'subtopic': r['Subtopic'], 'subtype': r['Subtype'], 'description': r['Human Learning & Development']}
+                cast = {v: cast_for(f'{sno}-{v}', c) for v, c in plan.items()}
+                o = {'sno': sno, 'plan': plan, 'cast': cast, 'age': r['Age'], 'topic': r['Topic'], 'subtopic': r['Subtopic'], 'subtype': r['Subtype'], 'description': r['Human Learning & Development']}
                 if ctx.get(sno): o['graph_context'] = ctx[sno]
                 recs.append(o)
             json.dump({'stage': k, 'variant_ids': ids, 'rows': recs}, open(os.path.join(d, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

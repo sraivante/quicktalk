@@ -41,7 +41,12 @@
      "description": "I worry AI will take the job I am training for. The anxiety is understandable. Wise: learn the tools, build judgement and human skills, and stay adaptable. Harmful: freezing or denying the change."
     }
    ],
-   "cluster_id": "C0001"
+   "cluster_id": "C0001",
+   "cast": [
+    "Madhuri",
+    "Vijay",
+    "Minakshi"
+   ]
   },
   {
    "type": "view_pair",
@@ -63,7 +68,12 @@
      "description": "My parent shouts and threatens when I have a tantrum. I feel frightened and stop crying but I am not learning. It is not my fault that feelings are big. A calmer repair afterwards, with a hug and an explanation, helps."
     }
    ],
-   "cluster_id": "C0235"
+   "cluster_id": "C0235",
+   "cast": [
+    "Seema",
+    "Chinmay",
+    "Tanvir"
+   ]
   },
   {
    "type": "sequence",
@@ -93,7 +103,12 @@
      "description": "Other colleagues are drawn in and choose sides through lunch talk and chat groups. The manager senses tension in the team but is not told the actual cause, so guesses and rumours multiply."
     }
    ],
-   "cluster_id": "C0293"
+   "cluster_id": "C0293",
+   "cast": [
+    "Santosh",
+    "Tushar",
+    "Usha"
+   ]
   },
   {
    "type": "approach_comparison",
@@ -131,7 +146,12 @@
      "description": "After recovery, the team writes a timeline, finds root causes in the missing alert and untested rollback, and lists actions with owners, focusing on system improvements not on punishing individuals."
     }
    ],
-   "cluster_id": "C0397"
+   "cluster_id": "C0397",
+   "cast": [
+    "Lavanya",
+    "Gurleen",
+    "Sahil"
+   ]
   },
   {
    "type": "progression",
@@ -153,7 +173,12 @@
      "description": "A young adult avoids crowds, trains or exams in case panic strikes again. Understanding what happens in the body and getting professional guidance reduce fear."
     }
    ],
-   "cluster_id": "C0573"
+   "cluster_id": "C0573",
+   "cast": [
+    "Charu",
+    "Sarita",
+    "Parul"
+   ]
   },
   {
    "type": "concept_link",
@@ -175,7 +200,12 @@
      "description": "Adults watch a teenager take a dangerous dare and struggle to tell bravery from need for approval. Real courage serves a value, while recklessness serves an audience."
     }
    ],
-   "cluster_id": "C0823"
+   "cluster_id": "C0823",
+   "cast": [
+    "Gargi",
+    "Vaibhav",
+    "Siddharth"
+   ]
   }
  ]
 }

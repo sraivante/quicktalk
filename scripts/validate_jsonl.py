@@ -21,7 +21,29 @@ AMBIG=set('😂🙃😭💀🔥🤣')
 SENSITIVE={'personality','deception','body'}
 def ecount(t): return len(EMO.findall(t))
 STOP=set('the a an and or of to in on at for with is was were be been it that this he she they his her their as by from but not so if then than'.split())
-def cw(s): return {w for w in re.findall(r"[a-z']+",s.lower()) if w not in STOP and len(w)>2}
+def stem(w): return w[:-1] if len(w)>3 and w.endswith('s') and not w.endswith('ss') else w
+def cw(s): return {stem(w) for w in re.findall(r"[a-z]+(?:'[a-z]+)?",s.lower().replace('\u2019',"'")) if w not in STOP and len(w)>2}
+import os as _os
+_CFG=_os.path.join(_os.path.dirname(_os.path.dirname(_os.path.abspath(__file__))),'config')
+try: BLOCK=json.load(open(_os.path.join(_CFG,'blocklist.json'),encoding='utf-8'))['terms']
+except Exception: BLOCK=[]
+BLOCK_RE=re.compile(r'(?<![A-Za-z])('+'|'.join(re.escape(t) for t in BLOCK)+r')(?![A-Za-z])',re.I) if BLOCK else None
+try:
+    _N=json.load(open(_os.path.join(_CFG,'names.json'),encoding='utf-8')); NAMEMAX=_N['max_records_per_name']; NAMESET=set(_N['india'])|set(_N['global'])|set(_N['overused'])
+except Exception: NAMEMAX,NAMESET=10**9,set()
+def rectext(r): return r.get('passage','')+' '+' '.join(q.get('q','')+' '+q.get('a','') for q in r.get('qa',[]) if isinstance(q,dict))
+def batch_checks(recs, fails, key='batch'):
+    cnt={}
+    for r in recs:
+        for nm in set(re.findall(r'\b[A-Z][a-z]+(?:-[a-z]+)?\b',rectext(r)))&NAMESET: cnt[nm]=cnt.get(nm,0)+1
+    for nm,c in sorted(cnt.items()):
+        if c>NAMEMAX: fails[key].append(f'name {nm} used in {c} records (max {NAMEMAX}); use the cast names')
+    op={}
+    for r in recs:
+        k=' '.join(r.get('passage','').split()[:2]).lower()
+        if k: op[k]=op.get(k,0)+1
+    for k,c in op.items():
+        if c>max(5,len(recs)//5): print(f'WARN {key}: {c} passages open with "{k}"')
 
 if bj.get('kind')=='cluster':
     CT=['literal','relational','mental_state','application']; SENS_T={'Personality & Individual Difference','Honesty, Deception & Influence','Body & Mind'}
@@ -38,8 +60,9 @@ if bj.get('kind')=='cluster':
         ru=r.get('rows_used')
         if not isinstance(ru,list) or not set(ru)<=snos or len(set(ru))<2: f.append('rows_used must list at least 2 snos from the cluster')
         n=len(p.split())
-        if not 102<=n<=276: f.append(f'passage {n} words, want 120-240')
+        if not 114<=n<=276: f.append(f'passage {n} words, want 120-240')
         if re.search(TAGS,p): f.append('framework tag word in passage')
+        if BLOCK_RE and BLOCK_RE.search(rectext(r)): f.append('real brand/public figure: '+BLOCK_RE.search(rectext(r)).group(0))
         if any(b in p.lower() for b in BAD): f.append('banned phrase')
         for x in c['rows']:
             if difflib.SequenceMatcher(None,p.lower(),x['description'].lower()).ratio()>0.6: f.append(f'passage copies description of S{x["sno"]}')
@@ -55,14 +78,16 @@ if bj.get('kind')=='cluster':
             if ecount(q['a'])>(1 if sens else 2): f.append('too many emojis in an answer')
             if ecount(q['q'])>0: f.append('emoji in a question')
             if len(q['a'].split())>70: f.append('answer too long')
-        if sum(ecount(q['a'])>0 for q in qa)==4: f.append('emoji in every answer')
-        pw=cw(p)
+        if sum(ecount(q['a'])>0 for q in qa)>2: f.append('emoji in more than 2 answers')
+        pw=cw(p); lab=cw(' '.join(x['subtopic']+' '+x['subtype'] for x in c['rows']))
         for k in (0,1):
-            a_=cw(qa[k]['a'])
-            if a_ and len(a_&pw)/len(a_)<0.4: f.append(f'{CT[k]} answer not supported by passage')
+            a_=cw(qa[k]['a']); vocab=pw|lab if k==1 else pw
+            if a_ and len(a_&vocab)/len(a_)<0.4: f.append(f'{CT[k]} answer not supported by passage')
         if not r.get('grounding','').strip(): f.append('missing grounding')
     for cid in cl:
         if seen[cid]!=1: cf[cid].append(f'expected 1 record, got {seen[cid]}')
+    _recs=[json.loads(x) for x in open(OUT,encoding='utf-8').read().splitlines() if x.strip().startswith('{')]
+    batch_checks(_recs, cf)
     for k,v in cf.items():
         for m_ in v: print(f'FAIL {k}: {m_}')
     bad=sorted(k for k,v in cf.items() if v)
@@ -85,8 +110,9 @@ for i,l in enumerate(lines,1):
     p=r.get('passage','')
     if p.strip()=='SKIP': f.append(f'v{r.get("variant")}: model skipped: {r.get("grounding")}'); continue
     n=len(p.split()); lo,hi=WORDS[src['age']]
-    if not lo*0.85<=n<=hi*1.15: f.append(f'v{r.get("variant")}: passage {n} words, want {lo}-{hi}')
+    if not lo*0.95<=n<=hi*1.15: f.append(f'v{r.get("variant")}: passage {n} words, want {lo}-{hi}')
     if re.search(TAGS,p): f.append(f'v{r.get("variant")}: framework tag word in passage')
+    if BLOCK_RE and BLOCK_RE.search(rectext(r)): f.append(f'v{r.get("variant")}: real brand/public figure: {BLOCK_RE.search(rectext(r)).group(0)}')
     if any(b in p.lower() for b in BAD): f.append(f'v{r.get("variant")}: banned phrase')
     if difflib.SequenceMatcher(None,p.lower(),src['description'].lower()).ratio()>0.6: f.append(f'v{r.get("variant")}: passage copies description')
     ep=ecount(p); pmax=2 if src['age'] in ('1–3','4–6') else 3
@@ -102,7 +128,7 @@ for i,l in enumerate(lines,1):
     for q in qa:
         if ecount(q['a'])>amax: f.append(f'v{r.get("variant")}: {ecount(q["a"])} emojis in an answer, max {amax}')
         if ecount(q['q'])>0: f.append(f'v{r.get("variant")}: emoji in a question')
-    if sum(ecount(q['a'])>0 for q in qa)==4: f.append(f'v{r.get("variant")}: emoji in every answer')
+    if sum(ecount(q['a'])>0 for q in qa)>2: f.append(f'v{r.get("variant")}: emoji in more than 2 answers')
     lit=qa[0]['a']; pw=cw(p)
     if cw(lit) and len(cw(lit)&pw)/len(cw(lit))<0.5: f.append(f'v{r.get("variant")}: literal answer not found in passage')
     for q in qa:
@@ -117,6 +143,10 @@ for s in rows:
         for b in range(a+1,len(rs)):
             wa,wb=cw(rs[a].get('passage','')),cw(rs[b].get('passage',''))
             if wa and wb and len(wa&wb)/len(wa|wb)>0.55: fails[s].append(f'variants {a+1} and {b+1} too similar')
+allrecs=[x for v in got.values() for x in v]
+batch_checks(allrecs, fails)
+dw=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])>2 and 'do well' in str(x['qa'][2].get('q','')).lower())
+if dw>1: fails['batch'].append(f'"do well" application question used {dw} times (max 1 per batch); vary the frames')
 bad=sorted(k for k,v in fails.items() if v and isinstance(k,int))
 for k,v in fails.items():
     for m in v: print(f'FAIL {k}: {m}')

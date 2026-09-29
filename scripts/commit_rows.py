@@ -14,8 +14,9 @@ ap.add_argument('--repo', required=True); ap.add_argument('--branch', default='m
 ap.add_argument('--push-every', type=int, default=25); ap.add_argument('--limit', type=int, default=0)
 ap.add_argument('--dry-run', action='store_true'); ap.add_argument('--include-pilot', action='store_true')
 ap.add_argument('--no-push', action='store_true')
+ap.add_argument('--trailer', default=os.environ.get('COMMIT_TRAILER', ''), help='text appended to every commit message, e.g. Co-Authored-By and Claude-Session lines for the current session')
 a = ap.parse_args()
-TRAILER = '\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01QHRKY5jWWkT1Q1U2gConH4\n'
+TRAILER = ('\n\n' + a.trailer.replace('\\n', '\n').strip() + '\n') if a.trailer.strip() else '\n'
 def git(*args, check=True):
     r = subprocess.run(['git', '-C', a.repo, *args], capture_output=True, text=True)
     if check and r.returncode: sys.exit(f'git {" ".join(args)} failed: {r.stderr.strip()}')
