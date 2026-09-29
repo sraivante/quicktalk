@@ -9,8 +9,8 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Current state  (last updated: 2026-09-29, session 1 — pilot in progress)
 
-- **Phase:** pilot — IN PROGRESS. `status.py`: pilot 5/15 batches validated (01 core … 05 cognitive), 150/426 records.
-- **Next pending batch:** 06 foundational (`python3 scripts/status.py next 5 --phase pilot`).
+- **Phase:** pilot — IN PROGRESS. `status.py`: pilot 10/15 batches validated (01 core … 10 culture), 300/426 records.
+- **Next pending batch:** 11 body (`python3 scripts/status.py next 5 --phase pilot`).
 - **How generation is being done (user instruction 2026-09-29):** the main session writes the records itself — **no subagents unless unavoidable**. Per batch: write a small Python file in the scratchpad that lists (sno, variant, passage, 4×(q,a), grounding) and calls a helper which copies age/topic/subtopic/subtype/recipe from the batch JSON and writes the JSONL to the manifest out path; then `validate_jsonl.py --mark`. The helper is trivial to recreate (see Session log); the generator files are scratch and are not committed — the validated `.jsonl` + `.ok` files are the record.
 - **Branch:** `claude/intelligent-ride-oxqjfy`. Validated pilot outputs (`pilot/out/**.jsonl` + `.ok`) are committed here as working state so a new container can resume. They are NOT pushed via `commit_rows.py` (pilot rows go to data/rows only if the user asks).
 - **Blocked batches:** none.
@@ -23,8 +23,13 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 | 03 situational | 8/10 | literal-answer word overlap: a word in single quotes ('cringe) and a plural (biscuits vs biscuit) | yes |
 | 04 dynamics | 10/10 | — (self-review caught real cricketer names in S2974 v1; replaced) | n/a |
 | 05 cognitive | 8/10 | literal-answer singular/plural miss; one R6 chat passage 72 words (<90 min) | yes |
+| 06 foundational | 10/10 | — | n/a |
+| 07 personality | 10/10 | — | n/a |
+| 08 group | 9/10 | one 23–26 passage 74 words | yes |
+| 09 deception | 10/10 | — | n/a |
+| 10 culture | 7/10 | three 13+ passages 69–75 words | yes |
 
-Validator observations so far: the literal-answer check tokenises on `[a-z']+`, so quoted words and plural/singular differences fail even when the answer is correct; short-line chat recipes (R6) run short on word count at 13+ ages.
+Validator observations so far: the literal-answer check tokenises on `[a-z']+`, so quoted words and plural/singular differences fail even when the answer is correct; short-line chat recipes (R6) run short on word count at 13+ ages. The validator allows ±15% slack, so several 13+ passages pass at 77–89 words (below the prompt's nominal 90); the generator helper now prints a WORDS warning against the nominal range.
 
 ## Open decisions / questions for the user
 
@@ -59,3 +64,4 @@ Validator observations so far: the literal-answer check tokenises on `[a-z']+`, 
 
 - **2026-09-29 — session 1:** Repo was empty. Unpacked `human_dev_pack.zip` (89 entries) into the repo root, read README, RUN_IN_CLAUDE_CODE, CLAUDE.md, config, prompt structure, specs and scripts. Verified `status.py` runs (pilot 0/15). Found the three open points above. Created this HANDOVER.md, added a pointer to it in CLAUDE.md, committed and pushed to `claude/intelligent-ride-oxqjfy`. No generation done yet.
 - **2026-09-29 — session 1 (cont.):** User said start the pilot, avoid subagents. Generated and validated pilot batches 01–05 in-session (150 records). Helper: `emit(batch_json, out, items)` builds each record as {sno, variant, recipe=plan[variant], age, topic, subtopic, subtype from batch row, passage (whitespace-normalised per line, newlines kept for chat/letters), qa typed literal/mental_state/application/perspective, grounding}. Committed pilot outputs + .ok markers + this file.
+- **2026-09-29 — session 1 (cont.):** Pilot batches 06–10 generated and validated (300/426 records total). Added nominal word-count warning to the helper.
