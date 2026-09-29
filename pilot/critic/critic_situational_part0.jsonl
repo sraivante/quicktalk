@@ -1,0 +1,91 @@
+{"sno": 1093, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Jasleen as 'she/her', whose gender the passage never states (first-person letter, signed only 'Jasleen')", "minor wording: 'I wanted you to know, because I'm not alone in this' reads illogically"], "suggested_fix": "Replace she/her for Jasleen with the name or 'the writer', or have the passage state it (e.g. Masi calls her 'my girl'); change the last line to '...so that I'm not alone in this.'"}
+{"sno": 779, "variant": 1, "verdict": "pass", "issues": ["note (recipe): R2 asks for a family or home scene; this dialogue is not at home because the counterpart is not family. Form kept, tag wins; not counted as a defect (school lunch benches)."], "suggested_fix": ""}
+{"sno": 1144, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 884, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Akash as 'He', whose gender the passage never states (first-person observer, only 'I'm Akash')"], "suggested_fix": "Perspective answer: 'Akash notices her behaviour...' instead of 'He notices'."}
+{"sno": 1996, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1638, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1624, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1815, "variant": 1, "verdict": "pass", "issues": ["minor: answers say 'the father' / 'the father's calls'; 'Anjali's father' reads naturally and stays gender-neutral for Anjali"], "suggested_fix": ""}
+{"sno": 2047, "variant": 1, "verdict": "pass", "issues": ["note (recipe): R2 asks for a family or home scene; this dialogue is not at home because the counterpart is not family. Form kept, tag wins; not counted as a defect (two friends, place unstated)."], "suggested_fix": ""}
+{"sno": 1742, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1930, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1189, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1543, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1790, "variant": 1, "verdict": "fix", "issues": ["form: the name 'Sabina' hangs at the end of a first-person reflective account with no break, like a stray signature, so the narrator's name reads as a mistake"], "suggested_fix": "Put the name in naturally, e.g. open with 'I'm Sabina, and three interviews had ended...', or put the sign-off on its own line."}
+{"sno": 1965, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1678, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1159, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1032, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2020, "variant": 1, "verdict": "fix", "issues": ["fidelity: the row's key messages 'it was not your fault' and 'healing has no deadline' are never shown. The only line about time is 'Everyone said she should have moved on by now', and it goes unanswered, so the passage can read as backing the deadline belief"], "suggested_fix": "Have Jomon add one line, e.g. 'Taking a bus was not your fault. And there's no clock on this.' The application answer can then say this."}
+{"sno": 1460, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1774, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1367, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Tanuja as 'her/she', whose gender the passage never states (first-person, 'My name is Tanuja' only)"], "suggested_fix": "Use 'Tanuja' in the mental_state and application answers instead of her/she."}
+{"sno": 1645, "variant": 1, "verdict": "pass", "issues": ["minor: 'He'd also put Sunday calls with his grandmother in his phone' is an awkward tense and phrasing"], "suggested_fix": ""}
+{"sno": 1928, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 464, "variant": 1, "verdict": "pass", "issues": ["minor: Pranav/Vidya is also the name pair in sno 1543 (siblings there); see the cast note in the summary"], "suggested_fix": ""}
+{"sno": 912, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 540, "variant": 1, "verdict": "pass", "issues": ["note (length): 103 words, over the prompt's 4–6 range of 50–100 but within the validator's deliberate 15% tolerance; trimming a few words would be tidier"], "suggested_fix": ""}
+{"sno": 629, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 759, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1780, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 704, "variant": 1, "verdict": "pass", "issues": ["note (emoji): 🙂 is inside a spoken line; MASTER allows this, but it reads less naturally than in a typed text, and the same 🙂 is repeated in the application answer"], "suggested_fix": ""}
+{"sno": 1839, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 841, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Chetan as 'he/his' in the mental_state and perspective answers, whose gender the passage never states (diary signed only '- Chetan')", "emoji: 😊 sits mid-sentence in the application answer ('more questions 😊.') and reads as decoration"], "suggested_fix": "Replace he/his for Chetan with the name; drop the 😊 or move it to the end of the sentence."}
+{"sno": 1439, "variant": 1, "verdict": "pass", "issues": ["minor: 'did not like Bhupen, because Bhupen had...' repeats the name clumsily"], "suggested_fix": ""}
+{"sno": 1217, "variant": 1, "verdict": "pass", "issues": ["minor fidelity: Gopika made the sticker, while the row says 'joined a joke'. Still acceptable, since the joke got out of hand through others"], "suggested_fix": ""}
+{"sno": 997, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1122, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 598, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1711, "variant": 1, "verdict": "pass", "issues": ["minor: 'borrowed a charger from the woman next to the seat' is awkward"], "suggested_fix": ""}
+{"sno": 698, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 649, "variant": 1, "verdict": "pass", "issues": ["minor fidelity: 'it is not my fault' is only implied (Elif says 'Thank you for showing me')"], "suggested_fix": ""}
+{"sno": 640, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Charu as 'she/her/herself' in the answers and grounding, whose gender the passage never states (first-person, 'My name is Charu' only)"], "suggested_fix": "Use 'Charu' in the answers and 'blames themself' or 'Charu blames...' in the grounding, or let Mummy use a gendered word in the passage."}
+{"sno": 449, "variant": 1, "verdict": "fix", "issues": ["recipe: R7 asks for a rural or small-town Indian setting, but the passage has no rural or small-town detail (only 'back room' and 'Dadi'). The row does not stop a rural setting"], "suggested_fix": "Add one concrete detail, e.g. 'the back room of the farmhouse, next to where the goats were tied'."}
+{"sno": 1233, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1592, "variant": 1, "verdict": "pass", "issues": ["note (recipe): R2 asks for a family or home scene; this dialogue is not at home because the counterpart is not family. Form kept, tag wins; not counted as a defect (professor's office)."], "suggested_fix": ""}
+{"sno": 1113, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 398, "variant": 1, "verdict": "fix", "issues": ["emoji: the application answer ends with 😊, but Ines 'still felt heavy' after a rejection. A cheerful emoji does not match the scene"], "suggested_fix": "Remove the 😊 (or use none; a shame scene is better without one)."}
+{"sno": 1349, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1554, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1702, "variant": 1, "verdict": "pass", "issues": ["minor: the 'What did X do well' frame is used here (allowed once per batch)"], "suggested_fix": ""}
+{"sno": 1412, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1769, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1385, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1084, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 696, "variant": 1, "verdict": "pass", "issues": ["minor fidelity: the row's 'talks about respect and boundaries' is not shown; the mother only says 'We can talk about it'"], "suggested_fix": ""}
+{"sno": 808, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1289, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1321, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Rekha as 'she/her' in all answers, whose gender the passage never states (spoken monologue, only 'Me, Rekha')"], "suggested_fix": "Use 'Rekha' in place of she/her, or give Rekha a gendered cue in the passage."}
+{"sno": 361, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1647, "variant": 1, "verdict": "pass", "issues": ["minor: the mental_state answer 'A gap between the picture and reality, and heavy' is not a clean sentence"], "suggested_fix": ""}
+{"sno": 978, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1954, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1452, "variant": 1, "verdict": "pass", "issues": ["note (recipe): R2 asks for a family or home scene; this dialogue is not at home because the counterpart is not family. Form kept, tag wins; not counted as a defect (groupmates, place unstated).", "note (emoji): 🙏 is inside a spoken line"], "suggested_fix": ""}
+{"sno": 1747, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 641, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Lalit as 'his' in the perspective question, whose gender the passage never states (Lalit is only called 'beta', which is used for children of any gender)", "minor: the narrator names himself in the third person at the end ('Your grandfather Chaitanya learned...'), which is awkward"], "suggested_fix": "Rephrase the question to 'How might Lalit feel on hearing that Grandfather Chaitanya once wanted to hit someone?'; optionally name the narrator at the start ('I'm your Dadu, Chaitanya')."}
+{"sno": 1381, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1561, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2051, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1023, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 810, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1386, "variant": 1, "verdict": "fix", "issues": ["consistency: 'on Thursday he wanted her to come ... for dinner' conflicts with 'Rhea's coming Saturday evening'"], "suggested_fix": "Change the opening to 'Uday wanted Rhea to come to the Pune flat for dinner on Saturday and stay late' (or say that the thought came on Thursday)."}
+{"sno": 372, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 338, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 718, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1636, "variant": 1, "verdict": "fix", "issues": ["safety/legal-adjacent: the closing 'Tomorrow I'll copy the files at home, not at the office' has the writer act on company documents before the lawyer talk that Charu just advised, and it could be read as a how-to. The row wants the safest proper channel"], "suggested_fix": "End with, e.g., 'Tomorrow I'll read the whistleblower policy and ask Charu to set up the lawyer call before I do anything else.'"}
+{"sno": 1725, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 936, "variant": 1, "verdict": "fix", "issues": ["emoji: 😊 sits in the narration at the very end of the passage (not in a line a character speaks or types), so it is decoration", "pronoun: the perspective answer uses 'He' for Thomas, whose gender the passage never states"], "suggested_fix": "Remove the passage emoji (or move it to a spoken or typed line); write 'Thomas encouraged her...' in the perspective answer."}
+{"sno": 880, "variant": 1, "verdict": "pass", "issues": ["note (tag POV): a [Receiver] row told in the parent's voice because of the elder recipe; Sunaina's experience is still visible ('You don't trust me', stiff face)"], "suggested_fix": ""}
+{"sno": 776, "variant": 1, "verdict": "fix", "issues": ["perspective: the question 'How might the girls' table have seemed to Harshita?' centres the protagonist, not another person"], "suggested_fix": "Ask about a different person, e.g. 'How might the girl who said \"There is no space here\" see the moment?' or 'What is it like for Tejas to watch this?'"}
+{"sno": 1209, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2011, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Karthik as 'He/him' in the mental_state and application answers, whose gender the passage never states (elder monologue, 'I, Karthik' only)"], "suggested_fix": "Use 'Karthik' in place of he/him, or have the passage give a gendered cue."}
+{"sno": 493, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1110, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Rukmini as 'she/her' in the answers, whose gender the passage never states (diary, 'Rukmini here' only)"], "suggested_fix": "Use 'Rukmini' in place of she/her, or have Aparna didi call her by a gendered word in the passage."}
+{"sno": 1206, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 400, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 721, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1703, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 480, "variant": 1, "verdict": "fix", "issues": ["grounding: the application answer says 'A gentle nudge worked better than force', but the teacher gave no nudge; the note shows only waiting"], "suggested_fix": "Either add a nudge to the note (e.g. 'I said, \"The blocks look fun today\"') or change the answer to 'Giving time rather than force let him come round on his own.'"}
+{"sno": 874, "variant": 1, "verdict": "fix", "issues": ["recipe: R7 asks for a rural or small-town Indian setting, but none is shown (only 'Mummy's phone', 'the kitchen')", "note: the subtopic 'Chatting with an online stranger' does not match the row description (a classmate in a group chat); this is a CSV issue, not a generator defect"], "suggested_fix": "Add one small-town detail (e.g. 'the kitchen behind the family's kirana shop'). Report the subtopic mismatch to the owner."}
+{"sno": 1447, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Samir as 'He' in the application answer, whose gender the passage never states (first-person, 'I'm Samir' only)"], "suggested_fix": "Write 'Samir sat down and did the charts Samir owed...' or restructure the sentence."}
+{"sno": 496, "variant": 1, "verdict": "fix", "issues": ["pronoun: answers/grounding gender Hafsa as 'her' in the perspective answer, whose gender the passage never states (Hafsa is only named)"], "suggested_fix": "'It is Hafsa's feeling, not proof that Nitin did wrong.'"}
