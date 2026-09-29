@@ -39,6 +39,13 @@ def copied(passage, desc, n=5):
     return [' '.join(g) for g in {tuple(pt[i:i+n]) for i in range(len(pt)-n+1)}&dg]
 MSCUE=re.compile(r"\b(feel|felt|think|thought|want|worr|afraid|scared|hope|intend|mean|suggest|show|reveal|why|mind|believe|sure|realis|realiz|expect|wish|proud|upset|angry|happy|sad|nervous|anxious|embarrass|asham|guilt|relie|seem|emotion|mood|made)",re.I)
 EMOQUOTA=0.6
+GPRON=re.compile(r"\b(he|she|him|his|her|hers|himself|herself)\b",re.I)
+GCUE=re.compile(r"\b(he|she|him|his|her|hers|himself|herself|boy|girl|man|woman|men|women|son|daughter|brother|sister|mother|father|mom|mum|dad|papa|mama|amma|appa|ammi|abbu|nani|nana|dadi|dada|aunt|aunty|auntie|uncle|didi|bhaiya|bhai|anna|akka|grandma|grandpa|grandmother|grandfather|wife|husband|girlfriend|boyfriend|sir|madam|ma'am|mr|mrs|ms|miss|lady|gentleman|beta|beti|nephew|niece|bhabhi|chacha|chachi|mami|masi|mausi|bua|khala|dadu|paati|thatha|ammamma|grandson|granddaughter|bride|groom|actress|waiter|waitress|queen|king|prince|princess)\b",re.I)
+def ungendered_pronoun(r):
+    """answers/grounding use he/she although the passage has no gender cue at all"""
+    if GCUE.search(r.get('passage','')): return False
+    txt=' '.join(str(q.get('a',''))+' '+str(q.get('q','')) for q in r.get('qa',[]) if isinstance(q,dict))+' '+str(r.get('grounding',''))
+    return bool(GPRON.search(txt))
 def rectext(r): return r.get('passage','')+' '+' '.join(q.get('q','')+' '+q.get('a','') for q in r.get('qa',[]) if isinstance(q,dict))
 def batch_checks(recs, fails, key='batch'):
     cnt={}
@@ -141,6 +148,7 @@ for i,l in enumerate(lines,1):
         if ecount(q['a'])>amax: f.append(f'v{r.get("variant")}: {ecount(q["a"])} emojis in an answer, max {amax}')
         if ecount(q['q'])>0: f.append(f'v{r.get("variant")}: emoji in a question')
     if sum(ecount(q['a'])>0 for q in qa)>2: f.append(f'v{r.get("variant")}: emoji in more than 2 answers')
+    if ungendered_pronoun(r): f.append(f'v{r.get("variant")}: he/she used in questions/answers/grounding but the passage states no gender; use the name, the role or "they"')
     ans_names=set(re.findall(r'\b[A-Z][a-z]+(?:-[a-z]+)?\b',' '.join(q['q']+' '+q['a'] for q in qa)))&NAMESET
     missing=sorted(n for n in ans_names if not re.search(r'\b'+re.escape(n)+r'\b',p))
     if missing: f.append(f'v{r.get("variant")}: name(s) {missing} used in questions/answers but not in the passage')
