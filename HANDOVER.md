@@ -117,3 +117,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** Gen group 51 is done (b0153–b0158). Launched group 54 (b0171–b0175, the last situational batches). Running: gen 47, 49, 50, 52, 53, 54. **Next gen group: 55** (04_dynamics, Opus).
 - **Session 1 (cont.):** Gen groups 47 and 49 are done (b0129–b0134, b0141–b0146; 1607 renamed Tanmay to match the row). Dynamics started: launched 55 and 56 (04_dynamics b0001–b0012, Opus). Running: gen 50, 52, 53, 54, 55, 56. **Next gen group: 57.** Once 50, 52, 53 and 54 finish, situational is complete; then run the situational critic (~5%).
 - **Session 1 (cont.):** Gen group 50 is done (b0147–b0152). Launched 57 (dynamics b0013–b0018). Running: gen 52, 53, 54, 55, 56, 57. **Next gen group: 58.**
+- **Session 1 (cont.):** Gen group 54 is done (b0171–b0175). Launched 58 (dynamics b0019–b0024). Running: gen 52, 53, 55, 56, 57, 58. **Next gen group: 59.**
