@@ -1,0 +1,90 @@
+{"sno": 3134, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2936, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3266, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3198, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2987, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3177, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3259, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3059, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2966, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3252, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3336, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3187, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3018, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3049, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3201, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2985, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2947, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3072, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3094, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2987, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3043, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2948, "variant": 1, "verdict": "fix", "issues": ["Perspective question is literal recall: the wife's reaction ('stared... Why didn't you ever tell me that?') is stated in the passage, so it does not ask how she experiences the moment.", "Minor: the 'My name is on that cabin door, Saurabh Joshi, senior manager' naming device is clunky and the closing line leans moralising."], "suggested_fix": "Change the perspective Q to something like 'What might Saurabh's wife have been going through during the week of silence?' (felt shut out, feared he hated her). Optionally name Saurabh more naturally (e.g. Chetan addresses him as Saurabh sir) and drop 'taught me more than any promotion'."}
+{"sno": 3081, "variant": 1, "verdict": "fix", "issues": ["Stage rule: the application Q ('What can Norbu learn from his grandmother's story?') is a lesson-extraction that restates the row description rather than asking what a person could do at this stage."], "suggested_fix": "Replace with an action question, e.g. 'How could Mola or the parents build on the loyalty she saw at the park?' (name it to the children, praise standing up for each other, still let them sort their own squabbles)."}
+{"sno": 3048, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3154, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3191, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3265, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3219, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3114, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2968, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3269, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3130, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3328, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3295, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3164, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3312, "variant": 2, "verdict": "fix", "issues": ["Perspective Q centres Keerthana, the same person as the mental_state Q, and asks her feeling, so it duplicates mental_state instead of showing another person's view.", "Application answer is a recall list of Ayesha's changes rather than a next step."], "suggested_fix": "Make the perspective Q about Ayesha (e.g. 'Why might Ayesha answer \"Most of us told ourselves something\" instead of judging Keerthana?') and phrase application as 'What could Keerthana do the next time a shortcut is suggested?' (check her written lines, use the anonymous channel)."}
+{"sno": 3142, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3331, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3195, "variant": 1, "verdict": "fix", "issues": ["Length: passage is 161 words, above the 90-160 cap for 23-26."], "suggested_fix": "Trim a few words, e.g. cut 'groggy' or shorten 'Every time he looked at them, he heard all the months he'd wasted.'"}
+{"sno": 3079, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3136, "variant": 1, "verdict": "fix", "issues": ["Grounding: the perspective answer says Himani was 'tired from her own day' and read the text as 'one more sign she didn't matter'; neither her tiredness nor a pattern of feeling unimportant appears in the passage (they come from the row description)."], "suggested_fix": "Either add one line to Kunal's letter (e.g. 'I know you'd had a long day too, and I know it isn't the first time I've gone quiet on you') or remove those claims from the answer and ground it in her turning away in the morning."}
+{"sno": 3340, "variant": 2, "verdict": "fix", "issues": ["Pronoun: the perspective answer says Elizabeth 'lets herself be pulled along', but the passage never states Elizabeth's gender (a name is not a cue)."], "suggested_fix": "Rewrite the answer without the reflexive, e.g. 'Elizabeth finds Salma's excitement funny and catching, and ends up coming to the quiz.'"}
+{"sno": 3227, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3140, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2995, "variant": 1, "verdict": "fix", "issues": ["Stage/arc recognisability: the passage never shows that Sunaina and Vikas are friends or what the betrayal was ('what he did' only), so a reader cannot tell this is the confrontation stage of a friendship betrayal arc; it reads as a generic workplace grievance."], "suggested_fix": "Add one line to the supervisor's note hinting at what came before, e.g. 'They joined the same week and have been close since; last month something she told him in confidence went round the floor.'"}
+{"sno": 3022, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3054, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3281, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3045, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2931, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3152, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3185, "variant": 1, "verdict": "fix", "issues": ["Length: passage is 164 words, above the 90-160 cap for 23-26.", "Minor: the mental_state Q ('What did the voice ... want her to believe?') is answered almost verbatim from the passage, closer to recall than an inner state."], "suggested_fix": "Trim about 5-10 words (e.g. drop 'hands shaking' or 'She actually reached for it.'). Consider asking 'Why did the thought \"Might as well finish the pack\" feel so convincing to Alka on Friday?'"}
+{"sno": 2946, "variant": 2, "verdict": "fix", "issues": ["Perspective Q is literal recall ('What did Bidisha think Nazia should do?' is answered by the quoted 'Give him time') and does not centre the other person in the arc (Sohail)."], "suggested_fix": "Ask instead 'What might Sohail have noticed when Nazia stopped asking and stopped cooking for two?' or 'How might Bidisha's \"Give him time\" have landed for Nazia?'"}
+{"sno": 2958, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2962, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3347, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3180, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3321, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3012, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3036, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3199, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3020, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3305, "variant": 1, "verdict": "fix", "issues": ["Pronoun: the perspective answer calls Yogesh 'his friend' from Dhruv's side ('worried for his friend'), but Dhruv's gender is never stated in the chat."], "suggested_fix": "Rewrite as 'Dhruv seems uneasy about the shortcut and worried for Yogesh, but chooses to nudge rather than lecture.'"}
+{"sno": 2914, "variant": 2, "verdict": "fix", "issues": ["Diversity: shares the key plot beat with its sibling variant 2914 v1 (the teased boy retorts by accusing the teaser of copying: 'Ask Rehana whose notebook you copied' vs 'at least I don't copy from the topper'), and the teaser names Jyoti/Rehana closely echo Nirmala/Rehan. The two variants differ in form and setting but not in situation detail."], "suggested_fix": "Change this variant's retort to a different hit-back (e.g. mocking Jyoti's own English marks or her tuition fees) so the two variants do not share the same counter-accusation."}
+{"sno": 3021, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2924, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3273, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3272, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3150, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3210, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3097, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3024, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3161, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3046, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3066, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2914, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3221, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3241, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3296, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3019, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2925, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3176, "variant": 2, "verdict": "fix", "issues": ["DISCLOSURE rule: Tanvir reveals that classmates are laughing at him (possible bullying). Damini thanks him and plans to call the class teacher, but never tells him it is not his fault, which the house rule requires to be shown on the page."], "suggested_fix": "Add one short line from Damini before 'Sleep now?', e.g. 'That's not your fault, beta. I'm glad you told me.' The teacher call the next morning is already the same calendar day (the scene is at 2:40 am), so that part can stay."}
+{"sno": 3139, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2989, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2983, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3107, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 2909, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3042, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3078, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3095, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}

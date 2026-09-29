@@ -1,0 +1,130 @@
+[
+ {
+  "stage": "04_dynamics",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/04_dynamics/v01-02_b0001.json",
+    "out/04_dynamics/v01-02_b0001.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0004.json",
+    "out/04_dynamics/v01-02_b0004.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0005.json",
+    "out/04_dynamics/v01-02_b0005.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0009.json",
+    "out/04_dynamics/v01-02_b0009.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0018.json",
+    "out/04_dynamics/v01-02_b0018.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0023.json",
+    "out/04_dynamics/v01-02_b0023.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0027.json",
+    "out/04_dynamics/v01-02_b0027.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0028.json",
+    "out/04_dynamics/v01-02_b0028.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0029.json",
+    "out/04_dynamics/v01-02_b0029.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0040.json",
+    "out/04_dynamics/v01-02_b0040.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0041.json",
+    "out/04_dynamics/v01-02_b0041.jsonl"
+   ],
+   [
+    "batches/04_dynamics/v01-02_b0044.json",
+    "out/04_dynamics/v01-02_b0044.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 2914,
+    "variant": 2,
+    "batch": "out/04_dynamics/v01-02_b0001.jsonl",
+    "issue": "Diversity: shares the key plot beat with its sibling variant 2914 v1 (the teased boy retorts by accusing the teaser of copying: 'Ask Rehana whose notebook you copied' vs 'at least I don't copy from the topper'), and the teaser names Jyoti/Rehana closely echo Nirmala/Rehan. The two variants differ in form and setting but not in situation detail. | SUGGESTED: Change this variant's retort to a different hit-back (e.g. mocking Jyoti's own English marks or her tuition fees) so the two variants do not share the same counter-accusation."
+   },
+   {
+    "sno": 2946,
+    "variant": 2,
+    "batch": "out/04_dynamics/v01-02_b0004.jsonl",
+    "issue": "Perspective Q is literal recall ('What did Bidisha think Nazia should do?' is answered by the quoted 'Give him time') and does not centre the other person in the arc (Sohail). | SUGGESTED: Ask instead 'What might Sohail have noticed when Nazia stopped asking and stopped cooking for two?' or 'How might Bidisha's \"Give him time\" have landed for Nazia?'"
+   },
+   {
+    "sno": 2948,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0005.jsonl",
+    "issue": "Perspective question is literal recall: the wife's reaction ('stared... Why didn't you ever tell me that?') is stated in the passage, so it does not ask how she experiences the moment.; Minor: the 'My name is on that cabin door, Saurabh Joshi, senior manager' naming device is clunky and the closing line leans moralising. | SUGGESTED: Change the perspective Q to something like 'What might Saurabh's wife have been going through during the week of silence?' (felt shut out, feared he hated her). Optionally name Saurabh more naturally (e.g. Chetan addresses him as Saurabh sir) and drop 'taught me more than any promotion'."
+   },
+   {
+    "sno": 2995,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0009.jsonl",
+    "issue": "Stage/arc recognisability: the passage never shows that Sunaina and Vikas are friends or what the betrayal was ('what he did' only), so a reader cannot tell this is the confrontation stage of a friendship betrayal arc; it reads as a generic workplace grievance. | SUGGESTED: Add one line to the supervisor's note hinting at what came before, e.g. 'They joined the same week and have been close since; last month something she told him in confidence went round the floor.'"
+   },
+   {
+    "sno": 3081,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0018.jsonl",
+    "issue": "Stage rule: the application Q ('What can Norbu learn from his grandmother's story?') is a lesson-extraction that restates the row description rather than asking what a person could do at this stage. | SUGGESTED: Replace with an action question, e.g. 'How could Mola or the parents build on the loyalty she saw at the park?' (name it to the children, praise standing up for each other, still let them sort their own squabbles)."
+   },
+   {
+    "sno": 3136,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0023.jsonl",
+    "issue": "Grounding: the perspective answer says Himani was 'tired from her own day' and read the text as 'one more sign she didn't matter'; neither her tiredness nor a pattern of feeling unimportant appears in the passage (they come from the row description). | SUGGESTED: Either add one line to Kunal's letter (e.g. 'I know you'd had a long day too, and I know it isn't the first time I've gone quiet on you') or remove those claims from the answer and ground it in her turning away in the morning."
+   },
+   {
+    "sno": 3176,
+    "variant": 2,
+    "batch": "out/04_dynamics/v01-02_b0027.jsonl",
+    "issue": "DISCLOSURE rule: Tanvir reveals that classmates are laughing at him (possible bullying). Damini thanks him and plans to call the class teacher, but never tells him it is not his fault, which the house rule requires to be shown on the page. | SUGGESTED: Add one short line from Damini before 'Sleep now?', e.g. 'That's not your fault, beta. I'm glad you told me.' The teacher call the next morning is already the same calendar day (the scene is at 2:40 am), so that part can stay."
+   },
+   {
+    "sno": 3185,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0028.jsonl",
+    "issue": "Length: passage is 164 words, above the 90-160 cap for 23-26.; Minor: the mental_state Q ('What did the voice ... want her to believe?') is answered almost verbatim from the passage, closer to recall than an inner state. | SUGGESTED: Trim about 5-10 words (e.g. drop 'hands shaking' or 'She actually reached for it.'). Consider asking 'Why did the thought \"Might as well finish the pack\" feel so convincing to Alka on Friday?'"
+   },
+   {
+    "sno": 3195,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0029.jsonl",
+    "issue": "Length: passage is 161 words, above the 90-160 cap for 23-26. | SUGGESTED: Trim a few words, e.g. cut 'groggy' or shorten 'Every time he looked at them, he heard all the months he'd wasted.'"
+   },
+   {
+    "sno": 3305,
+    "variant": 1,
+    "batch": "out/04_dynamics/v01-02_b0040.jsonl",
+    "issue": "Pronoun: the perspective answer calls Yogesh 'his friend' from Dhruv's side ('worried for his friend'), but Dhruv's gender is never stated in the chat. | SUGGESTED: Rewrite as 'Dhruv seems uneasy about the shortcut and worried for Yogesh, but chooses to nudge rather than lecture.'"
+   },
+   {
+    "sno": 3312,
+    "variant": 2,
+    "batch": "out/04_dynamics/v01-02_b0041.jsonl",
+    "issue": "Perspective Q centres Keerthana, the same person as the mental_state Q, and asks her feeling, so it duplicates mental_state instead of showing another person's view.; Application answer is a recall list of Ayesha's changes rather than a next step. | SUGGESTED: Make the perspective Q about Ayesha (e.g. 'Why might Ayesha answer \"Most of us told ourselves something\" instead of judging Keerthana?') and phrase application as 'What could Keerthana do the next time a shortcut is suggested?' (check her written lines, use the anonymous channel)."
+   },
+   {
+    "sno": 3340,
+    "variant": 2,
+    "batch": "out/04_dynamics/v01-02_b0044.jsonl",
+    "issue": "Pronoun: the perspective answer says Elizabeth 'lets herself be pulled along', but the passage never states Elizabeth's gender (a name is not a cue). | SUGGESTED: Rewrite the answer without the reflexive, e.g. 'Elizabeth finds Salma's excitement funny and catching, and ends up coming to the quiz.'"
+   }
+  ]
+ }
+]
