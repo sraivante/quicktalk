@@ -1,0 +1,267 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2392,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Seema"
+    ],
+    "2": [
+     "Abhinav",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Requesting help [Regulating]",
+   "description": "A child learns that saying I need help is a strength and picks who to ask, such as a teacher, elder or friend. Children who never ask may fear being judged and benefit from a safe culture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 2393,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Nikita"
+    ],
+    "2": [
+     "Gopika",
+     "Santosh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Requesting permission [Expressing]",
+   "description": "A school-age child asks may I go or can I have it and learns that permission depends on safety, timing and trust. Clear reasons for a no help the child accept it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2394,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Jagdish"
+    ],
+    "2": [
+     "Mehak",
+     "Tenzin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Commands and bossiness [Mismatch]",
+   "description": "A child who commands peers may be leading, anxious, or copying adult tone. Adults can coach the child to swap commands for invitations, such as how about we.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2395,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Kalyani"
+    ],
+    "2": [
+     "Jasleen",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Suggesting and advising peers [Expressing]",
+   "description": "A school-age child suggests how to play a game or advises a friend on a problem. Advice that is not asked for can feel bossy, so asking would you like ideas is kinder.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2396,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Deepika"
+    ],
+    "2": [
+     "Santiago",
+     "Dalia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Asking for privacy [Expressing]",
+   "description": "A child asks for privacy in the bathroom, with a diary or during a change of clothes. Adults honour reasonable privacy and explain safety limits, such as adults knowing where the child is.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2397,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Zeynep",
+     "Ivan"
+    ],
+    "2": [
+     "Gautam",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Objecting and forbidding [Expressing]",
+   "description": "A school-age child objects to unfair treatment and understands why some things are forbidden. Objection with respectful words is a skill that adults support even when the answer stays no.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2398,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Vidya"
+    ],
+    "2": [
+     "Shreya",
+     "Aadhya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Assuring and pledging [Interpreting]",
+   "description": "A child hears a parent's assurance or pledge and treats a broken promise as a serious hurt. Adults who keep promises, or explain honestly when they cannot, build trust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2399,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Ujjwal"
+    ],
+    "2": [
+     "Gautam",
+     "Sahil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Declaring an intention [Expressing]",
+   "description": "A school-age child declares I am going to practise every day, sharing a goal. Small, specific plans are more likely to succeed than large vague declarations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2400,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Swati"
+    ],
+    "2": [
+     "Deepika",
+     "Irfan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Concern and solidarity [Expressing]",
+   "description": "A school-age child sits with a lonely classmate or stands up for a friend, showing care and solidarity. Adults praise these actions and also teach how to involve an adult when the situation is unsafe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 2401,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Rekha"
+    ],
+    "2": [
+     "Hafsa",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Longing and missing [Expressing]",
+   "description": "A child at a sleepover or camp may feel homesickness and longing for family. Talking, a comfort item and a planned call help, and missing someone shows healthy attachment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

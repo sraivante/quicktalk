@@ -1,0 +1,238 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 151,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Naveen",
+     "Jyoti"
+    ],
+    "5": [
+     "Santosh",
+     "Nilesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Habits & Ethics",
+   "subtopic": "Professional Mastery",
+   "subtype": "Sustainable Work Ethic & Integrity",
+   "description": "Upholding high professional standards, ethical leadership, and mentorship vs. toxic workplace behaviors and burnout.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 152,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Gargi",
+     "Vaibhav"
+    ],
+    "5": [
+     "Uday",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Civic & Relational",
+   "subtopic": "Institutional Leadership",
+   "subtype": "Civic Stewardship & Cultural Heritage",
+   "description": "Contributing to national progress, supporting stable governance, preserving cultural legacy, and guiding the next generation."
+  },
+  {
+   "sno": 153,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Tushar",
+     "Pallavi"
+    ],
+    "5": [
+     "Tuan",
+     "Tariq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Intergenerational Stewardship",
+   "description": "Exercising ethical leadership, caring for dependents/aging family, mentoring peers, and driving sustainable environmental and societal stewardship.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 154,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Sangeeta",
+     "Jyoti"
+    ],
+    "5": [
+     "Rajni",
+     "Kalyani"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Attention & Memory",
+   "subtype": "Joint Attention",
+   "description": "Following a caregiver's gaze or pointing to share focus on an object, the base of shared learning."
+  },
+  {
+   "sno": 155,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Mohit",
+     "Kiran"
+    ],
+    "5": [
+     "Arnab",
+     "Jomon"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Social",
+   "subtopic": "Imitation",
+   "subtype": "Deferred & Social Imitation",
+   "description": "Copying gestures, sounds and household actions seen earlier, the root of cultural learning."
+  },
+  {
+   "sno": 156,
+   "plan": {
+    "4": "R8",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Xin",
+     "Lars"
+    ],
+    "5": [
+     "Vinita",
+     "Tarun"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Emotional",
+   "subtopic": "Emotional Co-Regulation",
+   "subtype": "Being Soothed by a Caregiver",
+   "description": "Calming through touch, voice and rhythm before independent self-soothing exists.",
+   "graph_context": [
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 157,
+   "plan": {
+    "4": "R13",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Neelam",
+     "Parveen"
+    ],
+    "5": [
+     "Hansa",
+     "Deepak"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Causality",
+   "subtype": "Cause-and-Effect Exploration",
+   "description": "Repeating actions like dropping or pressing to learn that behaviour produces outcomes."
+  },
+  {
+   "sno": 158,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Mahima",
+     "Jyoti"
+    ],
+    "5": [
+     "Olga",
+     "Clara"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Language Acquisition",
+   "subtype": "Vocabulary Explosion & First Questions",
+   "description": "Rapid word growth, naming objects and feelings, asking \"what is that?\"."
+  },
+  {
+   "sno": 159,
+   "plan": {
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Tanuja",
+     "Deepak"
+    ],
+    "5": [
+     "Gurpreet",
+     "Sharmila"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Social",
+   "subtopic": "Self-Concept",
+   "subtype": "Self-Recognition & Ownership",
+   "description": "Recognizing oneself in a mirror, saying \"me/mine\", first sense of a separate self."
+  },
+  {
+   "sno": 160,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Nirmala",
+     "Shankar"
+    ],
+    "5": [
+     "Jomon",
+     "Noor"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Habits & Ethics",
+   "subtopic": "Early Routines",
+   "subtype": "Toilet Training & Self-Feeding",
+   "description": "Gaining voluntary bodily control and independent eating as first experiences of autonomy."
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 788,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ramesh",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent stories",
+   "subtype": "Grandparent × Affection [Actor]",
+   "description": "I love when my grandmother tells old stories while oiling my hair. Warmth and belonging come from these moments. I listen, ask questions and remember. Time with her is a gift.",
+   "graph_context": [
+    "same situation, other stances at this age: anger",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 789,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Chetan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent stories",
+   "subtype": "Grandparent × Irritation [Actor]",
+   "description": "My grandfather repeats the same advice and I roll my eyes. Some of it feels old-fashioned. I can listen patiently and still make my own choices. Rude answers cost more than they seem.",
+   "graph_context": [
+    "same situation, other stances at this age: affection",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 790,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Ritu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent stories",
+   "subtype": "Grandparent × Indulgence [Receiver]",
+   "description": "My grandmother spoils me with sweets and lets me skip chores. It feels lovely but my parents set rules. I enjoy it without using her against my parents. Wise kids know both kinds of love.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 791,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend breaks a promise",
+   "subtype": "Friend × Disappointment [Actor]",
+   "description": "My friend promised to come to my birthday and did not show. I am hurt. I tell her calmly what it felt like and ask why. Snapping back or refusing to talk leaves the hurt untouched.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, forgiveness, shame",
+    "related mind states: disappointment, calm, hurt"
+   ]
+  },
+  {
+   "sno": 792,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend breaks a promise",
+   "subtype": "Friend × Forgiveness [Actor]",
+   "description": "She said sorry and explained. I forgive her, though I may be careful for a while. Forgiveness means letting go of anger, not pretending nothing happened. If it keeps happening, I say so.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, distrust, shame",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 793,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Kofi",
+     "Olga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend breaks a promise",
+   "subtype": "Friend × Shame [Receiver]",
+   "description": "I broke my promise to my friend and I am too embarrassed to face her. Hiding worsens things. Wise: tell her the truth, say sorry, and try to make it up. Honest apologies heal.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, distrust, forgiveness",
+    "related mind states: shame, embarrassment"
+   ]
+  },
+  {
+   "sno": 794,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend breaks a promise",
+   "subtype": "Friend × Distrust [Actor]",
+   "description": "After being let down again and again, I stop believing her promises. Protecting myself is fine. I can still be friendly and stop counting on her for big things. Not cruel, only careful.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, forgiveness, shame",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 795,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Blamed for something I did not do",
+   "subtype": "Teacher × Injustice [Receiver]",
+   "description": "I was blamed for something I did not do and I feel hot with unfairness. I explain calmly with facts and ask for a fair look. Shouting or crying is understandable but less effective. A parent can help.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear",
+    "related mind states: sadness, calm"
+   ]
+  },
+  {
+   "sno": 796,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Blamed for something I did not do",
+   "subtype": "Friend × Betrayal [Receiver]",
+   "description": "A friend let me take the blame to save herself. I feel deeply betrayed. I can tell her I saw what she did and hear her out. Trust breaks, and I decide slowly whether to repair it.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, fear",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 797,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Hrithik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Blamed for something I did not do",
+   "subtype": "Friend × Fear [Actor]",
+   "description": "I let my friend take the blame because I was scared. Afterward I feel sick. The brave step is to go to the teacher and admit the truth, then apologise to her. Fear passes; regret stays.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fairness",
+    "related mind states: fear, regret"
+   ]
+  }
+ ]
+}

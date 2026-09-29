@@ -1,0 +1,282 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2948,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Tanuja"
+    ],
+    "2": [
+     "Nikita",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 5: The breaking of the ice [Response]",
+   "description": "One says \"I go quiet when I am overwhelmed. It is not that I do not care. Can I take a short break and then come back to this?\" Explaining silence turns it from a weapon into a signal.",
+   "graph_context": [
+    "previous stage: Mutual freeze",
+    "next stage: New rules for conflict",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 2949,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Tarun"
+    ],
+    "2": [
+     "Ishita",
+     "Manoj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 6: New rules for conflict [Response]",
+   "description": "They agree that pauses are allowed if they have a return time and that no one is ever left guessing. If silence is continual and controlling, seeking a counsellor is a sound next step.",
+   "graph_context": [
+    "previous stage: The breaking of the ice",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 2950,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Shankar"
+    ],
+    "2": [
+     "Ankita",
+     "Parul"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 1: The harm happens [Actor]",
+   "description": "A child grabs a friend's toy and the friend cries. The child feels a flicker of wanting and then confusion at the crying, and may freeze, laugh nervously or say \"I did not do it\".",
+   "graph_context": [
+    "next stage: Notice the other's feelings",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: amusement, sadness, anxiety, confusion"
+   ]
+  },
+  {
+   "sno": 2951,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Hansa"
+    ],
+    "2": [
+     "Sachin",
+     "Thomas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 2: Notice the other's feelings [Response]",
+   "description": "The teacher crouches down and points to what is visible: \"Look, Aman is sad, his face is wet.\" She helps the child link his action to his friend's tears, which is empathy being built.",
+   "graph_context": [
+    "previous stage: The harm happens",
+    "next stage: Defensiveness",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness, empathy"
+   ]
+  },
+  {
+   "sno": 2952,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Tomas",
+     "Liam"
+    ],
+    "2": [
+     "Devika",
+     "Indu"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 3: Defensiveness [Actor]",
+   "description": "The child says \"He was slow!\" or \"He started it.\" At this age it is a way to avoid the uncomfortable feeling of being bad, not real lying; calm, non-shaming words let the feeling pass faster.",
+   "graph_context": [
+    "previous stage: Notice the other's feelings",
+    "next stage: Forced sorry versus felt sorry",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2953,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Preeti"
+    ],
+    "2": [
+     "Neelam",
+     "Bhupen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 4: Forced sorry versus felt sorry [Observer]",
+   "description": "A parent who insists on an immediate \"say sorry\" gets a mumbled word with no feeling. Children learn what an apology means from adults who model it, and from being asked what could make the friend feel better.",
+   "graph_context": [
+    "previous stage: Defensiveness",
+    "next stage: A repair action",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 2954,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Vidya"
+    ],
+    "2": [
+     "Sahil",
+     "Lavanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 5: A repair action [Response]",
+   "description": "The child offers the toy back, gives a hug if the friend wants one, or draws a picture. Fixing something concrete makes sense to a young mind more than words, and it feels good for both.",
+   "graph_context": [
+    "previous stage: Forced sorry versus felt sorry",
+    "next stage: Friendship resumes",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2955,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Ganga"
+    ],
+    "2": [
+     "Vera",
+     "Diego"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 6: Friendship resumes [Receiver]",
+   "description": "The hurt child accepts and returns to play, often within minutes. Young children forgive quickly when repair is real, and this teaches that a mistake does not end a friendship.",
+   "graph_context": [
+    "previous stage: A repair action",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2956,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Arnab"
+    ],
+    "2": [
+     "Vidya",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 1: Realising the harm [Actor]",
+   "description": "A young adult cancelled on a friend's birthday for a better invitation, and a day later sees the friend's cold reply. A pang of guilt follows, mixed with a wish to defend what he did.",
+   "graph_context": [
+    "next stage: Temptation to excuse",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 2957,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Pradeep"
+    ],
+    "2": [
+     "Nilesh",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 2: Temptation to excuse [Actor]",
+   "description": "He drafts a message that begins \"I am sorry if you felt...\" and blames traffic or workload. The urge is to be forgiven without feeling the discomfort of being wrong, which usually makes things worse.",
+   "graph_context": [
+    "previous stage: Realising the harm",
+    "next stage: The friend's hurt and guard",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2349,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Posture",
+     "subtype": "Kneeling and bowing in respect [Mismatch]",
+     "description": "A child in some settings learns to kneel, bow or stand when elders or teachers enter, for example touching feet or standing to greet. Meaning is respect in that culture, not weakness, and rules differ across families, faiths and schools."
+    },
+    {
+     "sno": 2805,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Posture",
+     "subtype": "Posture in workplace hierarchy [Mismatch]",
+     "description": "A young professional meets bosses who lean back, sit tall or stand close, and finds that posture signals status differently across offices and cultures. Guessing attitude from body position alone is risky; behaviour over time tells more."
+    }
+   ],
+   "cluster_id": "C0589",
+   "cast": [
+    "Tarun",
+    "Kamal",
+    "Vandana"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2273,
+     "age": "4–6",
+     "topic": "Expression & Mind State",
+     "subtopic": "Criticism and dissatisfaction",
+     "subtype": "Hearing a scolding [Interpreting]",
+     "description": "A young child reads a scolding mostly through the adult's face, volume and tone and may feel unlovable rather than corrected. Short, calm correction of the act, not the child, helps the message be understood."
+    },
+    {
+     "sno": 2412,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Criticism and dissatisfaction",
+     "subtype": "Receiving reprimands [Interpreting]",
+     "description": "A child receiving a reprimand may look down, argue, cry or go silent, and the reaction does not prove guilt or indifference. Adults do better focusing on the behaviour and the fix rather than shame."
+    }
+   ],
+   "cluster_id": "C0590",
+   "cast": [
+    "Sudha",
+    "Nandini",
+    "Sabina"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3891,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Class clown covering embarrassment [Actor]",
+     "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry."
+    },
+    {
+     "sno": 3892,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Self-deprecating joke before teasing [Actor]",
+     "description": "A teenager mocks their own braces or marks before anyone else can; it wins acceptance but repeated self-mockery can teach others to see them as a target."
+    }
+   ],
+   "cluster_id": "C0591",
+   "cast": [
+    "Tarun",
+    "Dolma",
+    "Arohi"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4107,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Worry",
+     "subtype": "Night-time what ifs [Actor]",
+     "description": "A child lying in bed wonders what if they fail or something happens to their mother; worry tries to prepare for danger but mostly manufactures alarms, and a calm routine and reassurance help."
+    },
+    {
+     "sno": 4108,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Worry",
+     "subtype": "Worrying about exams and future [Actor]",
+     "description": "A teenager thinks of every possible way an exam could go wrong and can barely start studying; worry feels like responsibility, though it often replaces action."
+    }
+   ],
+   "cluster_id": "C0592",
+   "cast": [
+    "Saurabh",
+    "Vaibhav",
+    "Simran"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3768,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Mental accounting",
+     "subtype": "Money in labelled pots [Actor]",
+     "description": "A child who received festival gift money feels free to spend it all on sweets, but would never spend the same amount from his pocket money. The source changes how the money feels."
+    },
+    {
+     "sno": 3769,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Mental accounting",
+     "subtype": "Windfall money [Actor]",
+     "description": "A teenager treats a prize or a gift as fun money and spends it quickly, while guarding money he earned. Every rupee is the same but the mind sorts them differently."
+    },
+    {
+     "sno": 3770,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Mental accounting",
+     "subtype": "Budgets and refunds [Actor]",
+     "description": "A student spends a tax refund or a bonus carelessly while pinching on small daily costs. Separate mental accounts stop him seeing his whole financial picture."
+    }
+   ],
+   "cluster_id": "C0593",
+   "cast": [
+    "Lokesh",
+    "Ramesh",
+    "Pradeep"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5408,
+     "age": "7–12",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Talking to children",
+     "subtype": "Sarcasm and comparison [Receiver]",
+     "description": "A child hears why can't you be like your cousin and is left feeling inadequate. Children often take sarcasm literally and carry comparison into their self-image for years."
+    },
+    {
+     "sno": 5409,
+     "age": "13–17",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Talking to children",
+     "subtype": "Talking down to teens [Receiver]",
+     "description": "A teenager addressed like a small child by a teacher or a relative feels disrespected and turns defiant. Treating them as a developing adult with real opinions draws cooperation."
+    }
+   ],
+   "cluster_id": "C0594",
+   "cast": [
+    "Eshaan",
+    "Pranav",
+    "Himani"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7141,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Bidisha",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: revisiting the rules when circumstances change [Revision]",
+   "description": "After one partner changes jobs and the income drops, they hold a special meeting, cut two categories and adjust contributions. Rules are treated as a working agreement rather than a fixed law.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7142,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Bhavna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: identifying the underlying concern behind the demand [Thinking]",
+   "description": "A wife notices her mother-in-law's insistence on cooking for the family comes from a wish to feel needed. She considers ways to include her rather than only resisting.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 7143,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: agreeing with the spouse before speaking to parents [Action]",
+   "description": "The couple first decides their shared position on visits and holidays. Only then does the husband talk to his parents, so the family sees a united couple, not a spouse against them.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 7144,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: rehearsing a calm, respectful message [Action]",
+   "description": "He plans what to say about shifting Sunday lunches, focuses on I-statements and thanks, and picks a private moment. This lowers the chance of a defensive reaction.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, seeking advice",
+    "related mind states: gratitude, admiration, calm"
+   ]
+  },
+  {
+   "sno": 7145,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: setting a small trial arrangement [Action]",
+   "description": "Instead of a permanent rule, they propose that for two months the family lunches twice a month and tests it. A trial feels less like rejection and is easier to accept.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, magical thinking, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 7146,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: avoiding the issue and building resentment [Pitfall]",
+   "description": "The wife says nothing about frequent unannounced visits. Resentment builds, and one day a minor comment leads to an outburst that hurts everyone far beyond the original matter.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, experiment and measure, magical thinking, mental simulation, seeking advice",
+    "related mind states: resentment, hurt"
+   ]
+  },
+  {
+   "sno": 7147,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: complaining to relatives to gain support [Pitfall]",
+   "description": "She tells her cousins and friends about her mother-in-law's behaviour. The story spreads, the in-laws feel disrespected, and the conflict widens into a family issue.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, mental simulation, seeking advice",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 7148,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: asking a trusted elder to mediate [Action]",
+   "description": "When direct talk stalls, they ask a respected aunt who is fair to both sides. Her calm suggestions about visit timing are accepted more easily than anything from the couple.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, mental simulation, seeking advice",
+    "related mind states: admiration, calm, trust"
+   ]
+  },
+  {
+   "sno": 7149,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Sudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: distancing to protect the marriage while staying courteous [Thinking]",
+   "description": "After repeated conflicts over money advice, the couple limits certain topics and keeps visits short but warm. It is an imperfect compromise, and they accept it for now.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 7150,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Beatriz",
+     "Clara"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: reviewing what worked after the festival season [Revision]",
+   "description": "After a tense Diwali, they note which arrangements helped and which did not. They change next year's plan by hosting one meal and travelling for the other, staying kinder to all.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, magical thinking, mental simulation, seeking advice"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2157,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Collective and ritual expression",
+     "subtype": "Clapping and joining in [Expressing]",
+     "description": "A toddler claps when others clap and waves along with a group song. Joining in shows delight and belonging, and imitation is how children learn shared signals."
+    },
+    {
+     "sno": 2608,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Collective and ritual expression",
+     "subtype": "Vigils, candlelight and mourning together [Expressing]",
+     "description": "A teenager joins a school vigil or memorial, showing grief and solidarity with silence, flowers or lamps. Each participant may feel different things, and some may cry while others feel numb."
+    },
+    {
+     "sno": 2890,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Collective and ritual expression",
+     "subtype": "Online collective expression [Expressing]",
+     "description": "A young adult joins hashtags, petitions, group chats or shared black-profile-picture moments to show solidarity. Digital unity is easy to join and quick to fade, and it works best paired with real support."
+    }
+   ],
+   "cluster_id": "C0637",
+   "cast": [
+    "Vishal",
+    "Ira",
+    "Nandini"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3599,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Hindsight bias",
+     "subtype": "I knew it all along [Actor]",
+     "description": "After the match ends a child says he knew that team would lose. The mind quietly rewrites earlier uncertainty into a neat, predictable story."
+    },
+    {
+     "sno": 3600,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Hindsight bias",
+     "subtype": "Blaming after results [Actor]",
+     "description": "A teenager whose friend failed an exam says it was obvious, ignoring that the outcome looked open beforehand. Judging past choices by known results is unfair to the decider."
+    }
+   ],
+   "cluster_id": "C0638",
+   "cast": [
+    "Sudha",
+    "Deepika",
+    "Ishita"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5590,
+     "age": "7–12",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+     "subtype": "Stimulation: craves novelty and thrill [Actor]",
+     "description": "A child begs to try the tallest slide and every new game; excitement and challenge feel like life itself, and boredom feels worse than a little risk."
+    },
+    {
+     "sno": 5593,
+     "age": "18–22",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+     "subtype": "Power: wants influence and standing [Actor]",
+     "description": "A young adult stands for student leadership to shape decisions and be respected; the wish for influence can serve a group well or slide into wanting control over others."
+    },
+    {
+     "sno": 5595,
+     "age": "23–26",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+     "subtype": "Security: prizes safety and stability [Actor]",
+     "description": "A young professional chooses a steady job and saves carefully, valuing certainty and safety for family over chances; calm and worry can both come with the choice."
+    }
+   ],
+   "cluster_id": "C0639",
+   "cast": [
+    "Mahima",
+    "Akash",
+    "Farhan"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2535,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pauses and timing",
+     "subtype": "Silence and abruptly stopping [Mismatch]",
+     "description": "A teenager who falls silent or stops abruptly mid-sentence may be hurt, embarrassed, angry or simply thinking. Silence is ambiguous, so a caring reply gives space and leaves the door open to talk later."
+    },
+    {
+     "sno": 2834,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pauses and timing",
+     "subtype": "Cross-cultural timing and interruption [Mismatch]",
+     "description": "In some Indian and other group settings overlapping speech signals engagement, while in others it signals disrespect. A young professional watches the local norm before judging someone as rude or passive."
+    }
+   ],
+   "cluster_id": "C0640",
+   "cast": [
+    "Zeenat",
+    "Usha",
+    "Devika"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3608,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Loss aversion",
+     "subtype": "Losing hurts more than gaining [Actor]",
+     "description": "A child cries harder over losing a marble than he celebrates winning one. Giving up something owned feels heavier than getting an equal thing."
+    },
+    {
+     "sno": 3609,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Loss aversion",
+     "subtype": "Fear of losing rank or friends [Actor]",
+     "description": "A teenager avoids trying a new sport or friend group because losing his current standing feels worse than any possible gain. Safe choices shrink his world."
+    },
+    {
+     "sno": 3610,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Loss aversion",
+     "subtype": "Missing out and holding on [Actor]",
+     "description": "A young adult holds a losing stock or a failing project too long to avoid the pain of realising the loss, while selling winners too soon."
+    }
+   ],
+   "cluster_id": "C0641",
+   "cast": [
+    "Seema",
+    "Yogesh",
+    "Yamini"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4377,
+     "age": "1–3",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Secure attachment",
+     "subtype": "Toddler using a safe base [Actor]",
+     "description": "A toddler explores, checks back with a caregiver, protests at parting and is soothed on return. Trust that comfort will come lets the child venture out, and feelings can be shown openly."
+    },
+    {
+     "sno": 4380,
+     "age": "7–12",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Secure attachment",
+     "subtype": "School-age confidence in friendships [Actor]",
+     "description": "A child makes friends, handles quarrels and asks for help without shame. Assumes people generally mean well, and can recover after a disagreement."
+    },
+    {
+     "sno": 4382,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Secure attachment",
+     "subtype": "Adult relationships with trust [Actor]",
+     "description": "A young adult can say what they need, tolerate a partner's need for space and repair after fights. Closeness and independence coexist without constant fear of loss."
+    }
+   ],
+   "cluster_id": "C0642",
+   "cast": [
+    "Nazia",
+    "Nandini",
+    "Ankita"
+   ]
+  }
+ ]
+}

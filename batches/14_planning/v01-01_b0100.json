@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6751,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ingrid",
+     "Nadia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: scheduling regular call times [Action]",
+   "description": "The couple agree on three calls a week around the student's lab hours and the partner's shift, and keep one weekend slot for a long conversation.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 6752,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Imran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: values-first talk about expectations [Thinking]",
+   "description": "Before the move, the two discuss what each needs, such as daily check-ins, honesty about feelings and space for exams, and write down shared expectations for both.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6753,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Himani",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: assuming silence means loss of interest [Pitfall]",
+   "description": "When the partner's replies slow during exams, the student imagines the worst and sends many anxious messages, which adds pressure and starts an argument.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, resource and budget planning, values-first planning",
+    "related mind states: anxiety, interest"
+   ]
+  },
+  {
+   "sno": 6754,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: emotion-aware planning before a hard call [Thinking]",
+   "description": "Noticing that late-night calls end in fights, the couple move serious topics to a calmer weekend slot and use nights only for light chat.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, resource and budget planning, values-first planning",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6755,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Bidisha",
+     "Shreya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: buffer planning around exams [Action]",
+   "description": "The couple mark each other's exam weeks on a shared calendar, agree on fewer calls then, and plan a longer catch-up right after.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, forward planning, mental simulation, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 6756,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: planning a visit with a shared budget [Action]",
+   "description": "The pair work out train fares, stay and food for a weekend visit, take turns paying for trips, and set aside a small monthly amount from allowances.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6757,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Esther",
+     "Marek"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: open-ended distance with no end date [Pitfall]",
+   "description": "The couple never discuss where they will live after graduation, and vague hope slowly turns into resentment because both quietly fear the answer.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, resource and budget planning, values-first planning",
+    "related mind states: fear, hope, resentment"
+   ]
+  },
+  {
+   "sno": 6758,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: contingency planning for career moves [Thinking]",
+   "description": "The couple talk through a few possible futures, such as one of them getting a job in another city, and agree on when to revisit the plan, without forcing a promise.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, forward planning, mental simulation, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 6759,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Zeenat",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: revising the routine when it feels forced [Revision]",
+   "description": "Realising that daily calls have become a chore, the couple switch to shorter daily messages and two proper calls a week, and the relationship feels lighter again.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, mental simulation, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 6760,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Alka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Long-distance relationship",
+   "subtype": "Approach: ending it kindly after honest reflection [Revision]",
+   "description": "After a year of mismatched goals and repeated talks, one partner says openly that the distance no longer works, and both agree to part on respectful terms.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, forward planning, mental simulation, resource and budget planning, values-first planning",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6581,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: weighing values of loyalty and honesty [Thinking]",
+   "description": "A student who saw his close friend copy in a test lists what matters, friendship, fairness to others and his own integrity, and notices the conflict is real rather than simple.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, sleeping on it",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 6582,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Rekha",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: talking to the friend first [Action]",
+   "description": "A teen privately tells her friend that copying worries her, asks why it happened, and gives her a chance to fix it herself, such as confessing to the teacher.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, sleeping on it, values-first planning",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6583,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: seeking advice from a trusted adult [Action]",
+   "description": "Unsure what to do, a student describes the situation to a parent without naming names first, hears how they handled similar choices, and then decides in a clearer frame.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, sleeping on it, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6584,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Jagdish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: pros-and-cons of each option [Thinking]",
+   "description": "A student writes consequences of staying silent, speaking to the friend or telling a teacher, including harm to honest classmates, damage to friendship and effect on the friend's future.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 6585,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: reporting through the proper channel calmly [Action]",
+   "description": "After the friend refuses to stop, a teen tells the teacher or counsellor factually, without gossip, asking that the matter be handled fairly and explaining that she is worried, not vengeful.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, sleeping on it, values-first planning",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 6586,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: staying silent to avoid conflict [Pitfall]",
+   "description": "A student tells himself it is not his business, and the friend keeps copying, gains marks over honest classmates, and the student feels uneasy each time he sees the result.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, pros and cons, seeking advice, sleeping on it, values-first planning",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6587,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: public shaming on social media [Pitfall]",
+   "description": "An angry teen posts a hint about the cheater in the class group, which humiliates the friend, spreads rumours and turns a matter for the teacher into a fight.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, sleeping on it, values-first planning",
+    "related mind states: anger, humiliation"
+   ]
+  },
+  {
+   "sno": 6588,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: rationalising that everyone does it [Pitfall]",
+   "description": "A student notes that half the class copies and decides it does not matter, using the crowd as an excuse and letting the standard slide without weighing the effect on fairness.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pros and cons, seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 6589,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: reconsidering after seeing the friend's reasons [Revision]",
+   "description": "After learning that the friend was under heavy pressure from home, a teen still insists on stopping the cheating but also helps him ask for tutoring, changing how the problem is approached.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 6590,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to report a cheating friend",
+   "subtype": "Approach: sleeping on it before acting [Thinking]",
+   "description": "A student holds back for a night, cools down, and the next morning decides on a private conversation followed by a teacher if nothing changes, since a rushed act might have been angrier.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, pros and cons, seeking advice, values-first planning"
+   ]
+  }
+ ]
+}

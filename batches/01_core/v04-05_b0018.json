@@ -1,0 +1,238 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 171,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Deepak",
+     "Siddharth"
+    ],
+    "5": [
+     "Zeenat",
+     "Tanvir"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Morality",
+   "subtopic": "Honesty",
+   "subtype": "Truth vs. Lie Distinction",
+   "description": "Understanding that lying breaks trust; experimenting with lies and seeing consequences.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 172,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Gopika",
+     "Seema"
+    ],
+    "5": [
+     "Vaibhav",
+     "Ojas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Morality",
+   "subtopic": "Repair",
+   "subtype": "Apologizing & Making Amends",
+   "description": "Repairing harm through saying sorry, helping or returning an item."
+  },
+  {
+   "sno": 173,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Ulla",
+     "Yuki"
+    ],
+    "5": [
+     "Deepika",
+     "Sarita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Diversity Awareness",
+   "subtype": "Noticing Differences Kindly",
+   "description": "Noticing differences in appearance, language, ability and family type without hostility.",
+   "graph_context": [
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 174,
+   "plan": {
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Hafsa",
+     "Reena"
+    ],
+    "5": [
+     "Damini",
+     "Sahil"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Safety",
+   "subtopic": "Personal Safety",
+   "subtype": "Home, Road & Stranger Safety",
+   "description": "Knowing own name and parent contact, crossing roads with an adult, telling a trusted adult about unsafe touch.",
+   "graph_context": [
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 175,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Urmila",
+     "Samir"
+    ],
+    "5": [
+     "Jagdish",
+     "Vaibhav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Physical",
+   "subtopic": "Health Habits",
+   "subtype": "Eating, Sleep & Hygiene Independence",
+   "description": "Brushing, washing, dressing oneself and accepting a variety of foods."
+  },
+  {
+   "sno": 176,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Parul",
+     "Ujjwal"
+    ],
+    "5": [
+     "Tejas",
+     "Amandeep"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cultural",
+   "subtopic": "Cultural Identity",
+   "subtype": "Festivals, Folk Stories & Family Traditions",
+   "description": "Participating in traditions and understanding \"this is how our family does it\"."
+  },
+  {
+   "sno": 177,
+   "plan": {
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Ramesh",
+     "Kishore"
+    ],
+    "5": [
+     "Pallavi",
+     "Jaya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Digital & Technology",
+   "subtopic": "Screen Habits",
+   "subtype": "Screen Limits & Real vs. Fantasy Content",
+   "description": "Accepting screen boundaries and distinguishing cartoons and ads from reality."
+  },
+  {
+   "sno": 178,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Salma",
+     "Pranav"
+    ],
+    "5": [
+     "Bhupen",
+     "Sonali"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Executive Function",
+   "subtype": "Following Multi-Step Routines",
+   "description": "Completing a sequence like shoes, bag and water bottle with few reminders."
+  },
+  {
+   "sno": 179,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Darshan",
+     "Asif"
+    ],
+    "5": [
+     "Raghav",
+     "Sabina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Time Concept",
+   "subtype": "Yesterday, Today & Tomorrow",
+   "description": "Understanding sequence of days and tolerating waiting."
+  },
+  {
+   "sno": 180,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Vaibhav",
+     "Pallavi"
+    ],
+    "5": [
+     "Arnab",
+     "Vikas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Friendship",
+   "subtype": "First Chosen Friendships",
+   "description": "Preferring particular playmates, missing them, and beginning loyalty."
+  }
+ ]
+}

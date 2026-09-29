@@ -1,0 +1,267 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5182,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Parveen"
+    ],
+    "2": [
+     "Pranav",
+     "Tenzin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Boundaries, rest and recovery [Response]",
+   "description": "A wise worker protects sleep, meals, movement and time away from work, and states limits early. Rest is part of the work cycle, since quality output depends on a recovered mind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5183,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Uma"
+    ],
+    "2": [
+     "Harish",
+     "Kashish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Reducing load rather than powering through [Response]",
+   "description": "A person feeling worn down asks to drop, delay or share tasks and speaks to a manager or doctor when symptoms persist. Reducing demand early is a sensible response, not a failure of commitment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5184,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Ayesha"
+    ],
+    "2": [
+     "Preeti",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Quitting when it gets hard [Actor]",
+   "description": "A teenager drops a sport or class the moment it becomes difficult, calling it boredom. Some quitting is wise, but leaving at the first discomfort prevents the growth that lies just beyond the hard part.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5185,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Yash"
+    ],
+    "2": [
+     "Manjula",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Sunk cost trap [Actor]",
+   "description": "A student continues a course or relationship long after it stopped fitting because so much has already been invested. Past effort feels like a reason to continue, but only future value should decide.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "possibly related concept (heuristic): Sunk cost fallacy"
+   ]
+  },
+  {
+   "sno": 5186,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rafael",
+     "Rania"
+    ],
+    "2": [
+     "Vishal",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Quit versus pause and adjust [Response]",
+   "description": "A wise person asks whether the problem is the goal, the method or a temporary phase, and can change the method or take a break before ending. Setting a review date turns quitting into a considered choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5187,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Jahnavi"
+    ],
+    "2": [
+     "Harish",
+     "Hansa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Leaving a job or project [Actor]",
+   "description": "A young professional deciding to leave feels mixed guilt, fear and relief, with worry about family expectations and colleagues. Careful thought about reasons, timing and a graceful handover matters as much as the decision.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, anxiety, guilt, relief"
+   ]
+  },
+  {
+   "sno": 5188,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Jatin"
+    ],
+    "2": [
+     "Usha",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Parents against quitting [Receiver]",
+   "description": "A person deciding to change career or course meets parental fear that quitting means failure or lost security. Calm explanation, a plan and evidence of thought usually reach parents better than defiance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hostility, fear, calm"
+   ]
+  },
+  {
+   "sno": 5189,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Anjali"
+    ],
+    "2": [
+     "Naveen",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Stopping and quitting wisely",
+   "subtype": "Quitting cleanly [Response]",
+   "description": "A mature quitter tells people honestly, finishes commitments already made and leaves without blaming or burning bridges. How a person ends something shapes their reputation as much as how they performed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5190,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Bhavna"
+    ],
+    "2": [
+     "Jomon",
+     "Charu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Copying to meet a deadline [Actor]",
+   "description": "A teenager under exam or assignment pressure copies work and tells themselves it is just this once. Fear of failure and a common culture of copying make it feel normal, while the habit erodes their own ability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: fear",
+    "related concepts: fear of failure"
+   ]
+  },
+  {
+   "sno": 5191,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Dhruv"
+    ],
+    "2": [
+     "Bhupen",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Cutting corners in a group task [Actor]",
+   "description": "A student fabricates a data point or lets a team member's uncredited work pass as theirs to meet a deadline. Rationalisations such as everyone does it soften the guilt without removing the harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: guilt"
+   ]
+  }
+ ]
+}

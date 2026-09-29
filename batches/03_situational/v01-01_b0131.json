@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1618,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of loved one",
+   "subtype": "Family × Compassion [Receiver]",
+   "description": "Relatives cook, visit and sit quietly with us. I feel held even though nothing fixes it. Wise: accept the presence, and say what I need. Harmful: hiding grief to make visitors comfortable.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, dependence, grief, guilt, indifference",
+    "related mind states: grief, empathy"
+   ]
+  },
+  {
+   "sno": 1619,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of loved one",
+   "subtype": "God × Anger [Actor]",
+   "description": "Why did God take him? I am angry and a bit ashamed of it. Wise: anger and faith can coexist; allow the questions, seek people with wisdom and patience. Harmful: forced acceptance that hides the pain.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, dependence, grief, guilt, indifference",
+    "related mind states: anger, shame, hurt"
+   ]
+  },
+  {
+   "sno": 1620,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of loved one",
+   "subtype": "Parent × Dependence [Receiver]",
+   "description": "After my father's death, my mother leans on me as if I were the adult. I feel pride and heaviness. Wise: support her while also grieving myself and involving relatives. Harmful: taking on all the roles alone.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, grief, guilt, indifference",
+    "related mind states: grief, pride"
+   ]
+  },
+  {
+   "sno": 1621,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of loved one",
+   "subtype": "Self × Numbness [Actor]",
+   "description": "A week after the funeral I feel nothing and worry something is wrong with me. Wise: numbness is a common protection; be patient, keep routines, and get help if it does not lift. Harmful: judging myself for not crying.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, dependence, grief, guilt, indifference",
+    "related mind states: sadness, anxiety, detachment"
+   ]
+  },
+  {
+   "sno": 1622,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of loved one",
+   "subtype": "Peer × Indifference [Receiver]",
+   "description": "My classmates return to normal life while I feel frozen, and it hurts that nobody asks. Wise: tell one or two people what I need; grief is invisible unless named. Harmful: assuming nobody cares.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, dependence, grief, guilt",
+    "related mind states: grief, hurt"
+   ]
+  },
+  {
+   "sno": 1623,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing or facing discrimination",
+   "subtype": "Colleague × Contempt [Receiver]",
+   "description": "A coworker makes a casual joke about my caste, religion, region or accent. I feel heat and shame. Wise: name it calmly, note it, use HR or a trusted senior; the fault lies in the joke, not my identity.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, mockery, prejudice, protectiveness, rejection",
+    "related mind states: contempt, shame, calm, trust"
+   ]
+  },
+  {
+   "sno": 1624,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Madhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing or facing discrimination",
+   "subtype": "Landlord × Rejection [Receiver]",
+   "description": "A landlord refuses to rent to me because of who I am. I feel angry and small. Wise: it says more about his prejudice; know the legal options, keep notes, find allies and other options. Harmful: internalising it.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, guilt, mockery, prejudice, protectiveness",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1625,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Alka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing or facing discrimination",
+   "subtype": "Classmate × Mockery [Receiver]",
+   "description": "People mimic my accent or food and call it banter. I laugh along and feel hurt. Wise: tell them plainly it is not fine, and look for people who respect it. Harmful: hiding my roots to fit in.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, guilt, prejudice, protectiveness, rejection",
+    "related mind states: amusement, admiration, hurt"
+   ]
+  },
+  {
+   "sno": 1626,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing or facing discrimination",
+   "subtype": "Bystander × Guilt [Actor]",
+   "description": "I watched someone be insulted for his background and said nothing. I feel guilty. Wise: check on him afterwards, back him up next time, or report. Harmful: excusing my silence as \"not my business\".",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, mockery, prejudice, protectiveness, rejection",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1627,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing or facing discrimination",
+   "subtype": "Discriminator × Anger [Actor]",
+   "description": "I want to hit back at someone who insulted my community. Wise: anger is valid; direct it into complaints, support and safe, organised responses. Harmful: violence or retaliatory hate towards a whole group.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, guilt, mockery, prejudice, protectiveness, rejection",
+    "related mind states: anger, trust"
+   ]
+  }
+ ]
+}

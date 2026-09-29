@@ -1,0 +1,220 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 388,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Heartbreak & hatred",
+   "description": "Cycles between longing and rage, and is tempted to stalk or shame the ex online; boundaries, no-contact and support networks protect both people.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, obsession",
+    "related mind states: anger, shame, nostalgia"
+   ]
+  },
+  {
+   "sno": 389,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Closure & gratitude",
+   "description": "Acknowledges what the relationship taught and lets go without rewriting it into pure villainy.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, grief, hatred, obsession",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 390,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Roommate breaks agreements",
+   "subtype": "Roommate × Argument",
+   "description": "Raises the issue at a calm time with specifics and a proposed fix, instead of passive-aggressive notes or explosive fights.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, trust",
+    "related mind states: hostility, calm"
+   ]
+  },
+  {
+   "sno": 391,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents pressure on career or marriage",
+   "subtype": "Parents × Guilt & duty",
+   "description": "Feels torn between own aspirations and family expectation; honest, respectful conversation with a concrete plan works better than defiance or compliance out of fear.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, comparison, disillusionment, fear, gratitude",
+    "paired view exists: Actor (S1398)",
+    "related mind states: admiration, hostility, fear, guilt"
+   ]
+  },
+  {
+   "sno": 392,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Harsha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents pressure on career or marriage",
+   "subtype": "Parents × Gratitude & independence",
+   "description": "Expresses thanks for sacrifices while stating boundaries about own life decisions.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, comparison, disillusionment, fear, guilt",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 393,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a mentor",
+   "subtype": "Mentor × Admiration & dependence",
+   "description": "Learns from a mentor but eventually forms own judgement; healthy mentorship ends in peer respect, not permanent dependence.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 394,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Following a spiritual teacher",
+   "subtype": "Guru × Worship",
+   "description": "Finds peace and direction in devotion; stays alert to signs of exploitation such as demands for money, isolation from family or suppression of questions.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, disillusionment, fear, gratitude, manipulation",
+    "paired view exists: Receiver (S1556)",
+    "related mind states: calm, loneliness"
+   ]
+  },
+  {
+   "sno": 395,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Minakshi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Contempt",
+   "description": "Dismisses opponents as stupid or evil; learns that steel-manning their view improves own thinking and keeps friendships alive.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, curiosity, fear, manipulation, rejection",
+    "related mind states: contempt"
+   ]
+  },
+  {
+   "sno": 396,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Curiosity",
+   "description": "Asks \"how did you come to that view?\" and finds shared values beneath disagreement.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, contempt, fear, manipulation, rejection",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 397,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend succeeds when you are struggling",
+   "subtype": "Friend × Envy & love",
+   "description": "Feels happy for them and pained for self at once; both feelings can be true, and comparing timelines is the trap.",
+   "graph_context": [
+    "same situation, other stances at this age: pride, rivalry",
+    "paired view exists: Actor (S1378)",
+    "related mind states: joy, affection, envy, hurt"
+   ]
+  }
+ ]
+}

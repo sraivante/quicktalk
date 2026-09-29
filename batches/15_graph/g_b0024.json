@@ -1,0 +1,259 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 335,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Receiving a disappointing gift",
+     "subtype": "Relative × Gratitude",
+     "description": "Learns to say thank you even when the gift is not wanted, understanding the giver's intention; honesty can wait for private moments."
+    },
+    {
+     "sno": 551,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Receiving a disappointing gift",
+     "subtype": "Relative × Honesty [Actor]",
+     "description": "I say \"I don't like this\" out loud in front of the giver. I am not being rude on purpose, I say what I feel. A wise parent shows a kind way: \"thank you, it was kind of you\", and later hears my real feeling."
+    },
+    {
+     "sno": 550,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Receiving a disappointing gift",
+     "subtype": "Relative × Disappointment [Actor]",
+     "description": "I open the box and it is socks, not a toy. My face drops. Wise: say thank you first and cry later at home if needed. Parents can teach that the gift is someone's love even if it is not what I wanted."
+    },
+    {
+     "sno": 552,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Receiving a disappointing gift",
+     "subtype": "Relative × Hurt [Receiver]",
+     "description": "The child made a face at my gift and I feel sad. As the giver I understand small children do not hide feelings. A wise adult does not scold; they may say it lightly and remind the child gratefulness matters."
+    }
+   ],
+   "cluster_id": "C0139",
+   "cast": [
+    "Joseph",
+    "Saurabh",
+    "Sachin"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 802,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Breaking a school rule",
+     "subtype": "Teacher × Respect [Receiver]",
+     "description": "When I admit a mistake, the teacher stays calm and talks about what to do next. I feel relieved, and I learn that being honest earns trust even when I have done wrong."
+    },
+    {
+     "sno": 804,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Breaking a school rule",
+     "subtype": "Classmate × Contempt [Actor]",
+     "description": "I feel superior because I never break rules, and I look down on those who do. Following rules matters, but scorn makes me lonely; kindness and firmness can sit together."
+    },
+    {
+     "sno": 803,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Breaking a school rule",
+     "subtype": "Friend × Loyalty [Actor]",
+     "description": "My friend broke the rule and I want to cover for him. Real loyalty means urging him to own up and standing beside him, not lying so nobody gets in trouble."
+    },
+    {
+     "sno": 800,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Breaking a school rule",
+     "subtype": "Teacher × Guilt [Actor]",
+     "description": "I keep replaying what I did, and it feels heavy. Guilt is useful when it leads me to say sorry and fix things, and unhelpful when it makes me sit alone with it for days."
+    }
+   ],
+   "cluster_id": "C0140",
+   "cast": [
+    "Minakshi",
+    "Maria",
+    "Irfan"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 727,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Winning a match",
+     "subtype": "Rival × Contempt [Actor]",
+     "description": "After beating my rival, I show off and rub it in. It feels sweet for a moment but costs respect. The mature response is to be gracious, because next time I may lose."
+    },
+    {
+     "sno": 728,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Winning a match",
+     "subtype": "Teammate × Envy [Receiver]",
+     "description": "I scored the winning point and a teammate goes quiet and sulks. I understand he wanted that chance. I credit his pass and include him. Downplaying myself completely is not needed either."
+    },
+    {
+     "sno": 726,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Winning a match",
+     "subtype": "Opponent × Pride [Actor]",
+     "description": "I won and feel wonderful. Pride in effort is healthy. Wise: thank the team, be kind to the losers, and remember they feel bad. Gloating and mocking makes winning small."
+    }
+   ],
+   "cluster_id": "C0141",
+   "cast": [
+    "Preeti",
+    "Anand",
+    "Bhupen"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1922,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Online scam",
+     "subtype": "Scammer × Trust [Receiver]",
+     "description": "A caller posing as a bank or a job recruiter sounds friendly and urgent. Scams exploit trust and fear. Never share OTPs or pay upfront fees, verify through official numbers, and remember that anyone can be fooled."
+    },
+    {
+     "sno": 1925,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Online scam",
+     "subtype": "Scammer × Anger [Actor]",
+     "description": "Rage at the fraudster is natural. Use it to file a proper complaint, gather screenshots and transaction IDs, and warn friends. Trying to hunt them yourself or scam them back is risky and rarely helps."
+    },
+    {
+     "sno": 1924,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Online scam",
+     "subtype": "Self × Shame [Actor]",
+     "description": "After losing money, you feel too embarrassed to tell anyone. Shame is what scammers rely on. Report immediately to bank and cyber portal, since speed can recover funds, and share the story to protect others."
+    },
+    {
+     "sno": 1927,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Online scam",
+     "subtype": "Relative or friend × Compassion [Actor]",
+     "description": "A friend or an elderly relative has just been scammed. Do not blame or say I told you so. Help them stop further payment, report the incident, and rebuild confidence with clear safety habits."
+    }
+   ],
+   "cluster_id": "C0142",
+   "cast": [
+    "Jomon",
+    "Dhruv",
+    "Anirban"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1423,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Professor or mentor guidance",
+     "subtype": "Mentor × Gratitude [Actor]",
+     "description": "A mentor changed your direction. Wise: say thanks, pass on what you learn, and later pay it forward. Immature: forgetting them once you succeed."
+    },
+    {
+     "sno": 1418,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Professor or mentor guidance",
+     "subtype": "Professor × Admiration [Receiver]",
+     "description": "A student looks up to you and hangs on your words. Wise: guide without creating dependence and be honest about your limits. Harmful: using their admiration for favours."
+    },
+    {
+     "sno": 1425,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Professor or mentor guidance",
+     "subtype": "Mentor × Exploitation [Receiver]",
+     "description": "A senior or guide uses your work, credit or time without fairness. Wise: name the unfairness politely, set limits and involve someone neutral if needed. It is not ungrateful to protect your work."
+    },
+    {
+     "sno": 1421,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Professor or mentor guidance",
+     "subtype": "Professor × Favouritism [Receiver]",
+     "description": "Grades or projects go to a favourite. Wise: gather facts, raise it through proper channels, and keep your own standards. Harmful: bitterness that damages your work."
+    }
+   ],
+   "cluster_id": "C0143",
+   "cast": [
+    "Anand",
+    "Vaibhav",
+    "Nikita"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 623,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being compared",
+     "subtype": "Parent × Resentment [Actor]",
+     "description": "Papa compares me with the neighbour's child and I feel hurt and stubborn. I may stop trying. A wise child says \"I feel sad when you say that\". A wise parent apologises and encourages me on my own progress."
+    },
+    {
+     "sno": 622,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being compared",
+     "subtype": "Sibling × Envy [Receiver]",
+     "description": "My parent says \"why can't you be like your sister?\" I feel less loved and angry at her. It is not my fault or hers. Wise parents avoid comparison and value each child's own strengths and pace."
+    },
+    {
+     "sno": 625,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being compared",
+     "subtype": "Classmate × Admiration [Actor]",
+     "description": "I see another child run fast and think \"I want to run like her\". I feel inspired and a little jealous. Wise adults help me ask \"can you teach me?\" and say each child is good at different things."
+    },
+    {
+     "sno": 624,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being compared",
+     "subtype": "Classmate × Rivalry [Actor]",
+     "description": "I compare my colouring with the girl beside me and feel bad because hers is neater. I want to hide mine. A wise teacher says \"look how far you have come\", turning comparison into pride in my own growth."
+    }
+   ],
+   "cluster_id": "C0144",
+   "cast": [
+    "Ojas",
+    "Jagdish",
+    "Gurleen"
+   ]
+  }
+ ]
+}

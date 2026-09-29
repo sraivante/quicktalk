@@ -1,0 +1,270 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2892,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Nandini"
+    ],
+    "2": [
+     "Jagdish",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Pained and tearful in adult life [Mismatch]",
+   "description": "A young adult may cry from grief, relief, exhaustion or anger, and may hold back tears at work. Tears alone do not tell the cause, so asking is respectful, and privacy is offered when wanted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, sadness, grief, anger"
+   ]
+  },
+  {
+   "sno": 2893,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Farida",
+     "Pallavi"
+    ],
+    "2": [
+     "Preeti",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Contemptuous and disgusted in relationships and work [Regulating]",
+   "description": "A young adult notices contempt or disgust in their own thoughts about a colleague or partner. Naming it, taking a break and raising the concern respectfully protects the relationship and their own values.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, contempt, disgust"
+   ]
+  },
+  {
+   "sno": 2894,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Imran"
+    ],
+    "2": [
+     "Irawati",
+     "Sonali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Hostile and furious de-escalation [Regulating]",
+   "description": "A young adult facing a furious person lowers their voice, keeps distance, avoids threats and offers a calm way out. Safety comes first, and leaving or getting help is right if calm does not work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anger, hostility, calm, trust"
+   ]
+  },
+  {
+   "sno": 2895,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Avni"
+    ],
+    "2": [
+     "Zainab",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Apologetic and guilty in adult responsibility [Regulating]",
+   "description": "A young adult who has made an error at work or home names it, apologises specifically and repairs. Over-apologising or self-blame is unhelpful, so amends should match the harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 2896,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Oskar",
+     "Xin"
+    ],
+    "2": [
+     "Pooja",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Shy, embarrassed and ashamed in adult settings [Regulating]",
+   "description": "A young adult may avoid speaking, blush or withdraw after a public mistake. Treating the mistake as ordinary, seeking supportive people and taking small exposures reduce the grip of shame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: shame, embarrassment, shyness, detachment"
+   ]
+  },
+  {
+   "sno": 2897,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Jomon"
+    ],
+    "2": [
+     "Noor",
+     "Vidya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Thoughtful, interested and doubtful in meetings [Interpreting]",
+   "description": "A young professional reads pauses, notes, raised brows and short replies from colleagues. These signals suggest interest or doubt but never prove it, so asking for views is more reliable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: interest, doubt"
+   ]
+  },
+  {
+   "sno": 2898,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Manjula"
+    ],
+    "2": [
+     "Vidya",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Surprised, relieved and worried at work [Interpreting]",
+   "description": "A young professional reads a colleague's widened eyes, sigh or tense voice at news of layoffs or approval. These cues suggest feelings but not their cause, so a calm check-in works best.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety, surprise, relief, calm"
+   ]
+  },
+  {
+   "sno": 2899,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Keerthana"
+    ],
+    "2": [
+     "Farhan",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Deadpan and impassive as professional style [Mismatch]",
+   "description": "A young adult in a serious workplace keeps a blank, even manner. It can signal composure, disinterest or hidden strain, so meaning comes from patterns and direct conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: interest, detachment"
+   ]
+  },
+  {
+   "sno": 2900,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Ramesh"
+    ],
+    "2": [
+     "Nilesh",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Detached, weary and neutral at work [Interpreting]",
+   "description": "A young professional notices a coworker looking flat, tired or neutral. Such signs may mean burnout, focus, illness or just personality, so kind curiosity beats labelling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: curiosity, tiredness, detachment",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 2901,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Vidya"
+    ],
+    "2": [
+     "Omkar",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Culture and gender norms about visible reactions [Mismatch]",
+   "description": "Some families and cultures encourage crying, others discourage it, and blushing is read differently by skin tone and setting. People should avoid stereotypes and ask how the person feels.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: sadness"
+   ]
+  }
+ ]
+}

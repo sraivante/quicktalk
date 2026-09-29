@@ -1,0 +1,213 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6951,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: repair after a fight with an apology for tone [Revision]",
+   "description": "After a shouted argument, the student calls the next day, apologises for the tone without giving up the view, and proposes a walk together. Separating tone from content allows repair.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising"
+   ]
+  },
+  {
+   "sno": 6952,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Tuan",
+     "Wanjiru"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: use shared stories instead of statistics [Thinking]",
+   "description": "The student recalls a local hospital both the family and the student rely on, and uses it to talk about common concerns. Shared experience builds a bridge that data alone does not.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising"
+   ]
+  },
+  {
+   "sno": 6953,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: end the debate with a joke and a change of activity [Action]",
+   "description": "When voices rise, the cousin proposes carrom or helping in the kitchen. Light redirection keeps the evening warm, though it does not resolve the disagreement.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 6954,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: contain by changing passwords and turning on two-factor login [Action]",
+   "description": "After a company email says an app was breached, the person changes the password on that site and on any other site where it was reused, and enables two-factor authentication. Acting at once limits further damage.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6955,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: work out what data was exposed and what could follow [Thinking]",
+   "description": "The person reads the notice to see whether it was emails, phone numbers or card details, and lists the risks such as phishing or misuse of an identity. Knowing exactly what leaked guides which steps matter most.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6956,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: ignore the notice as spam [Pitfall]",
+   "description": "The user assumes the email is junk and deletes it. Weeks later, someone uses the leaked details for phishing calls, and the delay makes it harder to trace.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6957,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: contact the bank and freeze cards if financial data is affected [Action]",
+   "description": "Since a card number was in the leak, the person calls the bank using the number printed on the card, blocks it and asks about alerts on transactions. Using an official channel avoids a fake helpline.",
+   "graph_context": [
+    "same problem, other approaches: forward planning",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6958,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Yash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: panic and click a recovery link from an unknown message [Pitfall]",
+   "description": "A text claims to help secure the account and asks for an OTP. Under stress, the person shares it, and the fraud deepens. Panic makes people easy to trick during a breach.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6959,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: report to the company and cybercrime portal when misuse appears [Revision]",
+   "description": "When a suspicious transaction appears, the person moves from prevention to reporting: complaint to the bank, the cybercrime portal, and the service that leaked the data, keeping screenshots. Steps shift with new evidence.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 6960,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Hrithik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: adopt a password manager and unique logins going forward [Action]",
+   "description": "The person moves all accounts to a password manager with unique passwords and reviews which apps hold personal data. The breach becomes a trigger for a long-term routine.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  }
+ ]
+}

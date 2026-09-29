@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1028,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner controls my choices",
+   "subtype": "Partner × Respectful affection [Actor]",
+   "description": "I like them and we both can say no, keep friends, and enjoy the time. Wise: keep communicating openly and treat consent as always on. It grows because neither owns the other.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, guilt, manipulation, obsession",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 1029,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Ankita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner controls my choices",
+   "subtype": "Partner × Peer pressure [Receiver]",
+   "description": "They press me to do something I am not ready for, saying everyone does. Wise: no is enough and a person who respects me accepts it. Harmful: giving in to keep them.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, manipulation, obsession, respect",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1030,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner controls my choices",
+   "subtype": "Partner × Manipulation [Actor]",
+   "description": "I catch myself using silent treatment or guilt to get my way. Wise: notice the pattern, apologise, and ask directly instead. Harmful: excusing it as passion.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, guilt, obsession, respect",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1031,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Grief [Actor]",
+   "description": "After a breakup I feel hollow and replay it constantly. Wise: let it hurt, keep sleep and food routine, lean on friends, and give it time. Harmful: pinging them repeatedly or numbing with screens.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, guilt, humiliation, obsession, rejection",
+    "related mind states: grief, detachment, hurt"
+   ]
+  },
+  {
+   "sno": 1032,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Hansa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Anger [Actor]",
+   "description": "I am furious and want them to feel it. Wise: write it out, exercise, tell a friend, and do not post or send messages. Harmful: leaking their photos, spreading stories, or stalking their accounts.",
+   "graph_context": [
+    "same situation, other stances at this age: forgiveness, grief, guilt, humiliation, obsession, rejection",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1033,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Rejection [Receiver]",
+   "description": "I was dumped and feel worthless. It says nothing about my value. Wise: sit with it, stay in touch with friends, and avoid begging. Harmful: bargaining or turning it into self-hatred.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, grief, guilt, humiliation, obsession"
+   ]
+  },
+  {
+   "sno": 1034,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Guilt [Actor]",
+   "description": "I ended it and feel awful for the pain I caused. Wise: be honest and respectful, avoid mixed messages, and give them space. Harmful: ending it by ghosting.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, grief, humiliation, obsession, rejection",
+    "related mind states: admiration, guilt, hurt"
+   ]
+  },
+  {
+   "sno": 1035,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Obsession [Receiver]",
+   "description": "My ex keeps texting and turning up, saying I owe them another chance. Wise: give one clear final no, block if needed, tell parents or school, and refuse to feel guilty. It is not my fault.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, grief, guilt, humiliation, rejection",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1036,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Samir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Forgiveness [Actor]",
+   "description": "Months later I let go of the anger, not because they deserved it but because I am tired of carrying it. Wise: this frees me without reopening the door.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, grief, guilt, humiliation, obsession, rejection",
+    "related mind states: anger, tiredness"
+   ]
+  },
+  {
+   "sno": 1037,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Avni",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Breakup happens",
+   "subtype": "Ex × Humiliation [Receiver]",
+   "description": "Our private messages or photos were shared to shame me. This is a serious violation and not my fault. Wise: save evidence, tell a trusted adult, report to school or police cyber cell, and seek support.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, grief, guilt, obsession, rejection",
+    "related mind states: shame, humiliation, trust"
+   ]
+  }
+ ]
+}

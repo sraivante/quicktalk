@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 898,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Uma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a pet",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I think I could have done something to save my pet. Children often blame themselves, but this is not my fault. Talking to an adult helps me see that I loved my pet well.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, grief",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 899,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a pet",
+   "subtype": "Sibling × Shared grief [Actor]",
+   "description": "My little brother is also crying about the pet, and I want to look after him. Comforting someone else helps me feel my own sorrow and makes us closer.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, guilt",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 900,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Reena"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Grandparent × Grief [Actor]",
+   "description": "My grandmother died and the house feels empty. I miss her stories and her hands. Grief comes in waves; letting myself cry and remember her is a way of loving her still.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, confusion",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 901,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Parent × Grief [Receiver]",
+   "description": "I see my parent crying for the first time. It is frightening, but it shows that adults also feel deeply. I can hug them and say I am sad too.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, confusion",
+    "related mind states: affection, sadness, grief, fear"
+   ]
+  },
+  {
+   "sno": 902,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Faith community × Comfort [Receiver]",
+   "description": "Relatives gather for prayers and rituals after the death. The songs and food give me a sense of belonging. Whatever our beliefs, rituals help families carry sorrow together.",
+   "graph_context": [
+    "same situation, other stances at this age: confusion, grief",
+    "related mind states: sadness, nostalgia"
+   ]
+  },
+  {
+   "sno": 903,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Self × Confusion [Actor]",
+   "description": "I do not understand where my grandfather has gone and adults give different answers. It is okay to ask questions and to hear that people have different beliefs and that nobody knows everything.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, grief",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 904,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Nitin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Self × Numbness [Actor]",
+   "description": "I feel nothing after the funeral and worry there is something wrong with me. Children grieve in different ways, sometimes later. I can tell a trusted adult and play or cry when I feel it.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, confusion, grief",
+    "related mind states: sadness, grief, anxiety, detachment"
+   ]
+  },
+  {
+   "sno": 905,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Kunal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a grandparent",
+   "subtype": "Friend × Support [Receiver]",
+   "description": "A friend sits quietly beside me and does not say much. That quiet company helps more than advice. I learn that just being present is a strong way to care.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, confusion, grief",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 906,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Rich and poor classmates",
+   "subtype": "Poorer classmate × Pity [Actor]",
+   "description": "I see a classmate in torn shoes and feel sorry. Feeling for him is kind, but pity can turn into looking down. I can be a friend, share and treat him as an equal.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, envy, generosity, respect, shame"
+   ]
+  },
+  {
+   "sno": 907,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Rich and poor classmates",
+   "subtype": "Wealthier classmate × Envy [Actor]",
+   "description": "A classmate has a big house and gadgets, and I feel small. Envy is normal; I try to see my own gifts, and remember that wealth does not make anyone better or happier.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, generosity, pity, respect, shame",
+    "related mind states: envy"
+   ]
+  }
+ ]
+}

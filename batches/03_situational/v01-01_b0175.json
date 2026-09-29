@@ -1,0 +1,90 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 2058,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Ramesh",
+     "Vijay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Devotional life",
+   "subtype": "God × Bargaining [Actor]",
+   "description": "You promise offerings or fasts for exam, job or health outcomes. Bargaining is human and often sincere. Hold it lightly: effort and honest action still matter, and a no from heaven need not mean you were unworthy.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, worship"
+   ]
+  },
+  {
+   "sno": 2059,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Devotional life",
+   "subtype": "Faith community × Service [Actor]",
+   "description": "Serving in a temple, gurdwara, church, mosque or a community kitchen brings meaning. Give without seeking status, and watch for pressure to give beyond your means. Service is at its best when open to all.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, worship"
+   ]
+  },
+  {
+   "sno": 2060,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Stranger asks for help",
+   "subtype": "Stranger × Fear [Actor]",
+   "description": "Someone asks for money or a lift, and you hesitate because of scams. Caution is legitimate. Offer safe help such as calling authorities or buying food, and trust your instincts without becoming hard-hearted.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, gratitude",
+    "related mind states: anger, fear, trust"
+   ]
+  },
+  {
+   "sno": 2061,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Stranger asks for help",
+   "subtype": "Stranger × Gratitude [Receiver]",
+   "description": "A stranger helps you at a breakdown or in an emergency. Thank them warmly, get contact if appropriate, and pass the kindness on. Such moments remind us that society runs on quiet decency.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, fear",
+    "related mind states: gratitude, anger"
+   ]
+  }
+ ]
+}

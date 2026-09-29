@@ -1,0 +1,268 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5582,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Minakshi",
+     "Mahima"
+    ],
+    "5": [
+     "Pooja",
+     "Bidisha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: benevolence",
+   "subtype": "Shares a snack and comforts a friend [Actor]",
+   "description": "A child breaks a biscuit to share with a crying friend and pats them; early kindness comes from love for those close to them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: affection, sadness"
+   ]
+  },
+  {
+   "sno": 5583,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Manjula",
+     "Urmila"
+    ],
+    "5": [
+     "Vasudha",
+     "Aditi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: benevolence",
+   "subtype": "Loyal helpfulness within the circle [Actor]",
+   "description": "A child carries a classmate's bag when they are ill and keeps a secret they were trusted with; caring for people they know well is their strongest moral pull.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5584,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Kashish",
+     "Raghav"
+    ],
+    "5": [
+     "Kalyani",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: benevolence",
+   "subtype": "Friend feels genuinely cared for [Receiver]",
+   "description": "A homesick student is brought tea and time by a flatmate without being asked, and feels safe; dependable small kindnesses tell people they belong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: nostalgia, trust"
+   ]
+  },
+  {
+   "sno": 5585,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Imran",
+     "Sabina"
+    ],
+    "5": [
+     "Ayesha",
+     "Yash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: benevolence",
+   "subtype": "Caring without erasing oneself [Response]",
+   "description": "An adult helps family and friends generously, and also says no when exhausted, knowing that kindness that empties the giver cannot last.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 5586,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Lalit",
+     "Shreya"
+    ],
+    "5": [
+     "Akash",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: universalism",
+   "subtype": "Fairness for every child [Actor]",
+   "description": "A child objects when a classmate from another community is left out of the game and says it is unfair; concern for justice reaches beyond friends.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5587,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Raghav",
+     "Naveen"
+    ],
+    "5": [
+     "Afreen",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: universalism",
+   "subtype": "Caring about strangers and nature [Actor]",
+   "description": "A teenager joins a tree-planting drive and worries about people far away who suffer from floods; wide concern grows with understanding of how the world is linked.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger, anxiety, overwhelm"
+   ]
+  },
+  {
+   "sno": 5588,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Mehak",
+     "Arohi"
+    ],
+    "5": [
+     "Bidisha",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: universalism",
+   "subtype": "Universal principle against loyalty to own circle [Actor]",
+   "description": "A young adult feels torn when principles of fairness for all conflict with loyalty to family or friends, and works through the tension instead of choosing carelessly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5589,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Bhupen",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Chandrika",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: universalism",
+   "subtype": "Turning wide concern into local action [Response]",
+   "description": "An adult volunteers, votes thoughtfully and treats neighbours from every background with respect, not just holding grand ideals; small consistent acts show the value at work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5590,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Yamini",
+     "Uday"
+    ],
+    "5": [
+     "Anand",
+     "Ganga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Stimulation: craves novelty and thrill [Actor]",
+   "description": "A child begs to try the tallest slide and every new game; excitement and challenge feel like life itself, and boredom feels worse than a little risk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, excitement, boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5591,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Sarita",
+     "Jaya"
+    ],
+    "5": [
+     "Pranav",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Conformity: follows rules to avoid upsetting others [Actor]",
+   "description": "A child follows every class rule and the group's dress and speech, fearing disapproval; politeness and self-restraint help harmony but may bury their own opinion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

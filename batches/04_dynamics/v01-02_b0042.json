@@ -1,0 +1,278 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3318,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Thomas"
+    ],
+    "2": [
+     "Rashmi",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 5: Retaliation or dismissal [Receiver]",
+   "description": "If the concern is ignored, the person may be sidelined, blamed or pushed out. The attack on their reputation is painful, and colleagues may avoid them out of fear.",
+   "graph_context": [
+    "previous stage: Trying internal channels",
+    "next stage: External reporting and legal advice",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 3319,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Anand"
+    ],
+    "2": [
+     "Vijay",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 5: Retaliation or dismissal [Observer]",
+   "description": "A colleague sees a truth-teller shunned and feels guilt at staying silent. Small acts of support, such as a quiet word, a witness statement or a check-in, count and can shift the atmosphere.",
+   "graph_context": [
+    "previous stage: Trying internal channels",
+    "next stage: External reporting and legal advice",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3320,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Santosh"
+    ],
+    "2": [
+     "Reena",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 6: External reporting and legal advice [Response]",
+   "description": "If internal action fails and harm is serious, the person takes advice from a lawyer or a protection body and reports to the proper authority. Knowing legal protections, and documenting facts rather than opinions, helps.",
+   "graph_context": [
+    "previous stage: Retaliation or dismissal",
+    "next stage: Aftermath and peace"
+   ]
+  },
+  {
+   "sno": 3321,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Ishita"
+    ],
+    "2": [
+     "Wasim",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 7: Aftermath and peace [Response]",
+   "description": "Outcomes vary, and the person may feel vindicated, tired or both. Support from family, friends and peers, and pride in having acted on conscience, sustain them through the long tail.",
+   "graph_context": [
+    "previous stage: External reporting and legal advice",
+    "related mind states: pride, tiredness, calm"
+   ]
+  },
+  {
+   "sno": 3322,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Ramesh",
+     "Manjula"
+    ],
+    "2": [
+     "Tanvir",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 3: Fear of costs [Response]",
+   "description": "The employee speaks in confidence with a trusted mentor or lawyer, records facts and dates, and considers family needs before acting. Careful preparation is not cowardice, and it makes a real report stronger.",
+   "graph_context": [
+    "previous stage: Checking and doubting",
+    "next stage: Trying internal channels",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 3323,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Mridul"
+    ],
+    "2": [
+     "Darshan",
+     "Deepak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Forgiveness process",
+   "subtype": "Stage 1: The hurt and the anger [Actor]",
+   "description": "A teenager is betrayed by a close friend who shared a secret, and feels rage and humiliation. Anger shows that a boundary was crossed, and it is a healthy first response, not a flaw.",
+   "graph_context": [
+    "next stage: Replaying and revenge fantasies",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anger, humiliation, hurt"
+   ]
+  },
+  {
+   "sno": 3324,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Suraj"
+    ],
+    "2": [
+     "Manoj",
+     "Francis"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Forgiveness process",
+   "subtype": "Stage 2: Replaying and revenge fantasies [Actor]",
+   "description": "The person replays the event, imagines payback and rehearses arguments. Holding the wrong keeps the pain fresh, and the thoughts feel powerful but tend to keep them stuck.",
+   "graph_context": [
+    "previous stage: The hurt and the anger",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3325,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Tanvir"
+    ],
+    "2": [
+     "Kiran",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Forgiveness process",
+   "subtype": "Stage 3: Facing the loss [Actor]",
+   "description": "Beneath the anger the young adult finds grief for the lost trust, friendship or picture of the person. Feeling this sadness, rather than covering it with fury, moves the process forward.",
+   "graph_context": [
+    "previous stage: Replaying and revenge fantasies",
+    "next stage: Seeing the other as human",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: sadness, grief, anger, trust"
+   ]
+  },
+  {
+   "sno": 3326,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Gopika"
+    ],
+    "2": [
+     "Kishore",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Forgiveness process",
+   "subtype": "Stage 4: Seeing the other as human [Actor]",
+   "description": "The person begins to understand the wrongdoer's fear, weakness or history, without excusing the act. Understanding is not approval, and it loosens the hold of bitterness.",
+   "graph_context": [
+    "previous stage: Facing the loss",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear, resentment"
+   ]
+  },
+  {
+   "sno": 3327,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Gopika"
+    ],
+    "2": [
+     "Arohi",
+     "Charu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Forgiveness process",
+   "subtype": "Stage 4: Seeing the other as human [Observer]",
+   "description": "A friend hears the bitter story again and again. Listening first, then gently asking what the person wants now, helps more than telling them to forgive and move on, which feels dismissive.",
+   "graph_context": [
+    "previous stage: Facing the loss",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

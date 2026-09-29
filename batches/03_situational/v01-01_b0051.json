@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 818,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Classmate × Pride [Actor]",
+   "description": "I scored the most and feel like showing off. Being glad is fine; a good winner shares joy modestly and remembers that friends who scored less still have strengths.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, fear, shame",
+    "related mind states: joy, pride"
+   ]
+  },
+  {
+   "sno": 819,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Uma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Self × Shame [Actor]",
+   "description": "I got fewer marks than I hoped and think I am stupid. One result is not a verdict on me; a wiser view asks which topics went wrong and how to practise them.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, fear, pride",
+    "related mind states: shame, hope"
+   ]
+  },
+  {
+   "sno": 820,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Soo-ah",
+     "Siddiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Teacher × Encouragement [Receiver]",
+   "description": "My teacher says she sees my effort even though my marks are low. I feel seen. I learn that effort counts and that one person's belief can steady me on a bad day.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, fear, pride, shame",
+    "possibly related concept (heuristic): Locus of control"
+   ]
+  },
+  {
+   "sno": 821,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Akash"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Friend × Manipulation [Receiver]",
+   "description": "A friend says, just show me your answers, we are friends after all. I feel pulled between loyalty and honesty. A real friend won't make me risk trouble; I can say no and offer to help him study.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, guilt, indebtedness, temptation"
+   ]
+  },
+  {
+   "sno": 822,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Self × Temptation [Actor]",
+   "description": "I know the answer is in my friend's paper and nobody is looking. Part of me wants the marks, part of me wants to be proud of myself. Choosing honesty builds a strength that marks cannot.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, guilt, indebtedness, manipulation",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 823,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Himani",
+     "Jaya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I copied once and got away with it, but I feel uneasy. That unease is a sign of my conscience. Admitting it or deciding not to repeat it is better than pretending nothing happened.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, indebtedness, manipulation, temptation",
+    "related mind states: anxiety, guilt"
+   ]
+  },
+  {
+   "sno": 824,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Harsha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Teacher × Fear [Actor]",
+   "description": "I am afraid the teacher will notice my glance at another paper. Fear of getting caught is not the same as caring about honesty, and I can ask myself what I would do if nobody ever found out.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, guilt, indebtedness, manipulation, temptation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 825,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Parent × Pressure [Receiver]",
+   "description": "My parents demand the top rank, and I feel cheating is my only way out. I can tell them honestly how heavy the pressure is; a lower honest score is safer than a high dishonest one.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, indebtedness, manipulation, temptation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 826,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Aditi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Classmate × Contempt [Actor]",
+   "description": "I feel superior to a classmate who cheats and tell everyone. Being angry at dishonesty is fair, but gossip does not help; reporting to a teacher quietly, if needed, is more mature.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, guilt, indebtedness, manipulation, temptation",
+    "related mind states: anger, contempt"
+   ]
+  },
+  {
+   "sno": 827,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Bhavna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Tempted to cheat",
+   "subtype": "Friend × Indebtedness [Actor]",
+   "description": "My friend once helped me with homework and now expects me to help him cheat. Being grateful does not mean I must do wrong; I can repay him in honest ways.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, guilt, manipulation, temptation",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

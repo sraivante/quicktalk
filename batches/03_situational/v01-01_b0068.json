@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 988,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Salma",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Grandparent × Protectiveness [Receiver]",
+   "description": "A grandparent steps in with food, listening, and stability while my parents break apart. I feel safe but sometimes disloyal. Wise: accept the care with gratitude and keep including both parents.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, grief, guilt, loyalty, manipulation",
+    "related mind states: gratitude, trust"
+   ]
+  },
+  {
+   "sno": 989,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Nazia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Sibling × Envy [Actor]",
+   "description": "I watch my brother or sister get gifts, trust, or praise I never get and feel invisible. Wise: tell a parent what I notice without attacking the sibling. Immature: making the sibling pay.",
+   "graph_context": [
+    "same situation, other stances at this age: favouritism, guilt, hatred, pride, resentment",
+    "related mind states: envy, trust"
+   ]
+  },
+  {
+   "sno": 990,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "I keep a running tally of unfairness against my parent and stop confiding. Wise: raise it directly, using specific examples, and check whether I am also reading too much into small things.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, favouritism, guilt, hatred, pride",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 991,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Jatin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Parent × Favouritism [Receiver]",
+   "description": "I am the favourite and feel warm but uneasy, aware my sibling suffers. Wise: not to exploit it, to share credit, and to stay kind to my sibling. Harmful: enjoying the status or acting entitled.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, guilt, hatred, pride, resentment",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 992,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jagdish",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Sibling × Guilt [Receiver]",
+   "description": "Being treated as the golden child, I feel guilty when my sibling is snubbed. Wise: gently include them and refuse to compete for the parent's approval. It is not my fault, but my behaviour matters.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, favouritism, hatred, pride, resentment",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 993,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Vidya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Sibling × Hatred [Receiver]",
+   "description": "My sibling hates me for being preferred and says cruel things. Wise: see the pain underneath, avoid retaliating, and ask parents to fix their behaviour. Harmful: rubbing it in.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, favouritism, guilt, pride, resentment",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 994,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Charu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Sibling × Solidarity [Actor]",
+   "description": "I bond with the less favoured sibling against unfair treatment and we protect each other. Wise: lean on that closeness while staying respectful. Harmful: turning it into a permanent war against parents.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, favouritism, guilt, hatred, pride, resentment",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 995,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Aadhya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent favours sibling",
+   "subtype": "Parent × Pride [Actor]",
+   "description": "As the parent I favour the child who is like me and never notice the other shrinking. Wise: for a teen, understand this is usually blindness and not hatred, and tell them plainly what I need.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, favouritism, guilt, hatred, resentment",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 996,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling conflict at home",
+   "subtype": "Sibling × Rivalry [Actor]",
+   "description": "We fight over the phone, room, and parental attention, each keeping score. Wise: agree on clear shared rules and ask a parent to referee once. Immature: tattling, hiding things, and escalating each round.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, dependence, envy, indebtedness, protectiveness"
+   ]
+  },
+  {
+   "sno": 997,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling conflict at home",
+   "subtype": "Sibling × Protectiveness [Actor]",
+   "description": "I fight with my younger sibling yet turn fierce when outsiders tease them. Wise: this loyalty is real; show it more kindly at home too. Harmful: bossing them and calling it protection.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, dependence, envy, indebtedness, rivalry"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 608,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Hafsa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling afraid",
+   "subtype": "Darkness × Fear [Actor]",
+   "description": "At night the shadows look like monsters and my heart beats fast. The fear is real to me. Wise parents do not laugh, use a night light and a hug and calm words. Saying \"there is nothing\" does not help as much as staying.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, mockery, trust",
+    "related mind states: amusement, affection, fear, calm"
+   ]
+  },
+  {
+   "sno": 609,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Damini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling afraid",
+   "subtype": "Parent × Trust [Receiver]",
+   "description": "I run to my parent after thunder and they hold me and say \"I am here\". I feel calm. Being comforted does not make children weaker; it teaches them to calm themselves later.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, fear, mockery",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 610,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Payal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling afraid",
+   "subtype": "Self × Fear [Actor]",
+   "description": "I am scared of the first day at a new class or the dog next door. My tummy hurts and I cling. A wise adult says \"it is okay to be scared, we will go slowly\", and gives me a small brave step.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, mockery, trust",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 611,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Tejas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling afraid",
+   "subtype": "Friend × Compassion [Receiver]",
+   "description": "My friend holds my hand during the scary part of the movie. I feel less alone. Someone else's kindness in fear teaches me to do the same for others one day.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, mockery, trust",
+    "related mind states: fear, empathy"
+   ]
+  },
+  {
+   "sno": 612,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Nandini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling afraid",
+   "subtype": "Parent × Mockery [Receiver]",
+   "description": "My parent laughs and says \"don't be a baby, there is nothing there\". I feel ashamed and hide my fear. Being mocked for fear teaches me to keep quiet. Being believed helps the fear grow smaller.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, fear, trust",
+    "related mind states: amusement, fear, shame"
+   ]
+  },
+  {
+   "sno": 613,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Minakshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling proud",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I made a tower all by myself and shout \"look at me!\" I feel tall and happy. Wise adults look and say what they see, \"you worked hard on it\". Proud feelings drive me to try more.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, rivalry",
+    "related mind states: joy, pride"
+   ]
+  },
+  {
+   "sno": 614,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Rukmini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling proud",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "Mummy sees my drawing and says she loves it. I feel a warm glow. Pride shared with a parent makes it bigger. Wise parents notice effort and detail, not just say \"good\" every time.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, rivalry",
+    "related mind states: affection, pride"
+   ]
+  },
+  {
+   "sno": 615,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Mohit"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling proud",
+   "subtype": "Friend × Envy [Receiver]",
+   "description": "I show my badge to a friend and he looks away sadly. I feel confused. A wise child says \"you can get one too\" and asks about his own work. Sharing pride without bragging keeps friendships warm.",
+   "graph_context": [
+    "same situation, other stances at this age: pride, rivalry",
+    "related mind states: sadness, confusion, pride, envy"
+   ]
+  },
+  {
+   "sno": 616,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Valentina",
+     "Amara"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling proud",
+   "subtype": "Sibling × Rivalry [Receiver]",
+   "description": "I show my work and my sister says \"mine is better\". I feel smaller. Wise parents praise each child for their own effort and do not turn pride into a contest.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, pride",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 617,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Trisha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling embarrassed",
+   "subtype": "Classmate × Shame [Actor]",
+   "description": "I wet my pants in class and want to vanish. My face burns and I cry. A wise teacher helps quietly, gets a change and does not draw attention. It is an accident, not a failure, and I am not alone in this.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, humiliation, mockery",
+    "related mind states: sadness, shame"
+   ]
+  }
+ ]
+}

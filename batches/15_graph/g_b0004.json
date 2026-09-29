@@ -1,0 +1,243 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 696,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "First crush",
+     "subtype": "Parent × Worry [Receiver]",
+     "description": "My mother finds a note and laughs or gets angry, and I feel exposed. A good parent stays calm, says it is natural, and talks about respect and boundaries. I can ask that they keep it private."
+    },
+    {
+     "sno": 694,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "First crush",
+     "subtype": "Friends × Teasing [Receiver]",
+     "description": "My friends chant our names together and I feel humiliated. I can say stop, that is not fun for me. Real friends stop when asked. Teasing about a crush can hurt both children and spoil a friendship."
+    },
+    {
+     "sno": 692,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "First crush",
+     "subtype": "Crush × Rejection [Receiver]",
+     "description": "I found out my crush likes someone else and my chest feels heavy. This ache is real, though it will pass. Wise: cry if needed, talk to someone, stay friends if I can. Mocking him or the other kid does not help."
+    },
+    {
+     "sno": 691,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "First crush",
+     "subtype": "Crush × Embarrassment [Receiver]",
+     "description": "Classmates tease me that a boy likes me, and I go red. His feelings are his own and I do not have to feel the same. I can say thanks for being nice, but I am not thinking about that, and stay kind."
+    }
+   ],
+   "cluster_id": "C0019",
+   "cast": [
+    "Baljeet",
+    "Zeenat",
+    "Aditi"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 930,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Failing a test",
+     "subtype": "Classmate × Mockery [Receiver]",
+     "description": "A classmate laughs at my marks. It hurts, but I know one score does not define me. I can answer calmly or walk away, and remember that he too has weak spots."
+    },
+    {
+     "sno": 928,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Failing a test",
+     "subtype": "Parent × Anger [Receiver]",
+     "description": "My parent shouts about my failure and I go quiet. I feel small. I can wait until things cool, then say I want to improve and ask for help with a plan."
+    },
+    {
+     "sno": 931,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Failing a test",
+     "subtype": "Friend × Compassion [Receiver]",
+     "description": "My friend says he also struggled and offers to study together. I feel less alone. Shared effort turns a failure into a team problem with a solution."
+    },
+    {
+     "sno": 927,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Failing a test",
+     "subtype": "Self × Shame [Actor]",
+     "description": "I failed and I feel like the whole class knows I am stupid. Shame makes me hide, but a failed test is information about what to practise, not a label on me."
+    }
+   ],
+   "cluster_id": "C0020",
+   "cast": [
+    "Wasim",
+    "Binita",
+    "Avni"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 430,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Caregiver returns",
+     "subtype": "Mother × Indifference [Receiver]",
+     "description": "A tired parent who comes home glued to the phone gives the child no eye contact, so the child escalates with whining or mess to be noticed. A few minutes of warm, undivided attention prevents this."
+    },
+    {
+     "sno": 428,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Caregiver returns",
+     "subtype": "Mother × Affection [Actor]",
+     "description": "The toddler runs, clings, smiles or bursts into tears at reunion: relief that the safe person is back. Caregiver should kneel, hold and say I am here, giving time before the next activity."
+    },
+    {
+     "sno": 429,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Caregiver returns",
+     "subtype": "Father × Dependence [Actor]",
+     "description": "After a long day away the child follows father everywhere and wails if he steps out of sight. It is normal need to refill security, not spoiling. Give short, full-attention time before chores."
+    }
+   ],
+   "cluster_id": "C0021",
+   "cast": [
+    "Zainab",
+    "Anjali",
+    "Sangeeta"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 448,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Bedtime",
+     "subtype": "Darkness × Fear [Actor]",
+     "description": "Shadows and sounds feel big to a mind that cannot yet tell real from imagined. Respond with a night light, calm voice and closeness; never mock, and never use ghosts or bogeymen as threat."
+    },
+    {
+     "sno": 447,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Bedtime",
+     "subtype": "Parent × Dependence [Actor]",
+     "description": "The child cries when the parent leaves, wanting touch and voice to fall asleep. Consistent short routines, a lullaby and a gentle goodnight help her learn safety without abrupt abandonment."
+    },
+    {
+     "sno": 449,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Bedtime",
+     "subtype": "Parent × Neglect [Receiver]",
+     "description": "Being shut in alone and ignored while crying overwhelms a very young child; she may stop crying not from calm but from giving up. Respond warmly, staying present as sleep habits build."
+    }
+   ],
+   "cluster_id": "C0022",
+   "cast": [
+    "Neelam",
+    "Kavitha",
+    "Dilnaz"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1133,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Board exam pressure",
+     "subtype": "Teacher × Gratitude [Actor]",
+     "description": "A teacher stays after class to explain what I missed. I feel thankful and a little embarrassed to need help. Wise: say thanks and use the time well; asking is strength."
+    },
+    {
+     "sno": 1126,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Board exam pressure",
+     "subtype": "Parent × Pressure [Receiver]",
+     "description": "I am being measured by marks, and it feels like love is conditional. Wise: hear the fear behind their push and say what helps, like a plan or a calm evening. Harmful: shutting down."
+    },
+    {
+     "sno": 1131,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Board exam pressure",
+     "subtype": "Friend × Compassion [Actor]",
+     "description": "My friend has stopped eating and sleeping before boards. Wise: sit with them, offer a break, and tell a parent or counsellor if they sound hopeless. Harmful: joking or ignoring it."
+    },
+    {
+     "sno": 1130,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Board exam pressure",
+     "subtype": "Coaching institute × Exploitation [Receiver]",
+     "description": "A coaching centre ranks students in batches and makes the low-ranked feel lesser to sell fear. Wise: notice the business model, keep my own pace, and talk to a trusted adult if I am crumbling."
+    }
+   ],
+   "cluster_id": "C0023",
+   "cast": [
+    "Nazia",
+    "Aparna",
+    "Nandini"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 769,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent or sibling ill",
+     "subtype": "Sibling × Jealousy [Actor]",
+     "description": "My sick brother gets all the attention and I feel jealous, then guilty. Both feelings are normal. I can ask for a little time with my parents and still care for my brother. Feeling this does not make me bad."
+    },
+    {
+     "sno": 768,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent or sibling ill",
+     "subtype": "Parent × Worry [Actor]",
+     "description": "My mother is unwell and I worry about her all day at school. Worry shows love. Wise: ask what I can help with, keep my routine and tell my teacher. I am not responsible for curing her."
+    },
+    {
+     "sno": 770,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent or sibling ill",
+     "subtype": "Sibling × Compassion [Actor]",
+     "description": "My younger sister is in the hospital and I draw pictures for her. Small acts connect us. I am allowed to be sad and also to play. Feeling guilty when I am happy helps nobody."
+    }
+   ],
+   "cluster_id": "C0024",
+   "cast": [
+    "Mohit",
+    "Trisha",
+    "Shreya"
+   ]
+  }
+ ]
+}

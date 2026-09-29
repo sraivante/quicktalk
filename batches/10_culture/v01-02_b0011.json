@@ -1,0 +1,267 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4872,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Usha"
+    ],
+    "2": [
+     "Bhavna",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Doubting family faith [Actor]",
+   "description": "A teenager finds prayers and rituals lose meaning and fears hurting parents by saying so. Doubt is common and honest; respectful words and continued kindness help the family adjust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: admiration, fear, doubt, hurt"
+   ]
+  },
+  {
+   "sno": 4873,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Dolma"
+    ],
+    "2": [
+     "Vijay",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Mocked for not believing [Receiver]",
+   "description": "A teenager who does not follow any religion is called immoral or lost by relatives or peers. Kindness and good conduct show that values do not depend on belief, and adults should not shame a young person's honest thought.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4874,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Suraj"
+    ],
+    "2": [
+     "Jomon",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Believers mocked as backward [Receiver]",
+   "description": "A young person from a devout family is teased by peers as superstitious or foolish. Respect should run in both directions: a believer and a non-believer can each be thoughtful and can differ warmly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4875,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Madhav"
+    ],
+    "2": [
+     "Tejas",
+     "Kunal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Participating without believing [Actor]",
+   "description": "A non-believer attends a family puja, mass or namaz for love and tradition without pretending faith. Being open about it, gently, keeps honesty and belonging together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, awe, nostalgia"
+   ]
+  },
+  {
+   "sno": 4876,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Pallavi"
+    ],
+    "2": [
+     "Ritu",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Debating without contempt [Response]",
+   "description": "A young adult discusses faith and reason with a relative, listening for the hopes behind the belief and asking questions instead of scoring points. Talk ends well when both feel respected, even if minds remain unchanged.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, contempt, hope"
+   ]
+  },
+  {
+   "sno": 4877,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Dolma"
+    ],
+    "2": [
+     "Jagdish",
+     "Salma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Secular and non-believer respect",
+   "subtype": "Teaching children about many beliefs [Observer]",
+   "description": "A parent decides how to raise a child with knowledge of several faiths and of non-belief. Presenting each fairly and letting the child ask questions builds informed, respectful adults.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, resentment"
+   ]
+  },
+  {
+   "sno": 4878,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Ganga"
+    ],
+    "2": [
+     "Abhinav",
+     "Shalini"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Culture & Society",
+   "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+   "subtype": "Hearing several languages [Actor]",
+   "description": "A toddler in a home speaking Hindi, a mother tongue and English mixes words from all of them. This is normal and healthy; the child is sorting sounds and will separate them with time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4879,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Deepak"
+    ],
+    "2": [
+     "Joseph",
+     "Sunaina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Culture & Society",
+   "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+   "subtype": "Switching by listener [Actor]",
+   "description": "A child speaks one language to grandparents, another to friends and English at school, without being told to. Children are quick to sense which language a person expects.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4880,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Nazia"
+    ],
+    "2": [
+     "Urmila",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+   "subtype": "Ashamed of accent or mother tongue [Receiver]",
+   "description": "A child laughed at for a village accent or a regional language starts hiding it. Adults who praise multilingual skill protect the child's pride and the language's future.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, shame, pride"
+   ]
+  },
+  {
+   "sno": 4881,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Darshan"
+    ],
+    "2": [
+     "Sumit",
+     "Samir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+   "subtype": "Hinglish as identity [Actor]",
+   "description": "A teenager mixes Hindi and English in every sentence with friends, and finds it natural and playful. Hinglish signals belonging to a generation, though switching to a cleaner register matters at exams and interviews.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: playfulness, nostalgia"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1468,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Reena"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Friend × Manipulative friendship [Receiver]",
+   "description": "A friend uses guilt and drama to keep you close. Wise: name what you will and will not do; friends respect no. Harmful: constant appeasing.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness",
+    "related mind states: admiration, guilt"
+   ]
+  },
+  {
+   "sno": 1469,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Friend × Recognising a toxic pattern from outside [Actor]",
+   "description": "You see a friend in a controlling relationship. Wise: stay close, listen without judging, share what you see once, and keep the door open. Immature: ultimatums that push them away.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness, manipulation"
+   ]
+  },
+  {
+   "sno": 1470,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Family × Emotional manipulation [Receiver]",
+   "description": "A relative uses guilt or sacrifice to steer your choices. Wise: acknowledge their love and still choose for yourself. Immature: complying and resenting.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness",
+    "related mind states: affection, guilt, resentment"
+   ]
+  },
+  {
+   "sno": 1471,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Cult or group × Love and belonging with control [Receiver]",
+   "description": "A friendly group offers belonging but demands secrecy, money or obedience. Wise: check whether you can question, leave and keep outside ties. Harmful: cutting off family for the group.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, deceit, loneliness, manipulation",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 1472,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Follower × Being idolised [Receiver]",
+   "description": "Juniors or friends treat you as perfect. Wise: stay honest about flaws and do not let it inflate you. Harmful: using their admiration.",
+   "graph_context": [
+    "same situation, other stances at this age: hatred, rivalry, shame",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1473,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Junior × Idolising someone [Actor]",
+   "description": "You copy a senior's every move. Wise: learn their qualities, but keep your own judgement. Immature: losing yourself.",
+   "graph_context": [
+    "same situation, other stances at this age: hatred, rivalry, shame"
+   ]
+  },
+  {
+   "sno": 1474,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Peer × Being hated [Receiver]",
+   "description": "Someone openly dislikes you for no clear reason. Wise: reflect once if you did wrong, then stop chasing approval. Immature: retaliating or obsessing.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, rivalry, shame",
+    "paired view exists: Actor (S1475)"
+   ]
+  },
+  {
+   "sno": 1475,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Peer × Hatred [Actor]",
+   "description": "You dislike someone deeply and cannot stop thinking of them. Wise: ask what they represent for you, such as envy or old hurt, and step away from fuelling it. Harmful: spreading rumours.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, rivalry, shame",
+    "paired view exists: Receiver (S1474)",
+    "related mind states: envy, resentment, hurt"
+   ]
+  },
+  {
+   "sno": 1476,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Online group × Being trolled or shamed [Receiver]",
+   "description": "Strangers pile on over a post. Wise: do not engage, save evidence, block, and lean on real friends. It says little about your worth.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, hatred, rivalry",
+    "related mind states: anger, shame, interest"
+   ]
+  },
+  {
+   "sno": 1477,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Person × Being envied [Receiver]",
+   "description": "People treat you coldly because of your looks, marks or family. Wise: stay kind and avoid flaunting. Harmful: hiding your gifts.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, hatred, rivalry, shame"
+   ]
+  }
+ ]
+}

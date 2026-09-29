@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7521,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Checklists",
+   "subtype": "Approach: builds a checklist after forgetting something important [Revision]",
+   "description": "After forgetting his admit card once, a student writes a list of documents and pens for every exam day and checks it the night before.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7522,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Checklists",
+   "subtype": "Approach: uses a checklist for a repeated multi-step process [Action]",
+   "description": "A lab assistant follows a checklist for setting up an experiment, so steps in the right order are not skipped even when tired or hurried.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 7523,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Checklists",
+   "subtype": "Approach: ticks boxes without thinking, so the list hides new problems [Pitfall]",
+   "description": "A technician runs the usual checklist and signs off, but the new machine has a different fault that no line covers. The list gave false confidence.",
+   "graph_context": [
+    "same problem, other approaches: checklist",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7524,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Irawati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Checklists",
+   "subtype": "Approach: reviews and updates the checklist after each incident [Revision]",
+   "description": "After a missed step in a client release, the team adds a line for it and removes two that no longer apply, so the list stays useful and short.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7525,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "If-then plans",
+   "subtype": "Approach: pairs a trigger with an action [Action]",
+   "description": "A boy decides that if he sees his shoes by the door after school, then he puts them on the rack. The trigger reminds him without effort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7526,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Vasudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "If-then plans",
+   "subtype": "Approach: prepares an if-then reply to handle peer pressure [Thinking]",
+   "description": "A teenager plans that if friends offer to skip class, then he says he has a test and leaves. Deciding beforehand makes the words easier to say.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7527,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "If-then plans",
+   "subtype": "Approach: attaches a new habit to an existing cue [Action]",
+   "description": "A student decides that after brushing teeth in the morning, he revises five flashcards. The habit hooks onto an already stable routine.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "possibly related concept (heuristic): Implementation intentions"
+   ]
+  },
+  {
+   "sno": 7528,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Nadia",
+     "Leila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "If-then plans",
+   "subtype": "Approach: writes so many rules that none can be recalled [Pitfall]",
+   "description": "A young manager makes dozens of if-then rules for her week. When a busy day comes she remembers none and reverts to reacting to the loudest request.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7529,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "If-then plans",
+   "subtype": "Approach: keeps three key if-then rules and revises them when they fail [Revision]",
+   "description": "She reduces to three rules, notices the after-lunch one is ignored, and moves the trigger to when she closes her laptop at four.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7530,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Clara",
+     "Abebe"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mental simulation",
+   "subtype": "Approach: imagines the steps before acting, sometimes out loud [Thinking]",
+   "description": "A child about to carry a glass of water says out loud, walk slow, hold with two hands, put it down. Picturing the steps helps her avoid a spill.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

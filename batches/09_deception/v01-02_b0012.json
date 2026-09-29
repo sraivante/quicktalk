@@ -1,0 +1,262 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4699,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Diego",
+     "Abebe"
+    ],
+    "2": [
+     "Uday",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lottery and prize scam",
+   "subtype": "Winning a prize never entered [Receiver]",
+   "description": "A person receives a message that they have won a lottery, phone or car, but must first pay a fee or tax. The thrill of luck shortens thinking, and the fee is the actual theft.",
+   "graph_context": [
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 4700,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Vikas"
+    ],
+    "2": [
+     "Anand",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lottery and prize scam",
+   "subtype": "Asking why a stranger would give money [Response]",
+   "description": "A person asks what they entered, checks the sender through official channels, and never pays to receive a prize. A real prize never needs a fee first.",
+   "graph_context": [
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4701,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Vidya"
+    ],
+    "2": [
+     "Priscila",
+     "Jana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Digital arrest scam",
+   "subtype": "Fake officials and threats [Receiver]",
+   "description": "A person gets a call from someone claiming to be police, customs or a court, saying a parcel or account is linked to a crime, and is kept on video call and told to pay. Fear and secrecy are used to stop them from thinking or asking others.",
+   "graph_context": [
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4702,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Nitin"
+    ],
+    "2": [
+     "Yogesh",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Digital arrest scam",
+   "subtype": "Hang up, verify, tell someone [Response]",
+   "description": "Real agencies do not arrest people over video calls or demand payment to clear their name. A person hangs up, calls the official number themselves, speaks to family, and reports to the cybercrime helpline.",
+   "graph_context": [
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 4703,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Shalini"
+    ],
+    "2": [
+     "Lalremsiami",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Digital arrest scam",
+   "subtype": "Helping a parent who is targeted [Observer]",
+   "description": "A family member finds an older relative on a long call being told to stay silent and transfer money. Staying calm, ending the call and reporting to the cybercrime helpline is the priority, without blaming the relative.",
+   "graph_context": [
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4704,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Jeevan"
+    ],
+    "2": [
+     "Gopika",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Phishing",
+   "subtype": "Clicking under time pressure [Receiver]",
+   "description": "A teenager or adult gets a message about a prize, a locked account or a failed delivery with a link, and taps quickly. Urgency and curiosity are the hooks, and anyone can be caught on a tired day.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: curiosity, tiredness"
+   ]
+  },
+  {
+   "sno": 4705,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Shankar"
+    ],
+    "2": [
+     "Zeenat",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Phishing",
+   "subtype": "Noticing patterns for others [Observer]",
+   "description": "A student or colleague who gets a suspicious message reports it and warns others in the group. Sharing the scam early protects those less used to digital tricks, such as older relatives.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 4706,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Nandini",
+     "Vasudha"
+    ],
+    "2": [
+     "Ishita",
+     "Kiran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Phishing",
+   "subtype": "Slowing down before a link [Response]",
+   "description": "A person checks the sender, does not click links or share OTPs and passwords, and opens the official app or site directly. Real banks never ask for an OTP.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4707,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Sangeeta"
+    ],
+    "2": [
+     "Seema",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Peer-pressure tactics",
+   "subtype": "Dares and taunts [Receiver]",
+   "description": "A child is challenged with chicken, or told everyone does it, to make them join something unsafe or unkind. Fear of exclusion is strong, and the need to belong can outweigh judgement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4708,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Madhav"
+    ],
+    "2": [
+     "Shreya",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Peer-pressure tactics",
+   "subtype": "Pressure from friends to prove loyalty [Receiver]",
+   "description": "A teenager is told that a real friend would skip class, drink or share a picture. The friendship is used as leverage, and refusing feels like risking the whole group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12"
+   ]
+  }
+ ]
+}

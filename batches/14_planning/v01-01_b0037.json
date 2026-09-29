@@ -1,0 +1,209 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6121,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Found money or a lost wallet",
+   "subtype": "Approach: asking the police or shop counter to display a notice [Action]",
+   "description": "A child finds a bag of cash at a bus stand and asks a nearby chai seller to phone the local police post, which then holds it so the rightful person can identify and claim it.",
+   "graph_context": [
+    "same problem, other approaches: negotiation, pros and cons"
+   ]
+  },
+  {
+   "sno": 6122,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Leela",
+     "Pankaj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: splitting money into spend, save and give [Thinking]",
+   "description": "A girl with two hundred rupees a month divides it into three jars, so some goes to a treat, some toward a book she wants, and a small amount for the temple or a needy friend.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6123,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: saving for a specific goal [Action]",
+   "description": "A boy wants a football costing four hundred rupees, works out he needs eight weeks at fifty rupees, marks a chart, and skips the canteen chips to reach it.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6124,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: spending it all at once on impulse [Pitfall]",
+   "description": "The child buys stickers and sweets the day the pocket money arrives, and by the second week has nothing left when a friend's birthday needs a small gift.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper"
+   ]
+  },
+  {
+   "sno": 6125,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Akash"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: comparing prices at different shops [Thinking]",
+   "description": "A girl notices the same notebook costs ten rupees less in the lane shop than in the school store, and decides that a little walking saves money for something else.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, impulsive action"
+   ]
+  },
+  {
+   "sno": 6126,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: waiting a few days before buying [Thinking]",
+   "description": "A boy wants a toy but agrees with his mother to wait three days, and by then the excitement fades and he prefers to keep the money for cricket cards.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper, impulsive action",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 6127,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Tanuja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: copying what a friend buys [Pitfall]",
+   "description": "A child buys the same expensive pen his friend has, just to fit in, and later finds he did not really like it and wishes he had chosen something of his own.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6128,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Nirmala"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: keeping a small notebook of spending [Action]",
+   "description": "A girl writes every rupee spent for a month, and sees that much went on snacks, so she adjusts by carrying fruit from home and finishing the savings goal earlier.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, impulsive action"
+   ]
+  },
+  {
+   "sno": 6129,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Diego",
+     "Gabriel"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: goal too big for the time available [Revision]",
+   "description": "The boy realises that a two thousand rupee cycle will take years at his rate, so he switches to a cheaper target and asks his uncle if he can earn extra by helping with chores.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6130,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: choosing between two wants using needs versus wants [Thinking]",
+   "description": "A child sorts items into things needed, like a geometry box, and things wanted, like a game, and decides to buy the need first and save for the want.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper, impulsive action"
+   ]
+  }
+ ]
+}

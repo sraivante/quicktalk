@@ -1,0 +1,283 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3058,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Tejas"
+    ],
+    "2": [
+     "Akash",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 1: A rule meets a growing self [Actor]",
+   "description": "A teenager wants to stay out late for a friend's party and the parent says no. The teen feels her growing independence is not being seen; the parent feels fear and responsibility she can hardly voice.",
+   "graph_context": [
+    "next stage: Command and protest",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3059,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Sahil"
+    ],
+    "2": [
+     "Afreen",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 2: Command and protest [Actor]",
+   "description": "The parent says \"because I said so\" and the teen answers \"you never trust me\". Each hears disrespect, and neither states the real feeling underneath, which is worry on one side and a hunger to be trusted on the other.",
+   "graph_context": [
+    "previous stage: A rule meets a growing self",
+    "next stage: Escalation with old material",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 3060,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Baljeet"
+    ],
+    "2": [
+     "Yash",
+     "Disha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 3: Escalation with old material [Actor]",
+   "description": "Voices rise, and old failures such as marks, friends or last month's lie are dragged in. The parent's fear turns to lecturing, the teen's hurt to sarcasm, and the topic is lost.",
+   "graph_context": [
+    "previous stage: Command and protest",
+    "next stage: Slammed doors and cold war",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 3061,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Chinmay"
+    ],
+    "2": [
+     "Simran",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 4: Slammed doors and cold war [Receiver]",
+   "description": "The teen retreats to her room and the parent to silence, both feeling misunderstood and a little ashamed. The house is tense, younger siblings feel it, and each waits for the other to yield first.",
+   "graph_context": [
+    "previous stage: Escalation with old material",
+    "next stage: Parent softens first",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3062,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Ankita"
+    ],
+    "2": [
+     "Jin",
+     "Camila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 5: Parent softens first [Response]",
+   "description": "Later the parent knocks and says \"I was scared and I said it badly. Can we talk about what you want and what worries me?\" Listening before deciding is not weakness, and it models the respect he wants back.",
+   "graph_context": [
+    "previous stage: Slammed doors and cold war",
+    "next stage: Negotiated freedom with responsibility",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 3063,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Joseph"
+    ],
+    "2": [
+     "Siddharth",
+     "Bhavna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 6: Negotiated freedom with responsibility [Response]",
+   "description": "They agree on a curfew, contact plan and a review after a few weeks. The teen learns that reliability earns more freedom, and the parent learns to hold a boundary while letting the teen practise.",
+   "graph_context": [
+    "previous stage: Parent softens first",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3064,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Jagdish"
+    ],
+    "2": [
+     "Pooja",
+     "Tarun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 1: Adult child, parent's old role [Actor]",
+   "description": "A young adult living at home is asked for details about where she goes and whom she meets. She feels treated as a child; the parent, who has spent two decades in charge, does not know how to let go.",
+   "graph_context": [
+    "next stage: Clash over choices",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3065,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Seema"
+    ],
+    "2": [
+     "Aditi",
+     "Bhupen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 2: Clash over choices [Actor]",
+   "description": "A disagreement arises about a course, a partner or a job in another city. The parent's plan carries family expectations and sacrifice, so the child's choice feels like a rejection of the family.",
+   "graph_context": [
+    "previous stage: Adult child, parent's old role",
+    "next stage: Guilt and obligation",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3066,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Salma"
+    ],
+    "2": [
+     "Lars",
+     "Sami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 3: Guilt and obligation [Receiver]",
+   "description": "The young adult hears \"after all we have done for you\" and feels both guilt and anger. She loves her parents and wants her own life, and being forced to choose between the two feels unfair.",
+   "graph_context": [
+    "previous stage: Clash over choices",
+    "next stage: Distance to avoid conflict",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: affection, anger, guilt"
+   ]
+  },
+  {
+   "sno": 3067,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Uma"
+    ],
+    "2": [
+     "Ishita",
+     "Ankita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 4: Distance to avoid conflict [Actor]",
+   "description": "She shares less about her life to avoid fights, and the parent senses being shut out. Withholding keeps the peace, but it also keeps the parent from ever meeting the adult she has become.",
+   "graph_context": [
+    "previous stage: Guilt and obligation",
+    "next stage: Respectful statement of position",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

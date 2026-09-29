@@ -1,0 +1,268 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4669,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Kiran"
+    ],
+    "2": [
+     "Pranav",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Real hurt versus a habitual role [Observer]",
+   "description": "A colleague notes the difference between someone who has truly been wronged and someone whose story always casts them as the sufferer and others as villains. Real victims are not always calm, so care is needed before judging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: calm, hurt"
+   ]
+  },
+  {
+   "sno": 4670,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Nitin"
+    ],
+    "2": [
+     "Rukmini",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Compassion with boundaries [Response]",
+   "description": "A person listens kindly, then asks what the other wants to do about the situation and stays firm about their own limits. This respects pain without accepting blame that is not theirs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration, empathy, hurt"
+   ]
+  },
+  {
+   "sno": 4671,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Felix",
+     "Diego"
+    ],
+    "2": [
+     "Tanvir",
+     "Shankar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Emotional blackmail",
+   "subtype": "Threatening loss to get a yes [Actor]",
+   "description": "A person says they will leave, hurt themselves or tell everyone unless the other complies. Fear of abandonment drives it, but the effect is coercion, and threats of self-harm should always be taken seriously and passed to help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 4672,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Anand"
+    ],
+    "2": [
+     "Nikita",
+     "Anand"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Emotional blackmail",
+   "subtype": "Trapped by fear of consequences [Receiver]",
+   "description": "A person gives up friends, plans or beliefs because saying no is followed by threats of loss or exposure. They feel both pity and fear, and cannot tell where their own choice ends.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4673,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Aparna"
+    ],
+    "2": [
+     "Jyoti",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Emotional blackmail",
+   "subtype": "Refusing the threat and getting support [Response]",
+   "description": "A person stays kind but does not give in to threats, and involves a trusted friend, family member or helpline when safety is at risk. Care for someone does not require giving up freedom.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4674,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Rukmini"
+    ],
+    "2": [
+     "Kashish",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in relationships",
+   "subtype": "Early warning signs in dating [Observer]",
+   "description": "A young adult sees a partner who checks phones, chooses friends and grows jealous, described as caring. Control feels like attention at first, and asking whether you feel free is a useful test.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 4675,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Aiko",
+     "Ingrid"
+    ],
+    "2": [
+     "Kunal",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in relationships",
+   "subtype": "Controlling daily life [Actor]",
+   "description": "A partner monitors phone, money, clothes and friends, framing it as love or worry. The motive is fear of losing power, and the effect is a life that shrinks around their rules.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 4676,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Anjali"
+    ],
+    "2": [
+     "Raghav",
+     "Afreen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in relationships",
+   "subtype": "A world that keeps getting smaller [Receiver]",
+   "description": "A person stops seeing friends, checks every choice in advance, and feels they walk on eggshells. Because there may be no bruises, they may not call it abuse, though the harm is real.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4677,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Simran"
+    ],
+    "2": [
+     "Joseph",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in relationships",
+   "subtype": "Signs a friend or family may notice [Observer]",
+   "description": "Relatives notice a person becoming isolated, anxious, always reporting their whereabouts and losing their own money. They stay in touch without blame, since pressure to leave can push the person back.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anxiety, loneliness"
+   ]
+  },
+  {
+   "sno": 4678,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Jaya"
+    ],
+    "2": [
+     "Imran",
+     "Karthik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in relationships",
+   "subtype": "Safety and seeking help [Response]",
+   "description": "A person in this situation can quietly reach trusted people or local helplines and support services, and plan for safety before any big step. Leaving can be the most dangerous time, so expert guidance matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger, trust"
+   ]
+  }
+ ]
+}

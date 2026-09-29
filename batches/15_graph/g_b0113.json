@@ -1,0 +1,211 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5574,
+     "age": "4–6",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: self-direction",
+     "subtype": "\"I want to do it myself\" [Actor]",
+     "description": "A child pushes an adult's hand away from the shoelaces and insists on tying them alone, taking pride in choosing and doing; the wish for independence grows from here."
+    },
+    {
+     "sno": 5575,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: self-direction",
+     "subtype": "Wants to choose own subject and friends [Actor]",
+     "description": "A teenager wants to choose their stream and friends on their own judgment, and clashes with parents' plans; independence feels like part of who they are."
+    },
+    {
+     "sno": 5576,
+     "age": "18–22",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: self-direction",
+     "subtype": "Forging own path despite family pressure [Actor]",
+     "description": "A young adult explores an unusual career, accepting risk and disapproval; freedom and curiosity matter more to them than an approved route, though they still love their family."
+    }
+   ],
+   "cluster_id": "C0673",
+   "cast": [
+    "Ganga",
+    "Chandrika",
+    "Chaitanya"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3772,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Cognitive load",
+     "subtype": "Too much at once [Actor]",
+     "description": "A child given a long list of instructions forgets most of them. Working memory holds only a few items, so clear, short steps help."
+    },
+    {
+     "sno": 3773,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Cognitive load",
+     "subtype": "Studying with distractions [Actor]",
+     "description": "A teenager who studies with a phone buzzing and music with lyrics finds concepts do not stick, because attention and memory are overloaded."
+    },
+    {
+     "sno": 3774,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Cognitive load",
+     "subtype": "Overwhelm and errors [Actor]",
+     "description": "A student juggling exams, work and worries makes careless mistakes and feels foggy. Mental capacity is limited and stress uses part of it."
+    }
+   ],
+   "cluster_id": "C0674",
+   "cast": [
+    "Santosh",
+    "Disha",
+    "Vijay"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4938,
+     "age": "13–17",
+     "topic": "Culture & Society",
+     "subtopic": "Law and police interaction",
+     "subtype": "Stopped on a road [Receiver]",
+     "description": "A teenager on a scooter is stopped by police and asked for papers, feeling nervous and unsure. Staying calm, being polite, carrying documents and calling a parent are sensible."
+    },
+    {
+     "sno": 4940,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Law and police interaction",
+     "subtype": "Fear of registering a complaint [Receiver]",
+     "description": "A young adult hesitates to file a police complaint over theft or harassment, expecting delay or blame. Going with a trusted person, writing details and seeking legal aid or a senior officer if refused are valid steps."
+    },
+    {
+     "sno": 4942,
+     "age": "23–26",
+     "topic": "Culture & Society",
+     "subtopic": "Law and police interaction",
+     "subtype": "Intimidation or unfair treatment [Receiver]",
+     "description": "A young person, especially from a poor, minority or lower-caste background, feels talked down to or threatened. Recording facts, involving family, lawyers or human-rights groups, and staying calm are safer than resisting physically."
+    }
+   ],
+   "cluster_id": "C0675",
+   "cast": [
+    "Jaya",
+    "Ayesha",
+    "Afreen"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3994,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Moral disengagement: advantageous comparison",
+     "subtype": "At least it was not worse [Actor]",
+     "description": "A child who broke a window says it is nothing compared with what the older kids did; comparing with worse acts makes the wrongdoing look small."
+    },
+    {
+     "sno": 3995,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Moral disengagement: advantageous comparison",
+     "subtype": "Others do worse [Actor]",
+     "description": "A teenager who lies to parents says at least they are not taking drugs like some of their friends; the comparison stretches the moral scale until the act seems minor."
+    },
+    {
+     "sno": 3996,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Moral disengagement: advantageous comparison",
+     "subtype": "Cutting corners because the rest do worse [Actor]",
+     "description": "A student who pays for a ghostwritten assignment says others buy whole degrees; the bar is set by the worst example and not by the person's own values."
+    }
+   ],
+   "cluster_id": "C0676",
+   "cast": [
+    "Darshan",
+    "Devika",
+    "Shalini"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4855,
+     "age": "7–12",
+     "topic": "Culture & Society",
+     "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+     "subtype": "Noticing difference [Observer]",
+     "description": "A child notices which children sit apart, whose parents work in the house and whose name gets teased. Children see difference early; how adults explain it shapes fairness or prejudice."
+    },
+    {
+     "sno": 4859,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+     "subtype": "Reservation debates [Observer]",
+     "description": "A young adult hears heated arguments over quotas and merit, and feels drawn to angry slogans. Listening to lived experience and to data, and staying respectful, is wiser than picking a tribe."
+    }
+   ],
+   "cluster_id": "C0677",
+   "cast": [
+    "Gurleen",
+    "Amandeep",
+    "Nirmala"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5279,
+     "age": "4–6",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Sense of humour",
+     "subtype": "Silly sounds and surprise [Actor]",
+     "description": "A child giggles at funny faces, wrong words and sudden surprises. Early humour is about incongruity and safety, and laughing together bonds a child to a caregiver."
+    },
+    {
+     "sno": 5280,
+     "age": "7–12",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Sense of humour",
+     "subtype": "Joke telling and toilet humour [Actor]",
+     "description": "A child repeats the same joke ten times and finds bodily humour hilarious. Testing jokes teaches timing and audience, and groans from listeners are useful feedback."
+    },
+    {
+     "sno": 5282,
+     "age": "13–17",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Sense of humour",
+     "subtype": "Humour as belonging [Actor]",
+     "description": "A teenager uses sarcasm, memes and inside jokes to bond with peers. Shared humour signals who is in the group, and it can also be used to exclude others."
+    }
+   ],
+   "cluster_id": "C0678",
+   "cast": [
+    "Chinmay",
+    "Jaya",
+    "Mehak"
+   ]
+  }
+ ]
+}

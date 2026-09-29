@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3251,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Drawn into a high-control group or online extremism",
+     "subtype": "Stage 5: Doubt and fear [Actor]",
+     "description": "The member notices contradictions or unfair treatment, but fear of losing friends, shame and warnings about outsiders keep the doubts quiet. Inner conflict shows up as anxiety, sleeplessness and guilt."
+    },
+    {
+     "sno": 3253,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Drawn into a high-control group or online extremism",
+     "subtype": "Stage 6: Leaving [Response]",
+     "description": "Exit often follows a trusted outside relationship, a broken promise or plain exhaustion. Support means no blame, patient listening, practical help with housing and work, and counselling to rebuild independent thinking."
+    },
+    {
+     "sno": 3254,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Drawn into a high-control group or online extremism",
+     "subtype": "Stage 7: Rebuilding identity [Response]",
+     "description": "The former member mourns the community, feels shame for what they believed and slowly relearns their own tastes and views. Recovery takes time, and reconnecting with the family and varied company speeds it."
+    }
+   ],
+   "cluster_id": "C0295",
+   "cast": [
+    "Pranav",
+    "Nazia",
+    "Jahnavi"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3016,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 1: Comfortable years [Actor]",
+     "description": "A couple together for several years live in easy routine. Comfort is real, and it also lets each stop asking about the other's inner life, so small changes go unspoken."
+    },
+    {
+     "sno": 3017,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 2: Diverging paths [Actor]",
+     "description": "One is pulled toward a career move or a different way of life while the other wants stability near family. The talks about the future become polite and short, with big questions left for later."
+    },
+    {
+     "sno": 3018,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 3: Emotional distance [Receiver]",
+     "description": "The partner notices fewer touches, less curiosity and separate evenings. She feels lonely inside the relationship, more than she would alone, and yet says nothing to avoid a difficult talk."
+    }
+   ],
+   "cluster_id": "C0296",
+   "cast": [
+    "Jatin",
+    "Hemant",
+    "Damini"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3019,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 4: The naming [Response]",
+     "description": "One finally says \"I feel we are drifting, and I am not sure how to bring us back.\" Saying it kindly out loud lets both decide whether to repair, try counselling or part with honesty."
+    },
+    {
+     "sno": 3020,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 5: Trying and deciding [Actor]",
+     "description": "They try for a few months and honestly ask whether the wish to fix it is love or fear of being alone. Staying out of guilt, or leaving out of restlessness, both need looking at truthfully."
+    },
+    {
+     "sno": 3021,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A relationship's slow drift and breakup",
+     "subtype": "Stage 6: Parting with respect [Response]",
+     "description": "If they part, they tell families with agreed words, avoid blaming stories and divide shared things fairly. Grief and relief usually arrive together, and time, friends and routine carry a person through."
+    }
+   ],
+   "cluster_id": "C0297",
+   "cast": [
+    "Neelam",
+    "Zainab",
+    "Zeenat"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3193,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 5: Self-blame loop [Observer]",
+     "description": "A manager sees a capable employee miss soft deadlines and hand in strong work at the last moment. Asking what makes the task hard, rather than judging character, often reveals fear, unclear scope or overload."
+    },
+    {
+     "sno": 3194,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 6: Naming the real feeling [Response]",
+     "description": "The person asks what exactly feels uncomfortable, whether it is fear of being judged, unclear steps or boredom. Naming the feeling separates it from the task and points to a fix such as clarifying or asking for help."
+    },
+    {
+     "sno": 3195,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 7: Tiny start and self-compassion [Response]",
+     "description": "The person commits to five minutes, sets up the workspace the night before and forgives past delays. Starting small breaks the dread, and kindness to oneself makes it easier to face the next task."
+    }
+   ],
+   "cluster_id": "C0298",
+   "cast": [
+    "Ritu",
+    "Yamini",
+    "Usha"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3314,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 1: Noticing something wrong [Actor]",
+     "description": "An employee spots a safety cover-up, falsified data or misuse of funds and feels a knot of unease. At first the mind seeks innocent explanations and hopes someone else will handle it."
+    },
+    {
+     "sno": 3315,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 2: Checking and doubting [Actor]",
+     "description": "The person quietly gathers facts, asks whether they misunderstand and weighs loyalty to colleagues against duty to those who may be harmed. Being sure it is real comes before deciding to act."
+    },
+    {
+     "sno": 3316,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 3: Fear of costs [Actor]",
+     "description": "Thoughts of losing the job, being blacklisted, family worries and isolation weigh heavily. The person may lose sleep, and feels alone since few colleagues are willing to speak."
+    }
+   ],
+   "cluster_id": "C0299",
+   "cast": [
+    "Pallavi",
+    "Nikita",
+    "Sudha"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3317,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 4: Trying internal channels [Response]",
+     "description": "The employee raises the matter with a supervisor, ethics office or compliance team in writing and keeps a record. Using proper channels first is often wise, and it clarifies who is willing to act."
+    },
+    {
+     "sno": 3318,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 5: Retaliation or dismissal [Receiver]",
+     "description": "If the concern is ignored, the person may be sidelined, blamed or pushed out. The attack on their reputation is painful, and colleagues may avoid them out of fear."
+    },
+    {
+     "sno": 3320,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Whistleblowing",
+     "subtype": "Stage 6: External reporting and legal advice [Response]",
+     "description": "If internal action fails and harm is serious, the person takes advice from a lawyer or a protection body and reports to the proper authority. Knowing legal protections, and documenting facts rather than opinions, helps."
+    }
+   ],
+   "cluster_id": "C0300",
+   "cast": [
+    "Hansa",
+    "Gopika",
+    "Aditi"
+   ]
+  }
+ ]
+}

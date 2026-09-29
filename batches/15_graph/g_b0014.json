@@ -1,0 +1,251 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 387,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner disagrees strongly",
+     "subtype": "Partner × Contempt",
+     "description": "Uses sarcasm, eye-rolling and mockery; contempt is a strong predictor of relationship breakdown and is replaced by appreciation and respect."
+    },
+    {
+     "sno": 385,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner disagrees strongly",
+     "subtype": "Partner × Argument",
+     "description": "Attacks the person instead of the issue (\"you always\"); healthy patterns use \"I feel\", pause when flooded and return to solve the problem together."
+    },
+    {
+     "sno": 386,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner disagrees strongly",
+     "subtype": "Partner × Affection under conflict",
+     "description": "Remains warm during disagreement by touching, softening the tone and stating that the relationship is safe."
+    }
+   ],
+   "cluster_id": "C0079",
+   "cast": [
+    "Francis",
+    "Madhav",
+    "Devika"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1610,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Own mental health crisis",
+     "subtype": "Self × Shame [Actor]",
+     "description": "I feel like a burden and think others cope better, so I hide how bad it is. Wise: unbearable feelings need a person; tell one trusted adult or a helpline today. Harmful: waiting for it to pass alone."
+    },
+    {
+     "sno": 1613,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Own mental health crisis",
+     "subtype": "Friend × Compassion [Receiver]",
+     "description": "A friend notices I am off and simply sits with me. I feel seen for the first time in weeks. Wise: accept the care, say how much I can share, and let him help with practical tasks. Harmful: pushing him away to look fine."
+    },
+    {
+     "sno": 1611,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Own mental health crisis",
+     "subtype": "Family × Indifference [Receiver]",
+     "description": "My family says \"it is all in your head, just be strong\". I feel dismissed. Wise: try again with specifics or bring an ally like a doctor or teacher; my pain is real regardless. Harmful: giving up on asking."
+    },
+    {
+     "sno": 1612,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Own mental health crisis",
+     "subtype": "Counsellor × Trust [Actor]",
+     "description": "I go to a counsellor and gradually let my guard down. It feels awkward and helpful. Wise: therapy takes time; be honest and try a different professional if it does not fit. Harmful: quitting after one session."
+    }
+   ],
+   "cluster_id": "C0080",
+   "cast": [
+    "Deepika",
+    "Devika",
+    "Pooja"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1870,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Salary negotiation",
+     "subtype": "Employer × Respect [Receiver]",
+     "description": "A hiring manager who explains the pay band and the reasoning honestly is treating you as an adult. Respond with clear priorities, weigh the whole package, and do not confuse a fair no with disrespect."
+    },
+    {
+     "sno": 1872,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Salary negotiation",
+     "subtype": "Colleague × Envy [Actor]",
+     "description": "You learn a peer earns more for the same role and feel your stomach drop. Use the information carefully: check facts, compare skills, and negotiate with evidence. Harmful: attacking the peer, or quitting on impulse."
+    },
+    {
+     "sno": 1869,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Salary negotiation",
+     "subtype": "Employer × Fear [Actor]",
+     "description": "Asking for more money feels greedy and risky. Mature action: research market pay, state your value with examples, ask calmly, and be ready to hear no without taking it personally. Immature: silent resentment or ultimatums."
+    },
+    {
+     "sno": 1874,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Salary negotiation",
+     "subtype": "Self × Pride [Actor]",
+     "description": "You have a good offer and want to squeeze every rupee. Bargain firmly but honestly; bluffing about competing offers can wreck trust. A fair deal both sides can honour beats a win that sours the relationship."
+    }
+   ],
+   "cluster_id": "C0081",
+   "cast": [
+    "Kalyani",
+    "Indu",
+    "Seema"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1361,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend drifting away",
+     "subtype": "Friend × Loyalty [Actor]",
+     "description": "You stand by a friend even when it costs you. Wise: loyalty includes honesty and not covering harmful behaviour. Immature: defending them blindly against every criticism."
+    },
+    {
+     "sno": 1363,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend drifting away",
+     "subtype": "Friend × Loneliness in a crowd [Actor]",
+     "description": "Among many friends you feel unseen. Wise: share something real with one person rather than performing in the group. Immature: withdrawing without telling anyone."
+    },
+    {
+     "sno": 1366,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend drifting away",
+     "subtype": "Friend × Friend group conflict [Receiver]",
+     "description": "Two friends fight and both want you on their side. Wise: refuse to carry tales, stay kind to both, and keep your own view. Immature: agreeing with whoever is present."
+    }
+   ],
+   "cluster_id": "C0082",
+   "cast": [
+    "Kishore",
+    "Vikas",
+    "Sangeeta"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1747,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Old friend drifts away",
+     "subtype": "Friend × Grief [Actor]",
+     "description": "A friendship ended without a fight and I feel a quiet grief no one acknowledges. I let myself mourn it, remember what it gave, and stay open to new friends without comparing them to the old."
+    },
+    {
+     "sno": 1742,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Old friend drifts away",
+     "subtype": "Friend × Hurt & rejection [Receiver]",
+     "description": "A close friend has stopped replying and I feel dropped and puzzled. I reach out once directly, without blame, and accept the answer, including silence; I avoid rewriting the whole friendship as fake."
+    },
+    {
+     "sno": 421,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Old friend drifts away",
+     "subtype": "Friend × Nostalgia & acceptance",
+     "description": "Reaches out once without pressure and accepts natural changes in closeness."
+    },
+    {
+     "sno": 1743,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Old friend drifts away",
+     "subtype": "Friend × Guilt [Actor]",
+     "description": "I let a good friend slip away because of my busy work and marriage, and I feel guilty. A short honest message like I miss you and I am sorry works better than a long excuse; repair starts small and consistent."
+    }
+   ],
+   "cluster_id": "C0083",
+   "cast": [
+    "Santosh",
+    "Afreen",
+    "Sonali"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1684,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Crush at work × Temptation [Actor]",
+     "description": "I feel a spark toward a colleague while married and enjoy the attention. Attraction is human; wisdom is to see what the spark is answering in my life, keep distance, and bring the gap to my partner before it becomes a secret."
+    },
+    {
+     "sno": 1678,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Spouse × Guilt [Actor]",
+     "description": "I was unfaithful and I am torn between shame, self-justification, and fear of being found out. The honest path is to face what I did and the harm it caused; the harmful path is hiding, blaming my partner, or asking them to soothe me."
+    },
+    {
+     "sno": 1679,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Spouse × Jealousy [Actor]",
+     "description": "I feel jealous of my partner's friend and want to check their phone. Mature action is to voice my insecurity and ask for reassurance openly; the harmful pattern is surveillance and accusation, which erodes the trust I want."
+    },
+    {
+     "sno": 1681,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Spouse × Deceit [Actor]",
+     "description": "I hide messages or lie about where I was, telling myself it protects my partner from pain. Concealment slowly deadens a bond; the wise step is to end the secrecy and choose honesty, even at a cost."
+    }
+   ],
+   "cluster_id": "C0084",
+   "cast": [
+    "Jahnavi",
+    "Minakshi",
+    "Samir"
+   ]
+  }
+ ]
+}

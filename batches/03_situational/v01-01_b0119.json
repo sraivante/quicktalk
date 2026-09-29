@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1498,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Nikita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Coercion [Receiver]",
+   "description": "I am told to work weekends unpaid or \"your growth will suffer\", and to keep quiet about it. Fear and duty tangle. Wise: keep written records, know my contract and labour rights, and seek support before resigning in anger.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, dependence, fear, humiliation, loyalty, manipulation",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 1499,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Shalini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Fear [Actor]",
+   "description": "I dread his messages and my stomach drops at each ping. Wise: notice that this body reaction is information; separate real risk from imagined risk, plan a safety net of savings and contacts. Harmful: freezing for years.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, dependence, humiliation, loyalty, manipulation",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 1500,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Hemant"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Loyalty [Actor]",
+   "description": "He once helped me get in, so I keep excusing how he treats me. Gratitude and abuse mix. Wise: I can be thankful for the past and still refuse the present treatment. Harmful: treating loyalty as a debt with no limit.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, dependence, fear, humiliation, manipulation",
+    "related mind states: gratitude, resentment"
+   ]
+  },
+  {
+   "sno": 1501,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Anger [Actor]",
+   "description": "I want to send a furious email to the whole company. The anger is valid. Wise: write it, do not send it, cool down, then choose one calm, documented complaint. Harmful: a burnt bridge that costs me the reference.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, humiliation, loyalty, manipulation",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 1502,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Colleague × Trust [Actor]",
+   "description": "A coworker admits he faces the same treatment, and we quietly compare notes. I feel relief that it is not just me. Wise: share facts, not gossip; support each other without pulling anyone into a risky move.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, dependence, fear, humiliation, loyalty",
+    "related mind states: relief, trust"
+   ]
+  },
+  {
+   "sno": 1503,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Hemant"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Manipulation [Receiver]",
+   "description": "He alternates praise and threats and says \"nobody else would hire you\". I feel dizzy and dependent. Wise: recognise the pattern, test his claim by applying elsewhere, and lean on people outside work.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, dependence, fear, humiliation, loyalty"
+   ]
+  },
+  {
+   "sno": 1504,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Omkar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Dependence [Actor]",
+   "description": "I need this salary for the family, so I swallow everything. It is a real constraint, not weakness. Wise: stay while planning a way out, protect my health and dignity in small ways. Harmful: telling myself the abuse is normal.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, fear, humiliation, loyalty, manipulation"
+   ]
+  },
+  {
+   "sno": 1505,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Exploited as intern",
+   "subtype": "Company × Exploitation [Receiver]",
+   "description": "My \"internship\" is full-time work with no pay, no learning and a vague promise of a job. I feel used but afraid to lose the line on my CV. Wise: ask about stipend and learning goals, set a time limit, walk if nothing changes.",
+   "graph_context": [
+    "same situation, other stances at this age: indebtedness, loyalty, pride, resentment, respect",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1506,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Exploited as intern",
+   "subtype": "Company × Indebtedness [Actor]",
+   "description": "They say they are doing me a favour by taking me on, so I feel I owe endless effort. Wise: an honest exchange is work for learning or pay; a favour does not cancel my rights. Harmful: confusing gratitude with servitude.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, loyalty, pride, resentment, respect",
+    "related mind states: gratitude, confusion"
+   ]
+  },
+  {
+   "sno": 1507,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Exploited as intern",
+   "subtype": "Manager × Respect [Actor]",
+   "description": "One manager teaches me properly and gives real tasks, and I admire her patience. Wise: ask for a reference, take feedback seriously, and keep the relationship after I leave. Harmful: idolising her and ignoring my other needs.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, indebtedness, loyalty, pride, resentment",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

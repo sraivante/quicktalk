@@ -1,0 +1,215 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6331,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: going along to avoid being excluded [Pitfall]",
+   "description": "Worried about being called boring, the student joins a risky dare. The fear of social loss feels larger than the real danger in that moment, and the consequences fall on him alone.",
+   "graph_context": [
+    "same problem, other approaches: inversion, prioritising, values-first planning",
+    "related mind states: anger, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 6332,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: humour or redirect to another activity [Action]",
+   "description": "The student jokes it off and proposes cricket or a movie instead. Offering a substitute often lets others save face and shift too, since several may not really want to do it either.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising, values-first planning",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 6333,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vikas",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: thinking through consequences [Thinking]",
+   "description": "The student imagines what happens if the dare goes wrong: injury, school action, a call to parents. Seeing the worst case beside the short thrill makes the choice clearer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, prioritising, values-first planning",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 6334,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Ayesha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: leaving the situation and telling a trusted adult [Action]",
+   "description": "When the pressure continues, the student walks out, calls a parent or an uncle, and later tells the school counsellor about the dangerous plan, prioritising safety over group loyalty.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, values-first planning",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 6335,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Aadhya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: assuming everyone else is comfortable [Pitfall]",
+   "description": "The student thinks all others want to do it and stays silent. Later he learns that several felt uneasy too, showing how a false belief in group agreement keeps everyone quiet.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising, values-first planning",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6336,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: finding an ally in the group [Action]",
+   "description": "By quietly asking one friend if she is comfortable, the student finds support, and two people declining together makes it far easier to say no than standing alone.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising, values-first planning"
+   ]
+  },
+  {
+   "sno": 6337,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Himani",
+     "Sharmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: reviewing after giving in [Revision]",
+   "description": "After a risky evening the student admits it was a mistake, tells his parents what happened, and plans different company, earlier exit times and a firm rule for next time rather than hiding it.",
+   "graph_context": [
+    "same problem, other approaches: inversion, prioritising, values-first planning"
+   ]
+  },
+  {
+   "sno": 6338,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rania",
+     "Dalia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: rethinking the friend group [Revision]",
+   "description": "Noticing that certain friends repeatedly pressure him and mock refusal, the student spends more time with others who respect limits, keeping a friendly but distant tone with the pushy group.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising, values-first planning",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6339,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Dhruv"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: understanding parental worries first [Thinking]",
+   "description": "The teenager asks why parents refuse late evenings out and learns the concerns are safety and late-night travel, not distrust, which allows a plan that addresses those specific concerns.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 6340,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: win-win proposal with conditions [Action]",
+   "description": "The teen proposes going to a friend's house until 8 pm, sharing the address and location, phoning on arrival and being picked up by a parent, offering a trial for a month.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, values-first planning"
+   ]
+  }
+ ]
+}

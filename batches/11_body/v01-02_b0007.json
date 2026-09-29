@@ -1,0 +1,268 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4179,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Farhan"
+    ],
+    "2": [
+     "Vandana",
+     "Lalremsiami"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Persistent postpartum low mood or anxiety [Actor]",
+   "description": "A new parent whose sadness, dread, numbness or intrusive worry lasts and interferes with bonding or daily life is not failing. It is a health matter that improves with support from a doctor or a trained professional.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness, fear, anxiety, detachment"
+   ]
+  },
+  {
+   "sno": 4180,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Kiran"
+    ],
+    "2": [
+     "Nitin",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "In-laws and relatives around a new mother [Receiver]",
+   "description": "A new mother may feel judged or crowded by advice from elders about feeding, rest or baby care. Relatives who help with meals and household tasks, and ask before advising, protect her confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4181,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Pallavi"
+    ],
+    "2": [
+     "Pradeep",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Family watching for signs and offering help [Response]",
+   "description": "Partners and relatives look out for prolonged crying, withdrawal, not eating or fear of the baby, and encourage a medical check-up without blame. Sharing night duty and housework gives the mother room to recover.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness, fear, detachment"
+   ]
+  },
+  {
+   "sno": 4182,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Kunal"
+    ],
+    "2": [
+     "Lavanya",
+     "Vinita"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Toddler under threat [Actor]",
+   "description": "A frightened toddler may scream and hit, run to hide, go still and silent, or become suddenly super-sweet to please an angry adult. These are survival reactions of a very young nervous system, not planned behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 4183,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Nandini"
+    ],
+    "2": [
+     "Yusuf",
+     "Ganga"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Child freezing when scolded [Actor]",
+   "description": "A young child under harsh scolding may go blank, stare and not answer, which an adult mistakes for defiance. The body has frozen from fear, and a softer voice and time to settle are needed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hostility, fear"
+   ]
+  },
+  {
+   "sno": 4184,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Deepika"
+    ],
+    "2": [
+     "Ayesha",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Fight and flight at school [Actor]",
+   "description": "A child cornered by a bully may lash out or bolt from the room, and later feel ashamed of it. Naming what happened in the body, heart pounding and hot face, helps the child understand rather than judge themselves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4185,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Trisha"
+    ],
+    "2": [
+     "Vishal",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Adult recognising a fear response [Observer]",
+   "description": "A teacher sees a child suddenly aggressive, hiding under a desk or unnaturally agreeable and understands these may be stress reactions. Safety and calm come first, and the discussion of consequences comes later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hostility, fear, calm, trust"
+   ]
+  },
+  {
+   "sno": 4186,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Parul"
+    ],
+    "2": [
+     "Omar",
+     "Pablo"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Fawning to keep peace [Actor]",
+   "description": "A teenager who agrees quickly, apologises constantly and hides opinions to avoid conflict at home or with peers may be fawning. It keeps the moment safe, but slowly erodes a sense of self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4187,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Indu"
+    ],
+    "2": [
+     "Preeti",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Freezing in a high-pressure moment [Actor]",
+   "description": "A young adult in a viva, interview or argument suddenly cannot think or speak, mind blank and body stiff. It is a stress reaction, and slowing the breath and naming the moment often thaws it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 4188,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Deepika"
+    ],
+    "2": [
+     "Yusuf",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Stress response (fight, flight, freeze, fawn)",
+   "subtype": "Colleague reacting sharply under pressure [Receiver]",
+   "description": "A coworker on the receiving end of a sudden sharp reply from a stressed teammate may feel attacked. Recognising that fight-mode words often come from fear, not contempt, allows a calmer, later conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: contempt, fear, calm"
+   ]
+  }
+ ]
+}

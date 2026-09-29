@@ -1,0 +1,215 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1418,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Professor × Admiration [Receiver]",
+   "description": "A student looks up to you and hangs on your words. Wise: guide without creating dependence and be honest about your limits. Harmful: using their admiration for favours.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, disillusionment, exploitation, favouritism, fear, gratitude",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1419,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Professor × Fear [Actor]",
+   "description": "You are scared to approach a strict professor. Wise: prepare, go to office hours and see them as people. Immature: avoiding until problems become bigger.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, exploitation, favouritism, gratitude",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1420,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Professor × Disillusionment [Actor]",
+   "description": "You find a mentor is biased or petty. Wise: keep what they taught, update your view, and do not throw away the learning. Immature: cynicism toward all authority.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, exploitation, favouritism, fear, gratitude"
+   ]
+  },
+  {
+   "sno": 1421,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Professor × Favouritism [Receiver]",
+   "description": "Grades or projects go to a favourite. Wise: gather facts, raise it through proper channels, and keep your own standards. Harmful: bitterness that damages your work.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, exploitation, fear, gratitude",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1422,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Ankita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Professor × Recommendation letter [Actor]",
+   "description": "You need a letter and worry about asking. Wise: ask early and politely, give context on your work. Immature: expecting it as a right or dropping their name falsely.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, exploitation, favouritism, fear",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 1423,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kishore",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Mentor × Gratitude [Actor]",
+   "description": "A mentor changed your direction. Wise: say thanks, pass on what you learn, and later pay it forward. Immature: forgetting them once you succeed.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, exploitation, favouritism, fear",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1424,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Mentor × Dependence [Actor]",
+   "description": "You wait for a mentor to tell you what to do. Wise: bring your own ideas and grow into independent judgement. Immature: outsourcing every decision.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, disillusionment, exploitation, favouritism, fear, gratitude"
+   ]
+  },
+  {
+   "sno": 1425,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Noa",
+     "Chidi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Mentor × Exploitation [Receiver]",
+   "description": "A senior or guide uses your work, credit or time without fairness. Wise: name the unfairness politely, set limits and involve someone neutral if needed. It is not ungrateful to protect your work.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, favouritism, fear, gratitude",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1426,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Professor or mentor guidance",
+   "subtype": "Mentor × Inappropriate behaviour [Receiver]",
+   "description": "A teacher or guide makes unwanted comments or touches. Wise: recognise it as wrong, keep records, and report to the internal committee or a trusted adult. It is never your fault.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, dependence, disillusionment, exploitation, favouritism, fear",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1427,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a mentor",
+   "subtype": "Senior × Admiration and learning [Actor]",
+   "description": "A senior shows you the ropes and you want to be like them. Wise: learn their thinking, not just copy their choices. Immature: imitating their style while ignoring your own path.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

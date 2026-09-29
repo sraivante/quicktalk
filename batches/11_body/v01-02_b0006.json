@@ -1,0 +1,269 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4169,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Ayesha"
+    ],
+    "2": [
+     "Rehana",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Silence and stigma around periods [Receiver]",
+   "description": "In some homes a girl is told to hide her period or avoid certain spaces, which teaches shame about a normal process. Respecting each family's customs while making sure she has comfort, information and dignity matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: admiration, shame"
+   ]
+  },
+  {
+   "sno": 4170,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Dilnaz"
+    ],
+    "2": [
+     "Pema",
+     "Rukmini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Period pain and missed school [Actor]",
+   "description": "A student with painful periods may feel tired, tender and unable to concentrate, and worry about being called dramatic. Being believed and getting help from a doctor for severe pain prevents needless suffering.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: affection, anxiety, tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 4171,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Yusuf"
+    ],
+    "2": [
+     "Raghav",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Noticing personal patterns [Actor]",
+   "description": "A young woman who tracks her cycle may see that some days bring lower energy, sensitivity or tearfulness while others feel strong. Knowing her own pattern helps her plan rest and lighter work without treating it as weakness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 4172,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Vikas"
+    ],
+    "2": [
+     "Vaibhav",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Partner or friend avoiding stereotypes [Response]",
+   "description": "A respectful partner asks how she is feeling instead of blaming every mood on her cycle. Experiences differ hugely between people, and dismissing real concerns as hormones is unfair and shuts down honest talk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 4173,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Tejas"
+    ],
+    "2": [
+     "Jaya",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Workplace and cycle discomfort [Observer]",
+   "description": "A colleague notices a teammate quietly struggling with cramps or fatigue but powering through. Flexible breaks, warmth and privacy help, while jokes or assumptions about her moods do harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: affection, tiredness"
+   ]
+  },
+  {
+   "sno": 4174,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Payal"
+    ],
+    "2": [
+     "Disha",
+     "Uday"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Menstrual cycle effects on mood and coping",
+   "subtype": "Severe monthly distress needing care [Response]",
+   "description": "When mood or pain around periods becomes overwhelming, disrupts work or relationships, or brings very dark thoughts, it deserves a doctor's attention. Being taken seriously, not told to tolerate it, is a right.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: overwhelm, hurt"
+   ]
+  },
+  {
+   "sno": 4175,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ujjwal",
+     "Bhavna"
+    ],
+    "2": [
+     "Ritu",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Partner unsure how to help during pregnancy [Receiver]",
+   "description": "A partner may feel excited, anxious and left out as the pregnancy shifts tiredness, nausea and worries onto the mother. Listening, sharing chores and going to appointments builds closeness better than advice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anxiety, excitement, tiredness"
+   ]
+  },
+  {
+   "sno": 4176,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Marek",
+     "Thabo"
+    ],
+    "2": [
+     "Jatin",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Expectant mother's mixed feelings [Actor]",
+   "description": "A pregnant woman may feel joy, fear, tearfulness and fatigue in the same hour as hormones, body changes and future worries combine. Mixed feelings are common and need acceptance, not correction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: joy, sadness, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 4177,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Hrithik"
+    ],
+    "2": [
+     "Vidya",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Partner's own worries about fatherhood [Actor]",
+   "description": "An expectant father may feel pride and pressure about money, responsibility and losing freedom, yet keep quiet to seem strong. Sharing these worries with his partner or a friend helps him support rather than withdraw.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anxiety, pride, detachment"
+   ]
+  },
+  {
+   "sno": 4178,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Irawati"
+    ],
+    "2": [
+     "Arnab",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pregnancy and postpartum emotional changes",
+   "subtype": "Baby blues after birth [Actor]",
+   "description": "A new mother may cry easily, feel overwhelmed and unusually sensitive in the first days after childbirth as hormones drop and sleep disappears. Rest, food, reassurance and practical help often ease it within a couple of weeks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness, overwhelm"
+   ]
+  }
+ ]
+}

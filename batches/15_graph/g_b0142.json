@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4056,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Procrastination",
+     "subtype": "Avoidant type: avoiding judgement [Actor]",
+     "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse."
+    },
+    {
+     "sno": 3186,
+     "age": "7–12",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 1: Task feels big or dull [Actor]",
+     "description": "A child looks at a project or homework and feels a small wave of dread or boredom. The mind wants relief now, so it moves to something easier, such as a game or a snack."
+    }
+   ],
+   "cluster_id": "C0847",
+   "cast": [
+    "Naveen",
+    "Sachin",
+    "Siddharth"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4056,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Procrastination",
+     "subtype": "Avoidant type: avoiding judgement [Actor]",
+     "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse."
+    },
+    {
+     "sno": 3194,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 6: Naming the real feeling [Response]",
+     "description": "The person asks what exactly feels uncomfortable, whether it is fear of being judged, unclear steps or boredom. Naming the feeling separates it from the task and points to a fix such as clarifying or asking for help."
+    }
+   ],
+   "cluster_id": "C0848",
+   "cast": [
+    "Madhav",
+    "Aditi",
+    "Simran"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 5507,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Normalcy bias",
+     "subtype": "It cannot happen here [Actor]",
+     "description": "A teenager shrugs off a flood or cyclone warning because nothing bad has happened before, and keeps scrolling, feeling safe because the world so far has been ordinary."
+    },
+    {
+     "sno": 7036,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Surviving a natural disaster",
+     "subtype": "Approach: wait and see because it may not be serious [Pitfall]",
+     "description": "Having seen earlier warnings pass with little harm, the person stays put until water enters the ground floor. Normalcy bias delays leaving until the routes are cut."
+    }
+   ],
+   "cluster_id": "C0849",
+   "cast": [
+    "Dilnaz",
+    "Tejas",
+    "Uma"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4081,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Locus of control",
+     "subtype": "Everything is luck or teacher's mood [Actor]",
+     "description": "A child with an external locus says the teacher gave low marks and never links results with preparation; belief that outcomes come from outside reduces effort."
+    },
+    {
+     "sno": 4445,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Building agency [Response]",
+     "description": "A wise teenager asks what is within their control today and takes one action on it. Pairing effort with acceptance of what cannot be changed keeps hope without self-blame."
+    }
+   ],
+   "cluster_id": "C0850",
+   "cast": [
+    "Omkar",
+    "Hemant",
+    "Pankaj"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3891,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Class clown covering embarrassment [Actor]",
+     "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry."
+    },
+    {
+     "sno": 2423,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Humor and play",
+     "subtype": "Puns, riddles and knock-knock jokes [Expressing]",
+     "description": "A school-age child enjoys puns, riddles and wordplay based on double meanings. Such humour signals growing language awareness and a wish to share fun and be part of the group."
+    }
+   ],
+   "cluster_id": "C0851",
+   "cast": [
+    "Parul",
+    "Madhav",
+    "Siddharth"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 2367,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Other vocal sounds",
+     "subtype": "Sighing and huffing [Interpreting]",
+     "description": "A schoolchild reads an adult's sigh or huff as tiredness, boredom or annoyance. It is ambiguous and may be relief; asking is everything is fine can prevent a child from assuming they are the cause."
+    }
+   ],
+   "cluster_id": "C0852",
+   "cast": [
+    "Omkar",
+    "Joseph",
+    "Raghav"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1588,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Online outrage mob",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I realised I had shared a false claim that hurt a person, and feel ashamed. Wise: delete it, post a plain correction, apologise if she is reachable. Harmful: defending it out of pride.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, argument, contempt, humiliation, loyalty",
+    "related mind states: shame, guilt, pride, hurt"
+   ]
+  },
+  {
+   "sno": 1589,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "AI tool × Dependence [Actor]",
+   "description": "I ask the AI before I even try, and my own thinking feels slower. Wise: try first, use AI to check or explore, and keep skills I want to own. Harmful: submitting what I do not understand.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, distrust, envy, fear, indifference, trust"
+   ]
+  },
+  {
+   "sno": 1590,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "AI tool × Trust [Actor]",
+   "description": "The AI answers confidently and I accept it. Wise: trust but verify, especially for facts, health, law and money; ask for sources and test claims. Harmful: treating fluent text as truth.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, distrust, envy, fear, indifference",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1591,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Trisha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "AI tool × Affection [Actor]",
+   "description": "Talking to an AI companion feels easier than people, since it never judges me. Wise: enjoy the comfort but keep human bonds growing, as real friends can hold me in ways software cannot. Harmful: replacing all relationships with it.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, distrust, envy, fear, indifference, trust",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1592,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "Teacher × Suspicion [Receiver]",
+   "description": "My professor suspects that my assignment was AI-written when partly it was. I feel exposed. Wise: be honest, show my process, and learn the rules. Harmful: lying, which turns a minor matter into a serious one.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, envy, fear, indifference, trust",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 1593,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Sachin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "Classmate × Envy [Actor]",
+   "description": "A classmate finishes work in minutes with AI and scores well, and I feel foolish for working hard. Wise: shortcuts show in interviews and later work; build real skill, use AI as a tutor. Harmful: copying blindly to keep up.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, distrust, fear, indifference, trust",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1594,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Kiran",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "AI tool × Fear [Actor]",
+   "description": "I worry AI will take the job I am training for. The anxiety is understandable. Wise: learn the tools, build judgement and human skills, and stay adaptable. Harmful: freezing or denying the change.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, distrust, envy, indifference, trust",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 1595,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relying on AI tools",
+   "subtype": "Employer × Indifference [Receiver]",
+   "description": "My employer expects me to produce AI-level output at speed and never asks whether I understand. Wise: check accuracy myself and speak up about errors. Harmful: hiding behind the tool when mistakes occur.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, distrust, envy, fear, trust"
+   ]
+  },
+  {
+   "sno": 1596,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ivan",
+     "Elif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Addiction in self",
+   "subtype": "Substance or habit × Dependence [Actor]",
+   "description": "What began as an occasional drink, vape or game night has become how I cope, and I keep saying I can stop anytime. Wise: honestly count the cost, tell someone safe, seek professional help early. Harmful: hiding it and calling it stress relief.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, manipulation, obsession, shame, trust",
+    "related mind states: relief, trust"
+   ]
+  },
+  {
+   "sno": 1597,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Addiction in self",
+   "subtype": "Self × Shame [Actor]",
+   "description": "After each binge I promise myself never again, then relapse and hate myself for it. Wise: shame fuels the cycle; treat relapse as data, get support and plan for triggers. Harmful: punishing myself and drinking or scrolling again.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, dependence, manipulation, obsession, trust",
+    "related mind states: shame"
+   ]
+  }
+ ]
+}

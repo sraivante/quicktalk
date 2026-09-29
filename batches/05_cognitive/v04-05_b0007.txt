@@ -1,0 +1,42 @@
+STAGE: cognitive
+Variant ids in this batch: 4, 5 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows describe a thinking mechanism (bias, heuristic, defence mechanism, distortion, motivation, habit). In the passage, show the mechanism operating WITHOUT naming it, so it must be identified from behaviour. The mental_state answer explains why it feels reasonable from the inside. The literal answer names the concrete event. The application answer gives a workable countermeasure. Children's rows show the early form (magical thinking, egocentrism) at their level. Do not label people as having a disorder.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3630, "plan": {"4": "R14", "5": "R15"}, "cast": {"4": ["Afreen", "Rukmini"], "5": ["Aadhya", "Gopika"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Horn effect", "subtype": "One flaw spoils the rest [Actor]", "description": "A child who once saw a classmate cheat decides everything about him is bad, including his drawing and his friendliness. One negative trait taints all.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 3631, "plan": {"4": "R3", "5": "R4"}, "cast": {"4": ["Noor", "Saurabh"], "5": ["Francis", "Tejas"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Horn effect", "subtype": "Labels that stick [Receiver]", "description": "A teenager labelled as lazy or naughty by a teacher finds his good work ignored while every small slip is noticed. The label limits what others see.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26"]}
+{"sno": 3632, "plan": {"4": "R12", "5": "R13"}, "cast": {"4": ["Aditi", "Saurabh"], "5": ["Jomon", "Chaitanya"]}, "age": "18–22", "topic": "Cognitive Machinery", "subtopic": "Horn effect", "subtype": "Judging by one mistake [Actor]", "description": "A student decides a group member is useless after one late submission and stops giving him tasks. The single flaw becomes the whole story.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 3633, "plan": {"4": "R8", "5": "R9"}, "cast": {"4": ["Soo-ah", "Tomas"], "5": ["Lalit", "Aditi"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Horn effect", "subtype": "Giving a second look [Response]", "description": "A thoughtful lead notices when one error is colouring her view, and reviews the person's full record and context before deciding.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22"]}
+{"sno": 3634, "plan": {"4": "R14", "5": "R15"}, "cast": {"4": ["Abhinav", "Jasleen"], "5": ["Pema", "Hrithik"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Fundamental attribution error", "subtype": "Blaming the person [Actor]", "description": "A child who is bumped decides the other kid is mean, not that the corridor was crowded. Others' behaviour is read as character while his own is excused by the situation.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 3635, "plan": {"4": "R2", "5": "R3"}, "cast": {"4": ["Irawati", "Jyoti"], "5": ["Indu", "Darshan"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Fundamental attribution error", "subtype": "Judging late or rude peers [Actor]", "description": "A teenager assumes a friend who did not reply is uncaring, never thinking of a dead phone or a family crisis. Character explains everything, circumstances nothing.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26"]}
+{"sno": 3636, "plan": {"4": "R5", "5": "R6"}, "cast": {"4": ["Manoj", "Deepika"], "5": ["Usha", "Simran"]}, "age": "18–22", "topic": "Cognitive Machinery", "subtopic": "Fundamental attribution error", "subtype": "Roommate and group work [Actor]", "description": "A student calls a groupmate lazy without knowing he works nights at a job. Hidden pressures are invisible, so personal flaws seem the only cause.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 3637, "plan": {"4": "R15", "5": "R1"}, "cast": {"4": ["Mridul", "Binita"], "5": ["Hrithik", "Leela"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Fundamental attribution error", "subtype": "Curious before judging [Response]", "description": "A mature colleague asks what might be happening for the person before concluding he is careless, and stays open to both a situation and a habit being true.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: curiosity"]}
+{"sno": 3638, "plan": {"4": "R5", "5": "R7"}, "cast": {"4": ["Rafiq", "Disha"], "5": ["Jaya", "Afreen"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Self-serving bias", "subtype": "Credit mine, blame yours [Actor]", "description": "A child says he won because of his skill, but lost because of the referee or a bad bat. Success is owned and failure is outsourced.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 3639, "plan": {"4": "R8", "5": "R9"}, "cast": {"4": ["Rafael", "Santiago"], "5": ["Simran", "Hrithik"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Self-serving bias", "subtype": "Marks and blame [Actor]", "description": "A teenager who scores high credits his brilliance and one who scores low blames the paper, the teacher or luck. Protecting self-image outweighs learning.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26"]}
+
+Return exactly 20 JSON Lines and nothing else.

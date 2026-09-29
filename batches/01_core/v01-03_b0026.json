@@ -1,0 +1,289 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 251,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Santosh"
+    ],
+    "2": [
+     "Neelam",
+     "Jaya"
+    ],
+    "3": [
+     "Amandeep",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Relationships",
+   "subtopic": "Romantic Partnership",
+   "subtype": "Commitment, Compatibility & Breakup Recovery",
+   "description": "Choosing partners on values, handling rejection and recovering from a breakup."
+  },
+  {
+   "sno": 252,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Zainab"
+    ],
+    "2": [
+     "Varun",
+     "Ramesh"
+    ],
+    "3": [
+     "Saurabh",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Relationships",
+   "subtopic": "Intimacy",
+   "subtype": "Consent, Sexual Health & Boundaries",
+   "description": "Communicating boundaries, respecting consent and practicing safe, responsible intimacy.",
+   "graph_context": [
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 253,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Jeevan"
+    ],
+    "2": [
+     "Gautam",
+     "Rehana"
+    ],
+    "3": [
+     "Indu",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Family",
+   "subtopic": "Adult Child",
+   "subtype": "Redefining Relationship With Parents",
+   "description": "Shifting from dependence to adult partnership with parents and setting healthy boundaries."
+  },
+  {
+   "sno": 254,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Preeti"
+    ],
+    "2": [
+     "Samir",
+     "Disha"
+    ],
+    "3": [
+     "Karthik",
+     "Hrithik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Relationships",
+   "subtopic": "Friendship Maintenance",
+   "subtype": "Sustaining Adult Friendships",
+   "description": "Keeping connections alive across distance and busy schedules."
+  },
+  {
+   "sno": 255,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Tushar"
+    ],
+    "2": [
+     "Gopika",
+     "Uday"
+    ],
+    "3": [
+     "Urmila",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Isolation",
+   "subtype": "Loneliness in New Cities & Campuses",
+   "description": "Building belonging after moving away from home and old peers.",
+   "graph_context": [
+    "related mind states: loneliness, nostalgia"
+   ]
+  },
+  {
+   "sno": 256,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Madhuri"
+    ],
+    "2": [
+     "Karthik",
+     "Hafsa"
+    ],
+    "3": [
+     "Chandrika",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Life Skills",
+   "subtopic": "Shared Living",
+   "subtype": "Roommates & Household Negotiation",
+   "description": "Sharing space, money and chores while managing conflict fairly."
+  },
+  {
+   "sno": 257,
+   "plan": {
+    "1": "R8",
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "1": [
+     "Selin",
+     "Rafael"
+    ],
+    "2": [
+     "Lalremsiami",
+     "Anand"
+    ],
+    "3": [
+     "Kiran",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Mental Health",
+   "subtopic": "Burnout & Depression",
+   "subtype": "Recognizing Warning Signs & Seeking Professional Help",
+   "description": "Noticing prolonged exhaustion, hopelessness or withdrawal and getting help early.",
+   "graph_context": [
+    "related mind states: hope, tiredness, detachment"
+   ]
+  },
+  {
+   "sno": 258,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Karthik"
+    ],
+    "2": [
+     "Shreya",
+     "Siddharth"
+    ],
+    "3": [
+     "Jatin",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Health Risk",
+   "subtopic": "Addiction",
+   "subtype": "Alcohol, Substances & Behavioural Addictions",
+   "description": "Understanding dependence loops in substances, gambling, porn and gaming and how to exit them."
+  },
+  {
+   "sno": 259,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Pooja"
+    ],
+    "2": [
+     "Ulla",
+     "Ines"
+    ],
+    "3": [
+     "Simran",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Identity",
+   "subtopic": "Values Clarification",
+   "subtype": "Defining Personal Values & Non-Negotiables",
+   "description": "Choosing what one stands for independent of family and peers."
+  },
+  {
+   "sno": 260,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Darshan"
+    ],
+    "2": [
+     "Pallavi",
+     "Darshan"
+    ],
+    "3": [
+     "Chetan",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Coping",
+   "subtopic": "Self-Compassion",
+   "subtype": "Treating Oneself Kindly After Failure",
+   "description": "Replacing harsh self-criticism with accountable, supportive self-talk."
+  }
+ ]
+}

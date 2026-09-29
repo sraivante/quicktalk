@@ -1,0 +1,211 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5841,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Chinmay"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting a turn",
+   "subtype": "Approach: bargaining [Action]",
+   "description": "A child says, \"You push me, then I push you,\" and swaps places at the swing after a fair count. Both children get a turn.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 5842,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Omkar",
+     "Irawati"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting a turn",
+   "subtype": "Approach: pushing in [Pitfall]",
+   "description": "A child squeezes to the front of the line for the slide, and the others shout. The turn is got for a moment and the friendship pays for it.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, negotiation, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 5843,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Karthik"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting a turn",
+   "subtype": "Approach: giving up [Pitfall]",
+   "description": "The line is long and a child walks off to the corner, saying \"I don't want to play anyway.\" Pretending not to care protects feelings and gets no turn.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, negotiation, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 5844,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Mehak",
+     "Jeevan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting a turn",
+   "subtype": "Approach: trial and error [Revision]",
+   "description": "Shouting \"my turn\" got a child nowhere. Next day the child asks, \"Can I go after you?\" and the child on the swing agrees. Polite asking is kept as the new plan.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, negotiation, trial by imitation"
+   ]
+  },
+  {
+   "sno": 5845,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Ramesh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: bargaining [Action]",
+   "description": "A child swaps the toy truck for a turn with the friend's doll. Both get something they want, so the trade feels fair to both.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, copying without fit, if-then plan, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5846,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Chetan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: if-then rule [Thinking]",
+   "description": "A child reasons, \"If I share the truck, then Aarav shares his cars.\" The rule ties giving to getting, and makes it less costly to hand the toy over.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, copying without fit, magical thinking, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 5847,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Dolma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: asking an adult [Revision]",
+   "description": "Two children pull on one toy until a teacher is asked, and she proposes a sand timer for each turn. The child follows the rule the timer sets.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, if-then plan, magical thinking, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 5848,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Naveen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: magical thinking [Pitfall]",
+   "description": "A child fears that the toy will be \"used up\" or will change once a friend touches it, and hides it. The fear has no basis but decides what the child does.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, copying without fit, if-then plan, mental simulation, negotiation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5849,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Lalremsiami"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: copying a peer [Action]",
+   "description": "A child sees a classmate hand over a crayon and get a smile and a turn with her paints in return. The child tries the same and it works.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, if-then plan, magical thinking, mental simulation, negotiation",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5850,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Saurabh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sharing a toy",
+   "subtype": "Approach: make-believe rehearsal [Thinking]",
+   "description": "A child turns sharing into a shop game where the friend is a customer who borrows the toy and returns it at closing time. Play makes giving it up feel safe.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, copying without fit, if-then plan, magical thinking, negotiation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 618,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Elizabeth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling embarrassed",
+   "subtype": "Classmate × Mockery [Receiver]",
+   "description": "The class laughs when I mispronounce a word. I feel small and hot. A wise adult says \"everyone is learning\". I can laugh gently or say \"that is unkind\". Laughter that hurts is not the same as laughing together.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, humiliation, shame",
+    "paired view exists: Actor (S619)",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 619,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Yusuf"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling embarrassed",
+   "subtype": "Classmate × Mockery [Actor]",
+   "description": "I laugh at a child who fell, because everyone else does. I feel part of the group but a little uneasy. A wise adult asks \"how would you feel?\" Laughing at pain is a habit copied from others and can be unlearned.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, humiliation, shame",
+    "paired view exists: Receiver (S618)",
+    "related mind states: amusement, anxiety, hurt"
+   ]
+  },
+  {
+   "sno": 620,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jamal",
+     "Liam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling embarrassed",
+   "subtype": "Teacher × Humiliation [Receiver]",
+   "description": "The teacher makes me stand and show my mistake to the class. I feel hot and want to cry. It is not my fault. Telling a parent helps, and a good school lets a child feel safe to make mistakes.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, mockery, shame",
+    "related mind states: sadness, humiliation, trust"
+   ]
+  },
+  {
+   "sno": 621,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Pankaj"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Feeling embarrassed",
+   "subtype": "Parent × Acceptance [Receiver]",
+   "description": "After I spill juice at a guest's house, my parent says \"accidents happen, let us clean up together\". I feel relieved and loved. A parent's calm response teaches me embarrassment passes and mistakes can be mended.",
+   "graph_context": [
+    "same situation, other stances at this age: humiliation, mockery, shame",
+    "related mind states: affection, embarrassment, relief, calm"
+   ]
+  },
+  {
+   "sno": 622,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jamal",
+     "Ivan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being compared",
+   "subtype": "Sibling × Envy [Receiver]",
+   "description": "My parent says \"why can't you be like your sister?\" I feel less loved and angry at her. It is not my fault or hers. Wise parents avoid comparison and value each child's own strengths and pace.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, resentment, rivalry",
+    "related mind states: affection, anger, envy"
+   ]
+  },
+  {
+   "sno": 623,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Seema"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being compared",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "Papa compares me with the neighbour's child and I feel hurt and stubborn. I may stop trying. A wise child says \"I feel sad when you say that\". A wise parent apologises and encourages me on my own progress.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, rivalry",
+    "related mind states: sadness, resentment, hurt"
+   ]
+  },
+  {
+   "sno": 624,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rafael",
+     "Marek"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being compared",
+   "subtype": "Classmate × Rivalry [Actor]",
+   "description": "I compare my colouring with the girl beside me and feel bad because hers is neater. I want to hide mine. A wise teacher says \"look how far you have come\", turning comparison into pride in my own growth.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, resentment",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 625,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Ayesha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being compared",
+   "subtype": "Classmate × Admiration [Actor]",
+   "description": "I see another child run fast and think \"I want to run like her\". I feel inspired and a little jealous. Wise adults help me ask \"can you teach me?\" and say each child is good at different things.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, resentment, rivalry",
+    "related mind states: admiration, jealousy"
+   ]
+  },
+  {
+   "sno": 626,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Devika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "First day at school",
+   "subtype": "Teacher × Trust [Actor]",
+   "description": "On my first day I cry as Mummy leaves, then the teacher takes my hand and shows me the toys. I feel scared then a little safe. A warm, steady teacher makes school feel like a friendly place.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, dependence",
+    "related mind states: sadness, fear, trust"
+   ]
+  },
+  {
+   "sno": 627,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Sabina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "First day at school",
+   "subtype": "Parent × Dependence [Actor]",
+   "description": "I hold on to Mummy's dress and cry at the school gate. Separation is truly hard. Wise parents say a short kind goodbye, tell when they will return and do not sneak away. Lingering makes it harder.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, trust",
+    "related mind states: sadness"
+   ]
+  }
+ ]
+}

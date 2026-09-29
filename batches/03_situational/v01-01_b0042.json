@@ -1,0 +1,215 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 728,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Winning a match",
+   "subtype": "Teammate × Envy [Receiver]",
+   "description": "I scored the winning point and a teammate goes quiet and sulks. I understand he wanted that chance. I credit his pass and include him. Downplaying myself completely is not needed either.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, pride",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 729,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Wasim"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating to win a game",
+   "subtype": "Friend × Temptation [Actor]",
+   "description": "I could bend the rule and nobody would notice. Winning feels big and losing feels small. A wise child knows a win by cheating feels empty and would need to be hidden. I play fair.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt"
+   ]
+  },
+  {
+   "sno": 730,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating to win a game",
+   "subtype": "Opponent × Guilt [Actor]",
+   "description": "I cheated and won, and the trophy feels heavy. Guilt is my conscience working. I can admit it to the coach, accept a consequence and start clean. Hiding it makes it grow.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, temptation",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 731,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rania",
+     "Emil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating to win a game",
+   "subtype": "Opponent × Anger [Receiver]",
+   "description": "I catch someone cheating against me and feel furious. Wise: tell the referee or an adult calmly instead of accusing loudly or retaliating. Cheating back turns me into the same thing.",
+   "graph_context": [
+    "same situation, other stances at this age: guilt, temptation",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 732,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Group mate × Resentment [Actor]",
+   "description": "I did most of the project while others chatted and I am fuming. Resentment is fair, but silent martyrdom fixes nothing. Wise: ask clearly for tasks to be split, and tell the teacher if it continues.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, gratitude, rejection",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 733,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Group mate × Laziness [Actor]",
+   "description": "I let others do the work because I think they will do it anyway. It feels easy but it takes advantage. Honest action: take a real share and admit when I have been slack.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, gratitude, rejection, resentment"
+   ]
+  },
+  {
+   "sno": 734,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Group mate × Bossiness [Actor]",
+   "description": "I take over the project because I think only my way is right. My ideas may be good, but others feel shut out. Wise: listen, give each person a part, and accept some imperfection.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, gratitude, rejection, resentment"
+   ]
+  },
+  {
+   "sno": 735,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Himani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Group mate × Exclusion [Receiver]",
+   "description": "My group gives me only tiny jobs and ignores my ideas. I feel small. I can speak up calmly with an idea and ask for a bigger role. If still ignored, I tell the teacher without being harsh.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, gratitude, resentment",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 736,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Group mate × Gratitude [Receiver]",
+   "description": "A group mate stayed late to fix my part and did not complain. I feel grateful and a little guilty. I say thank you clearly and do my share next time. Thankless taking sours teams.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, rejection, resentment",
+    "related mind states: gratitude, guilt"
+   ]
+  },
+  {
+   "sno": 737,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project unfair work",
+   "subtype": "Teacher × Fairness [Actor]",
+   "description": "I ask the teacher to see who did what. Asking for fairness is not tale-telling. Wise: describe facts calmly, not blame. Wanting all the credit for myself is a different thing.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, rejection, resentment",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

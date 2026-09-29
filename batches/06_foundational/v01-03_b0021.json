@@ -1,0 +1,317 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5642,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Mohit"
+    ],
+    "2": [
+     "Pallavi",
+     "Nandini"
+    ],
+    "3": [
+     "Kunal",
+     "Anand"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emerging adulthood",
+   "subtype": "Family expectation versus personal timeline [Receiver]",
+   "description": "A young adult is asked about a job, marriage or salary by relatives who measure life by a fixed timetable. They feel judged and rushed, and learn to answer kindly without adopting someone else's clock.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 5643,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Seema"
+    ],
+    "2": [
+     "Marek",
+     "Diego"
+    ],
+    "3": [
+     "Ganga",
+     "Sarika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emerging adulthood",
+   "subtype": "Delayed milestones [Observer]",
+   "description": "A parent sees a child in their mid-twenties still living at home or changing jobs and worries. Understanding that today's path is longer and less linear helps them ask questions instead of issuing verdicts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5644,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Farida"
+    ],
+    "2": [
+     "Dolma",
+     "Shalini"
+    ],
+    "3": [
+     "Kamal",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emerging adulthood",
+   "subtype": "Taking ownership step by step [Response]",
+   "description": "A young adult builds adulthood in small acts: managing their own money, making their own appointments, keeping commitments. They accept that feeling like an adult arrives gradually, not on a birthday.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5645,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Lavanya"
+    ],
+    "2": [
+     "Esther",
+     "Beatriz"
+    ],
+    "3": [
+     "Varun",
+     "Vinita"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Toddler's \"me do it\" [Actor]",
+   "description": "A toddler pushes away a helping hand, insists on putting on their own shoes and then clings to a parent again minutes later. Both wanting independence and needing safety are true at once.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5646,
+   "plan": {
+    "1": "R4",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Yogesh",
+     "Lalit"
+    ],
+    "2": [
+     "Lakshmi",
+     "Nirmala"
+    ],
+    "3": [
+     "Lars",
+     "Liam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Secure base for going out [Actor]",
+   "description": "A child settling into school waves goodbye, plays independently and runs back for a quick check-in at pickup. Knowing the parent will return makes venturing out possible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5647,
+   "plan": {
+    "1": "R3",
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "1": [
+     "Harsha",
+     "Farhan"
+    ],
+    "2": [
+     "Lalit",
+     "Simran"
+    ],
+    "3": [
+     "Kishore",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Wanting privacy but still needing comfort [Actor]",
+   "description": "A child begins closing the bedroom door and keeping small secrets, yet still wants a parent close when sick or upset. Autonomy grows alongside, not instead of, attachment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5648,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Afreen"
+    ],
+    "2": [
+     "Lakshmi",
+     "Rashmi"
+    ],
+    "3": [
+     "Nazia",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Pulling away and testing limits [Actor]",
+   "description": "A teenager argues over curfews, prefers friends' opinions and hides parts of their life, while quietly checking that home is still safe. The push is a way of building a self, not rejecting the family.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5649,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Madhav"
+    ],
+    "2": [
+     "Manoj",
+     "Sunaina"
+    ],
+    "3": [
+     "Vaibhav",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Parent facing a child's distance [Receiver]",
+   "description": "A parent feels hurt when a once-chatty teenager answers in single words. They can respond with steady availability, fair rules and no punishment for honesty, rather than clinging harder or withdrawing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: detachment, hurt"
+   ]
+  },
+  {
+   "sno": 5650,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Ayesha"
+    ],
+    "2": [
+     "Ayesha",
+     "Dhruv"
+    ],
+    "3": [
+     "Jaya",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Leaving home and homesickness [Actor]",
+   "description": "A student in a hostel far from family feels proud of managing alone and then aches for home cooking and familiar voices. Missing home is not weakness; it shows the bond remains.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: pride, nostalgia"
+   ]
+  },
+  {
+   "sno": 5651,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Ayesha"
+    ],
+    "2": [
+     "Chetan",
+     "Ujjwal"
+    ],
+    "3": [
+     "Felix",
+     "Abebe"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Attachment-to-autonomy shifts",
+   "subtype": "Becoming an adult who is also a family member [Response]",
+   "description": "A young adult makes their own decisions about work or partner, informs the family with warmth instead of asking permission or defiance, and keeps regular contact. The relationship shifts from obedience to mutual respect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection, admiration, hostility"
+   ]
+  }
+ ]
+}

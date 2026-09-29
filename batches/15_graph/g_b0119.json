@@ -1,0 +1,203 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2130,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Asking and checking",
+     "subtype": "Questioning with tone and what-that [Expressing]",
+     "description": "A toddler asks what-that with rising tone or a pointing gesture, seeking names and attention. The question is often social as much as informational, so an answer plus a smile is enough."
+    },
+    {
+     "sno": 2249,
+     "age": "4–6",
+     "topic": "Expression & Mind State",
+     "subtopic": "Asking and checking",
+     "subtype": "Endless why questions [Expressing]",
+     "description": "A preschooler's repeated why questions signal curiosity, wanting attention or testing limits. Short honest answers or asking what the child thinks keep the dialogue alive without exhaustion."
+    },
+    {
+     "sno": 2387,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Asking and checking",
+     "subtype": "Inquiring about feelings [Expressing]",
+     "description": "A child asks a friend are you okay when noticing sad or quiet behaviour. Kind inquiry shows care, and the friend may or may not want to answer yet."
+    }
+   ],
+   "cluster_id": "C0709",
+   "cast": [
+    "Jatin",
+    "Asif",
+    "Bhupen"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4533,
+     "age": "4–6",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Anxiety",
+     "subtype": "Worry showing as stomach aches and clinging [Actor]",
+     "description": "A child complains of aches before school, cries at separation and asks many what if questions. The body feels the fear, and calm routines and gentle steps toward the feared thing help."
+    },
+    {
+     "sno": 4536,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Anxiety",
+     "subtype": "Constant what-if thoughts [Actor]",
+     "description": "A teenager feels tense, cannot sleep and spirals over grades, health or friends, and may seem irritable. It is more than ordinary nerves when it lasts and limits life, and calls for talking to a counsellor."
+    },
+    {
+     "sno": 4538,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Anxiety",
+     "subtype": "Overload in transitions [Actor]",
+     "description": "A young adult in a new city or job feels racing thoughts, tight chest and fear of not coping, yet hides it. Sharing with someone and seeking professional help early is a strength, not weakness."
+    }
+   ],
+   "cluster_id": "C0710",
+   "cast": [
+    "Harish",
+    "Ritu",
+    "Anand"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4508,
+     "age": "7–12",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Dyslexia and dyscalculia",
+     "subtype": "Reading feels like effort [Actor]",
+     "description": "A bright child stumbles over words, reverses letters and hides books, and starts to think they are stupid. Intelligence is intact; reading is the hard part, and early help and patience protect confidence."
+    },
+    {
+     "sno": 4511,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Dyslexia and dyscalculia",
+     "subtype": "Hidden strengths and exam stress [Actor]",
+     "description": "A teenager may think in pictures, tell stories brilliantly and struggle with spelling and reading speed under time limits. Getting an assessment and permitted accommodations shows what they truly know."
+    },
+    {
+     "sno": 4513,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Dyslexia and dyscalculia",
+     "subtype": "Adult coping and pride [Actor]",
+     "description": "A young adult uses audio books, voice tools and extra time, and feels embarrassed at first to ask. Sharing the difference with tutors and employers usually earns understanding and shows real ability."
+    }
+   ],
+   "cluster_id": "C0711",
+   "cast": [
+    "Sharmila",
+    "Tejas",
+    "Bhavna"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4475,
+     "age": "1–3",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Emotional intensity",
+     "subtype": "Big feelings in a small body [Actor]",
+     "description": "A toddler screams with joy or falls to the floor in rage over small things and cannot yet calm alone. Intensity is a temperament, and calm adult presence is the way children learn to settle."
+    },
+    {
+     "sno": 4477,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Emotional intensity",
+     "subtype": "Highs and lows in adolescence [Actor]",
+     "description": "A teenager feels intense crushes, rage at unfairness and deep sadness, sometimes within one day. Hormones and a developing brain amplify emotion; it is often normal but needs steady adults."
+    },
+    {
+     "sno": 4479,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Emotional intensity",
+     "subtype": "Intensity as passion and burden [Actor]",
+     "description": "A young adult gives all to friendships and causes and also gets overwhelmed and exhausted. Learning to ride waves, choose the timing of hard talks and keep routines supports depth without collapse."
+    }
+   ],
+   "cluster_id": "C0712",
+   "cast": [
+    "Jagdish",
+    "Zainab",
+    "Ayesha"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4092,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Imposter feelings",
+     "subtype": "Feeling like a fraud in a top college [Actor]",
+     "description": "A student admitted to a prestigious institute believes they got in by luck and that everyone will soon find out; success is discounted while comparison with others is harsh."
+    },
+    {
+     "sno": 4094,
+     "age": "23–26",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Imposter feelings",
+     "subtype": "Working overly hard to avoid exposure [Actor]",
+     "description": "A new employee stays late and over-prepares because they fear being seen as unqualified; the cycle of effort and relief keeps the belief alive since success is credited to overwork."
+    }
+   ],
+   "cluster_id": "C0713",
+   "cast": [
+    "Usha",
+    "Parul",
+    "Harish"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5132,
+     "age": "18–22",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Writing clearly",
+     "subtype": "Drafting, resting and revising [Response]",
+     "description": "A wise writer produces a rough draft without judging, leaves it for a while and then edits with fresh eyes. Separating creating from editing prevents both blank-page fear and endless polishing."
+    },
+    {
+     "sno": 5134,
+     "age": "23–26",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Writing clearly",
+     "subtype": "Short, structured, specific [Response]",
+     "description": "A skilled writer states the point first, uses short sentences, gives dates and numbers, and ends with the exact action needed. Reading it aloud and cutting a third usually improves it."
+    }
+   ],
+   "cluster_id": "C0714",
+   "cast": [
+    "Hansa",
+    "Vidya",
+    "Kalyani"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2732,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Vasudha"
+    ],
+    "2": [
+     "Vishal",
+     "Dhruv"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Humour as coping [Regulating]",
+   "description": "A young adult uses jokes to ease tension or process stress. It can bond and relieve pressure, but constant joking may hide distress that deserves a serious conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: amusement, relief"
+   ]
+  },
+  {
+   "sno": 2733,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Kiran",
+     "Vidya"
+    ],
+    "2": [
+     "Reena",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Euphemism and tactful wording [Expressing]",
+   "description": "A young adult says \"passed away\", \"let go\" or \"between jobs\" to soften harsh facts. Euphemism shows tact, but it can blur meaning where clarity matters, such as health, safety or consent.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2734,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Vandana"
+    ],
+    "2": [
+     "Tarun",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Symbolism in culture and art [Interpreting]",
+   "description": "A young adult reads symbols such as a white dove, a lamp, colours or a wedding ritual. Meanings vary by culture and religion, so interpretations are informed guesses rather than fixed facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2735,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Tejas"
+    ],
+    "2": [
+     "Divyansh",
+     "Harsha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Gratitude and thanksgiving rites [Expressing]",
+   "description": "A young adult offers thanks through prayer, offering food, lighting a lamp, a moment of silence or a harvest festival. Thanks expressed ritually can carry deep meaning that varies by tradition.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 2736,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Vinita"
+    ],
+    "2": [
+     "Aparna",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Touching elders' feet and seeking blessings [Mismatch]",
+   "description": "A young adult in many Indian families touches elders' feet on festivals or important occasions to seek blessings. The gesture signals respect but is not universal, and people may vary in comfort, so it is best done by choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2737,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Hemant"
+    ],
+    "2": [
+     "Indu",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Sign language classrooms and interpreters [Regulating]",
+   "description": "A deaf student may use an interpreter, captions or direct signing with teachers. Hearing peers speak to the student rather than the interpreter, and wait for the interpreter's lag.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2738,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Raghav"
+    ],
+    "2": [
+     "Nkechi",
+     "Bilal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Use of space and classifiers in sign [Interpreting]",
+   "description": "A signer uses space to show who did what to whom and classifier handshapes to describe objects and movement. Watching the whole signing space, not isolated signs, gives the meaning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 2739,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Uma",
+     "Deepak"
+    ],
+    "2": [
+     "Lokesh",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Formal versus informal register [Regulating]",
+   "description": "A young adult adjusts letters, emails and messages for a teacher, employer or friend, using greeting, courtesy and length to match the relationship. Register signals respect and understanding of norms.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2740,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Gautam"
+    ],
+    "2": [
+     "Pema",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Personal statements and self-presentation [Expressing]",
+   "description": "A young adult writes a personal statement or profile to present goals and character. Honest, specific detail reads more convincingly than generic claims, and the text shows curated self-presentation rather than the whole self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 2741,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Vinita"
+    ],
+    "2": [
+     "Akash",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Reading tone in text without voice [Interpreting]",
+   "description": "A young adult reads messages and emails and may misjudge tone, as brevity can seem cold or angry when it is rushed. Since cues are missing, checking with a call or a clarifying question is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

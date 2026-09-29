@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1568,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Zanele",
+     "Felix"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Friend × Protectiveness [Actor]",
+   "description": "My friend joined a group I find worrying, and I want to rescue him. Wise: keep contact, ask open questions, avoid mocking, and share information gently. Harmful: pressure or secret plots that prove the group right.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, compassion, disillusionment, fear, loyalty",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 1569,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Fear [Actor]",
+   "description": "I fear that the other side's victory will destroy what I value. The fear is sincere. Wise: check facts from varied sources, notice when fear is being sold to me, and act through voting and local work. Harmful: seeing all opponents as enemies.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, contempt, curiosity, manipulation, rejection",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1570,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Anger [Receiver]",
+   "description": "A relative at a family dinner shouts that my views are \"brainwashed\". I feel insulted and want to retaliate. Wise: decline to debate while heated, say it calmly, and change the subject. Harmful: escalating until dinner is ruined.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, curiosity, fear, manipulation, rejection",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 1571,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Pablo",
+     "Clara"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Family elder × Respect [Actor]",
+   "description": "I love my grandfather but disagree with his politics. Wise: ask what experiences shaped his views, share mine without trying to win, and treasure the person more than the position. Harmful: silent contempt behind polite words.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, contempt, curiosity, fear, manipulation",
+    "related mind states: affection, admiration, contempt"
+   ]
+  },
+  {
+   "sno": 1572,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Zanele",
+     "Layla"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Rejection [Actor]",
+   "description": "I unfriended everyone who disagrees and feel relieved, then oddly isolated. Wise: boundaries against abuse are fine, but an echo chamber shrinks my mind. Keep some respectful dissent in my life.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, contempt, curiosity, fear, manipulation",
+    "related mind states: admiration, relief, loneliness"
+   ]
+  },
+  {
+   "sno": 1573,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Yogesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Leader × Admiration [Actor]",
+   "description": "I admire a political leader and feel proud when he speaks. Wise: support policies on evidence, and stay able to criticise my own side. Harmful: treating criticism of the leader as an attack on me.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, curiosity, fear, manipulation, rejection",
+    "related mind states: admiration, pride"
+   ]
+  },
+  {
+   "sno": 1574,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Debating politics",
+   "subtype": "Ideological opponent × Manipulation [Receiver]",
+   "description": "A viral clip edited to enrage me appears in my feed. I feel a jolt of fury. Wise: pause, search for the full context, and do not share until checked. Harmful: becoming a spreader of outrage.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, anger, contempt, curiosity, fear, rejection"
+   ]
+  },
+  {
+   "sno": 1575,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a cause or protest",
+   "subtype": "Cause × Devotion [Actor]",
+   "description": "I give time, energy and hope to a cause I believe in, and it gives my life direction. Wise: keep sleep, studies and relationships intact so the commitment lasts. Harmful: burning out or seeing all non-members as enemies.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, disillusionment, fear, loyalty, manipulation",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 1576,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a cause or protest",
+   "subtype": "Police × Fear [Actor]",
+   "description": "At the march I fear arrest, batons and family reaction. Wise: know my rights, go with others, keep an ID and a contact, follow the peaceful plan and leave if it turns unsafe. Harmful: recklessness for the thrill.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, disillusionment, loyalty, manipulation, worship",
+    "related mind states: joy, fear, calm, trust"
+   ]
+  },
+  {
+   "sno": 1577,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jagdish",
+     "Lalremsiami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a cause or protest",
+   "subtype": "Fellow activist × Loyalty [Actor]",
+   "description": "The group is like family, and I hesitate to speak when it makes a bad tactical or ethical choice. Wise: dissent within a movement is loyalty too; say it early and kindly. Harmful: silence that leads to harm.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, disillusionment, fear, manipulation, worship"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 698,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Ujjwal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "First crush",
+   "subtype": "Crush × Kindness [Receiver]",
+   "description": "A boy in class gives me a small gift and keeps looking at me. If I am not comfortable, I say a polite no, thank you. Being clear and kind is right, and I can tell a trusted adult if he keeps pushing.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, mockery, rejection, respect, rivalry, shame",
+    "related mind states: gratitude, trust"
+   ]
+  },
+  {
+   "sno": 699,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Mahima"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Trust [Actor]",
+   "description": "My friend tells me a secret and I feel special and responsible. Keeping it shows I am trustworthy. A wise friend keeps it unless someone could be hurt, then tells a trusted adult and explains why.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, guilt, temptation",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 700,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Temptation [Actor]",
+   "description": "The secret is so juicy and I want to tell one other person. I remind myself trust is fragile and a betrayal cannot be undone. If I keep it, I grow trustworthy. If I slip, I own up and apologise.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, guilt, trust",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 701,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rafael",
+     "Fatima"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Betrayal [Receiver]",
+   "description": "I told my best friend a secret and now everyone knows. I feel hot and hurt. Wise: tell her how it felt and decide how much to trust her later. It is fine to be careful, but not to be cruel back.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, gratitude, guilt, temptation, trust",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 702,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Burden [Actor]",
+   "description": "My friend told me she is being hurt at home and I do not know what to do. This is too big for me to carry alone. Telling a trusted adult like a teacher is loving, not disloyal. I explain that to her gently.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, guilt, temptation",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 703,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Joseph"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Guilt [Actor]",
+   "description": "I let out a secret in a fight and now feel awful. Honesty is best: say sorry, no excuses, and accept that trust may take time. Blaming her for making me angry hides my responsibility.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, temptation, trust",
+    "related mind states: anger, guilt, trust"
+   ]
+  },
+  {
+   "sno": 704,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Nandini",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Parent × Openness [Actor]",
+   "description": "I keep a secret from my parents because I fear they will be angry. Some privacy is normal, but big worries need sharing. A safe parent reacts calmly. I can start with I need to tell you something, promise not to shout.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, guilt, temptation",
+    "related mind states: anger, fear, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 705,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Bribery [Receiver]",
+   "description": "A classmate says she will be my friend only if I tell her someone's secret. That is manipulation, not friendship. I can say no and walk away, and tell an adult if she keeps pressing.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, gratitude, guilt, temptation"
+   ]
+  },
+  {
+   "sno": 706,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Adult × Coercion [Receiver]",
+   "description": "An older person says this is our secret and asks me not to tell my parents. Any secret that makes me feel uneasy must be told to a trusted adult. It is never my fault, and telling is brave and right.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, curiosity, gratitude, guilt, temptation, trust",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 707,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Told a secret",
+   "subtype": "Friend × Gratitude [Receiver]",
+   "description": "I told a friend something private and she kept it and just listened. I feel lighter and closer to her. Good friends prove themselves in small quiet ways, and I can repay that trust.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, curiosity, guilt, temptation, trust",
+    "related mind states: gratitude, trust"
+   ]
+  }
+ ]
+}

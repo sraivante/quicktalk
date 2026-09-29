@@ -1,0 +1,311 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 3960,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Preeti"
+    ],
+    "2": [
+     "Ujjwal",
+     "Nirmala"
+    ],
+    "3": [
+     "Devika",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overgeneralisation",
+   "subtype": "Always and never after one event [Actor]",
+   "description": "A child picked last once says nobody ever chooses them and they never win; a single event is stretched into a rule for life.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3961,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Noor",
+     "Devika"
+    ],
+    "2": [
+     "Varun",
+     "Mehak"
+    ],
+    "3": [
+     "Baljeet",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overgeneralisation",
+   "subtype": "One rejection means all rejection [Actor]",
+   "description": "A teenager refused by one peer group decides that no one will ever accept them; the sample of one is used as if it were the whole world.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3962,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Tushar"
+    ],
+    "2": [
+     "Pradeep",
+     "Vandana"
+    ],
+    "3": [
+     "Gopika",
+     "Shalini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overgeneralisation",
+   "subtype": "Testing always and never [Response]",
+   "description": "A student who thinks they always freeze in exams lists times they did not and what was different; counter-examples loosen the rule and reveal what to work on.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3963,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Sharmila"
+    ],
+    "2": [
+     "Sudha",
+     "Akash"
+    ],
+    "3": [
+     "Yusuf",
+     "Uday"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overgeneralisation",
+   "subtype": "One bad boss means all workplaces [Actor]",
+   "description": "An adult with a difficult first job decides that all workplaces are toxic and stops trying; the experience is real but the conclusion outruns the evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3964,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Ishita"
+    ],
+    "2": [
+     "Abhinav",
+     "Nikita"
+    ],
+    "3": [
+     "Jyoti",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental filter",
+   "subtype": "Only seeing the one criticism [Actor]",
+   "description": "A teenager who received nine praises and one criticism on a project can only recall the criticism; the mind's spotlight lands on what hurt and dims the rest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3965,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sarita",
+     "Jatin"
+    ],
+    "2": [
+     "Ishita",
+     "Rajni"
+    ],
+    "3": [
+     "Dhruv",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental filter",
+   "subtype": "Only the negatives in a review [Actor]",
+   "description": "A student goes over a feedback form and fixes on a single frowning comment and forgets the many good ones; the filter makes success feel like failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3966,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Vasudha",
+     "Amandeep"
+    ],
+    "2": [
+     "Anand",
+     "Tarun"
+    ],
+    "3": [
+     "Jana",
+     "Beatriz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental filter",
+   "subtype": "Watching a colleague filter [Observer]",
+   "description": "A team lead sees an employee leave a good review meeting convinced they were criticised because of one line; the lead reads the whole page aloud and asks what else it says.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3967,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Alka",
+     "Neelam"
+    ],
+    "2": [
+     "Trisha",
+     "Parveen"
+    ],
+    "3": [
+     "Clara",
+     "Xin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental filter",
+   "subtype": "Balancing the ledger [Response]",
+   "description": "An adult deliberately lists three things that went well next to the one that did not before deciding what to do; balanced attention corrects bias and does not deny the criticism.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3968,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Kishore",
+     "Charu"
+    ],
+    "2": [
+     "Siddharth",
+     "Saurabh"
+    ],
+    "3": [
+     "Ritu",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Discounting the positive",
+   "subtype": "Waving away compliments [Actor]",
+   "description": "A teenager who is praised for a good drawing says it was just luck and anyone can do it; good news is explained away so the negative self-view stays untouched.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3969,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Neelam"
+    ],
+    "2": [
+     "Samir",
+     "Maria"
+    ],
+    "3": [
+     "Bhavna",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Discounting the positive",
+   "subtype": "Success does not count [Actor]",
+   "description": "A student who topped a paper says the exam was easy so it means nothing; every success is reclassified as a fluke while every failure is treated as proof.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  }
+ ]
+}

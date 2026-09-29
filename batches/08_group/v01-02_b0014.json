@@ -1,0 +1,266 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3479,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Elizabeth"
+    ],
+    "2": [
+     "Vishal",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Family systems (joint family, in-laws, favourite child, family roles and secrets)",
+   "subtype": "New daughter-in-law or son-in-law [Receiver]",
+   "description": "A newly married person joins a household with settled habits and unspoken rules. They feel watched and evaluated, and adjusting takes time, patience and a spouse who stands beside them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3480,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Vijay"
+    ],
+    "2": [
+     "Nandini",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Family systems (joint family, in-laws, favourite child, family roles and secrets)",
+   "subtype": "Spouse caught between own parents and partner [Actor]",
+   "description": "A young spouse feels torn when parents and partner disagree. Avoiding the tension by staying silent leaves both feeling unsupported, while a calm, fair stand protects both relationships.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3481,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Harish"
+    ],
+    "2": [
+     "Kavitha",
+     "Thomas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Family systems (joint family, in-laws, favourite child, family roles and secrets)",
+   "subtype": "Setting respectful boundaries with in-laws [Response]",
+   "description": "A young couple agrees together on what they will share and what they will keep private, then communicates it kindly. Boundaries offered with warmth are usually accepted sooner than boundaries offered in anger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection, admiration, anger"
+   ]
+  },
+  {
+   "sno": 3482,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Sumit"
+    ],
+    "2": [
+     "Elif",
+     "Chen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Family systems (joint family, in-laws, favourite child, family roles and secrets)",
+   "subtype": "Handling a family secret [Response]",
+   "description": "An adult who learns a hard family truth weighs privacy, safety and fairness before deciding who needs to know. They seek support from a trusted person and do not use the secret as a weapon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3483,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Yogesh"
+    ],
+    "2": [
+     "Binita",
+     "Gautam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Feeling safe to answer [Receiver]",
+   "description": "A child in a warm classroom raises their hand even when unsure, because mistakes are treated as part of learning. Safety to be wrong is the base of learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3484,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Elizabeth"
+    ],
+    "2": [
+     "Emil",
+     "Kofi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Fear of ridicule in class [Receiver]",
+   "description": "A child who was laughed at for a wrong answer stops volunteering. They protect themselves by staying quiet, and their potential goes unseen.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: amusement, fear"
+   ]
+  },
+  {
+   "sno": 3485,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Rehana",
+     "Nilesh"
+    ],
+    "2": [
+     "Suraj",
+     "Saurabh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Teacher setting the tone [Observer]",
+   "description": "A teacher who praises effort, stops mockery quickly and treats all children by the same rules sets a climate that children copy. Children read the teacher's small reactions closely.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3486,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Swati"
+    ],
+    "2": [
+     "Bao",
+     "Mateo"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Class agreements made together [Response]",
+   "description": "A teacher and class create shared rules such as listen to each other and no mocking. Rules the children helped make are followed more willingly than rules imposed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3487,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Pooja"
+    ],
+    "2": [
+     "Sarika",
+     "Parveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Class clown and the audience [Actor]",
+   "description": "A teenager makes jokes to get laughs and status, sometimes covering worry about being seen as weak in studies. The class encourages them, and the teacher must handle it without humiliation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: amusement, anxiety, humiliation"
+   ]
+  },
+  {
+   "sno": 3488,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Devika"
+    ],
+    "2": [
+     "Sudha",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Toppers, backbenchers and labels [Receiver]",
+   "description": "Students grouped into toppers and backbenchers begin to live up to the label. A student called weak may stop trying, and one called clever may fear any failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

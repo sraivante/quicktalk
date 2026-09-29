@@ -1,0 +1,203 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4914,
+     "age": "1–3",
+     "topic": "Culture & Society",
+     "subtopic": "Money attitudes, family finances, gifting, borrowing between relatives",
+     "subtype": "Watching exchanges [Observer]",
+     "description": "A toddler sees notes handed over as blessings or coins as sweets and understands only that giving pleases people. Money at this age is a shiny object and a source of adult smiles."
+    },
+    {
+     "sno": 4916,
+     "age": "7–12",
+     "topic": "Culture & Society",
+     "subtopic": "Money attitudes, family finances, gifting, borrowing between relatives",
+     "subtype": "Overhearing money worry [Observer]",
+     "description": "A child hears parents argue about bills or school fees and quietly asks for less. Children sense strain even when hidden; simple honest explanations calm them more than silence."
+    },
+    {
+     "sno": 4919,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Money attitudes, family finances, gifting, borrowing between relatives",
+     "subtype": "Not talking about family money [Observer]",
+     "description": "A young adult sees parents keep income, debts or property secret and feels shut out. Money silence can protect pride but also hides risks; gentle open talk is often a sign of trust."
+    }
+   ],
+   "cluster_id": "C0643",
+   "cast": [
+    "Mahima",
+    "Harsha",
+    "Baljeet"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2072,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Gaze",
+     "subtype": "Following with the eyes and joint attention [Expressing]",
+     "description": "A toddler tracks a caregiver with the eyes and looks where a parent points, sharing attention on an object. Steady following shows interest and trust, and early lack of it may be worth discussing with a paediatrician."
+    },
+    {
+     "sno": 2187,
+     "age": "4–6",
+     "topic": "Expression & Mind State",
+     "subtopic": "Gaze",
+     "subtype": "Looking down when scolded [Expressing]",
+     "description": "A preschooler looks down when told off, showing shame, fear or attempts to avoid more upset. Demanding eye contact adds pressure, so a calm tone and gentle words work better."
+    },
+    {
+     "sno": 2324,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Gaze",
+     "subtype": "Averting gaze when embarrassed or corrected [Expressing]",
+     "description": "A child looks away when scolded, praised in public or caught out; it usually signals shame, shyness or discomfort, not defiance. In some families lowered eyes toward elders also show respect."
+    }
+   ],
+   "cluster_id": "C0644",
+   "cast": [
+    "Alka",
+    "Pradeep",
+    "Tarun"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4087,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Growth vs fixed mindset",
+     "subtype": "Praise for strategies [Response]",
+     "description": "A teacher who points out that the child kept trying different methods and it paid off teaches that ability grows with effort; specific process praise supports challenge seeking."
+    },
+    {
+     "sno": 4090,
+     "age": "23–26",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Growth vs fixed mindset",
+     "subtype": "Yet as a bridge [Response]",
+     "description": "An adult replaces the thought that they cannot do this with the thought that they cannot do it yet and asks what to try next; the word acknowledges the present without closing the future, though effort needs good strategy."
+    }
+   ],
+   "cluster_id": "C0645",
+   "cast": [
+    "Charu",
+    "Baljeet",
+    "Varun"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3735,
+     "age": "1–3",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Present bias",
+     "subtype": "Wanting it right now [Actor]",
+     "description": "A toddler screams for the biscuit at this moment and cannot be comforted by a promise for later. The present is the only time that feels real."
+    },
+    {
+     "sno": 3736,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Present bias",
+     "subtype": "Learning to wait [Actor]",
+     "description": "A preschooler can wait a little for a treat when distracted by a game or a song, though he struggles when staring at it. Waiting skills grow with practice and support."
+    },
+    {
+     "sno": 3737,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Present bias",
+     "subtype": "Procrastination [Actor]",
+     "description": "A teenager promises to study tomorrow and scrolls tonight, sure his future self will feel more like working. Tomorrow is always the better time to be disciplined."
+    }
+   ],
+   "cluster_id": "C0646",
+   "cast": [
+    "Pema",
+    "Thomas",
+    "Pooja"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2623,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Thinking and attention",
+     "subtype": "Reading interest and confusion in others [Interpreting]",
+     "description": "A teenager tries to tell whether a classmate is interested, puzzled or bored from face and voice. These cues are hints only, and asking is better than assuming."
+    },
+    {
+     "sno": 2897,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Thinking and attention",
+     "subtype": "Thoughtful, interested and doubtful in meetings [Interpreting]",
+     "description": "A young professional reads pauses, notes, raised brows and short replies from colleagues. These signals suggest interest or doubt but never prove it, so asking for views is more reliable."
+    }
+   ],
+   "cluster_id": "C0647",
+   "cast": [
+    "Francis",
+    "Yogesh",
+    "Payal"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5516,
+     "age": "1–3",
+     "topic": "Foundational Concepts",
+     "subtopic": "Anthropomorphism",
+     "subtype": "Talks to teddy and feeds the doll [Actor]",
+     "description": "A toddler pats a teddy, says it is hungry and puts it to bed; treating objects as feeling beings is natural play that practises care."
+    },
+    {
+     "sno": 5518,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Anthropomorphism",
+     "subtype": "Treating a chatbot as a friend with feelings [Actor]",
+     "description": "A teenager describes an AI chatbot as understanding and caring, and feels hurt when it changes; the mind is quick to see a person behind fluent words."
+    },
+    {
+     "sno": 5519,
+     "age": "18–22",
+     "topic": "Foundational Concepts",
+     "subtopic": "Anthropomorphism",
+     "subtype": "Blaming the laptop or the car [Actor]",
+     "description": "A young adult says \"my laptop hates me\" or names the car and coaxes it; attributing motive to things makes their behaviour feel explainable and less random."
+    }
+   ],
+   "cluster_id": "C0648",
+   "cast": [
+    "Nikita",
+    "Ganga",
+    "Parul"
+   ]
+  }
+ ]
+}

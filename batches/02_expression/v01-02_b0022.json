@@ -1,0 +1,266 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2272,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Diego",
+     "Elif"
+    ],
+    "2": [
+     "Parul",
+     "Hemant"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Complaining and objecting [Expressing]",
+   "description": "A preschooler complains \"It's not fair!\" or \"He took mine!\" and objects loudly. Complaints often ask for adult help; listening and guiding the child to state what they want teaches better ways to object.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2273,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Binita"
+    ],
+    "2": [
+     "Yara",
+     "Noa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Hearing a scolding [Interpreting]",
+   "description": "A young child reads a scolding mostly through the adult's face, volume and tone and may feel unlovable rather than corrected. Short, calm correction of the act, not the child, helps the message be understood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2274,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Bhupen"
+    ],
+    "2": [
+     "Hansa",
+     "Afreen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Name-calling and blaming [Expressing]",
+   "description": "A preschooler says \"You're mean!\" or \"It's your fault!\" in a squabble. Blame is a simple way to explain distress; adults can help the child state what happened and what they wanted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2275,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Ira",
+     "Thomas"
+    ],
+    "2": [
+     "Jagdish",
+     "Elizabeth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Recognising when words hurt [Interpreting]",
+   "description": "A young child learns that insults and teasing can make others sad or scared and that some things are not okay to say. Telling a trusted adult when someone is unkind or threatening is a good response.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, fear, trust, hurt"
+   ]
+  },
+  {
+   "sno": 2276,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Vasudha"
+    ],
+    "2": [
+     "Nitin",
+     "Lalit"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Pleading and simple bargaining [Expressing]",
+   "description": "A preschooler pleads \"Please, one more\" or offers \"I'll eat peas if I get a sticker\". Early bargaining shows a growing sense of trade; caregivers can hold limits kindly and reward flexibility sensibly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2277,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Sunaina"
+    ],
+    "2": [
+     "Indu",
+     "Baljeet"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Confessing a mistake [Regulating]",
+   "description": "A young child confesses breaking something, often with fear or relief. A calm response praising honesty while addressing the act encourages future truth-telling, and harsh punishment encourages hiding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, relief, calm"
+   ]
+  },
+  {
+   "sno": 2278,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Hemant"
+    ],
+    "2": [
+     "Zeynep",
+     "Wei"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Telling stories about feelings and events [Expressing]",
+   "description": "A preschooler shares a memory or a worry in a jumbled but sincere narrative, sometimes mixing pretend and real. Adults can listen, ask open questions and avoid overreacting or leading the child.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2279,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Ira"
+    ],
+    "2": [
+     "Eshaan",
+     "Kashish"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Silly words and pretend jokes [Expressing]",
+   "description": "A preschooler tells jokes that miss the punchline, uses nonsense words and giggles at silly rhymes. The child enjoys the pattern of humour before fully grasping why something is funny.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: amusement, playfulness",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2280,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Trisha"
+    ],
+    "2": [
+     "Chidi",
+     "Hiroshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Taking things literally [Interpreting]",
+   "description": "A young child may not get exaggeration or teasing and takes \"I'm starving\" or \"You're driving me up the wall\" literally. Adults can smile, explain the joke gently and signal playfulness with tone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2281,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Simran"
+    ],
+    "2": [
+     "Lalremsiami",
+     "Zainab"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Simple similes and early hints [Expressing]",
+   "description": "A preschooler says \"You're as big as a giant\" or \"It's a bit chilly in here\" hoping for a blanket. Hints are often missed by young children, so adults are wise to state requests directly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

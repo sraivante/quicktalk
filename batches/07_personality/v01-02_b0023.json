@@ -1,0 +1,269 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4539,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Farida"
+    ],
+    "2": [
+     "Nilesh",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Sadness that looks like irritability [Actor]",
+   "description": "A child may seem cranky, tired, tearful or lose interest in play, and complain of aches. Children often cannot say I feel low, so behaviour shows it, and a lasting change deserves attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: sadness, interest, tiredness"
+   ]
+  },
+  {
+   "sno": 4540,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Vera",
+     "Soo-ah"
+    ],
+    "2": [
+     "Yamini",
+     "Kiran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Withdrawal and flatness [Actor]",
+   "description": "A teenager sleeps or scrolls for hours, drops friends and hobbies and feels worthless or numb. It is not laziness or attitude, and it is a health matter that calls for a doctor or counsellor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 4541,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Kavitha"
+    ],
+    "2": [
+     "Zainab",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Parent hearing the change [Receiver]",
+   "description": "A parent sees the child pull away and snap and may feel helpless or angry. Approaching with concern rather than blame, listening and arranging professional support is more useful than telling them to cheer up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4542,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Manjula"
+    ],
+    "2": [
+     "Ganga",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Heavy days behind a functioning face [Actor]",
+   "description": "A young adult keeps attending class or work but feels empty, exhausted and hopeless, and thinks others would be better off without them. Speaking to someone and getting professional help matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hope, tiredness"
+   ]
+  },
+  {
+   "sno": 4543,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Nilesh"
+    ],
+    "2": [
+     "Himani",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Friend noticing early signs [Observer]",
+   "description": "A friend notices missed meals, cancelled plans and dark remarks. Checking in privately, listening and staying present, and gently encouraging professional help show care.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 4544,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Pema"
+    ],
+    "2": [
+     "Vikas",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Supportive response [Response]",
+   "description": "A wise supporter offers small doable actions like a walk or shared meal, does not demand cheerfulness and helps book an appointment. They also look after their own limits and involve family or others if worried about safety.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: joy, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 4545,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Deepika"
+    ],
+    "2": [
+     "Usha",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Depression",
+   "subtype": "Loss of motivation and pleasure [Actor]",
+   "description": "A young professional stops enjoying anything, struggles to start tasks and feels guilty about it. Depression lies about being permanent; supportive people and treatment from qualified clinicians can lift it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4546,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Gurleen"
+    ],
+    "2": [
+     "Rehana",
+     "Aadhya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Panic",
+   "subtype": "Sudden wave of fear [Actor]",
+   "description": "A teenager feels a pounding heart, dizziness and a sense that something terrible is happening, with no clear reason. It is frightening but passes, and fearing the next one can make life smaller.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4547,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Ramesh",
+     "Madhuri"
+    ],
+    "2": [
+     "Jagdish",
+     "Mridul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Panic",
+   "subtype": "Helping in the moment [Response]",
+   "description": "A calm companion stays close, speaks slowly, reminds the person that it will pass and does not argue or crowd them. Afterwards they encourage seeing a doctor or counsellor if attacks recur.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4548,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Shalini"
+    ],
+    "2": [
+     "Nilesh",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Panic",
+   "subtype": "Living in fear of the next attack [Actor]",
+   "description": "A young adult avoids crowds, trains or exams in case panic strikes again. Understanding what happens in the body and getting professional guidance reduce fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

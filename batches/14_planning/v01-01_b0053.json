@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6281,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Rehana",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: values-first reasoning about interests [Thinking]",
+   "description": "The student asks which tasks make hours vanish rather than which stream sounds prestigious, and notices she loves data puzzles and debate, pointing towards Economics more than the expected Science route.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, working backward",
+    "related mind states: affection, interest, confusion"
+   ]
+  },
+  {
+   "sno": 6282,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: following friends into the same stream [Pitfall]",
+   "description": "A student picks Science only because his whole friend group has. Friendship is a real comfort, but it says nothing about his aptitude, and Physics becomes a struggle after the first term.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 6283,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Harsha",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: talking to people who work in the field [Action]",
+   "description": "The student asks a cousin who is an engineer, a neighbour who is a chartered accountant and a school counsellor about a normal day and the hard parts, then compares their answers with her assumptions.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 6284,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vasudha",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: working backward from a career goal [Thinking]",
+   "description": "Wanting to become a doctor, the student maps back to NEET, then to Class 11 and 12 Biology, Physics and Chemistry, and sees the stream is a required step rather than a free choice.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6285,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Tariq",
+     "Hana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: deciding under family pressure without exploring [Pitfall]",
+   "description": "Parents insist on Science because of status and job security, and the student agrees silently. Without discussing interests or fallback options, resentment builds and effort quietly drops later.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, negotiation, values-first planning, working backward",
+    "related mind states: interest, resentment"
+   ]
+  },
+  {
+   "sno": 6286,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: small trial before committing [Action]",
+   "description": "The student takes an online introductory course in coding and one in accounting during the summer break, and notes which one she finishes and enjoys, using this as evidence.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 6287,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Sarika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: negotiating a shared decision with parents [Action]",
+   "description": "The student prepares a one-page comparison with fees, career paths and her marks, and asks parents to review it together. The conversation shifts from authority to weighing evidence, and a compromise emerges.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 6288,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: analysis paralysis over an irreversible choice [Pitfall]",
+   "description": "The student reads endless forums, keeps adding options and fears any choice will close doors. The admission deadline arrives with no decision, and the default is made by someone else.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, decision matrix, negotiation, values-first planning, working backward",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6289,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: reversible-choice reframing with fallback [Revision]",
+   "description": "Told that a change of stream after Class 11 is possible at some schools and that many careers accept multiple routes, the student relaxes, chooses the best current fit and sets a review point after the first term.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, negotiation, values-first planning, working backward",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6290,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: time-boxing a weekly schedule [Action]",
+   "description": "The student blocks two hours of study after school, one hour of football at five, and thirty minutes of gaming after homework is done, and pastes the grid above her desk.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, prioritising"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2632,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Sarika"
+    ],
+    "2": [
+     "Himani",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Exaggeration online [Mismatch]",
+   "description": "A teenager writes in capitals, many exclamation marks or dramatic emojis, which may be play, real intensity or performing for followers. Tone online is easy to misread, so a quick check helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2633,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Lokesh"
+    ],
+    "2": [
+     "Tarun",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Mixed and changing displays [Mismatch]",
+   "description": "A teenager may swing from laughing to irritable to tearful within an hour. Changing moods are common in adolescence, so patient consistency, sleep and gentle talk support balance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, sadness"
+   ]
+  },
+  {
+   "sno": 2634,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Seema"
+    ],
+    "2": [
+     "Devika",
+     "Santosh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Subtle and understated style [Regulating]",
+   "description": "A teenager plays feelings down with a shrug or fine to avoid drama. Understatement protects privacy but may hide real need, so trusted adults leave the door open.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2635,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Shankar"
+    ],
+    "2": [
+     "Samir",
+     "Rafiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Laughing while embarrassed among peers [Mismatch]",
+   "description": "A teenager laughs loudly after a slip in front of others, covering embarrassment. Others may read it as confidence, and the laugh may be relief or fear of rejection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, fear, embarrassment, relief"
+   ]
+  },
+  {
+   "sno": 2636,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Deepika"
+    ],
+    "2": [
+     "Indu",
+     "Disha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Smiling while hurt [Mismatch]",
+   "description": "A teenager laughs off a hurtful joke to avoid looking weak. The smile is protection, and a friend may gently follow up privately, never assume, and offer support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 2637,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Vasudha"
+    ],
+    "2": [
+     "Arnab",
+     "Ojas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Cultural display rules [Mismatch]",
+   "description": "A young adult studying or working abroad finds that how openly faces show emotion differs across cultures and families; a restrained face may be respect or calm, not coldness. Asking directly avoids stereotypes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 2638,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Mridul"
+    ],
+    "2": [
+     "Sarita",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Face on video calls [Interpreting]",
+   "description": "A young adult reads faces through lag, small screens and frozen frames, where a frown may be a bad connection or concentration. Checking in verbally is more reliable than inferring mood from a paused face.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2639,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Harish"
+    ],
+    "2": [
+     "Bilal",
+     "Alejandro"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Polite versus genuine smile [Interpreting]",
+   "description": "A young adult tells a polite, mouth-only smile from a warm, sustained smile that also involves the eyes, but treats the difference as a rough clue only, since many genuine smiles are quiet and many polite ones are convincing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2640,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Ishita"
+    ],
+    "2": [
+     "Vishal",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Smiling by culture and setting [Mismatch]",
+   "description": "A student in a new city finds smiling at strangers is friendly in some places and odd in others; a smile can also cover embarrassment or apology, as in parts of Asia. Local norms matter more than assumptions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, embarrassment"
+   ]
+  },
+  {
+   "sno": 2641,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Ganga"
+    ],
+    "2": [
+     "Kashish",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Brow signals in interviews [Regulating]",
+   "description": "A young adult in an interview raises the brows to show interest and avoids furrowing them when nervous. Interviewers should remember that a tense forehead may only signal effort or anxiety.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety, interest"
+   ]
+  }
+ ]
+}

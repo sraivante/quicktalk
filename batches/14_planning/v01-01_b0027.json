@@ -1,0 +1,205 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6021,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: asking a parent to remind him at night [Action]",
+   "description": "Knowing he tends to forget, a boy asks his father to ask him in the evening what is needed. This uses another person as a memory helper for a one-time, important list."
+  },
+  {
+   "sno": 6022,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Aparna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: taking turns by the clock [Action]",
+   "description": "Two brothers share one tablet and use a kitchen timer so each gets thirty minutes. The fixed time stops the argument about who has been playing for longer.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6023,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: grabbing it first and refusing to hand over [Pitfall]",
+   "description": "An older sister takes the remote and hides it because she got there first. Her brother complains, the parents are upset, and the sharing turns into a fight over power.",
+   "graph_context": [
+    "same problem, other approaches: lateral thinking, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6024,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: agreeing to a plan with days for each [Thinking]",
+   "description": "Siblings agree that Mondays, Wednesdays and Fridays are for one, and the rest for the other. They think about fairness and note that some days will suit one child's homework better.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6025,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: writing the schedule on a shared chart [Action]",
+   "description": "A girl draws a weekly table with names and colours and sticks it on the fridge. Because it is written and visible, the children can check it instead of arguing from memory.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6026,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Indu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: negotiating by swapping what each values [Thinking]",
+   "description": "A boy wants the computer on Saturday morning for a game and his sister wants it on Sunday for a project. They swap so each gets the time that matters most to them.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6027,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Oskar",
+     "Rania"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: telling the younger one to wait forever [Pitfall]",
+   "description": "An elder brother says the little sister can have a turn later, but later never comes. She feels ignored and complains to her mother, who has to step in.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6028,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Indu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: changing the plan when exams come [Revision]",
+   "description": "When the older sibling has exams, the children notice the schedule is unfair. They talk and agree that the younger gets more time for two weeks and it will balance later.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6029,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: finding a game they can play together [Thinking]",
+   "description": "Instead of fighting over the video game, two siblings choose a two-player game. Reframing the problem from whose turn to what can we both do removes the need to share time.",
+   "graph_context": [
+    "same problem, other approaches: delegation, negotiation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6030,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Jeevan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Sibling sharing schedule",
+   "subtype": "Approach: asking a parent to decide when stuck [Revision]",
+   "description": "After several failed talks, the siblings agree to ask their mother to make the timetable. She hears both and helps, and they agree to follow whatever rule she sets.",
+   "graph_context": [
+    "same problem, other approaches: delegation, lateral thinking, negotiation, time-boxing"
+   ]
+  }
+ ]
+}

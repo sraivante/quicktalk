@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 748,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Favour asked by friend",
+   "subtype": "Friend × Generosity [Actor]",
+   "description": "I lend my friend my colours when she forgot hers and expect nothing. Small generosity builds trust. If she never returns them, I can politely ask. Kindness with boundaries is healthy.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, exploitation, loyalty",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 749,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Beatriz",
+     "Felix"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Favour asked by friend",
+   "subtype": "Friend × Exploitation [Receiver]",
+   "description": "One classmate is nice only when she needs something from me. I feel used. Wise: say no without explaining too much and notice who is kind without a reason. Friends do not only take.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, generosity, loyalty"
+   ]
+  },
+  {
+   "sno": 750,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Uday"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "New classmates × Loneliness [Actor]",
+   "description": "On my first day nobody talks to me at lunch. It is a hard feeling and normal. I try small steps: smile, ask to join a game, sit near someone friendly. Friends take weeks, not hours.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, mockery, resentment, trust",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 751,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Old friends × Grief [Actor]",
+   "description": "I miss my old friends and my old city so much. Missing them shows love, not weakness. I call and write to them and also open a small space for new ones. Living only in the past keeps me stuck.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, loneliness, mockery, resentment, trust",
+    "related mind states: affection, grief"
+   ]
+  },
+  {
+   "sno": 752,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "I am angry at my parents for moving me and say I hate this place. The choice was not mine, so my anger makes sense. I say what I miss. They can listen without fixing everything.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, mockery, trust",
+    "related mind states: anger, resentment"
+   ]
+  },
+  {
+   "sno": 753,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Tenzin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Teacher × Trust [Actor]",
+   "description": "My new teacher pairs me with a helpful buddy and I feel a bit safe. I accept help, ask questions and learn the school's ways. Being new is not being lesser.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, mockery, resentment",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 754,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Bhupen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "New classmates × Mockery [Receiver]",
+   "description": "Some kids mimic my accent or language on my first week. It stings and I feel ashamed of who I am. Wise: stay calm, do not change myself for them, tell a teacher if it continues, and find kinder peers.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, resentment, trust",
+    "related mind states: shame, calm"
+   ]
+  },
+  {
+   "sno": 755,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Imran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "New classmates × Curiosity [Receiver]",
+   "description": "In my class a new kid arrives and I am curious and shy. I can say hello, show him around and invite him to play. One kind act can change his first week.",
+   "graph_context": [
+    "same situation, other stances at this age: grief, loneliness, mockery, resentment, trust",
+    "related mind states: shyness, curiosity"
+   ]
+  },
+  {
+   "sno": 756,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Thomas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Self × Reinvention [Actor]",
+   "description": "In a new school I want to be someone cooler than I was. A fresh start can help me try new things. But pretending to be someone else wears me out. I aim to be my best self, not a fake.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, mockery, resentment, trust"
+   ]
+  },
+  {
+   "sno": 757,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Chinmay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Old friend × Fading [Actor]",
+   "description": "My old friend replies less after I moved, and it hurts. Distance changes friendships, and it is nobody's fault. I can stay in touch on holidays and accept that we may drift while staying fond.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, mockery, resentment, trust",
+    "related mind states: affection, hurt"
+   ]
+  }
+ ]
+}

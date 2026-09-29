@@ -1,0 +1,209 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6151,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building something from scraps",
+   "subtype": "Approach: rushing to finish before the deadline [Pitfall]",
+   "description": "A boy leaves his science model until the night before, glues it wet, and it falls apart in the morning because there was no time for it to dry.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, externalising on paper, minimum viable version, trial and error"
+   ]
+  },
+  {
+   "sno": 6152,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Yusuf"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: following a routine of daily watering [Action]",
+   "description": "A girl plants tulsi and marigold in old tins, and waters them each morning before school, checking the soil with a finger to see whether it is still damp.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure"
+   ]
+  },
+  {
+   "sno": 6153,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Nikita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: finding out what each plant needs [Thinking]",
+   "description": "A boy asks the nursery man and learns that chilli needs sun while mint likes shade, and decides to place pots by the window and beside the wall accordingly.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  },
+  {
+   "sno": 6154,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: overwatering out of eagerness [Pitfall]",
+   "description": "A child pours water on the seedlings several times a day thinking more means faster growth, and the roots rot until the leaves yellow and the plants droop.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 6155,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Binita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: observing and recording growth [Action]",
+   "description": "The girl measures the bean plant every Sunday with a scale and writes the height in a notebook, noticing it grows fastest after rain.",
+   "graph_context": [
+    "same problem, other approaches: forward planning"
+   ]
+  },
+  {
+   "sno": 6156,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Chaitanya",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: figuring out why the plant is dying [Thinking]",
+   "description": "Seeing brown tips, a boy asks whether it is too little water, too much sun or pests, checks each one, and finds ants on the stem that he removes.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  },
+  {
+   "sno": 6157,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Parul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: making a small compost from kitchen waste [Action]",
+   "description": "A girl mixes vegetable peels and dry leaves in a pot with her grandmother's help, and after weeks uses the dark soil to feed the plants without buying fertiliser.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  },
+  {
+   "sno": 6158,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Harsha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: expecting results too soon [Pitfall]",
+   "description": "A boy digs up the seed after three days to see if it has grown, and by disturbing it kills the tiny root, learning that some things need patient waiting.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  },
+  {
+   "sno": 6159,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: moving the pots after the leaves burn [Revision]",
+   "description": "When the leaves of the rose plant turn crisp in the afternoon heat, the girl shifts it to partial shade and covers the soil with dry leaves to hold moisture.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  },
+  {
+   "sno": 6160,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Growing a small garden",
+   "subtype": "Approach: sharing the work with a sibling [Action]",
+   "description": "Two brothers split garden jobs, one watering and the other weeding, and use a wall chart so neither feels the other does less and the plants are looked after even during exams.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning"
+   ]
+  }
+ ]
+}

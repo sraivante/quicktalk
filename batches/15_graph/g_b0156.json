@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 4192,
+     "age": "7–12",
+     "topic": "Body & Mind",
+     "subtopic": "Anxiety in the body",
+     "subtype": "Parent unsure whether to push or protect [Receiver]",
+     "description": "A parent of an anxious child may swing between forcing bravery and removing every difficulty. Small steady steps with warm encouragement, not avoidance and not pressure, help a child build tolerance."
+    }
+   ],
+   "cluster_id": "C0931",
+   "cast": [
+    "Vijay",
+    "Sonali",
+    "Trisha"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4056,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Procrastination",
+     "subtype": "Avoidant type: avoiding judgement [Actor]",
+     "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse."
+    },
+    {
+     "sno": 3193,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 5: Self-blame loop [Observer]",
+     "description": "A manager sees a capable employee miss soft deadlines and hand in strong work at the last moment. Asking what makes the task hard, rather than judging character, often reveals fear, unclear scope or overload."
+    }
+   ],
+   "cluster_id": "C0932",
+   "cast": [
+    "Nandini",
+    "Pranav",
+    "Ishita"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3891,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Class clown covering embarrassment [Actor]",
+     "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry."
+    },
+    {
+     "sno": 5280,
+     "age": "7–12",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Sense of humour",
+     "subtype": "Joke telling and toilet humour [Actor]",
+     "description": "A child repeats the same joke ten times and finds bodily humour hilarious. Testing jokes teaches timing and audience, and groans from listeners are useful feedback."
+    }
+   ],
+   "cluster_id": "C0933",
+   "cast": [
+    "Omkar",
+    "Sachin",
+    "Sumit"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 5184,
+     "age": "13–17",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Stopping and quitting wisely",
+     "subtype": "Quitting when it gets hard [Actor]",
+     "description": "A teenager drops a sport or class the moment it becomes difficult, calling it boredom. Some quitting is wise, but leaving at the first discomfort prevents the growth that lies just beyond the hard part."
+    }
+   ],
+   "cluster_id": "C0934",
+   "cast": [
+    "Amandeep",
+    "Vidya",
+    "Jatin"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 2509,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Whole-body movement",
+     "subtype": "Walking away as boundary or avoidance [Mismatch]",
+     "description": "A teenager walks away from a fight, a taunt or a hard talk. It may be wise de-escalation, embarrassment or avoidance; saying I need a break and will come back makes the meaning clear and keeps trust."
+    }
+   ],
+   "cluster_id": "C0935",
+   "cast": [
+    "Vandana",
+    "Pema",
+    "Chetan"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 2555,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Affection and connection",
+     "subtype": "Attraction and crushes [Mismatch]",
+     "description": "A teenager may feel first attraction and show it with blushing, teasing, texting or avoidance, and signals can be unclear. Respect means asking and accepting a no, and telling a trusted adult if pressure or unsafe requests appear."
+    }
+   ],
+   "cluster_id": "C0936",
+   "cast": [
+    "Leela",
+    "Kunal",
+    "Maria"
+   ]
+  }
+ ]
+}

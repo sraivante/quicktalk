@@ -1,0 +1,215 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6791,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: preparing specific questions in advance [Thinking]",
+   "description": "The student lists which parts of a topic are unclear, tries the problem first, and brings the work to show, so the professor can pinpoint the confusion quickly.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 6792,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Chaitanya",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: choosing office hours and a polite email [Action]",
+   "description": "The student emails to request a fifteen-minute slot during office hours, states the topic and brings the notes, respecting the professor's time.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6793,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Salma",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: avoiding asking out of fear of looking foolish [Pitfall]",
+   "description": "The student assumes the professor will think them weak and stays silent, so the confusion grows until the exam and marks fall more than they would have.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, seeking advice",
+    "related mind states: fear, confusion"
+   ]
+  },
+  {
+   "sno": 6794,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: mentally rehearsing the first sentence [Thinking]",
+   "description": "Nervous about speaking up, the student practises an opening line, such as saying the problem was tried and got stuck at a named step, and finds it much easier to begin.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, seeking advice",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6795,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: vague requests that get vague answers [Pitfall]",
+   "description": "The student says only that they did not understand anything, and the professor can only repeat the lecture, which leaves both frustrated.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6796,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Hiroshi",
+     "Marek"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: asking for guidance on a project or recommendation [Action]",
+   "description": "The student asks a professor who taught them well for advice on a research project, shares a short outline, and asks for feedback rather than a promise.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation"
+   ]
+  },
+  {
+   "sno": 6797,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: requesting an extension with honesty and a plan [Action]",
+   "description": "After a family emergency, the student informs the professor early, gives a proposed date with proof, and does not exaggerate, which earns a fair reply.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6798,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: using a peer or teaching assistant first [Thinking]",
+   "description": "The student tries a senior or a teaching assistant for basic doubts and saves the professor for deeper conceptual ones, matching the helper to the level of the problem.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 6799,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: following up with a thank-you and progress [Revision]",
+   "description": "After the meeting, the student sends a short thanks with what was fixed, and returns later with new work, which turns a one-time favour into an ongoing relationship.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 6800,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a professor for help",
+   "subtype": "Approach: trying another route when the first refuses [Revision]",
+   "description": "When the professor is too busy for a project guide role, the student politely asks for a suggestion, and is pointed to a colleague who fits the topic well.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice"
+   ]
+  }
+ ]
+}

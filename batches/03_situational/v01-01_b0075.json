@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1058,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Mehak",
+     "Baljeet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Bullying at school",
+   "subtype": "Bully × Forgiveness [Receiver]",
+   "description": "After the bully apologises I feel mixed: relief, doubt, anger. Wise: accept the apology without forgetting, keep boundaries, and take time. Forgiving is not the same as trusting again.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, hatred, protectiveness",
+    "related mind states: anger, doubt, relief, trust"
+   ]
+  },
+  {
+   "sno": 1059,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Nazia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Resentment [Actor]",
+   "description": "I feel the teacher targets me and I stop trying in their class. Wise: gather examples, ask for a private talk, and keep working since marks are mine. Harmful: cheating or sulking.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1060,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Admiration [Actor]",
+   "description": "A teacher believes in me and I work hard to earn their respect. Wise: use their belief while building my own drive. Risk: crushing dependence on their approval.",
+   "graph_context": [
+    "same situation, other stances at this age: favouritism, fear, forgiveness, gratitude, humiliation, resentment",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1061,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Crush [Actor]",
+   "description": "I develop feelings for a teacher and find them thrilling. Wise: this is common and passes, keep it private, and choose peers for romance. Harmful: pursuing them or writing dramatic notes.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 1062,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Favouritism [Receiver]",
+   "description": "I am the teacher's pet and classmates tease me. Wise: stay humble, help others, and avoid smug behaviour. Harmful: using the favour to belittle peers.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, fear, forgiveness, gratitude, humiliation, resentment"
+   ]
+  },
+  {
+   "sno": 1063,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Humiliation [Receiver]",
+   "description": "A teacher insults me in front of the class. I feel shame and rage. Wise: keep composure, speak to a parent or another trusted teacher, and report if it repeats. It is not my worth.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, resentment",
+    "related mind states: anger, shame, humiliation, trust"
+   ]
+  },
+  {
+   "sno": 1064,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Fear [Actor]",
+   "description": "I am scared of a strict teacher and freeze in their class. Wise: prepare a little more, ask one question a week to break the ice, and separate strictness from cruelty.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, forgiveness, gratitude, humiliation, resentment",
+    "paired view exists: Receiver (S1069)",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1065,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Gratitude [Actor]",
+   "description": "Years later I see that the hard teacher pushed me well. Wise: thank them. Harmful: assuming that harshness is always good just because it worked once.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, humiliation, resentment",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1066,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Rekha",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Shame [Receiver]",
+   "description": "A teacher humiliates me before the class. I burn with shame. Wise: it reflects on their conduct, not my worth; tell a parent or a coordinator and keep a written record.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: shame, humiliation"
+   ]
+  },
+  {
+   "sno": 1067,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Principal × Trust [Actor]",
+   "description": "I choose to report unfair treatment through the proper route, believing the school can fix it. Wise: be factual, bring a friend or parent, and give it time. Harmful: posting it online first.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

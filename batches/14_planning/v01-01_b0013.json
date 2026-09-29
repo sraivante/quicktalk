@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5881,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Chaitanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: copying a peer [Action]",
+   "description": "A child copies the teacher's sample, a flower with five petals and a green stem, and adds a sun of her own. Copying supplies a starting point that can then be changed.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, magical thinking, mental simulation, trial and error"
+   ]
+  },
+  {
+   "sno": 5882,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Francis"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: trial and error [Revision]",
+   "description": "Glitter glue smudges the drawing, so a child tries pencil first on a fresh sheet and adds glitter only at the border. The mess teaches an order for the materials.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5883,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Nirmala"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "A child asks mother how to spell \"Happy Birthday\" and copies the letters one at a time from her page. The adult supplies what the child cannot yet do.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, magical thinking, mental simulation, trial and error",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 5884,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Swati"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: giving up [Pitfall]",
+   "description": "The drawing turns out crooked and a child crumples the paper and says \"it's ugly,\" and will not make another card. The wish for a perfect result stops the effort.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, mental simulation, trial and error"
+   ]
+  },
+  {
+   "sno": 5885,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Vinita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "Two children argue about a toy car and one runs to the teacher, who listens to both and helps them agree. The adult acts as the judge.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, negotiation"
+   ]
+  },
+  {
+   "sno": 5886,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Sarita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: bargaining [Action]",
+   "description": "A child says, \"You have it now, I have it after lunch.\" Splitting the time between them ends the shouting with each getting a turn.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan",
+    "related concepts: splitting"
+   ]
+  },
+  {
+   "sno": 5887,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Aditi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: if-then rule [Thinking]",
+   "description": "A child thinks, \"If he says sorry, then I forgive him,\" and waits. The rule is clear but rigid, and the quarrel drags on until he says it.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, negotiation"
+   ]
+  },
+  {
+   "sno": 5888,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Tanvir"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: ignoring [Pitfall]",
+   "description": "A child turns away and pretends the fight is not there, in the belief that it will go away. The hurt stays, and the friend is puzzled by the silence.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, negotiation",
+    "related mind states: confusion, hurt"
+   ]
+  },
+  {
+   "sno": 5889,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Jasleen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: copying a peer [Revision]",
+   "description": "A third child suggests tossing a coin for the toy and both accept. The first child remembers the idea and suggests it at the next quarrel.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, negotiation"
+   ]
+  },
+  {
+   "sno": 5890,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Raghav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling a quarrel",
+   "subtype": "Approach: walking away in anger [Pitfall]",
+   "description": "A child shouts, \"I'm not your friend anymore,\" and stomps off. The fight ends for the moment and the friendship gets damaged, till the next day's play.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, negotiation",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

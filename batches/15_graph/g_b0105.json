@@ -1,0 +1,187 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4211,
+     "age": "4–6",
+     "topic": "Body & Mind",
+     "subtopic": "Emotion and breathing",
+     "subtype": "Belly breathing as a game [Response]",
+     "description": "A young child can learn to breathe slowly by blowing bubbles, smelling a flower and blowing out a candle. Practised when calm, this gives the child a tool that is easier to reach when upset."
+    },
+    {
+     "sno": 4214,
+     "age": "18–22",
+     "topic": "Body & Mind",
+     "subtopic": "Emotion and breathing",
+     "subtype": "Breath before speaking or performing [Response]",
+     "description": "A student about to present slows the exhale, drops the shoulders and pauses before the first sentence. The steadier breath calms the voice and thinking, and does not need anyone to notice it."
+    }
+   ],
+   "cluster_id": "C0625",
+   "cast": [
+    "Tejas",
+    "Varun",
+    "Imran"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5488,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Availability cascade",
+     "subtype": "Rumour about a teacher spreads [Observer]",
+     "description": "A student sees a rumour about a teacher spread through school until everyone treats it as fact; every repetition makes it feel more believable and harder to question."
+    },
+    {
+     "sno": 5490,
+     "age": "23–26",
+     "topic": "Foundational Concepts",
+     "subtopic": "Availability cascade",
+     "subtype": "Vivid story drives neighbourhood panic [Observer]",
+     "description": "An adult sees one dramatic news story about a rare event push the whole locality into over-caution while common everyday risks are ignored."
+    }
+   ],
+   "cluster_id": "C0626",
+   "cast": [
+    "Swati",
+    "Keerthana",
+    "Tanuja"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2568,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Criticism and dissatisfaction",
+     "subtype": "Constructive versus destructive criticism [Regulating]",
+     "description": "A teenager learns to criticise the act or plan rather than the person, and to accept feedback without collapsing or attacking. \"That part is unclear\" is more usable than \"You are useless\"."
+    },
+    {
+     "sno": 2724,
+     "age": "18–22",
+     "topic": "Expression & Mind State",
+     "subtopic": "Criticism and dissatisfaction",
+     "subtype": "Taking criticism without shrinking or bristling [Regulating]",
+     "description": "A young adult listens to feedback, asks clarifying questions and separates useful points from unfair ones. Immediate defence or total self-blame both make learning harder."
+    },
+    {
+     "sno": 2861,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Criticism and dissatisfaction",
+     "subtype": "Scolding and reprimanding as a supervisor [Regulating]",
+     "description": "A young supervisor reprimands by describing the behaviour and its impact, keeping voice calm and giving a path to improve. Sarcasm, humiliation or repeated scolding harms the relationship and can amount to bullying."
+    }
+   ],
+   "cluster_id": "C0627",
+   "cast": [
+    "Leela",
+    "Sachin",
+    "Nandini"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2394,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Guidance and direction",
+     "subtype": "Commands and bossiness [Mismatch]",
+     "description": "A child who commands peers may be leading, anxious, or copying adult tone. Adults can coach the child to swap commands for invitations, such as how about we."
+    },
+    {
+     "sno": 2550,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Guidance and direction",
+     "subtype": "Peer recommendations and influence [Mismatch]",
+     "description": "A teenager weighs recommendations from friends and influencers about trends, products and risks. Advice that carries pressure to do something unsafe or secret is a reason to consult a trusted adult."
+    }
+   ],
+   "cluster_id": "C0628",
+   "cast": [
+    "Preeti",
+    "Parul",
+    "Ankita"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4550,
+     "age": "7–12",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "OCD-type patterns",
+     "subtype": "Rituals to keep bad things away [Actor]",
+     "description": "A child repeats handwashing, touching or checking, or must say certain words to prevent harm. It feels unavoidable, and scolding makes it worse; a doctor or child psychologist can guide the family."
+    },
+    {
+     "sno": 4552,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "OCD-type patterns",
+     "subtype": "Unwanted intrusive thoughts [Actor]",
+     "description": "A teenager may have upsetting thoughts they hate and fear meaning something about them. Such thoughts are common and do not show who a person is; shame keeps them secret, and professional help works."
+    },
+    {
+     "sno": 4553,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "OCD-type patterns",
+     "subtype": "Ritual taking over the day [Actor]",
+     "description": "A young adult spends hours checking or arranging things, arrives late and hides it from friends. Compulsions relieve fear briefly and then demand more, and seeking a qualified clinician is wise."
+    }
+   ],
+   "cluster_id": "C0629",
+   "cast": [
+    "Yusuf",
+    "Zainab",
+    "Leela"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4887,
+     "age": "7–12",
+     "topic": "Culture & Society",
+     "subtopic": "Urban vs rural life",
+     "subtype": "City child visiting a village [Observer]",
+     "description": "A city child on a holiday sees animals, fields and a slower rhythm and is thrilled by mud and mangoes. It is easy to romanticise; the child may learn later of hard work behind such simplicity."
+    },
+    {
+     "sno": 4891,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Urban vs rural life",
+     "subtype": "Condescension toward the city [Observer]",
+     "description": "A villager sees urban youth as selfish, disconnected from family and soil. This is partly true of some and unfair to many; both sides carry stereotypes worth unlearning."
+    }
+   ],
+   "cluster_id": "C0630",
+   "cast": [
+    "Chaitanya",
+    "Lalit",
+    "Anand"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2980,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 1: New environment, open door [Actor]",
+     "description": "In a hostel or first job city, a young adult lonely and eager says yes to every invitation. Shared meals, late-night chats and mutual homesickness create quick intimacy that feels stronger than it yet is."
+    },
+    {
+     "sno": 2981,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 2: Deepening through disclosure [Actor]",
+     "description": "They tell each other family troubles, fears about careers and old heartbreaks. Reciprocal self-disclosure is what makes a friendship real, and each is measuring whether the other responds with care."
+    },
+    {
+     "sno": 2982,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 3: Routine and a core group [Observer]",
+     "description": "An outsider sees the group eating, studying and travelling together and taking it for granted. The comfort is real, but so is the unspoken pressure to stay in the group and not seek other friends."
+    }
+   ],
+   "cluster_id": "C0373",
+   "cast": [
+    "Sangeeta",
+    "Tarun",
+    "Kalyani"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2983,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 4: Divergence [Actor]",
+     "description": "One friend gets a placement in another city, another falls into a relationship, a third struggles with money. Calls turn into likes on posts, and both feel guilty for being the one who did not call."
+    },
+    {
+     "sno": 2984,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 5: Fading and quiet grief [Receiver]",
+     "description": "One realises months have passed since a real conversation and feels sadness with no single event to blame. Ordinary fading is easy to overlook, and it can hurt like a loss without permission to mourn."
+    },
+    {
+     "sno": 2985,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship formation and fading",
+     "subtype": "Stage 6: Choosing what to keep [Response]",
+     "description": "Instead of waiting for the old closeness, one sends a specific message like \"I was thinking of our Sunday chai. Can we talk this weekend?\" Some ties deserve effort; others can be let go with thanks."
+    }
+   ],
+   "cluster_id": "C0374",
+   "cast": [
+    "Jahnavi",
+    "Omkar",
+    "Imran"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3022,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 1: A threat is sensed [Actor]",
+     "description": "A teenager sees his girlfriend laughing with a classmate and feels his stomach tighten. The thought \"she likes him more\" arrives faster than any evidence for it."
+    },
+    {
+     "sno": 3023,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 2: Rumination [Actor]",
+     "description": "He replays the scene, scrolls through her tagged photos and imagines the worst. Every ambiguous detail is read as proof, and looking for reassurance feeds the fear instead of easing it."
+    },
+    {
+     "sno": 3024,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 3: Checking and questioning [Actor]",
+     "description": "He asks who she was with and demands to see her chats, sure that he only wants the truth. What he calls love feels to her like being watched, and she starts to hide small things."
+    }
+   ],
+   "cluster_id": "C0375",
+   "cast": [
+    "Irfan",
+    "Damini",
+    "Lalremsiami"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3025,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 4: The receiver's strain [Receiver]",
+     "description": "She feels guilty for innocent things and tiptoes around him, dropping friends to keep peace. Loving someone should not require shrinking one's world, and she may need a trusted adult's view."
+    },
+    {
+     "sno": 3026,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 5: Naming the fear beneath [Response]",
+     "description": "A wiser friend asks \"what are you afraid of losing?\" He admits he feels not good enough, so the real issue is his self-worth, and controlling her cannot fix it."
+    },
+    {
+     "sno": 3027,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Jealousy spiral",
+     "subtype": "Stage 6: Choosing trust or stepping away [Response]",
+     "description": "He tells her honestly that he felt insecure and stops checking, or if the pattern will not stop, both accept the relationship is not healthy. Controlling behaviour is a signal to involve a counsellor or elder."
+    }
+   ],
+   "cluster_id": "C0376",
+   "cast": [
+    "Avni",
+    "Madhav",
+    "Sunaina"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3278,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Loneliness and withdrawal spiral",
+     "subtype": "Stage 1: Feeling left out [Response]",
+     "description": "A teen who is left out finds one activity or small group built around a shared interest rather than trying to win over the popular crowd. Belonging comes more easily around doing something together."
+    },
+    {
+     "sno": 3276,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Loneliness and withdrawal spiral",
+     "subtype": "Stage 2: Protective pulling back [Actor]",
+     "description": "A teenager stops texting first, skips gatherings and says they prefer being alone. Withdrawal protects from further rejection but also removes the chance of connection."
+    },
+    {
+     "sno": 3277,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Loneliness and withdrawal spiral",
+     "subtype": "Stage 3: Reading signals as rejection [Actor]",
+     "description": "A lonely mind scans for threat, so a late reply or a laugh is taken to mean dislike. This bias makes the person more guarded and awkward, and confirms the fear."
+    }
+   ],
+   "cluster_id": "C0377",
+   "cast": [
+    "Yash",
+    "Deepika",
+    "Chaitanya"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2908,
+     "age": "7–12",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 1: Small trigger [Actor]",
+     "description": "A child sees a friend take the last turn on the swing and feels a hot jolt of unfairness. He says \"That's mine\" louder than needed, already sure the other child did it on purpose."
+    },
+    {
+     "sno": 2909,
+     "age": "7–12",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 2: Blame and counter-blame [Actor]",
+     "description": "Each child recounts the story so that only the other is at fault. Voices rise, \"you always\" and \"you never\" appear, and neither is listening because both are busy preparing the next defence."
+    },
+    {
+     "sno": 2910,
+     "age": "7–12",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 3: Raising the stakes [Actor]",
+     "description": "Feeling cornered before an audience, the child drags in old grievances and insults the friend's family or looks. Winning starts to matter more than the swing, and the words chosen are meant to hurt."
+    }
+   ],
+   "cluster_id": "C0378",
+   "cast": [
+    "Mridul",
+    "Dhruv",
+    "Tejas"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4878,
+     "age": "1–3",
+     "topic": "Culture & Society",
+     "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+     "subtype": "Hearing several languages [Actor]",
+     "description": "A toddler in a home speaking Hindi, a mother tongue and English mixes words from all of them. This is normal and healthy; the child is sorting sounds and will separate them with time."
+    },
+    {
+     "sno": 4881,
+     "age": "13–17",
+     "topic": "Culture & Society",
+     "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+     "subtype": "Hinglish as identity [Actor]",
+     "description": "A teenager mixes Hindi and English in every sentence with friends, and finds it natural and playful. Hinglish signals belonging to a generation, though switching to a cleaner register matters at exams and interviews."
+    },
+    {
+     "sno": 4883,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Language identity, Hinglish, regional pride and code-switching",
+     "subtype": "Regional pride and language politics [Actor]",
+     "description": "A young adult feels strong love for their state's language and bristles at Hindi or English being imposed. Pride is healthy; contempt for another language is not, and friendships cross these lines easily."
+    }
+   ],
+   "cluster_id": "C0793",
+   "cast": [
+    "Rekha",
+    "Harish",
+    "Vandana"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2066,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Smile variations",
+     "subtype": "Social smile emerging [Expressing]",
+     "description": "A young infant or toddler gives a broad open-mouth smile to a familiar face, showing pleasure and connection. Responding with a smile back builds the early conversation of attention."
+    },
+    {
+     "sno": 2318,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Smile variations",
+     "subtype": "Closed-mouth smile and shyness [Expressing]",
+     "description": "A school-age child gives a small closed-mouth smile when meeting new people, often carrying shyness or politeness rather than delight. Giving time and not forcing a bigger smile respects temperament."
+    }
+   ],
+   "cluster_id": "C0794",
+   "cast": [
+    "Indu",
+    "Devika",
+    "Varun"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5422,
+     "age": "4–6",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Talking to someone angry",
+     "subtype": "Child hitting or screaming [Receiver]",
+     "description": "An angry child kicks and screams, needing help to calm before any talk can happen. A calm adult who stays nearby and names the feeling later teaches regulation."
+    },
+    {
+     "sno": 5423,
+     "age": "7–12",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Talking to someone angry",
+     "subtype": "Facing an angry parent [Receiver]",
+     "description": "A child hearing a parent shout freezes, shrinks or argues. Fear blocks understanding, and a later calm conversation is when the lesson can actually land."
+    }
+   ],
+   "cluster_id": "C0795",
+   "cast": [
+    "Ujjwal",
+    "Farhan",
+    "Pankaj"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2247,
+     "age": "4–6",
+     "topic": "Expression & Mind State",
+     "subtopic": "Sharing information",
+     "subtype": "Narrating with fantasy [Mismatch]",
+     "description": "A young child narrates events with imagination and exaggeration, blending fantasy with fact. It is developmentally normal, so adults gently separate pretend from real when facts matter, without harsh labels."
+    },
+    {
+     "sno": 2540,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Sharing information",
+     "subtype": "Reporting and telling on peers [Mismatch]",
+     "description": "A teenager who reports something to an adult may be seeking safety or seeking revenge. Adults thank the teen, listen without assuming motives and act on safety concerns."
+    },
+    {
+     "sno": 2838,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Sharing information",
+     "subtype": "Narrating personal stories and oversharing [Mismatch]",
+     "description": "A young adult telling personal stories decides how much to share with whom. Sharing builds closeness, but oversharing with strangers or online may cause regret, so context and consent matter."
+    }
+   ],
+   "cluster_id": "C0796",
+   "cast": [
+    "Harish",
+    "Neelam",
+    "Aparna"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2148,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-disclosure",
+     "subtype": "Toddler sharing feelings and experiences [Expressing]",
+     "description": "A toddler shows a bruise, says \"scared\" or points out something that happened. Early disclosure is brief and concrete; adults who respond calmly encourage later confiding."
+    },
+    {
+     "sno": 2576,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-disclosure",
+     "subtype": "Confiding in trusted adults [Expressing]",
+     "description": "A teenager tells a parent, teacher or counsellor about stress, mistakes or unsafe situations. Adults who listen first, stay calm and avoid instant punishment make later disclosure more likely."
+    },
+    {
+     "sno": 2868,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-disclosure",
+     "subtype": "Admitting limits and needing help at work [Expressing]",
+     "description": "A young professional admits a gap, a mistake or a struggle to a manager or peer. Framed with a plan, it tends to build trust; risk depends on workplace culture, so choosing the listener matters."
+    }
+   ],
+   "cluster_id": "C0797",
+   "cast": [
+    "Hansa",
+    "Tushar",
+    "Shankar"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2102,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-directed movements",
+     "subtype": "Rubbing eyes and pulling ears [Expressing]",
+     "description": "A toddler rubs eyes, tugs at ears or presses the face into a parent when sleepy, hungry or unwell. The cue is ambiguous, so a caregiver checks the whole picture, such as feeding time, fever or noise, rather than one sign."
+    },
+    {
+     "sno": 2356,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-directed movements",
+     "subtype": "Twirling hair and adjusting clothing [Expressing]",
+     "description": "A schoolchild twirls hair, tugs a sleeve or straightens a uniform when nervous or self-conscious. These are common self-comfort acts, and observers should not read them as lying or flirting; they only show mild tension."
+    },
+    {
+     "sno": 2811,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Self-directed movements",
+     "subtype": "Rubbing temples and neck at work [Expressing]",
+     "description": "A young professional rubs the neck or temples during long meetings, signalling tiredness, tension or headache. Colleagues cannot tell which from the gesture alone; offering a break or asking kindly is better than guessing."
+    }
+   ],
+   "cluster_id": "C0798",
+   "cast": [
+    "Chetan",
+    "Kiran",
+    "Disha"
+   ]
+  }
+ ]
+}

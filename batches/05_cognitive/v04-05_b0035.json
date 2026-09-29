@@ -1,0 +1,266 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3910,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Pranav",
+     "Uday"
+    ],
+    "5": [
+     "Alka",
+     "Minakshi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Undoing",
+   "subtype": "Repair that actually repairs [Response]",
+   "description": "An adult names what happened, apologises without excuses, asks what would help, and changes the behaviour; undoing through ritual is replaced by repair that the other person can feel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3911,
+   "plan": {
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Dilnaz",
+     "Lalit"
+    ],
+    "5": [
+     "Salma",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Passive aggression",
+   "subtype": "Agreeing and then forgetting [Actor]",
+   "description": "A child says yes cheerfully to a chore and then conveniently forgets every time; unable to say no directly, the resistance comes out sideways.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 3912,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Dhruv",
+     "Pooja"
+    ],
+    "5": [
+     "Eshaan",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Passive aggression",
+   "subtype": "Silent sulking and slow chores [Actor]",
+   "description": "A teenager who resents a rule complies with a scowl, moves at a snail's pace and answers in monosyllables; the anger is real but disguised as compliance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger, resentment"
+   ]
+  },
+  {
+   "sno": 3913,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Sunaina",
+     "Joseph"
+    ],
+    "5": [
+     "Deepak",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Passive aggression",
+   "subtype": "Sarcastic notes from a roommate [Receiver]",
+   "description": "A student finds sarcastic notes of thanks for washing dishes for once and feels attacked without a fair chance to reply; asking calmly what the roommate wants to change is a way out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: gratitude, calm"
+   ]
+  },
+  {
+   "sno": 3914,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Arnab",
+     "Raghav"
+    ],
+    "5": [
+     "Bidisha",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Passive aggression",
+   "subtype": "Yes in the meeting, delay afterwards [Observer]",
+   "description": "A manager sees a team member agree to a plan and then quietly miss every milestone; the manager realises the disagreement was never voiced and creates a safe space to say no.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3915,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Vandana",
+     "Kishore"
+    ],
+    "5": [
+     "Uma",
+     "Mridul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Passive aggression",
+   "subtype": "Inviting the direct version [Response]",
+   "description": "An adult who senses veiled irritation says gently that they may have missed something and welcomes a straight answer; when directness is safe, indirect anger usually loses its purpose.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 3916,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Mridul",
+     "Kamal"
+    ],
+    "5": [
+     "Tejas",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Compartmentalisation",
+   "subtype": "Different selves at school and home [Actor]",
+   "description": "A teenager who is confident with friends and meek at home keeps the two worlds sealed; separation reduces conflict but leaves the young person unknown to each group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3917,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Sharmila",
+     "Sarika"
+    ],
+    "5": [
+     "Siddharth",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Compartmentalisation",
+   "subtype": "Boxing up grief during exams [Actor]",
+   "description": "A student whose relative has died puts the sorrow aside to study and performs well; the pause is helpful if there is a later time to open the box.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 3918,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Thomas",
+     "Saurabh"
+    ],
+    "5": [
+     "Kashish",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Compartmentalisation",
+   "subtype": "Warm at work, cold at home [Observer]",
+   "description": "A spouse notices that their partner is patient and charming with clients but curt and drained at home; skills exist, but the energy is spent before the day's last relationship.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 3919,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Noor",
+     "Eshaan"
+    ],
+    "5": [
+     "Jaya",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Compartmentalisation",
+   "subtype": "Sealed rooms of one life [Actor]",
+   "description": "An adult keeps a stressful finance problem out of every conversation and a relationship problem out of their work; it lets them function, though the walls can crack when both press at once.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+STAGE: deception
+Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 3. Expected records: 6.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are about honesty, lies, manipulation, scams and influence. Write for RECOGNITION AND DEFENCE. Manipulators' lines are brief, generic and unusable as scripts. The passage centres on the target's or observer's experience and the pattern that gives it away. The application answer names a protective step (pause, verify through a separate channel, tell a trusted adult, report). Never present deception as a skill worth learning. Children's rows show honesty learning, not cunning.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 4769, "plan": {"1": "R5", "2": "R6"}, "cast": {"1": ["Uday", "Aditi"], "2": ["Parul", "Vasudha"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Integrity when it costs", "subtype": "Doing right without an audience [Actor]", "description": "An adult returns extra change, admits an error nobody would find, or declines a favour that bends rules. The reward is mostly internal, and it builds a reputation for being trusted.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: trust"]}
+{"sno": 4770, "plan": {"1": "R6", "2": "R7"}, "cast": {"1": ["Lavanya", "Jaya"], "2": ["Nandini", "Gautam"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Integrity when it costs", "subtype": "Honouring a colleague who pays the price [Observer]", "description": "A team sees someone lose a deal or promotion for refusing to lie. Recognising and supporting them keeps honesty from becoming a lonely choice.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: loneliness"]}
+{"sno": 4771, "plan": {"1": "R13", "2": "R14"}, "cast": {"1": ["Uma", "Seema"], "2": ["Sahil", "Saurabh"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Integrity when it costs", "subtype": "Weighing real dilemmas [Response]", "description": "Sometimes honesty conflicts with another duty, such as protecting a person from harm. A wise person considers who is affected, chooses the least deceptive path, and accepts responsibility for the choice.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22"]}
+
+Return exactly 6 JSON Lines and nothing else.

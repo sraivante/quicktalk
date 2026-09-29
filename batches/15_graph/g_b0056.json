@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3340,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Relocation adjustment",
+     "subtype": "Stage 1: Excitement and honeymoon [Actor]",
+     "description": "A student or young worker arrives in a new city for study or a job, finding everything fresh and exciting. Novelty gives energy, and homesickness is pushed aside by the rush of activity."
+    },
+    {
+     "sno": 3341,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Relocation adjustment",
+     "subtype": "Stage 2: Logistics and small frustrations [Actor]",
+     "description": "Finding a flat, food, language and paperwork wear the person down. Small irritations pile up, and the person compares everything unfavourably with home."
+    },
+    {
+     "sno": 3342,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Relocation adjustment",
+     "subtype": "Stage 3: Homesickness and culture shock [Actor]",
+     "description": "Weeks in, the person misses family, familiar food and being known, and feels like an outsider. Crying at night or a wish to return does not mean the move was wrong."
+    }
+   ],
+   "cluster_id": "C0331",
+   "cast": [
+    "Kamal",
+    "Jahnavi",
+    "Simran"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3218,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Failure to recovery",
+     "subtype": "Stage 2: Shame and global verdict [Actor]",
+     "description": "A teenager who failed an entrance test decides they are stupid and a burden to the family. One event becomes a verdict on the whole self, especially where marks carry family expectations."
+    },
+    {
+     "sno": 3219,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Failure to recovery",
+     "subtype": "Stage 3: Blame and hiding [Actor]",
+     "description": "The person blames the teacher, the paper or bad luck, or avoids telling parents and friends. Deflecting shields from pain in the short term and blocks any learning from what happened."
+    },
+    {
+     "sno": 3220,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Failure to recovery",
+     "subtype": "Stage 4: Facing family and peers [Observer]",
+     "description": "A cousin or teacher watches a teen return after a bad result and hears the family compare them with others. A quiet word that one result is not the person, and an offer to plan next steps, matters."
+    }
+   ],
+   "cluster_id": "C0332",
+   "cast": [
+    "Usha",
+    "Sahil",
+    "Chaitanya"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2926,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 1: Rising unmet need [Actor]",
+     "description": "One partner feels the relationship slipping and craves reassurance and a proper talk. Underneath is fear of being left, though it comes out as questions, hints and a sharper tone than intended."
+    },
+    {
+     "sno": 2927,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 2: Pursuit [Actor]",
+     "description": "She sends several messages and asks \"what is wrong with us?\" the moment he walks in. She believes closeness is on the other side of the conversation, so more pressing feels like the only way to reach him."
+    },
+    {
+     "sno": 2928,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 3: Feeling flooded and withdrawing [Receiver]",
+     "description": "He hears criticism and demand, feels overwhelmed and goes quiet, plugs in earphones or leaves. He thinks he is avoiding a fight; she experiences it as being abandoned."
+    }
+   ],
+   "cluster_id": "C0333",
+   "cast": [
+    "Pradeep",
+    "Mehak",
+    "Vijay"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2929,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 4: Intensified pursuit [Actor]",
+     "description": "His silence confirms her fear, so she pushes harder with longer texts, tears or accusations. The louder the pursuer, the further the withdrawer retreats, and each is sure the other started the loop."
+    },
+    {
+     "sno": 2930,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 5: Seeing the loop, not the villain [Response]",
+     "description": "In a calm moment they name the pattern together: \"when I press, you go quiet, and when you go quiet, I press.\" The shift is treating the cycle as the enemy instead of each other."
+    },
+    {
+     "sno": 2931,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 6: Softer ask and staying present [Response]",
+     "description": "She says \"I miss you and I am scared\" rather than \"you never talk\"; he says \"I need twenty minutes but I will come back\" and does. Vulnerability replaces criticism, and reliability replaces silence."
+    }
+   ],
+   "cluster_id": "C0334",
+   "cast": [
+    "Sabina",
+    "Neelam",
+    "Wasim"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3301,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A faith journey through doubt",
+     "subtype": "Stage 5: Wrestling and seeking [Actor]",
+     "description": "The person reads texts, talks with thoughtful believers and sceptics and tests ideas against experience. Serious seeking accepts uncertainty and treats hard questions as worth their time."
+    },
+    {
+     "sno": 3302,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A faith journey through doubt",
+     "subtype": "Stage 6: A changed relationship with belief [Actor]",
+     "description": "Some return to their tradition with a chosen, more personal faith, some adopt another path and some settle in non-belief with values intact. Each is a legitimate outcome of honest searching."
+    },
+    {
+     "sno": 3303,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A faith journey through doubt",
+     "subtype": "Stage 7: Living with respect and peace [Response]",
+     "description": "The person keeps ties with family, joins rituals for love if not for creed where they wish, and neither mocks belief nor pressures others. Peace comes from honesty and mutual respect, not from winning the argument."
+    }
+   ],
+   "cluster_id": "C0335",
+   "cast": [
+    "Kunal",
+    "Kavitha",
+    "Divyansh"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2992,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship betrayal to reconciliation or ending",
+     "subtype": "Stage 1: Loyal friendship of years [Receiver]",
+     "description": "Two colleagues who began together have supported each other through breakups and family illness. One counts on the other as the person she can be at her weakest around without being judged."
+    },
+    {
+     "sno": 2993,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship betrayal to reconciliation or ending",
+     "subtype": "Stage 2: The competitive moment [Actor]",
+     "description": "A promotion opens up and the friend, afraid of being left behind, quietly tells the manager about the other's private complaint. Ambition and insecurity overrode loyalty, and he calls it business rather than betrayal."
+    },
+    {
+     "sno": 2994,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Friendship betrayal to reconciliation or ending",
+     "subtype": "Stage 3: Learning and disbelief [Receiver]",
+     "description": "She learns the truth from a third person and feels numb before feeling rage. The loss is double, the friend and the story of who she thought he was, which is why it can feel like grief."
+    }
+   ],
+   "cluster_id": "C0336",
+   "cast": [
+    "Ujjwal",
+    "Sumit",
+    "Jaya"
+   ]
+  }
+ ]
+}

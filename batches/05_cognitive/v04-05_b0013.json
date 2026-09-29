@@ -1,0 +1,262 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3690,
+   "plan": {
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Lakshmi",
+     "Mridul"
+    ],
+    "5": [
+     "Sangeeta",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Base-rate neglect",
+   "subtype": "Ignoring how common it is [Actor]",
+   "description": "A child hears that someone is quiet and fond of books and says he must be a librarian, forgetting how many more farmers there are. The story outweighs the numbers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: affection, detachment"
+   ]
+  },
+  {
+   "sno": 3691,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Gargi",
+     "Karthik"
+    ],
+    "5": [
+     "Noor",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Base-rate neglect",
+   "subtype": "Test and rumour reasoning [Actor]",
+   "description": "A teenager sure that a rare event happened because a report seemed reliable ignores how uncommon the event is. Vivid details beat plain frequency.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3692,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Binita",
+     "Anand"
+    ],
+    "5": [
+     "Tuan",
+     "Sofia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Base-rate neglect",
+   "subtype": "Medical or test results [Actor]",
+   "description": "A student fears a rare disease after a positive screening result, not realising that most positives for rare conditions are false alarms. Numbers need context.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, detachment"
+   ]
+  },
+  {
+   "sno": 3693,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Urmila",
+     "Anand"
+    ],
+    "5": [
+     "Esther",
+     "Kwame"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Base-rate neglect",
+   "subtype": "Starting with the odds [Response]",
+   "description": "A careful thinker begins with how common something is in general, then adjusts up or down for the specific evidence, and asks a professional to explain results.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3694,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Wasim",
+     "Irawati"
+    ],
+    "5": [
+     "Samir",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Conjunction fallacy",
+   "subtype": "Detailed stories seem likelier [Actor]",
+   "description": "A teenager thinks it more likely that a quiet friend is a shy artist who writes poems than simply an artist. Adding details makes a story feel truer though it becomes less probable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 3695,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Irfan",
+     "Ritu"
+    ],
+    "5": [
+     "Lokesh",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Conjunction fallacy",
+   "subtype": "Rich scenarios in planning [Actor]",
+   "description": "A student finds a detailed success story more believable than a simple one, though every added detail is one more thing that must go right.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3696,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Rehana",
+     "Shankar"
+    ],
+    "5": [
+     "Naveen",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Conjunction fallacy",
+   "subtype": "Spotting the trap in pitches [Observer]",
+   "description": "A colleague notices a persuasive pitch full of specific steps and reminds the team each extra step lowers the chance of everything working together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3697,
+   "plan": {
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Zubin",
+     "Kiran"
+    ],
+    "5": [
+     "Kalyani",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Correlation vs causation",
+   "subtype": "Two things together [Actor]",
+   "description": "A child notices that the days he wears his red shirt are the days his team wins and decides the shirt causes it. Things that happen together seem linked.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3698,
+   "plan": {
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Ritu",
+     "Sachin"
+    ],
+    "5": [
+     "Sabina",
+     "Pradeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Correlation vs causation",
+   "subtype": "Reading trends wrongly [Actor]",
+   "description": "A teenager sees that students who take tuition score higher and concludes tuition is the cause, missing that motivated or better-off students do both.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3699,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Maria",
+     "Nirmala"
+    ],
+    "5": [
+     "Mahima",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Correlation vs causation",
+   "subtype": "Study and headline claims [Actor]",
+   "description": "A student reads that coffee drinkers live longer and starts believing coffee is the reason. Hidden third factors, or reversed direction, often explain links.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

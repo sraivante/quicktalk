@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 558,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Nandini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being sick",
+   "subtype": "Doctor × Trust [Receiver]",
+   "description": "The doctor speaks kindly, shows me the stethoscope and lets me listen. I feel less afraid and curious. Being included in what happens makes me feel brave and helps me trust helpers.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, dependence, envy, fear",
+    "related mind states: fear, curiosity, trust"
+   ]
+  },
+  {
+   "sno": 559,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Santosh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being sick",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "My sibling is sick and gets all the attention and treats. I feel jealous and even wish I was sick too. This is normal. A wise parent gives me some care time and explains the sick child needs rest.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, dependence, fear, trust",
+    "related mind states: envy, jealousy"
+   ]
+  },
+  {
+   "sno": 560,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Abebe",
+     "Freya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being sick",
+   "subtype": "Parent × Dependence [Actor]",
+   "description": "When I am ill I cling to Mummy and do not want her to leave. I feel afraid and helpless. Wise: she stays close when she can and tells me when she will be back. Clinging is a request for safety, not naughtiness.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, envy, fear, trust",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 561,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Reena"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Pet dies",
+   "subtype": "Pet × Grief [Actor]",
+   "description": "My dog died and I cry and ask where he has gone. I feel a big empty hole and may not understand it is forever. Wise adults tell the truth simply, allow crying and let me draw or say goodbye.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, guilt, indifference",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 562,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Sahil"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Pet dies",
+   "subtype": "Parent × Comfort [Receiver]",
+   "description": "My parent hugs me and says \"it is okay to be sad, we loved him very much\". I feel understood. Not being told to stop crying or to just get a new pet lets grief take its natural path.",
+   "graph_context": [
+    "same situation, other stances at this age: grief, guilt, indifference",
+    "related mind states: affection, sadness, grief"
+   ]
+  },
+  {
+   "sno": 563,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Omkar"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Pet dies",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I think it is my fault because I once forgot to feed him or was angry at him. Young children believe their thoughts can cause things. A wise adult says clearly \"it was not because of anything you did\".",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, grief, indifference",
+    "related mind states: anger, guilt"
+   ]
+  },
+  {
+   "sno": 564,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Abhinav",
+     "Siddharth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Pet dies",
+   "subtype": "Sibling × Grief [Receiver]",
+   "description": "My sister cries for the pet and I feel sad watching her. We hold each other. Sharing sadness with a sibling helps, and a small ritual like planting a flower can give both of us a way to remember him.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, guilt, indifference",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 565,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Vinita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Pet dies",
+   "subtype": "Friend × Indifference [Receiver]",
+   "description": "My friend says \"it is just a dog, get another\". I feel hurt and misunderstood. Children may not know what to say. A wise response is to tell them \"he was my friend\"; adults can teach children gentle words.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, grief, guilt",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 566,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Lavanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent dies",
+   "subtype": "Grandparent × Grief [Actor]",
+   "description": "Nani has died and I miss her stories and her lap. I feel sad and confused about where she is. Wise adults use simple honest words, allow questions again and again, and keep her memory alive with photos and stories.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, fear, gratitude",
+    "related mind states: sadness, grief, confusion"
+   ]
+  },
+  {
+   "sno": 567,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Sharmila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent dies",
+   "subtype": "Parent × Grief [Receiver]",
+   "description": "I see my father crying and it scares me. I feel worried and quiet. A wise parent says \"I am sad because I miss Dadi, it is okay to be sad and I am still here for you\". Hiding all grief makes children fear their own.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, fear, gratitude",
+    "related mind states: sadness, grief, fear, anxiety"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5073,
+     "age": "18–22",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Decision-making with incomplete information",
+     "subtype": "Naming the unknowns and a default [Response]",
+     "description": "A thoughtful chooser lists what is not known, what could be learned cheaply, and sets a date to decide. Deciding with stated assumptions makes it easy to revise when new facts arrive."
+    },
+    {
+     "sno": 5076,
+     "age": "23–26",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Decision-making with incomplete information",
+     "subtype": "Reversible versus irreversible choices [Response]",
+     "description": "A wise decider asks whether the choice can be undone cheaply; if so, they act quickly and adjust, and if not, they slow down and seek advice. Matching care to the cost of error saves both time and regret."
+    }
+   ],
+   "cluster_id": "C0727",
+   "cast": [
+    "Madhav",
+    "Tarun",
+    "Hrithik"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2151,
+     "age": "1–3",
+     "topic": "Expression & Mind State",
+     "subtopic": "Spiritual and ceremonial expression",
+     "subtype": "Imitating family rituals [Expressing]",
+     "description": "A toddler folds hands, rings a bell, claps in a song or copies a bow, following family practice. The child expresses belonging and imitation rather than belief."
+    },
+    {
+     "sno": 2586,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Spiritual and ceremonial expression",
+     "subtype": "Reverence and respect in shared spaces [Expressing]",
+     "description": "A teenager shows respect by removing shoes, covering the head, standing or being quiet in a temple, mosque, church or gurdwara. Practices differ, and a visitor can watch others or politely ask."
+    },
+    {
+     "sno": 2875,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Spiritual and ceremonial expression",
+     "subtype": "Mourning and condolence rituals [Expressing]",
+     "description": "A young adult attends funerals or memorial rites, observes mourning periods and offers condolences in the family's manner. Customs on colour, food, speech and crying vary widely, so following the family's lead shows respect."
+    }
+   ],
+   "cluster_id": "C0728",
+   "cast": [
+    "Manoj",
+    "Naveen",
+    "Parul"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5465,
+     "age": "4–6",
+     "topic": "Foundational Concepts",
+     "subtopic": "Contrast effect",
+     "subtype": "Small treat seems big or small by comparison [Actor]",
+     "description": "A child feels happy with a modest biscuit after getting a plain one, but tearful when a sibling gets a bigger one; the same treat feels different depending on what it is compared with."
+    },
+    {
+     "sno": 5466,
+     "age": "7–12",
+     "topic": "Foundational Concepts",
+     "subtopic": "Contrast effect",
+     "subtype": "Marks judged against friends [Actor]",
+     "description": "A student with a fair score feels miserable after a friend's top mark but delighted on hearing the class average was low; the reference point changed the feeling, not the marks."
+    },
+    {
+     "sno": 5467,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Contrast effect",
+     "subtype": "Feeling plain after scrolling edited photos [Actor]",
+     "description": "A teenager feels unattractive after an hour of polished, filtered images, then feels normal among classmates in person; the comparison set, not the face, shifted."
+    }
+   ],
+   "cluster_id": "C0729",
+   "cast": [
+    "Mridul",
+    "Pallavi",
+    "Divyansh"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4050,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Implementation intentions",
+     "subtype": "Planning around the obstacle [Response]",
+     "description": "A student who often gets distracted in the library plans that if a friend invites them out during study hours they will say later and go at six; planning for the obstacle makes the intention hold."
+    },
+    {
+     "sno": 4052,
+     "age": "23–26",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Implementation intentions",
+     "subtype": "Attaching a new action to an existing cue [Response]",
+     "description": "An adult who wants to stretch decides to do it right after brushing teeth; hooking a new behaviour to a stable routine makes it easier to start without deliberating."
+    }
+   ],
+   "cluster_id": "C0730",
+   "cast": [
+    "Afreen",
+    "Yash",
+    "Sonali"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5111,
+     "age": "13–17",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Money handling in practice",
+     "subtype": "Online scams and payment traps [Response]",
+     "description": "A wise teenager never shares a UPI PIN or OTP, does not approve a collect request they did not expect, and checks with a parent before paying a stranger. Scams rely on urgency, and pausing defeats them."
+    },
+    {
+     "sno": 5116,
+     "age": "23–26",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Money handling in practice",
+     "subtype": "Bills, buffer and tracking [Response]",
+     "description": "A steady money handler pays bills on fixed dates, sets aside savings first, keeps a small emergency reserve and reviews spending monthly. Automatic habits beat willpower, and avoiding high-interest borrowing avoids the worst traps."
+    }
+   ],
+   "cluster_id": "C0731",
+   "cast": [
+    "Neelam",
+    "Uday",
+    "Nirmala"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5381,
+     "age": "18–22",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Texting tone and misunderstandings",
+     "subtype": "Checking before assuming [Response]",
+     "description": "A young adult asks are you upset with me or is it my imagination, instead of building a story from a delayed reply. Asking a direct, gentle question stops anxious spirals."
+    },
+    {
+     "sno": 5382,
+     "age": "23–26",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Texting tone and misunderstandings",
+     "subtype": "Too serious for text [Response]",
+     "description": "A person recognises a sensitive matter is escalating over messages and calls or meets in person. Voice and face carry warmth that text cannot."
+    }
+   ],
+   "cluster_id": "C0732",
+   "cast": [
+    "Chandrika",
+    "Deepak",
+    "Rafiq"
+   ]
+  }
+ ]
+}

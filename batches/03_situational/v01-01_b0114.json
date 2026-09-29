@@ -1,0 +1,215 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1448,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Conflict over ideas [Actor]",
+   "description": "You disagree strongly on the approach. Wise: listen, test the ideas with data, and accept the group's decision. Immature: overriding others or sulking.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, gratitude, trust"
+   ]
+  },
+  {
+   "sno": 1449,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Astrid",
+     "Rosa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Dominance [Receiver]",
+   "description": "One member controls everything. Wise: speak with facts and share tasks in writing. Harmful: staying silent to avoid conflict.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, envy, gratitude, trust"
+   ]
+  },
+  {
+   "sno": 1450,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Trust [Actor]",
+   "description": "You hand over a part and hope they do it well. Wise: agree on checkpoints and give feedback kindly. Immature: micromanaging.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, envy, gratitude",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 1451,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Vidya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Envy of the star [Actor]",
+   "description": "A groupmate is better than you. Wise: learn from them and do your part well. Immature: hiding your work.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, gratitude, trust",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1452,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Gratitude [Receiver]",
+   "description": "A groupmate stayed late to help you. Wise: thank them and offer help in return. Immature: taking it for granted.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, envy, trust",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1453,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Rehana",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Group project teamwork",
+   "subtype": "Groupmate × Being blamed for failure [Receiver]",
+   "description": "The grade is poor and fingers point at you. Wise: take responsibility for your part and focus on what to change. Harmful: taking all the blame or blaming others.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, envy, gratitude, trust"
+   ]
+  },
+  {
+   "sno": 1454,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Vikas",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Person × Being ghosted [Receiver]",
+   "description": "Someone stopped replying without a word and you feel confused and small. Wise: accept you may never get answers, and their silence tells more about them than about you. Immature: repeated messages or chasing.",
+   "graph_context": [
+    "paired view exists: Actor (S1455)",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 1455,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Person × Ghosting [Actor]",
+   "description": "You avoid someone because a talk feels hard. Wise: a short honest message is kinder than silence. Harmful: vanishing and leaving them guessing.",
+   "graph_context": [
+    "paired view exists: Receiver (S1454)",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 1456,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Friend × Being ghosted by a friend [Receiver]",
+   "description": "A close friend disappears for months. Wise: send one warm message and let go if no answer. Immature: hard accusations or public comments.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 1457,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Person × Rumination after being ghosted [Receiver]",
+   "description": "You replay what you said wrong. Wise: notice the loop, talk to a friend, and give yourself the closure they did not. Harmful: blaming yourself.",
+   "graph_context": [
+    "paired view exists: Actor (S1455)",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  }
+ ]
+}

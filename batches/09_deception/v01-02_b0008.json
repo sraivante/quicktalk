@@ -1,0 +1,267 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4659,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Nandini"
+    ],
+    "2": [
+     "Vaibhav",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Noticing a pattern across time [Observer]",
+   "description": "A friend hears the same story reversed each time, with the partner always right and the person always confused. Outsiders often see the pattern before the person inside it does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 4660,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Leila",
+     "Santiago"
+    ],
+    "2": [
+     "Preeti",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Keeping your own record [Response]",
+   "description": "A person writes down dates and events privately, talks to a trusted friend or counsellor, and checks their perception with someone outside. Reality is protected by other anchors than the person casting doubt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 4661,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Olga",
+     "Tomas"
+    ],
+    "2": [
+     "Chandrika",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Withdrawing to punish [Actor]",
+   "description": "A person goes silent after a disagreement, expecting the other to plead and give in. The silence is a way to feel powerful when words feel risky, but it punishes rather than protects.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 4662,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Wanjiru",
+     "Rania"
+    ],
+    "2": [
+     "Sarita",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Anxious under withdrawal [Receiver]",
+   "description": "The person receiving the silence feels dread, replays what they did, and hurries to apologise for anything. Being ignored activates real social pain, which makes this tactic effective and cruel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, anxiety, detachment, hurt"
+   ]
+  },
+  {
+   "sno": 4663,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Bidisha"
+    ],
+    "2": [
+     "Ritu",
+     "Vandana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Asking for a pause versus stonewalling [Response]",
+   "description": "A mature person says I need an hour to calm down and will come back, which is a break with a promise to return. Punishing silence has no end date and demands surrender.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4664,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Uday"
+    ],
+    "2": [
+     "Shreya",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Pulling in a third person [Actor]",
+   "description": "A teenager or adult complains about one person to another to gain allies, or carries messages that stir jealousy. Direct talk feels risky, so a third party becomes a shield or a weapon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 4665,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Seema"
+    ],
+    "2": [
+     "Charu",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Being compared or used as a go-between [Receiver]",
+   "description": "A person is told a partner's ex is better, or a parent uses the child to pass hurtful messages to the other parent. It creates anxiety, divided loyalty and a sense of never being safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anxiety, trust, hurt"
+   ]
+  },
+  {
+   "sno": 4666,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Kashish"
+    ],
+    "2": [
+     "Pooja",
+     "Ganga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Going back to the source [Response]",
+   "description": "A person who hears gossip or is asked to carry messages suggests the two talk directly and declines to take sides. Refusing to be a channel keeps relationships cleaner.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4667,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ujjwal",
+     "Madhav"
+    ],
+    "2": [
+     "Naveen",
+     "Sunaina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Deflecting responsibility [Actor]",
+   "description": "A person always presents themselves as wronged, so any complaint against them turns into sympathy for themselves. Behind it is often a fragile self-image that cannot tolerate being at fault.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: resentment, empathy"
+   ]
+  },
+  {
+   "sno": 4668,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Yogesh",
+     "Chinmay"
+    ],
+    "2": [
+     "Rukmini",
+     "Hansa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Learning to admit fault [Response]",
+   "description": "A teenager who owns a mistake with a plain sorry finds that relationships recover faster than through defensiveness. Taking responsibility is strength, and it does not mean accepting all blame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  }
+ ]
+}

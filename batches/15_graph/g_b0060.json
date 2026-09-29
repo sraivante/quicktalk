@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3061,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Parent-teen conflict cycle",
+     "subtype": "Stage 4: Slammed doors and cold war [Receiver]",
+     "description": "The teen retreats to her room and the parent to silence, both feeling misunderstood and a little ashamed. The house is tense, younger siblings feel it, and each waits for the other to yield first."
+    },
+    {
+     "sno": 3062,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Parent-teen conflict cycle",
+     "subtype": "Stage 5: Parent softens first [Response]",
+     "description": "Later the parent knocks and says \"I was scared and I said it badly. Can we talk about what you want and what worries me?\" Listening before deciding is not weakness, and it models the respect he wants back."
+    },
+    {
+     "sno": 3063,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Parent-teen conflict cycle",
+     "subtype": "Stage 6: Negotiated freedom with responsibility [Response]",
+     "description": "They agree on a curfew, contact plan and a review after a few weeks. The teen learns that reliability earns more freedom, and the parent learns to hold a boundary while letting the teen practise."
+    }
+   ],
+   "cluster_id": "C0355",
+   "cast": [
+    "Vaibhav",
+    "Neelam",
+    "Chandrika"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3070,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 1: A new claim on attention [Actor]",
+     "description": "A five-year-old sees his younger brother getting a parent's lap and a shiny toy. He feels a mix of love and hurt, and cannot say \"I feel left out\", so it shows as grabbing or hitting."
+    },
+    {
+     "sno": 3071,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 2: Provocation [Actor]",
+     "description": "He knocks over his sister's blocks and watches to see whether a parent will look at him. Even negative attention is better than none, and he may not know why he did it."
+    },
+    {
+     "sno": 3072,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 3: Retaliation and tears [Receiver]",
+     "description": "The sister screams and hits back, and the fight quickly becomes about who hit first. Both feel wronged, and neither can hold the other's point of view at this age."
+    }
+   ],
+   "cluster_id": "C0356",
+   "cast": [
+    "Harish",
+    "Rafiq",
+    "Shankar"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3073,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 4: Parent takes sides by accident [Observer]",
+     "description": "The parent rushes to the crying child and scolds the older one, who feels blamed again. Repeated pattern of \"you are older, be sensible\" teaches that being older means less love and feeds the next round."
+    },
+    {
+     "sno": 3074,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 5: Separate, calm, listen to both [Response]",
+     "description": "The parent gets down to their level, lets each say what happened, and names feelings such as \"you wanted your tower\" and \"you felt scared\". Being heard cools most fights faster than judgement does."
+    },
+    {
+     "sno": 3075,
+     "age": "4–6",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Sibling rivalry cycle",
+     "subtype": "Stage 6: One-on-one time and joint tasks [Response]",
+     "description": "Each child gets a short daily time with the parent alone, and they build something together. Rivalry eases when each is sure of their own place and finds that cooperation feels good."
+    }
+   ],
+   "cluster_id": "C0357",
+   "cast": [
+    "Kunal",
+    "Mridul",
+    "Karthik"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2920,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 1: Spark over a small thing [Actor]",
+     "description": "A flatmate finds dishes piled up for the third day and mutters a sarcastic remark. The dishes are not the real issue; it is a feeling of not being respected that has been building quietly."
+    },
+    {
+     "sno": 2921,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 2: Defensive reply [Receiver]",
+     "description": "The other flatmate hears an attack on his character and answers with a list of what he has already done. He is protecting his self-image, so the complaint becomes a trial rather than a request."
+    },
+    {
+     "sno": 2922,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 3: Generalising and mind-reading [Actor]",
+     "description": "Statements become \"you just don't care\" and \"you think you are better than us\". Each person assigns motives to the other and hears them as fact, which makes any denial sound like another lie."
+    }
+   ],
+   "cluster_id": "C0358",
+   "cast": [
+    "Vaibhav",
+    "Farida",
+    "Sharmila"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2923,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 4: Peak and point of no return [Actor]",
+     "description": "A cruel remark lands on a known sore spot, such as money, family or failure. Both feel a flash of shame and anger, and some part of them knows it was too far but pride blocks taking it back."
+    },
+    {
+     "sno": 2924,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 5: Calling a time-out [Response]",
+     "description": "One person says \"I am too angry to talk well; can we continue in an hour?\" and actually returns. A stated pause with a return time is very different from storming off, which reads as punishment."
+    },
+    {
+     "sno": 2925,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Argument escalation and de-escalation",
+     "subtype": "Stage 6: Repair and one concrete agreement [Response]",
+     "description": "On returning, each restates the other's point before their own and owns their harshest words. They leave with one small practical agreement, like a rota, because a shared plan holds better than a shared feeling."
+    }
+   ],
+   "cluster_id": "C0359",
+   "cast": [
+    "Kishore",
+    "Jyoti",
+    "Sudha"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3269,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Scam victim journey",
+     "subtype": "Stage 3: Urgency and secrecy [Receiver]",
+     "description": "The victim is told to act now, tell nobody and stay on the line, with threats of arrest or loss of a rare chance. Pressure and isolation shut down the slower thinking that would spot the problem."
+    },
+    {
+     "sno": 3270,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Scam victim journey",
+     "subtype": "Stage 4: First payment and sunk cost [Receiver]",
+     "description": "After a first small transfer, the victim feels committed and pays more to recover what is already lost. The wish to avoid admitting a mistake becomes the manipulator's best tool."
+    },
+    {
+     "sno": 3271,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Scam victim journey",
+     "subtype": "Stage 5: Doubt and denial [Receiver]",
+     "description": "Inconsistencies appear, and part of the victim knows something is wrong but hopes it is not. Fear of shame, family reaction and loss of face makes it hard to tell anyone."
+    }
+   ],
+   "cluster_id": "C0360",
+   "cast": [
+    "Darshan",
+    "Nazia",
+    "Akash"
+   ]
+  }
+ ]
+}

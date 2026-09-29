@@ -1,0 +1,268 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2692,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Sharmila"
+    ],
+    "2": [
+     "Ujjwal",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Short vocal reactions",
+   "subtype": "Wow, ooh and ah in messages [Mismatch]",
+   "description": "A young adult reads wow in a text as admiration, shock or sarcasm depending on tone and emoji. Without a voice the reader can misjudge, so clear words or a follow-up call keep sarcasm from causing hurt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, surprise, hurt"
+   ]
+  },
+  {
+   "sno": 2693,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Rukmini"
+    ],
+    "2": [
+     "Deepika",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Louder, higher voice in excitement or anger [Interpreting]",
+   "description": "A young adult hears friends speak louder and higher when excited and sometimes the same when angry. Words, face and context decide; the wise response to a raised angry voice is to stay calm and step back if unsafe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, excitement, calm, trust"
+   ]
+  },
+  {
+   "sno": 2694,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Himani"
+    ],
+    "2": [
+     "Divyansh",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Varying pitch for persuasion and presentation [Regulating]",
+   "description": "A young adult varies pitch and pace to keep listeners engaged in a debate or interview, and avoids sounding flat. Natural variety builds trust, while artificial theatrics can seem insincere.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest, resentment, trust"
+   ]
+  },
+  {
+   "sno": 2695,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Nandini"
+    ],
+    "2": [
+     "Gopika",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Resonant and confident speaking voice [Expressing]",
+   "description": "A young adult in a presentation or interview who speaks with a resonant, steady voice usually signals composure, though nervous people can also sound steady. Breath and posture help build the effect honestly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety, resentment, relief from stress"
+   ]
+  },
+  {
+   "sno": 2696,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Abhinav",
+     "Imran"
+    ],
+    "2": [
+     "Disha",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Trembling voice in high-stakes talk [Interpreting]",
+   "description": "A listener hearing a trembling voice from a colleague or student may assume fear, grief, anger or excitement. The wise reading is to wait, stay warm and ask, rather than assume weakness or deception.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief, anger, fear, excitement"
+   ]
+  },
+  {
+   "sno": 2697,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Jahnavi"
+    ],
+    "2": [
+     "Tushar",
+     "Lavanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Measured pace in interviews and presentations [Regulating]",
+   "description": "A young adult in an interview or seminar who keeps a measured pace with deliberate pauses appears organized. Slowing too much may read as disinterest, so pace should fit the room and topic.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest, resentment"
+   ]
+  },
+  {
+   "sno": 2698,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Jamal",
+     "Noa"
+    ],
+    "2": [
+     "Minakshi",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Rhythm across languages and dialects [Mismatch]",
+   "description": "Speech rhythm differs across Indian languages, accents and English varieties, so a fast or sing-song rhythm may be normal for the speaker. Judging intelligence or attitude from rhythm alone is a common and unfair pitfall.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2699,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Yogesh"
+    ],
+    "2": [
+     "Vijay",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Strategic pause and long silence [Regulating]",
+   "description": "A young adult in negotiation or interview may use a brief pause to think or let a point land. A long silence can feel like pressure in some cultures and respect in others, so the setting guides use.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2700,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Deepak"
+    ],
+    "2": [
+     "Soo-ah",
+     "Nkechi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Musical vocal expression",
+   "subtype": "Chanting, devotional singing and protest songs [Mismatch]",
+   "description": "A young adult may chant or sing in devotion, a stadium or a protest for solidarity, faith or grief. The same rhythm can signal joy or anger, so context and respect for the group matter.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: joy, admiration, grief, anger"
+   ]
+  },
+  {
+   "sno": 2701,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Sumit"
+    ],
+    "2": [
+     "Gargi",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Formal introductions and self-introduction [Expressing]",
+   "description": "A young adult in an interview or new college introduces self with name, role and a short line about interests. Confident, clear greetings build trust, and norms differ across cultures for title use and eye contact.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest, trust"
+   ]
+  }
+ ]
+}

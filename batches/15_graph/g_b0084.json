@@ -1,0 +1,267 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6581,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Deciding whether to report a cheating friend",
+     "subtype": "Approach: weighing values of loyalty and honesty [Thinking]",
+     "description": "A student who saw his close friend copy in a test lists what matters, friendship, fairness to others and his own integrity, and notices the conflict is real rather than simple."
+    },
+    {
+     "sno": 6582,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Deciding whether to report a cheating friend",
+     "subtype": "Approach: talking to the friend first [Action]",
+     "description": "A teen privately tells her friend that copying worries her, asks why it happened, and gives her a chance to fix it herself, such as confessing to the teacher."
+    },
+    {
+     "sno": 6586,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Deciding whether to report a cheating friend",
+     "subtype": "Approach: staying silent to avoid conflict [Pitfall]",
+     "description": "A student tells himself it is not his business, and the friend keeps copying, gains marks over honest classmates, and the student feels uneasy each time he sees the result."
+    },
+    {
+     "sno": 6589,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Deciding whether to report a cheating friend",
+     "subtype": "Approach: reconsidering after seeing the friend's reasons [Revision]",
+     "description": "After learning that the friend was under heavy pressure from home, a teen still insists on stopping the cheating but also helps him ask for tutoring, changing how the problem is approached."
+    }
+   ],
+   "cluster_id": "C0499",
+   "cast": [
+    "Zainab",
+    "Jomon",
+    "Harsha"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6831,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Mentoring a junior",
+     "subtype": "Approach: starting with the junior's actual goal [Thinking]",
+     "description": "A final-year student asks the junior what they want, such as a first internship, and tailors advice to that goal rather than repeating what worked for themselves."
+    },
+    {
+     "sno": 6832,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Mentoring a junior",
+     "subtype": "Approach: breaking learning into small steps [Action]",
+     "description": "The mentor turns learn programming into a weekly plan of one concept, one exercise and one small program, and reviews the work with the junior every Saturday."
+    },
+    {
+     "sno": 6833,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Mentoring a junior",
+     "subtype": "Approach: giving the answer straight away [Pitfall]",
+     "description": "Wanting to be helpful, the mentor solves every problem for the junior, who becomes dependent and cannot work through a problem alone."
+    },
+    {
+     "sno": 6839,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Mentoring a junior",
+     "subtype": "Approach: recognising own limits and referring on [Revision]",
+     "description": "When the junior asks about a field the mentor does not know, the mentor says so, and introduces a senior from that field instead of pretending."
+    }
+   ],
+   "cluster_id": "C0500",
+   "cast": [
+    "Nirmala",
+    "Abhinav",
+    "Noor"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 7162,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning for a baby",
+     "subtype": "Approach: discussing timing, finances and roles with the partner [Thinking]",
+     "description": "A couple talks about when to start a family, how leave will work, who will take time off and what changes in spending. They treat it as a joint plan rather than an assumption."
+    },
+    {
+     "sno": 7163,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning for a baby",
+     "subtype": "Approach: checking employer leave policy and planning finances [Action]",
+     "description": "They read the company's maternity and paternity leave rules, estimate months of reduced income, and build a savings buffer over a year before trying."
+    },
+    {
+     "sno": 7166,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning for a baby",
+     "subtype": "Approach: assuming grandparents will handle childcare [Pitfall]",
+     "description": "The couple takes for granted that parents will move in to help. When the grandparents say their health and home make that difficult, the couple has no plan and scrambles."
+    },
+    {
+     "sno": 7170,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning for a baby",
+     "subtype": "Approach: reviewing the plan after the baby arrives [Revision]",
+     "description": "After the first month, the plan of the mother handling nights proves exhausting. They change to alternating nights and hire part-time help, and keep talking about how each is coping."
+    }
+   ],
+   "cluster_id": "C0501",
+   "cast": [
+    "Jaya",
+    "Omkar",
+    "Baljeet"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 5873,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Reaching something high",
+     "subtype": "Approach: trial and error [Action]",
+     "description": "A child drags a chair to the cupboard to reach a jar of sweets, tries standing on it, and finds it still too short. Then a stool is added on top."
+    },
+    {
+     "sno": 5874,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Reaching something high",
+     "subtype": "Approach: asking an adult [Action]",
+     "description": "A child says, \"Papa, can you get the jar down?\" and points to the shelf. Asking is quick and safe, and the child's own plan is only needed if nobody is home."
+    },
+    {
+     "sno": 5877,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Reaching something high",
+     "subtype": "Approach: magical thinking [Pitfall]",
+     "description": "A child stretches and stretches, believing that arms can grow long enough with effort. Wanting the jar overrides a plain look at the distance."
+    },
+    {
+     "sno": 5878,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Reaching something high",
+     "subtype": "Approach: noticing wobble and stopping [Revision]",
+     "description": "A stacked stool starts to wobble, and the child steps down and calls for help. Feeling the danger changes the plan from climbing to asking."
+    }
+   ],
+   "cluster_id": "C0502",
+   "cast": [
+    "Ira",
+    "Swati",
+    "Vaibhav"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 7367,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Recovering from a major work mistake",
+     "subtype": "Approach: disclosing quickly and owning it [Action]",
+     "description": "After deleting a customer table by mistake, the engineer tells the lead within minutes, explains exactly what happened and what data is affected, so the team can start recovery at once."
+    },
+    {
+     "sno": 7369,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Recovering from a major work mistake",
+     "subtype": "Approach: containing the damage first [Thinking]",
+     "description": "The employee asks what can still get worse, stops the scheduled job, restores from backup and informs affected customers, and leaves blame and analysis for after the fire is out."
+    },
+    {
+     "sno": 7368,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Recovering from a major work mistake",
+     "subtype": "Approach: hiding the mistake and hoping it goes unnoticed [Pitfall]",
+     "description": "The employee quietly patches the error and says nothing. When it appears later in an audit, the concealment damages trust far more than the original mistake would have."
+    },
+    {
+     "sno": 7375,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Recovering from a major work mistake",
+     "subtype": "Approach: rebuilding trust with small reliable deliveries [Revision]",
+     "description": "Over the next months, the employee delivers tasks on time, communicates delays early and keeps the team informed, and gradually regains bigger responsibilities."
+    }
+   ],
+   "cluster_id": "C0503",
+   "cast": [
+    "Ayesha",
+    "Thomas",
+    "Minakshi"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 5885,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Settling a quarrel",
+     "subtype": "Approach: asking an adult [Action]",
+     "description": "Two children argue about a toy car and one runs to the teacher, who listens to both and helps them agree. The adult acts as the judge."
+    },
+    {
+     "sno": 5886,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Settling a quarrel",
+     "subtype": "Approach: bargaining [Action]",
+     "description": "A child says, \"You have it now, I have it after lunch.\" Splitting the time between them ends the shouting with each getting a turn."
+    },
+    {
+     "sno": 5888,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Settling a quarrel",
+     "subtype": "Approach: ignoring [Pitfall]",
+     "description": "A child turns away and pretends the fight is not there, in the belief that it will go away. The hurt stays, and the friend is puzzled by the silence."
+    },
+    {
+     "sno": 5889,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Settling a quarrel",
+     "subtype": "Approach: copying a peer [Revision]",
+     "description": "A third child suggests tossing a coin for the toy and both accept. The first child remembers the idea and suggests it at the next quarrel."
+    }
+   ],
+   "cluster_id": "C0504",
+   "cast": [
+    "Shankar",
+    "Nikita",
+    "Dolma"
+   ]
+  }
+ ]
+}

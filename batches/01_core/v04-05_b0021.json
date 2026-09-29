@@ -1,0 +1,241 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 201,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Lavanya",
+     "Sonali"
+    ],
+    "5": [
+     "Vikas",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Inclusion",
+   "subtype": "Including Outsiders & Different Abilities",
+   "description": "Making room for new, shy or differently abled classmates.",
+   "graph_context": [
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 202,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Hana",
+     "Zeynep"
+    ],
+    "5": [
+     "Dolma",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Gender Respect",
+   "subtype": "Respectful Interaction Across Genders",
+   "description": "Practicing courtesy and boundaries without stereotyped roles or mockery.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 203,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Irawati",
+     "Payal"
+    ],
+    "5": [
+     "Anjali",
+     "Wasim"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Integrity",
+   "subtype": "Doing Right When Unobserved",
+   "description": "Being honest and admitting mistakes even without the chance of being caught."
+  },
+  {
+   "sno": 204,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Siddharth",
+     "Irfan"
+    ],
+    "5": [
+     "Anand",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Justice",
+   "subtype": "Judging Fairness of Rules & Punishments",
+   "description": "Debating whether a consequence is proportionate and fair to all."
+  },
+  {
+   "sno": 205,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Lalremsiami",
+     "Kamal"
+    ],
+    "5": [
+     "Leela",
+     "Dolma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Puberty Education",
+   "subtype": "Body Changes, Menstruation & Hygiene",
+   "description": "Understanding early puberty, privacy and hygiene without shame or misinformation.",
+   "graph_context": [
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 206,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Himani",
+     "Varun"
+    ],
+    "5": [
+     "Zubin",
+     "Zeenat"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Sports & Discipline",
+   "subtype": "Skill Practice & Sportsmanship",
+   "description": "Building skill through repeated practice and losing gracefully."
+  },
+  {
+   "sno": 207,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Farhan",
+     "Pranav"
+    ],
+    "5": [
+     "Divyansh",
+     "Sharmila"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Nutrition",
+   "subtype": "Balanced Meals & Junk-Food Awareness",
+   "description": "Linking food choices to energy, growth and health."
+  },
+  {
+   "sno": 208,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Ganga",
+     "Gautam"
+    ],
+    "5": [
+     "Sarika",
+     "Bidisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Safety",
+   "subtopic": "Emergency Skills",
+   "subtype": "Basic First Aid & Emergency Contacts",
+   "description": "Handling small injuries and knowing whom and how to call in an emergency."
+  },
+  {
+   "sno": 209,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Jatin",
+     "Pooja"
+    ],
+    "5": [
+     "Lokesh",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Safety",
+   "subtopic": "Body Safety",
+   "subtype": "Body Boundaries & Reporting Abuse",
+   "description": "Knowing that no one may touch private areas, naming trusted adults and telling until believed.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 210,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Sahil",
+     "Jasleen"
+    ],
+    "5": [
+     "Dolma",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Financial Literacy",
+   "subtopic": "Saving & Earning",
+   "subtype": "Pocket Money, Wants vs. Needs",
+   "description": "Saving toward a goal and deciding between needs and impulse wants."
+  }
+ ]
+}

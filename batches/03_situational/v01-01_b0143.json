@@ -1,0 +1,220 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1738,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Disagreement with spouse [Actor]",
+   "description": "My partner and I differ on discipline and argue in front of our child. We agree privately on a few shared rules, back each other publicly, and avoid one parent becoming the harsh one and the other the friend.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, guilt, pride, protectiveness"
+   ]
+  },
+  {
+   "sno": 1739,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Shankar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Guilt about working [Actor]",
+   "description": "I work long hours and feel guilty about missing my child's small moments. I choose a few protected times of full attention, show them love through presence, and forgive myself for a life that has real trade-offs.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, pride, protectiveness",
+    "paired view exists: Receiver (S1733)",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 1740,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Admiration [Receiver]",
+   "description": "My child looks at me as their hero and copies everything I do. I feel warm and weighed down. I stay honest about mistakes, model apology and kindness, and remember that they will one day see me as human and still love me.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, comparison, guilt, pride, protectiveness",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 1741,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Baljeet",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Nostalgia [Actor]",
+   "description": "I scroll old photos and miss my college friends who now live different lives. I message with warmth, propose a small plan, and accept that closeness changes shape; I do not demand the friendship stay as it was.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, grief, guilt, loyalty, rejection",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 1742,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Omkar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Hurt & rejection [Receiver]",
+   "description": "A close friend has stopped replying and I feel dropped and puzzled. I reach out once directly, without blame, and accept the answer, including silence; I avoid rewriting the whole friendship as fake.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, grief, guilt, loyalty",
+    "related mind states: confusion, hurt"
+   ]
+  },
+  {
+   "sno": 1743,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Guilt [Actor]",
+   "description": "I let a good friend slip away because of my busy work and marriage, and I feel guilty. A short honest message like I miss you and I am sorry works better than a long excuse; repair starts small and consistent.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, grief, loyalty, rejection",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1744,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "My friend's job, wedding, or house has moved ahead of me and I feel jealous, and I avoid them. I notice envy as information about what I want, congratulate sincerely, and do not let it quietly end the friendship.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, grief, guilt, loyalty, rejection",
+    "paired view exists: Receiver (S1745)",
+    "related mind states: envy, jealousy"
+   ]
+  },
+  {
+   "sno": 1745,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Envy [Receiver]",
+   "description": "I sense my friend has become cold since my promotion or marriage and I feel awkward and lonely. I share my life without bragging, ask about theirs, and let them feel it is still safe to be friends.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, grief, guilt, loyalty, rejection",
+    "paired view exists: Actor (S1744)",
+    "related mind states: embarrassment, envy, loneliness, trust"
+   ]
+  },
+  {
+   "sno": 1746,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Loyalty [Actor]",
+   "description": "I keep calling a friend who rarely calls back and I wonder if I am foolish. Loyalty is admirable, but I check whether effort is mutual and let friendships find their natural level without resentment.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, grief, guilt, rejection",
+    "related mind states: admiration, curiosity, awe, resentment"
+   ]
+  },
+  {
+   "sno": 1747,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Grief [Actor]",
+   "description": "A friendship ended without a fight and I feel a quiet grief no one acknowledges. I let myself mourn it, remember what it gave, and stay open to new friends without comparing them to the old.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, guilt, loyalty, rejection",
+    "related mind states: grief"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 231,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Mohit",
+     "Irfan"
+    ],
+    "5": [
+     "Jaya",
+     "Mehak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Relationships",
+   "subtopic": "Sexual Health & Consent",
+   "subtype": "Consent, Boundaries & Sexual Health Literacy",
+   "description": "Age-appropriate understanding of consent, contraception, infection prevention and respecting no.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 232,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Sunaina",
+     "Madhav"
+    ],
+    "5": [
+     "Santosh",
+     "Sudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Relationships",
+   "subtopic": "Relationship Quality",
+   "subtype": "Healthy vs. Controlling Relationship Patterns",
+   "description": "Distinguishing respect, trust and freedom from possessiveness, pressure and control.",
+   "graph_context": [
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 233,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Reena",
+     "Salma"
+    ],
+    "5": [
+     "Preeti",
+     "Vandana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Grief",
+   "subtype": "First Encounters With Loss",
+   "description": "Grieving a grandparent, pet or friend and finding ways to mourn.",
+   "graph_context": [
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 234,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Wasim",
+     "Aadhya"
+    ],
+    "5": [
+     "Hemant",
+     "Dhruv"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Solitude",
+   "subtype": "Loneliness vs. Healthy Solitude",
+   "description": "Telling being alone by choice from painful isolation and acting on it.",
+   "graph_context": [
+    "related mind states: loneliness, hurt"
+   ]
+  },
+  {
+   "sno": 235,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Deepak",
+     "Shreya"
+    ],
+    "5": [
+     "Kiran",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Mental Health",
+   "subtopic": "Mental Health Literacy",
+   "subtype": "Recognizing Distress & Seeking Help",
+   "description": "Recognizing persistent sadness, anxiety or withdrawal in self or friends and reaching out to trusted adults or professionals.",
+   "graph_context": [
+    "related mind states: sadness, anxiety, detachment, trust"
+   ]
+  },
+  {
+   "sno": 236,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Kalyani",
+     "Parul"
+    ],
+    "5": [
+     "Nazia",
+     "Ishita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Physical",
+   "subtopic": "Sleep & Recovery",
+   "subtype": "Adolescent Sleep Regulation",
+   "description": "Managing shifted body clock, late-night use and study load."
+  },
+  {
+   "sno": 237,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Lakshmi",
+     "Akash"
+    ],
+    "5": [
+     "Jomon",
+     "Aparna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Health Risk",
+   "subtopic": "Substance Risk",
+   "subtype": "Tobacco, Vaping, Alcohol & Drug Refusal",
+   "description": "Understanding risks and rehearsing refusal when offered by peers."
+  },
+  {
+   "sno": 238,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Elif",
+     "Yara"
+    ],
+    "5": [
+     "Yash",
+     "Eshaan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Vocational",
+   "subtopic": "Career Exploration",
+   "subtype": "Stream Choice, Aptitude & Family Input",
+   "description": "Matching interests and strengths to streams and careers while weighing family expectations.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 239,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Gargi",
+     "Dilnaz"
+    ],
+    "5": [
+     "Mridul",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Financial Literacy",
+   "subtopic": "Money Basics",
+   "subtype": "Digital Payments, Fraud & Budgeting",
+   "description": "Using UPI and cards safely, spotting fraud and keeping a simple budget.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 240,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Jeevan",
+     "Akash"
+    ],
+    "5": [
+     "Lindiwe",
+     "Liam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Civic & Relational",
+   "subtopic": "Political Awareness",
+   "subtype": "News, Elections & Political Claims",
+   "description": "Reading news critically and understanding how governance and voting work."
+  }
+ ]
+}

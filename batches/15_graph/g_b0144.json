@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4081,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Locus of control",
+     "subtype": "Everything is luck or teacher's mood [Actor]",
+     "description": "A child with an external locus says the teacher gave low marks and never links results with preparation; belief that outcomes come from outside reduces effort."
+    },
+    {
+     "sno": 4444,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Fate and effort together [Actor]",
+     "description": "A teenager from a traditional home believes in destiny and also studies hard, holding both without contradiction. Cultural belief in fate can bring peace after loss without removing personal responsibility."
+    }
+   ],
+   "cluster_id": "C0859",
+   "cast": [
+    "Kunal",
+    "Disha",
+    "Preeti"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4081,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Locus of control",
+     "subtype": "Everything is luck or teacher's mood [Actor]",
+     "description": "A child with an external locus says the teacher gave low marks and never links results with preparation; belief that outcomes come from outside reduces effort."
+    },
+    {
+     "sno": 4443,
+     "age": "7–12",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "External: it just happens to me [Actor]",
+     "description": "A child blames luck, teachers or the test for every result and feels there is little use in trying. Often learned from repeated experiences of not being heard, and small wins that show impact rebuild belief."
+    }
+   ],
+   "cluster_id": "C0860",
+   "cast": [
+    "Dolma",
+    "Noor",
+    "Pema"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4097,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Perfectionism",
+     "subtype": "Parent who expects top marks [Receiver]",
+     "description": "A child whose parents respond only to marks feels loved for performance and hides mistakes; the harm is less the standard than the sense that love depends on meeting it."
+    },
+    {
+     "sno": 3199,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Perfectionism and paralysis",
+     "subtype": "Stage 4: Paralysis and avoidance [Actor]",
+     "description": "Deadlines pass without a submission or a job application because nothing seems ready. Doing nothing feels safer than doing something imperfect, though it guarantees the failure the person fears."
+    }
+   ],
+   "cluster_id": "C0861",
+   "cast": [
+    "Nilesh",
+    "Aditi",
+    "Jaya"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 5010,
+     "age": "7–12",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Follow-through and finishing",
+     "subtype": "Enthusiastic start, abandoned middle [Actor]",
+     "description": "A child begins a craft kit or a diary with great excitement and drops it when the novelty fades. The joy is in beginning; the flat middle needs a tolerance for boredom that is still developing."
+    }
+   ],
+   "cluster_id": "C0862",
+   "cast": [
+    "Dilnaz",
+    "Kiran",
+    "Tenzin"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4081,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Locus of control",
+     "subtype": "Everything is luck or teacher's mood [Actor]",
+     "description": "A child with an external locus says the teacher gave low marks and never links results with preparation; belief that outcomes come from outside reduces effort."
+    },
+    {
+     "sno": 4446,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Overblaming self or others [Actor]",
+     "description": "A young adult who believes everything is their fault takes on guilt for others' choices, while another blames everyone else and never changes. Both distort; balanced view separates own part from circumstances."
+    }
+   ],
+   "cluster_id": "C0863",
+   "cast": [
+    "Asif",
+    "Shalini",
+    "Bhupen"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 2350,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Posture",
+     "subtype": "Slouching and sitting up in class [Interpreting]",
+     "description": "A schoolchild learns that teachers read upright sitting as attention and slouching as boredom. Slouching may instead mean tiredness, low mood or a comfortable way of thinking, so posture is a clue, not proof of attitude."
+    }
+   ],
+   "cluster_id": "C0864",
+   "cast": [
+    "Pranav",
+    "Vikas",
+    "Payal"
+   ]
+  }
+ ]
+}

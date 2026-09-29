@@ -1,0 +1,318 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 3940,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Mehak"
+    ],
+    "2": [
+     "Keerthana",
+     "Vishal"
+    ],
+    "3": [
+     "Gurleen",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fortune telling",
+   "subtype": "Predicting failure before trying [Actor]",
+   "description": "A teenager announces they will definitely fail the audition and does not attend; the forecast feels like knowledge and prevents any chance to disprove it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3941,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Pema"
+    ],
+    "2": [
+     "Hansa",
+     "Lavanya"
+    ],
+    "3": [
+     "Madhuri",
+     "Ankita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fortune telling",
+   "subtype": "Sure that the date will go badly [Actor]",
+   "description": "A young adult declines an invitation because they know it will be awkward and no one will like them; the prediction protects from disappointment yet quietly narrows life.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: disappointment, embarrassment"
+   ]
+  },
+  {
+   "sno": 3942,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Sarita",
+     "Aparna"
+    ],
+    "2": [
+     "Tejas",
+     "Urmila"
+    ],
+    "3": [
+     "Sunaina",
+     "Elizabeth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fortune telling",
+   "subtype": "Predicting a negative outcome [Observer]",
+   "description": "A manager hears an employee say the client will certainly reject the proposal and suggests treating it as a guess to test; results often surprise both the pessimist and the optimist.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hope, surprise"
+   ]
+  },
+  {
+   "sno": 3943,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Chaitanya",
+     "Manjula"
+    ],
+    "2": [
+     "Tenzin",
+     "Sunaina"
+    ],
+    "3": [
+     "Trisha",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fortune telling",
+   "subtype": "Running a small experiment [Response]",
+   "description": "An adult who predicts failure rates their confidence, tries a small version and compares what happened with the forecast; over time the record makes predictions more accurate and kinder.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3944,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Dhruv"
+    ],
+    "2": [
+     "Amandeep",
+     "Lalit"
+    ],
+    "3": [
+     "Afreen",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Emotional reasoning",
+   "subtype": "Feeling scared means it is dangerous [Actor]",
+   "description": "A child who feels nervous about a new swimming class insists the pool is dangerous; the strength of the feeling is taken as proof about the world.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 3945,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Payal"
+    ],
+    "2": [
+     "Pradeep",
+     "Ankita"
+    ],
+    "3": [
+     "Naveen",
+     "Asif"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Emotional reasoning",
+   "subtype": "I feel useless so I am [Actor]",
+   "description": "A teenager feels heavy and ashamed after a failed test and decides they must be worthless; the mood is treated as a fact about who they are.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3946,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Yash"
+    ],
+    "2": [
+     "Zubin",
+     "Yogesh"
+    ],
+    "3": [
+     "Alka",
+     "Damini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Emotional reasoning",
+   "subtype": "Feeling guilty so must be guilty [Actor]",
+   "description": "A student feels guilty about a friend's low mood and assumes they caused it; guilt is a feeling and is not evidence of wrongdoing, though it can point to what one values.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3947,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Eshaan"
+    ],
+    "2": [
+     "Madhuri",
+     "Manoj"
+    ],
+    "3": [
+     "Tejas",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Emotional reasoning",
+   "subtype": "Separating feeling from fact [Response]",
+   "description": "An adult tells themselves that feeling anxious about the meeting is different from the meeting going badly, and proceeds with the plan; they honour the feeling without letting it steer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3948,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Farida"
+    ],
+    "2": [
+     "Zeenat",
+     "Madhav"
+    ],
+    "3": [
+     "Ramesh",
+     "Zubin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Should statements",
+   "subtype": "Rigid rules for self [Actor]",
+   "description": "A child tells themselves they must always score top and never cry, and feels ashamed at any slip; rigid rules pile up pressure and guilt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: sadness, shame, guilt"
+   ]
+  },
+  {
+   "sno": 3949,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Hrithik",
+     "Sumit"
+    ],
+    "2": [
+     "Damini",
+     "Avni"
+    ],
+    "3": [
+     "Gautam",
+     "Uma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Should statements",
+   "subtype": "Demanding others behave [Actor]",
+   "description": "A teenager thinks parents should understand without being told and friends should always be free; when they fall short, resentment grows quicker than conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

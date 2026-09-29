@@ -1,0 +1,206 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5791,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Chaitanya"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: using the caregiver as a tool [Action]",
+   "description": "A toy car stops making its noise, so a toddler carries it to father, holds it up and says \"no.\" The caregiver is treated as the repair service.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit"
+   ]
+  },
+  {
+   "sno": 5792,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Aparna"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: imitation [Thinking]",
+   "description": "A toddler has seen mother call \"Dadi!\" when something breaks. Now a shoe strap comes loose and the toddler shouts \"Dadi\" toward the next room."
+  },
+  {
+   "sno": 5793,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Kishore"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: trying alone first [Action]",
+   "description": "A toddler shakes the silent toy, bangs it on the floor and presses the button several times. Only after none of it works does the toddler set off to find mother.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit"
+   ]
+  },
+  {
+   "sno": 5794,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Ishita"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: frustration in place [Pitfall]",
+   "description": "A teddy is wedged behind the sofa and a toddler screams from the spot, waiting. The caregiver hears the noise but cannot tell what is wrong, so help arrives late.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5795,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ines",
+     "Omar"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: leading the caregiver by hand [Revision]",
+   "description": "Mother says \"wait a minute,\" so the toddler grabs her finger and pulls her to the sofa, pointing at the teddy. Bringing the adult to the problem fixes the missing message.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit"
+   ]
+  },
+  {
+   "sno": 5796,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Leela"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fetching help for a problem",
+   "subtype": "Approach: giving up [Pitfall]",
+   "description": "The wedged teddy will not come out, so a toddler stops trying, walks away and does not tell anyone. The toy stays lost until a caregiver finds it later.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit"
+   ]
+  },
+  {
+   "sno": 5797,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Karthik"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting food when hungry",
+   "subtype": "Approach: using the caregiver as a tool [Action]",
+   "description": "A toddler brings an empty katori to mother and taps it, saying \"aur.\" Handing over the bowl says more than the word does.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, trial and error"
+   ]
+  },
+  {
+   "sno": 5798,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Nikita"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting food when hungry",
+   "subtype": "Approach: trial and error [Action]",
+   "description": "A toddler tugs at the kitchen cupboard where biscuits are kept, then at the fridge handle, then points at the counter. Each try shows what can be reached.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, delegation"
+   ]
+  },
+  {
+   "sno": 5799,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Alka"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting food when hungry",
+   "subtype": "Approach: imitation [Thinking]",
+   "description": "At mealtime a toddler copies the family, saying \"roti\" and holding out both hands. The word, learned by copying, is treated as a way to make food appear.",
+   "graph_context": [
+    "same problem, other approaches: delegation, trial and error"
+   ]
+  },
+  {
+   "sno": 5800,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Samir"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting food when hungry",
+   "subtype": "Approach: repeating what worked [Thinking]",
+   "description": "Rubbing the tummy and saying \"num\" once made grandmother bring milk. A toddler now rubs the belly whenever hungry, whether or not anyone is looking.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, delegation, trial and error"
+   ]
+  }
+ ]
+}

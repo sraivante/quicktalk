@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6011,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Sharmila",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to ride a cycle",
+   "subtype": "Approach: watching a friend who rides well and copying [Action]",
+   "description": "A girl watches how her neighbour starts, pushes off and keeps her eyes ahead. She copies the steps one by one, and later asks the friend to correct her when she goes wrong.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  },
+  {
+   "sno": 6012,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to ride a cycle",
+   "subtype": "Approach: setting small goals such as ten metres, then twenty [Revision]",
+   "description": "Feeling stuck at a few metres, a boy chalks marks on the ground and aims for ten metres, then twenty. Counting improvement shows him he is getting better even after falls.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6013,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sarita",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: repeating the list aloud again and again [Action]",
+   "description": "A girl told to bring seven items for a craft class chants them over and over on the way home. It works for a short time, but she forgets two after being interrupted by her brother.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 6014,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: making a funny sentence from the first letters [Thinking]",
+   "description": "A boy needs to remember the planets and makes a silly sentence from the starting letters. The story connects separate items so they are easier to recall in order.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice",
+    "related mind states: amusement, playfulness"
+   ]
+  },
+  {
+   "sno": 6015,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Hansa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: linking each item to a place in the house [Thinking]",
+   "description": "A child imagines a glue bottle on the door, scissors on the sofa and chart paper on the fridge. Walking through the house in her mind helps her recall each item in turn.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 6016,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: writing it down as soon as it is told [Action]",
+   "description": "A boy hears his teacher say the items needed for tomorrow and writes them on his hand-held diary at once. Writing frees his mind from holding them and he can double check later.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 6017,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Hansa",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: trusting memory and not writing it [Pitfall]",
+   "description": "A girl feels sure that she will remember four items for the school trip. By evening she recalls only three, and has to call a classmate, who is unavailable.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6018,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Noor",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: grouping items into categories [Thinking]",
+   "description": "A child sorts a shopping list into fruits, vegetables and milk products before walking into the shop. Groups mean three small lists to remember instead of one long one.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 6019,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: drawing tiny pictures next to each item [Action]",
+   "description": "A boy who dislikes writing draws a small pencil, a ruler and a bottle on a card. He looks at the picture and remembers what to pack, and it works for his younger sister too.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 6020,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Zubin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Remembering a long list",
+   "subtype": "Approach: testing himself by covering the list [Revision]",
+   "description": "After checking, a girl finds she missed two items. She covers the list and tries to say all items again, repeating until she can say them all, and then she sleeps on it.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  }
+ ]
+}

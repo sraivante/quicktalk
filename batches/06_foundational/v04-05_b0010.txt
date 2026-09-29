@@ -1,0 +1,41 @@
+STAGE: foundational
+Variant ids in this batch: 4, 5 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are named concepts from psychology, sociology or development. You may name the concept once in the passage's narrator voice only if the protagonist would plausibly know it (a student who studied it, a counsellor); otherwise show it in action. Application questions link the concept to a real choice. Keep experiments and theories described in plain language and at a human scale.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5532, "plan": {"4": "R7", "5": "R8"}, "cast": {"4": ["Mehak", "Disha"], "5": ["Kaito", "Yosef"]}, "age": "13–17", "topic": "Foundational Concepts", "subtopic": "Compersion", "subtype": "Happy for the friend chosen instead of self [Actor]", "description": "A teenager not picked for the team is truly glad for the best friend who was, and grieves a little too; mixed feelings are allowed and both are real.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26", "related mind states: joy, grief"]}
+{"sno": 5533, "plan": {"4": "R1", "5": "R2"}, "cast": {"4": ["Rukmini", "Vinita"], "5": ["Chinmay", "Karthik"]}, "age": "18–22", "topic": "Foundational Concepts", "subtopic": "Compersion", "subtype": "Delight in a partner's or friend's joy [Actor]", "description": "A young adult beams at a partner's success, even when it takes time away from them; joy in another's happiness is a sign of secure love, not lack of self.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26", "related mind states: joy, affection, trust"]}
+{"sno": 5534, "plan": {"4": "R7", "5": "R8"}, "cast": {"4": ["Anjali", "Afreen"], "5": ["Abebe", "Kofi"]}, "age": "23–26", "topic": "Foundational Concepts", "subtopic": "Compersion", "subtype": "Person whose success is celebrated feels safe [Receiver]", "description": "A colleague who shares good news and gets sincere gladness feels safe to be ambitious and open, and is likelier to return the same generosity later.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: joy, trust"]}
+{"sno": 5535, "plan": {"4": "R4", "5": "R5"}, "cast": {"4": ["Maria", "Rehana"], "5": ["Ujjwal", "Charu"]}, "age": "7–12", "topic": "Foundational Concepts", "subtopic": "Ennui", "subtype": "Restless boredom on a long afternoon [Actor]", "description": "A child sighs \"I am bored\" through a holiday afternoon, then after a while invents a game; boredom is often the doorway to imagination when nobody hurries to fill it.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26", "related mind states: boredom", "related concepts: boredom"]}
+{"sno": 5536, "plan": {"4": "R13", "5": "R14"}, "cast": {"4": ["Leela", "Vidya"], "5": ["Preeti", "Hafsa"]}, "age": "13–17", "topic": "Foundational Concepts", "subtopic": "Ennui", "subtype": "Restless emptiness with nothing to want [Actor]", "description": "A teenager with friends and games feels flat, everything seems pointless, and nothing tempts; the mind wants meaning, not just entertainment.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26", "related mind states: boredom"]}
+{"sno": 5537, "plan": {"4": "R3", "5": "R4"}, "cast": {"4": ["Zainab", "Salma"], "5": ["Harish", "Eshaan"]}, "age": "18–22", "topic": "Foundational Concepts", "subtopic": "Ennui", "subtype": "Life feels flat after a big goal is reached [Actor]", "description": "A young adult who got into their dream college finds themselves oddly hollow; a long-chased goal removed the direction it gave, leaving a quiet weariness.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 5538, "plan": {"4": "R8", "5": "R9"}, "cast": {"4": ["Rafael", "Emil"], "5": ["Ritu", "Jomon"]}, "age": "23–26", "topic": "Foundational Concepts", "subtopic": "Ennui", "subtype": "Routine job dulls everything [Actor]", "description": "A young professional moves through the same commute and tasks, not sad but grey and tired of the sameness, and drifts toward numbing habits instead of change.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: sadness, tiredness, detachment"]}
+{"sno": 5539, "plan": {"4": "R9", "5": "R10"}, "cast": {"4": ["Pema", "Deepika"], "5": ["Varun", "Jahnavi"]}, "age": "23–26", "topic": "Foundational Concepts", "subtopic": "Ennui", "subtype": "Answering ennui with meaning and, if heavy, with help [Response]", "description": "An adult tries a new skill, a service role or a change of pattern to make life richer; if the flatness becomes heavy and lasting, they talk to a doctor or counsellor rather than waiting it out.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22"]}
+{"sno": 5540, "plan": {"4": "R9", "5": "R12"}, "cast": {"4": ["Divyansh", "Neelam"], "5": ["Imran", "Jyoti"]}, "age": "4–6", "topic": "Foundational Concepts", "subtopic": "Yearning and longing", "subtype": "Missing a parent at school [Actor]", "description": "A child holds a small keepsake from home and watches the school gate at midday, aching for a parent; longing shows in going quiet, not always in tears.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26", "related mind states: nostalgia"]}
+{"sno": 5541, "plan": {"4": "R9", "5": "R10"}, "cast": {"4": ["Abhinav", "Rehana"], "5": ["Kalyani", "Kashish"]}, "age": "13–17", "topic": "Foundational Concepts", "subtopic": "Yearning and longing", "subtype": "Homesick in a hostel [Actor]", "description": "A teenager away at a residential school lies awake missing home food, sounds and the family's routines, and hides it from roommates for fear of seeming childish.", "graph_context": ["this subtopic also appears at ages: 4–6, 18–22, 23–26", "related mind states: fear, nostalgia"]}
+
+Return exactly 20 JSON Lines and nothing else.

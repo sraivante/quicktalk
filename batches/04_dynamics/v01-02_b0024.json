@@ -1,0 +1,280 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3138,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Kashish"
+    ],
+    "2": [
+     "Tejas",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 3: A cold reply, a colder one [Actor]",
+   "description": "She answers \"fine\" and he replies \"what is your problem?\" Two tired people trade short lines, each escalating in response to the tone and not to the other's actual intention.",
+   "graph_context": [
+    "previous stage: Interpretation through old hurts",
+    "next stage: Family or friends pulled in",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 3139,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Abhinav"
+    ],
+    "2": [
+     "Salma",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 4: Family or friends pulled in [Observer]",
+   "description": "She vents to her sister, who says \"he always does this\", strengthening her anger. A well-meaning listener can turn a passing quarrel into a settled verdict without hearing the other side.",
+   "graph_context": [
+    "previous stage: A cold reply, a colder one",
+    "next stage: Stop, ask, clarify",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3140,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Suraj"
+    ],
+    "2": [
+     "Neelam",
+     "Eshaan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 5: Stop, ask, clarify [Response]",
+   "description": "He calls when he steps out and says \"I was rushed and my message sounded harsh. A friend is in hospital. I am sorry.\" Explaining context and owning tone ends the loop fast.",
+   "graph_context": [
+    "previous stage: Family or friends pulled in",
+    "next stage: Agreed norms for hard topics",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3141,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Mridul"
+    ],
+    "2": [
+     "Francis",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 6: Agreed norms for hard topics [Response]",
+   "description": "They decide that anything emotional goes to a call or the evening, and that a curt text will be met with a question. Reading with generosity, and remembering the intent of a person who loves you, prevents most snowballs.",
+   "graph_context": [
+    "previous stage: Stop, ask, clarify",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3142,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Farhan"
+    ],
+    "2": [
+     "Sumit",
+     "Hafsa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 1: Shock and numbness [Observer]",
+   "description": "A teacher sees a young child return to school after a bereavement and play as if nothing happened, then cry over a broken crayon. Small children grieve in short bursts, and steady routine and simple words help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, grief, surprise, detachment"
+   ]
+  },
+  {
+   "sno": 3143,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Disha"
+    ],
+    "2": [
+     "Jin",
+     "Jamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 1: Shock and numbness [Actor]",
+   "description": "After a grandparent's death, a child seems oddly calm, asks for food or cartoons, and then goes quiet. Feeling is too big to take in at once, so the mind holds it at a distance for a while.",
+   "graph_context": [
+    "next stage: Play, questions and searching",
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: surprise, detachment, calm"
+   ]
+  },
+  {
+   "sno": 3144,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Hana",
+     "Javier"
+    ],
+    "2": [
+     "Manoj",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 2: Play, questions and searching [Actor]",
+   "description": "A grieving child asks the same questions about where the person went, acts out the funeral in play, or expects them to walk in. Repeating is how a young mind slowly makes the loss real.",
+   "graph_context": [
+    "previous stage: Shock and numbness",
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3145,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Abhinav",
+     "Zubin"
+    ],
+    "2": [
+     "Sunaina",
+     "Rafiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 2: Play, questions and searching [Observer]",
+   "description": "A parent notices the child's repeated questions and odd play and worries it is unhealthy. It is usually normal processing, and honest, short, patient answers help more than distraction or silence.",
+   "graph_context": [
+    "previous stage: Shock and numbness",
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3146,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Vaibhav"
+    ],
+    "2": [
+     "Jaya",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 3: Anger and withdrawal [Actor]",
+   "description": "A teenager who lost a parent snaps at friends, skips study and shuts the bedroom door. Beneath the anger sit fear, helplessness and the sense that the world is unfair and adults could not fix it.",
+   "graph_context": [
+    "next stage: Others move on",
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, fear, detachment"
+   ]
+  },
+  {
+   "sno": 3147,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Thomas"
+    ],
+    "2": [
+     "Dolma",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 4: Others move on [Receiver]",
+   "description": "Weeks after the rites, relatives and friends return to normal and stop mentioning the death. The bereaved teenager feels alone and even betrayed, while others quietly fear that saying the name will hurt more.",
+   "graph_context": [
+    "previous stage: Anger and withdrawal",
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: grief, fear, hurt"
+   ]
+  }
+ ]
+}

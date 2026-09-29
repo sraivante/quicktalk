@@ -1,0 +1,270 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2782,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Bhupen"
+    ],
+    "2": [
+     "Dilnaz",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Cheek movement in fatigue and stress [Regulating]",
+   "description": "An adult under stress may clench the cheeks or puff out a breath, signs of tension. Noticing these in oneself can prompt a short break, and in others gentle support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: tiredness, relief from stress"
+   ]
+  },
+  {
+   "sno": 2783,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Joseph"
+    ],
+    "2": [
+     "Saurabh",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Cheek raising as genuine warmth [Interpreting]",
+   "description": "A young adult sees raised cheeks with crinkled eyes and reads warmth, but knows some people show pleasure with little cheek movement. Baseline expression differs by person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2784,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kiran",
+     "Bidisha"
+    ],
+    "2": [
+     "Sonali",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Tightening lips in tense meetings [Regulating]",
+   "description": "A young professional tightens or presses the lips to hold back a comment, a sign of restraint. Naming the concern calmly later can be better than swallowing it every time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2785,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Shreya"
+    ],
+    "2": [
+     "Joseph",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Trembling voice and lips at emotional moments [Regulating]",
+   "description": "An adult's lips tremble when speaking about something moving, a normal sign of strong feeling. Slow breathing and a pause help, and listeners can be patient.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 2786,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Joseph"
+    ],
+    "2": [
+     "Parveen",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Jutting jaw as challenge [Interpreting]",
+   "description": "A colleague juts the jaw in a disagreement, which may signal resolve, defensiveness or fear. Staying calm and asking questions can de-escalate, and leaving is fine if it feels unsafe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear, calm, trust, determination"
+   ]
+  },
+  {
+   "sno": 2787,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Nilesh"
+    ],
+    "2": [
+     "Harish",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Tongue in cheek humour at work [Mismatch]",
+   "description": "A young professional pairs a tongue-in-cheek face with a dry remark, signalling a joke. With people who do not know them well the humour can be missed, so a smile clarifies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2788,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Aditi"
+    ],
+    "2": [
+     "Arohi",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Blank expression in exhaustion or burnout [Interpreting]",
+   "description": "A colleague with a blank face for weeks may be exhausted, low or overloaded, not uninterested. A private, kind check-in and practical help matter more than judging attitude.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: interest, tiredness"
+   ]
+  },
+  {
+   "sno": 2789,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Nilesh"
+    ],
+    "2": [
+     "Kalyani",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Tense face before difficult conversations [Regulating]",
+   "description": "An adult notices a tense, rigid face before a hard talk and softens it with slow breaths and relaxing the shoulders. A calmer face often makes the conversation easier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 2790,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Chinmay"
+    ],
+    "2": [
+     "Mohit",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Bobbing along in meetings [Regulating]",
+   "description": "A young professional nods regularly to show engagement, which can be reassuring, but constant nodding may hide disagreement. Voicing a concern respectfully is better than nodding through.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, interest"
+   ]
+  },
+  {
+   "sno": 2791,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Chetan",
+     "Keerthana"
+    ],
+    "2": [
+     "Kamal",
+     "Leela"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Bowing the head in respect and mourning [Expressing]",
+   "description": "An adult bows the head at a funeral, prayer or a formal greeting to show respect or grief. The meaning shifts with setting and tradition, and observers follow local custom.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, grief"
+   ]
+  }
+ ]
+}

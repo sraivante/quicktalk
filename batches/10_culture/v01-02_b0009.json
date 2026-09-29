@@ -1,0 +1,264 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4852,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Rekha"
+    ],
+    "2": [
+     "Kunal",
+     "Mahima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Gender roles, expectations and fairness",
+   "subtype": "Sharing home work [Response]",
+   "description": "A young couple divides cooking, care and money by ability and time rather than by gender. Fairness needs regular talk, and elders may need gentle patience as they adjust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4853,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nandini",
+     "Pankaj"
+    ],
+    "2": [
+     "Sunaina",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Gender roles, expectations and fairness",
+   "subtype": "Harassment and public space [Receiver]",
+   "description": "A young woman is stared at or followed on a road and learns to plan her routes. The fault lies with the harasser; bystanders can speak up, and she can report and seek help without being blamed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4854,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Akash"
+    ],
+    "2": [
+     "Aadhya",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Gender roles, expectations and fairness",
+   "subtype": "Men as allies [Observer]",
+   "description": "A young man hears a friend joke about women drivers or rape and decides whether to laugh or object. Speaking up calmly in the moment shifts what a group will accept.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement, calm"
+   ]
+  },
+  {
+   "sno": 4855,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Lalremsiami"
+    ],
+    "2": [
+     "Anirban",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Noticing difference [Observer]",
+   "description": "A child notices which children sit apart, whose parents work in the house and whose name gets teased. Children see difference early; how adults explain it shapes fairness or prejudice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4856,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Tuan",
+     "Anders"
+    ],
+    "2": [
+     "Sunaina",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Repeating adult talk [Actor]",
+   "description": "A child repeats a caste or class insult heard at home without grasping its weight. Calm correction that names the hurt and explains that people are equal works better than shouting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: calm, hurt"
+   ]
+  },
+  {
+   "sno": 4857,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Mridul"
+    ],
+    "2": [
+     "Raghav",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Being treated as lesser [Receiver]",
+   "description": "A teenager is mocked for surname, dress or family work, or denied a seat or invitation. The wound is real and lasting; being believed and supported by teachers and peers is vital.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4858,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Eshaan"
+    ],
+    "2": [
+     "Lalit",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Privilege unseen [Actor]",
+   "description": "A teenager from a comfortable background does not notice that their ease comes with advantages others do not have. Learning to see it need not bring guilt, only greater fairness and thankfulness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: gratitude, guilt"
+   ]
+  },
+  {
+   "sno": 4859,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Seema"
+    ],
+    "2": [
+     "Tomas",
+     "Gabriel"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Reservation debates [Observer]",
+   "description": "A young adult hears heated arguments over quotas and merit, and feels drawn to angry slogans. Listening to lived experience and to data, and staying respectful, is wiser than picking a tribe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration, anger"
+   ]
+  },
+  {
+   "sno": 4860,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Binita"
+    ],
+    "2": [
+     "Anirban",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Hidden discrimination in work and housing [Receiver]",
+   "description": "A young adult finds that a landlord or a hiring panel asks about surname, food or region before deciding. Naming this as discrimination, documenting it and seeking allies or legal help is a mature response.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4861,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Jyoti"
+    ],
+    "2": [
+     "Ankita",
+     "Sabina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Caste and class awareness, discrimination recognition and fair conduct",
+   "subtype": "Treating domestic workers fairly [Response]",
+   "description": "A young adult pays on time, offers dignity, uses the same cups and greets the helper as a person, not a servant. Small daily conduct is where class prejudice either continues or ends.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

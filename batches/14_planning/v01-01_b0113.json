@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6881,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Sharmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: decide a personal rule that only diversified index-style options are used [Thinking]",
+   "description": "The person writes a short investing policy: small regular amounts, only regulated products, nothing that promises fixed high returns. A pre-set rule removes the need to judge each pitch in the moment.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, inversion"
+   ]
+  },
+  {
+   "sno": 6882,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: trust a persuasive relative's tip without checking [Pitfall]",
+   "description": "A cousin, sincere but misled, recommends a scheme that pays for recruiting others. Trust in the person is confused with trust in the scheme, and the student nearly joins.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, inversion",
+    "related mind states: confusion, trust"
+   ]
+  },
+  {
+   "sno": 6883,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: learn the basics of returns and risk first [Thinking]",
+   "description": "The student reads a beginner guide from a regulator's investor education site, and learns that higher returns carry higher risk. Basic knowledge makes false promises easier to spot.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, inversion"
+   ]
+  },
+  {
+   "sno": 6884,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Deepak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: sort out runway with a cash and expense count [Thinking]",
+   "description": "After a layoff at a startup, the employee counts savings, essential monthly costs and expected severance to see how many months of runway exist. The number turns a vague fear into a bounded problem.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning, lateral thinking, negotiation",
+    "related mind states: fear, detachment"
+   ]
+  },
+  {
+   "sno": 6885,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: cut non-essential costs and pause loan EMIs by talking to lenders [Action]",
+   "description": "The person cancels subscriptions, moves to a cheaper phone plan and calls lenders about temporary relief on payments. Reducing outflow buys time to search without panic.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning, lateral thinking, negotiation",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 6886,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Zeenat",
+     "Ganga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: take the first offer accepted out of panic [Pitfall]",
+   "description": "Fearing the gap, the employee accepts a role with lower pay and a poor fit without asking about terms. Within three months the person is looking again, showing how fear can override checking the match.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning, lateral thinking, negotiation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6887,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Harsha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: structured job search with weekly targets [Action]",
+   "description": "The employee sets a weekly plan: update the CV, apply to ten roles, message five former colleagues and practice one mock interview. A routine gives a sense of progress even when replies are slow.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, lateral thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 6888,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: hide the news from family to avoid worry [Pitfall]",
+   "description": "Ashamed, the person continues leaving home each morning and tells no one. The secrecy adds stress and cuts off leads, advice and emotional support that relatives could have offered.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, emotion-aware planning, forward planning, lateral thinking, negotiation",
+    "related mind states: anxiety, shame"
+   ]
+  },
+  {
+   "sno": 6889,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Avni",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: reframe the layoff as a chance to upskill [Thinking]",
+   "description": "The person asks what the market values, picks a cloud certification and a part-time freelance gig to keep income coming. Reframing does not remove worry, but it directs energy to steps that add to future options.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning, negotiation",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6890,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Rafiq"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden job loss",
+   "subtype": "Approach: seek support from a peer network and a counsellor [Action]",
+   "description": "The person joins an alumni group of laid-off colleagues, shares openings and mock-interview time, and speaks to a counsellor when the mood is low. Support is treated as part of the plan.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, forward planning, lateral thinking, negotiation"
+   ]
+  }
+ ]
+}

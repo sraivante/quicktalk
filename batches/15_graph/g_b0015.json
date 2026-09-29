@@ -1,0 +1,267 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1281,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Reporting wrongdoing at school",
+     "subtype": "Self × Guilt [Actor]",
+     "description": "I stayed quiet earlier and someone got hurt. Wise: guilt shows conscience; act now, apologise to the person, and speak sooner next time."
+    },
+    {
+     "sno": 1276,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Reporting wrongdoing at school",
+     "subtype": "Teacher × Trust [Actor]",
+     "description": "I report to a teacher I trust that someone is being harassed. Wise: give facts, ask for confidentiality, and follow up; don't take the law into my own hands."
+    },
+    {
+     "sno": 1277,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Reporting wrongdoing at school",
+     "subtype": "Institution × Betrayal [Receiver]",
+     "description": "I reported, but the school ignored it or exposed me. I feel betrayed. Wise: document, escalate to the principal, board, parents or helpline, and keep myself safe."
+    },
+    {
+     "sno": 1275,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Reporting wrongdoing at school",
+     "subtype": "Peer group × Exclusion [Receiver]",
+     "description": "After I reported a wrong, friends call me a snitch and freeze me out. Wise: hurt is real; distinguish telling to protect from telling to punish, and find allies."
+    }
+   ],
+   "cluster_id": "C0085",
+   "cast": [
+    "Rafiq",
+    "Pooja",
+    "Vijay"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 592,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Safety rules",
+     "subtype": "Parent × Respect [Actor]",
+     "description": "I hold my parent's hand crossing the road and stop at the red light. I feel proud when I follow the rule. Wise adults explain why in simple words and model the rule themselves."
+    },
+    {
+     "sno": 593,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Safety rules",
+     "subtype": "Self × Curiosity [Actor]",
+     "description": "I want to climb the wall, touch the hot pot or run ahead. My curiosity is strong and I do not judge danger well. Wise adults set clear firm safety limits and give safe ways to explore and be brave."
+    },
+    {
+     "sno": 590,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Safety rules",
+     "subtype": "Parent × Trust [Actor]",
+     "description": "I know I can tell Mummy anything, even a secret someone asked me to keep. I feel safe. A wise parent says \"no adult should ask you to keep a secret from us\". Trust to tell is my best protection."
+    },
+    {
+     "sno": 591,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Safety rules",
+     "subtype": "Adult × Coercion [Receiver]",
+     "description": "An adult touches me in a way that feels wrong and says \"don't tell\". I feel frightened and confused. It is never my fault. Wise action: tell a trusted grown-up right away, and keep telling until someone helps."
+    }
+   ],
+   "cluster_id": "C0086",
+   "cast": [
+    "Eshaan",
+    "Neelam",
+    "Ira"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 781,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Clique excludes me",
+     "subtype": "Former friend × Betrayal [Receiver]",
+     "description": "My friend joined the clique and dropped me. I feel betrayed and angry. I let myself feel it, tell someone and avoid revenge. Perhaps she feels torn too. I can leave the door open and protect myself."
+    },
+    {
+     "sno": 780,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Clique excludes me",
+     "subtype": "Group × Acceptance [Actor]",
+     "description": "I stop chasing the popular group and enjoy the two friends who like me. Smaller friendship circles can be deeper. Acceptance is not defeat; it frees energy for real bonds."
+    },
+    {
+     "sno": 776,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Clique excludes me",
+     "subtype": "Group × Rejection [Receiver]",
+     "description": "A group of girls says there is no place for me at their table. It hurts deeply. This says more about them than me. I find one kind classmate, join a club, and tell a trusted adult if it continues."
+    },
+    {
+     "sno": 777,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Clique excludes me",
+     "subtype": "Group × Envy [Actor]",
+     "description": "I envy the popular group and want to be one of them. Wanting belonging is normal. But if they ask me to be cruel or change myself, the price is too high. Real friends like me as I am."
+    }
+   ],
+   "cluster_id": "C0087",
+   "cast": [
+    "Gurpreet",
+    "Sarika",
+    "Harsha"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1500,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Abusive employer at work",
+     "subtype": "Boss × Loyalty [Actor]",
+     "description": "He once helped me get in, so I keep excusing how he treats me. Gratitude and abuse mix. Wise: I can be thankful for the past and still refuse the present treatment. Harmful: treating loyalty as a debt with no limit."
+    },
+    {
+     "sno": 1497,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Abusive employer at work",
+     "subtype": "Boss × Humiliation [Receiver]",
+     "description": "My boss mocks me in front of the team and calls it \"directness\". I feel small, hot-faced and frozen. Wise: it is his conduct, not proof I am worthless; note dates, talk to a trusted senior or HR, and start quietly building exits."
+    },
+    {
+     "sno": 1503,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Abusive employer at work",
+     "subtype": "Boss × Manipulation [Receiver]",
+     "description": "He alternates praise and threats and says \"nobody else would hire you\". I feel dizzy and dependent. Wise: recognise the pattern, test his claim by applying elsewhere, and lean on people outside work."
+    },
+    {
+     "sno": 1502,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Abusive employer at work",
+     "subtype": "Colleague × Trust [Actor]",
+     "description": "A coworker admits he faces the same treatment, and we quietly compare notes. I feel relief that it is not just me. Wise: share facts, not gossip; support each other without pulling anyone into a risky move."
+    }
+   ],
+   "cluster_id": "C0088",
+   "cast": [
+    "Dilnaz",
+    "Vikas",
+    "Bhupen"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1543,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Get-rich-quick investing",
+     "subtype": "Influencer × Manipulation [Receiver]",
+     "description": "Countdown timers, \"only 5 seats\" and screenshots of profits push me to hurry. Wise: urgency is a sales tool; slow down, read the risks, and never invest money I cannot afford to lose."
+    },
+    {
+     "sno": 1544,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Get-rich-quick investing",
+     "subtype": "Friend × Envy [Actor]",
+     "description": "My friend doubled money on a hot tip, and I feel left behind. Wise: survivor stories hide the losers; learn basics like index funds, diversification and time. Harmful: chasing his win with borrowed money."
+    },
+    {
+     "sno": 1542,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Get-rich-quick investing",
+     "subtype": "Influencer × Admiration [Actor]",
+     "description": "A finance influencer shows luxury cars and says his course changed his life. I feel drawn in. Wise: ask how he actually earns, check registration and track record. Harmful: buying a dream instead of evidence."
+    },
+    {
+     "sno": 1547,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Get-rich-quick investing",
+     "subtype": "Self × Shame [Actor]",
+     "description": "I lost most of my savings on a tip and feel foolish. Wise: accept the cost, stop trying to win it back, write the lesson, and rebuild slowly. Harmful: another risky bet to erase the loss."
+    }
+   ],
+   "cluster_id": "C0089",
+   "cast": [
+    "Reena",
+    "Naveen",
+    "Lakshmi"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1731,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Becoming a parent",
+     "subtype": "Child × Anxiety about adequacy [Actor]",
+     "description": "I compare my parenting with relatives and social media and feel I am never enough. I remember children need steady, loving, imperfect parents, not perfect ones, and I trust simple routines and my pediatrician."
+    },
+    {
+     "sno": 1725,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Becoming a parent",
+     "subtype": "Child × Protectiveness [Actor]",
+     "description": "I feel a fierce need to shield my baby from every harm. This love is natural; wisdom is to keep the child safe without letting my fear steal their freedom and confidence as they grow."
+    },
+    {
+     "sno": 414,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Becoming a parent",
+     "subtype": "Child × Unconditional love",
+     "description": "Experiences intense love and fear together; learns to guide rather than control, and to repair after losing patience."
+    },
+    {
+     "sno": 415,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Becoming a parent",
+     "subtype": "Child × Anger & guilt",
+     "description": "Snaps at the child and feels guilty; models apology and self-regulation, which teaches more than perfection."
+    }
+   ],
+   "cluster_id": "C0090",
+   "cast": [
+    "Pallavi",
+    "Noor",
+    "Yogesh"
+   ]
+  }
+ ]
+}

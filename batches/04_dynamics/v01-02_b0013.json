@@ -1,0 +1,286 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3028,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Sonali"
+    ],
+    "2": [
+     "Omkar",
+     "Dilnaz"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 1: Comparison with a rival [Actor]",
+   "description": "A young woman notices her partner praising a colleague's talent and feels small. Jealousy is often a comparison in disguise, where she measures herself and finds herself short.",
+   "graph_context": [
+    "next stage: Interpreting neutral events",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 3029,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Vaibhav",
+     "Zainab"
+    ],
+    "2": [
+     "Kishore",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 2: Interpreting neutral events [Actor]",
+   "description": "A slow reply, a like on a photo or a night out becomes evidence in her mind. Once suspicious, the brain notices only what confirms the fear and ignores the many ordinary facts against it.",
+   "graph_context": [
+    "previous stage: Comparison with a rival",
+    "next stage: Testing and provoking",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear, doubt"
+   ]
+  },
+  {
+   "sno": 3030,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Tariq",
+     "Daniel"
+    ],
+    "2": [
+     "Himani",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 3: Testing and provoking [Actor]",
+   "description": "She makes remarks that are half jokes, pulls away to see whether he chases, and sometimes checks his phone. Such tests rarely reassure; they wear both people down and can make the feared outcome real.",
+   "graph_context": [
+    "previous stage: Interpreting neutral events",
+    "next stage: Resentment and defensiveness",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3031,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Jaya"
+    ],
+    "2": [
+     "Rehana",
+     "Vinita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 4: Resentment and defensiveness [Receiver]",
+   "description": "He feels distrusted for nothing and starts to keep more private space, which she reads as proof of hiding. The spiral now feeds itself, with each person's protection confirming the other's story.",
+   "graph_context": [
+    "previous stage: Testing and provoking",
+    "next stage: Owning the feeling without accusing",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3032,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Raghav"
+    ],
+    "2": [
+     "Vidya",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 5: Owning the feeling without accusing [Response]",
+   "description": "She says \"I feel insecure when this happens, and I know it is mine to work on. I would like your reassurance, but I will not demand proof.\" Feelings shared without blame invite care.",
+   "graph_context": [
+    "previous stage: Resentment and defensiveness",
+    "next stage: Building inner security",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: trust, insecurity"
+   ]
+  },
+  {
+   "sno": 3033,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Kavitha"
+    ],
+    "2": [
+     "Sonali",
+     "Neelam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 6: Building inner security [Response]",
+   "description": "She works on her own worth through friends, interests and if needed a counsellor, while he is open and consistent. Trust grows from both, and jealousy that persists despite reassurance is a reason to seek support.",
+   "graph_context": [
+    "previous stage: Owning the feeling without accusing",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: interest, jealousy, trust"
+   ]
+  },
+  {
+   "sno": 3034,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Kunal"
+    ],
+    "2": [
+     "Jagdish",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 1: The juicy piece of news [Actor]",
+   "description": "A child sees a classmate crying near the office and hears a fragment about her family. Feeling important for knowing something others do not, she is eager to tell it.",
+   "graph_context": [
+    "next stage: First retelling and embellishing",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: sadness, excitement"
+   ]
+  },
+  {
+   "sno": 3035,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Jagdish"
+    ],
+    "2": [
+     "Gopika",
+     "Thomas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 2: First retelling and embellishing [Actor]",
+   "description": "She tells her best friend, adding a detail to make it more interesting. Children often mix what they saw with what they guessed, and the guess sounds truer each time it is told.",
+   "graph_context": [
+    "previous stage: The juicy piece of news",
+    "next stage: Spreading and secret-swearing",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 3036,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Tejas"
+    ],
+    "2": [
+     "Aparna",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 3: Spreading and secret-swearing [Observer]",
+   "description": "The story travels in whispers with \"do not tell anyone\". A listener joins in to feel part of the group, and repeating it becomes a way of belonging.",
+   "graph_context": [
+    "previous stage: First retelling and embellishing",
+    "next stage: The target finds out",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 3037,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Minakshi"
+    ],
+    "2": [
+     "Kofi",
+     "Gabriel"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 4: The target finds out [Receiver]",
+   "description": "The girl notices stares and giggles, learns what is being said and feels shame and anger. She wants to hide or hit back, and her confusion is greater because the story is partly false.",
+   "graph_context": [
+    "previous stage: Spreading and secret-swearing",
+    "next stage: A bystander stops the chain",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: amusement, anger, shame, confusion"
+   ]
+  }
+ ]
+}

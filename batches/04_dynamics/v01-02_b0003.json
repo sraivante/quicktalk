@@ -1,0 +1,286 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2928,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Sami",
+     "Zanele"
+    ],
+    "2": [
+     "Usha",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 3: Feeling flooded and withdrawing [Receiver]",
+   "description": "He hears criticism and demand, feels overwhelmed and goes quiet, plugs in earphones or leaves. He thinks he is avoiding a fight; she experiences it as being abandoned.",
+   "graph_context": [
+    "previous stage: Pursuit",
+    "next stage: Intensified pursuit",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 2929,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Tejas"
+    ],
+    "2": [
+     "Shalini",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 4: Intensified pursuit [Actor]",
+   "description": "His silence confirms her fear, so she pushes harder with longer texts, tears or accusations. The louder the pursuer, the further the withdrawer retreats, and each is sure the other started the loop.",
+   "graph_context": [
+    "previous stage: Feeling flooded and withdrawing",
+    "next stage: Seeing the loop, not the villain",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, detachment"
+   ]
+  },
+  {
+   "sno": 2930,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Shankar"
+    ],
+    "2": [
+     "Chandrika",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 5: Seeing the loop, not the villain [Response]",
+   "description": "In a calm moment they name the pattern together: \"when I press, you go quiet, and when you go quiet, I press.\" The shift is treating the cycle as the enemy instead of each other.",
+   "graph_context": [
+    "previous stage: Intensified pursuit",
+    "next stage: Softer ask and staying present",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2931,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Vishal"
+    ],
+    "2": [
+     "Irawati",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 6: Softer ask and staying present [Response]",
+   "description": "She says \"I miss you and I am scared\" rather than \"you never talk\"; he says \"I need twenty minutes but I will come back\" and does. Vulnerability replaces criticism, and reliability replaces silence.",
+   "graph_context": [
+    "previous stage: Seeing the loop, not the villain",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, resentment"
+   ]
+  },
+  {
+   "sno": 2932,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Jagdish"
+    ],
+    "2": [
+     "Gopika",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 1: Work stress and quiet distance [Receiver]",
+   "description": "A partner returns exhausted from a demanding job and wants only quiet. He does not intend rejection, but his partner reads the flat evenings as a sign that her presence no longer matters.",
+   "graph_context": [
+    "next stage: Bids for attention",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 2933,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Eshaan"
+    ],
+    "2": [
+     "Aadhya",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 2: Bids for attention [Actor]",
+   "description": "She offers small bids: a joke, a question, a hand on his shoulder. When a bid is missed she feels a small sting, and after enough missed bids the requests turn into complaints.",
+   "graph_context": [
+    "previous stage: Work stress and quiet distance",
+    "next stage: Retreat under criticism",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 2934,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Kiran"
+    ],
+    "2": [
+     "Arohi",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 3: Retreat under criticism [Actor]",
+   "description": "Hearing \"you are never here\" he feels like a failure at both work and home, so he shuts down, works late or scrolls his phone. Avoidance protects him from feeling inadequate.",
+   "graph_context": [
+    "previous stage: Bids for attention",
+    "next stage: Resentment on both sides",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: insecurity",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 2935,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Usha"
+    ],
+    "2": [
+     "Anirban",
+     "Jeevan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 4: Resentment on both sides [Actor]",
+   "description": "She feels lonely and unchosen; he feels nagged and never enough. Each keeps a private story in which they are the one trying, and generosity toward the other grows thinner.",
+   "graph_context": [
+    "previous stage: Retreat under criticism",
+    "next stage: Third-party view",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: loneliness, resentment"
+   ]
+  },
+  {
+   "sno": 2936,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Yosef",
+     "Daniel"
+    ],
+    "2": [
+     "Zubin",
+     "Jahnavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 5: Third-party view [Observer]",
+   "description": "A close friend notices both are lonely and hurt, not uncaring. She gently tells each what she sees in the other, without taking sides, which lets both stop hearing the other as an enemy.",
+   "graph_context": [
+    "previous stage: Resentment on both sides",
+    "next stage: Scheduled closeness and honest limits",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: loneliness, hurt"
+   ]
+  },
+  {
+   "sno": 2937,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Thabo",
+     "Bao"
+    ],
+    "2": [
+     "Jasleen",
+     "Sarika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 6: Scheduled closeness and honest limits [Response]",
+   "description": "They agree on a regular unhurried time and a clear way for him to say \"I am spent, give me an hour, then I am yours\". The pursuer gets predictability and the withdrawer gets space without guilt.",
+   "graph_context": [
+    "previous stage: Third-party view",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: guilt, detachment"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2452,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Aparna"
+    ],
+    "2": [
+     "Sonali",
+     "Deepika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Ashamed [Expressing]",
+   "description": "A child humiliated by failure may hide, go silent or say they are stupid. Shame targets the self, so adults separate the person from the act and offer safety.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shame, humiliation, trust"
+   ]
+  },
+  {
+   "sno": 2453,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Thomas"
+    ],
+    "2": [
+     "Vandana",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Guilty [Expressing]",
+   "description": "A school-age child who broke a rule may avoid eye contact, over-explain or confess. Guilt is about an action and can lead to repair, and adults should keep it proportionate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 2454,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Vinita"
+    ],
+    "2": [
+     "Pankaj",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Pleading [Expressing]",
+   "description": "A child begs with please, big eyes and a soft voice for something wanted. Pleading is a request for mercy, and adults can hear the need while still holding a fair limit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2455,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Yamini"
+    ],
+    "2": [
+     "Amandeep",
+     "Aadhya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Reassuring [Expressing]",
+   "description": "A child pats a friend, says it is okay or stays close after a fall. Reassurance works when it matches the friend's need, and empty promises should be avoided.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2456,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Saurabh"
+    ],
+    "2": [
+     "Valentina",
+     "Sami"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Confused [Expressing]",
+   "description": "A child stares blankly, fidgets or gives wrong answers when instructions are unclear. Confusion may be hidden by nodding, so asking them to explain back checks understanding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2457,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Pankaj",
+     "Omkar"
+    ],
+    "2": [
+     "Rekha",
+     "Minakshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Skeptical [Expressing]",
+   "description": "A child says really or how do you know when a claim sounds off. Healthy skepticism grows with learning to check sources and to accept good evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 2458,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Sonali"
+    ],
+    "2": [
+     "Mehak",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Thoughtful [Expressing]",
+   "description": "A child goes quiet, looks away or taps a chin while working out an answer. Silence often means thinking, so waiting a few extra seconds lets the child finish.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2459,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Kamal"
+    ],
+    "2": [
+     "Farhan",
+     "Yash"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Apprehensive [Expressing]",
+   "description": "A child hangs back before a new class, a doctor visit or a match. Apprehension is a cautious pause and eases with preview, practice and a supportive adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2460,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Tenzin"
+    ],
+    "2": [
+     "Noor",
+     "Irawati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Relieved [Expressing]",
+   "description": "A child exhales, slumps or laughs after a scary test or a lost item is found. Relief follows tension, and the physical drop may look like tiredness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, relief, tiredness"
+   ]
+  },
+  {
+   "sno": 2461,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Yusuf"
+    ],
+    "2": [
+     "Minakshi",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Worried [Expressing]",
+   "description": "A school-age child asks what if questions, has stomach aches or cannot settle before a test. Worry shows as body signs, and listening and a simple plan help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  }
+ ]
+}

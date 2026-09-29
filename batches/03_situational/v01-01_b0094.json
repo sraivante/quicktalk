@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1248,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Chinmay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Peer × Class contempt [Actor]",
+   "description": "I look down on classmates who are poorer or on scholarships. Wise: notice how privilege shapes me and treat people by who they are.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, loyalty, prejudice, shame",
+    "related mind states: contempt"
+   ]
+  },
+  {
+   "sno": 1249,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Self × Shame [Receiver]",
+   "description": "I am ashamed of my parents' job or our home when friends visit. Wise: the shame is learned; dignity of work is real, and true friends care about me, not the house.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, loyalty, prejudice",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 1250,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Parent × Worry [Actor]",
+   "description": "I overhear my parents fight about debts and fees. I feel scared and guilty for costing money. Wise: ask what is happening, offer help within my role, and remember I am a child, not the fixer.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, indebtedness, pride, shame",
+    "related mind states: fear, anxiety, guilt"
+   ]
+  },
+  {
+   "sno": 1251,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "My parent hides the money problem to protect me. I sense it anyway. Wise: say kindly that I can handle honesty, and adjust my asks without blaming them.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, indebtedness, shame",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 1252,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "Friends have new phones and trips while I can't. I feel bitter. Wise: acknowledge the feeling, focus on what I have, and avoid pretending or borrowing to keep up.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, fear, indebtedness, pride, shame",
+    "related mind states: envy, resentment"
+   ]
+  },
+  {
+   "sno": 1253,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Gargi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Self × Responsibility [Actor]",
+   "description": "I consider working part-time or dropping studies to help. Wise: discuss with family and a teacher; look for scholarships and small safe earning, keeping education first.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, indebtedness, pride, shame",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1254,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Peer × Shame [Receiver]",
+   "description": "A classmate teases me about my second-hand books or uniform. Wise: dignity does not depend on brands; reply calmly, tell a teacher if persistent.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, indebtedness, pride",
+    "related mind states: shame, calm"
+   ]
+  },
+  {
+   "sno": 1255,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Online stranger × Exploitation [Receiver]",
+   "description": "Ads promise quick money through betting, trading apps or fake jobs. Recognise it: get-rich-quick offers target teens and families in need. Ask an adult and never send money.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, fear, indebtedness, pride, shame",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1256,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Relative × Indebtedness [Receiver]",
+   "description": "A relative pays my fees and reminds us of it. I feel gratitude and humiliation. Wise: thank them sincerely, plan to give back one day, and gently ask my parents to set boundaries.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, pride, shame",
+    "related mind states: gratitude, humiliation"
+   ]
+  },
+  {
+   "sno": 1257,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Chinmay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money trouble",
+   "subtype": "Self × Ambition [Actor]",
+   "description": "Money stress fuels my drive to succeed. Wise: use it, and don't let it push me into hating my family or myself for being poor.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, indebtedness, pride, shame"
+   ]
+  }
+ ]
+}

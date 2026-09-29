@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5971,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: making many complicated rules before playing [Pitfall]",
+   "description": "A boy writes twenty rules on paper before anyone plays. His friends lose interest while listening, and forget half the rules, and they drift off to play something else.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5972,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: changing rules in the middle to win [Pitfall]",
+   "description": "A child keeps adding new rules whenever he is about to lose. The others feel cheated and leave, teaching him a game is only fun when rules stay fixed while playing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5973,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Suraj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: agreeing rules together before starting [Action]",
+   "description": "Before the game, the group sits in a circle and each child suggests one rule. They vote on any disagreement and write the final list on a chart so nobody argues later.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure"
+   ]
+  },
+  {
+   "sno": 5974,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: adapting the game for the youngest player [Revision]",
+   "description": "A six-year-old cousin keeps getting out first and starts to cry. The older children add a safe zone where little ones cannot be caught, so everybody can stay in the game.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure",
+    "related mind states: sadness, trust"
+   ]
+  },
+  {
+   "sno": 5975,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Nazia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: thinking what would spoil the game and blocking it [Thinking]",
+   "description": "A girl asks what could make this unfair or boring. They realise hiding places make the game endless, so they fix a two-minute limit and mark the boundary with chalk.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure"
+   ]
+  },
+  {
+   "sno": 5976,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: using scraps to build the game pieces [Action]",
+   "description": "With no board game at hand, children make cards from cut cereal boxes and use bottle caps as tokens. Working with what they have, they invent a game about travelling across India.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure"
+   ]
+  },
+  {
+   "sno": 5977,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: letting the loudest member decide [Pitfall]",
+   "description": "In a group of four making a chart on the solar system, one boy insists on his design and others stay silent. The quiet ones lose interest and their ideas, such as adding moons, never appear.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5978,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: listing everyone's ideas and voting [Thinking]",
+   "description": "The group writes each child's idea on a strip of paper and each gets two votes. Voting gives everyone a say, though the losing idea's owner may feel a little disappointed.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 5979,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: mixing two ideas into one plan [Thinking]",
+   "description": "Two children want a model and two want a poster. They decide to make a poster with a small moving model attached, so both groups keep the part they care about.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice"
+   ]
+  },
+  {
+   "sno": 5980,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Jeevan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: dividing jobs by what each person is good at [Action]",
+   "description": "The group gives drawing to Meera, writing to Aman, cutting and pasting to Riya and presenting to Karan. Because each does what they enjoy, the work moves faster and with less quarrelling.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

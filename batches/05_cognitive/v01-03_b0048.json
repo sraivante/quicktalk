@@ -1,0 +1,318 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 4040,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Gautam"
+    ],
+    "2": [
+     "Vaibhav",
+     "Damini"
+    ],
+    "3": [
+     "Suraj",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Building inner approval [Response]",
+   "description": "An adult asks whether the choice would make them proud even if nobody clapped and notes their own values before seeking reactions; inner steadiness does not remove the wish for approval but lowers its grip.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4041,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Seema"
+    ],
+    "2": [
+     "Parveen",
+     "Alka"
+    ],
+    "3": [
+     "Gargi",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Tired after a hard effort [Actor]",
+   "description": "A child who worked at difficult sums for an hour finds it harder to resist snacks and picks fights; mental fatigue seems to reduce patience, though the science of a single fuel tank is contested.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4042,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Maria"
+    ],
+    "2": [
+     "Abhinav",
+     "Nilesh"
+    ],
+    "3": [
+     "Nikita",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Skeptic of the fuel tank idea [Observer]",
+   "description": "A psychology student learns that large replications failed to confirm strong depletion effects and that beliefs about tiredness may matter; tiredness and low motivation are real, but the mechanism is uncertain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: doubt, tiredness"
+   ]
+  },
+  {
+   "sno": 4043,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Madhuri",
+     "Mohit"
+    ],
+    "2": [
+     "Jeevan",
+     "Kashish"
+    ],
+    "3": [
+     "Eshaan",
+     "Rehana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Decision fatigue at day's end [Actor]",
+   "description": "An adult who made many choices at work orders takeaway and skips the workout; whether the cause is depletion, boredom or shifting priorities, doing hard things earlier and lowering friction helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: boredom, tiredness",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 4044,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Pallavi"
+    ],
+    "2": [
+     "Salma",
+     "Shreya"
+    ],
+    "3": [
+     "Nirmala",
+     "Madhuri"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Planning around energy [Response]",
+   "description": "An adult places the most important task at their best time of day and reduces evening choices by preparing ahead; respecting limits is smarter than blaming character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4045,
+   "plan": {
+    "1": "R9",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Manoj"
+    ],
+    "2": [
+     "Nandini",
+     "Anirban"
+    ],
+    "3": [
+     "Vidya",
+     "Arnab"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Waiting for the second sweet [Actor]",
+   "description": "A child sits on their hands and looks away from a sweet to earn two; distraction and thinking of something else help more than raw willpower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4046,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Chandrika"
+    ],
+    "2": [
+     "Elif",
+     "Ines"
+    ],
+    "3": [
+     "Nazia",
+     "Noor"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Trust and waiting [Actor]",
+   "description": "A child who has learned that adults often break promises grabs the reward at once; the choice is reasonable when the future is unreliable and not a sign of weak character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4047,
+   "plan": {
+    "1": "R8",
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "1": [
+     "Hiroshi",
+     "Tuan"
+    ],
+    "2": [
+     "Shalini",
+     "Hansa"
+    ],
+    "3": [
+     "Aadhya",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Choosing study over the game [Actor]",
+   "description": "A teenager mutes the game notifications and puts the phone in another room before revising; changing the environment beats gritting teeth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 4048,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Hrithik"
+    ],
+    "2": [
+     "Bhupen",
+     "Seema"
+    ],
+    "3": [
+     "Harsha",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Caregiver modelling patience [Response]",
+   "description": "A parent or teacher who keeps small promises and shows how to wait through singing or counting builds a child's ability to defer; reliability teaches that waiting pays.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 4049,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Tanvir"
+    ],
+    "2": [
+     "Parul",
+     "Elizabeth"
+    ],
+    "3": [
+     "Damini",
+     "Francis"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Implementation intentions",
+   "subtype": "If-then plan for a temptation [Actor]",
+   "description": "A teenager decides that if it is after dinner then they open the maths book before the phone; a specific cue and action reduces reliance on in-the-moment choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  }
+ ]
+}

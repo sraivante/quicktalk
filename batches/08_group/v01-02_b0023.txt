@@ -1,0 +1,22 @@
+STAGE: group
+Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 1. Expected records: 2.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are group and multi-party phenomena. The passage must show at least three people or a crowd, and make the group dynamic visible (who follows, who dissents, who is silent). The perspective question asks about a different member's experience. Protect targets in scapegoating, mob and cover-up rows: focus on recognition and safe action, no incitement.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3569, "plan": {"1": "R8", "2": "R9"}, "cast": {"1": ["Pablo", "Jamal"], "2": ["Sarita", "Sachin"]}, "age": "23–26", "topic": "Group Behaviour", "subtopic": "Majority and minority influence", "subtype": "Majority protecting minority voices [Response]", "description": "A leader or peer in the majority asks the quiet or different member for their view and credits them. Giving a minority real airtime improves decisions and belonging.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: nostalgia"]}
+
+Return exactly 2 JSON Lines and nothing else.

@@ -1,0 +1,214 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1928,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Avni",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Online scam",
+   "subtype": "Scammer × Greed [Receiver]",
+   "description": "The offer of double returns or an easy remote job works by touching hope. Ask why a stranger would give money away, check company registration, and never pay to earn. If it feels too good, assume it is a trap.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, indifference, shame, trust",
+    "related mind states: anger, hope"
+   ]
+  },
+  {
+   "sno": 1929,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Yash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Online scam",
+   "subtype": "Bank or platform × Indifference [Receiver]",
+   "description": "Customer support responds slowly and coldly after fraud. Be persistent: written complaints, ombudsman escalation and follow-ups. Institutions respond to documented pressure. Stay organised, not despairing.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, shame, trust"
+   ]
+  },
+  {
+   "sno": 1930,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Lender × Fear [Actor]",
+   "description": "Calls from loan apps or recovery agents make you anxious. Know that harassment is illegal, keep records, talk to the bank about restructuring, and avoid borrowing from a new app to repay an old one.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, indebtedness, resentment, shame, temptation",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 1931,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Lender × Shame [Actor]",
+   "description": "Hiding EMIs and credit card dues from family adds isolation. Face the actual numbers on paper, prioritise high-interest debt, and tell one trusted person. Shame keeps debts growing.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, indebtedness, resentment, temptation",
+    "related mind states: shame, interest, detachment, loneliness"
+   ]
+  },
+  {
+   "sno": 1932,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Madhuri",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Lender × Coercion [Receiver]",
+   "description": "Recovery agents threaten to call your contacts or family. This is illegal harassment, not your fault. Save call logs, report to the bank, the RBI ombudsman and police, and avoid paying under panic.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, fear, indebtedness, resentment, shame, temptation"
+   ]
+  },
+  {
+   "sno": 1933,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Parent × Dependence [Actor]",
+   "description": "You took a loan partly to support family expectations, and now feel trapped between duty and survival. Talk openly with them about limits, set a repayment plan, and avoid pretending to be richer than you are.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, indebtedness, resentment, shame, temptation"
+   ]
+  },
+  {
+   "sno": 1934,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Friend × Indebtedness [Actor]",
+   "description": "A friend lent you money in a crisis. Gratitude means repaying on time, keeping them informed if delayed, and not avoiding them. Money problems can quietly kill friendships if silence replaces honesty.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, resentment, shame, temptation",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1935,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Friend × Resentment [Receiver]",
+   "description": "You lent a friend money and they keep dodging you. You feel used. Ask once, clearly, propose a plan, and decide how much of the friendship you value. Lend only what you can afford to lose.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, indebtedness, shame, temptation",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1936,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Self × Temptation [Actor]",
+   "description": "Easy credit, buy-now-pay-later and status spending feel harmless. Track small EMIs, ask if the item is a need, and delay purchases for a week. Debt for lifestyle steals future freedom.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, indebtedness, resentment, shame"
+   ]
+  },
+  {
+   "sno": 1937,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Loan and debt burden",
+   "subtype": "Partner × Trust [Receiver]",
+   "description": "A partner reveals a hidden debt. It hurts as betrayal, mostly because of secrecy. Listen, ask for the full picture, make a shared plan, and decide together what honesty rules you need going forward.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, indebtedness, resentment, shame",
+    "related mind states: trust, hurt"
+   ]
+  }
+ ]
+}

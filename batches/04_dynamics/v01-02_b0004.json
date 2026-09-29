@@ -1,0 +1,286 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2938,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Imran"
+    ],
+    "2": [
+     "Yusuf",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 1: A hurt that is not spoken [Actor]",
+   "description": "A teenager feels ignored when her friend sits with others at lunch. She is too proud to ask about it and too hurt to act normal, so she says nothing and turns her face away.",
+   "graph_context": [
+    "next stage: Withholding as protection",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: pride, hurt"
+   ]
+  },
+  {
+   "sno": 2939,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Vinita"
+    ],
+    "2": [
+     "Pallavi",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 2: Withholding as protection [Actor]",
+   "description": "Not replying feels safer than risking a fight or hearing \"you are overreacting\". Silence gives her a sense of control, and part of her hopes the friend will notice and come to her.",
+   "graph_context": [
+    "previous stage: A hurt that is not spoken",
+    "next stage: Confusion for the one ignored",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 2940,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Rashmi"
+    ],
+    "2": [
+     "Mateo",
+     "Jamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 3: Confusion for the one ignored [Receiver]",
+   "description": "The friend cannot tell what she did. Being unanswered feels like exclusion, so she guesses wildly, rereads old chats and grows anxious, which is precisely why silence hurts more than open anger.",
+   "graph_context": [
+    "previous stage: Withholding as protection",
+    "next stage: Silence hardens into punishment",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anger, anxiety, confusion, hurt"
+   ]
+  },
+  {
+   "sno": 2941,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Maria"
+    ],
+    "2": [
+     "Jomon",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 4: Silence hardens into punishment [Actor]",
+   "description": "Days pass and the silence becomes a message: you should know what you did. The teen enjoys being wanted back yet feels lonelier, and with every day, breaking the silence gets more embarrassing.",
+   "graph_context": [
+    "previous stage: Confusion for the one ignored",
+    "next stage: Naming the pattern kindly",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: embarrassment, loneliness"
+   ]
+  },
+  {
+   "sno": 2942,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Jaya"
+    ],
+    "2": [
+     "Sarika",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 5: Naming the pattern kindly [Response]",
+   "description": "The friend sends \"I can feel you are upset and I do not know why. I would rather hear it, even if it is bad.\" An invitation without accusation makes speaking safer than staying quiet.",
+   "graph_context": [
+    "previous stage: Silence hardens into punishment",
+    "next stage: Speaking the real hurt",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2943,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Uma"
+    ],
+    "2": [
+     "Aditi",
+     "Tanvir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 6: Speaking the real hurt [Response]",
+   "description": "The teen says \"I felt left out at lunch.\" The reply is usually smaller than the fear, and both learn that saying it early costs less than months of quiet distance.",
+   "graph_context": [
+    "previous stage: Naming the pattern kindly",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 2944,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Imran"
+    ],
+    "2": [
+     "Vaibhav",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 1: Withdrawal after conflict [Actor]",
+   "description": "After a harsh argument a spouse feels flooded and goes silent, unable to find words that would not make things worse. He may not intend punishment at first; he simply has no way to cope with the intensity.",
+   "graph_context": [
+    "next stage: Stonewalling becomes a habit",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 2945,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Madhav"
+    ],
+    "2": [
+     "Tenzin",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 2: Stonewalling becomes a habit [Actor]",
+   "description": "Silence works in the short term, ending the shouting. Over time it becomes his automatic answer to conflict, and the unresolved issues pile up behind a wall of politeness.",
+   "graph_context": [
+    "previous stage: Withdrawal after conflict",
+    "next stage: The partner's escalating alarm",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 2946,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Lalremsiami"
+    ],
+    "2": [
+     "Nazia",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 3: The partner's escalating alarm [Receiver]",
+   "description": "She feels invisible and powerless, tries everything from questions to tears, then goes cold herself. Being shut out touches old fears of not mattering, and hurt often turns into anger.",
+   "graph_context": [
+    "previous stage: Stonewalling becomes a habit",
+    "next stage: Mutual freeze",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: anger, fear, hurt"
+   ]
+  },
+  {
+   "sno": 2947,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Farhan"
+    ],
+    "2": [
+     "Ishita",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 4: Mutual freeze [Actor]",
+   "description": "Both now avoid the subject, the house is quiet, and each is waiting for the other to move. Pride and fear of another bad fight keep them stuck while the distance quietly grows.",
+   "graph_context": [
+    "previous stage: The partner's escalating alarm",
+    "next stage: The breaking of the ice",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear, pride"
+   ]
+  }
+ ]
+}

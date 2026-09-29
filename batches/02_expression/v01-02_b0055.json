@@ -1,0 +1,269 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2602,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Lalremsiami"
+    ],
+    "2": [
+     "Nikita",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Photography, memes and selfies [Expressing]",
+   "description": "A teenager curates photos, edits and memes to signal humour, belonging, identity or mood. Posted images are chosen and framed, so they show a presented self rather than a full picture of life.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, nostalgia, resentment",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2603,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Felix",
+     "Thabo"
+    ],
+    "2": [
+     "Deepika",
+     "Lalremsiami"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Symbolic objects and keepsakes [Expressing]",
+   "description": "A teenager keeps a friendship bracelet, a ticket stub or a poster that stands for a relationship or identity. Objects hold meaning that only their owner can fully explain, so curiosity is wiser than assumption.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 2604,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Sunaina"
+    ],
+    "2": [
+     "Chidi",
+     "Abebe"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Appearance pressure and body image [Regulating]",
+   "description": "A teenager compares looks with filtered images and may over-control clothes or grooming. Supportive adults stress that presentation is a choice, not a measure of value, and watch for lasting distress.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 2605,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Yusuf"
+    ],
+    "2": [
+     "Arnab",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Modesty, tradition and family norms [Mismatch]",
+   "description": "A teenager balances a dupatta, a turban, a sacred thread, a bindi or a hijab with peers' fashion. The same item can be faith, family expectation, choice or style, so nobody should assume its meaning for another person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2606,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Lokesh"
+    ],
+    "2": [
+     "Madhuri",
+     "Baljeet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Trying on styles and identities [Expressing]",
+   "description": "A teenager experiments with clothing, hair colour, makeup or jewellery to explore who they are. Style changes are often trial and belonging signals, not proof of deeper trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 2607,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Yamini"
+    ],
+    "2": [
+     "Kamal",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Group identity in crowds [Mismatch]",
+   "description": "A teenager cheers, chants or wears team colours with a crowd, feeling belonging. Crowds can amplify emotion and pressure, so a teen may act differently than alone, and wise judgement includes leaving if things turn unsafe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: nostalgia, trust"
+   ]
+  },
+  {
+   "sno": 2608,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Rafiq"
+    ],
+    "2": [
+     "Rajni",
+     "Tenzin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Vigils, candlelight and mourning together [Expressing]",
+   "description": "A teenager joins a school vigil or memorial, showing grief and solidarity with silence, flowers or lamps. Each participant may feel different things, and some may cry while others feel numb.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: sadness, grief, detachment"
+   ]
+  },
+  {
+   "sno": 2609,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Siddharth"
+    ],
+    "2": [
+     "Hansa",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Affectionate and tender among friends and family [Regulating]",
+   "description": "A teenager may hide affection in public while staying warm privately. Embarrassment about closeness is common, and honest words or small gestures keep bonds alive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, embarrassment"
+   ]
+  },
+  {
+   "sno": 2610,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Rukmini"
+    ],
+    "2": [
+     "Madhav",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Playful and amused humour [Mismatch]",
+   "description": "A teenager's banter, memes and inside jokes signal closeness, but teasing can hurt when one person is not enjoying it. Watching for the other person's response is the guide to when play should stop.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, playfulness, hurt"
+   ]
+  },
+  {
+   "sno": 2611,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Farida",
+     "Seema"
+    ],
+    "2": [
+     "Jomon",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Distressed and disappointed by exams and comparison [Expressing]",
+   "description": "A teenager after poor results may go silent, snap or say they are useless. Family reaction weighs heavily, and persistent hopelessness needs urgent caring attention, not lectures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: disappointment, hope"
+   ]
+  }
+ ]
+}

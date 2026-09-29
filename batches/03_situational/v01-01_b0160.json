@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1908,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Clerk or officer × Anger [Actor]",
+   "description": "After the fifth visit for the same stamp, you want to shout. Take a breath, since the clerk is a person inside a bad system. Ask for the supervisor politely, use online grievance portals, and keep a paper trail.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, fear, manipulation, trust",
+    "related mind states: grief, anger, relief from stress"
+   ]
+  },
+  {
+   "sno": 1909,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Mina",
+     "Fatima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Clerk or officer × Compassion [Receiver]",
+   "description": "An official who patiently explains steps and speeds your file offers real kindness. Thank them, be prepared with documents, and never assume that help means you can bend the rules.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, disillusionment, fear, manipulation, trust",
+    "related mind states: gratitude, empathy"
+   ]
+  },
+  {
+   "sno": 1910,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Clerk or officer × Manipulation [Receiver]",
+   "description": "Speed money offered as the only way is a common pressure. Recognise the ask, decline politely, escalate to seniors, use RTI or online portals. Small bribes feel practical but feed a system that later fails you.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, compassion, disillusionment, fear, trust"
+   ]
+  },
+  {
+   "sno": 1911,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Institution × Disillusionment [Actor]",
+   "description": "Repeated delays teach you that citizens are just numbers. Feel the fatigue, but choose engagement: learn procedures, help others navigate them, and support reforms. Cynicism gives the system a free pass.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, compassion, fear, manipulation, trust",
+    "related mind states: interest, tiredness, detachment"
+   ]
+  },
+  {
+   "sno": 1912,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Stranger in queue × Solidarity [Actor]",
+   "description": "Waiting in a long line, you share tips and snacks with people who are equally stuck. Shared frustration can make a small community. Kindness in bad systems is a quiet form of civic strength.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, compassion, disillusionment, fear, manipulation",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1913,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Police or bureaucratic delay",
+   "subtype": "Police × Trust [Receiver]",
+   "description": "A decent officer helps you report a theft respectfully. Appreciate it, cooperate honestly, and follow up. Not every officer is corrupt, and thanking the good ones supports the good ones.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, compassion, disillusionment, fear, manipulation",
+    "related mind states: gratitude, admiration, trust"
+   ]
+  },
+  {
+   "sno": 1914,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Get-rich-quick temptation",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "A friend flaunts trading profits and a new car, and you feel left behind. Recognise that social media shows wins, not losses. Compare against your own plan, not their highlights, and avoid rushing into what you do not understand.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, fear, guilt, loyalty, manipulation",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1915,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Bidisha",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Get-rich-quick temptation",
+   "subtype": "Influencer × Admiration [Actor]",
+   "description": "A finfluencer promises freedom in six months, and you feel inspired. Check how they earn (course sales, referral fees), verify regulation, and ask what happens if it fails. Admiration without verification is how people lose savings.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, fear, guilt, loyalty, manipulation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1916,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Get-rich-quick temptation",
+   "subtype": "Influencer × Manipulation [Receiver]",
+   "description": "Countdown timers, screenshots of profits and fear of missing out are designed to trigger urgency. Notice the pressure, slow down, sleep on it, and check with a registered adviser. If it must be decided today, skip it.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, fear, guilt, loyalty",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1917,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Get-rich-quick temptation",
+   "subtype": "Self × Greed [Actor]",
+   "description": "The thrill of quick gains grows, and you put in more each time. Notice the gambling pattern: bigger bets after wins, chasing losses. Set limits, keep an emergency fund, and diversify boringly. Wealth mostly comes from steady saving.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, fear, guilt, loyalty, manipulation",
+    "related mind states: joy"
+   ]
+  }
+ ]
+}

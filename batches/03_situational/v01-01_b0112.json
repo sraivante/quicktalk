@@ -1,0 +1,215 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1428,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Madhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a mentor",
+   "subtype": "Mentor × Being mentored critically [Receiver]",
+   "description": "A mentor is blunt and it stings. Wise: separate the delivery from the content and use what is true. Immature: quitting or holding a grudge.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1429,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Vasudha",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a mentor",
+   "subtype": "Mentor × Becoming one [Actor]",
+   "description": "A junior starts asking you for guidance. Wise: share what you know, admit what you do not, and encourage their own views. Immature: enjoying the status.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration"
+   ]
+  },
+  {
+   "sno": 1430,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Farida",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Respect [Actor]",
+   "description": "You respect your first manager who guides you. Wise: ask for feedback, own your work, and bring solutions. Immature: pleasing without speaking up.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, gratitude, indifference, manipulation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1431,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Fear [Actor]",
+   "description": "You dread a moody boss and stay quiet in meetings. Wise: prepare, communicate in writing, and do not take moods personally. Immature: hiding problems until they blow up.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, gratitude, indifference, manipulation, respect",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1432,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Exploitation [Receiver]",
+   "description": "You are made to work late unpaid with vague promises. Wise: recognise the pattern, set boundaries, seek advice from trusted seniors, and know your rights. Harmful: silent burnout.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, fear, gratitude, indifference, manipulation, respect",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1433,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Manipulation [Receiver]",
+   "description": "A boss uses praise or guilt to get extra work. Wise: check whether the reward is real, and negotiate clearly. It is not disloyal to say no.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, gratitude, indifference, respect",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1434,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Gratitude [Actor]",
+   "description": "A boss gave you a chance without a big degree. Wise: be thankful without letting it silence your fair questions. Immature: feeling forever indebted.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, indifference, manipulation, respect",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1435,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Parveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Boss × Being disliked [Receiver]",
+   "description": "A manager seems to dislike you. Wise: ask for concrete feedback, document your work, and look for other mentors. Immature: assuming it is all about you or gossiping.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, gratitude, indifference, manipulation"
+   ]
+  },
+  {
+   "sno": 1436,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Colleague × Envy [Actor]",
+   "description": "A colleague gets recognition you wanted. Wise: study what they did well, keep your own pace, and avoid gossip. Immature: undermining them.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, fear, gratitude, indifference, manipulation, respect",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1437,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Samir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "First job relationships",
+   "subtype": "Colleague × Friendship [Actor]",
+   "description": "A colleague becomes a close friend. Wise: enjoy it while keeping professional boundaries and confidences. Immature: sharing office secrets or forming cliques.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, exploitation, fear, gratitude, indifference, manipulation"
+   ]
+  }
+ ]
+}

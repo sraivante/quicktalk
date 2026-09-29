@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 598,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Chetan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Handling money",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "My friend has a costly toy and I want one too. I feel a sting and say \"my parents are poor\" or \"my toy is better\". A wise parent says \"we each have different things, and we have enough\". Comparing starts young.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, curiosity, fairness, pride",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 599,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Payal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Handling money",
+   "subtype": "Sibling × Fairness [Actor]",
+   "description": "My sister got more pocket money and I cry. I need fairness to be clear. A wise family explains with age-based rules and lets each child choose how to spend or save. Secret favouritism causes hidden hurt.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, curiosity, envy, pride",
+    "related mind states: sadness, hurt"
+   ]
+  },
+  {
+   "sno": 600,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Deepak"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being helped",
+   "subtype": "Parent × Gratitude [Actor]",
+   "description": "Papa helps me with my buttons and I say \"thank you\". I feel loved and a bit proud to be learning. Wise adults help just enough so I can finish myself, and I learn that needing help is normal.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, indebtedness",
+    "related mind states: affection, gratitude, pride"
+   ]
+  },
+  {
+   "sno": 601,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being helped",
+   "subtype": "Older sibling × Indebtedness [Actor]",
+   "description": "My big brother helps with my bag and says \"you owe me a sweet\". I feel unsure. Wise families let older siblings help for love, without bargaining. I learn to say thanks and to help back in my own time.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, gratitude",
+    "related mind states: affection, gratitude"
+   ]
+  },
+  {
+   "sno": 602,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Pankaj"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being helped",
+   "subtype": "Stranger × Gratitude [Actor]",
+   "description": "An aunty picks up my dropped things and I say thank you shyly. I feel warm and surprised at her kindness. I learn that many people are kind and that thanking them makes both of us feel good.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, indebtedness",
+    "related mind states: gratitude, anger, shyness, surprise"
+   ]
+  },
+  {
+   "sno": 603,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Arnab"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being helped",
+   "subtype": "Teacher × Dependence [Actor]",
+   "description": "I keep asking the teacher to do it for me because I fear failing. I want to be safe. A wise teacher says \"try one step and I will be here\". Too much help stops me learning, and too little scares me.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, indebtedness",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 604,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Pallavi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Helping others",
+   "subtype": "Friend × Compassion [Actor]",
+   "description": "My friend fell and I help him up and ask \"are you okay?\" I feel a warm ache for him. Wise adults notice and say \"that was kind\". A child who cares about others is learning to read feelings.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, pride",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 605,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Shreya",
+     "Wasim"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Helping others",
+   "subtype": "Friend × Gratitude [Receiver]",
+   "description": "My friend helped me find my lost shoe and I feel relieved and happy. I say \"thank you\". Being helped by a peer teaches that friends look out for each other, and I plan to help back.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, pride",
+    "related mind states: joy, gratitude, relief"
+   ]
+  },
+  {
+   "sno": 606,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Pankaj"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Helping others",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "My parent notices I helped set the table and says \"thank you, that was a big help\". I feel important. Small chores with real thanks build a sense of being useful, without turning help into payment.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, gratitude",
+    "related mind states: gratitude, pride"
+   ]
+  },
+  {
+   "sno": 607,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Hansa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Helping others",
+   "subtype": "Teacher × Approval [Actor]",
+   "description": "I help so the teacher will praise me. I feel happy when she notices. Mixed motives are normal at this age. A wise teacher praises the kindness itself so the child begins to help even when nobody sees.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, gratitude, pride",
+    "related mind states: joy"
+   ]
+  }
+ ]
+}

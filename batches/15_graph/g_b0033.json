@@ -1,0 +1,259 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1234,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Identity and belonging",
+     "subtype": "Peer group × Belonging [Actor]",
+     "description": "I want to fit in so much that I change how I talk and dress. Wise: adapt lightly, but keep my core; friends who need me to hide aren't yet home."
+    },
+    {
+     "sno": 1240,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Identity and belonging",
+     "subtype": "Self × Pride [Actor]",
+     "description": "I feel proud of where I come from, my language and culture. Wise: pride can live alongside curiosity for other people and needn't require putting anyone else down."
+    },
+    {
+     "sno": 1241,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Identity and belonging",
+     "subtype": "Peer × Curiosity [Actor]",
+     "description": "I meet a classmate whose life is very different from mine. Wise: ask respectfully, listen more than assume, and let differences teach me."
+    },
+    {
+     "sno": 1238,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Identity and belonging",
+     "subtype": "Peer × Mockery [Receiver]",
+     "description": "Classmates tease me for my accent, name or manner. Wise: I need not shrink; tell a teacher if it continues and find people who value me as I am."
+    }
+   ],
+   "cluster_id": "C0193",
+   "cast": [
+    "Ankita",
+    "Wasim",
+    "Jyoti"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1063,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Teacher seems unfair",
+     "subtype": "Teacher × Humiliation [Receiver]",
+     "description": "A teacher insults me in front of the class. I feel shame and rage. Wise: keep composure, speak to a parent or another trusted teacher, and report if it repeats. It is not my worth."
+    },
+    {
+     "sno": 1060,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Teacher seems unfair",
+     "subtype": "Teacher × Admiration [Actor]",
+     "description": "A teacher believes in me and I work hard to earn their respect. Wise: use their belief while building my own drive. Risk: crushing dependence on their approval."
+    },
+    {
+     "sno": 1067,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Teacher seems unfair",
+     "subtype": "Principal × Trust [Actor]",
+     "description": "I choose to report unfair treatment through the proper route, believing the school can fix it. Wise: be factual, bring a friend or parent, and give it time. Harmful: posting it online first."
+    },
+    {
+     "sno": 1065,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Teacher seems unfair",
+     "subtype": "Teacher × Gratitude [Actor]",
+     "description": "Years later I see that the hard teacher pushed me well. Wise: thank them. Harmful: assuming that harshness is always good just because it worked once."
+    }
+   ],
+   "cluster_id": "C0194",
+   "cast": [
+    "Vaibhav",
+    "Rukmini",
+    "Manoj"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 601,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being helped",
+     "subtype": "Older sibling × Indebtedness [Actor]",
+     "description": "My big brother helps with my bag and says \"you owe me a sweet\". I feel unsure. Wise families let older siblings help for love, without bargaining. I learn to say thanks and to help back in my own time."
+    },
+    {
+     "sno": 603,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being helped",
+     "subtype": "Teacher × Dependence [Actor]",
+     "description": "I keep asking the teacher to do it for me because I fear failing. I want to be safe. A wise teacher says \"try one step and I will be here\". Too much help stops me learning, and too little scares me."
+    },
+    {
+     "sno": 600,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Being helped",
+     "subtype": "Parent × Gratitude [Actor]",
+     "description": "Papa helps me with my buttons and I say \"thank you\". I feel loved and a bit proud to be learning. Wise adults help just enough so I can finish myself, and I learn that needing help is normal."
+    }
+   ],
+   "cluster_id": "C0195",
+   "cast": [
+    "Wasim",
+    "Deepak",
+    "Arnab"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 656,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Being a bully",
+     "subtype": "Friend × Guilt [Actor]",
+     "description": "I laughed along at someone and later feel sick about it. Guilt shows my conscience works. I can apologise to him, and next time refuse to join. Guilt that turns to defensiveness teaches nothing."
+    },
+    {
+     "sno": 657,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Being a bully",
+     "subtype": "Self × Insecurity [Actor]",
+     "description": "I tease others about their looks because I dread being teased myself. Fear of being the target drives me to attack first. A wiser way is to build real confidence and find kinder friends."
+    },
+    {
+     "sno": 651,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Being a bully",
+     "subtype": "Target × Contempt [Actor]",
+     "description": "I pick on a quieter boy because it makes me feel big and gets laughs. Underneath I may feel small or copy how I am treated at home. Wise change: notice the hurt on his face and stop, then apologise."
+    },
+    {
+     "sno": 652,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Being a bully",
+     "subtype": "Target × Fear [Receiver]",
+     "description": "The boy I tease flinches when I come near. Seeing his fear should make me uncomfortable, not proud. The mature step is to stop, say sorry and mean it. Pretending it is only a joke keeps hurting him."
+    }
+   ],
+   "cluster_id": "C0196",
+   "cast": [
+    "Vikas",
+    "Aditi",
+    "Tushar"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1783,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Manager decides unfairly",
+     "subtype": "Manager × Anger [Actor]",
+     "description": "My manager gave the credit or the promotion to someone else and I burn with anger. I let the first surge pass, collect facts, ask for a private explanation, and decide whether to stay; a public outburst rarely helps."
+    },
+    {
+     "sno": 409,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Manager decides unfairly",
+     "subtype": "Manager × Loyalty vs integrity",
+     "description": "Weighs loyalty to a manager against honesty to the organisation; loyalty never justifies deceiving customers or colleagues."
+    },
+    {
+     "sno": 1784,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Manager decides unfairly",
+     "subtype": "Manager × Fear [Actor]",
+     "description": "I know a decision is unfair but I am afraid to speak because I need the job. I weigh risk honestly, find allies, raise concerns in writing calmly, and accept that silence is a choice with its own costs."
+    },
+    {
+     "sno": 1788,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Manager decides unfairly",
+     "subtype": "Manager × Contempt [Receiver]",
+     "description": "My manager belittles people in meetings and I feel humiliated and unsafe. It is not my fault. I document incidents, seek support from HR or a trusted senior, and protect my dignity and health."
+    }
+   ],
+   "cluster_id": "C0197",
+   "cast": [
+    "Tanvir",
+    "Sudha",
+    "Elizabeth"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1466,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Manipulative relationship",
+     "subtype": "Partner × Insecurity behind control [Actor]",
+     "description": "You control because you fear abandonment. Wise: admit this, work on it with a counsellor or friend, and let go of control. Harmful: calling it love."
+    },
+    {
+     "sno": 1461,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Manipulative relationship",
+     "subtype": "Partner × Gaslighting [Receiver]",
+     "description": "They deny events you clearly remember and call you oversensitive. Wise: write things down, check with a trusted friend, and see that doubt is the aim. Seek counselling."
+    },
+    {
+     "sno": 1464,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Manipulative relationship",
+     "subtype": "Partner × Isolation from friends [Receiver]",
+     "description": "They slowly make you distance from friends and family. Wise: keep at least one outside connection and see isolation as a warning sign. Reach out to someone you trust."
+    },
+    {
+     "sno": 1463,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Manipulative relationship",
+     "subtype": "Partner × Love bombing then coldness [Receiver]",
+     "description": "Intense adoration turns into silence when you set limits. Wise: notice the swing and judge by steady behaviour, not grand gestures."
+    }
+   ],
+   "cluster_id": "C0198",
+   "cast": [
+    "Kunal",
+    "Aparna",
+    "Zeenat"
+   ]
+  }
+ ]
+}

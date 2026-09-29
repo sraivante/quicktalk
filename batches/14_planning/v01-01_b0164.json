@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7391,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Omkar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: scoring options against agreed criteria [Action]",
+   "description": "The group first agrees on criteria such as customer impact, cost and risk, then scores the options together, making the discussion about facts instead of personalities.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 7392,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: avoiding the decision through more meetings [Pitfall]",
+   "description": "The lead keeps asking for further input to avoid upsetting anyone. Weeks pass, the deadline is missed, and every group ends up unhappy with the delay.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, negotiation",
+    "related mind states: joy, sadness"
+   ]
+  },
+  {
+   "sno": 7393,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Eshaan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: one-on-one conversations before the group meeting [Action]",
+   "description": "The lead talks privately with each stakeholder to understand fears and constraints, finding that two conflicts are misunderstandings that vanish before the full meeting begins.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7394,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: making a reversible decision and testing [Thinking]",
+   "description": "Because no one can prove which option is right, the lead chooses one that can be undone cheaply, sets a review date and shares the metrics that would trigger a change.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 7395,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: explaining the decision to those who lost [Revision]",
+   "description": "After the choice, the lead meets the disappointed team, explains the reasons, and agrees on a follow-up for their concerns, keeping the relationship intact for later decisions.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 7396,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: escalating to a sponsor when deadlocked [Revision]",
+   "description": "When two directors cannot agree despite talks, the lead brings a neutral summary to the executive sponsor and asks for a ruling, treating escalation as a tool and not as failure.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 7397,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a production outage",
+   "subtype": "Approach: stabilise first, diagnose later [Thinking]",
+   "description": "During a payments outage, the on-call engineer chooses to roll back the latest release at once instead of hunting the bug, because customers are failing to pay every minute.",
+   "graph_context": [
+    "same problem, other approaches: checklist, delegation, experiment and measure, learning from past failure"
+   ]
+  },
+  {
+   "sno": 7398,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jamal",
+     "Zanele"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a production outage",
+   "subtype": "Approach: clear incident roles [Action]",
+   "description": "The team names one incident commander, one person to investigate, and one to update customers and management, so that people do not duplicate work or shout over each other.",
+   "graph_context": [
+    "same problem, other approaches: checklist, delegation, experiment and measure, learning from past failure"
+   ]
+  },
+  {
+   "sno": 7399,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a production outage",
+   "subtype": "Approach: everyone trying random fixes at once [Pitfall]",
+   "description": "Five engineers change settings simultaneously without telling one another. The system state becomes unclear, and it is impossible to know which change helped or hurt.",
+   "graph_context": [
+    "same problem, other approaches: checklist, delegation, experiment and measure, learning from past failure",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 7400,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Suraj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a production outage",
+   "subtype": "Approach: working through a runbook [Action]",
+   "description": "The engineer follows a written checklist: check dashboards, recent deployments, database health and dependencies, in order, which speeds diagnosis when the mind is stressed at three in the morning.",
+   "graph_context": [
+    "same problem, other approaches: delegation, experiment and measure, learning from past failure"
+   ]
+  }
+ ]
+}

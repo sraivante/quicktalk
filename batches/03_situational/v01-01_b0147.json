@@ -1,0 +1,216 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1778,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Junior underperforms",
+   "subtype": "Junior × Disillusionment [Actor]",
+   "description": "I trusted a junior with a big task and they failed, and now I doubt my ability to delegate. I review what I explained, adjust the scope and check-ins, and delegate again in smaller steps instead of taking everything back.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, favouritism, protectiveness, resentment, shame",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 1779,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Junior underperforms",
+   "subtype": "Junior × Favouritism [Actor]",
+   "description": "I find myself helping the junior who reminds me of me and neglecting the awkward one. I catch this bias, give each person equal time and clear expectations, and judge work by evidence, not by comfort.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, disillusionment, protectiveness, resentment, shame",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 1780,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Junior underperforms",
+   "subtype": "Junior × Resentment [Receiver]",
+   "description": "My manager thinks I am underperforming but never explained what good looks like and I feel resentful. I ask for concrete examples and goals, and raise unclear expectations respectfully rather than complaining behind their back.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, disillusionment, favouritism, protectiveness, shame",
+    "related mind states: admiration, resentment"
+   ]
+  },
+  {
+   "sno": 1781,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Junior underperforms",
+   "subtype": "Junior × Protectiveness [Actor]",
+   "description": "I cover for my junior's mistakes to shield them from blame. A little cover early can help, but if I hide problems they never learn; I coach them to own their errors and I stay honest with my boss.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, disillusionment, favouritism, resentment, shame"
+   ]
+  },
+  {
+   "sno": 1782,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Abebe",
+     "Marek"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Junior underperforms",
+   "subtype": "Boss × Blame [Receiver]",
+   "description": "Your boss blames you for a junior's failures. Take responsibility for what you own, explain the coaching you gave, and ask for support in resourcing. Do not scapegoat the junior to save yourself.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, disillusionment, favouritism, protectiveness, resentment"
+   ]
+  },
+  {
+   "sno": 1783,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Manager decides unfairly",
+   "subtype": "Manager × Anger [Actor]",
+   "description": "My manager gave the credit or the promotion to someone else and I burn with anger. I let the first surge pass, collect facts, ask for a private explanation, and decide whether to stay; a public outburst rarely helps.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, favouritism, fear, gratitude, loyalty, manipulation",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1784,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Manager decides unfairly",
+   "subtype": "Manager × Fear [Actor]",
+   "description": "I know a decision is unfair but I am afraid to speak because I need the job. I weigh risk honestly, find allies, raise concerns in writing calmly, and accept that silence is a choice with its own costs.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, favouritism, gratitude, loyalty, manipulation",
+    "paired view exists: Receiver (S1789)",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 1785,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Gurleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Manager decides unfairly",
+   "subtype": "Manager × Favouritism [Receiver]",
+   "description": "My manager clearly favours a colleague and I feel overlooked and small. I check what I can control, make my results visible, ask for clear criteria, and consider moving on if the pattern is fixed.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, gratitude, loyalty, manipulation"
+   ]
+  },
+  {
+   "sno": 1786,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Manager decides unfairly",
+   "subtype": "Manager × Manipulation [Receiver]",
+   "description": "My manager praises me and piles on extra work, hinting that loyalty means unpaid hours. I feel flattered and trapped. I set limits, clarify scope in writing, and notice when praise is used as pay.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, favouritism, fear, gratitude, loyalty"
+   ]
+  },
+  {
+   "sno": 1787,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Madhuri",
+     "Ritu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Manager decides unfairly",
+   "subtype": "Manager × Gratitude [Actor]",
+   "description": "My manager backed me when others doubted me and I feel deep gratitude. I honour it with excellence and honesty, and I keep my own judgment; gratitude is not a reason to overlook their mistakes.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, favouritism, fear, loyalty, manipulation",
+    "paired view exists: Receiver (S1790)",
+    "related mind states: gratitude, doubt"
+   ]
+  }
+ ]
+}

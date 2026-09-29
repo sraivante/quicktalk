@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4056,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Procrastination",
+     "subtype": "Avoidant type: avoiding judgement [Actor]",
+     "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse."
+    },
+    {
+     "sno": 3192,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 6: Making the start easier [Response]",
+     "description": "A student sets a short timer, works in a library or with a friend, and writes just a messy first paragraph. Lowering the bar for starting removes the dread, and momentum usually does the rest."
+    }
+   ],
+   "cluster_id": "C0883",
+   "cast": [
+    "Nilesh",
+    "Preeti",
+    "Jahnavi"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 2204,
+     "age": "4–6",
+     "topic": "Expression & Mind State",
+     "subtopic": "Hand movements",
+     "subtype": "Drumming fingers and fidgeting [Mismatch]",
+     "description": "A child drums fingers or fidgets from boredom, energy or focus. Watching for context, since fidgeting may help concentration, prevents unfair scolding."
+    }
+   ],
+   "cluster_id": "C0884",
+   "cast": [
+    "Yogesh",
+    "Trisha",
+    "Farida"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 5208,
+     "age": "4–6",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Boredom and idleness",
+     "subtype": "First boredom [Actor]",
+     "description": "A child declares that there is nothing to do and clings to a parent. Boredom is a signal that the mind wants to generate its own activity, but the child does not yet know how."
+    }
+   ],
+   "cluster_id": "C0885",
+   "cast": [
+    "Afreen",
+    "Tenzin",
+    "Vaibhav"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4092,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Imposter feelings",
+     "subtype": "Feeling like a fraud in a top college [Actor]",
+     "description": "A student admitted to a prestigious institute believes they got in by luck and that everyone will soon find out; success is discounted while comparison with others is harsh."
+    },
+    {
+     "sno": 3226,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Imposter feelings at a new job",
+     "subtype": "Stage 1: Arrival and anxiety [Actor]",
+     "description": "A fresh graduate joins a company and sees confident colleagues using unfamiliar terms. The excitement of being hired mixes with the worry that the selection was a mistake."
+    }
+   ],
+   "cluster_id": "C0886",
+   "cast": [
+    "Ira",
+    "Swati",
+    "Joseph"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 3287,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Anxiety avoidance loop",
+     "subtype": "Stage 3: Avoidance widens [Actor]",
+     "description": "A teenager who avoided one presentation begins to dodge group chats, outings and answering the phone. The circle of safe activities shrinks and the world feels more threatening."
+    }
+   ],
+   "cluster_id": "C0887",
+   "cast": [
+    "Preeti",
+    "Deepak",
+    "Tanuja"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 4372,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Shyness and social anxiety",
+     "subtype": "Fear of being judged [Actor]",
+     "description": "A teenager avoids answering in class, skips events and rehearses sentences for hours because of a strong fear of embarrassment. It differs from shyness in intensity and avoidance that shrinks life, and calls for support."
+    }
+   ],
+   "cluster_id": "C0888",
+   "cast": [
+    "Mehak",
+    "Mridul",
+    "Aadhya"
+   ]
+  }
+ ]
+}

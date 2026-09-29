@@ -1,0 +1,262 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5122,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Dolma"
+    ],
+    "2": [
+     "Disha",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "Organised document folder [Response]",
+   "description": "A prepared person keeps ID, certificates and receipts in one physical folder and one scanned copy. When an urgent form appears, having everything to hand removes a great deal of stress.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5123,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Ganga"
+    ],
+    "2": [
+     "Pranav",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "Meeting with no purpose [Observer]",
+   "description": "A participant sits through a meeting with no agenda, where the loudest voice dominates and nobody is sure what was decided. Attendees leave with time lost and each with a different memory of the outcome.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 5124,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Pradeep"
+    ],
+    "2": [
+     "Mehak",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "New lead running a meeting [Actor]",
+   "description": "A newly promoted lead runs a meeting nervously, either talking too much or letting it drift. Preparing an agenda, a time limit and a clear question for each item is what makes a meeting useful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5125,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Avni"
+    ],
+    "2": [
+     "Lucia",
+     "Emil"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "Quiet voices unheard [Receiver]",
+   "description": "A junior or shy team member has a useful idea but is never given an opening in a fast, confident room. A good chair invites quieter people directly and protects them from interruption.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 5126,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Jagdish",
+     "Akash"
+    ],
+    "2": [
+     "Amandeep",
+     "Leela"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "Ending with owners and dates [Response]",
+   "description": "A wise meeting leader closes by stating each decision, who will do what and by when, and sends it in writing. Without owners and dates, discussion evaporates and the same meeting is held again.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5127,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Gautam"
+    ],
+    "2": [
+     "Francis",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "Project drift and scope creep [Actor]",
+   "description": "A project manager keeps accepting small extra requests until the schedule quietly breaks. Each yes feels harmless and pleasing, but the total cost only shows when the deadline arrives.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5128,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Gargi"
+    ],
+    "2": [
+     "Yamini",
+     "Lalit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Running a meeting or project",
+   "subtype": "Tracking risks and stating trade-offs [Response]",
+   "description": "A capable project lead keeps a short list of risks, reviews it regularly and tells stakeholders plainly that adding scope means moving date or dropping something else. Honest trade-offs earn more trust than optimistic promises.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 5129,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Hana",
+     "Gabriel"
+    ],
+    "2": [
+     "Anand",
+     "Lavanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Writing clearly",
+   "subtype": "Writing what is in the head [Actor]",
+   "description": "A schoolchild writes answers assuming the reader already knows the story, leaving out steps that seem obvious to them. Taking the reader's viewpoint is a skill that takes years to become automatic.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5130,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Hafsa"
+    ],
+    "2": [
+     "Ritu",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Writing clearly",
+   "subtype": "Padding to sound impressive [Actor]",
+   "description": "A teenager uses long words and stretched sentences to seem intelligent and ends up hard to follow. Clear writing feels less impressive to the writer but is far better for the reader.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5131,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Jasleen"
+    ],
+    "2": [
+     "Sachin",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Writing clearly",
+   "subtype": "Email that says too little or too much [Actor]",
+   "description": "A student or intern writes an email with no clear request, or a long wall of text with the ask buried at the end. Readers skim, so the purpose and requested action should come in the first lines.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

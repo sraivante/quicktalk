@@ -1,0 +1,244 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 261,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Farida",
+     "Yusuf"
+    ],
+    "5": [
+     "Diego",
+     "Rosa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Coping",
+   "subtopic": "Attention Training",
+   "subtype": "Mindfulness, Meditation & Focus",
+   "description": "Training attention through breath, silence and reduced multitasking.",
+   "graph_context": [
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 262,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Sunaina",
+     "Aadhya"
+    ],
+    "5": [
+     "Yamini",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Physical",
+   "subtopic": "Circadian & Lifestyle",
+   "subtype": "Sleep, Diet & Exercise Discipline",
+   "description": "Building sustainable sleep and eating routines without parental structure."
+  },
+  {
+   "sno": 263,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Thabo",
+     "Elif"
+    ],
+    "5": [
+     "Ira",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Literacy",
+   "subtype": "Working With AI & Verifying Outputs",
+   "description": "Using AI as a tool for learning and work while keeping own judgment and skill growth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 264,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Zainab",
+     "Dhruv"
+    ],
+    "5": [
+     "Zeenat",
+     "Noor"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Digital Privacy",
+   "subtype": "Passwords, Data Rights & Scam Defense",
+   "description": "Protecting accounts, recognizing phishing and understanding data consent."
+  },
+  {
+   "sno": 265,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Seema",
+     "Madhuri"
+    ],
+    "5": [
+     "Chetan",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Attention Economy",
+   "subtype": "Recommendation Feeds & Manipulative Design",
+   "description": "Resisting engagement-maximizing design and consciously curating information intake.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 266,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Sumit",
+     "Chetan"
+    ],
+    "5": [
+     "Chaitanya",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Online Reputation",
+   "subtype": "Professional Presence & Digital Footprint",
+   "description": "Managing profiles and posts as future employers and partners will see them."
+  },
+  {
+   "sno": 267,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Siddharth",
+     "Akash"
+    ],
+    "5": [
+     "Charu",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Job Search",
+   "subtype": "Resume, Portfolio & Interview Skills",
+   "description": "Presenting skills and experience clearly and performing under interview pressure.",
+   "graph_context": [
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 268,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Siddharth",
+     "Joseph"
+    ],
+    "5": [
+     "Payal",
+     "Vandana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Entrepreneurship",
+   "subtype": "Opportunity Recognition & Basic Business Sense",
+   "description": "Spotting unmet needs, testing ideas cheaply and understanding revenue vs. cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 269,
+   "plan": {
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Anjali",
+     "Baljeet"
+    ],
+    "5": [
+     "Arohi",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Self-Directed Learning",
+   "subtype": "Upskilling & Learning How to Learn",
+   "description": "Independently acquiring new skills through courses, projects and practice."
+  },
+  {
+   "sno": 270,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Parveen",
+     "Gopika"
+    ],
+    "5": [
+     "Seema",
+     "Kavitha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Rejection Resilience",
+   "subtype": "Handling Rejection & Job Uncertainty",
+   "description": "Absorbing repeated rejection, learning from it and continuing."
+  }
+ ]
+}

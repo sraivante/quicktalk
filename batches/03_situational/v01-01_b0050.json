@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 808,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Teacher × Humiliation [Receiver]",
+   "description": "Being scolded in front of the whole class makes me want to vanish. It is not my fault that an adult chose to shame me; I can tell a parent or another teacher what happened.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, guilt, trust",
+    "related mind states: shame, humiliation"
+   ]
+  },
+  {
+   "sno": 809,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Avni",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Parent × Trust [Actor]",
+   "description": "When I was punished unfairly, I still told my parent the whole story. Trusting them to listen helps them see the truth and shows me that not every adult will misjudge me.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, guilt, humiliation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 810,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Authority × Powerlessness [Actor]",
+   "description": "Adults decide, and I cannot argue back, which feels helpless. Naming that feeling to someone safe and asking to be heard politely is better than swallowing it or taking revenge.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, guilt, humiliation, trust",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 811,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Classmate × Compassion [Actor]",
+   "description": "My classmate was punished for something she didn't do, and I know the truth. Speaking up quietly for her, even when it is scary, is a brave and kind thing.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, humiliation, trust",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 812,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Jomon"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Teacher × Regret [Receiver]",
+   "description": "The teacher later admits she was wrong. I feel relieved but still a bit sore. Accepting a sincere apology teaches me that adults are human, and forgiving gently frees me from carrying the anger.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, humiliation, trust",
+    "related mind states: anger, relief, regret"
+   ]
+  },
+  {
+   "sno": 813,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Binita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Parent × Defensiveness [Receiver]",
+   "description": "My parents punish me before hearing my side, and I shout that it isn't fair. Sharing my feelings once calmly, after cooling down, is more likely to be heard than protest in the heat of the moment.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, guilt, humiliation, trust",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 814,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Parent × Fear [Actor]",
+   "description": "I dread showing the mark sheet because I imagine my parents' disappointment. Sharing the result early with a calm plan helps more than hiding the paper, which only grows the fear.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, pride, shame",
+    "related mind states: disappointment, fear, calm"
+   ]
+  },
+  {
+   "sno": 815,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Chaitanya",
+     "Alka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "My parents beam and tell everyone about my marks. I feel happy but also pressure to do it again. It helps to enjoy their joy while remembering that my worth is more than my rank.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, fear, shame",
+    "related mind states: joy, pride"
+   ]
+  },
+  {
+   "sno": 816,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Parent × Disappointment [Receiver]",
+   "description": "My parents sigh over my marks and compare me to a cousin. I feel small. It is not my fault they are anxious; I can say I will try harder and ask for help without losing my self-respect.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, fear, pride, shame",
+    "related mind states: admiration, disappointment, anxiety"
+   ]
+  },
+  {
+   "sno": 817,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Exam results day",
+   "subtype": "Classmate × Envy [Actor]",
+   "description": "My friend topped the class and I feel a sting in my stomach. It is normal; asking what helped him study turns envy into learning, while running him down only hurts us both.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, fear, pride, shame",
+    "related mind states: envy, hurt"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3078,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Dilnaz"
+    ],
+    "2": [
+     "Sharmila",
+     "Rehana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 3: Teasing and tattling [Actor]",
+   "description": "Mocking a sibling's failure, or running to tell on him, becomes a way to gain adult favour. Both lose, since the parent is tired and the sibling now has a real grievance.",
+   "graph_context": [
+    "previous stage: Fairness accounting",
+    "next stage: The middle child's or younger one's view",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: grief, tiredness"
+   ]
+  },
+  {
+   "sno": 3079,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Payal"
+    ],
+    "2": [
+     "Nandini",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 4: The middle child's or younger one's view [Receiver]",
+   "description": "The younger sibling feels bossed and left out of the older ones' games, and complains of unfairness. She wants to be looked up to and taken seriously, not merely tolerated.",
+   "graph_context": [
+    "previous stage: Teasing and tattling",
+    "next stage: Parent stops comparing",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 3080,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Tushar"
+    ],
+    "2": [
+     "Vaibhav",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 5: Parent stops comparing [Response]",
+   "description": "The parent praises each child for their own effort and strengths and lets them solve small quarrels themselves, stepping in only for safety. Children who are not compared have less need to beat each other.",
+   "graph_context": [
+    "previous stage: The middle child's or younger one's view",
+    "next stage: Loyalty emerges",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3081,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ira",
+     "Chinmay"
+    ],
+    "2": [
+     "Avni",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 6: Loyalty emerges [Observer]",
+   "description": "A grandparent notices the same two defending each other against an outsider on the playground. Rivalry and loyalty live together in siblings, and a bond forged through fights often becomes lifelong support.",
+   "graph_context": [
+    "previous stage: Parent stops comparing",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 3082,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Nilesh"
+    ],
+    "2": [
+     "Uday",
+     "Kishore"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 1: Trigger and frustration [Actor]",
+   "description": "A toddler is told it is time to leave the park. He cannot manage the wish to stay, so his face crumples, his body stiffens and he starts to cry.",
+   "graph_context": [
+    "next stage: Peak of the storm",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: sadness, anger"
+   ]
+  },
+  {
+   "sno": 3083,
+   "plan": {
+    "1": "R8",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Wanjiru",
+     "Vera"
+    ],
+    "2": [
+     "Devika",
+     "Siddharth"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 2: Peak of the storm [Actor]",
+   "description": "He drops to the floor, screams, kicks and may throw things or arch his back. He cannot listen or reason, since the brain areas for calming are still very immature.",
+   "graph_context": [
+    "previous stage: Trigger and frustration",
+    "next stage: Caregiver's stress and choice point",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3084,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Jasleen"
+    ],
+    "2": [
+     "Anand",
+     "Kunal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 3: Caregiver's stress and choice point [Observer]",
+   "description": "The caregiver feels embarrassment, anger or tiredness with strangers watching. The choice is to shout, to give in, or to stay calm and safe nearby, and staying calm is the hardest and the most useful.",
+   "graph_context": [
+    "previous stage: Peak of the storm",
+    "next stage: Staying close and safe",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: anger, embarrassment, tiredness, calm"
+   ]
+  },
+  {
+   "sno": 3085,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Trisha"
+    ],
+    "2": [
+     "Hemant",
+     "Avni"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 4: Staying close and safe [Response]",
+   "description": "The caregiver kneels, says in a low voice \"You are upset. I am here\", moves harmful objects aside and waits. Presence without argument tells the toddler that big feelings are survivable.",
+   "graph_context": [
+    "previous stage: Caregiver's stress and choice point",
+    "next stage: Winding down",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3086,
+   "plan": {
+    "1": "R13",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Bidisha"
+    ],
+    "2": [
+     "Devika",
+     "Kunal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 5: Winding down [Actor]",
+   "description": "The crying becomes sobs, and he reaches out with arms open or leans in. He now needs comfort, not a lecture, and a hug, a drink of water and a slow breath help his body settle.",
+   "graph_context": [
+    "previous stage: Staying close and safe",
+    "next stage: Repair and naming the feeling",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: affection, sadness, relief from stress"
+   ]
+  },
+  {
+   "sno": 3087,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Vikas",
+     "Dhruv"
+    ],
+    "2": [
+     "Jana",
+     "Chidi"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Caregiver-child tantrum to repair",
+   "subtype": "Stage 6: Repair and naming the feeling [Response]",
+   "description": "Later, in simple words: \"You wanted to stay. That was hard. We can come again tomorrow.\" The limit stays, the love is clear, and the toddler slowly learns words for feelings.",
+   "graph_context": [
+    "previous stage: Winding down",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

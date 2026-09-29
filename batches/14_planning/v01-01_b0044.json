@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6191,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bully",
+   "subtype": "Approach: asking why it hurts so much [Thinking]",
+   "description": "A girl asks herself which words bother her and why, and with her mother's help decides that the bully's opinion should not define her, which reduces her distress while adults handle the behaviour.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, trial by imitation",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6192,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Liam",
+     "Rania"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: choosing the right moment and mood [Thinking]",
+   "description": "A boy wants permission for a sleepover and waits until his father has relaxed after dinner, rather than asking when he is tired or on a call.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, negotiation",
+    "related mind states: tiredness, calm"
+   ]
+  },
+  {
+   "sno": 6193,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: preparing reasons and answers to objections [Action]",
+   "description": "Before asking for a bicycle, a girl lists why she needs it, how she will be safe, and what she will do to earn part of the cost, so she is ready for questions.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, negotiation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6194,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Clara",
+     "Felix"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: nagging and repeating the demand [Pitfall]",
+   "description": "A child asks for a mobile phone every day and cries when refused, and the parents become firmer, because pressure without reasons builds resistance.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 6195,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: offering something in exchange [Action]",
+   "description": "A boy proposes that if he may have a pet he will do the morning walk and keep his marks up, giving his parents a win-win deal to consider.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6196,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Tanuja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: rehearsing the request with a sibling [Thinking]",
+   "description": "A girl practises her request for a trip with friends on her older brother, who plays the strict father, and learns which arguments sound weak.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, negotiation"
+   ]
+  },
+  {
+   "sno": 6197,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: accepting a no and asking what would change it [Revision]",
+   "description": "Told no to a late outing, a boy calmly asks what he would need to show, and the parents say trust with earlier smaller outings, giving him a clear step to work toward.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, negotiation",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 6198,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Hansa",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: asking a grandparent to speak first [Action]",
+   "description": "A child requests her grandmother to mention the idea of art classes, since her parents listen to her, and then adds her own reasons at dinner.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 6199,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Leela",
+     "Rehana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: hiding the request and doing it anyway [Pitfall]",
+   "description": "A boy goes cycling to the far park without asking because he expects a no, and when found out, loses the parents' trust, making later requests harder.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation, negotiation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6200,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Zeenat"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: writing a short letter when speaking feels hard [Action]",
+   "description": "A shy girl writes a polite note explaining why she wants to join the swimming class and leaves it for her parents, giving them time to think without pressure.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, negotiation",
+    "related mind states: shyness"
+   ]
+  }
+ ]
+}

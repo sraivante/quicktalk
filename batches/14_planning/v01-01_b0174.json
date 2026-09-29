@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7491,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Inversion",
+   "subtype": "Approach: designs a team project by listing how it would fall apart [Action]",
+   "description": "A student team lists what would spoil their project: unclear roles, last-minute merging, one person unreachable. They set roles, weekly merges and a shared contact sheet.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination",
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7492,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Inversion",
+   "subtype": "Approach: only avoids bad outcomes and never defines a positive goal [Pitfall]",
+   "description": "A student who avoids every mistake he can think of ends up with a safe, empty plan. Avoiding failure is not the same as working toward something wanted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7493,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Alka",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Inversion",
+   "subtype": "Approach: asks how to make a situation worse to spot hidden levers [Thinking]",
+   "description": "A manager with a noisy meeting culture asks what would make it worse and notes late agendas and no notes. Fixing those two makes meetings shorter and calmer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 7494,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Charu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Inversion",
+   "subtype": "Approach: pairs the list of things to avoid with a positive target [Revision]",
+   "description": "Noticing the plan is only defensive, she adds one clear aim per month, so avoidance rules serve a direction rather than becoming the whole plan.",
+   "graph_context": [
+    "same problem, other approaches: inversion",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 7495,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Raghav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Five whys",
+   "subtype": "Approach: keeps asking why until a deeper cause appears [Thinking]",
+   "description": "A girl keeps losing her pencil box. Why? Left at school. Why? Rushed at bell. Why? Packing after the bell. So she starts packing five minutes before it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7496,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Noor",
+     "Kashish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Five whys",
+   "subtype": "Approach: traces a repeated problem to its underlying cause [Thinking]",
+   "description": "A student failing maths tests asks why: careless errors, because rushed, because time ran out, because early questions were slow. The fix is practising early topics for speed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7497,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Five whys",
+   "subtype": "Approach: acts on the root cause found rather than the symptom [Action]",
+   "description": "A hostel student late every morning traces it to poor sleep, then to late phone use, then to a habit of scrolling. He charges the phone outside the room.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7498,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Five whys",
+   "subtype": "Approach: stops at a convenient answer and blames a person [Pitfall]",
+   "description": "After a software outage, a team asks why once and says a colleague made a mistake. The deeper causes, missing tests and unclear review, remain and the outage recurs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7499,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Jahnavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Five whys",
+   "subtype": "Approach: continues asking until a process cause appears and fixes the process [Revision]",
+   "description": "The team revisits the outage and asks why five times. They find a missing check in deployment and add an automated test rather than assigning blame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7500,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Elif",
+     "Esther"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Brainstorming then selecting",
+   "subtype": "Approach: shouts out many ideas together before choosing one [Thinking]",
+   "description": "Asked how to decorate the classroom for a festival, children call out flowers, lamps, paper chains and rangoli. The teacher writes all of them, then the class votes for two.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

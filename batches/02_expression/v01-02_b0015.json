@@ -1,0 +1,270 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2202,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Aparna"
+    ],
+    "2": [
+     "Siddharth",
+     "Ankita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Arm positions",
+   "subtype": "Holding arms close to the body [Expressing]",
+   "description": "A shy child keeps the arms tucked to the body around new people, showing caution. Time and a familiar adult nearby help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 2203,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Avni"
+    ],
+    "2": [
+     "Ankita",
+     "Chaitanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Clenched fists in anger [Expressing]",
+   "description": "A preschooler clenches the fists in anger or frustration, an early sign of strong feeling. Adults can offer words for the feeling and safe outlets, such as squeezing a soft ball.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 2204,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Jomon"
+    ],
+    "2": [
+     "Gurpreet",
+     "Zainab"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Drumming fingers and fidgeting [Mismatch]",
+   "description": "A child drums fingers or fidgets from boredom, energy or focus. Watching for context, since fidgeting may help concentration, prevents unfair scolding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 2205,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Sumit"
+    ],
+    "2": [
+     "Ganga",
+     "Mahima"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Crossed fingers and secret signs [Expressing]",
+   "description": "A child crosses the fingers for luck or in a playground promise and enjoys shared secret signs. These are playful conventions and vary by group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2206,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Saurabh"
+    ],
+    "2": [
+     "Madhav",
+     "Minakshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Namaste and hand over heart [Expressing]",
+   "description": "A preschooler in India folds the hands in namaste or places a hand over the heart to greet, thank or respect elders. Respect is taught through repeated modelling and warmth, not force.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 2207,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Kamal"
+    ],
+    "2": [
+     "Samir",
+     "Eshaan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Finger to lips for quiet [Interpreting]",
+   "description": "A preschooler understands a finger to the lips as a request for quiet in a library or when a baby sleeps. It can mean secrecy, safety or politeness, so the setting decides; the wise reading checks the adult's face before assuming the child is in trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2208,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Shankar"
+    ],
+    "2": [
+     "Marek",
+     "Priscila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Raised hand to speak [Expressing]",
+   "description": "A child in a classroom learns to raise a hand and wait for a turn instead of blurting out. The gesture signals eagerness, a question or a need for the toilet; waiting is hard, so a teacher's quick nod eases frustration.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, excitement"
+   ]
+  },
+  {
+   "sno": 2209,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Santosh"
+    ],
+    "2": [
+     "Emeka",
+     "Tomas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Miming actions in pretend play [Expressing]",
+   "description": "A preschooler mimes drinking from a cup, driving or being a bird, using hands to stand in for objects. Mime shows imagination and helps explain when words fail, though a shy child may still expect adults to guess the meaning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 2210,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Aiko",
+     "Hiroshi"
+    ],
+    "2": [
+     "Jagdish",
+     "Harish"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Showing size and quantity [Expressing]",
+   "description": "A child holds fingers up for age, spreads arms for how big the fish was, or counts on fingers. Gestures carry number and size before precise measurement is learned, and they often exaggerate to show excitement rather than accuracy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: excitement, detachment"
+   ]
+  },
+  {
+   "sno": 2211,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Eshaan"
+    ],
+    "2": [
+     "Shankar",
+     "Binita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Curling inward when upset [Expressing]",
+   "description": "A child hunches, tucks in the chin or curls up on a sofa after being scolded or teased. It can signal sadness, shame or a wish to hide; a quiet, non-intrusive presence works better than asking many questions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, shame"
+   ]
+  }
+ ]
+}

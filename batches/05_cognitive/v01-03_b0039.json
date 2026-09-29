@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 3950,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Lakshmi"
+    ],
+    "2": [
+     "Xin",
+     "Freya"
+    ],
+    "3": [
+     "Sumit",
+     "Vidya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Should statements",
+   "subtype": "Hearing constant shoulds from family [Receiver]",
+   "description": "A young adult keeps hearing that they should marry by a certain age and choose a certain course; the receiver may feel love and pressure together and needs a way to keep both respect and their own choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 3951,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Madhuri"
+    ],
+    "2": [
+     "Madhav",
+     "Thomas"
+    ],
+    "3": [
+     "Lakshmi",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Should statements",
+   "subtype": "Swapping should for prefer [Response]",
+   "description": "An adult replaces the demand to be more productive with a wish to be more productive plus one concrete step; wording that invites rather than demands lowers guilt and raises action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3952,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Yogesh"
+    ],
+    "2": [
+     "Naveen",
+     "Trisha"
+    ],
+    "3": [
+     "Hafsa",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Labelling",
+   "subtype": "Calling self stupid or lazy [Actor]",
+   "description": "A child who takes longer with reading calls themselves dumb and stops trying; a single label replaces a specific skill that can be practised.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3953,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Rekha"
+    ],
+    "2": [
+     "Emil",
+     "Wei"
+    ],
+    "3": [
+     "Lavanya",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Labelling",
+   "subtype": "Labelling others in a bad moment [Actor]",
+   "description": "A teenager who is let down calls a friend a fake and a loser and cannot see the rest of them; the label saves thinking but ends curiosity and repair.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: disappointment, curiosity"
+   ]
+  },
+  {
+   "sno": 3954,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Dhruv"
+    ],
+    "2": [
+     "Devika",
+     "Lokesh"
+    ],
+    "3": [
+     "Asif",
+     "Pranav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Labelling",
+   "subtype": "Being labelled by peers or family [Receiver]",
+   "description": "A young person called the shy one or the failure of the family begins to act in line with the label; the words shape self-image, and one supportive person who sees more can shift it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 3955,
+   "plan": {
+    "1": "R8",
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "1": [
+     "Chidi",
+     "Jana"
+    ],
+    "2": [
+     "Pradeep",
+     "Mridul"
+    ],
+    "3": [
+     "Jasleen",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Labelling",
+   "subtype": "Describing the act, not the person [Response]",
+   "description": "An adult describes forgetting the meeting and feeling irresponsible instead of declaring themselves a useless person; separating behaviour from identity keeps responsibility without destroying self-respect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3956,
+   "plan": {
+    "1": "R8",
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Wei",
+     "Bao"
+    ],
+    "2": [
+     "Madhav",
+     "Sonali"
+    ],
+    "3": [
+     "Chandrika",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Personalisation",
+   "subtype": "Blaming self for parents' arguments [Actor]",
+   "description": "A child believes that the parents fight because of their marks or behaviour and tries harder to be perfect; children commonly think they are the cause of adult tension.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3957,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Indu"
+    ],
+    "2": [
+     "Darshan",
+     "Parul"
+    ],
+    "3": [
+     "Kaito",
+     "Gabriel"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Personalisation",
+   "subtype": "Assuming a friend's mood is about them [Actor]",
+   "description": "A teenager notices a friend quiet at lunch and worries about what they did wrong; many moods have nothing to do with the observer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3958,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Rafiq"
+    ],
+    "2": [
+     "Hafsa",
+     "Sudha"
+    ],
+    "3": [
+     "Mei",
+     "Sami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Personalisation",
+   "subtype": "Taking full blame for a group failure [Actor]",
+   "description": "A team member believes the whole project failed because of their single late slide; the mind ignores the many other causes involved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3959,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Gautam"
+    ],
+    "2": [
+     "Chetan",
+     "Jahnavi"
+    ],
+    "3": [
+     "Asif",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Personalisation",
+   "subtype": "Mapping the share of causes [Response]",
+   "description": "An adult draws a pie chart of what led to a setback, giving each factor a slice including their own; owning their part and no more brings balance and learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

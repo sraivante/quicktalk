@@ -1,0 +1,269 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5042,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Mahima"
+    ],
+    "2": [
+     "Trisha",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Asking for help",
+   "subtype": "Waiting until it is too late [Actor]",
+   "description": "A student hides falling behind until an exam is near and only then asks for help. Shame delays the request, and delay makes the problem larger and the help harder to give.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 5043,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Simran"
+    ],
+    "2": [
+     "Sunaina",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Asking for help",
+   "subtype": "Asking clearly and after trying [Response]",
+   "description": "A wise helper-seeker explains what has been tried, where exactly the block is and what kind of help is needed. Specific requests get faster and kinder answers, and they respect the other person's time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5044,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Darshan"
+    ],
+    "2": [
+     "Beatriz",
+     "Lindiwe"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Asking for help",
+   "subtype": "Colleague who never asks [Observer]",
+   "description": "A senior notices a new hire silently stuck for days and wasting effort, not out of laziness but out of fear of seeming incompetent. Many people find it easier to stay stuck than to ask.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5045,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Reena"
+    ],
+    "2": [
+     "Nazia",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Asking for help",
+   "subtype": "Being asked and feeling valued [Receiver]",
+   "description": "A person approached for advice often feels trusted and pleased rather than burdened, unless asked at a bad time or too often. People tend to overestimate how much the asker is imposing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5046,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Pallavi"
+    ],
+    "2": [
+     "Zubin",
+     "Seema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Sharing tasks in a student group [Actor]",
+   "description": "A group leader in a project either takes everything or hands out pieces with no check-in, and members either resent the load or vanish. Fair splitting needs clear owners and one agreed checkpoint.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: resentment",
+    "related concepts: splitting"
+   ]
+  },
+  {
+   "sno": 5047,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Preeti"
+    ],
+    "2": [
+     "Bidisha",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Doing it all yourself [Actor]",
+   "description": "A new team lead redoes tasks personally because it feels faster and safer than explaining them. Short-term speed is bought at the cost of a growing personal workload and a team that never learns.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5048,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Yash"
+    ],
+    "2": [
+     "Bhavna",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Vague handing off of work [Actor]",
+   "description": "A manager passes a task with a single line and expects the result to match what was in their head. When it does not, the frustration is blamed on the person, though the instruction was the gap.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5049,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Chaitanya"
+    ],
+    "2": [
+     "Indu",
+     "Nilesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Receiving unclear delegation [Receiver]",
+   "description": "A junior gets a task without context, priority or the standard expected, and guesses. If the result is criticised afterwards, they feel set up to fail and become more cautious.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5050,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Soo-ah",
+     "Nadia"
+    ],
+    "2": [
+     "Indu",
+     "Ritu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Micromanaging after delegating [Actor]",
+   "description": "A lead hands off work but checks every step and quietly rewrites the output. The anxiety behind it is about accountability, but the team reads it as distrust and stops taking ownership.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5051,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Santosh"
+    ],
+    "2": [
+     "Ayesha",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Delegating",
+   "subtype": "Delegating outcome, context and check-in [Response]",
+   "description": "A wise delegator explains the goal, why it matters, the deadline and the quality expected, then agrees a checkpoint and allows the person their own method. Trust with a safety net grows both skill and reliability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

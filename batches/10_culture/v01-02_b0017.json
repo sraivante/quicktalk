@@ -1,0 +1,267 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4932,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Chetan",
+     "Varun"
+    ],
+    "2": [
+     "Sabina",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Dealing with bureaucracy and corruption pressure",
+   "subtype": "Asked for speed money [Receiver]",
+   "description": "A young adult is hinted that a file will move faster with a little extra. Fear of delay tempts compliance; knowing official procedures, keeping records and using complaint channels are safer ways forward.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4933,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Vandana"
+    ],
+    "2": [
+     "Deepak",
+     "Dilnaz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Dealing with bureaucracy and corruption pressure",
+   "subtype": "Tempted by a shortcut [Actor]",
+   "description": "A young professional weighs paying a small bribe against weeks of delay, and justifies it as everyone does it. Each small payment supports the system, though real pressure and real cost deserve honest thought.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4934,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Thomas",
+     "Aadhya"
+    ],
+    "2": [
+     "Jeevan",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Dealing with bureaucracy and corruption pressure",
+   "subtype": "Official pressed to accept [Actor]",
+   "description": "A young government employee is pushed by colleagues to join a shared arrangement of favours. Refusing brings isolation, and support from an honest mentor, clear rules and legal channels protect them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4935,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Vandana"
+    ],
+    "2": [
+     "Chinmay",
+     "Hansa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Dealing with bureaucracy and corruption pressure",
+   "subtype": "Using rights and RTI [Response]",
+   "description": "A young adult files a right to information request or a formal complaint calmly and keeps copies. Systems often move when someone politely and persistently insists on the process.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4936,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Pranav"
+    ],
+    "2": [
+     "Jasleen",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Dealing with bureaucracy and corruption pressure",
+   "subtype": "Weariness and cynicism [Observer]",
+   "description": "A citizen who has seen many delays decides that nothing can change and stops trying. Cynicism is understandable, but small honest acts and shared complaints do change how offices behave over time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4937,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Pallavi"
+    ],
+    "2": [
+     "Chaitanya",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Fear of the uniform [Actor]",
+   "description": "A child sees police as scary figures, told by adults that they will take you away if you misbehave. Fear teaches little; explaining that police are there to help, and to be cautious yet respectful, is healthier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: admiration, fear"
+   ]
+  },
+  {
+   "sno": 4938,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Yamini"
+    ],
+    "2": [
+     "Eshaan",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Stopped on a road [Receiver]",
+   "description": "A teenager on a scooter is stopped by police and asked for papers, feeling nervous and unsure. Staying calm, being polite, carrying documents and calling a parent are sensible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4939,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Wasim"
+    ],
+    "2": [
+     "Shalini",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Knowing your rights [Response]",
+   "description": "A young adult learns basics such as that an arrested person must be told the reason, may call family and has a right to a lawyer. Knowing this calmly, without arguing, is protective.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4940,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Vikas"
+    ],
+    "2": [
+     "Manoj",
+     "Mridul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Fear of registering a complaint [Receiver]",
+   "description": "A young adult hesitates to file a police complaint over theft or harassment, expecting delay or blame. Going with a trusted person, writing details and seeking legal aid or a senior officer if refused are valid steps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4941,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Uday"
+    ],
+    "2": [
+     "Lalremsiami",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Police who help [Observer]",
+   "description": "A citizen sees an officer patiently help a lost child or an accident victim and updates a harsh view. Both good and bad officers exist, and fair judgement avoids painting everyone alike.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

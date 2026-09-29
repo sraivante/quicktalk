@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7131,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Baljeet",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a wedding and family expectations",
+   "subtype": "Approach: contingency planning for weather and delays [Thinking]",
+   "description": "They prepare an indoor option for an outdoor function during monsoon and keep a small reserve for surprises. When rain arrives, the shift takes an hour instead of a crisis.",
+   "graph_context": [
+    "same problem, other approaches: delegation, magical thinking, negotiation, resource and budget planning, values-first planning, working backward",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 7132,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Thomas",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a wedding and family expectations",
+   "subtype": "Approach: pausing to reset after a conflict over guests [Revision]",
+   "description": "After a heated fight over the guest list, they step back, agree on a cap and a rule for exceptions, and explain it kindly to both families with the reasons.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, delegation, magical thinking, negotiation, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7133,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: laying out all income, debts and goals openly [Thinking]",
+   "description": "Newly married, a couple lists salaries, education loan EMIs, savings and plans. Seeing the whole picture together lets them reason as one team rather than guess about each other.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7134,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: three-account structure of joint and personal money [Action]",
+   "description": "They open a joint account for rent and bills, each contributing in proportion to income, and keep separate accounts for personal spending. This gives shared security and individual freedom.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7135,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: setting a monthly money meeting [Action]",
+   "description": "Every first Sunday they review expenses for thirty minutes with tea. Small problems are discussed early, and neither feels ambushed by a big purchase.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7136,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: values-first planning about saving versus spending [Thinking]",
+   "description": "One partner wants to save for a flat, the other values travel. They agree on a percentage for each goal, so neither feels their priority is dismissed.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7137,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Elizabeth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: one partner managing everything without discussion [Pitfall]",
+   "description": "Assuming it is easier, the husband handles all money matters. His wife does not know the loans or savings, and a sudden expense causes tension and mistrust.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7138,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: hiding a debt or spending to avoid a fight [Pitfall]",
+   "description": "One partner conceals a credit card balance, hoping to clear it quietly. When it comes out, the concern shifts from the amount to broken trust, which takes longer to repair.",
+   "graph_context": [
+    "same problem, other approaches: resource and budget planning, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7139,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: comparing with friends' lifestyles [Pitfall]",
+   "description": "Seeing colleagues buy cars and holidays, the couple raises their spending without checking their own budget. Within months they rely on credit cards and argue frequently.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, values-first planning"
+   ]
+  },
+  {
+   "sno": 7140,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Parveen",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Merging finances with a partner",
+   "subtype": "Approach: building an emergency fund first [Action]",
+   "description": "They decide to hold six months of expenses in a liquid account before big goals. A job loss scare later shows why, as they get through it without borrowing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, values-first planning"
+   ]
+  }
+ ]
+}

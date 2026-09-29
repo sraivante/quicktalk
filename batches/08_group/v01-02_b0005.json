@@ -1,0 +1,267 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3389,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Bidisha"
+    ],
+    "2": [
+     "Minakshi",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Guilt after not acting [Actor]",
+   "description": "A young adult regrets having watched and done nothing. Instead of hiding, they use the shame to decide how to act next time and to apologise to the person affected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shame, guilt, regret"
+   ]
+  },
+  {
+   "sno": 3390,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Hemant",
+     "Abhinav"
+    ],
+    "2": [
+     "Hrithik",
+     "Kiran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Public emergency on a street [Observer]",
+   "description": "A commuter sees someone collapse or a woman harassed, and the crowd keeps walking. Pluralistic ignorance makes each person read the others' inaction as proof it is not serious.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3391,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Gopika"
+    ],
+    "2": [
+     "Ankita",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Assigning a specific person [Response]",
+   "description": "An adult in an emergency points at one person and says you, call an ambulance, you, bring water. Naming someone breaks the diffusion of responsibility and gets action moving.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "possibly related concept (heuristic): Moral disengagement: displacing and diffusing responsibility"
+   ]
+  },
+  {
+   "sno": 3392,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Farida",
+     "Ganga"
+    ],
+    "2": [
+     "Lavanya",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Coasting in group work [Actor]",
+   "description": "A child lets others do most of the poster or project because their own effort will not be noticed. The group's shared credit makes doing less feel safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3393,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Vinita"
+    ],
+    "2": [
+     "Siddharth",
+     "Chinmay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Clear roles and named tasks [Response]",
+   "description": "A teacher or child assigns each member a named part and shows who did what. Visible individual accountability shrinks loafing without needing punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3394,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Parveen"
+    ],
+    "2": [
+     "Manjula",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Hidden effort in group assignments [Actor]",
+   "description": "A teenager does the minimum in a group project, assuming the diligent ones will finish it. They feel a little guilty but also clever, and rarely admit it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3395,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Avni",
+     "Irawati"
+    ],
+    "2": [
+     "Nour",
+     "Ingrid"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Carrying the group alone [Receiver]",
+   "description": "A conscientious student ends up doing most of a shared task and grows resentful. They fear complaining will look bossy, so anger builds quietly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger, fear, resentment"
+   ]
+  },
+  {
+   "sno": 3396,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Farida"
+    ],
+    "2": [
+     "Ojas",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Free rider defended by friendship [Observer]",
+   "description": "Team members see a friend not pulling their weight and stay silent to protect the relationship. The unfairness slowly damages the whole team's trust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3397,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Jyoti"
+    ],
+    "2": [
+     "Zainab",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Feeling anonymous in a large team [Actor]",
+   "description": "A student in a big group feels their contribution does not matter or cannot be traced, so effort drops. The same student works hard when their part is visible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3398,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Vijay"
+    ],
+    "2": [
+     "Kofi",
+     "Siddiq"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Talking to the loafer first [Response]",
+   "description": "A team member asks a coasting teammate what is going on, in private, before escalating. Sometimes there is a hidden reason such as illness or confusion, and sometimes it is plain avoidance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: confusion",
+    "related concepts: avoidance"
+   ]
+  }
+ ]
+}

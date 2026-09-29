@@ -1,0 +1,28 @@
+STAGE: execution
+Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 4. Expected records: 8.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+
+STAGE INSTRUCTIONS
+Rows describe how people carry out intentions (planning, follow-through, money handling, feedback, mistakes, emergencies). The passage includes concrete ordered steps and a visible result or consequence. No professional advice; this is everyday competence. Safety-critical scenes show the safe choice and calling for help.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5192, "plan": {"1": "R14", "2": "R15"}, "cast": {"1": ["Usha", "Hafsa"], "2": ["Vandana", "Keerthana"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Ordered to bend the rules [Receiver]", "description": "A junior employee asked by a superior to backdate, hide an error or skip a required check feels caught between loyalty, fear and conscience. Career risk is real, which is why many comply and later regret it.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: fear, regret"]}
+{"sno": 5193, "plan": {"1": "R4", "2": "R5"}, "cast": {"1": ["Vaibhav", "Rukmini"], "2": ["Noor", "Yogesh"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Colleague who notices wrongdoing [Observer]", "description": "A coworker sees a questionable practice and stays silent, unsure whether it is their business and fearing the cost of speaking up. Silence is easier in the moment, and most people admit later that they wish they had asked a question.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: fear"]}
+{"sno": 5194, "plan": {"1": "R4", "2": "R5"}, "cast": {"1": ["Irawati", "Vijay"], "2": ["Jatin", "Hansa"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Raising a concern safely [Response]", "description": "A wise person documents the facts, raises the issue first with the direct person or manager calmly, and uses official channels if ignored. Asking a question is often less confrontational than making an accusation and equally effective.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: calm, trust"]}
+{"sno": 5195, "plan": {"1": "R13", "2": "R14"}, "cast": {"1": ["Aadhya", "Jasleen"], "2": ["Preeti", "Vijay"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Honest about limits and errors [Response]", "description": "A person under pressure tells a client or manager plainly what cannot be done or what went wrong and offers a real alternative. Short-term discomfort is smaller than the damage when a concealment is discovered.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22"]}
+
+Return exactly 8 JSON Lines and nothing else.

@@ -1,0 +1,42 @@
+STAGE: wellbeing
+Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows cover positive or reflective states (flow, awe, hope, humility, patience) and conversation skills. For conversation rows include actual spoken or texted lines, short and natural, with the effect on the other person. The application answer offers a small, specific, kind alternative. Avoid saccharine or preachy tone. Texts and chats in these scenes may carry a fitting emoji or two.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5376, "plan": {"1": "R14", "2": "R15"}, "cast": {"1": ["Trisha", "Rashmi"], "2": ["Hansa", "Shankar"]}, "age": "18–22", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Arguing productively", "subtype": "Conceding a point [Response]", "description": "A young adult says that is a fair point and adjusts their position. Yielding to a good argument builds credibility and shows that the goal is truth, not ego.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 5377, "plan": {"1": "R3", "2": "R4"}, "cast": {"1": ["Rafiq", "Bhavna"], "2": ["Zubin", "Vidya"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Arguing productively", "subtype": "Cooling down and returning [Response]", "description": "Partners or colleagues in a heated dispute agree to take twenty minutes and come back. A planned pause is not avoidance if it ends with a return to the matter.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related concepts: avoidance"]}
+{"sno": 5378, "plan": {"1": "R7", "2": "R8"}, "cast": {"1": ["Eshaan", "Mahima"], "2": ["Oskar", "Esther"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Arguing productively", "subtype": "Stonewalling as withdrawal [Receiver]", "description": "A person whose partner goes silent, arms crossed, during a disagreement feels shut out and escalates. The silent one is often overwhelmed and needs a break, and both need a way to say so.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: detachment, overwhelm"]}
+{"sno": 5379, "plan": {"1": "R1", "2": "R2"}, "cast": {"1": ["Deepak", "Irawati"], "2": ["Vinita", "Rukmini"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Texting tone and misunderstandings", "subtype": "Literal reading [Receiver]", "description": "A child reads a short okay from a friend as anger. Without voice and face, short messages get interpreted through the reader's own fears.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26", "related mind states: anger, fear"]}
+{"sno": 5380, "plan": {"1": "R3", "2": "R4"}, "cast": {"1": ["Vandana", "Ankita"], "2": ["Zainab", "Mohit"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Texting tone and misunderstandings", "subtype": "Punctuation as mood [Receiver]", "description": "A teenager notices a full stop after a reply or a missing emoji and worries a friend is upset. Tone in text is guessed, and guesses lean negative when anxious.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26", "related mind states: anxiety"]}
+{"sno": 5381, "plan": {"1": "R4", "2": "R5"}, "cast": {"1": ["Hansa", "Rashmi"], "2": ["Mridul", "Chandrika"]}, "age": "18–22", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Texting tone and misunderstandings", "subtype": "Checking before assuming [Response]", "description": "A young adult asks are you upset with me or is it my imagination, instead of building a story from a delayed reply. Asking a direct, gentle question stops anxious spirals.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26", "related mind states: anxiety"]}
+{"sno": 5382, "plan": {"1": "R11", "2": "R12"}, "cast": {"1": ["Pooja", "Disha"], "2": ["Raghav", "Sarita"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Texting tone and misunderstandings", "subtype": "Too serious for text [Response]", "description": "A person recognises a sensitive matter is escalating over messages and calls or meets in person. Voice and face carry warmth that text cannot.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: affection"]}
+{"sno": 5383, "plan": {"1": "R9", "2": "R10"}, "cast": {"1": ["Usha", "Vijay"], "2": ["Arohi", "Sarita"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Texting tone and misunderstandings", "subtype": "Read receipts and response anxiety [Receiver]", "description": "A person sees a message read but not answered and starts spinning explanations. Delays usually mean busyness, and giving others the benefit of doubt saves needless pain.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: anxiety, doubt, hurt"]}
+{"sno": 5384, "plan": {"1": "R15", "2": "R1"}, "cast": {"1": ["Leela", "Jyoti"], "2": ["Minakshi", "Kashish"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Voice notes", "subtype": "Casual intimacy [Actor]", "description": "A teenager sends long voice notes to close friends, laughing and rambling. Voice notes feel more personal than text and carry emotion, but assume the friend has time and privacy.", "graph_context": ["this subtopic also appears at ages: 18–22, 23–26", "related mind states: amusement"]}
+{"sno": 5385, "plan": {"1": "R4", "2": "R5"}, "cast": {"1": ["Ganga", "Tejas"], "2": ["Ira", "Sachin"]}, "age": "18–22", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Voice notes", "subtype": "Voice note burden [Receiver]", "description": "A student receives a five-minute voice note in a lecture or on a train and cannot listen. Receivers often want a text summary, and senders may not realise the demand on their time.", "graph_context": ["this subtopic also appears at ages: 13–17, 23–26"]}
+
+Return exactly 20 JSON Lines and nothing else.

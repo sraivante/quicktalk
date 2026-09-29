@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1168,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Family × Argument [Actor]",
+   "description": "At dinner my uncle and I clash over politics. Wise: listen for his worry, keep facts calm, and leave respectfully if it turns heated. A relationship matters more than winning.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, confusion, contempt, hatred, manipulation",
+    "related mind states: admiration, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 1169,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Friend × Disagreement [Actor]",
+   "description": "A close friend backs the opposite party. Wise: talk about values behind the views, agree not to convert each other, and not let it break the friendship.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, confusion, contempt, hatred, manipulation"
+   ]
+  },
+  {
+   "sno": 1170,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rekha",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Online stranger × Manipulation [Receiver]",
+   "description": "Memes and videos push me to hate a group and share outrage. Recognise it: content built to anger me is often built for profit or power. Pause and verify before sharing.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, argument, confusion, contempt, hatred",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1171,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Harish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Self × Confusion [Actor]",
+   "description": "I hold views that don't fit either side and feel pressured to pick. Wise: it is fine to say I'm still learning. Reading widely is stronger than joining a team early.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, argument, contempt, hatred, manipulation",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 1172,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Cause × Idealism [Actor]",
+   "description": "I feel the pull of a cause like the environment, farmers or exam fairness, and want to act. Wise: learn the facts, choose peaceful and lawful ways, and tell a trusted adult where I will be.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, exploitation, fear, protectiveness",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 1173,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ines",
+     "Olga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Friend × Peer pressure [Receiver]",
+   "description": "Friends push me to join a rally or share something fierce that I don't fully understand. Wise: understand before acting; belonging is not a reason to do what I don't believe.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, exploitation, fear, protectiveness",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 1174,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Organiser × Exploitation [Receiver]",
+   "description": "An organiser uses students as a crowd or shield and offers little safety. Recognise it: wise leaders protect the young, and I can leave when it feels unsafe.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, fear, protectiveness",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1175,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Deepika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Authority × Fear [Receiver]",
+   "description": "I'm afraid of consequences like police action or school punishment. Wise: know my rights, keep to peaceful means, and remember that fear is honest data, not cowardice.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, exploitation, protectiveness",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 1176,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Farhan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Parent × Protectiveness [Receiver]",
+   "description": "My parents forbid me to join a protest because they fear for me. Wise: hear them, offer safer ways to contribute like writing or fundraising, and show I take risks seriously.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, exploitation, fear",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 1177,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Self × Burnout [Actor]",
+   "description": "I pour everything into the cause and feel guilty about resting. Wise: causes need people who last; rest and studies are part of long-term commitment.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, exploitation, fear, protectiveness",
+    "related mind states: guilt"
+   ]
+  }
+ ]
+}

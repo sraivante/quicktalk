@@ -1,0 +1,35 @@
+STAGE: situational
+Variant ids in this batch: 1 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+
+STAGE INSTRUCTIONS
+Rows are one cell of a situation x counterpart x stance grid. Subtype reads "Counterpart × Stance [Actor|Receiver]" (older rows without a tag are the Actor view). Show that exact counterpart and stance in the situation named by the subtopic. Mixed feelings are welcome. Hatred, contempt, obsession, manipulation and coercion rows teach recognition, understanding of what drives them, protection and de-escalation; never give tactics. The perspective question should ask how the counterpart sees the moment.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 338, "plan": {"1": "R13"}, "cast": {"1": ["Parul", "Tarun"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Rule dispute in a game", "subtype": "Friend × Argument", "description": "Both claim to be right; a mature approach is to state own view, hear the other, and agree on a rule or ask a fair referee rather than quitting or cheating."}
+{"sno": 339, "plan": {"1": "R7"}, "cast": {"1": ["Ritu", "Tanvir"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Rule dispute in a game", "subtype": "Friend × Compromise", "description": "Gives in on a small point to keep the game going and the friendship warm; understands that friendship matters more than winning.", "graph_context": ["same situation, other stances at this age: argument"]}
+{"sno": 340, "plan": {"1": "R3"}, "cast": {"1": ["Nirmala", "Ojas"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Rule dispute in a game", "subtype": "Rival × Hostility", "description": "Sees the winner as an enemy and taunts; learning to separate the game from the person prevents grudges.", "graph_context": ["same situation, other stances at this age: argument", "related mind states: hostility, resentment"]}
+{"sno": 341, "plan": {"1": "R8"}, "cast": {"1": ["Paulo", "Javier"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Classmate wins the prize", "subtype": "Best friend × Envy", "description": "Feels a sting of jealousy and pride at the same time; a healthy response is to congratulate and use it as a signal to practice more.", "graph_context": ["same situation, other stances at this age: admiration", "related mind states: pride, envy, jealousy"]}
+{"sno": 342, "plan": {"1": "R15"}, "cast": {"1": ["Neelam", "Reena"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Classmate wins the prize", "subtype": "Rival × Envy & resentment", "description": "Believes the win was unfair and spreads gossip; learns that resentment hurts the holder more than the winner.", "graph_context": ["same situation, other stances at this age: admiration", "related mind states: envy, resentment, hurt"]}
+{"sno": 343, "plan": {"1": "R7"}, "cast": {"1": ["Uday", "Yogesh"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Classmate wins the prize", "subtype": "Classmate × Admiration", "description": "Studies how the winner practised and asks for tips, converting admiration into a role model.", "graph_context": ["same situation, other stances at this age: envy", "related mind states: admiration"]}
+{"sno": 344, "plan": {"1": "R8"}, "cast": {"1": ["Astrid", "Liam"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Teacher gives feedback", "subtype": "Teacher × Respect & admiration", "description": "Treats feedback as guidance, asks a follow-up question and applies it; respect includes honest disagreement, not blind obedience.", "graph_context": ["same situation, other stances at this age: resentment", "related mind states: admiration"]}
+{"sno": 345, "plan": {"1": "R4"}, "cast": {"1": ["Vasudha", "Pradeep"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Teacher gives feedback", "subtype": "Teacher × Resentment", "description": "Believes the teacher dislikes them and stops trying; learning to separate the feedback from the person keeps progress alive.", "graph_context": ["same situation, other stances at this age: admiration", "related mind states: resentment"]}
+{"sno": 346, "plan": {"1": "R4"}, "cast": {"1": ["Himani", "Uday"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Elder gives advice", "subtype": "Grandparent × Respect", "description": "Listens without interrupting, values lived experience and still asks \"why?\" politely; respect and curiosity coexist.", "graph_context": ["same situation, other stances at this age: anger", "related mind states: admiration, curiosity"]}
+{"sno": 347, "plan": {"1": "R4"}, "cast": {"1": ["Binita", "Sharmila"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Elder gives advice", "subtype": "Parent × Irritation", "description": "Feels lectured and rolls eyes; learns to say \"I heard you, let me try my way\" rather than sulking or shouting.", "graph_context": ["same situation, other stances at this age: respect", "related mind states: anger"]}
+
+Return exactly 10 JSON Lines and nothing else.

@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5961,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Tanuja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: saying sorry for his part and asking to play again [Action]",
+   "description": "The next day the boy goes to his friend and says sorry for laughing, and that he did not mean to hurt. Then he asks if they can play football together at recess.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 5962,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Anders",
+     "Tariq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: waiting for the other friend to say sorry first [Pitfall]",
+   "description": "A girl thinks it was all her friend's fault and refuses to talk. Both wait for the other to speak first, and days pass while they feel lonely and their friends pick sides.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 5963,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: telling other classmates his side of the story [Pitfall]",
+   "description": "A boy tells everyone that his friend was unfair, hoping to be proved right. The story spreads and grows, making the friend angrier and the problem harder to mend.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5964,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Alka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: writing a small note if talking feels too hard [Action]",
+   "description": "A shy girl finds it hard to speak, so she writes Sorry I shouted, can we be friends? and puts it in her friend's desk. The note gives the friend time to feel and reply.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 5965,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Noor",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: asking a teacher for help to talk it out [Revision]",
+   "description": "Her first attempt to make up ends in shouting again. She notices they cannot fix it alone, so she asks the class teacher, who sits with both and lets each speak in turn.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning"
+   ]
+  },
+  {
+   "sno": 5966,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Nitin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: offering a fair fix like taking turns [Action]",
+   "description": "The fight was about who is captain in the game. The boys agree to alternate captains each day, which treats both fairly and prevents the same quarrel from happening again.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5967,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Nazia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: pretending nothing happened and acting normal [Thinking]",
+   "description": "A child simply invites his friend to share a snack as if there was no fight. It works sometimes for small quarrels, but it leaves the hurt unspoken if the friend is still upset.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5968,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Jaya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: copying rules from a game they already know [Thinking]",
+   "description": "A group of children design a new game on the terrace by borrowing from kabaddi and tag. Using known rules gives them a working start without inventing everything from nothing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure"
+   ]
+  },
+  {
+   "sno": 5969,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Samir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: deciding the goal and how someone wins first [Thinking]",
+   "description": "A girl says a game needs an end. Her group decides that the first team to collect five flags wins, and then builds the rules of movement around that goal.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure"
+   ]
+  },
+  {
+   "sno": 5970,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Tariq",
+     "Gabriel"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a game with rules",
+   "subtype": "Approach: playing a quick trial round to test it [Action]",
+   "description": "The children try the game for five minutes without fixing every rule. They notice the same fast runner always wins, so they add a rule that runners must hop for the last few steps.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  }
+ ]
+}

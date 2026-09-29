@@ -1,0 +1,267 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6691,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Startup idea in college",
+     "subtype": "Approach: divergent brainstorming of problems seen daily [Thinking]",
+     "description": "A student lists irritations from hostel life, such as laundry delays and mess complaints, and picks the one that classmates mention most often as a candidate problem."
+    },
+    {
+     "sno": 6692,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Startup idea in college",
+     "subtype": "Approach: talking to twenty potential users first [Action]",
+     "description": "Before building anything, the student interviews twenty hostel residents about how they handle laundry and what they pay, and learns that pricing matters more than an app."
+    },
+    {
+     "sno": 6694,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Startup idea in college",
+     "subtype": "Approach: falling in love with the idea [Pitfall]",
+     "description": "The founder hears only encouraging feedback from friends, ignores polite doubts, and spends savings on a logo and website before checking whether strangers want the product."
+    },
+    {
+     "sno": 6699,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Startup idea in college",
+     "subtype": "Approach: adaptive replanning and pivot [Revision]",
+     "description": "Noticing that customers use the service mainly for exam-week printouts, the founders narrow the idea to a notes-and-printing service and see orders grow."
+    }
+   ],
+   "cluster_id": "C0553",
+   "cast": [
+    "Harsha",
+    "Kunal",
+    "Wasim"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 7277,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning a fundraising round",
+     "subtype": "Approach: working backward from the funding target [Thinking]",
+     "description": "A founder needs eighteen months of runway, calculates the amount, then works back to the number of investor meetings, the pitch deadline and the metrics needed by that date."
+    },
+    {
+     "sno": 7278,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning a fundraising round",
+     "subtype": "Approach: building a target investor list [Action]",
+     "description": "The founder lists sixty angels and seed funds that have backed health-tech in India, ranks them by fit and warm introductions, and tracks each contact in a shared sheet."
+    },
+    {
+     "sno": 7279,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning a fundraising round",
+     "subtype": "Approach: pitching everyone without research [Pitfall]",
+     "description": "A founder sends the same deck to two hundred investors. Most reject quickly because the startup does not match their focus, and the team's time is wasted on mass emailing."
+    },
+    {
+     "sno": 7285,
+     "age": "23–26",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Planning a fundraising round",
+     "subtype": "Approach: revising the story after repeated no's [Revision]",
+     "description": "After fifteen rejections citing the same concern, the founder stops pitching, fixes the traction gap by signing three pilot customers, and returns to investors with better evidence."
+    }
+   ],
+   "cluster_id": "C0554",
+   "cast": [
+    "Tushar",
+    "Bidisha",
+    "Sumit"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6319,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Asking a crush out respectfully",
+     "subtype": "Approach: mental rehearsal of a low-pressure invitation [Thinking]",
+     "description": "The student imagines asking a classmate to join a group study session or a school event, picks words that are easy to decline, and prepares a calm reply for either answer."
+    },
+    {
+     "sno": 6320,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Asking a crush out respectfully",
+     "subtype": "Approach: building a friendly connection first [Action]",
+     "description": "Over a few weeks the student chats about shared interests in class projects and clubs, watching whether the other person seems comfortable, before suggesting a casual activity in a group."
+    },
+    {
+     "sno": 6322,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Asking a crush out respectfully",
+     "subtype": "Approach: grand public gesture [Pitfall]",
+     "description": "Inspired by films, a student plans to ask in front of the whole class with flowers. The audience pressure makes a comfortable answer difficult and can embarrass the other person, whatever the reply."
+    },
+    {
+     "sno": 6327,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Asking a crush out respectfully",
+     "subtype": "Approach: handling a rejection and recovering [Revision]",
+     "description": "After a polite no, the student thanks her, gives space, spends time with friends and sport, and notes that disappointment fades. Continuing normal friendly behaviour keeps the classroom comfortable."
+    }
+   ],
+   "cluster_id": "C0555",
+   "cast": [
+    "Gautam",
+    "Tarun",
+    "Dolma"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6874,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Avoiding a scam investment",
+     "subtype": "Approach: inversion asking how the offer could be a trap [Thinking]",
+     "description": "A student offered a promised monthly return of 10 percent by a college senior asks what would have to be true for that to be real, and sees that no lawful investment guarantees it. Imagining the trap first reveals warning signs."
+    },
+    {
+     "sno": 6875,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Avoiding a scam investment",
+     "subtype": "Approach: check registration with the regulator before paying [Action]",
+     "description": "Before sending money, the person looks up whether the platform and the adviser are registered with SEBI or the relevant regulator, and reads reviews and complaints. A few minutes of checking replaces trust in a persuasive pitch."
+    },
+    {
+     "sno": 6876,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Avoiding a scam investment",
+     "subtype": "Approach: fear of missing out drives a quick decision [Pitfall]",
+     "description": "Seeing friends post screenshots of gains, a young worker rushes into a Telegram tip group and transfers savings within an hour. Social proof and urgency shut down checking, and the money cannot be recovered."
+    },
+    {
+     "sno": 6880,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Avoiding a scam investment",
+     "subtype": "Approach: report and stop after noticing withdrawal blocks [Revision]",
+     "description": "When the app asks for a further fee to release money, the person sees the pattern, stops paying, saves the chats and screenshots, and files a complaint on the cybercrime portal and with the bank. Cutting losses early limits harm."
+    }
+   ],
+   "cluster_id": "C0556",
+   "cast": [
+    "Himani",
+    "Sharmila",
+    "Alka"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6040,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for a school performance",
+     "subtype": "Approach: breaking the song or play into small parts [Thinking]",
+     "description": "A girl in a school play divides her part into four scenes and learns one scene each day. This makes the long script less scary and she can check her progress."
+    },
+    {
+     "sno": 6041,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for a school performance",
+     "subtype": "Approach: rehearsing in front of a mirror or family [Action]",
+     "description": "A boy practises his poem recitation in front of his family after dinner. They tell him to slow down and look up, and he improves before the day comes."
+    },
+    {
+     "sno": 6043,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for a school performance",
+     "subtype": "Approach: practising only the parts she already knows well [Pitfall]",
+     "description": "A girl keeps repeating the first verse of the song because she enjoys it. On stage she is confident at first, then forgets the second verse she has barely practised."
+    },
+    {
+     "sno": 6047,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for a school performance",
+     "subtype": "Approach: recording a practice and noticing mistakes [Revision]",
+     "description": "A boy records his speech on his mother's phone and finds he speaks too fast and mumbles the end. He adjusts by pausing after each sentence and re-records to compare."
+    }
+   ],
+   "cluster_id": "C0557",
+   "cast": [
+    "Ankita",
+    "Binita",
+    "Damini"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6172,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning an instrument",
+     "subtype": "Approach: short daily practice at a fixed time [Action]",
+     "description": "A girl learning harmonium practises fifteen minutes right after evening snack, and this routine makes it easier than trying to choose a time every day."
+    },
+    {
+     "sno": 6173,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning an instrument",
+     "subtype": "Approach: breaking a song into small parts [Thinking]",
+     "description": "A boy stuck on a tabla piece practises the first two beats slowly, then adds the next, thinking that a hard piece is only many small easy pieces joined together."
+    },
+    {
+     "sno": 6174,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning an instrument",
+     "subtype": "Approach: playing only the parts already known [Pitfall]",
+     "description": "A child keeps repeating the easy opening of a song because it sounds good, and so the difficult middle never improves, and the lesson feels the same each week."
+    },
+    {
+     "sno": 6175,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning an instrument",
+     "subtype": "Approach: using a teacher's feedback to correct errors [Revision]",
+     "description": "After the guitar teacher points out wrong finger placement, the girl slows down, watches her hand in a mirror, and fixes the chord that kept sounding muffled."
+    }
+   ],
+   "cluster_id": "C0558",
+   "cast": [
+    "Swati",
+    "Bhavna",
+    "Uma"
+   ]
+  }
+ ]
+}

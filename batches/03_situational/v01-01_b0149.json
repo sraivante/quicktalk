@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1798,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Alka",
+     "Charu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Mentor relationship",
+   "subtype": "Mentor × Dependence [Actor]",
+   "description": "I keep asking my mentor to decide everything for me because I fear making mistakes. I take small decisions myself, ask for perspective not answers, and build the trust in my own judgment that they are hoping I will.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, disillusionment, envy, exploitation, gratitude, pride",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 1799,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Hansa",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Longing [Actor]",
+   "description": "An ex messages me and old feelings surge, along with memories I have polished. I ask what I actually miss, remember why it ended, and choose consciously; acting on loneliness or nostalgia often reopens old wounds.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, forgiveness, jealousy, obsession",
+    "related mind states: loneliness, nostalgia, hurt"
+   ]
+  },
+  {
+   "sno": 1800,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Noa",
+     "Nadia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Anger [Actor]",
+   "description": "I still feel angry at how an ex treated me. I acknowledge the wrong, seek support from friends or a counsellor, and avoid revenge posts or messages; carrying rage keeps me tied to them.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, forgiveness, jealousy, obsession",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1801,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Nandini",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Obsession [Receiver]",
+   "description": "My ex keeps texting, calling, or turning up after I said it is over and I feel uneasy. I state one clear final boundary, do not engage further, keep records, inform trusted people, and seek help from authorities if it continues.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, forgiveness, jealousy",
+    "related mind states: anxiety, interest, trust"
+   ]
+  },
+  {
+   "sno": 1802,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Forgiveness [Actor]",
+   "description": "Years later I feel ready to forgive an ex. I release resentment for my own peace and can say so briefly if it helps, without reopening the relationship or needing their apology first.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, jealousy, obsession",
+    "related mind states: calm, resentment"
+   ]
+  },
+  {
+   "sno": 1803,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Comparison [Actor]",
+   "description": "I compare my current partner with my ex and feel dissatisfied. I see that memory is edited and that I am comparing a real person with a highlight reel; I appreciate present strengths and speak honestly about needs.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, forgiveness, jealousy, obsession",
+    "related mind states: contentment, resentment"
+   ]
+  },
+  {
+   "sno": 1804,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Anand"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Awkward civility [Receiver]",
+   "description": "I run into my ex at a friend's wedding and feel anxious. I greet them politely, stay brief, and do not perform happiness or anger for the audience; ease returns with time and new life.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, forgiveness, jealousy, obsession",
+    "related mind states: anger, anxiety, embarrassment"
+   ]
+  },
+  {
+   "sno": 1805,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Jealousy [Actor]",
+   "description": "I see my ex happy with someone new and feel a stab of jealousy. I let the feeling pass without stalking their profile, remember my own reasons for leaving, and put attention into building my life.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, forgiveness, obsession",
+    "related mind states: joy, jealousy"
+   ]
+  },
+  {
+   "sno": 1806,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Nkechi",
+     "Beatriz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ex reappears",
+   "subtype": "Ex × Co-parenting [Actor]",
+   "description": "My ex and I share a child and still fight over small things. I keep talks short, child-focused, and respectful, and never use the child as messenger or weapon; the child's stability comes before my pride.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comparison, forgiveness, jealousy, obsession",
+    "related mind states: admiration, pride"
+   ]
+  },
+  {
+   "sno": 1807,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Toxic family dynamics",
+   "subtype": "Parent × Control [Receiver]",
+   "description": "My parent controls my choices with guilt, threats of illness, or silence and I feel guilty for wanting independence. This pattern is not love, and it is not my fault. I set gentle firm boundaries, keep warmth where possible, and seek support.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, compassion, deceit, guilt, resentment",
+    "related mind states: affection, guilt"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3018,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Usha"
+    ],
+    "2": [
+     "Nikita",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 3: Emotional distance [Receiver]",
+   "description": "The partner notices fewer touches, less curiosity and separate evenings. She feels lonely inside the relationship, more than she would alone, and yet says nothing to avoid a difficult talk.",
+   "graph_context": [
+    "previous stage: Diverging paths",
+    "next stage: The naming",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: curiosity, loneliness"
+   ]
+  },
+  {
+   "sno": 3019,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Sharmila"
+    ],
+    "2": [
+     "Ganga",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 4: The naming [Response]",
+   "description": "One finally says \"I feel we are drifting, and I am not sure how to bring us back.\" Saying it kindly out loud lets both decide whether to repair, try counselling or part with honesty.",
+   "graph_context": [
+    "previous stage: Emotional distance",
+    "next stage: Trying and deciding",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3020,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Gautam"
+    ],
+    "2": [
+     "Himani",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 5: Trying and deciding [Actor]",
+   "description": "They try for a few months and honestly ask whether the wish to fix it is love or fear of being alone. Staying out of guilt, or leaving out of restlessness, both need looking at truthfully.",
+   "graph_context": [
+    "previous stage: The naming",
+    "next stage: Parting with respect",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: affection, fear, guilt, boredom"
+   ]
+  },
+  {
+   "sno": 3021,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Sarika"
+    ],
+    "2": [
+     "Minakshi",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 6: Parting with respect [Response]",
+   "description": "If they part, they tell families with agreed words, avoid blaming stories and divide shared things fairly. Grief and relief usually arrive together, and time, friends and routine carry a person through.",
+   "graph_context": [
+    "previous stage: Trying and deciding",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration, grief, relief"
+   ]
+  },
+  {
+   "sno": 3022,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Hrithik",
+     "Bhupen"
+    ],
+    "2": [
+     "Uday",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 1: A threat is sensed [Actor]",
+   "description": "A teenager sees his girlfriend laughing with a classmate and feels his stomach tighten. The thought \"she likes him more\" arrives faster than any evidence for it.",
+   "graph_context": [
+    "next stage: Rumination",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 3023,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Baljeet",
+     "Nikita"
+    ],
+    "2": [
+     "Madhav",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 2: Rumination [Actor]",
+   "description": "He replays the scene, scrolls through her tagged photos and imagines the worst. Every ambiguous detail is read as proof, and looking for reassurance feeds the fear instead of easing it.",
+   "graph_context": [
+    "previous stage: A threat is sensed",
+    "next stage: Checking and questioning",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3024,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Beatriz",
+     "Astrid"
+    ],
+    "2": [
+     "Irfan",
+     "Mehak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 3: Checking and questioning [Actor]",
+   "description": "He asks who she was with and demands to see her chats, sure that he only wants the truth. What he calls love feels to her like being watched, and she starts to hide small things.",
+   "graph_context": [
+    "previous stage: Rumination",
+    "next stage: The receiver's strain",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3025,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Ujjwal"
+    ],
+    "2": [
+     "Harsha",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 4: The receiver's strain [Receiver]",
+   "description": "She feels guilty for innocent things and tiptoes around him, dropping friends to keep peace. Loving someone should not require shrinking one's world, and she may need a trusted adult's view.",
+   "graph_context": [
+    "previous stage: Checking and questioning",
+    "next stage: Naming the fear beneath",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: guilt, calm, trust"
+   ]
+  },
+  {
+   "sno": 3026,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Usha"
+    ],
+    "2": [
+     "Anirban",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 5: Naming the fear beneath [Response]",
+   "description": "A wiser friend asks \"what are you afraid of losing?\" He admits he feels not good enough, so the real issue is his self-worth, and controlling her cannot fix it.",
+   "graph_context": [
+    "previous stage: The receiver's strain",
+    "next stage: Choosing trust or stepping away",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3027,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Kiran",
+     "Tanuja"
+    ],
+    "2": [
+     "Ira",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Jealousy spiral",
+   "subtype": "Stage 6: Choosing trust or stepping away [Response]",
+   "description": "He tells her honestly that he felt insecure and stops checking, or if the pattern will not stop, both accept the relationship is not healthy. Controlling behaviour is a signal to involve a counsellor or elder.",
+   "graph_context": [
+    "previous stage: Naming the fear beneath",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust, insecurity"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2282,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Jyoti"
+    ],
+    "2": [
+     "Deepak",
+     "Preeti"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Ceremonial greetings [Expressing]",
+   "description": "A young child greets with namaste, salaam, a bow or a blessing sign as taught. These greetings show respect and belonging, and forms vary by family, region and faith.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: admiration, nostalgia"
+   ]
+  },
+  {
+   "sno": 2283,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Bidisha"
+    ],
+    "2": [
+     "Kavitha",
+     "Nikita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Simple prayers and blessings [Expressing]",
+   "description": "A preschooler recites a short prayer or asks for blessings, or says thanks before a meal. Meaning is learned through routine and warmth, and the child can ask simple questions about what it means.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, gratitude"
+   ]
+  },
+  {
+   "sno": 2284,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Manjula"
+    ],
+    "2": [
+     "Mina",
+     "Zeynep"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Facial grammar in sign [Interpreting]",
+   "description": "A young child reads raised brows for questions or mouth shapes that modify signs. In signed languages, facial and body movements are grammatical and not just emotion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2285,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Sangeeta"
+    ],
+    "2": [
+     "Yusuf",
+     "Charu"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Handshape, location and movement [Expressing]",
+   "description": "A young signer learns handshapes, locations and movements that make up signs, as spoken children learn sounds. Signed languages have their own grammar, not simplified gestures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2286,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Chandrika"
+    ],
+    "2": [
+     "Keerthana",
+     "Dhruv"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Drawing and early writing of messages [Expressing]",
+   "description": "A preschooler draws and scribbles \"letters\" to share feelings, such as a card for a parent. The message lies in the intent and picture, and adults respond to the meaning rather than the spelling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2287,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Noor"
+    ],
+    "2": [
+     "Uday",
+     "Ishita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Performing arts",
+   "subtype": "Dramatic play and acting out roles [Expressing]",
+   "description": "A preschooler plays doctor, parent or monster with voices and gestures, working through fears and everyday events. Scary play is often a way to master worry rather than a sign of wrongdoing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 2288,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Kalyani"
+    ],
+    "2": [
+     "Parul",
+     "Imran"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Performing arts",
+   "subtype": "Storytelling and puppetry [Expressing]",
+   "description": "A young child tells a story with puppets, giving characters feelings the child may not yet name directly. A wise listener asks about the character first, without pressing the child to admit the story is about them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2289,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Sahil"
+    ],
+    "2": [
+     "Pradeep",
+     "Aparna"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Drawings of family and feelings [Expressing]",
+   "description": "A young child draws a house, sun and family, often with bright colours for what feels important. A drawing is a starting point for conversation, and colour or size alone should not be over-interpreted as a diagnosis.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2290,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Uma"
+    ],
+    "2": [
+     "Manjula",
+     "Rekha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Gifts and handmade tokens [Expressing]",
+   "description": "A preschooler presses a drawing or a rakhi into an adult's hand, expressing affection, wish to please or gratitude. Receiving it warmly teaches that feelings can be shared through objects.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, gratitude"
+   ]
+  },
+  {
+   "sno": 2291,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Sumit"
+    ],
+    "2": [
+     "Himani",
+     "Hansa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Dressing up and costumes [Expressing]",
+   "description": "A preschooler wears a cape, a saree or a uniform of a favourite job, trying on who they might be. Dress-up is imaginative play, and it does not fix identity for the future.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 538,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Wasim"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied",
+   "subtype": "Friend × Loyalty [Receiver]",
+   "description": "A friend stands beside me when a bully comes and says \"leave him alone\". I feel brave and cared for. A friend's support shows me how to stand up for others, and together we go to a teacher.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, trust"
+   ]
+  },
+  {
+   "sno": 539,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Siddharth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Parent × Guilt [Actor]",
+   "description": "I broke the vase and said the dog did it. My tummy feels heavy. At this age lying is often wishing it undone. A wise parent says \"tell me the truth, I will not shout\", and thanks me for honesty.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, fear, trust",
+    "related mind states: gratitude, guilt"
+   ]
+  },
+  {
+   "sno": 540,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Uday",
+     "Shalini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Parent × Fear [Actor]",
+   "description": "I lie because I am afraid of being scolded or hit. The fear is bigger than the wish to be honest. Homes where truth is safe get more truth; harsh punishment teaches children to hide better.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, guilt, trust",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 541,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Siddharth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Parent × Trust [Receiver]",
+   "description": "My parent believes me when I say I did not do it, even though I once lied. I feel respected and want to earn that trust. Being believed makes honesty feel like a gift rather than a risk.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, fear, guilt",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 542,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Salma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Friend × Betrayal [Receiver]",
+   "description": "My friend lied and said I took his crayon. I feel angry, hurt and confused. Wise action: tell a teacher what really happened. The friendship may recover if he says sorry and does not repeat it.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, fear, guilt, trust",
+    "related mind states: anger, confusion, hurt"
+   ]
+  },
+  {
+   "sno": 543,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Mehak",
+     "Ganga"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Self × Imagination [Actor]",
+   "description": "I say I have a dinosaur at home. It is a pretend story, not really a lie, and I half believe it. A wise adult says \"what a fun story, is it real or pretend?\" Punishing imagination confuses it with deceit.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, fear, guilt, trust",
+    "related mind states: playfulness, confusion"
+   ]
+  },
+  {
+   "sno": 544,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Jatin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Telling a lie",
+   "subtype": "Teacher × Deceit [Actor]",
+   "description": "I tell the teacher \"my mummy said I need not do it\" to avoid homework. I feel smart and scared at once. Wise teachers stay calm and check gently. Learning that small lies are found out builds honesty.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear, guilt, trust",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 545,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Bhupen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating in a game",
+   "subtype": "Friend × Deceit [Actor]",
+   "description": "I peek during hide and seek or move my counter to win. I feel excited and a bit guilty. Winning feels huge at this age. A wise adult says \"the game is only fun if it is fair\", not \"you are a cheater\".",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, rivalry, shame",
+    "paired view exists: Receiver (S546)",
+    "related mind states: playfulness, affection, guilt, excitement"
+   ]
+  },
+  {
+   "sno": 546,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Saurabh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating in a game",
+   "subtype": "Friend × Deceit [Receiver]",
+   "description": "My friend moved his piece when I was not looking. I feel furious and say \"cheater!\" A wise action is to say \"that is not fair, play again properly\". Walking away is also fine if he keeps doing it.",
+   "graph_context": [
+    "same situation, other stances at this age: fairness, rivalry, shame",
+    "paired view exists: Actor (S545)",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 547,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Maria"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Cheating in a game",
+   "subtype": "Rival × Rivalry [Actor]",
+   "description": "I want to beat my classmate at the race so badly that I start before \"go\". The rules can feel less important than winning. Wise coaching says \"you can be proud if you try your best whatever happens\".",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, fairness, shame",
+    "related mind states: pride"
+   ]
+  }
+ ]
+}

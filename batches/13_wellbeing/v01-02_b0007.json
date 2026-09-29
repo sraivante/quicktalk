@@ -1,0 +1,263 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5256,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Jagdish"
+    ],
+    "2": [
+     "Deepika",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Humility",
+   "subtype": "Not knowing as a learner [Response]",
+   "description": "A student who asks a basic question in class, unashamed, learns faster than one who nods and hides confusion. Humility is the entry fee for real learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: shame, confusion"
+   ]
+  },
+  {
+   "sno": 5257,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Sabina"
+    ],
+    "2": [
+     "Hrithik",
+     "Vandana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Humility",
+   "subtype": "Fake humility [Observer]",
+   "description": "A colleague notices someone say I am nothing while fishing for praise. Humble-bragging asks for attention by pretending not to, and it is usually detected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5258,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Hemant"
+    ],
+    "2": [
+     "Tuan",
+     "Rosa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Seeing another's view [Actor]",
+   "description": "A child realises that a sibling who broke a toy was scared and not mean. Perspective-taking at this age is real but effortful and often fades under anger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 5259,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Jeevan"
+    ],
+    "2": [
+     "Bidisha",
+     "Devika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Perspective under emotion [Actor]",
+   "description": "A teenager quarrelling with a parent can only see their side, though calm afterwards they understand the parent's fear. Emotion narrows the view, and wisdom includes waiting until it widens.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 5260,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Mehak"
+    ],
+    "2": [
+     "Karthik",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Learning from elders' stories [Receiver]",
+   "description": "A grandparent's account of hardship and choices gives a teenager a longer timeline for their own troubles. Stories across generations carry perspective that advice alone cannot.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5261,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Hafsa"
+    ],
+    "2": [
+     "Nilesh",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Zooming out [Response]",
+   "description": "A young adult facing a disaster asks how much it will matter in a year, and to whom. Zooming out in time and space cuts drama without denying pain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5262,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Santiago",
+     "Pablo"
+    ],
+    "2": [
+     "Parveen",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Cleverness versus wisdom [Observer]",
+   "description": "A teacher sees a brilliant student win arguments yet make poor life choices. Intelligence handles problems, while wisdom weighs what is worth pursuing and at what cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5263,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Harsha"
+    ],
+    "2": [
+     "Sami",
+     "Yara"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Wisdom and perspective-taking",
+   "subtype": "Advice-seeking [Response]",
+   "description": "A young adult facing a decision consults people who have lived through something similar, and weighs their view against their own values. Wise people ask widely and still decide themselves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5264,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Joseph"
+    ],
+    "2": [
+     "Eshaan",
+     "Shreya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Generosity",
+   "subtype": "Sharing when asked [Actor]",
+   "description": "A child hands over a toy after a parent's urging, yet feels the loss keenly. Genuine generosity begins as imitation and becomes real only when it is not forced.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5265,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Vikas",
+     "Vidya"
+    ],
+    "2": [
+     "Lavanya",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Generosity",
+   "subtype": "Voluntary giving [Actor]",
+   "description": "A child gives half a tiffin to a hungry classmate without being told, feeling warm afterwards. Freely chosen giving builds an identity as a generous person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  }
+ ]
+}

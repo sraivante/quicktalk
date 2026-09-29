@@ -1,0 +1,315 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5592,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Jeevan"
+    ],
+    "2": [
+     "Elizabeth",
+     "Imran"
+    ],
+    "3": [
+     "Sahil",
+     "Pradeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Achievement: measures self by success [Actor]",
+   "description": "A teenager pushes for top ranks and praise from respected people, feeling worth through results; it fuels effort and can leave little room for rest or failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5593,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Nilesh"
+    ],
+    "2": [
+     "Lindiwe",
+     "Jana"
+    ],
+    "3": [
+     "Nitin",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Power: wants influence and standing [Actor]",
+   "description": "A young adult stands for student leadership to shape decisions and be respected; the wish for influence can serve a group well or slide into wanting control over others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5594,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Jyoti"
+    ],
+    "2": [
+     "Nilesh",
+     "Parul"
+    ],
+    "3": [
+     "Harish",
+     "Neelam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Tradition: honours customs and family ways [Actor]",
+   "description": "A young adult keeps festivals, fasts and family rituals with devotion, finding belonging and meaning in them; respecting inherited ways can sit peacefully or in tension with new ideas.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration, calm, nostalgia"
+   ]
+  },
+  {
+   "sno": 5595,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Dhruv"
+    ],
+    "2": [
+     "Vijay",
+     "Vikas"
+    ],
+    "3": [
+     "Nazia",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Security: prizes safety and stability [Actor]",
+   "description": "A young professional chooses a steady job and saves carefully, valuing certainty and safety for family over chances; calm and worry can both come with the choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, calm, trust"
+   ]
+  },
+  {
+   "sno": 5596,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Farhan"
+    ],
+    "2": [
+     "Pooja",
+     "Shankar"
+    ],
+    "3": [
+     "Madhuri",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz values: stimulation, achievement, power, security, conformity, tradition",
+   "subtype": "Seeing that values compete and choosing a ranking [Response]",
+   "description": "An adult sees that freedom, security and tradition cannot all rank first each time, names which one matters most in this choice, and respects others whose rankings differ.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5597,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Vikas"
+    ],
+    "2": [
+     "Javier",
+     "Yara"
+    ],
+    "3": [
+     "Jahnavi",
+     "Vasudha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg self-interest stage",
+   "subtype": "Fair means a deal [Actor]",
+   "description": "A child says \"I will share my pencil if you share your eraser\", judging right by what gives a fair exchange for oneself; other people's needs matter mainly as part of the trade.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5598,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Sarika"
+    ],
+    "2": [
+     "Yara",
+     "Emeka"
+    ],
+    "3": [
+     "Ishita",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg self-interest stage",
+   "subtype": "Feels cheated when kindness is not returned [Receiver]",
+   "description": "A child who lent a toy and got nothing back declares \"never again\"; they read helping as an exchange and feel wronged when the balance breaks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5599,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Vijay"
+    ],
+    "2": [
+     "Sudha",
+     "Kashish"
+    ],
+    "3": [
+     "Kiran",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg self-interest stage",
+   "subtype": "Helping a child see beyond the deal [Response]",
+   "description": "A parent or teacher asks \"how would he feel if nobody shared with him?\", drawing attention from trade to feelings and shared life, without shaming the child's fair-play instinct.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5600,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Hafsa"
+    ],
+    "2": [
+     "Vikas",
+     "Sahil"
+    ],
+    "3": [
+     "Jin",
+     "Oskar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg self-interest stage",
+   "subtype": "Bargaining with parents [Actor]",
+   "description": "A teenager offers to do chores if they can have a phone, treating duty as a price; the deal-making is practical and honest, but it is not yet care for the family.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5601,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Sumit"
+    ],
+    "2": [
+     "Gurpreet",
+     "Chaitanya"
+    ],
+    "3": [
+     "Raghav",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg self-interest stage",
+   "subtype": "Transactional adult at work [Actor]",
+   "description": "An adult helps a colleague only if it may pay off later and keeps a mental ledger of favours; the mindset can produce fair dealing but leaves relationships thin.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  }
+ ]
+}

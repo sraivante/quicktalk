@@ -1,0 +1,216 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6621,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: allowing feelings and staying with family [Thinking]",
+   "description": "After the sudden death of a grandfather, a teen lets herself cry, sits with the family through the rituals, and understands that grief is not something to hurry or hide.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, forward planning",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 6622,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: taking on practical tasks for the family [Action]",
+   "description": "A teen helps relatives by answering phone calls, fetching water and looking after younger cousins, finding that useful tasks give structure without pushing away his own sadness.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, forward planning",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 6623,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: talking with trusted people about the loss [Action]",
+   "description": "A student tells a close friend and a teacher what has happened and shares memories of her father, so she is not carrying the grief in silence.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, forward planning",
+    "related mind states: grief, trust"
+   ]
+  },
+  {
+   "sno": 6624,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: adjusting study and exam plans with school support [Action]",
+   "description": "A teen informs the class teacher, asks for extra time on assignments for a few weeks, and rebuilds a lighter schedule, instead of forcing normal performance immediately.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6625,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Aparna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: suppressing emotion to seem strong [Pitfall]",
+   "description": "A boy told to be the man of the house hides his tears, throws himself into chores and studying, and weeks later finds outbursts and sleeplessness because the grief was never expressed.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, forward planning",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 6626,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: avoiding reminders and refusing to talk [Pitfall]",
+   "description": "A teen puts away every photo and leaves the room when the person is mentioned, hoping the pain will vanish, but avoidance keeps it sharp and distances him from family who want to share.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, forward planning",
+    "related mind states: hurt",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 6627,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Dilnaz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: creating a remembrance ritual [Action]",
+   "description": "A teen writes a letter to her grandmother, lights a lamp on her birthday, and cooks her favourite dish with the family, finding a lasting way to keep the bond.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, forward planning"
+   ]
+  },
+  {
+   "sno": 6628,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Zeenat",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: noticing when grief becomes overwhelming and seeking support [Revision]",
+   "description": "Months later, a student still cannot concentrate or sleep, so he tells his mother, who arranges a talk with a school counsellor, an appropriate step and not a weakness.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, forward planning",
+    "related mind states: grief, overwhelm"
+   ]
+  },
+  {
+   "sno": 6629,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: supporting a grieving family member [Action]",
+   "description": "A teen sits quietly with his widowed mother in the evenings, offers tea, listens when she wants to talk, and avoids empty phrases, accepting that presence matters more than solving her pain.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, forward planning",
+    "related mind states: grief, hurt"
+   ]
+  },
+  {
+   "sno": 6630,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a sudden bereavement",
+   "subtype": "Approach: adapting routines to a changed household [Revision]",
+   "description": "After a parent's death changes family income and duties, a teen discusses with relatives and elders how chores and schooling will be arranged, and revises plans as things become clearer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack"
+   ]
+  }
+ ]
+}

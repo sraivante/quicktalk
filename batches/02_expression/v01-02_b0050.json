@@ -1,0 +1,269 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2552,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Gautam",
+     "Disha"
+    ],
+    "2": [
+     "Gautam",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Setting limits with friends [Regulating]",
+   "description": "A teenager sets limits with phrases like I am not comfortable with that or I do not want to share that photo. Refusing is a right, and a true friend respects it, while pressure is a warning sign to tell a trusted adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 2553,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Xin",
+     "Liam"
+    ],
+    "2": [
+     "Nitin",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Promises to friends and secrets [Mismatch]",
+   "description": "A teenager may promise to keep a secret or a pledge of loyalty to a friend. Promises to keep secrets about safety, harm or abuse should not be kept, and telling a trusted adult is the caring choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2554,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Avni"
+    ],
+    "2": [
+     "Chetan",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Vowing under strong emotion [Regulating]",
+   "description": "A teenager may vow never to talk to someone again or swear to change overnight in a burst of emotion. Waiting a day before big vows allows real intention to settle.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2555,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rekha",
+     "Tanvir"
+    ],
+    "2": [
+     "Indu",
+     "Avni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Attraction and crushes [Mismatch]",
+   "description": "A teenager may feel first attraction and show it with blushing, teasing, texting or avoidance, and signals can be unclear. Respect means asking and accepting a no, and telling a trusted adult if pressure or unsafe requests appear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, trust",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 2556,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Tenzin"
+    ],
+    "2": [
+     "Nazia",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Fondness in digital forms [Mismatch]",
+   "description": "A teenager shows affection with emojis, streaks, memes or likes, which can be ambiguous. Meaning varies among groups, so asking directly is wiser than reading much into a like.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2557,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Madhav"
+    ],
+    "2": [
+     "Divyansh",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Digital compliments and likes [Expressing]",
+   "description": "A teenager shows admiration with likes, comments, hearts or a shared post. Such signals are quick and low-cost, so their sincerity varies; a specific personal message usually means more than a reaction count.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2558,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Minakshi"
+    ],
+    "2": [
+     "Vaibhav",
+     "Damini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Public praise embarrassment [Mismatch]",
+   "description": "A teenager may look pleased yet squirm, deflect or joke when praised in front of peers. Discomfort at recognition is often about social exposure rather than dislike of the praise; a quiet private word may suit better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 2559,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Lalremsiami",
+     "Keerthana"
+    ],
+    "2": [
+     "Sangeeta",
+     "Parveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Reading flattery versus admiration [Interpreting]",
+   "description": "A teenager learns that praise can be genuine, strategic or teasing, and checks whether it is specific, consistent and free of a request. These are cues only; motives cannot be confirmed from words alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2560,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Divyansh"
+    ],
+    "2": [
+     "Vaibhav",
+     "Abhinav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Knowing when to involve an adult [Regulating]",
+   "description": "A teenager recognises that some worries, such as safety, self-harm talk or abuse, are too big to hold alone and tells a trusted adult even if a friend asked for secrecy. Care sometimes means sharing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 2561,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Lakshmi"
+    ],
+    "2": [
+     "Tejas",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Peer support and listening [Expressing]",
+   "description": "A teenager comforts a friend by listening, staying present and sending a supportive message. Fixing the problem or minimising it (\"It's not a big deal\") can feel dismissive; validation often matters most.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

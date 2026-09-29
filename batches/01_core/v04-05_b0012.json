@@ -1,0 +1,253 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 111,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Deepika",
+     "Gurleen"
+    ],
+    "5": [
+     "Jagdish",
+     "Parul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Critical Thinking",
+   "subtopic": "Media Literacy",
+   "subtype": "Open-Minded Information Filtering",
+   "description": "Identifying propaganda, emotional manipulation, and misinformation while evaluating opposing worldviews fairly."
+  },
+  {
+   "sno": 112,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Avni",
+     "Mehak"
+    ],
+    "5": [
+     "Sudha",
+     "Bidisha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Advanced Communication",
+   "subtopic": "Professional Relations",
+   "subtype": "Negotiation & Contract Diplomacy",
+   "description": "Advocating for personal interests and finding mutually beneficial compromises in personal, professional, or contractual settings.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 113,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Lavanya",
+     "Manoj"
+    ],
+    "5": [
+     "Sarika",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Ambivalence",
+   "description": "Holding conflicting feelings simultaneously (excitement for independence alongside fear).",
+   "graph_context": [
+    "related mind states: fear, excitement"
+   ]
+  },
+  {
+   "sno": 114,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Pooja",
+     "Samir"
+    ],
+    "5": [
+     "Imran",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Nostalgia",
+   "description": "Experiencing a bittersweet longing for the simplicity and safety of childhood.",
+   "graph_context": [
+    "related mind states: nostalgia, resentment, trust"
+   ]
+  },
+  {
+   "sno": 115,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Baljeet",
+     "Darshan"
+    ],
+    "5": [
+     "Lakshmi",
+     "Tushar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Anticipation",
+   "description": "Feeling forward-looking energy and eagerness regarding adult possibilities.",
+   "graph_context": [
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 116,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Binita",
+     "Noor"
+    ],
+    "5": [
+     "Mehak",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Overwhelm",
+   "description": "Feeling paralyzed or flooded by the sudden influx of permanent adult responsibilities.",
+   "graph_context": [
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 117,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Maria",
+     "Omkar"
+    ],
+    "5": [
+     "Jomon",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Sorrow",
+   "description": "Processing deeper, more complex real-world losses (long-term relationships, idealized futures).",
+   "graph_context": [
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 118,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Simran",
+     "Aparna"
+    ],
+    "5": [
+     "Kunal",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Acceptance",
+   "description": "Acknowledging difficult realities and shifting circumstances without fighting them."
+  },
+  {
+   "sno": 119,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Javier",
+     "Chen"
+    ],
+    "5": [
+     "Sangeeta",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Determination",
+   "description": "Building the emotional fortitude and grit to try again after significant setbacks.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 120,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Sachin",
+     "Yash"
+    ],
+    "5": [
+     "Sumit",
+     "Mridul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Humor & Play",
+   "subtopic": "Psychological Balance",
+   "subtype": "Adult Playfulness & Leisure Balance",
+   "description": "Maintaining capacity for lighthearted play, hobbies, and humor as essential counterweights to adult stress and burnout.",
+   "graph_context": [
+    "related mind states: amusement, playfulness"
+   ]
+  }
+ ]
+}

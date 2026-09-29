@@ -1,0 +1,211 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7151,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with in-laws",
+   "subtype": "Approach: expressing gratitude and appreciation before asking for change [Action]",
+   "description": "Before asking for less frequent visits, she thanks her in-laws for the support they gave at the wedding. Starting with appreciation makes the later request sound like care, not rejection.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, experiment and measure, magical thinking, mental simulation, seeking advice",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 7152,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Farhan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: budget and affordability working backward from the EMI [Thinking]",
+   "description": "A couple decides the loan payment should stay under a third of their monthly income. From that they work out the loan amount and the price range they can afford.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, resource and budget planning, satisficing"
+   ]
+  },
+  {
+   "sno": 7153,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: listing must-haves and nice-to-haves [Thinking]",
+   "description": "They agree on must-haves such as a metro-friendly location and a school nearby, and treat a balcony as optional. The list keeps viewings focused and disagreements short.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, resource and budget planning, satisficing"
+   ]
+  },
+  {
+   "sno": 7154,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Akash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: saving for the down payment on a fixed timeline [Action]",
+   "description": "They set a target amount, automate a monthly transfer and track progress on a sheet. A yearly bonus is allocated to the goal, so the plan does not depend on willpower.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, resource and budget planning, satisficing"
+   ]
+  },
+  {
+   "sno": 7155,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: comparing several properties in a decision matrix [Thinking]",
+   "description": "They score four flats on price, commute, builder reputation and resale prospects, with weights agreed together. The scoring shows their initial favourite is not the best overall.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, impulsive action, mental simulation, resource and budget planning, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 7156,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: verifying documents and consulting professionals [Action]",
+   "description": "Before paying a token amount, they ask a lawyer to check title papers and approvals and speak to a bank about eligibility. They treat this as general due diligence rather than a shortcut.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, resource and budget planning, satisficing"
+   ]
+  },
+  {
+   "sno": 7157,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: buying in a rush from fear of rising prices [Pitfall]",
+   "description": "Hearing that prices will go up, the couple pays a booking amount on the first flat that seems fine. Later they find hidden maintenance costs and a longer commute than they expected.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, mental simulation, resource and budget planning, satisficing, seeking advice",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7158,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Hansa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: stretching the budget to match relatives' homes [Pitfall]",
+   "description": "Wanting to match a cousin's larger flat, they take the maximum loan. Tight cash flow follows, and they cannot save or handle an unexpected expense without stress.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 7159,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: analysis paralysis over endless listings [Pitfall]",
+   "description": "For a year they visit dozens of properties, always finding one more option. Prices rise, and the delay costs them more than a good-enough choice would have.",
+   "graph_context": [
+    "same problem, other approaches: decision matrix, impulsive action, mental simulation, resource and budget planning, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 7160,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to buy a home",
+   "subtype": "Approach: satisficing with a clear stopping rule [Revision]",
+   "description": "After the long search, they set a rule: choose the first property that meets all must-haves within the budget. They decide within a month and feel relieved.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, mental simulation, resource and budget planning, seeking advice",
+    "related mind states: relief, contentment"
+   ]
+  }
+ ]
+}

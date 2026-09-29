@@ -1,0 +1,241 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 191,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Ira",
+     "Elizabeth"
+    ],
+    "5": [
+     "Akash",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Online Safety",
+   "subtype": "Privacy Basics & Reporting Discomfort",
+   "description": "Not sharing personal details and telling a trusted adult about upsetting or pressuring online contact.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 192,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Zubin",
+     "Manjula"
+    ],
+    "5": [
+     "Hafsa",
+     "Deepika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Digital Literacy",
+   "subtype": "Search, Ads vs. Facts & Source Awareness",
+   "description": "Using search sensibly and noticing sponsored content and unreliable claims."
+  },
+  {
+   "sno": 193,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Aparna",
+     "Pradeep"
+    ],
+    "5": [
+     "Ujjwal",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Screen Balance",
+   "subtype": "Games, Screens vs. Play & Sleep",
+   "description": "Balancing gaming and video with outdoor play, homework and sleep."
+  },
+  {
+   "sno": 194,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Anjali",
+     "Jahnavi"
+    ],
+    "5": [
+     "Usha",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Awareness",
+   "subtype": "Machines Are Not People & Can Be Wrong",
+   "description": "Understanding that chatbots and voice assistants are programs that make mistakes and do not truly feel."
+  },
+  {
+   "sno": 195,
+   "plan": {
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Tejas",
+     "Bhavna"
+    ],
+    "5": [
+     "Sharmila",
+     "Farhan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Anger Management",
+   "subtype": "Pausing Before Retaliation",
+   "description": "Delaying a response to provocation and choosing words over blows."
+  },
+  {
+   "sno": 196,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Devika",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Varun",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Anxiety",
+   "subtype": "Exam & Performance Nervousness",
+   "description": "Recognizing nervousness before tests or recitals and using calming routines.",
+   "graph_context": [
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 197,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Lalremsiami",
+     "Jagdish"
+    ],
+    "5": [
+     "Pema",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Self-Worth",
+   "subtype": "Early Body Image & Handling Teasing",
+   "description": "Coping with comparisons of looks and hurtful comments while keeping self-respect.",
+   "graph_context": [
+    "related mind states: admiration, hurt"
+   ]
+  },
+  {
+   "sno": 198,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Kavitha",
+     "Ramesh"
+    ],
+    "5": [
+     "Harish",
+     "Reena"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Bullying",
+   "subtype": "Recognizing, Reporting & Not Joining In",
+   "description": "Identifying bullying, seeking adult help and refusing to be a bystander who cheers it on."
+  },
+  {
+   "sno": 199,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Ritu",
+     "Sachin"
+    ],
+    "5": [
+     "Pallavi",
+     "Jyoti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Peer Pressure",
+   "subtype": "Refusing Dares & Unsafe Requests",
+   "description": "Saying no to risky or unkind peer requests without losing the friendship.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 200,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Uma",
+     "Jeevan"
+    ],
+    "5": [
+     "Madhuri",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Teamwork",
+   "subtype": "Roles in Group Tasks & Sharing Credit",
+   "description": "Acting as leader, follower or contributor and giving credit fairly."
+  }
+ ]
+}

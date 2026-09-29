@@ -1,0 +1,265 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3640,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Jagdish",
+     "Yash"
+    ],
+    "5": [
+     "Saurabh",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-serving bias",
+   "subtype": "Shared projects [Actor]",
+   "description": "Each member of a college team quietly thinks he did most of the work, so shares add up to well over the whole. Fair recognition needs written records.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3641,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Zeynep",
+     "Jamal"
+    ],
+    "5": [
+     "Chetan",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-serving bias",
+   "subtype": "Owning results fairly [Response]",
+   "description": "A grounded professional names what she did well, what luck helped and what she got wrong, and thanks others honestly. Balanced credit builds trust and learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: gratitude, trust"
+   ]
+  },
+  {
+   "sno": 3642,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Seema",
+     "Ira"
+    ],
+    "5": [
+     "Harish",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Actor-observer bias",
+   "subtype": "My reasons, your traits [Actor]",
+   "description": "A child says he pushed because he was hurried but says the other child pushed because he is rude. His own acts have reasons; others' have character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3643,
+   "plan": {
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "4": [
+     "Darshan",
+     "Sumit"
+    ],
+    "5": [
+     "Yamini",
+     "Mahima"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Actor-observer bias",
+   "subtype": "Arguments with parents [Actor]",
+   "description": "A teenager explains his own shouting as stress and the parent's as anger and control, while the parent thinks the opposite. Each sees the other's situation poorly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3644,
+   "plan": {
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Yusuf",
+     "Irfan"
+    ],
+    "5": [
+     "Elizabeth",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Actor-observer bias",
+   "subtype": "Swapping viewpoints [Response]",
+   "description": "A student in conflict describes the incident as if it were happening to a friend, then from the other person's seat, and finds the situational reasons on both sides.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3645,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Shankar",
+     "Arohi"
+    ],
+    "5": [
+     "Samir",
+     "Charu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Actor-observer bias",
+   "subtype": "Managers and staff [Observer]",
+   "description": "A manager blames a late employee's attitude while she would blame traffic for herself. Noticing the double standard makes feedback fairer and more curious.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 3646,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Sunaina",
+     "Kishore"
+    ],
+    "5": [
+     "Gurleen",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Optimism bias",
+   "subtype": "It will not happen to me [Actor]",
+   "description": "A child is sure he will not get caught, fall from the tree or fail the test. Bad outcomes seem to happen to other people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3647,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Jasleen",
+     "Omkar"
+    ],
+    "5": [
+     "Arnab",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Optimism bias",
+   "subtype": "Risky choices seem safe [Actor]",
+   "description": "A teenager riding without a helmet or vaping believes the harm is for others. Feeling invulnerable is partly developmental, since the brain weighs immediate reward heavily.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3648,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Chaitanya",
+     "Sudha"
+    ],
+    "5": [
+     "Gautam",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Optimism bias",
+   "subtype": "Career and money plans [Actor]",
+   "description": "A graduate expects the first job, savings and relationship to go better than average and skips backup plans. Hope is healthy but unprepared hope is fragile.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 3649,
+   "plan": {
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Tejas",
+     "Baljeet"
+    ],
+    "5": [
+     "Salma",
+     "Kiran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Optimism bias",
+   "subtype": "Hopeful yet ready [Response]",
+   "description": "A wise planner keeps optimism for effort but adds a buffer, an emergency fund and a plan B, so setbacks bother her plan and not her sense of self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hope"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5941,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Sunaina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: reading the timetable and packing the night before [Action]",
+   "description": "A boy looks at tomorrow's timetable, takes out yesterday's books and puts in the right notebooks, lunch box and water bottle. Doing it in the evening leaves the morning calm.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, seeking advice",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 5942,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Bidisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: using a coloured chart pinned on the wall [Action]",
+   "description": "A girl makes a weekly chart with each subject in a colour and pins it near her study table. Colours help her see at a glance which books belong to which day.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5943,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: throwing everything in the bag just in case [Pitfall]",
+   "description": "A child keeps all books in the bag so he need not check the timetable. The bag becomes too heavy for his shoulders, and he still cannot find the right notebook in the mess.",
+   "graph_context": [
+    "same problem, other approaches: forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5944,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Pankaj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: checking the bag against a short list at the door [Thinking]",
+   "description": "A girl writes a five-item list of diary, pencil box, lunch, bottle and homework. She ticks it off each morning, because her memory is unreliable when she is in a hurry.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5945,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Baljeet",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: putting things back in the same place each day [Thinking]",
+   "description": "A boy decides his geometry box always goes in the front pocket and his diary in the back. The habit means he does not have to think or search when the bell rings.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5946,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: forgetting the change of timetable for PT day [Pitfall]",
+   "description": "A child packs by memory of last week and forgets that Wednesday now has PT. She arrives without her white shoes, and has to sit out while others play.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, seeking advice"
+   ]
+  },
+  {
+   "sno": 5947,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: adding a note about changes to the plan [Revision]",
+   "description": "After the PT shoe mistake, the girl adds a sticky note to her chart reading Wednesday PT shoes. She also checks the school diary each Sunday for changes to the timetable.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, seeking advice"
+   ]
+  },
+  {
+   "sno": 5948,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Vinita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: asking a parent to pack it for him [Pitfall]",
+   "description": "A boy relies on his mother to pack the bag every night. When she is away for a wedding, he has no idea which books go in, and he arrives at school with the wrong ones.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, forward planning"
+   ]
+  },
+  {
+   "sno": 5949,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Ojas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Organising school bag and timetable",
+   "subtype": "Approach: sorting loose papers into a folder each Friday [Action]",
+   "description": "A girl empties her bag every Friday, throws out crumpled papers and files notices and worksheets in a plastic folder. Over the weeks she loses fewer important papers.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 5950,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Ramesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: making a guest list with a limit on numbers [Thinking]",
+   "description": "A boy wants to invite his whole class but his parents can host fifteen. He lists close friends and cousins first, counts, and cuts a few, choosing who matters most.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, copying without fit, mental simulation, resource and budget planning",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

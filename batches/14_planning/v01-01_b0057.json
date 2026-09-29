@@ -1,0 +1,217 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6321,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Baljeet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: reading signals and accepting a no [Thinking]",
+   "description": "The student decides in advance that a hesitant or clear refusal will be taken at face value, with no pushing, repeated messages or asking friends to pressure. Respect matters more than the outcome.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6322,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: grand public gesture [Pitfall]",
+   "description": "Inspired by films, a student plans to ask in front of the whole class with flowers. The audience pressure makes a comfortable answer difficult and can embarrass the other person, whatever the reply.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 6323,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: never acting due to fear of rejection [Pitfall]",
+   "description": "The student rehearses endlessly and never speaks, and after months the crush starts talking with someone else. Avoidance protects from a no but also removes any chance of a yes.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, seeking advice, trial by imitation",
+    "related mind states: fear",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 6324,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: private and simple message [Action]",
+   "description": "The student asks in person, quietly, after a club meeting, or by a short private message, saying she likes talking with him and asking if he would like to get chai together some time.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6325,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Tanvir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: considering family rules and school norms [Thinking]",
+   "description": "The student thinks about the family's expectations and school rules, and chooses a group setting during daytime, thinking about safety, honesty with parents where possible, and comfort for both people.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6326,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Rafiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: relying on friends as messengers [Pitfall]",
+   "description": "The student asks a friend to find out if the crush likes him. The message gets distorted, becomes gossip, and the other person feels talked about instead of asked directly.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6327,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: handling a rejection and recovering [Revision]",
+   "description": "After a polite no, the student thanks her, gives space, spends time with friends and sport, and notes that disappointment fades. Continuing normal friendly behaviour keeps the classroom comfortable.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation",
+    "related mind states: gratitude, disappointment"
+   ]
+  },
+  {
+   "sno": 6328,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: recognising obsession and refocusing [Revision]",
+   "description": "Noticing that thoughts about the crush are crowding out study, the student limits social media checking, tells a trusted friend, and puts the energy into a project, which reduces the intensity.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, seeking advice, trial by imitation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6329,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: deciding values and limits in advance [Thinking]",
+   "description": "Before a party, the student decides what he will not do, such as riding with an unsafe driver or trying substances, so that decisions in the moment follow a rule already thought through.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6330,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing peer pressure to do something unsafe",
+   "subtype": "Approach: prepared refusal lines and exit plan [Action]",
+   "description": "The student prepares a short refusal, such as no thanks, I am good, and agrees with a parent on a code word to be picked up, so leaving does not require an argument or explanation.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, inversion, prioritising, values-first planning",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

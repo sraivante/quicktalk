@@ -1,0 +1,268 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4209,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Sonali"
+    ],
+    "2": [
+     "Dhruv",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Anger physiology and cooling down",
+   "subtype": "Anger that is repeatedly hurting others [Observer]",
+   "description": "A colleague or family member sees frequent explosions, intimidation or damage after anger and realises it is more than a bad mood. Safety comes first, and a qualified counsellor can help the person change the pattern.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anger, shyness, trust, hurt"
+   ]
+  },
+  {
+   "sno": 4210,
+   "plan": {
+    "1": "R8",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Chidi",
+     "Dalia"
+    ],
+    "2": [
+     "Maria",
+     "Eshaan"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Toddler crying breath [Actor]",
+   "description": "A toddler in distress gulps air, hiccups and sometimes holds the breath before sobbing. A parent who holds the child close and breathes slowly often helps the small body follow the calm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 4211,
+   "plan": {
+    "1": "R2",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Sarika"
+    ],
+    "2": [
+     "Bhavna",
+     "Sharmila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Belly breathing as a game [Response]",
+   "description": "A young child can learn to breathe slowly by blowing bubbles, smelling a flower and blowing out a candle. Practised when calm, this gives the child a tool that is easier to reach when upset.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 4212,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Mahima",
+     "Tanvir"
+    ],
+    "2": [
+     "Vera",
+     "Gabriel"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Noticing fast breath when upset [Actor]",
+   "description": "A schoolchild notices breath going fast and shallow when nervous or angry and learns that slow breathing can quiet the body. Knowing the body can be steered gives the child a sense of control.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, anxiety, relief from stress"
+   ]
+  },
+  {
+   "sno": 4213,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Nitin"
+    ],
+    "2": [
+     "Anjali",
+     "Hemant"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Over-breathing and light-headedness [Actor]",
+   "description": "A teenager panicking or crying hard may breathe too fast and feel dizzy or tingly, which increases the fear. Slowing down with a longer out-breath usually eases these sensations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: sadness, fear, relief from stress"
+   ]
+  },
+  {
+   "sno": 4214,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Lalremsiami"
+    ],
+    "2": [
+     "Bhupen",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Breath before speaking or performing [Response]",
+   "description": "A student about to present slows the exhale, drops the shoulders and pauses before the first sentence. The steadier breath calms the voice and thinking, and does not need anyone to notice it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm, resentment, relief from stress"
+   ]
+  },
+  {
+   "sno": 4215,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Simran"
+    ],
+    "2": [
+     "Dilnaz",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Emotion and breathing",
+   "subtype": "Holding the breath under stress [Actor]",
+   "description": "A stressed worker unknowingly holds the breath or breathes high in the chest during deadlines, leaving them tense and drained. Noticing the pattern and taking a few deliberate slow breaths resets the body during the day.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: tiredness, relief from stress"
+   ]
+  },
+  {
+   "sno": 4216,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Karthik"
+    ],
+    "2": [
+     "Pooja",
+     "Lalremsiami"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Play as mood medicine [Actor]",
+   "description": "A child who runs and plays outdoors usually sleeps better, argues less and returns to work in a better mood. Physical play is not a reward to be taken away; it is part of how children regulate feelings.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4217,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Shreya",
+     "Dilnaz"
+    ],
+    "2": [
+     "Gopika",
+     "Farhan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Sport and belonging [Actor]",
+   "description": "A teenager in a team or regular sport gains energy, structure and friends, and often feels calmer about school. Yet pressure to win or to look a certain way can turn exercise into another source of stress.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: calm, nostalgia"
+   ]
+  },
+  {
+   "sno": 4218,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Kashish"
+    ],
+    "2": [
+     "Imran",
+     "Pranav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Restless teen after long sitting [Observer]",
+   "description": "A parent sees a teenager snappy after hours at a desk or phone and suggests a walk or cycle ride. Movement often lifts mood without needing a talk, especially when offered as company, not an order.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: boredom"
+   ]
+  }
+ ]
+}

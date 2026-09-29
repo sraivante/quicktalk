@@ -1,0 +1,221 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 738,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Jagdish",
+     "Chinmay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a gift",
+   "subtype": "Friend × Gratitude [Actor]",
+   "description": "A friend gives me a small handmade card and I feel warm. I say thank you and mean it. The thought counts more than the price. Comparing it with fancier gifts spoils the joy.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, indebtedness, manipulation",
+    "related mind states: joy, gratitude"
+   ]
+  },
+  {
+   "sno": 739,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Alka",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a gift",
+   "subtype": "Relative × Disappointment [Actor]",
+   "description": "My uncle gave me a gift I do not like and I feel let down. I say thank you politely anyway, and later maybe share it. Rudeness hurts him, and honesty can wait for the right kind moment.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, gratitude, indebtedness, manipulation",
+    "related mind states: gratitude, disappointment, hurt"
+   ]
+  },
+  {
+   "sno": 740,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a gift",
+   "subtype": "Friend × Indebtedness [Actor]",
+   "description": "A friend gave me an expensive gift and I feel I must give back. Gifts should not be a debt. I thank her, and give something within my means when I can. Feeling pressured is a sign to talk openly.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, gratitude, manipulation",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 741,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Tanvir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a gift",
+   "subtype": "Friend × Envy [Receiver]",
+   "description": "I got a nice gift and my friend looks unhappy. I understand she may feel left out. I share or include her, but I do not need to hide my joy. Bragging is the part to avoid.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, gratitude, indebtedness, manipulation",
+    "related mind states: joy, sadness, envy"
+   ]
+  },
+  {
+   "sno": 742,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vinita",
+     "Avni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a gift",
+   "subtype": "Older stranger × Manipulation [Receiver]",
+   "description": "An older person gives me presents and asks me to keep it secret. Gifts with secrets are a warning. I tell my parents right away and stay away. It is never my fault and telling is always right.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, gratitude, indebtedness",
+    "related mind states: anger, resentment"
+   ]
+  },
+  {
+   "sno": 743,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Giving a gift",
+   "subtype": "Friend × Affection [Actor]",
+   "description": "I save my pocket money to buy a gift for my best friend. Giving feels good when it is from care. I do not expect the same back. Keeping a scoreboard turns love into a deal.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 744,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Himani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Giving a gift",
+   "subtype": "Classmate × Bribery [Actor]",
+   "description": "I give sweets to a group so they will like me. Belonging bought with gifts fades. Wise: be friendly first and share because I want to. If they only like me for treats, they are not friends.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, gratitude",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 745,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Giving a gift",
+   "subtype": "Parent × Gratitude [Actor]",
+   "description": "I make a card for my mother's birthday from my own effort. Small gifts teach love and thought. She may keep it for years. I do not need money to show care.",
+   "graph_context": [
+    "same situation, other stances at this age: affection",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: affection, gratitude"
+   ]
+  },
+  {
+   "sno": 746,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Ojas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Favour asked by friend",
+   "subtype": "Friend × Loyalty [Actor]",
+   "description": "A friend asks me to lend homework to copy, and I want to help. Real help is explaining it, not handing over answers. I can say I will teach you. Saying yes to everything to be liked hurts us both.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, exploitation, generosity",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 747,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Alka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Favour asked by friend",
+   "subtype": "Friend × Pressure [Receiver]",
+   "description": "My friend says if you were a real friend you would let me copy. That is guilt-tripping. I can say I am your friend and I will help you learn. A friendship that needs cheating is shaky.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, generosity, loyalty",
+    "related mind states: guilt"
+   ]
+  }
+ ]
+}

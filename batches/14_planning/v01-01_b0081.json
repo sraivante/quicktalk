@@ -1,0 +1,215 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6561,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: pre-departure checklist and task decomposition [Action]",
+   "description": "A teen lists documents, admission papers, bank access, medicines, clothes and contacts, ticks them off over two weeks with a parent, and packs the essentials last.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, resource and budget planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6562,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Hrithik",
+     "Pema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: researching housing and neighbourhood safety [Action]",
+   "description": "With parents, a student compares hostel and paying-guest options, reads reviews, asks seniors about commute time, food and safety, and visits before paying any deposit.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, resource and budget planning, seeking advice",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6563,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Irawati",
+     "Ishita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: budgeting for fixed and flexible costs [Thinking]",
+   "description": "A student lists rent, food, transport and study costs, adds a small emergency reserve, and agrees a monthly amount with parents so surprises do not force a crisis call at midnight.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, seeking advice, task decomposition",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 6564,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kishore",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: building a support network early [Action]",
+   "description": "A newcomer greets hostel neighbours, joins a study group, saves the warden's and a local guardian's numbers, and schedules calls home so homesickness has healthy outlets.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, resource and budget planning, seeking advice",
+    "related mind states: detachment, nostalgia"
+   ]
+  },
+  {
+   "sno": 6565,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: mental simulation of the first week [Thinking]",
+   "description": "A teen imagines the first morning, travelling to college, finding lunch and handling a missed bus, and prepares small answers such as saving the route and keeping cash, which lowers anxiety.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, resource and budget planning, seeking advice, task decomposition",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6566,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: expecting the new place to feel like home instantly [Pitfall]",
+   "description": "A student assumes he will fit in within days, feels panicked when he is lonely by the third week, and wants to drop out, not realising that adjustment usually takes months.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, resource and budget planning, seeking advice",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6567,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Deepika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: isolating in the room and only calling home [Pitfall]",
+   "description": "A teen avoids the mess and other students, spends evenings on the phone with old friends, and slowly misses the chance to form local bonds that would make the city feel easier.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning, mental simulation, resource and budget planning, seeking advice, task decomposition",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6568,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: leaning on new friends without checking their advice [Pitfall]",
+   "description": "A newcomer follows a senior's suggestion for a cheap unregistered coaching centre without asking parents or checking, and loses fees when it closes, missing simple verification.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning, mental simulation, resource and budget planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6569,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: adapting routines after early problems [Revision]",
+   "description": "After skipping breakfast and struggling to focus, a student changes to a fixed schedule, finds a nearby tiffin service, and shifts study time to when the hostel is quieter.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation, resource and budget planning, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 6570,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving to a new city for study",
+   "subtype": "Approach: asking for help when homesickness lingers [Revision]",
+   "description": "After two months of poor sleep and low mood, a teen speaks to the hostel warden and a counsellor, joins a weekend club, and plans a visit home at the term break.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, mental simulation, resource and budget planning, seeking advice, task decomposition",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

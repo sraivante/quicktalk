@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3133,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A misunderstanding snowballing over text",
+     "subtype": "Stage 4: Screenshots and outside opinions [Observer]",
+     "description": "Each shows the chat to friends who say \"that is rude\" and take sides. Advice from people who only hear one version firms up the conflict and adds new grievances."
+    },
+    {
+     "sno": 3134,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A misunderstanding snowballing over text",
+     "subtype": "Stage 5: Moving to voice [Response]",
+     "description": "One says \"Can I call you? I think we misunderstood each other.\" Hearing a tone of voice usually dissolves half of the hurt within minutes, and laughter often follows."
+    },
+    {
+     "sno": 3135,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "A misunderstanding snowballing over text",
+     "subtype": "Stage 6: A habit for next time [Response]",
+     "description": "They agree to ask \"what did you mean?\" before reacting and to call when something feels off. They learn that a text is only words on a screen, and that a pause is better than a quick reply when hurt."
+    }
+   ],
+   "cluster_id": "C0343",
+   "cast": [
+    "Harish",
+    "Mahima",
+    "Tanuja"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3229,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Imposter feelings at a new job",
+     "subtype": "Stage 3: Discounting success [Actor]",
+     "description": "When a task goes well, the person credits luck, the team or an easy assignment. Praise is filed away as a mistake in others' judgment, while any error is taken as proof."
+    },
+    {
+     "sno": 3230,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Imposter feelings at a new job",
+     "subtype": "Stage 4: Comparison and silence [Actor]",
+     "description": "The person compares their inside doubts with colleagues' outside confidence and stays silent in meetings. Silence then makes them less visible, which feeds the belief they add little."
+    },
+    {
+     "sno": 3232,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Imposter feelings at a new job",
+     "subtype": "Stage 5: The small exposure [Actor]",
+     "description": "The person asks a basic question and the reply is kind and matter-of-fact. The feared humiliation does not arrive, and the belief that ignorance must be hidden starts to loosen."
+    }
+   ],
+   "cluster_id": "C0344",
+   "cast": [
+    "Urmila",
+    "Varun",
+    "Nirmala"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3202,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Perfectionism and paralysis",
+     "subtype": "Stage 5: The crash of comparison [Actor]",
+     "description": "Seeing peers ship imperfect work and succeed brings envy and confusion, along with shame at being stuck. The person starts to see that the rules they held were their own, not the world's."
+    },
+    {
+     "sno": 3203,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Perfectionism and paralysis",
+     "subtype": "Stage 6: Good enough experiments [Response]",
+     "description": "The person sets a time limit, sends a rough draft to a trusted person and notes that nothing terrible happened. Small controlled exposure to imperfection slowly retrains the fear response."
+    },
+    {
+     "sno": 3204,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Perfectionism and paralysis",
+     "subtype": "Stage 7: Excellence without fear [Response]",
+     "description": "Standards remain but are held lightly, valuing learning over flawlessness and separating self-worth from output. The person finishes things, accepts feedback and, if fear stays intense, seeks a counsellor."
+    }
+   ],
+   "cluster_id": "C0345",
+   "cast": [
+    "Tejas",
+    "Irfan",
+    "Asif"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3112,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 1: Values clash after marriage or career [Actor]",
+     "description": "A woman who married outside her community faces her parents' refusal to attend the wedding. She feels torn between love for her family and her right to choose her life, and the hurt on both sides is deep."
+    },
+    {
+     "sno": 3113,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 2: Cutting contact to protect herself [Actor]",
+     "description": "Repeated painful calls lead her to stop answering. It may be a needed break from criticism, but as time passes it also becomes a habit that is hard to undo."
+    },
+    {
+     "sno": 3114,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 3: Life events widen the gap [Observer]",
+     "description": "A festival, a grandparent's illness or the birth of a child passes without the family together. Each milestone reopens the loss, and relatives urge her either to give in or to hold on."
+    }
+   ],
+   "cluster_id": "C0346",
+   "cast": [
+    "Tejas",
+    "Karthik",
+    "Sumit"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3115,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 4: The softening [Receiver]",
+     "description": "Her mother, after a health scare, realises how much time has been lost and dislikes being the parent who lost a child over a wedding. Fear of regret can loosen rigid positions on both sides."
+    },
+    {
+     "sno": 3116,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 5: Terms for reunion [Response]",
+     "description": "The daughter says \"I would like to see you, and I will not accept insults about my husband.\" Setting conditions for contact protects the relationship rather than ending it, and where a relationship has been unsafe or abusive, distance can remain right."
+    },
+    {
+     "sno": 3117,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Estrangement and reunion",
+     "subtype": "Stage 6: An imperfect, honest reunion [Response]",
+     "description": "They rebuild slowly with short visits and learn to leave some topics unresolved. Warmth returns in ordinary acts such as a shared meal, and hurt is acknowledged rather than erased."
+    }
+   ],
+   "cluster_id": "C0347",
+   "cast": [
+    "Lokesh",
+    "Pankaj",
+    "Damini"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 3180,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Addiction spiral and recovery",
+     "subtype": "Stage 5: Hitting a wall and denial cracking [Actor]",
+     "description": "A crisis such as an accident, a firing or a parent's tears forces honesty. Denial gives way to fear and exhaustion, and this opening can be brief, so a supportive reaction matters."
+    },
+    {
+     "sno": 3181,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Addiction spiral and recovery",
+     "subtype": "Stage 6: Asking for help [Response]",
+     "description": "The person tells someone safe and contacts a doctor, counsellor or a recognised support or de-addiction programme. Recovery is rarely done alone, and family that offers support without shame improves the odds."
+    },
+    {
+     "sno": 3183,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Addiction spiral and recovery",
+     "subtype": "Stage 7: Early recovery and cravings [Actor]",
+     "description": "In the first months, cravings, boredom and old triggers return, and the mood swings between hope and irritability. Structure, sleep, honest check-ins and avoiding old settings carry the person through."
+    }
+   ],
+   "cluster_id": "C0348",
+   "cast": [
+    "Pooja",
+    "Gautam",
+    "Vijay"
+   ]
+  }
+ ]
+}

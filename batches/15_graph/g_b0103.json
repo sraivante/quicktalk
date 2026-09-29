@@ -1,0 +1,187 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4707,
+     "age": "7–12",
+     "topic": "Honesty, Deception & Influence",
+     "subtopic": "Peer-pressure tactics",
+     "subtype": "Dares and taunts [Receiver]",
+     "description": "A child is challenged with chicken, or told everyone does it, to make them join something unsafe or unkind. Fear of exclusion is strong, and the need to belong can outweigh judgement."
+    },
+    {
+     "sno": 4708,
+     "age": "13–17",
+     "topic": "Honesty, Deception & Influence",
+     "subtopic": "Peer-pressure tactics",
+     "subtype": "Pressure from friends to prove loyalty [Receiver]",
+     "description": "A teenager is told that a real friend would skip class, drink or share a picture. The friendship is used as leverage, and refusing feels like risking the whole group."
+    }
+   ],
+   "cluster_id": "C0613",
+   "cast": [
+    "Anand",
+    "Eshaan",
+    "Hrithik"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3531,
+     "age": "7–12",
+     "topic": "Group Behaviour",
+     "subtopic": "Queues and public-space etiquette",
+     "subtype": "Teaching public manners by example [Response]",
+     "description": "A parent thanks the bus conductor, waits patiently in line and apologises for a bump. Children learn public manners far more from watching than from being told."
+    },
+    {
+     "sno": 3536,
+     "age": "23–26",
+     "topic": "Group Behaviour",
+     "subtopic": "Queues and public-space etiquette",
+     "subtype": "Politely enforcing the line [Response]",
+     "description": "A person says excuse me, the line starts there, without heat. Calm, friendly firmness usually works, and if it turns hostile they let it go."
+    }
+   ],
+   "cluster_id": "C0614",
+   "cast": [
+    "Karthik",
+    "Parveen",
+    "Ira"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2527,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Short vocal reactions",
+     "subtype": "Ugh as teenage shorthand [Regulating]",
+     "description": "A teenager uses ugh for irritation, fatigue or dramatic humour. Others may take it as rudeness, but often it is harmless venting; a teen can learn to add a few words such as that was a long day to avoid confusion."
+    },
+    {
+     "sno": 2827,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Short vocal reactions",
+     "subtype": "Um, uh and filler in public speaking [Regulating]",
+     "description": "A young professional replaces um and uh with a pause while presenting, which reads as more confident. Fillers are normal and do not mean ignorance, and a short silence can help both speaker and audience."
+    }
+   ],
+   "cluster_id": "C0615",
+   "cast": [
+    "Pankaj",
+    "Ganga",
+    "Rajni"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3681,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Illusion of control",
+     "subtype": "Wishing makes it so [Actor]",
+     "description": "A young child believes that hoping hard or a special ritual can change the roll of a dice or a match result. Feeling in charge is comforting."
+    },
+    {
+     "sno": 3683,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Illusion of control",
+     "subtype": "Games of chance [Actor]",
+     "description": "A teenager thinks that choosing his own lottery number or lucky scratch card gives him better odds. Effort and choice feel like they influence pure chance."
+    },
+    {
+     "sno": 3684,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Illusion of control",
+     "subtype": "Gambling and trading traps [Actor]",
+     "description": "A young adult believes skill or a system will beat random outcomes, doubling down after losses. Feeling of control keeps him playing when odds are against him."
+    }
+   ],
+   "cluster_id": "C0616",
+   "cast": [
+    "Vikas",
+    "Bidisha",
+    "Zainab"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5285,
+     "age": "4–6",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Self-forgiveness",
+     "subtype": "Shame after a mistake [Actor]",
+     "description": "A child who spilled milk hides and says I am bad. Young children treat errors as identity, and an adult saying you made a mistake, you are not a mistake gives a first template of self-forgiveness."
+    },
+    {
+     "sno": 5287,
+     "age": "13–17",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Self-forgiveness",
+     "subtype": "Rumination after a slip [Actor]",
+     "description": "A teenager replays an embarrassing moment or a harsh remark for days. Harsh self-review feels like accountability but mostly produces shame and avoidance."
+    },
+    {
+     "sno": 5289,
+     "age": "18–22",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Self-forgiveness",
+     "subtype": "Forgiving past choices [Actor]",
+     "description": "A young adult who wasted a year or hurt a partner keeps punishing themselves through lost opportunities. Learning that the past self did the best it knew at the time allows moving forward."
+    }
+   ],
+   "cluster_id": "C0617",
+   "cast": [
+    "Elizabeth",
+    "Payal",
+    "Vaibhav"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5031,
+     "age": "18–22",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Deadlines and pacing",
+     "subtype": "Setting internal earlier deadlines [Response]",
+     "description": "A wise worker sets personal milestones ahead of the real date and finishes a rough draft early. This leaves room for surprises and makes the final days about improving, not scrambling."
+    },
+    {
+     "sno": 5033,
+     "age": "23–26",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Deadlines and pacing",
+     "subtype": "Warning early when a deadline will slip [Response]",
+     "description": "A responsible worker tells others as soon as a date looks unsafe, with a new realistic date and options. Early bad news can be planned around; late bad news is felt as a betrayal."
+    }
+   ],
+   "cluster_id": "C0618",
+   "cast": [
+    "Usha",
+    "Ankita",
+    "Kunal"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6501,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: pausing and recognising pressure tactics [Thinking]",
+   "description": "A teen gets a call saying his father's account will be blocked in ten minutes unless an OTP is shared, notices the urgency and fear, and treats the pressure itself as the warning sign.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6502,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: hanging up and verifying through an official channel [Action]",
+   "description": "A student ends the call, does not call back the given number, and asks her mother to phone the bank using the number printed on the card, learning that no such block exists.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6503,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: following a rule set in advance [Thinking]",
+   "description": "The family has agreed that OTPs, PINs and passwords are never shared with anyone, so the teen applies the rule without debating it, which works even when the caller sounds convincing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation"
+   ]
+  },
+  {
+   "sno": 6504,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: reporting to parents and the official cybercrime channel [Action]",
+   "description": "After a suspicious link asking for card details, a teen tells his parents, screenshots the message, and they report it to the national cybercrime portal and their bank instead of quietly deleting it.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 6505,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: trusting a caller who knows some personal details [Pitfall]",
+   "description": "A student believes a caller because he knows her school name and her father's name, not realising such details are easily collected, and starts sharing more information to be helpful.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6506,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Vasudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: greed-driven engagement with a prize offer [Pitfall]",
+   "description": "A teen sees a message promising a free phone for a small delivery fee, imagines winning, pays from a wallet app, and only later sees that free prizes needing payment are a standard trick.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6507,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Wanjiru",
+     "Ivan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: hiding a mistake out of embarrassment [Pitfall]",
+   "description": "After clicking a fake link and entering a password, a teen says nothing for two days out of shame, giving scammers time to use the account before it can be secured.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation",
+    "related mind states: shame, embarrassment, trust"
+   ]
+  },
+  {
+   "sno": 6508,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Pooja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: containing the damage after a slip [Revision]",
+   "description": "Realising he entered his login on a fake page, a student changes the password at once, logs out other devices, turns on two-step verification, and tells a parent so the bank can be warned.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation"
+   ]
+  },
+  {
+   "sno": 6509,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: mental rehearsal of scam scripts [Thinking]",
+   "description": "After reading examples of common frauds, a teen rehearses aloud what she would say to a fake officer or a fake job offer, so a calm refusal is ready when a real call arrives.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6510,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Nikita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Phone scam or phishing attempt",
+   "subtype": "Approach: teaching the plan to grandparents [Action]",
+   "description": "A teen writes a short list in Hindi for grandparents, with never share OTP, hang up and call the family, and no payment for prizes, and sticks it near the landline phone.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation"
+   ]
+  }
+ ]
+}

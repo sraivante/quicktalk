@@ -1,0 +1,195 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3978,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Moral disengagement: euphemistic labelling",
+     "subtype": "Just joking or just borrowing [Actor]",
+     "description": "A child who takes a classmate's pencil case says they are just borrowing it, or calls cruel teasing a joke; softer words make the act feel less harmful and less of a personal choice."
+    },
+    {
+     "sno": 3979,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Moral disengagement: euphemistic labelling",
+     "subtype": "Calling harassment banter [Actor]",
+     "description": "A teenager labels repeated nasty comments about a peer as banter and says everyone jokes like that; the label hides how the target feels."
+    }
+   ],
+   "cluster_id": "C0649",
+   "cast": [
+    "Nirmala",
+    "Zubin",
+    "Kamal"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5578,
+     "age": "1–3",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: hedonism",
+     "subtype": "Wants warm, sweet, soft things now [Actor]",
+     "description": "A toddler seeks sweets, cuddles and bubbles and cries when they stop; seeking pleasure and comfort is a simple, natural drive at this age."
+    },
+    {
+     "sno": 5579,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: hedonism",
+     "subtype": "Lives for fun and good times [Actor]",
+     "description": "A teenager plans around films, outings and food, and finds long-term duty dull; the love of enjoyment brings vitality and friends, and can crowd out work if it rules everything."
+    },
+    {
+     "sno": 5580,
+     "age": "18–22",
+     "topic": "Foundational Concepts",
+     "subtopic": "Schwartz value: hedonism",
+     "subtype": "Pleasure versus duty in the hostel [Actor]",
+     "description": "A young adult skips a study session for a late-night outing and enjoys it fully while feeling a pinch of guilt; enjoyment and responsibility pull in different directions."
+    }
+   ],
+   "cluster_id": "C0650",
+   "cast": [
+    "Harish",
+    "Jahnavi",
+    "Kashish"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4792,
+     "age": "1–3",
+     "topic": "Culture & Society",
+     "subtopic": "Touching elders' feet and greetings",
+     "subtype": "Copying gestures [Actor]",
+     "description": "A toddler is guided by a parent to fold hands or bend toward a grandparent's feet and does it as a game. The child feels the smiles and blessing in return and links the gesture to warmth."
+    },
+    {
+     "sno": 4795,
+     "age": "13–17",
+     "topic": "Culture & Society",
+     "subtopic": "Touching elders' feet and greetings",
+     "subtype": "Meaningful or empty gesture [Actor]",
+     "description": "A teenager asks whether touching feet is real respect or habit and sometimes does it hurriedly. Doing it with attention to the person makes it real; doing it for show empties it."
+    },
+    {
+     "sno": 4797,
+     "age": "18–22",
+     "topic": "Culture & Society",
+     "subtopic": "Touching elders' feet and greetings",
+     "subtype": "Greeting in mixed settings [Actor]",
+     "description": "A young adult chooses between touching feet, a handshake or a namaste depending on age, gender, faith and comfort of the person. Reading the other person's cue is more polite than one fixed rule."
+    }
+   ],
+   "cluster_id": "C0651",
+   "cast": [
+    "Hansa",
+    "Sumit",
+    "Sharmila"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4682,
+     "age": "4–6",
+     "topic": "Honesty, Deception & Influence",
+     "subtopic": "Grooming",
+     "subtype": "Teaching body safety and no-secrets [Response]",
+     "description": "Adults teach young children that bodies are private, that no adult should ask for secrets from parents, and that they can always tell a trusted grown-up. Simple repeated rules protect better than fear."
+    },
+    {
+     "sno": 4684,
+     "age": "7–12",
+     "topic": "Honesty, Deception & Influence",
+     "subtopic": "Grooming",
+     "subtype": "What a trusted adult does [Response]",
+     "description": "A parent or teacher who hears a child mention a secret, gifts or pressure stays calm, thanks the child for telling, believes them and acts to protect. Reactions of anger at the child can stop future telling."
+    }
+   ],
+   "cluster_id": "C0652",
+   "cast": [
+    "Farida",
+    "Tanuja",
+    "Jeevan"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5723,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Microaggressions (respectful, balanced treatment)",
+     "subtype": "Meaning well and still hurting [Actor]",
+     "description": "A student makes a joke or a compliment based on a group stereotype, sincerely thinking it is friendly. They are shocked to learn it hurt, because the intent was kind but the effect was not."
+    },
+    {
+     "sno": 5725,
+     "age": "18–22",
+     "topic": "Foundational Concepts",
+     "subtopic": "Microaggressions (respectful, balanced treatment)",
+     "subtype": "Being told about an unintended slight [Actor]",
+     "description": "A person is quietly told that their comment came across badly. They feel defensive, embarrassed and misjudged, and do better by listening, apologising for the effect and adjusting without demanding comfort."
+    }
+   ],
+   "cluster_id": "C0653",
+   "cast": [
+    "Maria",
+    "Amandeep",
+    "Kishore"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2533,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pace and rhythm",
+     "subtype": "Rushed speech and anxiety [Regulating]",
+     "description": "A teenager whose speech races when anxious can practise measured pace by pausing at full stops and breathing out first. A steadier pace often helps the speaker feel calmer as well as sound calmer."
+    },
+    {
+     "sno": 2697,
+     "age": "18–22",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pace and rhythm",
+     "subtype": "Measured pace in interviews and presentations [Regulating]",
+     "description": "A young adult in an interview or seminar who keeps a measured pace with deliberate pauses appears organized. Slowing too much may read as disinterest, so pace should fit the room and topic."
+    },
+    {
+     "sno": 2833,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pace and rhythm",
+     "subtype": "Measured voice in delivering hard news [Regulating]",
+     "description": "A young manager or clinician delivering bad news uses a slow, measured pace and clear sentences so the listener can take it in. Rushing through it to end the discomfort tends to sound cold."
+    }
+   ],
+   "cluster_id": "C0654",
+   "cast": [
+    "Mohit",
+    "Karthik",
+    "Lokesh"
+   ]
+  }
+ ]
+}

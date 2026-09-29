@@ -1,0 +1,266 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5072,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Vishal"
+    ],
+    "2": [
+     "Pema",
+     "Kavitha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Decision-making with incomplete information",
+   "subtype": "Over-researching [Actor]",
+   "description": "A young adult reads endless reviews and forums before a decision, ending more confused than at the start. Extra information past a point adds doubt instead of clarity and feeds fear of regret.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear, confusion, doubt, regret"
+   ]
+  },
+  {
+   "sno": 5073,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Farhan"
+    ],
+    "2": [
+     "Zanele",
+     "Kofi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Decision-making with incomplete information",
+   "subtype": "Naming the unknowns and a default [Response]",
+   "description": "A thoughtful chooser lists what is not known, what could be learned cheaply, and sets a date to decide. Deciding with stated assumptions makes it easy to revise when new facts arrive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5074,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Francis"
+    ],
+    "2": [
+     "Diego",
+     "Astrid"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Decision-making with incomplete information",
+   "subtype": "Deciding fast under uncertainty [Actor]",
+   "description": "A young professional must choose between two job offers or approaches with facts missing, and feels the weight of possibly being wrong. Good decisions are judged by their reasoning, not only by later outcomes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5075,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Seema"
+    ],
+    "2": [
+     "Pankaj",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Decision-making with incomplete information",
+   "subtype": "Family pressure on decisions [Receiver]",
+   "description": "A person deciding on a career or move faces relatives who each give confident, conflicting advice based on their own fears. Listening respectfully without handing over the decision is a delicate skill.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: admiration, fear"
+   ]
+  },
+  {
+   "sno": 5076,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Sarita"
+    ],
+    "2": [
+     "Jahnavi",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Decision-making with incomplete information",
+   "subtype": "Reversible versus irreversible choices [Response]",
+   "description": "A wise decider asks whether the choice can be undone cheaply; if so, they act quickly and adjust, and if not, they slow down and seek advice. Matching care to the cost of error saves both time and regret.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 5077,
+   "plan": {
+    "1": "R13",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Madhuri",
+     "Aadhya"
+    ],
+    "2": [
+     "Rafiq",
+     "Sabina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Emergency response and first aid",
+   "subtype": "Child frozen or crying at an accident [Actor]",
+   "description": "A young child who sees a person hurt or a fire freezes, cries or runs to the nearest adult. This is normal, and the most useful thing at this age is to move away and tell a grown-up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, hurt"
+   ]
+  },
+  {
+   "sno": 5078,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Tejas"
+    ],
+    "2": [
+     "Hrithik",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Emergency response and first aid",
+   "subtype": "Learning emergency numbers and who to tell [Actor]",
+   "description": "A schoolchild who has practised knows the emergency numbers, their address and which trusted adult to call. Rehearsed simple steps work when fear removes the ability to think.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear, detachment, trust"
+   ]
+  },
+  {
+   "sno": 5079,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Salma"
+    ],
+    "2": [
+     "Deepika",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Emergency response and first aid",
+   "subtype": "Bystander effect in a crisis [Observer]",
+   "description": "A teenager among a crowd at an accident assumes someone else has already called for help and does nothing. Responsibility feels shared and therefore vanishes; naming one person to call is what breaks it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5080,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Yusuf"
+    ],
+    "2": [
+     "Elizabeth",
+     "Noor"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Emergency response and first aid",
+   "subtype": "Basic first aid course and calm hands [Actor]",
+   "description": "A trained young adult checks for danger, calls for professional help, and does only the simple steps they were taught such as pressure on bleeding. Knowing limits is part of the skill.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 5081,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Arohi"
+    ],
+    "2": [
+     "Uma",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Emergency response and first aid",
+   "subtype": "Helping when untrained and scared [Response]",
+   "description": "An untrained person still helps by keeping the scene safe, calling emergency services, staying with the injured and following the operator's instructions. Not moving a seriously injured person without need is the general caution.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, trust"
+   ]
+  }
+ ]
+}

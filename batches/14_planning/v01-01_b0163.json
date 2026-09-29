@@ -1,0 +1,211 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7381,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Manjula"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: finding mentors and role models [Action]",
+   "description": "The person notes people whose careers look appealing, asks two of them for a monthly chat, and learns which choices mattered, adjusting the plan with real experience.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7382,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Farhan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: rigid plan that ignores change [Pitfall]",
+   "description": "The person treats the plan as fixed and refuses a new opportunity in a growing area because it is off the map. Two years later the planned path has shrunk in demand.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, seeking advice, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7383,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Parul",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: annual review and replan [Revision]",
+   "description": "Each December the person compares results with the plan, drops goals that no longer fit, adds new ones based on the market and personal life, and records why.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, rigid persistence, seeking advice, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7384,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: balancing career with family and health values [Thinking]",
+   "description": "The person considers marriage plans, ageing parents and health, and sets limits such as no constant weekend work, so the career plan supports life instead of consuming it.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, working backward"
+   ]
+  },
+  {
+   "sno": 7385,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Rajni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: small experiments before big moves [Action]",
+   "description": "Curious about product management, the person takes a side project with a product team for three months to test fit before switching tracks.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, rigid persistence, seeking advice, values-first planning, working backward",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 7386,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Rukmini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: drifting with no plan [Pitfall]",
+   "description": "The person takes whatever comes next, staying in roles because they are comfortable. After some years, options feel limited, and the lack of any direction shows in interviews.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7387,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: mapping stakeholders and interests [Thinking]",
+   "description": "A project lead draws who is affected, sales wants speed, engineers want quality, finance wants low cost, and writes each group's actual concern, not just their stated demand.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 7388,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: seeking a win-win option [Thinking]",
+   "description": "Instead of choosing a side, the lead asks what would satisfy all key needs, and proposes launching a limited feature set now with quality work following in the next release.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 7389,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: pleasing whoever is loudest [Pitfall]",
+   "description": "The manager gives in to the most forceful executive each time. Quieter teams feel ignored, and the product drifts as decisions follow pressure rather than the overall goal.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 7390,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Charu",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding among conflicting stakeholders",
+   "subtype": "Approach: holding a structured decision meeting [Action]",
+   "description": "The lead circulates a one-page brief with options, costs and risks, gives each group five minutes, and records the decision and reasons, so that the process feels fair.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, constraint-based thinking, negotiation"
+   ]
+  }
+ ]
+}

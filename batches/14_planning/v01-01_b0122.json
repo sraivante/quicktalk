@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6971,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Afreen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: test skills without the tool to catch dependence [Revision]",
+   "description": "After realising it is hard to write a paragraph unaided, the person schedules tool-free practice and a weekly self-test. Measuring the skill reveals overreliance early.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6972,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Shreya",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: ask the tool to critique rather than write [Thinking]",
+   "description": "A student writes a draft and asks the tool for gaps in reasoning, then fixes them personally. Using AI as a reviewer keeps authorship and improves the work.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6973,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: share personal data freely with the chatbot [Pitfall]",
+   "description": "The person pastes bank statements and a friend's private messages to get help. The data may be stored or reused, and the friend never agreed to this, so privacy is compromised.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action"
+   ]
+  },
+  {
+   "sno": 6974,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: pause and avoid replying in the heat of the moment [Thinking]",
+   "description": "After a badly received post, the student sees hundreds of hostile comments and decides to wait a day before responding. A delay lets emotion drop and stops a reply that fuels the storm.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, forward planning, seeking advice",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 6975,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: reply to every critic to set things straight [Pitfall]",
+   "description": "The person answers one comment after another through the night, and each reply attracts new attacks and screenshots. Engagement feeds the pile-on and exhausts the person.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice",
+    "related mind states: interest, tiredness"
+   ]
+  },
+  {
+   "sno": 6976,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Ujjwal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: lock accounts, mute and save evidence of threats [Action]",
+   "description": "The person sets accounts private, mutes keywords, saves screenshots of abusive messages and reports them to the platform. Protection and records come before any public statement.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6977,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Alka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: inform trusted people and lean on them [Action]",
+   "description": "The student tells parents and two close friends what is happening and asks a friend to monitor the accounts for a few days. Sharing the load reduces isolation and bad decisions.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 6978,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: report threats to the cybercrime cell and the college [Action]",
+   "description": "When comments include threats and the personal address, the student files a complaint with the cybercrime portal and informs the college authorities. Serious threats belong with authorities, not with a fight online.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6979,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Naveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: assess whether the criticism holds a fair point [Thinking]",
+   "description": "After the intensity fades, the student reads a few measured critiques and asks whether the original post was careless. If there is a real error, a short and sincere correction is the only public response needed.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6980,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: delete everything and vanish to escape [Pitfall]",
+   "description": "Overwhelmed, the person deletes all accounts and stops going to class. Escape brings short relief but loses evidence and leaves the fear unaddressed.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice",
+    "related mind states: fear, relief, overwhelm"
+   ]
+  }
+ ]
+}

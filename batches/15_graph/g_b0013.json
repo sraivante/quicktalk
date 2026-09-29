@@ -1,0 +1,251 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 795,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Blamed for something I did not do",
+     "subtype": "Teacher × Injustice [Receiver]",
+     "description": "I was blamed for something I did not do and I feel hot with unfairness. I explain calmly with facts and ask for a fair look. Shouting or crying is understandable but less effective. A parent can help."
+    },
+    {
+     "sno": 796,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Blamed for something I did not do",
+     "subtype": "Friend × Betrayal [Receiver]",
+     "description": "A friend let me take the blame to save herself. I feel deeply betrayed. I can tell her I saw what she did and hear her out. Trust breaks, and I decide slowly whether to repair it."
+    },
+    {
+     "sno": 797,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Blamed for something I did not do",
+     "subtype": "Friend × Fear [Actor]",
+     "description": "I let my friend take the blame because I was scared. Afterward I feel sick. The brave step is to go to the teacher and admit the truth, then apologise to her. Fear passes; regret stays."
+    }
+   ],
+   "cluster_id": "C0073",
+   "cast": [
+    "Simran",
+    "Santosh",
+    "Minakshi"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1472,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Being idolised or hated",
+     "subtype": "Follower × Being idolised [Receiver]",
+     "description": "Juniors or friends treat you as perfect. Wise: stay honest about flaws and do not let it inflate you. Harmful: using their admiration."
+    },
+    {
+     "sno": 1474,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Being idolised or hated",
+     "subtype": "Peer × Being hated [Receiver]",
+     "description": "Someone openly dislikes you for no clear reason. Wise: reflect once if you did wrong, then stop chasing approval. Immature: retaliating or obsessing."
+    },
+    {
+     "sno": 1476,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Being idolised or hated",
+     "subtype": "Online group × Being trolled or shamed [Receiver]",
+     "description": "Strangers pile on over a post. Wise: do not engage, save evidence, block, and lean on real friends. It says little about your worth."
+    },
+    {
+     "sno": 1478,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Being idolised or hated",
+     "subtype": "Person × Rivalry [Actor]",
+     "description": "A classmate is a constant rival. Wise: let them push your standard while staying decent. Immature: sabotage."
+    }
+   ],
+   "cluster_id": "C0074",
+   "cast": [
+    "Lakshmi",
+    "Nikita",
+    "Mehak"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 504,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Tantrum and limits",
+     "subtype": "Friend × Fear [Receiver]",
+     "description": "A friend has a huge tantrum at school and I feel scared and unsure. Wise action: step back, tell a teacher and be kind later. Their feelings are big, not dangerous, and I am not responsible for fixing them."
+    },
+    {
+     "sno": 502,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Tantrum and limits",
+     "subtype": "Parent × Shame [Actor]",
+     "description": "After the tantrum in the market I feel embarrassed and sorry, and I hide my face. A wise parent says \"you were upset, it is over, let us fix it\". Calling me bad makes the shame stay stuck."
+    },
+    {
+     "sno": 499,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Tantrum and limits",
+     "subtype": "Parent × Anger [Actor]",
+     "description": "I am so angry about no sweets that I scream and throw myself down. My body feels too big to control. A wise grown-up stays calm, keeps the limit and helps me breathe. The immature pattern is hitting or throwing things."
+    }
+   ],
+   "cluster_id": "C0075",
+   "cast": [
+    "Aadhya",
+    "Bhupen",
+    "Noor"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1891,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Difficult client demands",
+     "subtype": "Client × Anger [Actor]",
+     "description": "A client changes scope repeatedly and blames you, so you feel furious. Mature response: pause, reply in writing, restate agreed scope, price extras, and keep professionalism. Venting on their staff or ghosting harms your name."
+    },
+    {
+     "sno": 1893,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Difficult client demands",
+     "subtype": "Client × Exploitation [Receiver]",
+     "description": "Endless free revisions, delayed payments and vague promises of future work signal exploitation. It is not your failing. Set contracts, milestones and advance payments, and be ready to end the engagement politely."
+    },
+    {
+     "sno": 1892,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Difficult client demands",
+     "subtype": "Client × Respect [Receiver]",
+     "description": "A client who pays on time, gives clear briefs and credits your work makes the job a pleasure. Reciprocate with reliability and honesty about limits. Good relationships are built by both sides keeping small promises."
+    },
+    {
+     "sno": 1897,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Difficult client demands",
+     "subtype": "Junior team × Protectiveness [Actor]",
+     "description": "A client is rude to your junior. Step in privately, set boundaries on tone, and back your teammate publicly. Ignoring it to keep the client teaches the team that respect is negotiable."
+    }
+   ],
+   "cluster_id": "C0076",
+   "cast": [
+    "Indu",
+    "Yogesh",
+    "Jahnavi"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1506,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Exploited as intern",
+     "subtype": "Company × Indebtedness [Actor]",
+     "description": "They say they are doing me a favour by taking me on, so I feel I owe endless effort. Wise: an honest exchange is work for learning or pay; a favour does not cancel my rights. Harmful: confusing gratitude with servitude."
+    },
+    {
+     "sno": 1505,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Exploited as intern",
+     "subtype": "Company × Exploitation [Receiver]",
+     "description": "My \"internship\" is full-time work with no pay, no learning and a vague promise of a job. I feel used but afraid to lose the line on my CV. Wise: ask about stipend and learning goals, set a time limit, walk if nothing changes."
+    },
+    {
+     "sno": 1507,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Exploited as intern",
+     "subtype": "Manager × Respect [Actor]",
+     "description": "One manager teaches me properly and gives real tasks, and I admire her patience. Wise: ask for a reference, take feedback seriously, and keep the relationship after I leave. Harmful: idolising her and ignoring my other needs."
+    },
+    {
+     "sno": 1510,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Exploited as intern",
+     "subtype": "Parent × Pride [Receiver]",
+     "description": "My parent proudly tells relatives I work at a big firm, while I feel like a free helper. I feel a guilty gap. Wise: tell the truth gently and explain what I am learning and what I plan next. Harmful: keeping the pretence up."
+    }
+   ],
+   "cluster_id": "C0077",
+   "cast": [
+    "Tejas",
+    "Nilesh",
+    "Lalit"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1195,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an AI chatbot",
+     "subtype": "AI chatbot × Trust [Actor]",
+     "description": "I ask an AI to explain a topic and to check my homework. Wise: use it as a helper, verify facts, and do my own thinking so I actually learn."
+    },
+    {
+     "sno": 1198,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an AI chatbot",
+     "subtype": "AI chatbot × Temptation [Actor]",
+     "description": "I am tempted to have AI write my assignment. Wise: notice the short-term relief and the long-term loss of skill; use it to explain and practise, and follow school rules."
+    },
+    {
+     "sno": 1197,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an AI chatbot",
+     "subtype": "AI chatbot × Deceit [Receiver]",
+     "description": "The chatbot answers confidently but is wrong or invents sources. Recognise it: AI can sound sure and be mistaken. Wise: cross-check with books, teachers or reliable sites."
+    },
+    {
+     "sno": 1201,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an AI chatbot",
+     "subtype": "Parent × Fear [Receiver]",
+     "description": "My parents worry that AI will take my future or ruin my mind. Wise: show them what I use it for, agree on limits, and talk about skills that stay valuable."
+    }
+   ],
+   "cluster_id": "C0078",
+   "cast": [
+    "Uma",
+    "Pankaj",
+    "Tejas"
+   ]
+  }
+ ]
+}

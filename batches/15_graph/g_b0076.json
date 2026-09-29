@@ -1,0 +1,267 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6470,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Entrance exam and backup plans",
+     "subtype": "Approach: working backward from the exam date [Thinking]",
+     "description": "A student counts the weeks left before the entrance test, lists all syllabus units, and calculates how many units must be finished each week including revision and mock tests."
+    },
+    {
+     "sno": 6471,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Entrance exam and backup plans",
+     "subtype": "Approach: time-boxed study blocks with a weekly review [Action]",
+     "description": "A student divides evenings into three ninety-minute blocks, marks each done or not on a wall chart, and every Sunday shifts unfinished topics into next week rather than ignoring them."
+    },
+    {
+     "sno": 6475,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Entrance exam and backup plans",
+     "subtype": "Approach: refusing to plan for failure [Pitfall]",
+     "description": "A teen insists only one college matters and that a backup would jinx the effort, so when results come short she has no applications ready and loses weeks in panic."
+    },
+    {
+     "sno": 6478,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Entrance exam and backup plans",
+     "subtype": "Approach: adjusting the plan after a bad mock score [Revision]",
+     "description": "After a drop in the third mock, a student checks sleep and topic gaps, cuts a weekend activity for two weeks, and adds short daily physics problem sets, then tracks whether scores recover."
+    }
+   ],
+   "cluster_id": "C0451",
+   "cast": [
+    "Lalremsiami",
+    "Lavanya",
+    "Pradeep"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6521,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Repairing screen addiction",
+     "subtype": "Approach: measuring use before changing it [Thinking]",
+     "description": "A teen checks his phone's screen-time report and is shocked by six hours daily, mostly short videos, and decides to make a plan from real numbers instead of guilt."
+    },
+    {
+     "sno": 6522,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Repairing screen addiction",
+     "subtype": "Approach: asking what need the phone is meeting [Thinking]",
+     "description": "A student asks why she scrolls at night and sees it is loneliness and avoiding homework worry, so she plans real replacements such as calling a friend and starting homework with ten-minute goals."
+    },
+    {
+     "sno": 6526,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Repairing screen addiction",
+     "subtype": "Approach: cold-turkey resolution announced on the first day [Pitfall]",
+     "description": "A student swears off all screens for a month, ignores that school groups run on messaging, breaks the rule by day four, and gives up the whole effort out of all-or-nothing thinking."
+    },
+    {
+     "sno": 6529,
+     "age": "13–17",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Repairing screen addiction",
+     "subtype": "Approach: reviewing slips without self-blame [Revision]",
+     "description": "After a weekend binge, a student checks what triggered it, an argument and boredom, adjusts by planning an outing for the next weekend, and restarts the next day instead of quitting."
+    }
+   ],
+   "cluster_id": "C0452",
+   "cast": [
+    "Bidisha",
+    "Uday",
+    "Alka"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 5932,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning a hard topic",
+     "subtype": "Approach: breaking division into smaller steps [Thinking]",
+     "description": "A child finds long division confusing. She notices it is really divide, multiply, subtract, bring down, and practises each step alone before joining them together."
+    },
+    {
+     "sno": 5933,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning a hard topic",
+     "subtype": "Approach: using an everyday example to understand fractions [Thinking]",
+     "description": "A boy cannot follow three-fourths until his mother cuts a roti into four parts and gives him three. The picture of real food gives the abstract number a meaning he can hold."
+    },
+    {
+     "sno": 5934,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning a hard topic",
+     "subtype": "Approach: memorising the rule without understanding it [Pitfall]",
+     "description": "A girl learns 'flip and multiply' for dividing fractions without knowing why. She gets the familiar sums right but is lost when the teacher gives a word problem in a new shape."
+    },
+    {
+     "sno": 5938,
+     "age": "7–12",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Learning a hard topic",
+     "subtype": "Approach: asking the teacher a specific question [Revision]",
+     "description": "A child notices that guessing has not helped and writes down exactly where he gets lost, which is the borrowing step in subtraction. Next day he asks the teacher to show that one step again."
+    }
+   ],
+   "cluster_id": "C0453",
+   "cast": [
+    "Darshan",
+    "Joseph",
+    "Neelam"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 5812,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Hide and seek strategy",
+     "subtype": "Approach: copying a peer [Action]",
+     "description": "A child hides in the almirah because an older cousin won there last time. It works this time only because the seeker does not know the cousin's trick."
+    },
+    {
+     "sno": 5813,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Hide and seek strategy",
+     "subtype": "Approach: if-then rule [Thinking]",
+     "description": "A child thinks, \"If the seeker goes left, I go right around the sofa,\" and waits to see which way he goes. It is a simple plan about another person's move."
+    },
+    {
+     "sno": 5810,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Hide and seek strategy",
+     "subtype": "Approach: covering own eyes [Pitfall]",
+     "description": "A child of four covers both eyes in the middle of the room and believes nobody can see. The child cannot yet take the seeker's point of view."
+    },
+    {
+     "sno": 5811,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Hide and seek strategy",
+     "subtype": "Approach: trial and error [Revision]",
+     "description": "Found in seconds behind the door, a child tries behind the curtain next round, then under the bed. Each round of being found or not found teaches which spots work."
+    }
+   ],
+   "cluster_id": "C0454",
+   "cast": [
+    "Anirban",
+    "Jomon",
+    "Chetan"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 6661,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for placement interviews",
+     "subtype": "Approach: means-end analysis from company pattern to gap [Thinking]",
+     "description": "A student reviews the past three years of a target company's rounds, notes aptitude, coding and HR stages, and compares each stage with current ability to find the biggest gap."
+    },
+    {
+     "sno": 6662,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for placement interviews",
+     "subtype": "Approach: time-boxed daily practice blocks [Action]",
+     "description": "Over six weeks, the student fixes ninety minutes for coding problems, forty for aptitude and thirty for speaking practice, and keeps a log of solved problems."
+    },
+    {
+     "sno": 6664,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for placement interviews",
+     "subtype": "Approach: memorising answers word for word [Pitfall]",
+     "description": "A candidate scripts every HR answer from the internet, sounds rehearsed, and freezes when the interviewer changes the question slightly."
+    },
+    {
+     "sno": 6668,
+     "age": "18–22",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Preparing for placement interviews",
+     "subtype": "Approach: learning from a rejection debrief [Revision]",
+     "description": "After failing the technical round, the student writes down each question missed, learns the underlying concept, and finds the next company's questions feel easier."
+    }
+   ],
+   "cluster_id": "C0455",
+   "cast": [
+    "Lavanya",
+    "Zainab",
+    "Pema"
+   ]
+  },
+  {
+   "type": "approach_comparison",
+   "rows": [
+    {
+     "sno": 5879,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Making a birthday card",
+     "subtype": "Approach: simple step list [Action]",
+     "description": "A child folds the paper in half, draws a cake on the front, writes the friend's name inside, and colours it last. The order makes the card come together."
+    },
+    {
+     "sno": 5880,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Making a birthday card",
+     "subtype": "Approach: make-believe rehearsal [Thinking]",
+     "description": "A child imagines grandmother opening the card and smiling, and decides on her favourite flowers and colours. The imagined reaction chooses the drawing."
+    },
+    {
+     "sno": 5884,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Making a birthday card",
+     "subtype": "Approach: giving up [Pitfall]",
+     "description": "The drawing turns out crooked and a child crumples the paper and says \"it's ugly,\" and will not make another card. The wish for a perfect result stops the effort."
+    },
+    {
+     "sno": 5882,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Making a birthday card",
+     "subtype": "Approach: trial and error [Revision]",
+     "description": "Glitter glue smudges the drawing, so a child tries pencil first on a fresh sheet and adds glitter only at the border. The mess teaches an order for the materials."
+    }
+   ],
+   "cluster_id": "C0456",
+   "cast": [
+    "Pankaj",
+    "Sharmila",
+    "Mohit"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 5002,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Kishore",
+     "Avni"
+    ],
+    "2": [
+     "Chidi",
+     "Anders"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Breaking goals into steps",
+   "subtype": "Hidden steps discovered late [Observer]",
+   "description": "A senior colleague notices that a junior's plan omits approvals, testing and waiting time, which are the steps that usually eat the schedule. Beginners plan the visible work and forget the connecting work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5003,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Aditi"
+    ],
+    "2": [
+     "Eshaan",
+     "Usha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Breaking goals into steps",
+   "subtype": "Working backwards from the end [Response]",
+   "description": "An experienced planner starts from the deadline and asks what must be true one step earlier, repeating until reaching today. This exposes the true starting date and the dependencies on other people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5004,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Jatin"
+    ],
+    "2": [
+     "Vasudha",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Guessing how long things take [Actor]",
+   "description": "A child says the drawing will take five minutes and is surprised when an hour has gone. Children have little felt sense of duration, so promises of soon or quickly are sincere but unreliable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: surprise",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5005,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Dolma"
+    ],
+    "2": [
+     "Zainab",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Best-case estimates [Actor]",
+   "description": "A teenager estimates a project by imagining everything going smoothly and starts late as a result. The mind plans from the ideal story and ignores how similar tasks have actually gone before.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5006,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Kiran"
+    ],
+    "2": [
+     "Hiroshi",
+     "Jana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Parents seeing the last-minute rush [Observer]",
+   "description": "A parent watches a teenager cram a project the night before and recognises the pattern of underestimating. Rather than rescuing every time, a wise parent lets small consequences teach while helping build a starting routine.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5007,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Ingrid",
+     "Nour"
+    ],
+    "2": [
+     "Ayesha",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Planning fallacy despite experience [Actor]",
+   "description": "A student who has run late on every previous assignment still expects this one to be different. Knowing about the fallacy does not remove it; the optimistic picture feels like a special case each time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hope",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5008,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Gurpreet",
+     "Preeti"
+    ],
+    "2": [
+     "Aadhya",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Colleagues who quote optimistic dates [Receiver]",
+   "description": "A team lead relies on a colleague's promised date and then has to reshuffle everything when it slips. Repeated optimism erodes trust more than an honest longer estimate would have.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hope, trust",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5009,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Vasudha",
+     "Akash"
+    ],
+    "2": [
+     "Jahnavi",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Estimating time and the planning fallacy",
+   "subtype": "Using past durations and a buffer [Response]",
+   "description": "A practical planner estimates by looking at how long similar tasks really took, then adds slack for interruptions. Being honest about the last three overruns beats trusting today's confident feeling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust",
+    "related concepts: planning fallacy"
+   ]
+  },
+  {
+   "sno": 5010,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Leela"
+    ],
+    "2": [
+     "Yash",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "Enthusiastic start, abandoned middle [Actor]",
+   "description": "A child begins a craft kit or a diary with great excitement and drops it when the novelty fades. The joy is in beginning; the flat middle needs a tolerance for boredom that is still developing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, excitement, boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5011,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rafael",
+     "Omar"
+    ],
+    "2": [
+     "Yusuf",
+     "Disha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "Many half-finished projects [Actor]",
+   "description": "A teenager has a guitar, a coding course and a fitness plan all begun and none completed. Each new idea feels more exciting than pushing an old one through its dull stretch, which quietly builds a self-image of a non-finisher.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: excitement"
+   ]
+  }
+ ]
+}

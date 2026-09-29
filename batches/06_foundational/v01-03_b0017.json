@@ -1,0 +1,313 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5602,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Gargi",
+     "Ankita"
+    ],
+    "2": [
+     "Sudha",
+     "Hansa"
+    ],
+    "3": [
+     "Madhav",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg social contract stage",
+   "subtype": "Laws as agreements that serve people [Actor]",
+   "description": "A student reasons that laws exist to protect everyone's rights and welfare, and that unjust ones should be changed by fair, democratic means, not simply obeyed or broken.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 5603,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "1": [
+     "Vaibhav",
+     "Lakshmi"
+    ],
+    "2": [
+     "Jeevan",
+     "Tejas"
+    ],
+    "3": [
+     "Naveen",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg social contract stage",
+   "subtype": "Weighing rules against welfare [Actor]",
+   "description": "A professional follows the rule in ordinary cases but raises a formal objection when it would harm people, and accepts the outcome of a fair process even when it goes against them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5604,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Tarun"
+    ],
+    "2": [
+     "Soo-ah",
+     "Esther"
+    ],
+    "3": [
+     "Jahnavi",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg social contract stage",
+   "subtype": "Person affected by a fair process feels respected [Receiver]",
+   "description": "An employee whose complaint was heard, weighed openly and answered with reasons feels respected even when the result was not in their favour, and trusts the system more.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 5605,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Arnab"
+    ],
+    "2": [
+     "Neelam",
+     "Ojas"
+    ],
+    "3": [
+     "Yash",
+     "Zainab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg social contract stage",
+   "subtype": "Colleague notices a principled objection [Observer]",
+   "description": "A colleague sees a peer object openly to an unfair policy through proper channels, without sneering at rules or breaking them, and learns that loyalty and principle can go together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5606,
+   "plan": {
+    "1": "R3",
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Deepika"
+    ],
+    "2": [
+     "Minakshi",
+     "Anjali"
+    ],
+    "3": [
+     "Ankita",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg social contract stage",
+   "subtype": "Handling conflicts through fair process [Response]",
+   "description": "An adult facing a rule conflict lays out the rights and welfare at stake, invites the affected people to speak, follows agreed procedures and works to improve the rule.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5607,
+   "plan": {
+    "1": "R13",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Jasleen"
+    ],
+    "2": [
+     "Hemant",
+     "Reena"
+    ],
+    "3": [
+     "Kiran",
+     "Vishal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg stages: contrast with other stages",
+   "subtype": "Stage 1 obedience and punishment [Actor]",
+   "description": "A child says hitting is wrong \"because you get punished\", judging right by whether an adult will be angry; a rule feels like a fact of the world, not something to reason about.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5608,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Ira"
+    ],
+    "2": [
+     "Imran",
+     "Preeti"
+    ],
+    "3": [
+     "Zeenat",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg stages: contrast with other stages",
+   "subtype": "Stage 3 good-person and approval [Actor]",
+   "description": "A teenager acts to be seen as a good friend and son, valuing loyalty and approval from those close to them, and can find it hard to disappoint the group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 5609,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Vinita"
+    ],
+    "2": [
+     "Nazia",
+     "Pooja"
+    ],
+    "3": [
+     "Lindiwe",
+     "Beatriz"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg stages: contrast with other stages",
+   "subtype": "Stage 4 law and social order [Actor]",
+   "description": "A young adult treats rules and duty as the glue of society and says \"what if everyone broke the rules?\", which supports order and can be hard on people who face rare exceptions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5610,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Nandini"
+    ],
+    "2": [
+     "Yamini",
+     "Thomas"
+    ],
+    "3": [
+     "Deepika",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg stages: contrast with other stages",
+   "subtype": "Stages are tendencies, not labels on people [Observer]",
+   "description": "A teacher notices the same student reason at different levels in different situations, and treats the stage model as a way to see how reasoning grows, not a ranking of who is a better person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5611,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Chetan"
+    ],
+    "2": [
+     "Vikas",
+     "Ramesh"
+    ],
+    "3": [
+     "Rukmini",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kohlberg stages: contrast with other stages",
+   "subtype": "Stage 6 universal principles [Actor]",
+   "description": "A thoughtful adult acts on self-chosen principles of justice and human dignity even when laws or the group disagree, accepting the cost; this stage is rare and no age or person is fully at one stage.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22"
+   ]
+  }
+ ]
+}

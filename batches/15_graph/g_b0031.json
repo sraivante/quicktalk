@@ -1,0 +1,267 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1963,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Public criticism online",
+     "subtype": "Online mob × Fear [Receiver]",
+     "description": "A post of yours goes viral for the wrong reasons and thousands attack you. It is frightening and isolating. Step away from notifications, tell trusted people, save evidence of threats, report them, and do not respond in panic."
+    },
+    {
+     "sno": 1964,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Public criticism online",
+     "subtype": "Online mob × Shame [Receiver]",
+     "description": "Strangers call you names and dig up your past, and you feel worthless. Remember mobs act on fragments, not on your whole life. Correct facts once if needed, then mute; seek support, and let the storm pass."
+    },
+    {
+     "sno": 423,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Public criticism online",
+     "subtype": "Critic × Hurt & discernment",
+     "description": "Separates valid criticism from abuse, replies calmly or not at all, and avoids trading insults."
+    },
+    {
+     "sno": 1969,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Public criticism online",
+     "subtype": "Friend × Compassion [Actor]",
+     "description": "A friend is being trolled and is sinking. Message privately, ask what help they want, offer to check the messages for them, and avoid piling advice. Being present can matter more than defending them publicly."
+    }
+   ],
+   "cluster_id": "C0181",
+   "cast": [
+    "Tejas",
+    "Vijay",
+    "Nazia"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 766,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Grandparent falls ill",
+     "subtype": "Doctor × Trust [Actor]",
+     "description": "The doctors are helping my grandfather and I try to trust them. I can ask my parents what they are doing in simple words. Understanding a little cuts down my fear. I also prepare for uncertainty."
+    },
+    {
+     "sno": 759,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Grandparent falls ill",
+     "subtype": "Grandparent × Fear [Actor]",
+     "description": "My grandfather is in the hospital and I am afraid he may die. Fear like this is natural. I ask an adult honest questions and draw or pray or sit with him. Not being told anything is scarier."
+    },
+    {
+     "sno": 763,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Grandparent falls ill",
+     "subtype": "Grandparent × Grief [Actor]",
+     "description": "My grandfather has died and I feel empty, angry and confused. All of those are grief. I can cry, ask questions, share memories and take part in the rituals if my family does. Grief comes in waves."
+    },
+    {
+     "sno": 760,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Grandparent falls ill",
+     "subtype": "Grandparent × Love [Actor]",
+     "description": "I sit near my grandmother and read to her while she rests. Small caring acts matter to sick people. I do not have to fix anything; being present is enough."
+    }
+   ],
+   "cluster_id": "C0182",
+   "cast": [
+    "Sumit",
+    "Yamini",
+    "Irawati"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 865,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Online game with strangers",
+     "subtype": "Game × Obsession [Actor]",
+     "description": "I keep thinking about the game while at school and get upset when I must stop. This is a sign to loosen my grip. I can agree with my parents on time limits and balance it with outdoor play."
+    },
+    {
+     "sno": 864,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Online game with strangers",
+     "subtype": "Friend × Rivalry [Actor]",
+     "description": "My friend and I are fiercely competing for game ranks. Rivalry is exciting, but if I cannot stand losing or start sulking, I should take a break and remember he matters more than the score."
+    },
+    {
+     "sno": 867,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Online game with strangers",
+     "subtype": "Game × Spending pressure [Receiver]",
+     "description": "The game keeps offering purchases to look cool or win. It is designed to tempt me. I can ask a parent before spending, and remember that real friends do not care about my skins."
+    },
+    {
+     "sno": 868,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Online game with strangers",
+     "subtype": "Online stranger × Kindness [Receiver]",
+     "description": "A stranger in the game asks if I am okay after I lose badly. It feels nice, but kindness online still needs care; I stay friendly and never share private information."
+    }
+   ],
+   "cluster_id": "C0183",
+   "cast": [
+    "Kavitha",
+    "Amandeep",
+    "Sudha"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1083,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Family money or illness trouble",
+     "subtype": "Parent × Fear [Actor]",
+     "description": "My parent is unwell or money is tight and I worry constantly, hearing whispers. Wise: ask what is happening, take small helpful jobs, and still keep studying and friends. Harmful: silently carrying adult burdens."
+    },
+    {
+     "sno": 1089,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Family money or illness trouble",
+     "subtype": "Friend × Compassion [Actor]",
+     "description": "A friend's family is struggling and I want to help. Wise: offer time, notes, and company without making them a charity case. Harmful: gossiping about their problems."
+    },
+    {
+     "sno": 1086,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Family money or illness trouble",
+     "subtype": "Parent × Gratitude [Actor]",
+     "description": "I see my parent's sacrifices and feel gratitude and pressure to succeed. Wise: say thanks and take on fair responsibility. Harmful: believing I must give up my own dreams to repay them."
+    },
+    {
+     "sno": 1084,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Family money or illness trouble",
+     "subtype": "Parent × Shame [Actor]",
+     "description": "I hide our situation from friends and refuse invitations I cannot afford. Wise: speak to one trusted friend, avoid pretending, and know that money does not measure me. Harmful: lying or stealing to keep up."
+    }
+   ],
+   "cluster_id": "C0184",
+   "cast": [
+    "Hrithik",
+    "Aparna",
+    "Damini"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 496,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Getting praised",
+     "subtype": "Classmate × Envy [Receiver]",
+     "description": "After the teacher praises me, a classmate frowns and says \"you are not that good\". I feel confused and a little sad. A wise response is to stay kind and not brag; the classmate's feeling is envy, not proof I did wrong."
+    },
+    {
+     "sno": 498,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Getting praised",
+     "subtype": "Friend × Admiration [Actor]",
+     "description": "I tell my friend \"your drawing is so good\". I feel happy giving kind words and want to learn how they did it. Admiring without envy is a lovely early skill, and asking \"will you show me?\" is a wise next step."
+    },
+    {
+     "sno": 495,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Getting praised",
+     "subtype": "Parent × Affection [Receiver]",
+     "description": "My parent hugs me and says \"I am proud of you\" after I tie my shoes. I feel safe and loved and eager to show more. I learn I am loved for who I am, not only for what I do."
+    },
+    {
+     "sno": 494,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Getting praised",
+     "subtype": "Teacher × Pride [Receiver]",
+     "description": "My teacher says \"well done, you tried so hard\" and gives me a star. I feel tall and happy. Praise for effort makes me want to keep trying, while praise only for being the best can make me fear mistakes."
+    }
+   ],
+   "cluster_id": "C0185",
+   "cast": [
+    "Karthik",
+    "Pallavi",
+    "Keerthana"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1777,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Junior underperforms",
+     "subtype": "Junior × Shame [Receiver]",
+     "description": "I made a serious mistake at work and feel ashamed and afraid my manager will give up on me. I own it fast, bring a fix, and ask for guidance; hiding errors is the real danger, not the error itself."
+    },
+    {
+     "sno": 1781,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Junior underperforms",
+     "subtype": "Junior × Protectiveness [Actor]",
+     "description": "I cover for my junior's mistakes to shield them from blame. A little cover early can help, but if I hide problems they never learn; I coach them to own their errors and I stay honest with my boss."
+    },
+    {
+     "sno": 1778,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Junior underperforms",
+     "subtype": "Junior × Disillusionment [Actor]",
+     "description": "I trusted a junior with a big task and they failed, and now I doubt my ability to delegate. I review what I explained, adjust the scope and check-ins, and delegate again in smaller steps instead of taking everything back."
+    },
+    {
+     "sno": 407,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Junior underperforms",
+     "subtype": "Junior × Irritation",
+     "description": "Feels tempted to take the task back; learns that doing it for them stunts growth."
+    }
+   ],
+   "cluster_id": "C0186",
+   "cast": [
+    "Minakshi",
+    "Baljeet",
+    "Shankar"
+   ]
+  }
+ ]
+}

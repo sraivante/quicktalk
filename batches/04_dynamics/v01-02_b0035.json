@@ -1,0 +1,279 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3248,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Binita",
+     "Alka"
+    ],
+    "2": [
+     "Vinita",
+     "Minakshi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 4: Rising demands and isolation [Observer]",
+   "description": "Family notice a relative growing secretive, using the group's jargon, dropping old friends and giving up study or work. Warning signs include one source of truth, penalties for questions and pressure to cut ties.",
+   "graph_context": [
+    "previous stage: Us versus them",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3249,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Jamal",
+     "Clara"
+    ],
+    "2": [
+     "Madhav",
+     "Farhan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 1: Need and approach [Response]",
+   "description": "A young person who feels lonely asks questions about a group's finances, leaders and rules on leaving, and stays in touch with outside friends. A healthy group welcomes questions and does not punish exit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3250,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Sudha"
+    ],
+    "2": [
+     "Aadhya",
+     "Ritu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 3: Us versus them [Response]",
+   "description": "A family member keeps affection, avoids ridicule and asks open questions about what the group has given the person. Staying connected preserves the path back that the group is trying to close.",
+   "graph_context": [
+    "next stage: Rising demands and isolation",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3251,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Arohi"
+    ],
+    "2": [
+     "Pankaj",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 5: Doubt and fear [Actor]",
+   "description": "The member notices contradictions or unfair treatment, but fear of losing friends, shame and warnings about outsiders keep the doubts quiet. Inner conflict shows up as anxiety, sleeplessness and guilt.",
+   "graph_context": [
+    "next stage: Leaving",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, anxiety, shame, guilt"
+   ]
+  },
+  {
+   "sno": 3252,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Neelam"
+    ],
+    "2": [
+     "Manjula",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 5: Doubt and fear [Receiver]",
+   "description": "Parents or friends who reach out meet defensiveness or a stock reply. Staying calm, keeping the door open and avoiding ridicule preserves the trust that will matter when doubt grows.",
+   "graph_context": [
+    "next stage: Leaving",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, doubt, calm, trust"
+   ]
+  },
+  {
+   "sno": 3253,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Gopika",
+     "Damini"
+    ],
+    "2": [
+     "Nitin",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 6: Leaving [Response]",
+   "description": "Exit often follows a trusted outside relationship, a broken promise or plain exhaustion. Support means no blame, patient listening, practical help with housing and work, and counselling to rebuild independent thinking.",
+   "graph_context": [
+    "previous stage: Doubt and fear",
+    "next stage: Rebuilding identity",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: tiredness, trust"
+   ]
+  },
+  {
+   "sno": 3254,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ayesha",
+     "Omkar"
+    ],
+    "2": [
+     "Anirban",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 7: Rebuilding identity [Response]",
+   "description": "The former member mourns the community, feels shame for what they believed and slowly relearns their own tastes and views. Recovery takes time, and reconnecting with the family and varied company speeds it.",
+   "graph_context": [
+    "previous stage: Leaving",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: grief, shame"
+   ]
+  },
+  {
+   "sno": 3255,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Vaibhav"
+    ],
+    "2": [
+     "Anirban",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Radicalising rage online",
+   "subtype": "Stage 1: A real grievance [Actor]",
+   "description": "A teenager feels wronged by unemployment fears, humiliation or unfairness, and finds videos or posts that voice exactly that anger. Being understood feels like relief, and the grievance itself is often partly true.",
+   "graph_context": [
+    "next stage: Feeding the feed",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: grief, anger, fear, relief"
+   ]
+  },
+  {
+   "sno": 3256,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Usha"
+    ],
+    "2": [
+     "Kashish",
+     "Nandini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Radicalising rage online",
+   "subtype": "Stage 2: Feeding the feed [Actor]",
+   "description": "Clicking on angry content leads the algorithm to serve more, and the feed starts to look like the whole world. Outrage brings quick likes and attention, which reward sharper and harsher posts.",
+   "graph_context": [
+    "previous stage: A real grievance",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3257,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Sahil"
+    ],
+    "2": [
+     "Zeynep",
+     "Alejandro"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Radicalising rage online",
+   "subtype": "Stage 2: Feeding the feed [Response]",
+   "description": "A teen learns how feeds are tuned to provoke, mutes rage accounts and follows sources that show more than one side. Noticing that a post is built to anger, before reacting, is a real skill.",
+   "graph_context": [
+    "previous stage: A real grievance",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

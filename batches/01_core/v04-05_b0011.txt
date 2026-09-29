@@ -1,0 +1,39 @@
+STAGE: core
+Variant ids in this batch: 4, 5 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 101, "plan": {"4": "R11", "5": "R12"}, "cast": {"4": ["Hafsa", "Parveen"], "5": ["Kavitha", "Sudha"]}, "age": "13–17", "topic": "Habits & Ethics", "subtopic": "Lifestyle & Digital Ethics", "subtype": "Personal Discipline & Health Habits", "description": "Cultivating personal time management and digital hygiene vs. addiction to screens, substance risks, and slacking off."}
+{"sno": 102, "plan": {"4": "R10", "5": "R11"}, "cast": {"4": ["Hansa", "Nandini"], "5": ["Yash", "Jeevan"]}, "age": "13–17", "topic": "Civic & Relational", "subtopic": "Civic Duty", "subtype": "Civic Consciousness & Family Honor", "description": "Fulfilling civic duties, understanding country laws, maintaining family honor, and respecting societal governance.", "graph_context": ["related mind states: admiration"]}
+{"sno": 103, "plan": {"4": "R11", "5": "R12"}, "cast": {"4": ["Asif", "Tanvir"], "5": ["Deepika", "Bidisha"]}, "age": "13–17", "topic": "Responsibility", "subtopic": "Spheres of Responsibility", "subtype": "Wider Society & Digital", "description": "Managing personal health and reputation, rejecting peer bullying, fulfilling family and academic duties, and practicing online cyber ethics.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"]}
+{"sno": 104, "plan": {"4": "R11", "5": "R12"}, "cast": {"4": ["Siddharth", "Binita"], "5": ["Shreya", "Vandana"]}, "age": "18–22", "topic": "Life Skills", "subtopic": "Self-Reliance", "subtype": "Financial Management", "description": "Budgeting, paying bills, and managing personal expenses without parental oversight."}
+{"sno": 105, "plan": {"4": "R6", "5": "R7"}, "cast": {"4": ["Kavitha", "Wasim"], "5": ["Vikas", "Rajni"]}, "age": "18–22", "topic": "Life Skills", "subtopic": "Self-Reliance", "subtype": "Domestic Independence", "description": "Handling cooking, cleaning, laundry, and daily maintenance independently."}
+{"sno": 106, "plan": {"4": "R10", "5": "R11"}, "cast": {"4": ["Sharmila", "Naveen"], "5": ["Charu", "Mehak"]}, "age": "18–22", "topic": "Life Skills", "subtopic": "Self-Reliance", "subtype": "Time Management", "description": "Structuring unstructured time effectively without school bells or parents dictating schedules."}
+{"sno": 107, "plan": {"4": "R8", "5": "R9"}, "cast": {"4": ["Rania", "Camila"], "5": ["Kiran", "Vijay"]}, "age": "18–22", "topic": "Education / Career", "subtopic": "Specialization", "subtype": "Academic/Vocational Focus", "description": "Committing to a specific college major, trade, or specialized career path."}
+{"sno": 108, "plan": {"4": "R10", "5": "R11"}, "cast": {"4": ["Dilnaz", "Vikas"], "5": ["Noor", "Disha"]}, "age": "18–22", "topic": "Education / Career", "subtopic": "Specialization", "subtype": "Skill Acquisition", "description": "Moving from general education to mastering specific, marketable professional skills."}
+{"sno": 109, "plan": {"4": "R1", "5": "R2"}, "cast": {"4": ["Divyansh", "Deepika"], "5": ["Jaya", "Tanvir"]}, "age": "18–22", "topic": "Education / Career", "subtopic": "Specialization", "subtype": "Early Networking", "description": "Building initial professional relationships, finding mentors, and securing internships."}
+{"sno": 110, "plan": {"4": "R15", "5": "R1"}, "cast": {"4": ["Bhupen", "Ayesha"], "5": ["Sonali", "Uma"]}, "age": "18–22", "topic": "Creativity", "subtopic": "Innovation", "subtype": "Creative Problem Solving & Ideation", "description": "Synthesis of concepts across different disciplines to generate original projects, products, or theories."}
+
+Return exactly 20 JSON Lines and nothing else.

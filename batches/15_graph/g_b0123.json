@@ -1,0 +1,195 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2366,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Vocal outbursts",
+     "subtype": "Shouting and yelling in anger [Interpreting]",
+     "description": "A schoolchild recognises that shouting can signal anger, fear or a wish to be heard. Staying calm, stepping back and getting a teacher or parent is safer than shouting back, and shouted threats should always be reported."
+    },
+    {
+     "sno": 2523,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Vocal outbursts",
+     "subtype": "Screams as alarm and help calls [Interpreting]",
+     "description": "A teenager learns that a scream or yell for help should be taken seriously, even when it might be a prank. Checking safely and calling for help beats ignoring it; false alarms erode trust, so pranks should not use it."
+    },
+    {
+     "sno": 2823,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Vocal outbursts",
+     "subtype": "Screaming and public safety [Interpreting]",
+     "description": "A young adult hears a scream in a street or hostel and weighs whether it is play, a film or danger. Calling emergency services or a security guard is wiser than either ignoring it or rushing in alone."
+    }
+   ],
+   "cluster_id": "C0733",
+   "cast": [
+    "Bhupen",
+    "Ayesha",
+    "Hansa"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 4442,
+     "age": "7–12",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Internal: I can affect this [Actor]",
+     "description": "A child believes practice, effort and choices shape outcomes, and tries again after losing. This helps learning, but it can turn into blaming self for things beyond their control."
+    },
+    {
+     "sno": 4444,
+     "age": "13–17",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Fate and effort together [Actor]",
+     "description": "A teenager from a traditional home believes in destiny and also studies hard, holding both without contradiction. Cultural belief in fate can bring peace after loss without removing personal responsibility."
+    },
+    {
+     "sno": 4446,
+     "age": "18–22",
+     "topic": "Personality & Individual Difference",
+     "subtopic": "Locus of control",
+     "subtype": "Overblaming self or others [Actor]",
+     "description": "A young adult who believes everything is their fault takes on guilt for others' choices, while another blames everyone else and never changes. Both distort; balanced view separates own part from circumstances."
+    }
+   ],
+   "cluster_id": "C0734",
+   "cast": [
+    "Jaya",
+    "Shalini",
+    "Mahima"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 3570,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Confirmation bias",
+     "subtype": "Favouring the team or idol [Actor]",
+     "description": "A child insists his favourite cricketer is the best and only remembers the matches that prove it. Bad scores are explained away as bad luck or a bad umpire."
+    },
+    {
+     "sno": 3572,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Confirmation bias",
+     "subtype": "Choosing sources that agree [Actor]",
+     "description": "A college student picks articles and seniors' advice that back a decision already made, such as skipping placements, and feels well researched while only collecting agreement."
+    },
+    {
+     "sno": 3574,
+     "age": "23–26",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Confirmation bias",
+     "subtype": "Hiring or review judgments [Actor]",
+     "description": "A young professional decides early that a new colleague is weak and then reads each small slip as confirmation while ignoring her good work. The first impression quietly steers later evidence."
+    }
+   ],
+   "cluster_id": "C0735",
+   "cast": [
+    "Kishore",
+    "Madhuri",
+    "Aadhya"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2532,
+     "age": "13–17",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pace and rhythm",
+     "subtype": "Drawn-out speech and sarcasm [Mismatch]",
+     "description": "A teenager who drags out a word such as fiiine may signal reluctance, boredom or sarcasm. The rhythm can contradict the words, so a friend or parent reads both, then asks a gentle check."
+    },
+    {
+     "sno": 2698,
+     "age": "18–22",
+     "topic": "Expression & Mind State",
+     "subtopic": "Pace and rhythm",
+     "subtype": "Rhythm across languages and dialects [Mismatch]",
+     "description": "Speech rhythm differs across Indian languages, accents and English varieties, so a fast or sing-song rhythm may be normal for the speaker. Judging intelligence or attitude from rhythm alone is a common and unfair pitfall."
+    }
+   ],
+   "cluster_id": "C0736",
+   "cast": [
+    "Farida",
+    "Hrithik",
+    "Akash"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 5652,
+     "age": "7–12",
+     "topic": "Foundational Concepts",
+     "subtopic": "Stereotype threat",
+     "subtype": "Feeling watched for a group label [Actor]",
+     "description": "A child told that girls are poor at maths or that children from some schools are weaker feels a knot in the stomach during a test and underperforms. The fear of confirming the label uses up the mental space needed for the problem."
+    },
+    {
+     "sno": 5653,
+     "age": "13–17",
+     "topic": "Foundational Concepts",
+     "subtopic": "Stereotype threat",
+     "subtype": "Performing below ability under a label [Actor]",
+     "description": "A teenager from a group that is assumed to do poorly in a subject grows tense in exams, rushes and doubts known answers. The results look like low ability but come from added pressure."
+    }
+   ],
+   "cluster_id": "C0737",
+   "cast": [
+    "Lokesh",
+    "Damini",
+    "Saurabh"
+   ]
+  },
+  {
+   "type": "progression",
+   "rows": [
+    {
+     "sno": 2367,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Other vocal sounds",
+     "subtype": "Sighing and huffing [Interpreting]",
+     "description": "A schoolchild reads an adult's sigh or huff as tiredness, boredom or annoyance. It is ambiguous and may be relief; asking is everything is fine can prevent a child from assuming they are the cause."
+    },
+    {
+     "sno": 2824,
+     "age": "23–26",
+     "topic": "Expression & Mind State",
+     "subtopic": "Other vocal sounds",
+     "subtype": "Groaning, moaning and pain [Interpreting]",
+     "description": "A young adult hears a groan or moan and must judge whether it is jest, tiredness or real pain. When a person seems unwell, asking and offering help or calling for medical aid is wiser than assuming exaggeration."
+    }
+   ],
+   "cluster_id": "C0738",
+   "cast": [
+    "Omkar",
+    "Parveen",
+    "Rajni"
+   ]
+  }
+ ]
+}

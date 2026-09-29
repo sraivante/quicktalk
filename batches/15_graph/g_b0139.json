@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4097,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Perfectionism",
+     "subtype": "Parent who expects top marks [Receiver]",
+     "description": "A child whose parents respond only to marks feels loved for performance and hides mistakes; the harm is less the standard than the sense that love depends on meeting it."
+    },
+    {
+     "sno": 3196,
+     "age": "13–17",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Perfectionism and paralysis",
+     "subtype": "Stage 1: High standards and praise [Actor]",
+     "description": "A teenager is praised for flawless work and neat notebooks, and learns that love and safety come with being perfect. The standard feels like a strength at first, and hides the fear underneath."
+    }
+   ],
+   "cluster_id": "C0829",
+   "cast": [
+    "Yamini",
+    "Mehak",
+    "Alka"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3896,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Splitting",
+     "subtype": "Friend all good then all bad [Actor]",
+     "description": "A teenager describes a friend as perfect one week and as a total traitor the next after a small slight; strong feelings make it hard to hold both good and disappointing sides together."
+    },
+    {
+     "sno": 5828,
+     "age": "4–6",
+     "topic": "Planning & Problem Solving",
+     "subtopic": "Tidying a room",
+     "subtype": "Approach: bargaining [Action]",
+     "description": "A child offers, \"I do the cars, you do the books, then we read a story.\" Splitting the work and naming the reward gets it moving."
+    }
+   ],
+   "cluster_id": "C0830",
+   "cast": [
+    "Dolma",
+    "Farida",
+    "Irfan"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 5209,
+     "age": "7–12",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Boredom and idleness",
+     "subtype": "Boredom becomes invention [Actor]",
+     "description": "Left without screens on a long summer afternoon, a child builds a fort, invents a game or draws for hours. Tolerated boredom is where self-directed interest first grows."
+    }
+   ],
+   "cluster_id": "C0831",
+   "cast": [
+    "Zainab",
+    "Samir",
+    "Farida"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3891,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Class clown covering embarrassment [Actor]",
+     "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry."
+    },
+    {
+     "sno": 5279,
+     "age": "4–6",
+     "topic": "Wellbeing, Wisdom & Conversation",
+     "subtopic": "Sense of humour",
+     "subtype": "Silly sounds and surprise [Actor]",
+     "description": "A child giggles at funny faces, wrong words and sudden surprises. Early humour is about incongruity and safety, and laughing together bonds a child to a caregiver."
+    }
+   ],
+   "cluster_id": "C0832",
+   "cast": [
+    "Lalit",
+    "Yash",
+    "Hansa"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3650,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Planning fallacy",
+     "subtype": "Homework will take ten minutes [Actor]",
+     "description": "A child says a project will be quick and starts the night before. He imagines the ideal path and forgets past delays."
+    },
+    {
+     "sno": 5004,
+     "age": "7–12",
+     "topic": "Execution & Practical Skills",
+     "subtopic": "Estimating time and the planning fallacy",
+     "subtype": "Guessing how long things take [Actor]",
+     "description": "A child says the drawing will take five minutes and is surprised when an hour has gone. Children have little felt sense of duration, so promises of soon or quickly are sincere but unreliable."
+    }
+   ],
+   "cluster_id": "C0833",
+   "cast": [
+    "Elizabeth",
+    "Sarika",
+    "Chandrika"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4056,
+     "age": "13–17",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Procrastination",
+     "subtype": "Avoidant type: avoiding judgement [Actor]",
+     "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse."
+    },
+    {
+     "sno": 3190,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Procrastination cycle",
+     "subtype": "Stage 4: Panic and last-minute sprint [Actor]",
+     "description": "With the deadline near, fear finally gives energy and the assignment is done overnight. It often works well enough to teach the wrong lesson that delaying is fine, while the cost of stress and quality is ignored."
+    }
+   ],
+   "cluster_id": "C0834",
+   "cast": [
+    "Ganga",
+    "Lalit",
+    "Hansa"
+   ]
+  }
+ ]
+}

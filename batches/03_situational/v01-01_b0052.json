@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 828,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Stranger × Temptation [Actor]",
+   "description": "I find a hundred-rupee note in the corridor, and my heart races with ideas of what I could buy. Wanting is natural; a wise choice is handing it to a teacher or asking whose it is.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, gratitude, honesty, pride",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 829,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Stranger × Compassion [Actor]",
+   "description": "I think of the child who lost the note and how worried he might be. Imagining someone else's feelings makes returning it feel simple and warm, not like a loss.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, gratitude, honesty, pride, temptation",
+    "related mind states: anger, anxiety, empathy"
+   ]
+  },
+  {
+   "sno": 830,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Jeevan",
+     "Baljeet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Friend × Peer pressure [Receiver]",
+   "description": "Friends say, finders keepers, let's buy chips. I feel torn between fitting in and doing right. I can decline politely, and often a friend quietly feels relieved that someone said it.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, gratitude, honesty, pride, temptation",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 831,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Chinmay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Shopkeeper × Honesty [Actor]",
+   "description": "The shopkeeper gives me extra change by mistake. Nobody will know, but I would. Returning it feels awkward for a moment and then makes me feel light and trusted.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, gratitude, pride, temptation",
+    "related mind states: embarrassment, trust"
+   ]
+  },
+  {
+   "sno": 832,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "My parent hears that I returned a wallet and hugs me. I feel proud, but I should do the right thing even when nobody praises me, because honesty is for me first.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, gratitude, honesty, temptation",
+    "related mind states: affection, pride"
+   ]
+  },
+  {
+   "sno": 833,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Finding lost money",
+   "subtype": "Owner × Gratitude [Receiver]",
+   "description": "The child whose money I returned smiles and says thank you. It feels good, but I must not expect a reward each time. Doing right is its own quiet reward.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, honesty, pride, temptation",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 834,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Indu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "Faith community × Belonging [Actor]",
+   "description": "At the temple, mosque, church or gurudwara, everyone sings together and I feel part of something bigger. Belonging is precious; I can also ask why we do things, not just copy.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, rejection, respect, trust, worship",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 835,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "Grandparent × Devotion [Receiver]",
+   "description": "My grandmother teaches me a prayer and her eyes shine. I feel loved and rooted. I take it in with respect and can still ask questions later; good elders welcome them.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, rejection, respect, trust",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 836,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Disha",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "Priest or religious teacher × Trust [Actor]",
+   "description": "I listen to the religious teacher's stories and believe them fully. Trust is natural at this age; over time I learn to notice whether teachings promote kindness and never fear, cruelty or secrecy.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, rejection, respect, worship",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 837,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Jaya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "God × Gratitude [Actor]",
+   "description": "I thank God for my family and food before eating. The feeling is warm and simple. Gratitude can also become action, like sharing my food with someone who has less.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, rejection, respect, trust, worship",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

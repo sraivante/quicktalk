@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7191,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Urmila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: breaking the move into a checklist by weeks [Action]",
+   "description": "A sales executive moving from Lucknow to Bengaluru lists tasks: notice period, house search, school for the child, packers, and address changes, with a date for each.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 7192,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: visiting first to assess neighbourhoods [Action]",
+   "description": "He spends a weekend in the new city, checks commute times at peak hours, and visits three areas. The visit replaces online guesses with direct experience before signing a lease.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 7193,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: negotiating a relocation package with the employer [Action]",
+   "description": "Before accepting, she asks about the relocation allowance, temporary housing and joining date. The employer agrees to a month of company accommodation, easing the first weeks.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, planning fallacy, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 7194,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Omkar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: dependency thinking about what must happen first [Thinking]",
+   "description": "He notes that the lease depends on the joining date, which depends on the notice period, which depends on handover. Starting with the handover unlocks the rest of the plan.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, negotiation, planning fallacy, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 7195,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: underestimating settling costs and time [Pitfall]",
+   "description": "Assuming everything will be sorted in a week, a family arrives with little cash and no internet or gas connection. Deposits and setup costs cause stress in their first month.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 7196,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Karthik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: deciding on salary alone [Pitfall]",
+   "description": "Attracted by a higher salary, he ignores the higher rent and longer commute. After a few months the take-home benefit is small and his time with family has shrunk.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 7197,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Jatin",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: building a support network early [Thinking]",
+   "description": "Knowing loneliness affects many movers, she joins a local hobby group, contacts an old college friend and finds a trusted doctor and grocery store in the first month.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, planning fallacy, seeking advice",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 7198,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: contingency for the first three months [Thinking]",
+   "description": "They keep three months of expenses, keep the old home available for a month, and note a backup plan if the job does not work out, treating the move as reversible.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, critical path, negotiation, planning fallacy, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 7199,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Rukmini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: adjusting after the first month in the new city [Revision]",
+   "description": "Finding the commute exhausting, he moves to a flat closer to the office despite the lease penalty. He recognises that the first choice was made with limited information.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, negotiation, planning fallacy, seeking advice, task decomposition",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 7200,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Anirban",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Relocating for work",
+   "subtype": "Approach: asking colleagues who moved before for advice [Thinking]",
+   "description": "He talks to two colleagues who relocated earlier and learns about broker fees, school admission timelines and neighbourhoods to avoid. Their experience saves him from several costly mistakes.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, contingency planning, critical path, negotiation, planning fallacy, task decomposition"
+   ]
+  }
+ ]
+}

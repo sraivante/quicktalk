@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7311,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: trying to time the market [Pitfall]",
+   "description": "The investor stops the monthly plan, waiting for the bottom to buy back in. The market rebounds unexpectedly and the person keeps waiting for a lower price that never comes.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7312,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: rebalancing by written rule [Action]",
+   "description": "Following a plan made earlier, the investor moves a small share from stable assets into equity when the mix drifts, using a rule set in a calm period rather than emotion.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, trial by imitation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 7313,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Minakshi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: limiting news and checking on a schedule [Thinking]",
+   "description": "Noticing that constant price checking raises anxiety, the investor looks at the portfolio once a month and mutes market channels, which lowers impulsive urges.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, trial by imitation",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 7314,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Kalyani",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: following a friend's tip on a hot stock [Pitfall]",
+   "description": "A colleague claims a beaten-down stock will double. The investor puts in a large sum without research, ignoring risk, and later finds the company had serious debt problems.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7315,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Zeenat",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: learning from a past drawdown [Revision]",
+   "description": "Recalling that a smaller fall two years earlier was recovered, the investor reviews notes from that time and sticks with the plan, but lowers exposure to one risky sector.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7316,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: talking to a registered adviser [Action]",
+   "description": "Unsure about the portfolio mix, the person consults a registered fee-only adviser to understand general options, treating the talk as education and not as an instruction to follow blindly.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7317,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: sizing the fund from fixed monthly costs [Thinking]",
+   "description": "The person totals rent, food, EMIs and family support, multiplies by six, and treats the number as the target, then breaks it into a monthly saving goal.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 7318,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Sarika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: automatic transfer on salary day [Action]",
+   "description": "A standing instruction moves a fixed amount to a separate savings account the day salary arrives, removing the need for willpower each month.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7319,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Thomas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: postponing until earning more [Pitfall]",
+   "description": "The person keeps saying that saving will start after a raise. Expenses rise with each raise, and a sudden hospital bill arrives before any reserve exists.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7320,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: comparing health policies on a checklist [Thinking]",
+   "description": "The person compares cover amount, waiting periods, room rent limits, exclusions and claim settlement record for several insurers, and reads the fine print instead of trusting a sales call.",
+   "graph_context": [
+    "same problem, other approaches: prioritising, task decomposition",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

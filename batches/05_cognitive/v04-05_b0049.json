@@ -1,0 +1,263 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4050,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Sumit",
+     "Jahnavi"
+    ],
+    "5": [
+     "Zubin",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Implementation intentions",
+   "subtype": "Planning around the obstacle [Response]",
+   "description": "A student who often gets distracted in the library plans that if a friend invites them out during study hours they will say later and go at six; planning for the obstacle makes the intention hold.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4051,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Sarita",
+     "Tejas"
+    ],
+    "5": [
+     "Jeevan",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Implementation intentions",
+   "subtype": "Vague resolution failing [Actor]",
+   "description": "An adult resolves to be healthier this year without saying when or how and drifts back to old routines by February; goals without triggers depend on memory and mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 4052,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Amara",
+     "Oskar"
+    ],
+    "5": [
+     "Lavanya",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Implementation intentions",
+   "subtype": "Attaching a new action to an existing cue [Response]",
+   "description": "An adult who wants to stretch decides to do it right after brushing teeth; hooking a new behaviour to a stable routine makes it easier to start without deliberating.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4053,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Kiran",
+     "Mridul"
+    ],
+    "5": [
+     "Sudha",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Temptation bundling",
+   "subtype": "Study-with-music arrangement [Actor]",
+   "description": "A teenager saves their favourite playlist for homework only; a small reserved pleasure makes starting less painful, though some tasks need silence and full attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4054,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Noa",
+     "Sami"
+    ],
+    "5": [
+     "Mridul",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Temptation bundling",
+   "subtype": "Pairing a treat with a chore [Response]",
+   "description": "A student allows a favourite podcast only while doing laundry or exercising; linking something enjoyable to something useful adds pull to dull tasks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4055,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Anirban",
+     "Minakshi"
+    ],
+    "5": [
+     "Rehana",
+     "Lalit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Temptation bundling",
+   "subtype": "Bundling turning into an excuse [Actor]",
+   "description": "An adult who pairs a series with the gym ends up watching the series and skipping the gym; a bundle works only when the pleasure is truly reserved for the task.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4056,
+   "plan": {
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "4": [
+     "Kunal",
+     "Ishita"
+    ],
+    "5": [
+     "Simran",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Avoidant type: avoiding judgement [Actor]",
+   "description": "A teenager delays a project because a poor result would reveal weakness; putting it off protects the self-image but makes the eventual work worse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4057,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Sarita",
+     "Mehak"
+    ],
+    "5": [
+     "Imran",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Arousal type: thrill of the deadline [Actor]",
+   "description": "A student who believes they work best under pressure leaves everything to the last night; the rush of panic gives energy but risks quality and health.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 4058,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Bhavna",
+     "Dhruv"
+    ],
+    "5": [
+     "Tarun",
+     "Chinmay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Decisional type: cannot choose [Actor]",
+   "description": "A graduate delays applying because every option feels risky and irreversible; not choosing feels safer, though it becomes a choice by default.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4059,
+   "plan": {
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Manjula",
+     "Kishore"
+    ],
+    "5": [
+     "Rehana",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Friend caught in the cycle [Observer]",
+   "description": "A friend sees a classmate promise to start tomorrow again and again and then feel worse each time; the friend offers to sit together for twenty minutes and start with the easiest piece.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3238,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Mahima"
+    ],
+    "2": [
+     "Rukmini",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 3: Distance from former peers [Receiver]",
+   "description": "Former teammates feel dropped and second-guess whether to speak up. They stop offering ideas, which hides problems from the lead and makes the team quieter, not stronger.",
+   "graph_context": [
+    "previous stage: Rising self-image",
+    "next stage: Dismissing feedback"
+   ]
+  },
+  {
+   "sno": 3239,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Reena"
+    ],
+    "2": [
+     "Zainab",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 4: Dismissing feedback [Actor]",
+   "description": "Critical remarks are brushed off as jealousy or lack of vision. The ego protects a new identity by treating any challenge as a threat, and the leader stops learning.",
+   "graph_context": [
+    "previous stage: Distance from former peers",
+    "next stage: A visible mistake",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 3240,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Ojas"
+    ],
+    "2": [
+     "Avni",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 5: A visible mistake [Actor]",
+   "description": "A poor call made without consulting others costs the team a delay. Blame is first pushed onto the team, and the leader feels shaken as the halo cracks.",
+   "graph_context": [
+    "previous stage: Dismissing feedback",
+    "next stage: Humbling and honest reflection"
+   ]
+  },
+  {
+   "sno": 3241,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Selin",
+     "Yuki"
+    ],
+    "2": [
+     "Payal",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 6: Humbling and honest reflection [Response]",
+   "description": "The lead owns the error openly, thanks those who warned them and asks for candid feedback. Acknowledging fault in public tends to raise respect rather than lower it.",
+   "graph_context": [
+    "previous stage: A visible mistake",
+    "next stage: Serving the team",
+    "related mind states: gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 3242,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Wanjiru",
+     "Mei"
+    ],
+    "2": [
+     "Santosh",
+     "Vijay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 7: Serving the team [Response]",
+   "description": "The leader reframes the role as clearing obstacles and growing others, credits the team and stays close to former peers. Authority earned by service outlasts authority claimed by position.",
+   "graph_context": [
+    "previous stage: Humbling and honest reflection"
+   ]
+  },
+  {
+   "sno": 3243,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Manoj"
+    ],
+    "2": [
+     "Yash",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A promotion and the ego that follows",
+   "subtype": "Stage 2: Rising self-image [Observer]",
+   "description": "A mentor sees a newly promoted friend start to talk in the first person about every team win. A private, kind remark that the team now notices the credit-taking can save a career.",
+   "graph_context": [
+    "previous stage: The news and the glow",
+    "next stage: Distance from former peers"
+   ]
+  },
+  {
+   "sno": 3244,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Lalremsiami"
+    ],
+    "2": [
+     "Wasim",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 1: Need and approach [Actor]",
+   "description": "A lonely teenager, unsettled by exams or family strain, meets a warm group or online community that offers attention, meaning and friends. Recruitment works by meeting real needs first, before any demands appear.",
+   "graph_context": [
+    "next stage: Love and belonging",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3245,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Zanele",
+     "Javier"
+    ],
+    "2": [
+     "Rekha",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 2: Love and belonging [Actor]",
+   "description": "The newcomer is praised, included in chats and given a role. Belonging feels like being finally understood, and the intensity of the welcome makes leaving later feel like a loss.",
+   "graph_context": [
+    "previous stage: Need and approach",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 3246,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Gurleen"
+    ],
+    "2": [
+     "Swati",
+     "Dhruv"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 3: Us versus them [Actor]",
+   "description": "The group starts to describe outsiders, parents and old friends as blind, corrupt or hostile. The person begins to see the world in two camps, and doubts are read as weakness or influence of outsiders.",
+   "graph_context": [
+    "next stage: Rising demands and isolation",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: hostility, doubt"
+   ]
+  },
+  {
+   "sno": 3247,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Pankaj"
+    ],
+    "2": [
+     "Tanuja",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Drawn into a high-control group or online extremism",
+   "subtype": "Stage 4: Rising demands and isolation [Actor]",
+   "description": "Time, money and secrecy are increasingly required, and contact with family or dissenting friends falls. Each step is small enough to accept, and past sacrifice makes the next feel necessary.",
+   "graph_context": [
+    "previous stage: Us versus them",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  }
+ ]
+}

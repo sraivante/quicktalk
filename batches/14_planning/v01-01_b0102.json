@@ -1,0 +1,213 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6771,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Binita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: root-cause analysis of the recurring conflict [Thinking]",
+   "description": "Before reacting to dishes piling up, a student asks why it keeps happening and finds that the roommate's late-night schedule and unclear chores are the actual issue.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6772,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Saurabh",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: calm face-to-face talk at a good moment [Action]",
+   "description": "The student asks the roommate for a chat over tea on a free evening, describes the specific problem without blame, and asks what the roommate needs too.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation, rigid persistence",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6773,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Nikita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: negotiating a win-win chore and quiet-hours plan [Action]",
+   "description": "The two agree on a rotating chore chart, quiet hours after eleven on weekdays, and a small shared budget for supplies, giving each something they wanted.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6774,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: passive-aggressive notes and silence [Pitfall]",
+   "description": "Instead of speaking, the student leaves sarcastic notes and stops talking, and the roommate feels attacked, so the tension grows and the mess remains.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation, rigid persistence",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 6775,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: venting to others and building a coalition [Pitfall]",
+   "description": "The student complains to the whole floor, which turns a small issue into gossip and makes the roommate defensive before any direct conversation has happened.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6776,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: mental simulation of the conversation [Thinking]",
+   "description": "The student imagines the roommate's defensive reply and prepares a calm response, and thinks about how they themselves would feel if told the same thing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, negotiation, rigid persistence",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6777,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: if-then rule for future slips [Action]",
+   "description": "The pair agree that if a chore is missed twice, then they talk the same evening instead of letting resentment build.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, negotiation, rigid persistence",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6778,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Uma",
+     "Ritu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: seeking a neutral warden or senior when stuck [Action]",
+   "description": "After two failed talks about a repeated safety issue, the student involves the hostel warden calmly, sharing facts, and accepts the warden's suggestion to redo the agreement.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation, rigid persistence",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 6779,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: avoiding the issue and moving out [Pitfall]",
+   "description": "The student avoids all discussion and asks for a room change at the first friction, then meets a similar problem with the next roommate, since the skill was not learned.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, mental simulation, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6780,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Leela"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Roommate disagreement over shared space",
+   "subtype": "Approach: reviewing the agreement after a month [Revision]",
+   "description": "A month later the two check what worked, drop the rigid chore chart, and keep quiet hours, and treat the rules as adjustable rather than a verdict on each other.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, negotiation"
+   ]
+  }
+ ]
+}

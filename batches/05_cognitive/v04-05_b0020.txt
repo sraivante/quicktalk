@@ -1,0 +1,39 @@
+STAGE: cognitive
+Variant ids in this batch: 4, 5 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows describe a thinking mechanism (bias, heuristic, defence mechanism, distortion, motivation, habit). In the passage, show the mechanism operating WITHOUT naming it, so it must be identified from behaviour. The mental_state answer explains why it feels reasonable from the inside. The literal answer names the concrete event. The application answer gives a workable countermeasure. Children's rows show the early form (magical thinking, egocentrism) at their level. Do not label people as having a disorder.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3760, "plan": {"4": "R4", "5": "R7"}, "cast": {"4": ["Jyoti", "Dhruv"], "5": ["Urmila", "Jeevan"]}, "age": "4–6", "topic": "Cognitive Machinery", "subtopic": "Reactance", "subtype": "I do it myself [Actor]", "description": "A preschooler refuses help or an instruction just because it was ordered, then complies happily if given a choice between two acceptable options.", "graph_context": ["this subtopic also appears at ages: 1–3, 13–17, 23–26"]}
+{"sno": 3761, "plan": {"4": "R12", "5": "R13"}, "cast": {"4": ["Aadhya", "Deepak"], "5": ["Deepak", "Ira"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Reactance", "subtype": "Pushing back on control [Actor]", "description": "A teenager told firmly what to do or whom to avoid does the opposite, protecting his sense of freedom. Heavy pressure can make risky things more tempting.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 23–26"]}
+{"sno": 3762, "plan": {"4": "R1", "5": "R2"}, "cast": {"4": ["Parul", "Chetan"], "5": ["Ujjwal", "Sarita"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Reactance", "subtype": "Parents facing resistance [Observer]", "description": "A parent sees his strict rules produce secrecy and defiance, and shifts to explaining reasons, offering choices within limits and staying connected.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 23–26", "related mind states: hostility"]}
+{"sno": 3763, "plan": {"4": "R6", "5": "R7"}, "cast": {"4": ["Yamini", "Tanvir"], "5": ["Noor", "Pallavi"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Reactance", "subtype": "Noticing my own bristle [Response]", "description": "A young adult who feels irritated at advice or a rule asks whether he is rejecting the idea or just being told, and picks his response deliberately.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17", "related mind states: anger"]}
+{"sno": 3764, "plan": {"4": "R13", "5": "R14"}, "cast": {"4": ["Rashmi", "Hemant"], "5": ["Sahil", "Madhuri"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Ostrich effect", "subtype": "Not looking at bad news [Actor]", "description": "A teenager avoids checking exam results or a report card to postpone the sting, though not knowing leaves him more anxious and unprepared.", "graph_context": ["this subtopic also appears at ages: 18–22, 23–26", "related mind states: anxiety"]}
+{"sno": 3765, "plan": {"4": "R6", "5": "R7"}, "cast": {"4": ["Omkar", "Pooja"], "5": ["Deepak", "Lalremsiami"]}, "age": "18–22", "topic": "Cognitive Machinery", "subtopic": "Ostrich effect", "subtype": "Avoiding bills and balances [Actor]", "description": "A young adult stops opening bank messages or attendance records once things look bad, letting small problems grow. Looking away gives short relief and long trouble.", "graph_context": ["this subtopic also appears at ages: 13–17, 23–26", "related mind states: relief"]}
+{"sno": 3766, "plan": {"4": "R13", "5": "R14"}, "cast": {"4": ["Usha", "Indu"], "5": ["Shankar", "Chaitanya"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Ostrich effect", "subtype": "Facing the numbers [Response]", "description": "A mature person schedules a regular time to look at money, health and work data, ideally with a calm friend, so bad news is small and early and not large and late.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: detachment, calm"]}
+{"sno": 3767, "plan": {"4": "R2", "5": "R3"}, "cast": {"4": ["Ishita", "Tushar"], "5": ["Baljeet", "Urmila"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Ostrich effect", "subtype": "Health check-ups avoided [Observer]", "description": "A sibling notices someone ignoring symptoms or delaying a check-up out of fear. Gentle company to the appointment and qualified medical advice matter more than pressure.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: fear"]}
+{"sno": 3768, "plan": {"4": "R5", "5": "R7"}, "cast": {"4": ["Pradeep", "Sharmila"], "5": ["Mahima", "Dhruv"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Mental accounting", "subtype": "Money in labelled pots [Actor]", "description": "A child who received festival gift money feels free to spend it all on sweets, but would never spend the same amount from his pocket money. The source changes how the money feels.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 3769, "plan": {"4": "R12", "5": "R13"}, "cast": {"4": ["Suraj", "Devika"], "5": ["Kavitha", "Gurleen"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Mental accounting", "subtype": "Windfall money [Actor]", "description": "A teenager treats a prize or a gift as fun money and spends it quickly, while guarding money he earned. Every rupee is the same but the mind sorts them differently.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26", "related mind states: playfulness"]}
+
+Return exactly 20 JSON Lines and nothing else.

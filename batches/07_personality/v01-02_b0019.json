@@ -1,0 +1,267 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4499,
+   "plan": {
+    "1": "R13",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Aditi"
+    ],
+    "2": [
+     "Sonali",
+     "Payal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Different ways of relating in toddlerhood [Actor]",
+   "description": "A toddler may prefer lining up objects, respond less to their name or become very upset by changed routine, and show love in their own ways. Behaviour is what is described here, and a paediatrician can assess concerns.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4500,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Manoj"
+    ],
+    "2": [
+     "Alka",
+     "Varun"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Play and communication differences [Actor]",
+   "description": "A child may play beside others rather than with them, talk at length about a favourite subject or need a set order for the day. Their way of connecting is real even if it looks different.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4501,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Dilnaz"
+    ],
+    "2": [
+     "Seema",
+     "Yusuf"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Parent grieving and adjusting [Receiver]",
+   "description": "A parent may feel worry, confusion, guilt or fierce love after learning their child thinks differently. Connecting with other families and professionals helps them support the child as they are.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, grief, anxiety, guilt"
+   ]
+  },
+  {
+   "sno": 4502,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Zeenat"
+    ],
+    "2": [
+     "Ritu",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Social rules that are not obvious [Actor]",
+   "description": "A child may take words literally, find playground rules confusing and feel exhausted by school noise and effort to fit in. Clear, kind explanations help far more than punishment for misreading cues.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: confusion, tiredness"
+   ]
+  },
+  {
+   "sno": 4503,
+   "plan": {
+    "1": "R5",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Kavitha",
+     "Nirmala"
+    ],
+    "2": [
+     "Tanvir",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Peer observing a classmate [Observer]",
+   "description": "A classmate sees someone who avoids loud games and talks a lot about trains. Including them in activities of their interest, not teasing and asking rather than assuming builds real friendship.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 4504,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Himani"
+    ],
+    "2": [
+     "Pema",
+     "Francis"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Masking and exhaustion [Actor]",
+   "description": "A teenager copies peers' expressions and scripts to fit in, then melts down or shuts down at home. Hiding natural ways takes great energy, and acceptance at home offers a place to rest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4505,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Gargi"
+    ],
+    "2": [
+     "Rajni",
+     "Joseph"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Respectful interaction [Response]",
+   "description": "A wise person speaks clearly, gives time to answer, respects sensory needs and does not force eye contact or hugs. Does not treat difference as defect, and asks how the person prefers to communicate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 4506,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Hiroshi",
+     "Sofia"
+    ],
+    "2": [
+     "Rekha",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Deep interests and honest style [Actor]",
+   "description": "A young adult may have a deep passion, direct speech and a need for predictable routines and quiet. Strengths like focus and honesty are real, and friendships form easily around shared interests.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 4507,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sharmila",
+     "Jomon"
+    ],
+    "2": [
+     "Binita",
+     "Bidisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Autistic experience",
+   "subtype": "Workplace and relationships [Actor]",
+   "description": "An autistic adult may find open-plan offices, small talk and unclear expectations draining but thrive with clear tasks and written instructions. Asking for adjustments is reasonable, and being understood is a relief.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 4508,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Jomon",
+     "Rajni"
+    ],
+    "2": [
+     "Ada",
+     "Dalia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Dyslexia and dyscalculia",
+   "subtype": "Reading feels like effort [Actor]",
+   "description": "A bright child stumbles over words, reverses letters and hides books, and starts to think they are stupid. Intelligence is intact; reading is the hard part, and early help and patience protect confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 5811,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Alka",
+     "Kunal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: trial and error [Revision]",
+   "description": "Found in seconds behind the door, a child tries behind the curtain next round, then under the bed. Each round of being found or not found teaches which spots work.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, magical thinking, negotiation"
+   ]
+  },
+  {
+   "sno": 5812,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Naveen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: copying a peer [Action]",
+   "description": "A child hides in the almirah because an older cousin won there last time. It works this time only because the seeker does not know the cousin's trick.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, magical thinking, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5813,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Hafsa"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: if-then rule [Thinking]",
+   "description": "A child thinks, \"If the seeker goes left, I go right around the sofa,\" and waits to see which way he goes. It is a simple plan about another person's move.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, magical thinking, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5814,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Lavanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: simple step list as seeker [Action]",
+   "description": "Seeking, a child checks the rooms in order: bedroom, kitchen, balcony, then the bathroom. Going in a fixed sequence stops the same place being searched twice.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, magical thinking, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5815,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Kavitha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: magical thinking [Pitfall]",
+   "description": "A child holds her breath tightly and squeezes eyes shut, sure this will make her invisible even while standing in the open. Wishing stands in for a plan.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, negotiation, trial and error",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 5816,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Amara",
+     "Beatriz"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Hide and seek strategy",
+   "subtype": "Approach: bargaining [Revision]",
+   "description": "Found first in three rounds, a child says, \"One more, then I seek and you hide.\" The child changes the rules of the game rather than the hiding place.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, magical thinking, trial and error"
+   ]
+  },
+  {
+   "sno": 5817,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Kwame",
+     "Daniel"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a pretend game",
+   "subtype": "Approach: make-believe rehearsal [Thinking]",
+   "description": "A child talks through a doctor game ahead of time, saying \"You are sick, I listen to your chest, then give medicine,\" and acts out the first lines with a doll.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 5818,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Manoj"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a pretend game",
+   "subtype": "Approach: simple step list [Action]",
+   "description": "Two children assign roles, gather props such as a toy stethoscope and a bandage, and set the clinic on the mat before starting. Set-up comes before play.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, mental simulation, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 5819,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Vasudha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a pretend game",
+   "subtype": "Approach: bargaining over roles [Action]",
+   "description": "Both want to be the doctor. A child says, \"You be doctor first, I am doctor next game,\" and the play can begin without a fight.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, mental simulation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 5820,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Wasim"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a pretend game",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "A child asks mother for an old dupatta to use as a costume, and mother suggests it can be a nurse's cap. The adult supplies the props and one new idea.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, negotiation, rigid persistence"
+   ]
+  }
+ ]
+}

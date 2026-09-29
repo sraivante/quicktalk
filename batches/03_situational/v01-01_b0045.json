@@ -1,0 +1,217 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 758,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Reena"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "New school after move",
+   "subtype": "Parent × Understanding [Receiver]",
+   "description": "My father says he also felt lost in a new place as a child. Hearing that makes me feel less alone. Sharing feelings with parents helps, and small routines like a weekend outing settle me.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, grief, loneliness, mockery, resentment, trust"
+   ]
+  },
+  {
+   "sno": 759,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Pablo",
+     "Wanjiru"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Grandparent × Fear [Actor]",
+   "description": "My grandfather is in the hospital and I am afraid he may die. Fear like this is natural. I ask an adult honest questions and draw or pray or sit with him. Not being told anything is scarier.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, grief, guilt, protectiveness",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 760,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Aparna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Grandparent × Love [Actor]",
+   "description": "I sit near my grandmother and read to her while she rests. Small caring acts matter to sick people. I do not have to fix anything; being present is enough.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, grief, guilt, protectiveness",
+    "related mind states: affection, resentment"
+   ]
+  },
+  {
+   "sno": 761,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Saurabh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Parent × Protectiveness [Receiver]",
+   "description": "My parents whisper and hide the truth about grandpa. I feel more scared not knowing. Wise parents share simple honest information and let a child visit or help. Hiding it does not protect me.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, fear, grief, guilt",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 762,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Grandparent × Guilt [Actor]",
+   "description": "I remember that I was rude to my grandmother before she got sick and now I feel guilty. I can tell her sorry and I love you now. Guilt shows love, and I do not have to carry it forever.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, fear, grief, protectiveness",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 763,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Harsha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Grandparent × Grief [Actor]",
+   "description": "My grandfather has died and I feel empty, angry and confused. All of those are grief. I can cry, ask questions, share memories and take part in the rituals if my family does. Grief comes in waves.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, fear, guilt, protectiveness",
+    "related mind states: sadness, grief, anger, confusion"
+   ]
+  },
+  {
+   "sno": 764,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Hemant"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Parent × Grief [Receiver]",
+   "description": "My mother is crying because her father is ill and I feel helpless. I can hug her and stay near. I do not have to fix her feelings. Seeing that grown-ups cry too teaches me it is okay.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, fear, guilt, protectiveness",
+    "related mind states: affection, sadness, grief"
+   ]
+  },
+  {
+   "sno": 765,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Uma",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Friend × Compassion [Receiver]",
+   "description": "My friend's grandmother is ill and she is quiet. I sit with her, share my snack and do not ask too much. Being a kind presence is enough. Saying it will be fine may not help her.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, fear, grief, guilt, protectiveness",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 766,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Doctor × Trust [Actor]",
+   "description": "The doctors are helping my grandfather and I try to trust them. I can ask my parents what they are doing in simple words. Understanding a little cuts down my fear. I also prepare for uncertainty.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, compassion, fear, grief, guilt",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 767,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Grandparent falls ill",
+   "subtype": "Sibling × Irritation [Actor]",
+   "description": "My sister and I snap at each other because we are both scared. Stress comes out as anger. Wise: notice it, apologise, and comfort each other. Fighting when frightened is common but we can choose kindness.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, compassion, fear, grief, guilt, protectiveness",
+    "related mind states: anger, fear"
+   ]
+  }
+ ]
+}

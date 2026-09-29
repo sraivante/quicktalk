@@ -1,0 +1,219 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2956,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 1: Realising the harm [Actor]",
+     "description": "A young adult cancelled on a friend's birthday for a better invitation, and a day later sees the friend's cold reply. A pang of guilt follows, mixed with a wish to defend what he did."
+    },
+    {
+     "sno": 2957,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 2: Temptation to excuse [Actor]",
+     "description": "He drafts a message that begins \"I am sorry if you felt...\" and blames traffic or workload. The urge is to be forgiven without feeling the discomfort of being wrong, which usually makes things worse."
+    },
+    {
+     "sno": 2958,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 3: The friend's hurt and guard [Receiver]",
+     "description": "The friend feels let down and wants acknowledgment more than reasons. Her replies are short as she waits to see whether he understands what it cost her rather than just wanting the tension gone."
+    }
+   ],
+   "cluster_id": "C0319",
+   "cast": [
+    "Zeenat",
+    "Ishita",
+    "Seema"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2959,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 4: The real apology [Response]",
+     "description": "He says \"I cancelled for something more fun, and it made you feel unimportant. I am sorry. That was on me.\" A clean apology names the act and its effect, with no \"but\" and no request for immediate pardon."
+    },
+    {
+     "sno": 2960,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 5: Allowing time [Receiver]",
+     "description": "She replies \"Thanks for saying that. I need a little time.\" Forgiveness is not owed on schedule, and the person who apologised has to tolerate the wait without pushing or sulking."
+    },
+    {
+     "sno": 2961,
+     "age": "18–22",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Apology and repair cycle",
+     "subtype": "Stage 6: Changed behaviour proves it [Response]",
+     "description": "At the next plan he shows up on time and remembers what she cared about. Trust returns through repeated small actions that match the words, far more than through another round of apologising."
+    }
+   ],
+   "cluster_id": "C0320",
+   "cast": [
+    "Samir",
+    "Kalyani",
+    "Tenzin"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2944,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 1: Withdrawal after conflict [Actor]",
+     "description": "After a harsh argument a spouse feels flooded and goes silent, unable to find words that would not make things worse. He may not intend punishment at first; he simply has no way to cope with the intensity."
+    },
+    {
+     "sno": 2945,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 2: Stonewalling becomes a habit [Actor]",
+     "description": "Silence works in the short term, ending the shouting. Over time it becomes his automatic answer to conflict, and the unresolved issues pile up behind a wall of politeness."
+    },
+    {
+     "sno": 2946,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 3: The partner's escalating alarm [Receiver]",
+     "description": "She feels invisible and powerless, tries everything from questions to tears, then goes cold herself. Being shut out touches old fears of not mattering, and hurt often turns into anger."
+    }
+   ],
+   "cluster_id": "C0321",
+   "cast": [
+    "Gurleen",
+    "Jahnavi",
+    "Nandini"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2947,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 4: Mutual freeze [Actor]",
+     "description": "Both now avoid the subject, the house is quiet, and each is waiting for the other to move. Pride and fear of another bad fight keep them stuck while the distance quietly grows."
+    },
+    {
+     "sno": 2948,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 5: The breaking of the ice [Response]",
+     "description": "One says \"I go quiet when I am overwhelmed. It is not that I do not care. Can I take a short break and then come back to this?\" Explaining silence turns it from a weapon into a signal."
+    },
+    {
+     "sno": 2949,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Silent treatment",
+     "subtype": "Stage 6: New rules for conflict [Response]",
+     "description": "They agree that pauses are allowed if they have a return time and that no one is ever left guessing. If silence is continual and controlling, seeking a counsellor is a sound next step."
+    }
+   ],
+   "cluster_id": "C0322",
+   "cast": [
+    "Binita",
+    "Charu",
+    "Madhav"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2932,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 1: Work stress and quiet distance [Receiver]",
+     "description": "A partner returns exhausted from a demanding job and wants only quiet. He does not intend rejection, but his partner reads the flat evenings as a sign that her presence no longer matters."
+    },
+    {
+     "sno": 2933,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 2: Bids for attention [Actor]",
+     "description": "She offers small bids: a joke, a question, a hand on his shoulder. When a bid is missed she feels a small sting, and after enough missed bids the requests turn into complaints."
+    },
+    {
+     "sno": 2934,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 3: Retreat under criticism [Actor]",
+     "description": "Hearing \"you are never here\" he feels like a failure at both work and home, so he shuts down, works late or scrolls his phone. Avoidance protects him from feeling inadequate."
+    }
+   ],
+   "cluster_id": "C0323",
+   "cast": [
+    "Yogesh",
+    "Vidya",
+    "Lalremsiami"
+   ]
+  },
+  {
+   "type": "sequence",
+   "rows": [
+    {
+     "sno": 2935,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 4: Resentment on both sides [Actor]",
+     "description": "She feels lonely and unchosen; he feels nagged and never enough. Each keeps a private story in which they are the one trying, and generosity toward the other grows thinner."
+    },
+    {
+     "sno": 2936,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 5: Third-party view [Observer]",
+     "description": "A close friend notices both are lonely and hurt, not uncaring. She gently tells each what she sees in the other, without taking sides, which lets both stop hearing the other as an enemy."
+    },
+    {
+     "sno": 2937,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Pursue-withdraw cycle",
+     "subtype": "Stage 6: Scheduled closeness and honest limits [Response]",
+     "description": "They agree on a regular unhurried time and a clear way for him to say \"I am spent, give me an hour, then I am yours\". The pursuer gets predictability and the withdrawer gets space without guilt."
+    }
+   ],
+   "cluster_id": "C0324",
+   "cast": [
+    "Kishore",
+    "Aadhya",
+    "Bhupen"
+   ]
+  }
+ ]
+}

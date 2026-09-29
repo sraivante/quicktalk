@@ -1,0 +1,267 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4619,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Sharmila"
+    ],
+    "2": [
+     "Madhuri",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping vs breaking a promise",
+   "subtype": "Honouring a promise at a cost [Actor]",
+   "description": "A young adult keeps a promise to a friend or a parent even after something more appealing appears. The pull of desire against duty is real, and reliability is built by staying anyway.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4620,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Farhan",
+     "Arohi"
+    ],
+    "2": [
+     "Vinita",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping vs breaking a promise",
+   "subtype": "Renegotiating honestly [Response]",
+   "description": "When a promise can no longer be kept, an adult says so early, owns the impact and offers what they truly can do. Quiet disappearance or vague excuses damage trust far more than an honest change of plan.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4621,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Himani"
+    ],
+    "2": [
+     "Thomas",
+     "Jeevan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping and betraying secrets",
+   "subtype": "Holding a friend's secret [Actor]",
+   "description": "A child treasures being trusted with a secret and feels proud and burdened at once. Learning to hold it, while knowing safety secrets must go to an adult, is a first lesson in loyalty and judgement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: pride, trust"
+   ]
+  },
+  {
+   "sno": 4622,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Ira"
+    ],
+    "2": [
+     "Sahil",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping and betraying secrets",
+   "subtype": "Tempted to spill [Actor]",
+   "description": "A teenager tells someone else a friend's secret to gain closeness or attention, then feels guilty when it spreads. The short thrill of being an insider costs a friendship that may not return.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: joy, guilt"
+   ]
+  },
+  {
+   "sno": 4623,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Salma"
+    ],
+    "2": [
+     "Seema",
+     "Gargi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping and betraying secrets",
+   "subtype": "Finding a secret was shared [Receiver]",
+   "description": "A teenager learns a confidant told others what they said in trust and feels exposed and foolish. Shame often leads to withdrawal and being more guarded with everyone afterwards.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: shame, detachment, trust"
+   ]
+  },
+  {
+   "sno": 4624,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Maria"
+    ],
+    "2": [
+     "Rashmi",
+     "Trisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping and betraying secrets",
+   "subtype": "When a secret must be told [Response]",
+   "description": "A wise teen or adult knows a secret about serious danger, abuse or self-harm risk is not theirs to keep, and tells a trusted adult, ideally saying so to the friend first. Care sometimes means breaking silence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 4625,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Rukmini"
+    ],
+    "2": [
+     "Lokesh",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Keeping and betraying secrets",
+   "subtype": "Carrying a heavy confidence [Actor]",
+   "description": "A young adult told about a friend's troubles feels torn between loyalty and worry. They urge the friend to seek help and involve someone qualified if there is danger, instead of carrying it alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: anger, anxiety"
+   ]
+  },
+  {
+   "sno": 4626,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Shalini"
+    ],
+    "2": [
+     "Aparna",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Privacy vs secrecy",
+   "subtype": "Wanting a private space [Actor]",
+   "description": "A child asks for a closed door, a diary or a lock on a box. This is healthy growth in selfhood, not a sign of hiding wrongdoing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4627,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Dhruv"
+    ],
+    "2": [
+     "Deepika",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Privacy vs secrecy",
+   "subtype": "Private is not the same as hidden [Actor]",
+   "description": "A teenager keeps feelings and friendships to themselves as ordinary privacy, while concealing risky contact or harm is secrecy. The difference is whether hiding protects dignity or protects danger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4628,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Gargi"
+    ],
+    "2": [
+     "Yogesh",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Privacy vs secrecy",
+   "subtype": "Parents balancing watchfulness and trust [Response]",
+   "description": "Parents explain safety rules openly, agree what is private, and check in on risk without reading every message. Total surveillance often teaches a teen to hide better rather than to be safer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

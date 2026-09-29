@@ -1,0 +1,214 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6911,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Pranav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a health scare",
+   "subtype": "Approach: adjust routines to reduce stress while waiting [Revision]",
+   "description": "The person notices that scrolling at night raises fear, so sets a fixed sleep time, walks daily and limits searching to one short session. Managing mood and energy is part of coping with a wait.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, inversion, seeking advice",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6912,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a health scare",
+   "subtype": "Approach: follow the treatment plan with a reminder routine [Action]",
+   "description": "After a diagnosis, the person notes the doctor's instructions, sets phone reminders for appointments and tests, and keeps a folder of reports. Routines help carry out what the doctor advised.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, inversion, seeking advice"
+   ]
+  },
+  {
+   "sno": 6913,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Zubin",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a health scare",
+   "subtype": "Approach: rely on a home remedy from a relative instead of a check-up [Pitfall]",
+   "description": "A relative suggests a herbal remedy and reassures the person that it is nothing. The person delays medical care because the advice feels comforting rather than reliable.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, inversion"
+   ]
+  },
+  {
+   "sno": 6914,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: notice the pattern through a mood diary [Thinking]",
+   "description": "A final-year student who feels flat for weeks jots down sleep, appetite and mood each day, and sees a link with late nights and isolation. Writing makes the pattern visible and gives something concrete to share with a professional.",
+   "graph_context": [
+    "same problem, other approaches: forward planning",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6915,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Kashish",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: tell a trusted friend or family member [Action]",
+   "description": "The student tells a close friend and later a sister that things have felt heavy for a month. Saying it aloud reduces isolation and brings in someone who can help with next steps.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 6916,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: book an appointment with a counsellor or psychiatrist [Action]",
+   "description": "Using the college counselling centre or a helpline recommended by a doctor, the person books a session and writes a short summary of symptoms to share. Professional help is treated as a normal step, not a sign of weakness.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning"
+   ]
+  },
+  {
+   "sno": 6917,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Harsha",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: push through and hide it [Pitfall]",
+   "description": "Believing that admitting struggle looks weak, the person keeps a cheerful face, skips meals and stops replying to friends. Suppression drains energy and delays help.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 6918,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Usha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: cut all plans down to a minimum routine [Thinking]",
+   "description": "On low days the person sets only three tasks: wake at a set time, eat properly and step outside for ten minutes. Shrinking demands protects energy when big goals feel impossible.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning"
+   ]
+  },
+  {
+   "sno": 6919,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Urmila",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: rely on one person as the only support [Pitfall]",
+   "description": "The student leans wholly on one roommate for every low moment, and the roommate becomes overwhelmed and withdraws. A single point of support is fragile and can strain the relationship.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning",
+    "related mind states: detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 6920,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Harsha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with a mental-health dip",
+   "subtype": "Approach: build a wider support net with roles [Revision]",
+   "description": "After the roommate's fatigue, the student adds a counsellor, a weekly call with family and a walking group, and agrees with each on how they can help. Spreading support makes it sturdier.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning",
+    "related mind states: tiredness"
+   ]
+  }
+ ]
+}

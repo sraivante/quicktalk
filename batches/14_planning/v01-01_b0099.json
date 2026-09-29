@@ -1,0 +1,213 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6741,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Emeka",
+     "Fatima"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: researching the person before writing [Thinking]",
+   "description": "Before messaging an engineer at a target company, the student reads their posts and finds one talk they gave, so the message can ask something specific and respectful.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6742,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Binita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: short specific message with a small ask [Action]",
+   "description": "The student sends four lines: who they are, a specific compliment, and a request for a fifteen-minute call or one question, making it easy to say yes or no.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6743,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kiran",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: mental rehearsal of the call [Thinking]",
+   "description": "The student rehearses the opening line and two questions, and imagines the call going quiet, so nerves feel less like a threat when the real call starts.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice"
+   ]
+  },
+  {
+   "sno": 6744,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: asking for a job in the first message [Pitfall]",
+   "description": "A student writes to a stranger, asking straight away for a referral, and the message goes unanswered because there is no relationship or context to justify the favour.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6745,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Devika",
+     "Jeevan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: avoidance out of fear of bothering people [Pitfall]",
+   "description": "The student drafts messages but never sends them, assuming busy professionals will find them annoying, so no conversations happen at all.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, mental simulation, seeking advice",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 6746,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: going through a mutual connection [Action]",
+   "description": "Finding that a professor knows the target person, the student asks the professor for a brief introduction, which gets a warmer reply than a cold note.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation"
+   ]
+  },
+  {
+   "sno": 6747,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Lakshmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: if-then plan for follow-up [Action]",
+   "description": "The student decides that if no reply comes in a week, then one polite follow-up goes out, and after that they move on without resentment.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, seeking advice",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6748,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: reciprocity by offering something useful [Thinking]",
+   "description": "The student thinks about what they can give, such as sharing a summary of a conference session or testing the person's open-source tool, and builds the relationship around that.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6749,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Chetan",
+     "Pranav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: reviewing what went wrong after silence [Revision]",
+   "description": "After five ignored messages, the student shows the drafts to a senior, who points out that they are long and vague. The rewrite gets two replies.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6750,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Omkar",
+     "Lalremsiami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Networking with a stranger",
+   "subtype": "Approach: keeping a simple contact log [Action]",
+   "description": "The student notes name, date, topic and follow-up date for every conversation in a sheet, and thanks people afterward, which turns single chats into lasting contacts.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, mental simulation, seeking advice",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

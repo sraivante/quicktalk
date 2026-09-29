@@ -1,0 +1,295 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 291,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Anirban"
+    ],
+    "2": [
+     "Astrid",
+     "Thabo"
+    ],
+    "3": [
+     "Jomon",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career",
+   "subtopic": "Entrepreneurship",
+   "subtype": "Launching Ventures, Fundraising & Failure",
+   "description": "Taking a venture from idea to customers and learning from shutdowns.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 292,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Vasudha",
+     "Deepika"
+    ],
+    "2": [
+     "Parveen",
+     "Sharmila"
+    ],
+    "3": [
+     "Alka",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career",
+   "subtopic": "Career Pivot",
+   "subtype": "Reskilling & Career Change in an AI Era",
+   "description": "Adapting to shifting industries and roles through deliberate retraining."
+  },
+  {
+   "sno": 293,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Sangeeta"
+    ],
+    "2": [
+     "Vikas",
+     "Jasleen"
+    ],
+    "3": [
+     "Bhupen",
+     "Charu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Professional Ethics",
+   "subtopic": "Data & Conflict Ethics",
+   "subtype": "Conflict of Interest, Data Privacy & Honest Reporting",
+   "description": "Handling client data, disclosures and metrics honestly under pressure.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 294,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Arnab",
+     "Jomon"
+    ],
+    "2": [
+     "Ramesh",
+     "Naveen"
+    ],
+    "3": [
+     "Jasleen",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Relationships",
+   "subtopic": "Life Partnership",
+   "subtype": "Marriage, Cohabitation & Shared Life Decisions",
+   "description": "Choosing a lifelong partner, merging finances and values, and negotiating roles."
+  },
+  {
+   "sno": 295,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Dhruv"
+    ],
+    "2": [
+     "Pooja",
+     "Arnab"
+    ],
+    "3": [
+     "Darshan",
+     "Mahima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Relationships",
+   "subtopic": "Parenting Readiness",
+   "subtype": "Preparing for Parenthood",
+   "description": "Reflecting on readiness, finances, parenting values and sharing care equally."
+  },
+  {
+   "sno": 296,
+   "plan": {
+    "1": "R11",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Karthik",
+     "Gargi"
+    ],
+    "2": [
+     "Ujjwal",
+     "Vidya"
+    ],
+    "3": [
+     "Ankita",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Family",
+   "subtopic": "Eldercare",
+   "subtype": "Caring for Aging Parents & Relatives",
+   "description": "Managing time, money and emotions while caring for aging family members."
+  },
+  {
+   "sno": 297,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Anand",
+     "Amandeep"
+    ],
+    "2": [
+     "Parveen",
+     "Tenzin"
+    ],
+    "3": [
+     "Akash",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Family",
+   "subtopic": "Boundary Setting",
+   "subtype": "Managing Family Expectations & Conflict",
+   "description": "Holding boundaries with in-laws, parents and relatives while keeping respect.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 298,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Disha"
+    ],
+    "2": [
+     "Joseph",
+     "Nazia"
+    ],
+    "3": [
+     "Tomas",
+     "Mina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Relationships",
+   "subtopic": "Social Capital",
+   "subtype": "Building Community & Trusted Networks",
+   "description": "Investing in reliable friendships, mentors and community ties.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 299,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Manoj",
+     "Deepika"
+    ],
+    "2": [
+     "Zubin",
+     "Mohit"
+    ],
+    "3": [
+     "Binita",
+     "Lalremsiami"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Coping",
+   "subtopic": "Adversity Resilience",
+   "subtype": "Grief, Serious Illness & Job Loss",
+   "description": "Rebuilding routine, support and meaning after major loss or crisis.",
+   "graph_context": [
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 300,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Arohi",
+     "Kashish"
+    ],
+    "2": [
+     "Jahnavi",
+     "Rekha"
+    ],
+    "3": [
+     "Ojas",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Coping",
+   "subtopic": "Trauma Recovery",
+   "subtype": "Processing Trauma & Healing Support",
+   "description": "Recognizing lingering effects of difficult experiences and using therapy, community or practices to heal."
+  }
+ ]
+}

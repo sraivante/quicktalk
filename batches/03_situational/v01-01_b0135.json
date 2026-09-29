@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1658,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jasleen",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Person harmed × Anger [Receiver]",
+   "description": "The person I hurt refuses to speak to me. I feel the weight of it. Wise: apologise clearly without excuses, give space, and accept that repair is her choice and takes time. Harmful: pressing her for forgiveness.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, compassion, disillusionment, forgiveness, pride, shame",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 1659,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Vijay",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Family × Disappointment [Receiver]",
+   "description": "My family says \"we expected better\" and I feel crushed. Wise: hear the honest part, share my plan to repair, and distinguish disappointment in an act from rejection of me. Harmful: swallowing it as proof I am unlovable.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, compassion, forgiveness, pride, shame",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 1660,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Sudha",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Self × Perfectionism [Actor]",
+   "description": "Any error feels like proof that I am a fraud, so I overwork and avoid risk. Wise: aim for good, learn from the slip, and tell someone about it. Harmful: never trying anything I might fail at.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, compassion, disillusionment, forgiveness, pride"
+   ]
+  },
+  {
+   "sno": 1661,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Dilnaz",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Mentor × Acceptance [Receiver]",
+   "description": "My mentor says, \"I made worse mistakes at your age, now what will you do?\" I feel steadied. Wise: use that grace to act, not to dwell. Harmful: hearing acceptance as permission to be careless.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, disillusionment, forgiveness, pride, shame"
+   ]
+  },
+  {
+   "sno": 1662,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Madhuri",
+     "Dhruv"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I refuse to admit I was wrong because it feels like admitting I am nothing. Wise: apologising shows strength; my worth does not depend on being right. Harmful: doubling down and losing trust.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, compassion, disillusionment, forgiveness, shame",
+    "related mind states: pride, trust"
+   ]
+  },
+  {
+   "sno": 1663,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Eshaan",
+     "Deepika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing exam or job failure",
+   "subtype": "Friend × Compassion [Receiver]",
+   "description": "After my result a friend simply says \"come, let us eat\" and does not lecture. I feel held. Wise: let the kindness settle me before I plan the next step. Harmful: pushing him away because I feel undeserving.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, shame",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 1664,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing exam or job failure",
+   "subtype": "Peer × Envy [Actor]",
+   "description": "My peers pass with ease, and I feel a bitter, jealous knot. Wise: note the feeling, congratulate them anyway, and ask what worked for them. Harmful: contempt for them or quiet sabotage.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, shame",
+    "related mind states: contempt, envy, jealousy, resentment"
+   ]
+  },
+  {
+   "sno": 1665,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Marital or partner conflict",
+   "subtype": "Spouse × Contempt [Actor]",
+   "description": "I roll my eyes and mock my partner's habits, feeling superior and tired. Contempt is the most corrosive habit in marriage; the wise move is to name the hurt underneath and ask for what I need, not score points.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, argument, forgiveness, resentment",
+    "paired view exists: Receiver (S1666)",
+    "related mind states: contempt, tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 1666,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Marital or partner conflict",
+   "subtype": "Spouse × Contempt [Receiver]",
+   "description": "I am being sneered at or talked down to by my partner, and I feel small and unsafe to speak. It is not my fault. I calmly name the pattern, ask for respect, and seek counselling if it continues; I avoid answering contempt with contempt.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, argument, forgiveness, resentment",
+    "paired view exists: Actor (S1665)",
+    "related mind states: admiration, contempt, calm, trust"
+   ]
+  },
+  {
+   "sno": 1667,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Chinmay",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Marital or partner conflict",
+   "subtype": "Spouse × Argument [Receiver]",
+   "description": "My partner is raising their voice and I feel attacked and want to shut down or flee. Wisdom is to hear the complaint under the tone, say I need a break, and return within the hour, not stonewall or counter-attack.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, contempt, forgiveness, resentment",
+    "paired view exists:  (S399)"
+   ]
+  }
+ ]
+}

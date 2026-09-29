@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 3860,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Uma"
+    ],
+    "2": [
+     "Lalremsiami",
+     "Karthik"
+    ],
+    "3": [
+     "Minakshi",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Projection",
+   "subtype": "Asking what part is mine [Response]",
+   "description": "An adult who feels an intense certainty about someone's bad motives pauses to ask whether the same impulse exists in them; naming it takes the heat out and often reveals what they actually need.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3861,
+   "plan": {
+    "1": "R8",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Astrid",
+     "Anders"
+    ],
+    "2": [
+     "Francis",
+     "Irfan"
+    ],
+    "3": [
+     "Lakshmi",
+     "Shankar"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Displacement",
+   "subtype": "Hitting a sibling after being scolded [Actor]",
+   "description": "A toddler told off by a parent turns and pushes a younger sibling or throws a toy; the anger has no safe target so it lands on someone smaller and less threatening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 3862,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Jeevan"
+    ],
+    "2": [
+     "Zeenat",
+     "Mridul"
+    ],
+    "3": [
+     "Gopika",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Displacement",
+   "subtype": "Kicking the bag after a teacher's rebuke [Actor]",
+   "description": "A child humiliated in class comes home and slams doors or snaps at the family dog; the feeling belongs to school but is spent where it feels safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26",
+    "related mind states: humiliation, trust"
+   ]
+  },
+  {
+   "sno": 3863,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Madhav",
+     "Uday"
+    ],
+    "2": [
+     "Bidisha",
+     "Jyoti"
+    ],
+    "3": [
+     "Kiran",
+     "Lokesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Displacement",
+   "subtype": "Snapped at by a stressed teenager [Receiver]",
+   "description": "A younger sibling is shouted at over nothing after the older one had a bad exam; the receiver feels confused and small, and understanding the cause does not make the harshness acceptable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 3864,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Alka"
+    ],
+    "2": [
+     "Nilesh",
+     "Ojas"
+    ],
+    "3": [
+     "Anirban",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Displacement",
+   "subtype": "Noticing the misdirected outburst [Observer]",
+   "description": "A flatmate sees a friend lash out at a delivery person after an unfair evaluation; a quiet remark later about what actually happened often helps more than correcting the outburst in the moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3865,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Disha"
+    ],
+    "2": [
+     "Nitin",
+     "Pankaj"
+    ],
+    "3": [
+     "Afreen",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Displacement",
+   "subtype": "Finding the real target [Response]",
+   "description": "An adult stung by a boss's remark notices their sharpness at home, names the real source, and walks or writes before replying; the anger is then aimed at a fair conversation instead of the family.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3866,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Bhupen",
+     "Yash"
+    ],
+    "2": [
+     "Karthik",
+     "Uma"
+    ],
+    "3": [
+     "Binita",
+     "Minakshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rationalisation",
+   "subtype": "Everyone does it [Actor]",
+   "description": "A child who copied homework explains that everyone copies and the teacher gives too much anyway; the reasons arrive after the act and protect the self-image of being a good kid.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3867,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sahil",
+     "Chandrika"
+    ],
+    "2": [
+     "Sarika",
+     "Lokesh"
+    ],
+    "3": [
+     "Ujjwal",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rationalisation",
+   "subtype": "Excusing skipped study [Actor]",
+   "description": "A teenager who did not prepare decides the exam is unfair and marks do not matter; the story lowers shame now while raising the cost later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3868,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Joseph",
+     "Uma"
+    ],
+    "2": [
+     "Sarita",
+     "Parveen"
+    ],
+    "3": [
+     "Sahil",
+     "Lakshmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rationalisation",
+   "subtype": "Sour grapes after rejection [Actor]",
+   "description": "A student turned down for a scholarship says they never wanted it and the programme is overrated; the belief eases disappointment but can hide what could be learned from the attempt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 3869,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Ankita"
+    ],
+    "2": [
+     "Madhav",
+     "Raghav"
+    ],
+    "3": [
+     "Rania",
+     "Wei"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rationalisation",
+   "subtype": "Hearing a smooth excuse [Observer]",
+   "description": "A colleague listens to a peer explain at length why a promise slipped, with reasons that keep changing; the tidy logic is a clue that something feels uncomfortable underneath.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

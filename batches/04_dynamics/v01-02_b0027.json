@@ -1,0 +1,276 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 3168,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Wasim",
+     "Indu"
+    ],
+    "2": [
+     "Ritu",
+     "Varun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 5: Shame and avoidance [Actor]",
+   "description": "Gym bag, notebook or app sits untouched, and the person avoids mentioning the goal to friends. Shame makes restarting feel like confronting a failure, so the days of avoiding stretch on.",
+   "graph_context": [
+    "previous stage: The first slip",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3169,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Afreen",
+     "Vishal"
+    ],
+    "2": [
+     "Jahnavi",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 5: Shame and avoidance [Observer]",
+   "description": "A roommate sees the neglected routine and nags, which adds pressure and hardens the avoidance. A calmer offer such as joining for ten minutes makes restarting feel light.",
+   "graph_context": [
+    "previous stage: The first slip",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shame, calm",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 3170,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Vijay"
+    ],
+    "2": [
+     "Siddharth",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 6: Redesigning the habit [Response]",
+   "description": "The person shrinks the habit to a tiny version, ties it to an existing routine like tea or commute and removes friction. Changing the setup works better than trying to feel more motivated.",
+   "graph_context": [
+    "next stage: Never miss twice",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3171,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Sarika"
+    ],
+    "2": [
+     "Saurabh",
+     "Shankar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 7: Never miss twice [Response]",
+   "description": "After a miss, the person restarts the very next day without paying penance. Treating a slip as data rather than proof of a weak character keeps the identity intact.",
+   "graph_context": [
+    "previous stage: Redesigning the habit",
+    "next stage: Habit becomes background",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3172,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Sachin"
+    ],
+    "2": [
+     "Vishal",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 8: Habit becomes background [Actor]",
+   "description": "After months, the behaviour needs little thought and feels odd to skip. The person still expects occasional lapses, and returns to the habit without drama when life gets disrupted.",
+   "graph_context": [
+    "previous stage: Never miss twice",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3173,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vandana",
+     "Pooja"
+    ],
+    "2": [
+     "Simran",
+     "Pranav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Habit formation and relapse",
+   "subtype": "Stage 2: Early streak and pride [Response]",
+   "description": "A person building a habit tracks it lightly and rewards the doing, not just the streak. Planning for a bad day in advance keeps one miss from breaking the whole chain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3174,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Chetan"
+    ],
+    "2": [
+     "Zeenat",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Addiction spiral and recovery",
+   "subtype": "Stage 1: Curiosity and relief [Actor]",
+   "description": "A teenager tries vaping, alcohol or endless gaming and finds it quiets loneliness or stress. The relief, more than the thrill, is what marks the beginning of a habit that starts to serve as a coping tool.",
+   "graph_context": [
+    "next stage: Regular use and rationalising",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: joy, curiosity, relief, loneliness"
+   ]
+  },
+  {
+   "sno": 3175,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Omkar"
+    ],
+    "2": [
+     "Irfan",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Addiction spiral and recovery",
+   "subtype": "Stage 2: Regular use and rationalising [Actor]",
+   "description": "Use becomes weekly, then more often, and the person says they can stop whenever and only their friends do it worse. Minimising and comparing are common ways of avoiding a look at the pattern.",
+   "graph_context": [
+    "previous stage: Curiosity and relief",
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3176,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Kishore",
+     "Pankaj"
+    ],
+    "2": [
+     "Tanvir",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Addiction spiral and recovery",
+   "subtype": "Stage 1: Curiosity and relief [Observer]",
+   "description": "A parent notices a teen's changed friends, moods and secrecy and reacts with alarm or punishment. Calm curiosity about what the substance or habit does for them opens honest talk, which lasts longer than fear.",
+   "graph_context": [
+    "next stage: Regular use and rationalising",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: fear, curiosity, relief, calm"
+   ]
+  },
+  {
+   "sno": 3177,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Noor"
+    ],
+    "2": [
+     "Selin",
+     "Freya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Addiction spiral and recovery",
+   "subtype": "Stage 3: Tolerance and secrecy [Actor]",
+   "description": "The person needs more for the same relief, hides use, lies about money and time, and drops old interests. Secrecy adds shame, and shame drives more use, which is what makes it a spiral.",
+   "graph_context": [
+    "next stage: Consequences and loss of control",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: shame, interest, relief"
+   ]
+  }
+ ]
+}

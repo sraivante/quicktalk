@@ -1,0 +1,251 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 517,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Anger [Actor]",
+     "description": "My sibling broke my drawing and I hit back. I feel the anger in my whole body. A wise child says \"you broke it, I am mad\" and gets help. Hitting brings a punishment and my sibling then feels angry too."
+    },
+    {
+     "sno": 521,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Loyalty [Actor]",
+     "description": "On the playground someone bothers my brother and I stand next to him even though we fought at home. Sibling love can be stronger than sibling fights. Wise loyalty means telling a teacher, not fighting."
+    },
+    {
+     "sno": 519,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Rivalry [Actor]",
+     "description": "We race to be first for everything and both want Papa's attention. I feel proud when I win and crushed when I lose. Wise families let each child have their own special time and praise effort, not who is first."
+    },
+    {
+     "sno": 520,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Forgiveness [Actor]",
+     "description": "After we both cried, I hand my sibling a toy and say sorry. I feel light again. Saying sorry and doing something kind is a lovely repair, while forced sorry with no feeling teaches only how to say the word."
+    }
+   ],
+   "cluster_id": "C0175",
+   "cast": [
+    "Gopika",
+    "Ojas",
+    "Chandrika"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 948,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Talent and comparison",
+     "subtype": "Self × Insecurity [Actor]",
+     "description": "I believe I am not good at anything special. At this age, talents unfold slowly; trying different things and enjoying them is more valuable than being the best."
+    },
+    {
+     "sno": 945,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Talent and comparison",
+     "subtype": "Parent × Comparison [Receiver]",
+     "description": "My parents say, look at your cousin, he is so good. I feel crushed. I can say that I am trying in my own way and ask them to notice what I do well."
+    },
+    {
+     "sno": 943,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Talent and comparison",
+     "subtype": "Classmate × Admiration [Actor]",
+     "description": "A classmate draws or sings beautifully and I am amazed. Admiring others opens my heart, and I can ask how she practises instead of thinking I could never do it."
+    },
+    {
+     "sno": 946,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Talent and comparison",
+     "subtype": "Self × Pride [Actor]",
+     "description": "I won a prize for my talent and love the applause. Pride is healthy; I stay humble by thanking those who taught me and helping others who are learning."
+    }
+   ],
+   "cluster_id": "C0176",
+   "cast": [
+    "Afreen",
+    "Eshaan",
+    "Arnab"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1948,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Guru or spiritual community pressure",
+     "subtype": "Guru × Exploitation [Receiver]",
+     "description": "Demands for donations, unpaid labour, cutting off family, or secrecy are signs of exploitation. It is not your foolishness; these groups target sincere seekers. Step back, consult trusted family, and seek outside counsel."
+    },
+    {
+     "sno": 1949,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Guru or spiritual community pressure",
+     "subtype": "Community × Belonging [Actor]",
+     "description": "The satsang feels like a family that finally accepts you. Enjoy it, and also keep outside friendships and questions alive. A healthy community allows you to leave, disagree and still be respected."
+    },
+    {
+     "sno": 1953,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Guru or spiritual community pressure",
+     "subtype": "Friend in group × Protectiveness [Actor]",
+     "description": "A friend is giving all savings and time to a group, and you worry. Stay warm, ask open questions, and do not attack their belief. Keeping the friendship alive is what lets them turn to you when doubts rise."
+    },
+    {
+     "sno": 1951,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Guru or spiritual community pressure",
+     "subtype": "Guru × Disillusionment [Actor]",
+     "description": "You discover the teacher lives differently from what they preach or hides wrongdoing. Grief and anger are natural. Separate the good you learned from the person, report abuse, and do not conclude that all sincerity is fake."
+    }
+   ],
+   "cluster_id": "C0177",
+   "cast": [
+    "Bhavna",
+    "Jyoti",
+    "Gopika"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 873,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an online stranger",
+     "subtype": "Friend × Loyalty [Actor]",
+     "description": "My friend is secretly chatting with a stranger who asks for photos. Being loyal means telling a trusted adult, even if she gets angry, because her safety matters more than the secret."
+    },
+    {
+     "sno": 869,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an online stranger",
+     "subtype": "Online stranger × Curiosity [Actor]",
+     "description": "A person messages me and seems interesting, and I want to reply. Curiosity is natural, but I check with a parent before chatting, and I never share my school, address or photos."
+    },
+    {
+     "sno": 871,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an online stranger",
+     "subtype": "Online stranger × Fear [Actor]",
+     "description": "A stranger says he knows where I live and I freeze. It is right to be scared. I save the messages, do not answer and immediately tell a trusted adult; help is available."
+    },
+    {
+     "sno": 872,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Chatting with an online stranger",
+     "subtype": "Parent × Shame [Actor]",
+     "description": "I chatted with someone I should not have and I am afraid to tell my parents. Shame keeps children silent; telling them early is the bravest and safest step, and they are on my side."
+    }
+   ],
+   "cluster_id": "C0178",
+   "cast": [
+    "Ujjwal",
+    "Jeevan",
+    "Neelam"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 419,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Devotional life",
+     "subtype": "Faith community × Belonging",
+     "description": "Finds meaning and support in community and remains open to those outside it."
+    },
+    {
+     "sno": 2057,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Devotional life",
+     "subtype": "God × Gratitude [Actor]",
+     "description": "You feel thanks for daily blessings, hard times survived, and those who helped. Let gratitude show as generosity and humility. Devotion without kindness to people around you is incomplete."
+    },
+    {
+     "sno": 418,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Devotional life",
+     "subtype": "Guru or God × Worship & discernment",
+     "description": "Combines faith, rituals and service with critical thinking, staying wary of groups that demand blind obedience or funds."
+    }
+   ],
+   "cluster_id": "C0179",
+   "cast": [
+    "Sachin",
+    "Dilnaz",
+    "Anand"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 383,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Colleague takes credit",
+     "subtype": "Colleague × Anger",
+     "description": "Feels used and considers exposing them; a measured approach is to document contributions, speak to the colleague, and escalate with facts if needed."
+    },
+    {
+     "sno": 1443,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Colleague takes credit",
+     "subtype": "Colleague × Betrayal [Receiver]",
+     "description": "Your idea or work is presented as theirs. Wise: raise it calmly with evidence, share updates in writing in future, and clarify roles early. Immature: public blowups or sulking."
+    },
+    {
+     "sno": 384,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Colleague takes credit",
+     "subtype": "Colleague × Envy",
+     "description": "Notices that the credit-taker gets promoted and feels bitter; learns to make own work visible instead of resenting."
+    }
+   ],
+   "cluster_id": "C0180",
+   "cast": [
+    "Lavanya",
+    "Madhuri",
+    "Mridul"
+   ]
+  }
+ ]
+}

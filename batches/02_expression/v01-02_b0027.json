@@ -1,0 +1,270 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2322,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Sangeeta"
+    ],
+    "2": [
+     "Vishal",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Blinking with nerves [Mismatch]",
+   "description": "A child blinks a lot when nervous or when reading aloud, which observers may take as lying or lack of focus. Blink rate changes with tiredness, screens and dry eyes, so it is not evidence of dishonesty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, tiredness"
+   ]
+  },
+  {
+   "sno": 2323,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Yogesh"
+    ],
+    "2": [
+     "Arohi",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Squinting and narrowed eyes [Interpreting]",
+   "description": "A school-age child sees a classmate narrow the eyes and reads suspicion or anger, though the person may be squinting at a bright board. Checking the context, such as light and vision, avoids unfair conclusions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, doubt"
+   ]
+  },
+  {
+   "sno": 2324,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Manjula",
+     "Reena"
+    ],
+    "2": [
+     "Afreen",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Averting gaze when embarrassed or corrected [Expressing]",
+   "description": "A child looks away when scolded, praised in public or caught out; it usually signals shame, shyness or discomfort, not defiance. In some families lowered eyes toward elders also show respect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, hostility, shame, embarrassment"
+   ]
+  },
+  {
+   "sno": 2325,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Indu"
+    ],
+    "2": [
+     "Sunaina",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Eye contact norms with elders in India [Mismatch]",
+   "description": "A child in many Indian families learns that lowered eyes with elders can show respect, while in some Western schools steady eye contact is expected as honesty. Neither is proof of honesty or disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2326,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sabina",
+     "Shalini"
+    ],
+    "2": [
+     "Elizabeth",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Rolling eyes [Interpreting]",
+   "description": "A school-age child rolls the eyes at a sibling or teacher, signalling boredom, annoyance or dismissal. It may be a way to avoid a spoken argument, and calmly asking what is wrong opens a better talk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, boredom, calm",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 2327,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Nandini"
+    ],
+    "2": [
+     "Nandini",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Drawn-in cheeks and nervous biting [Mismatch]",
+   "description": "A child draws the cheeks inward or chews the inner cheek from nerves or concentration, which looks like a grimace. It is a self-soothing habit and not a sign of ill will.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2328,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Sharmila",
+     "Shankar"
+    ],
+    "2": [
+     "Bidisha",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Wrinkling the nose as dislike [Interpreting]",
+   "description": "A school-age child sees a friend wrinkle the nose at their lunch and may feel hurt, though it might be the smell of something else. Asking kindly avoids assuming rejection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2329,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Deepak",
+     "Usha"
+    ],
+    "2": [
+     "Ira",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Curling a lip and lip trembling in embarrassment [Mismatch]",
+   "description": "A child curls a lip in scorn at a rival or trembles the lip while holding back tears in front of classmates. Adults protect dignity and look at what happened before.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: contempt, embarrassment"
+   ]
+  },
+  {
+   "sno": 2330,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Samir"
+    ],
+    "2": [
+     "Mahima",
+     "Tushar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Tightened lips as held-back anger [Interpreting]",
+   "description": "A school-age child sees a parent's tightened lips and senses restrained anger, sometimes correctly and sometimes not. A calm question helps, since a person may just be tired.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, tiredness, calm"
+   ]
+  },
+  {
+   "sno": 2331,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Farida"
+    ],
+    "2": [
+     "Anand",
+     "Ujjwal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Jutting the jaw in defiance [Interpreting]",
+   "description": "A child juts the jaw forward when refusing, which adults may read as defiance, though it may also be fear or a wish to be heard. Listening first often works better than a power struggle.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hostility, fear"
+   ]
+  }
+ ]
+}

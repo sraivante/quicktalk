@@ -1,0 +1,265 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4942,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Thomas"
+    ],
+    "2": [
+     "Maria",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Intimidation or unfair treatment [Receiver]",
+   "description": "A young person, especially from a poor, minority or lower-caste background, feels talked down to or threatened. Recording facts, involving family, lawyers or human-rights groups, and staying calm are safer than resisting physically.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: shyness, calm, trust"
+   ]
+  },
+  {
+   "sno": 4943,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Samir"
+    ],
+    "2": [
+     "Alejandro",
+     "Dalia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Traffic challan negotiation [Actor]",
+   "description": "A driver at a checkpoint faces a fine and a hint of settling on the spot. Paying the official fine with a receipt is lawful; offering money privately is a bribe and risks more trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4944,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Thomas"
+    ],
+    "2": [
+     "Aadhya",
+     "Jeevan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Law and police interaction",
+   "subtype": "Respect for law while seeking change [Response]",
+   "description": "A young adult who thinks a law is unjust chooses petitions, votes and courts rather than breaking it quietly or violently. Working through lawful means keeps protection intact while pressing for reform.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4945,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yogesh",
+     "Imran"
+    ],
+    "2": [
+     "Charu",
+     "Vikas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Learning to wait in line [Actor]",
+   "description": "A child is told to stand in line for a slide or the school water tap and pushes when impatient. Taking turns is one of the first civic lessons, and small children learn it with praise and clear examples.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4946,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Irfan"
+    ],
+    "2": [
+     "Shreya",
+     "Hansa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Littering and copying adults [Actor]",
+   "description": "A child throws a wrapper on the road because grown-ups do. Children copy what they see; a parent who pockets the trash teaches more than any lecture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4947,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Kishore"
+    ],
+    "2": [
+     "Varun",
+     "Karthik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Riding without a helmet [Actor]",
+   "description": "A teenager rides a scooter without a helmet or overtakes recklessly to look daring. Belief in one's own safety is strong at this age, and peer pressure feeds it; respected adults and real stories can shift habits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 4948,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Tejas"
+    ],
+    "2": [
+     "Kashish",
+     "Vandana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Jumping the queue [Actor]",
+   "description": "A young adult slips ahead in a ticket line because it is quicker and others do it too. The small gain costs trust, and calmly asking someone to join the back of the line often works.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4949,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Pema"
+    ],
+    "2": [
+     "Manjula",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Road rage [Actor]",
+   "description": "A driver hit by a small scrape shouts and threatens, feeling disrespected and rushed. Anger in traffic is adrenaline and pride; breathing, leaving the scene and letting insurance handle it prevents worse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, anger, pride, relief from stress"
+   ]
+  },
+  {
+   "sno": 4950,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Imran",
+     "Francis"
+    ],
+    "2": [
+     "Gurpreet",
+     "Mohit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Giving seats and space [Response]",
+   "description": "A young commuter offers a seat to an elder, a pregnant woman or a disabled person without waiting to be asked. Public kindness is contagious, and others soon copy it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4951,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Pranav"
+    ],
+    "2": [
+     "Karthik",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Standing up to rude behaviour [Response]",
+   "description": "A bystander asks a man spitting or harassing others to stop, calmly and with a friend nearby. Safety comes first; speaking in a neutral tone and calling authorities when needed keeps things from escalating.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm, trust"
+   ]
+  }
+ ]
+}

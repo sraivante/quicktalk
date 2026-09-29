@@ -1,0 +1,221 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1458,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Employer × Being ghosted after interview [Receiver]",
+   "description": "A recruiter goes silent after promising a reply. Wise: follow up once or twice politely, keep applying, and do not read it as your worth. Immature: bitterness or wasted waiting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1459,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being ghosted",
+   "subtype": "Person × Breadcrumbing [Receiver]",
+   "description": "Someone gives just enough attention to keep you hoping. Wise: ask clearly for what you want, and if not offered, walk away. Harmful: waiting for scraps.",
+   "graph_context": [
+    "same situation, other stances at this age: rejection",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 1460,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Ganga",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Manipulation [Receiver]",
+   "description": "They twist your words and you feel confused and guilty. Wise: notice patterns, keep notes, talk to trusted people outside, and trust your perception. It is not your fault.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness",
+    "paired view exists: Actor (S1465)",
+    "related mind states: guilt, confusion, trust"
+   ]
+  },
+  {
+   "sno": 1461,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Seema",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Gaslighting [Receiver]",
+   "description": "They deny events you clearly remember and call you oversensitive. Wise: write things down, check with a trusted friend, and see that doubt is the aim. Seek counselling.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, loneliness, manipulation",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 1462,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Tenzin",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Emotional blackmail [Receiver]",
+   "description": "They threaten to hurt themselves or leave if you do not comply. Wise: take real distress seriously, involve trusted adults or professionals, and do not accept being controlled through fear.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness",
+    "paired view exists: Actor (S1465)",
+    "related mind states: fear, trust, hurt"
+   ]
+  },
+  {
+   "sno": 1463,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Lars",
+     "Rosa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Love bombing then coldness [Receiver]",
+   "description": "Intense adoration turns into silence when you set limits. Wise: notice the swing and judge by steady behaviour, not grand gestures.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, deceit, loneliness, manipulation",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1464,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Hansa",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Isolation from friends [Receiver]",
+   "description": "They slowly make you distance from friends and family. Wise: keep at least one outside connection and see isolation as a warning sign. Reach out to someone you trust.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, manipulation",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 1465,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Manipulation [Actor]",
+   "description": "You use guilt, sulking or threats to get what you want. Wise: ask directly, accept a no, and see the fear behind it. Harmful: winning by hurting.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness",
+    "paired view exists: Receiver (S1460)",
+    "related mind states: fear, guilt, hurt"
+   ]
+  },
+  {
+   "sno": 1466,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Lokesh",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Insecurity behind control [Actor]",
+   "description": "You control because you fear abandonment. Wise: admit this, work on it with a counsellor or friend, and let go of control. Harmful: calling it love.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, deceit, loneliness, manipulation",
+    "related mind states: affection, fear, insecurity"
+   ]
+  },
+  {
+   "sno": 1467,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Rajni",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Manipulative relationship",
+   "subtype": "Partner × Leaving a toxic relationship [Receiver]",
+   "description": "You want to leave but fear them, loneliness or family reaction. Wise: plan with help from friends or a helpline, and consider safety first. Leaving is hard and it is not weakness.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, deceit, loneliness, manipulation",
+    "related mind states: fear, loneliness, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,285 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2958,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Jeevan"
+    ],
+    "2": [
+     "Ritu",
+     "Lalremsiami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 3: The friend's hurt and guard [Receiver]",
+   "description": "The friend feels let down and wants acknowledgment more than reasons. Her replies are short as she waits to see whether he understands what it cost her rather than just wanting the tension gone.",
+   "graph_context": [
+    "previous stage: Temptation to excuse",
+    "next stage: The real apology",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: disappointment, hurt"
+   ]
+  },
+  {
+   "sno": 2959,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Chaitanya"
+    ],
+    "2": [
+     "Vinita",
+     "Sonali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 4: The real apology [Response]",
+   "description": "He says \"I cancelled for something more fun, and it made you feel unimportant. I am sorry. That was on me.\" A clean apology names the act and its effect, with no \"but\" and no request for immediate pardon.",
+   "graph_context": [
+    "previous stage: The friend's hurt and guard",
+    "next stage: Allowing time",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2960,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Omkar"
+    ],
+    "2": [
+     "Asif",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 5: Allowing time [Receiver]",
+   "description": "She replies \"Thanks for saying that. I need a little time.\" Forgiveness is not owed on schedule, and the person who apologised has to tolerate the wait without pushing or sulking.",
+   "graph_context": [
+    "previous stage: The real apology",
+    "next stage: Changed behaviour proves it",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 2961,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Dhruv",
+     "Dolma"
+    ],
+    "2": [
+     "Shankar",
+     "Sunaina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 6: Changed behaviour proves it [Response]",
+   "description": "At the next plan he shows up on time and remembers what she cared about. Trust returns through repeated small actions that match the words, far more than through another round of apologising.",
+   "graph_context": [
+    "previous stage: Allowing time",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2962,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Baljeet",
+     "Pradeep"
+    ],
+    "2": [
+     "Santosh",
+     "Deepak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 1: The discovery [Receiver]",
+   "description": "A mother finds messages on her daughter's phone showing she lied about where she went. She feels shock and hurt, and starts to doubt everything her daughter has told her, even things that were true.",
+   "graph_context": [
+    "next stage: Why the lie happened",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: doubt, surprise, hurt"
+   ]
+  },
+  {
+   "sno": 2963,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Himani",
+     "Sangeeta"
+    ],
+    "2": [
+     "Arohi",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 2: Why the lie happened [Actor]",
+   "description": "The teen lied because she expected a flat no and wanted a normal evening with friends. She feels both guilt and resentment, believing that honesty had never really been safe in that house.",
+   "graph_context": [
+    "previous stage: The discovery",
+    "next stage: Punishment and defensiveness",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: guilt, resentment, trust"
+   ]
+  },
+  {
+   "sno": 2964,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Sunaina",
+     "Ramesh"
+    ],
+    "2": [
+     "Francis",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 3: Punishment and defensiveness [Actor]",
+   "description": "Strict restrictions follow, and the teen hides her phone use better rather than telling more. Heavy punishment teaches concealment when the parent needed to learn the reason and reset the terms.",
+   "graph_context": [
+    "previous stage: Why the lie happened",
+    "next stage: The honest conversation",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 2965,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Dilnaz"
+    ],
+    "2": [
+     "Jaya",
+     "Karthik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 4: The honest conversation [Response]",
+   "description": "The mother says \"I am hurt by the lie, and I also want to know why you felt you could not ask me.\" The teen admits fear of being refused, and both hear something they did not expect.",
+   "graph_context": [
+    "previous stage: Punishment and defensiveness",
+    "next stage: A clear path back",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 2966,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Chaitanya"
+    ],
+    "2": [
+     "Farhan",
+     "Karthik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 5: A clear path back [Response]",
+   "description": "They agree on small, specific rules, such as sharing plans in advance, with a review date. Trust gets rebuilt in visible steps, and the parent commits to actually saying yes more often when the teen is honest.",
+   "graph_context": [
+    "previous stage: The honest conversation",
+    "next stage: Trust as a track record",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2967,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Sangeeta"
+    ],
+    "2": [
+     "Rajni",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 6: Trust as a track record [Observer]",
+   "description": "A relative sees the teen keep small promises for weeks and notes it aloud to the parent. Trust shows up in the pattern of ordinary days, and being noticed for honesty makes more honesty likely.",
+   "graph_context": [
+    "previous stage: A clear path back",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

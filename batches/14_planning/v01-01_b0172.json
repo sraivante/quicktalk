@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7471,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yusuf",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Satisficing",
+   "subtype": "Approach: uses good enough for low-stakes decisions to save mental energy [Thinking]",
+   "description": "A hostel student chooses a laptop bag by two criteria, price under a limit and a padded pocket, and stops. Saving hours of comparison leaves time for exam preparation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7472,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Satisficing",
+   "subtype": "Approach: sets the bar too low on an important decision [Pitfall]",
+   "description": "A young professional accepts the first flat that meets basic needs but skips checking the lease terms and the commute. The threshold fit a cheap purchase and did not fit a year-long commitment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7473,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Satisficing",
+   "subtype": "Approach: raises the threshold after noticing the stakes and rechecks options [Revision]",
+   "description": "Realising a rental is a big commitment, she adds criteria such as noise, water supply and landlord reputation, and visits two more flats before deciding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7474,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Yash",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Decision matrix",
+   "subtype": "Approach: scores options against weighted criteria in a table [Thinking]",
+   "description": "A student picking a stream after Class 10 lists interest, job outlook, effort and distance of college. He weights them, scores each stream and compares the totals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 7475,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sumit",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Decision matrix",
+   "subtype": "Approach: builds the matrix in a spreadsheet and adjusts weights to see how the ranking changes [Action]",
+   "description": "A student comparing three job offers puts salary, learning, location and growth in columns, then changes weights to test whether the winner holds up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7476,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Decision matrix",
+   "subtype": "Approach: fudges scores to make the matrix confirm a favourite [Pitfall]",
+   "description": "A student who already loves one college gives it high scores on subjective criteria and low scores on rivals. The tidy numbers look objective but hide a decision made beforehand.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: affection, detachment"
+   ]
+  },
+  {
+   "sno": 7477,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Decision matrix",
+   "subtype": "Approach: uses the matrix to expose which criterion truly drives a choice [Thinking]",
+   "description": "A young couple comparing flats notices that whichever weights they use, commute time decides the outcome, which shows them what they actually care about.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7478,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ira",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Decision matrix",
+   "subtype": "Approach: notices a gut feeling against the top score and revisits the criteria [Revision]",
+   "description": "When a matrix favours a job she dreads, she asks what is missing, adds team culture and daily work as criteria, and the ranking changes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7479,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Arohi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Analogy",
+   "subtype": "Approach: solves a new problem by comparing it with a familiar one [Thinking]",
+   "description": "A child who cannot open a new jar remembers that her mother twists the lid of the pickle jar, and she copies that turning motion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7480,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Kunal",
+     "Preeti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Analogy",
+   "subtype": "Approach: uses an earlier solved problem as a model for a new one [Action]",
+   "description": "A boy asked to share cricket turns among five friends recalls how the class used a roll-number order for the library, and sets up a rotating list.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

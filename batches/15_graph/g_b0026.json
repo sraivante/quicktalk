@@ -1,0 +1,259 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1095,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Popular or outcast status",
+     "subtype": "Classmates × Pride [Actor]",
+     "description": "I am proud to be different and refuse to fit in. Wise: enjoy it while remaining open to others. Harmful: using superiority as armour against connection."
+    },
+    {
+     "sno": 1096,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Popular or outcast status",
+     "subtype": "Classmates × Manipulation [Actor]",
+     "description": "I use charm and gossip to climb the social ladder. It works, and I feel hollow. Wise: recognise the cost to trust and choose honest ways to belong."
+    },
+    {
+     "sno": 1090,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Popular or outcast status",
+     "subtype": "Classmates × Envy [Receiver]",
+     "description": "I am popular and sense envy behind compliments. Wise: stay kind and honest, do not assume all attention is friendship, and keep close a few real friends. Harmful: cruelty to stay on top."
+    },
+    {
+     "sno": 1093,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Popular or outcast status",
+     "subtype": "Classmates × Contempt [Receiver]",
+     "description": "I am mocked as weird or poor or fat. It is unfair and not my fault. Wise: protect my self-respect, find spaces where I fit, and report harassment. Harmful: believing their story."
+    }
+   ],
+   "cluster_id": "C0151",
+   "cast": [
+    "Neelam",
+    "Darshan",
+    "Nilesh"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 354,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Festival or prayer",
+     "subtype": "God × Worship & awe",
+     "description": "Feels devotion, wonder and belonging while participating; faith is absorbed through stories, music and ritual before argument."
+    },
+    {
+     "sno": 837,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Festival or prayer",
+     "subtype": "God × Gratitude [Actor]",
+     "description": "I thank God for my family and food before eating. The feeling is warm and simple. Gratitude can also become action, like sharing my food with someone who has less."
+    },
+    {
+     "sno": 840,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Festival or prayer",
+     "subtype": "Faith community × Exclusion [Receiver]",
+     "description": "At the gathering I am told I cannot join because of who I am. It hurts and confuses me. It is not my fault; I can tell a trusted adult and know that real faith does not shut a child out."
+    },
+    {
+     "sno": 836,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Festival or prayer",
+     "subtype": "Priest or religious teacher × Trust [Actor]",
+     "description": "I listen to the religious teacher's stories and believe them fully. Trust is natural at this age; over time I learn to notice whether teachings promote kindness and never fear, cruelty or secrecy."
+    }
+   ],
+   "cluster_id": "C0152",
+   "cast": [
+    "Harish",
+    "Amandeep",
+    "Bhavna"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 364,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Romantic feelings arise",
+     "subtype": "Partner × Possessive control",
+     "description": "Confuses jealousy and monitoring with love; learns to spot control, isolation and guilt-tripping as warning signs."
+    },
+    {
+     "sno": 363,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Romantic feelings arise",
+     "subtype": "Crush × Rejection",
+     "description": "Feels shattered and embarrassed after a \"no\"; healing comes from time, support and remembering that rejection is not a verdict of worth."
+    },
+    {
+     "sno": 1016,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Romantic feelings arise",
+     "subtype": "Crush × Worship [Actor]",
+     "description": "I see my crush as flawless and hang on every word. It feels wonderful and blinds me. Wise: enjoy the feeling, remember they are an ordinary person, and keep my own life going. Harmful: rebuilding myself for them."
+    },
+    {
+     "sno": 362,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Romantic feelings arise",
+     "subtype": "Crush × Infatuation",
+     "description": "Idealizes the person and checks their profile constantly; reality check comes from talking with friends and noticing their actual behaviour."
+    }
+   ],
+   "cluster_id": "C0153",
+   "cast": [
+    "Reena",
+    "Hrithik",
+    "Nikita"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 816,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Exam results day",
+     "subtype": "Parent × Disappointment [Receiver]",
+     "description": "My parents sigh over my marks and compare me to a cousin. I feel small. It is not my fault they are anxious; I can say I will try harder and ask for help without losing my self-respect."
+    },
+    {
+     "sno": 815,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Exam results day",
+     "subtype": "Parent × Pride [Receiver]",
+     "description": "My parents beam and tell everyone about my marks. I feel happy but also pressure to do it again. It helps to enjoy their joy while remembering that my worth is more than my rank."
+    },
+    {
+     "sno": 819,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Exam results day",
+     "subtype": "Self × Shame [Actor]",
+     "description": "I got fewer marks than I hoped and think I am stupid. One result is not a verdict on me; a wiser view asks which topics went wrong and how to practise them."
+    },
+    {
+     "sno": 817,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Exam results day",
+     "subtype": "Classmate × Envy [Actor]",
+     "description": "My friend topped the class and I feel a sting in my stomach. It is normal; asking what helped him study turns envy into learning, while running him down only hurts us both."
+    }
+   ],
+   "cluster_id": "C0154",
+   "cast": [
+    "Varun",
+    "Deepak",
+    "Karthik"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1805,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Ex reappears",
+     "subtype": "Ex × Jealousy [Actor]",
+     "description": "I see my ex happy with someone new and feel a stab of jealousy. I let the feeling pass without stalking their profile, remember my own reasons for leaving, and put attention into building my life."
+    },
+    {
+     "sno": 1803,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Ex reappears",
+     "subtype": "Ex × Comparison [Actor]",
+     "description": "I compare my current partner with my ex and feel dissatisfied. I see that memory is edited and that I am comparing a real person with a highlight reel; I appreciate present strengths and speak honestly about needs."
+    },
+    {
+     "sno": 1802,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Ex reappears",
+     "subtype": "Ex × Forgiveness [Actor]",
+     "description": "Years later I feel ready to forgive an ex. I release resentment for my own peace and can say so briefly if it helps, without reopening the relationship or needing their apology first."
+    },
+    {
+     "sno": 1800,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Ex reappears",
+     "subtype": "Ex × Anger [Actor]",
+     "description": "I still feel angry at how an ex treated me. I acknowledge the wrong, seek support from friends or a counsellor, and avoid revenge posts or messages; carrying rage keeps me tied to them."
+    }
+   ],
+   "cluster_id": "C0155",
+   "cast": [
+    "Zeenat",
+    "Vandana",
+    "Parul"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 900,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Death of a grandparent",
+     "subtype": "Grandparent × Grief [Actor]",
+     "description": "My grandmother died and the house feels empty. I miss her stories and her hands. Grief comes in waves; letting myself cry and remember her is a way of loving her still."
+    },
+    {
+     "sno": 903,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Death of a grandparent",
+     "subtype": "Self × Confusion [Actor]",
+     "description": "I do not understand where my grandfather has gone and adults give different answers. It is okay to ask questions and to hear that people have different beliefs and that nobody knows everything."
+    },
+    {
+     "sno": 902,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Death of a grandparent",
+     "subtype": "Faith community × Comfort [Receiver]",
+     "description": "Relatives gather for prayers and rituals after the death. The songs and food give me a sense of belonging. Whatever our beliefs, rituals help families carry sorrow together."
+    }
+   ],
+   "cluster_id": "C0156",
+   "cast": [
+    "Nazia",
+    "Zainab",
+    "Hrithik"
+   ]
+  }
+ ]
+}

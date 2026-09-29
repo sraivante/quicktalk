@@ -1,0 +1,264 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5632,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Ankita",
+     "Aditi"
+    ],
+    "5": [
+     "Tushar",
+     "Mahima"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Integrity vs despair (as foreseen by the young)",
+   "subtype": "Learning from an elder's regret [Receiver]",
+   "description": "A young person hears a grandparent say they wish they had studied or spoken up. They take it as a warning not a burden, and think about which risks now are worth their future self's peace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: calm, regret"
+   ]
+  },
+  {
+   "sno": 5633,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Gurpreet",
+     "Vandana"
+    ],
+    "5": [
+     "Raghav",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Integrity vs despair (as foreseen by the young)",
+   "subtype": "Living so the story is one you can accept [Response]",
+   "description": "A young professional considers what they want to be able to say in old age and lets it shape ordinary choices: keeping promises, repairing rifts, doing work that matters. They accept that no life is regret-free.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 5634,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Yogesh",
+     "Siddharth"
+    ],
+    "5": [
+     "Simran",
+     "Pema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Integrity vs despair (as foreseen by the young)",
+   "subtype": "Reading an elder's bitterness [Observer]",
+   "description": "A young adult sees an older relative who dwells on old grievances and unfinished ambitions. They feel compassion and a resolve not to end up rehearsing resentments, while still listening without lecturing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: grief, resentment, determination, empathy"
+   ]
+  },
+  {
+   "sno": 5635,
+   "plan": {
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Nazia",
+     "Dolma"
+    ],
+    "5": [
+     "Rukmini",
+     "Sharmila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Generativity vs stagnation",
+   "subtype": "Wanting to help and teach [Actor]",
+   "description": "A child loves showing a younger sibling how to tie shoes or draw, feeling proud to be the one who knows. This early urge to pass something on is the seed of later generativity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: affection, pride"
+   ]
+  },
+  {
+   "sno": 5636,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Dolma",
+     "Seema"
+    ],
+    "5": [
+     "Parveen",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Generativity vs stagnation",
+   "subtype": "Giving back as a teen [Actor]",
+   "description": "A teenager tutors younger students or helps organise a neighbourhood cleanup and feels needed. Being useful to others gives a sense of worth that grades and status do not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5637,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Bhavna",
+     "Ankita"
+    ],
+    "5": [
+     "Suraj",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Generativity vs stagnation",
+   "subtype": "Wanting to leave something [Actor]",
+   "description": "A young adult volunteers, mentors school kids or builds a small project not for credit but because they want their effort to outlast them. It sits alongside ambition, not in place of it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5638,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Anjali",
+     "Manjula"
+    ],
+    "5": [
+     "Wasim",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Generativity vs stagnation",
+   "subtype": "Early stagnation [Actor]",
+   "description": "A young worker settles into a routine, thinks only of salary and comfort, and feels flat when asked what they are building. It is not laziness; it is a life turned entirely inward.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5639,
+   "plan": {
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "4": [
+     "Ira",
+     "Jyoti"
+    ],
+    "5": [
+     "Irfan",
+     "Sudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Generativity vs stagnation",
+   "subtype": "Mentoring without ego [Response]",
+   "description": "A young professional shares what they learned with a junior, credits them publicly and accepts being outgrown. Generativity means caring for what grows, not owning it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5640,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Suraj",
+     "Vikas"
+    ],
+    "5": [
+     "Paulo",
+     "Esther"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emerging adulthood",
+   "subtype": "In-between feeling [Actor]",
+   "description": "A young adult in their early twenties feels neither like a child nor fully an adult: financially partly dependent, making choices alone, unsure whether to say they have grown up. The feeling is common and not a failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 5641,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Siddiq",
+     "Jamal"
+    ],
+    "5": [
+     "Akash",
+     "Jyoti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emerging adulthood",
+   "subtype": "Freedom and pressure of possibilities [Actor]",
+   "description": "A graduate sees many possible careers, cities and partners and feels both excitement and dread of choosing wrongly. The openness is a gift, but it can freeze decisions or invite endless comparison.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, excitement"
+   ]
+  }
+ ]
+}

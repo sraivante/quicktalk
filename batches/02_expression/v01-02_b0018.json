@@ -1,0 +1,268 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2232,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Mohit",
+     "Sarita"
+    ],
+    "2": [
+     "Jasleen",
+     "Urmila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Short vocal reactions",
+   "subtype": "Ouch, oops and wow [Expressing]",
+   "description": "A preschooler says ouch when hurt, oops after a mistake and wow at something wonderful. The words tell how they feel in the moment, and a gentle reply, such as it is okay, teaches recovery from small errors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: curiosity, awe, hurt"
+   ]
+  },
+  {
+   "sno": 2233,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Pankaj"
+    ],
+    "2": [
+     "Farida",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Short vocal reactions",
+   "subtype": "Shh and ooh [Interpreting]",
+   "description": "A child learns that shh means be quiet or be careful and ooh shows interest or delight. Tone decides the meaning, since a soft shh comforts and a sharp shh can scold; a child reads the voice before the sound.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, interest"
+   ]
+  },
+  {
+   "sno": 2234,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Mei",
+     "Zanele"
+    ],
+    "2": [
+     "Asif",
+     "Chandrika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Matching volume to setting [Regulating]",
+   "description": "A child practises a quiet voice in a library and a loud voice on the playground. Learning volume control takes time, and reminders with a visual cue work better than shouting to be quiet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2235,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Liam",
+     "Chen"
+    ],
+    "2": [
+     "Abhinav",
+     "Jatin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Whispering and secrets [Expressing]",
+   "description": "A preschooler whispers to share a secret, to hide or to be quiet. Whispers can show closeness or mischief; a child taught that secrets from trusted adults about touch or harm are not okay should tell a grown-up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2236,
+   "plan": {
+    "1": "R9",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Abhinav"
+    ],
+    "2": [
+     "Jasleen",
+     "Sarika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Cracking and quavering voice [Expressing]",
+   "description": "A young child whose voice cracks or quavers when speaking before a class may be nervous or about to cry. Naming it kindly, such as saying it is normal to feel wobbly, helps more than telling the child to stop.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, anxiety"
+   ]
+  },
+  {
+   "sno": 2237,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Vaibhav",
+     "Arohi"
+    ],
+    "2": [
+     "Jatin",
+     "Sarika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Soft versus harsh voice [Interpreting]",
+   "description": "A preschooler hears a soft voice as safe and a harsh voice as anger or danger, even when the words are neutral. Children need help learning that a loud harsh voice is not always about them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 2238,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Ada",
+     "Soo-ah"
+    ],
+    "2": [
+     "Rafiq",
+     "Raghav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Hesitant and halting speech [Interpreting]",
+   "description": "A child who speaks in a hesitant, halting way may be shy, searching for a word, or unsure of a response. Waiting calmly works better than finishing sentences for the child.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness, calm"
+   ]
+  },
+  {
+   "sno": 2239,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Rehana"
+    ],
+    "2": [
+     "Ingrid",
+     "Freya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Rushed speech when excited [Expressing]",
+   "description": "A preschooler with big news may speak in a rushed tumble of words and skip parts. A patient adult who says slow down, I want to hear it all helps the child organize the story.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 2240,
+   "plan": {
+    "1": "R4",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Mridul",
+     "Ojas"
+    ],
+    "2": [
+     "Joseph",
+     "Yamini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Trailing off [Interpreting]",
+   "description": "A child whose sentence trails off may have lost the words, feel unsure they are allowed to say them, or be afraid of a reaction. Gentle prompting such as what happened next helps without pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 2241,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Alka"
+    ],
+    "2": [
+     "Zeynep",
+     "Bao"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Turn-taking and silence [Expressing]",
+   "description": "A preschooler learns that conversation involves waiting; silence after a question may mean thinking, shyness or not understanding. A wise adult counts to five before rephrasing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  }
+ ]
+}

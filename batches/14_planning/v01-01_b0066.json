@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6411,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: catastrophising and self-blame [Pitfall]",
+   "description": "The student concludes that one failure means a ruined future and stops studying. The thought feels certain but skips the evidence, and it makes real recovery less likely.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, learning from past failure, seeking advice"
+   ]
+  },
+  {
+   "sno": 6412,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Francis",
+     "Sachin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: telling parents and asking for support [Action]",
+   "description": "Afraid of anger, the student still shares the result and a draft recovery plan with parents, who after the initial upset help arrange a supplementary attempt and extra doubt sessions.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, learning from past failure, seeking advice",
+    "related mind states: anger, fear, doubt"
+   ]
+  },
+  {
+   "sno": 6413,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Simran",
+     "Vikas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: hiding the result [Pitfall]",
+   "description": "The student conceals the marksheet and hopes to fix things quietly. The secrecy adds fear, delays practical steps such as re-exam applications and damages trust when the truth emerges.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, lateral thinking, learning from past failure, seeking advice",
+    "related mind states: fear, hope, trust"
+   ]
+  },
+  {
+   "sno": 6414,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: exploring alternate routes [Thinking]",
+   "description": "The student learns about supplementary exams, open school and other pathways, and sees that one result is a setback within a longer route rather than the end of options.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, learning from past failure, seeking advice"
+   ]
+  },
+  {
+   "sno": 6415,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Sonali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: rebuilding with a smaller first target [Action]",
+   "description": "Rather than an immediate topper plan, the student aims to clear the weakest subject first with a weekly plan and a mentor, using the early success to restart momentum.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, learning from past failure"
+   ]
+  },
+  {
+   "sno": 6416,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: learning from past failure as data [Thinking]",
+   "description": "The student compares this exam with an earlier success, noting sleep, revision method and stress differences, and treats the failure as information about what to change.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, seeking advice"
+   ]
+  },
+  {
+   "sno": 6417,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Yuki",
+     "Sofia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: asking for professional help when hopeless [Revision]",
+   "description": "If sadness and hopelessness persist, the student and parents approach the school counsellor or a helpline, since heavy despair after failure needs care from trained people and not only willpower.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, lateral thinking, learning from past failure, seeking advice",
+    "related mind states: sadness, hope"
+   ]
+  },
+  {
+   "sno": 6418,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Pooja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Coping with exam failure",
+   "subtype": "Approach: revising the meaning of the result [Revision]",
+   "description": "After some weeks and talking to older cousins who also struggled, the student reframes the result as one stage, keeps a smaller goal, and is more ready to seek help earlier next time.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, learning from past failure, seeking advice"
+   ]
+  },
+  {
+   "sno": 6419,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Anjali",
+     "Devika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: gathering facts from several sources [Thinking]",
+   "description": "Before joining a student march about fee hikes, the teen reads the notice, the college statement and reports from different outlets, checking who organises it and what exactly is being demanded.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6420,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Pema",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: values-first reasoning [Thinking]",
+   "description": "The teen asks which principle matters most, such as fairness or safety, and whether joining serves that cause, or whether a letter, petition or school council meeting might achieve it better.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7281,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Ramesh",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: over-optimistic projections [Pitfall]",
+   "description": "The founder shows a chart with revenue doubling every quarter without basis. A seasoned investor questions the assumptions in minutes, and the credibility of the entire deck drops.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, minimum viable version, working backward",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 7282,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: scenario plan if the money is late [Thinking]",
+   "description": "Knowing that rounds often take twice as long as expected, the founder prepares three cases, funded in three months, in six, and not at all, with matching cost cuts for each.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 7283,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: comparing term sheets on more than valuation [Thinking]",
+   "description": "Given two offers, the founder lists control, board seats, liquidation preference and how helpful the investor has been to other founders, rather than choosing the highest headline number.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, minimum viable version, working backward",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 7284,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Irfan",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: checking legal terms with a lawyer [Action]",
+   "description": "Before signing, the founder pays a startup lawyer to explain the shareholder agreement clauses in plain terms, as general understanding of how terms work rather than as guesswork.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 7285,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Divyansh",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: revising the story after repeated no's [Revision]",
+   "description": "After fifteen rejections citing the same concern, the founder stops pitching, fixes the traction gap by signing three pilot customers, and returns to investors with better evidence.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, working backward"
+   ]
+  },
+  {
+   "sno": 7286,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a fundraising round",
+   "subtype": "Approach: exploring revenue as an alternative [Revision]",
+   "description": "When investor talks drag on, the founder asks whether early customers could fund growth through prepaid contracts, and finds that a smaller but steady path keeps more control of the company.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 7287,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing layoffs and job search",
+   "subtype": "Approach: prioritising urgent versus important tasks [Thinking]",
+   "description": "Right after a layoff, a developer sorts tasks: securing health cover and understanding severance are urgent, while polishing the portfolio and networking are important but can be staged.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, resource and budget planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 7288,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Rukmini",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing layoffs and job search",
+   "subtype": "Approach: building a runway budget [Action]",
+   "description": "The person totals rent, EMI and family costs, computes how many months savings plus severance will last, and trims subscriptions so the job search has a clear time limit.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, prioritising, seeking advice"
+   ]
+  },
+  {
+   "sno": 7289,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing layoffs and job search",
+   "subtype": "Approach: mass-applying without tailoring [Pitfall]",
+   "description": "The developer sends three hundred identical applications on job portals in a week. Few replies arrive, and the person feels worse, mistaking activity for progress.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, prioritising, resource and budget planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 7290,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Lalit",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing layoffs and job search",
+   "subtype": "Approach: targeted outreach through the network [Action]",
+   "description": "The person messages twenty former colleagues, asking for advice on teams that are hiring rather than for a job directly, and receives four referrals that lead to interviews.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, prioritising, resource and budget planning"
+   ]
+  }
+ ]
+}

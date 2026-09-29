@@ -1,0 +1,212 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 7331,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: preparing a go-bag in advance [Action]",
+   "description": "A person living in a flood-prone area keeps a bag with copies of documents, medicines, cash, torch and charger, so that leaving takes minutes without deciding under stress.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 7332,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Deepika",
+     "Shreya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: contingency plan for a small business [Thinking]",
+   "description": "A shop owner considers what would happen if the shop floods for two weeks: moving stock to upper shelves, backing up bills online and agreeing on temporary sales through phone orders.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, resource and budget planning, sleeping on it",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 7333,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: relying on one contact for everything [Pitfall]",
+   "description": "The family assumes one relative will coordinate everything. When that relative's phone is out of network, nobody knows where to gather and precious hours are lost.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it"
+   ]
+  },
+  {
+   "sno": 7334,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Zainab",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: community coordination [Action]",
+   "description": "Neighbours form a group to share boats, boiled water and elder care, and coordinate with the ward office, showing how shared effort covers what one household cannot.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it"
+   ]
+  },
+  {
+   "sno": 7335,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: rebuilding in stages [Revision]",
+   "description": "After the disaster, the person repairs essentials first, then postpones cosmetic work, and adjusts the budget as claims arrive, adapting to money as it becomes known.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, sleeping on it"
+   ]
+  },
+  {
+   "sno": 7336,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: learning from the event to prepare better [Revision]",
+   "description": "Later, the family lists what went wrong: no shared meeting point, expired torch batteries. They fix each item and hold a yearly ten-minute drill.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it"
+   ]
+  },
+  {
+   "sno": 7337,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Sarika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a legal or tax notice",
+   "subtype": "Approach: reading the notice carefully and noting the deadline [Thinking]",
+   "description": "On receiving a tax department email, the person reads who sent it, what is asked and the last date to respond, and does not react until the facts are clear.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action"
+   ]
+  },
+  {
+   "sno": 7338,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Rafiq",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a legal or tax notice",
+   "subtype": "Approach: verifying authenticity through official channels [Action]",
+   "description": "Aware of frauds using fake notices, the person logs in to the official portal directly and checks whether the same notice appears there, rather than clicking email links.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, impulsive action"
+   ]
+  },
+  {
+   "sno": 7339,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Swati",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a legal or tax notice",
+   "subtype": "Approach: ignoring the notice from fear [Pitfall]",
+   "description": "The person puts the letter in a drawer, hoping it is a mistake. The deadline passes, penalties are added, and a simple mismatch becomes a bigger problem.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7340,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Aparna",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a legal or tax notice",
+   "subtype": "Approach: gathering documents and reconciling numbers [Action]",
+   "description": "The person collects salary slips, Form 16, and bank statements, compares them line by line with the notice, and finds that one income entry was reported twice.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, impulsive action",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

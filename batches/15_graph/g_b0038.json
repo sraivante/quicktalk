@@ -1,0 +1,251 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 444,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Mealtime",
+     "subtype": "Parent × Argument [Actor]",
+     "description": "The toddler shakes her head, throws food or says no: a first taste of choice and control, not defiance. Offer small healthy choices, keep meals calm, and do not fight over each bite."
+    },
+    {
+     "sno": 445,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Mealtime",
+     "subtype": "Parent × Coercion [Receiver]",
+     "description": "Forced feeding, threats or chasing with a plate make food a battle and can create fear at the table. Parents should offer, model eating together, and trust hunger to do its work."
+    },
+    {
+     "sno": 446,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Mealtime",
+     "subtype": "Parent × Affection [Actor]",
+     "description": "Eating in a lap or with family, sharing roti or rice, feels like being loved. Toddler smiles and copies. Regular shared meals build belonging; avoid screens at the table."
+    }
+   ],
+   "cluster_id": "C0223",
+   "cast": [
+    "Akash",
+    "Bhavna",
+    "Harish"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1116,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend shares a heavy secret",
+     "subtype": "Friend × Protectiveness [Actor]",
+     "description": "I fear a friend is in real danger, such as self-neglect or unsafe home. Wise: breaking a secret to a trusted adult can be love, and tell the friend I am doing so. Harmful: carrying it alone."
+    },
+    {
+     "sno": 1115,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend shares a heavy secret",
+     "subtype": "Friend × Trust [Receiver]",
+     "description": "A friend confides something painful. I feel honoured and scared. Wise: listen, do not joke, keep it private, and encourage them to tell a trusted adult. Harmful: promising total secrecy when they may be in danger."
+    },
+    {
+     "sno": 1120,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend shares a heavy secret",
+     "subtype": "Friend × Being idolised [Receiver]",
+     "description": "A younger friend tells me I am their hero and shares everything. I feel proud and pressured. Wise: stay honest about my flaws and point them to other supports. Harmful: leaning into control because they listen."
+    },
+    {
+     "sno": 1118,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend shares a heavy secret",
+     "subtype": "Friend × Dependence [Receiver]",
+     "description": "A friend leans on me at all hours and I am worn out. Wise: care, set limits, and encourage other support like family or a counsellor. Harmful: quietly resenting them."
+    }
+   ],
+   "cluster_id": "C0224",
+   "cast": [
+    "Kishore",
+    "Sahil",
+    "Preeti"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 366,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays a secret",
+     "subtype": "Best friend × Anger & hatred",
+     "description": "Feels betrayed and wants to expose them back; cooling down, confronting privately and deciding whether trust can be rebuilt is a better path."
+    },
+    {
+     "sno": 1003,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays a secret",
+     "subtype": "Best friend × Shame [Actor]",
+     "description": "I leaked a friend's secret out of excitement and now I cannot face them. Wise: apologise plainly with no excuse, accept their anger, and give distance. Harmful: denying it or blaming them."
+    },
+    {
+     "sno": 1005,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays a secret",
+     "subtype": "Best friend × Gaslighting [Receiver]",
+     "description": "They deny leaking and say I am overreacting or imagining it. Wise: trust my own memory, keep details, and step back. This is not my fault. Harmful: doubting myself until I apologise."
+    },
+    {
+     "sno": 367,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays a secret",
+     "subtype": "Best friend × Forgiveness",
+     "description": "Chooses to forgive after a sincere apology while adjusting how much to share; forgiveness is not forgetting."
+    }
+   ],
+   "cluster_id": "C0225",
+   "cast": [
+    "Ritu",
+    "Tanuja",
+    "Dilnaz"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 470,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Hurt or illness",
+     "subtype": "Parent × Dependence [Actor]",
+     "description": "A feverish or hurt child wants to be held and will not be put down. Comfort, water, rest and a steady voice are right; call a doctor for high fever or worrying signs, and never scold clinginess."
+    },
+    {
+     "sno": 471,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Hurt or illness",
+     "subtype": "Doctor × Fear [Actor]",
+     "description": "White coats, injections and strange rooms frighten a toddler, who cries and resists. Parents stay close, hold the child, tell the truth simply (a small pinch), and never threaten the doctor as punishment."
+    },
+    {
+     "sno": 472,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "Hurt or illness",
+     "subtype": "Parent × Affection [Receiver]",
+     "description": "A kiss on the scrape and a hug after a fall tell the child her pain matters. Acknowledging the hurt first and calmly, without saying it is nothing, teaches trust and later resilience."
+    }
+   ],
+   "cluster_id": "C0226",
+   "cast": [
+    "Nikita",
+    "Pankaj",
+    "Elizabeth"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 977,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent compares me",
+     "subtype": "Parent × Pressure [Receiver]",
+     "description": "I am compared aloud at family gatherings and feel judged in front of everyone. It is not my fault, and their pride and anxiety are the source. Wise: ask privately to stop and show effort on my own terms."
+    },
+    {
+     "sno": 976,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent compares me",
+     "subtype": "Parent × Resentment [Actor]",
+     "description": "I resent my parent and quietly dislike the cousin who did nothing wrong. Wise: tell the parent how comparison lands and ask for support with my own targets. Immature: sabotaging my work to prove them wrong."
+    },
+    {
+     "sno": 980,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent compares me",
+     "subtype": "Parent × Indifference [Actor]",
+     "description": "I stop reacting to comparisons and go numb, telling myself I do not care. Wise: check whether I truly stopped caring or just stopped feeling; then have one honest talk. Harmful: turning off effort altogether."
+    },
+    {
+     "sno": 978,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Parent compares me",
+     "subtype": "Parent × Envy [Actor]",
+     "description": "As a parent I compare my child because I fear they will fall behind and I feel my own regrets. Wise: notice that comparison motivates rarely, and praise real effort. Harmful: making love feel conditional."
+    }
+   ],
+   "cluster_id": "C0227",
+   "cast": [
+    "Chinmay",
+    "Yusuf",
+    "Ishita"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 528,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Left out of a game",
+     "subtype": "Classmate × Rejection [Receiver]",
+     "description": "Kids say \"you can't play with us\". I feel a stone in my tummy and tears come. It is not because I am bad. Wise action: tell a teacher or find another game. A grown-up can help by making a place for me."
+    },
+    {
+     "sno": 532,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Left out of a game",
+     "subtype": "Teacher × Compassion [Receiver]",
+     "description": "The teacher sees me alone and sits beside me, then invites others to join. I feel seen and less lonely. Wise adults help without embarrassing the child and without forcing others to like them."
+    },
+    {
+     "sno": 531,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Left out of a game",
+     "subtype": "Group × Acceptance [Receiver]",
+     "description": "A child calls \"come, you can be the goalkeeper!\" I feel warm relief, as if I belong. I remember who invited me and try to invite others. Being welcomed teaches me to welcome the next child."
+    },
+    {
+     "sno": 530,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Left out of a game",
+     "subtype": "Classmate × Indifference [Receiver]",
+     "description": "Nobody notices me on the playground and I stand alone. I feel invisible. A wise adult helps me practise a friendly line or plans a small play date. Loneliness at this age needs adult help, not shame."
+    }
+   ],
+   "cluster_id": "C0228",
+   "cast": [
+    "Lavanya",
+    "Manjula",
+    "Zeenat"
+   ]
+  }
+ ]
+}

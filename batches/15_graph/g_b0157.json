@@ -1,0 +1,117 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4092,
+     "age": "18–22",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Imposter feelings",
+     "subtype": "Feeling like a fraud in a top college [Actor]",
+     "description": "A student admitted to a prestigious institute believes they got in by luck and that everyone will soon find out; success is discounted while comparison with others is harsh."
+    },
+    {
+     "sno": 3230,
+     "age": "23–26",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Imposter feelings at a new job",
+     "subtype": "Stage 4: Comparison and silence [Actor]",
+     "description": "The person compares their inside doubts with colleagues' outside confidence and stays silent in meetings. Silence then makes them less visible, which feeds the belief they add little."
+    }
+   ],
+   "cluster_id": "C0937",
+   "cast": [
+    "Minakshi",
+    "Noor",
+    "Salma"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3921,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Avoidance",
+     "subtype": "Hiding behind a parent at a party [Actor]",
+     "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing."
+    },
+    {
+     "sno": 3285,
+     "age": "7–12",
+     "topic": "Interaction Dynamics",
+     "subtopic": "Anxiety avoidance loop",
+     "subtype": "Stage 1: Trigger and alarm [Actor]",
+     "description": "A child faces a test, a dog or a new class, and the stomach knots and the heart thumps. The body's alarm feels like proof that something is truly dangerous."
+    }
+   ],
+   "cluster_id": "C0938",
+   "cast": [
+    "Kalyani",
+    "Sabina",
+    "Uday"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 4068,
+     "age": "4–6",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Boredom",
+     "subtype": "Restless and asking what to do [Actor]",
+     "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials."
+    },
+    {
+     "sno": 2370,
+     "age": "7–12",
+     "topic": "Expression & Mind State",
+     "subtopic": "Short vocal reactions",
+     "subtype": "Ugh and ah-ha [Expressing]",
+     "description": "A schoolchild says ugh at a chore or a smelly item and aha at a discovery. Ugh signals disgust, boredom or mild annoyance; aha marks a sudden click of understanding that a teacher can celebrate."
+    }
+   ],
+   "cluster_id": "C0939",
+   "cast": [
+    "Karthik",
+    "Ganga",
+    "Pema"
+   ]
+  },
+  {
+   "type": "concept_link",
+   "rows": [
+    {
+     "sno": 3891,
+     "age": "7–12",
+     "topic": "Cognitive Machinery",
+     "subtopic": "Humour",
+     "subtype": "Class clown covering embarrassment [Actor]",
+     "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry."
+    },
+    {
+     "sno": 2682,
+     "age": "18–22",
+     "topic": "Expression & Mind State",
+     "subtopic": "Laughter",
+     "subtype": "Chortling at private amusement [Interpreting]",
+     "description": "A quiet, satisfied chortle can mean genuine amusement, smug pleasure or relief. Context decides: shared humour bonds people, but the same sound aimed at someone's mistake can feel mocking."
+    }
+   ],
+   "cluster_id": "C0940",
+   "cast": [
+    "Darshan",
+    "Vikas",
+    "Zainab"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2622,
+   "plan": {
+    "1": "R2",
+    "2": "R3"
+   },
+   "cast": {
+    "1": [
+     "Akash",
+     "Disha"
+    ],
+    "2": [
+     "Ayesha",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Doubtful [Expressing]",
+   "description": "A teenager hesitates, raises a brow or says maybe about a plan or belief. Doubt may reflect careful thinking or fear, and open discussion beats pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, doubt"
+   ]
+  },
+  {
+   "sno": 2623,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Pradeep",
+     "Arnab"
+    ],
+    "2": [
+     "Naveen",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Reading interest and confusion in others [Interpreting]",
+   "description": "A teenager tries to tell whether a classmate is interested, puzzled or bored from face and voice. These cues are hints only, and asking is better than assuming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: interest, confusion, boredom"
+   ]
+  },
+  {
+   "sno": 2624,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Gurleen",
+     "Kavitha"
+    ],
+    "2": [
+     "Joseph",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Astonished [Expressing]",
+   "description": "A teenager gasps, freezes or stares at shocking news such as unexpected results. Astonishment is stronger than surprise and can lead to joy or distress, so a moment of quiet space helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: joy, surprise"
+   ]
+  },
+  {
+   "sno": 2625,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Yamini",
+     "Lavanya"
+    ],
+    "2": [
+     "Madhuri",
+     "Keerthana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Excited, eager and worried mixed together [Mismatch]",
+   "description": "A teenager before a trip, exam or first job interview may feel eager and anxious at once, with the same racing heart. Labelling it as excitement can turn nervous energy into readiness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety, excitement",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 2626,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Kamal",
+     "Afreen"
+    ],
+    "2": [
+     "Abhinav",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Triumphant [Expressing]",
+   "description": "A teenager cheers, pumps a fist or hugs teammates after a win. Triumph feels good and is best shared graciously, since gloating can hurt others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, pride, hurt"
+   ]
+  },
+  {
+   "sno": 2627,
+   "plan": {
+    "1": "R7",
+    "2": "R8"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Madhuri"
+    ],
+    "2": [
+     "Abebe",
+     "Ingrid"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Deadpan [Mismatch]",
+   "description": "A teenager delivers a joke or an insult without expression, so listeners cannot tell if it is humour. Deadpan needs shared understanding, and unclear cases are settled by asking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2628,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Chetan",
+     "Bidisha"
+    ],
+    "2": [
+     "Anirban",
+     "Rukmini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Detached [Mismatch]",
+   "description": "A teenager who withdraws, answers in single words or stares at a screen may be tired, hurt, private or bored. Detachment has many causes, so patient check-ins over time are better than accusations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: boredom, tiredness, detachment, hurt"
+   ]
+  },
+  {
+   "sno": 2629,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Hansa",
+     "Chandrika"
+    ],
+    "2": [
+     "Zeenat",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Impassive [Regulating]",
+   "description": "A teenager keeps a blank face to avoid showing hurt or joy to peers. An impassive look protects privacy but can hide need, so trusted people should offer chances to talk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: joy, detachment, trust, hurt"
+   ]
+  },
+  {
+   "sno": 2630,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Mahima"
+    ],
+    "2": [
+     "Indu",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Blushing and social anxiety [Regulating]",
+   "description": "A teenager who blushes easily may fear being noticed. Slow breathing, focusing outward and remembering that most people do not notice reduce the distress.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, anxiety, relief from stress"
+   ]
+  },
+  {
+   "sno": 2631,
+   "plan": {
+    "1": "R9",
+    "2": "R10"
+   },
+   "cast": {
+    "1": [
+     "Preeti",
+     "Shalini"
+    ],
+    "2": [
+     "Tenzin",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Tears from many causes [Interpreting]",
+   "description": "A teenager reads a friend's tears and may guess sadness, but tears also come from anger, stress, laughter and relief. Asking gently and staying present is wiser than guessing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, sadness, anger, relief"
+   ]
+  }
+ ]
+}

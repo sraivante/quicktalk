@@ -1,0 +1,210 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6051,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Kaito",
+     "Amara"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: trying to memorise everything in the encyclopedia [Pitfall]",
+   "description": "A child decides to learn all the facts in a thick book. He soon gets tired and confused, and does not know which facts matter or where he is weak.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, externalising on paper, impulsive action",
+    "related mind states: confusion, tiredness"
+   ]
+  },
+  {
+   "sno": 6052,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Santosh",
+     "Chetan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: practising with a partner using mock rounds [Action]",
+   "description": "A team of two friends asks parents to read questions with a spoon as a buzzer. The practice shows them who answers fastest and what topics come up as weak.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6053,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: spotting weak topics and giving them extra time [Revision]",
+   "description": "After a mock round, the team sees that they miss questions on geography. They spend the next week with a map and an atlas, and their score improves.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6054,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Chetan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: deciding when to guess and when to pass [Thinking]",
+   "description": "A girl learns that a wrong answer loses marks in the pass round. She decides to answer only when she is fairly sure, and to pass otherwise, so as not to lose points.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6055,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Darshan",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: blurting out the first answer without thinking [Pitfall]",
+   "description": "In a mock round, a boy presses the buzzer as soon as he hears the first few words. He often gets it wrong because the question changes at the end, and he loses points.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, externalising on paper"
+   ]
+  },
+  {
+   "sno": 6056,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Chetan",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: dividing subjects between two teammates [Action]",
+   "description": "A pair decides that one will handle science and maths and the other history and sports. Knowing who leads each area saves time on the day and avoids clashing over an answer.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6057,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Indu",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: accepting a loss and learning from it [Revision]",
+   "description": "After finishing third, a child feels upset but then asks the quiz master which questions he missed. He writes them down and plans to study those areas for next year.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6058,
+   "plan": {
+    "1": "R8"
+   },
+   "cast": {
+    "1": [
+     "Rosa",
+     "Kofi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: brainstorming many questions and picking one [Thinking]",
+   "description": "A girl writes ten questions she wonders about, such as whether plants grow towards light. She picks the one she can test with materials at home, in the time she has.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure, externalising on paper, mental simulation, trial and error, working backward",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 6059,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: planning a simple experiment with a fair test [Thinking]",
+   "description": "A boy plans to grow beans in two cups, one on the windowsill and one in a dark cupboard. He decides that the soil, water and cup size must be the same so the test is fair.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, mental simulation, working backward"
+   ]
+  },
+  {
+   "sno": 6060,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: choosing a fancy project he cannot finish [Pitfall]",
+   "description": "A child chooses to build a working volcano with lights and sound that looks like a friend's. He runs out of time and materials, and his project stays half done.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, mental simulation, trial and error, working backward"
+   ]
+  }
+ ]
+}

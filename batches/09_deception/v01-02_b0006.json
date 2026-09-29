@@ -1,0 +1,266 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4639,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Nandini",
+     "Pradeep"
+    ],
+    "2": [
+     "Tanuja",
+     "Uma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Reading honesty cautiously",
+   "subtype": "No reliable tells [Observer]",
+   "description": "A teenager or adult believes that avoiding eye contact or fidgeting proves lying. Research shows such cues are weak, since nervous truth-tellers and calm liars are both common.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4640,
+   "plan": {
+    "1": "R1",
+    "2": "R2"
+   },
+   "cast": {
+    "1": [
+     "Bhavna",
+     "Akash"
+    ],
+    "2": [
+     "Naveen",
+     "Hrithik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Reading honesty cautiously",
+   "subtype": "Bias in who we believe [Observer]",
+   "description": "A young adult trusts people who are charming, similar or attractive, and doubts those who seem awkward. Warmth is a poor test of honesty, and fraudsters use it on purpose.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: affection, embarrassment, doubt, trust"
+   ]
+  },
+  {
+   "sno": 4641,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Bao",
+     "Elif"
+    ],
+    "2": [
+     "Jatin",
+     "Salma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Reading honesty cautiously",
+   "subtype": "Checking facts, not faces [Response]",
+   "description": "An adult verifies claims through consistent details, documents and independent sources rather than trusting a gut feeling about sincerity. Fluent, confident storytelling can be a sign of practice as much as of truth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4642,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Disha"
+    ],
+    "2": [
+     "Mehak",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Reading honesty cautiously",
+   "subtype": "Holding suspicion lightly [Response]",
+   "description": "A mature person keeps trust as a default but raises the standard of proof when stakes are high. This avoids both naive belief and paranoid accusation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 4643,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Neelam",
+     "Parveen"
+    ],
+    "2": [
+     "Deepika",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Flattery",
+   "subtype": "Praising to gain something [Actor]",
+   "description": "A teenager showers a teacher or older student with compliments to win favour or marks. The praise is aimed at an outcome, not at the person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4644,
+   "plan": {
+    "1": "R4",
+    "2": "R5"
+   },
+   "cast": {
+    "1": [
+     "Rashmi",
+     "Leela"
+    ],
+    "2": [
+     "Baljeet",
+     "Alka"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Flattery",
+   "subtype": "Learning to tell warmth from steering [Response]",
+   "description": "A teenager learns that a friend who praises and also disagrees is more trustworthy than one who only praises. Honest friends are pleasant, and they do not need something in return.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 4645,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Sachin",
+     "Kashish"
+    ],
+    "2": [
+     "Yogesh",
+     "Tushar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Flattery",
+   "subtype": "Feeling special and lowering guard [Receiver]",
+   "description": "A person receiving lavish praise from someone who wants something feels warm and less critical. Flattery works by making disagreement feel rude.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4646,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Jasleen"
+    ],
+    "2": [
+     "Payal",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Flattery",
+   "subtype": "Spotting the ask behind the praise [Observer]",
+   "description": "A colleague notices that compliments arrive right before a request or a favour. Sincere praise is specific and does not depend on a yes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4647,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Sharmila"
+    ],
+    "2": [
+     "Kishore",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Flattery",
+   "subtype": "Thanking without being steered [Response]",
+   "description": "A wise person accepts a kind word, waits before deciding, and judges the request on its merits. Praise is enjoyed, and decisions are kept separate from it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 4648,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Raghav",
+     "Pallavi"
+    ],
+    "2": [
+     "Pranav",
+     "Neelam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Love-bombing",
+   "subtype": "Overwhelming affection early [Actor]",
+   "description": "A person floods a new partner or friend with attention, gifts and promises of forever within days. It can come from real loneliness or from a wish to secure control, and the intensity is the warning sign.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: affection, loneliness, overwhelm, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,313 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 3610,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Ojas",
+     "Anand"
+    ],
+    "2": [
+     "Kavitha",
+     "Siddharth"
+    ],
+    "3": [
+     "Anirban",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Loss aversion",
+   "subtype": "Missing out and holding on [Actor]",
+   "description": "A young adult holds a losing stock or a failing project too long to avoid the pain of realising the loss, while selling winners too soon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3611,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Ujjwal",
+     "Pallavi"
+    ],
+    "2": [
+     "Lavanya",
+     "Ira"
+    ],
+    "3": [
+     "Zeenat",
+     "Mohit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Loss aversion",
+   "subtype": "Seeing it in negotiation [Observer]",
+   "description": "A colleague notices that people fight harder to keep a benefit than to gain an equal one. He frames proposals to show what is protected, and admits honestly what is given up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3612,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Kishore"
+    ],
+    "2": [
+     "Disha",
+     "Himani"
+    ],
+    "3": [
+     "Francis",
+     "Eshaan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Loss aversion",
+   "subtype": "Weighing both sides evenly [Response]",
+   "description": "A thoughtful person imagines a loss and a gain of the same size and asks which she would truly prefer, easing the automatic tilt toward the safe option.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3613,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "1": [
+     "Uma",
+     "Anjali"
+    ],
+    "2": [
+     "Manoj",
+     "Yogesh"
+    ],
+    "3": [
+     "Dilnaz",
+     "Keerthana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Endowment effect",
+   "subtype": "Mine is better [Actor]",
+   "description": "A young child treats a toy as far more precious once it is his and refuses a fair swap. Ownership alone raises its value in his mind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3614,
+   "plan": {
+    "1": "R9",
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Aadhya"
+    ],
+    "2": [
+     "Kishore",
+     "Elizabeth"
+    ],
+    "3": [
+     "Chetan",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Endowment effect",
+   "subtype": "Trading cards and toys [Actor]",
+   "description": "A child demands more than a card is worth because it is his own, and thinks others are cheating when they will not pay. Buyers and owners rarely agree on value.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3615,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Vishal",
+     "Tushar"
+    ],
+    "2": [
+     "Avni",
+     "Ganga"
+    ],
+    "3": [
+     "Simran",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Endowment effect",
+   "subtype": "Keeping stuff and ideas [Actor]",
+   "description": "A student refuses to sell an old bike or drop a first draft because it is his, valuing it above the market or above a better alternative.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 3616,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lakshmi",
+     "Binita"
+    ],
+    "2": [
+     "Sangeeta",
+     "Harsha"
+    ],
+    "3": [
+     "Sumit",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Endowment effect",
+   "subtype": "Sellers and buyers gap [Observer]",
+   "description": "A flatmate sees a seller price his used phone far above what buyers offer. A useful check is asking whether he would pay that price to buy it today.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 3617,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Elizabeth",
+     "Gopika"
+    ],
+    "2": [
+     "Lavanya",
+     "Vasudha"
+    ],
+    "3": [
+     "Kiran",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Status quo bias",
+   "subtype": "Preferring the usual [Actor]",
+   "description": "A child insists on the same seat, same breakfast and same route even when alternatives are fine. Change feels riskier than continuing what he knows.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3618,
+   "plan": {
+    "1": "R3",
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "1": [
+     "Aditi",
+     "Reena"
+    ],
+    "2": [
+     "Ritu",
+     "Binita"
+    ],
+    "3": [
+     "Pradeep",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Status quo bias",
+   "subtype": "Staying with the default subject [Actor]",
+   "description": "A teenager drifts into the stream everyone in the family chose, because switching feels effortful and risky. The default becomes a decision he never actually made.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3619,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "1": [
+     "Shalini",
+     "Ritu"
+    ],
+    "2": [
+     "Sudha",
+     "Sabina"
+    ],
+    "3": [
+     "Sharmila",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Status quo bias",
+   "subtype": "Not switching when better exists [Actor]",
+   "description": "A young adult stays with an overpriced plan, a weak course or a weak habit only because changing needs effort. Inertia hides as contentment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: contentment"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+STAGE: deception
+Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are about honesty, lies, manipulation, scams and influence. Write for RECOGNITION AND DEFENCE. Manipulators' lines are brief, generic and unusable as scripts. The passage centres on the target's or observer's experience and the pattern that gives it away. The application answer names a protective step (pause, verify through a separate channel, tell a trusted adult, report). Never present deception as a skill worth learning. Children's rows show honesty learning, not cunning.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 4699, "plan": {"1": "R8", "2": "R9"}, "cast": {"1": ["Diego", "Abebe"], "2": ["Uday", "Kalyani"]}, "age": "18–22", "topic": "Honesty, Deception & Influence", "subtopic": "Lottery and prize scam", "subtype": "Winning a prize never entered [Receiver]", "description": "A person receives a message that they have won a lottery, phone or car, but must first pay a fee or tax. The thrill of luck shortens thinking, and the fee is the actual theft.", "graph_context": ["related mind states: joy"]}
+{"sno": 4700, "plan": {"1": "R9", "2": "R10"}, "cast": {"1": ["Vijay", "Vikas"], "2": ["Anand", "Tanvir"]}, "age": "18–22", "topic": "Honesty, Deception & Influence", "subtopic": "Lottery and prize scam", "subtype": "Asking why a stranger would give money [Response]", "description": "A person asks what they entered, checks the sender through official channels, and never pays to receive a prize. A real prize never needs a fee first.", "graph_context": ["related mind states: anger"]}
+{"sno": 4701, "plan": {"1": "R7", "2": "R8"}, "cast": {"1": ["Manoj", "Vidya"], "2": ["Priscila", "Jana"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Digital arrest scam", "subtype": "Fake officials and threats [Receiver]", "description": "A person gets a call from someone claiming to be police, customs or a court, saying a parcel or account is linked to a crime, and is kept on video call and told to pay. Fear and secrecy are used to stop them from thinking or asking others.", "graph_context": ["related mind states: fear"]}
+{"sno": 4702, "plan": {"1": "R14", "2": "R15"}, "cast": {"1": ["Pema", "Nitin"], "2": ["Yogesh", "Deepika"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Digital arrest scam", "subtype": "Hang up, verify, tell someone [Response]", "description": "Real agencies do not arrest people over video calls or demand payment to clear their name. A person hangs up, calls the official number themselves, speaks to family, and reports to the cybercrime helpline.", "graph_context": ["related mind states: detachment"]}
+{"sno": 4703, "plan": {"1": "R5", "2": "R6"}, "cast": {"1": ["Hemant", "Shalini"], "2": ["Lalremsiami", "Aadhya"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Digital arrest scam", "subtype": "Helping a parent who is targeted [Observer]", "description": "A family member finds an older relative on a long call being told to stay silent and transfer money. Staying calm, ending the call and reporting to the cybercrime helpline is the priority, without blaming the relative.", "graph_context": ["related mind states: calm"]}
+{"sno": 4704, "plan": {"1": "R12", "2": "R13"}, "cast": {"1": ["Pankaj", "Jeevan"], "2": ["Gopika", "Hrithik"]}, "age": "13–17", "topic": "Honesty, Deception & Influence", "subtopic": "Phishing", "subtype": "Clicking under time pressure [Receiver]", "description": "A teenager or adult gets a message about a prize, a locked account or a failed delivery with a link, and taps quickly. Urgency and curiosity are the hooks, and anyone can be caught on a tired day.", "graph_context": ["this subtopic also appears at ages: 18–22, 23–26", "related mind states: curiosity, tiredness"]}
+{"sno": 4705, "plan": {"1": "R12", "2": "R13"}, "cast": {"1": ["Akash", "Shankar"], "2": ["Zeenat", "Kiran"]}, "age": "18–22", "topic": "Honesty, Deception & Influence", "subtopic": "Phishing", "subtype": "Noticing patterns for others [Observer]", "description": "A student or colleague who gets a suspicious message reports it and warns others in the group. Sharing the scam early protects those less used to digital tricks, such as older relatives.", "graph_context": ["this subtopic also appears at ages: 13–17, 23–26", "related mind states: doubt"]}
+{"sno": 4706, "plan": {"1": "R5", "2": "R6"}, "cast": {"1": ["Nandini", "Vasudha"], "2": ["Ishita", "Kiran"]}, "age": "23–26", "topic": "Honesty, Deception & Influence", "subtopic": "Phishing", "subtype": "Slowing down before a link [Response]", "description": "A person checks the sender, does not click links or share OTPs and passwords, and opens the official app or site directly. Real banks never ask for an OTP.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22"]}
+{"sno": 4707, "plan": {"1": "R1", "2": "R2"}, "cast": {"1": ["Kalyani", "Sangeeta"], "2": ["Seema", "Karthik"]}, "age": "7–12", "topic": "Honesty, Deception & Influence", "subtopic": "Peer-pressure tactics", "subtype": "Dares and taunts [Receiver]", "description": "A child is challenged with chicken, or told everyone does it, to make them join something unsafe or unkind. Fear of exclusion is strong, and the need to belong can outweigh judgement.", "graph_context": ["this subtopic also appears at ages: 13–17", "related mind states: fear, trust"]}
+{"sno": 4708, "plan": {"1": "R3", "2": "R4"}, "cast": {"1": ["Manoj", "Madhav"], "2": ["Shreya", "Farida"]}, "age": "13–17", "topic": "Honesty, Deception & Influence", "subtopic": "Peer-pressure tactics", "subtype": "Pressure from friends to prove loyalty [Receiver]", "description": "A teenager is told that a real friend would skip class, drink or share a picture. The friendship is used as leverage, and refusing feels like risking the whole group.", "graph_context": ["this subtopic also appears at ages: 7–12"]}
+
+Return exactly 20 JSON Lines and nothing else.

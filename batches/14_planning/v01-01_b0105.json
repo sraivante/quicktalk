@@ -1,0 +1,211 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6801,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Tejas",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: prioritising urgent versus important tasks [Thinking]",
+   "description": "Facing two assignments, a lab file and a club event in one week, the student sorts by deadline and marks, and drops the least valuable item.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, buffer and slack, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6802,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: weekly schedule with time blocks [Action]",
+   "description": "On Sunday the student blocks classes, study slots, meals, gym and sleep in a calendar, and keeps buffer space for surprises.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, forward planning, if-then plan, planning fallacy",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 6803,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Parveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: planning fallacy about assignment length [Pitfall]",
+   "description": "The student assumes a report will take two hours, starts late, and needs a whole night, and the same underestimate repeats every week.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, buffer and slack, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6804,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Pranav",
+     "Jyoti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: adding a buffer after past overruns [Revision]",
+   "description": "Having seen that tasks took about double, the student multiplies estimates by one and a half and starts earlier, and deadlines stop being panics.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, forward planning, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6805,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Rehana",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: batching similar tasks [Action]",
+   "description": "The student does all lab file writing on one afternoon and all reading on another, saving the effort of switching between kinds of work.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, forward planning, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6806,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Thomas",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: procrastination through phone scrolling [Pitfall]",
+   "description": "The student opens the phone for a minute before starting, loses an hour, and then rushes, feeling guilty and tired, which makes the next start harder.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, batching, buffer and slack, forward planning, if-then plan, planning fallacy",
+    "related mind states: guilt, tiredness"
+   ]
+  },
+  {
+   "sno": 6807,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Siddharth",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: implementation intention to start work [Action]",
+   "description": "The student decides that after dinner in the library, the first task is opened before any messages are checked, and puts the phone in a bag.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, buffer and slack, forward planning, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6808,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Lavanya",
+     "Lakshmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: saying no to extra commitments [Thinking]",
+   "description": "Seeing that the schedule is full, the student declines a third club role, explaining honestly, and keeps time for sleep, since overload would hurt everything.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, buffer and slack, forward planning, if-then plan",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6809,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: energy-aware scheduling [Thinking]",
+   "description": "The student notices thinking is sharpest in the morning and low after lunch, so hard problems go in the morning and routine tasks in the afternoon.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, batching, buffer and slack, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6810,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing time in a heavy semester",
+   "subtype": "Approach: weekly review and replanning [Revision]",
+   "description": "Every Sunday the student checks what was done, what slipped and why, and moves unfinished items into next week's plan, cutting one commitment if it is too full.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, batching, buffer and slack, forward planning, if-then plan, planning fallacy"
+   ]
+  }
+ ]
+}

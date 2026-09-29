@@ -1,0 +1,251 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 2060,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Stranger asks for help",
+     "subtype": "Stranger × Fear [Actor]",
+     "description": "Someone asks for money or a lift, and you hesitate because of scams. Caution is legitimate. Offer safe help such as calling authorities or buying food, and trust your instincts without becoming hard-hearted."
+    },
+    {
+     "sno": 2061,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Stranger asks for help",
+     "subtype": "Stranger × Gratitude [Receiver]",
+     "description": "A stranger helps you at a breakdown or in an emergency. Thank them warmly, get contact if appropriate, and pass the kindness on. Such moments remind us that society runs on quiet decency."
+    },
+    {
+     "sno": 422,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Stranger asks for help",
+     "subtype": "Stranger × Compassion & caution",
+     "description": "Helps within safe limits, checks the story where possible and does not give in to manipulation or guilt."
+    }
+   ],
+   "cluster_id": "C0103",
+   "cast": [
+    "Nikita",
+    "Samir",
+    "Simran"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 630,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Best friend's new friend",
+     "subtype": "Best friend × Fear of abandonment [Actor]",
+     "description": "I fear being replaced and start clinging, checking who she sits with. Wise: tell her plainly I feel left out and ask for one plan just us. Clinging and testing her loyalty makes her feel trapped."
+    },
+    {
+     "sno": 634,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Best friend's new friend",
+     "subtype": "New friend × Acceptance [Actor]",
+     "description": "I see that friends can have other friends, and being happy for her costs me little. I say hi to the new girl and suggest a game for three. This maturity shows up as generosity, not as pretending I feel nothing."
+    },
+    {
+     "sno": 638,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Best friend's new friend",
+     "subtype": "Rival × Manipulation [Receiver]",
+     "description": "Another girl whispers that my best friend now finds me boring, hoping to split us. Wise: check directly with my friend rather than trust the whisperer. Believing everything I hear lets others steer my friendships."
+    },
+    {
+     "sno": 632,
+     "age": "7–12",
+     "topic": "Situational Awareness",
+     "subtopic": "Best friend's new friend",
+     "subtype": "Best friend × Guilt [Actor]",
+     "description": "I like the new friend but feel like a traitor to my old one. I can hold both friendships, tell my old friend she still matters, and not hide things. Lying about where I was makes it worse."
+    }
+   ],
+   "cluster_id": "C0104",
+   "cast": [
+    "Jyoti",
+    "Pankaj",
+    "Darshan"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 437,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "New baby arrives",
+     "subtype": "Newborn sibling × Jealousy [Actor]",
+     "description": "The older toddler hits, whines or asks to be carried, wanting to know if there is still room for him. Wise parents reserve a little daily special time and let him help in small ways."
+    },
+    {
+     "sno": 438,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "New baby arrives",
+     "subtype": "Parent × Dependence [Actor]",
+     "description": "The older child regresses: wants a bottle, wets again, clings. It is a bid to be held like the baby. Meet it gently and briefly without mockery; it passes when he feels secure."
+    },
+    {
+     "sno": 439,
+     "age": "1–3",
+     "topic": "Situational Awareness",
+     "subtopic": "New baby arrives",
+     "subtype": "Parent × Affection [Receiver]",
+     "description": "Hearing you are still my big boy while being cuddled tells the child love has not been used up. Words plus a lap, not just praise for being a good helper, keep him secure."
+    }
+   ],
+   "cluster_id": "C0105",
+   "cast": [
+    "Swati",
+    "Nilesh",
+    "Reena"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1719,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling and inheritance",
+     "subtype": "Parent × Favouritism [Receiver]",
+     "description": "My parents openly favour a sibling in gifts, praise, or the will and I feel unseen and hurt. I say it calmly to them if safe, do not turn it into war with my sibling, and build my worth outside their approval."
+    },
+    {
+     "sno": 1720,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling and inheritance",
+     "subtype": "Sibling × Protectiveness [Actor]",
+     "description": "I feel protective of my younger sibling as they start their life and I want to steer them. I offer support and listen, and I accept that their choices are theirs; controlling them out of love is still control."
+    },
+    {
+     "sno": 1716,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling and inheritance",
+     "subtype": "Sibling × Rivalry [Actor]",
+     "description": "I feel I was always compared with my brother or sister and now we compete over family property or attention. I remember the bond behind the contest; the wise move is to speak fairly and openly, not to keep score for decades."
+    },
+    {
+     "sno": 1722,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling and inheritance",
+     "subtype": "Sibling × Grief & shared loss [Actor]",
+     "description": "After our parent's death, my sibling and I grieve differently and misread each other as cold or dramatic. I ask how they are coping, share memories together, and settle assets only after the first wave of grief has passed."
+    }
+   ],
+   "cluster_id": "C0106",
+   "cast": [
+    "Rukmini",
+    "Siddharth",
+    "Pallavi"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 998,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling conflict at home",
+     "subtype": "Sibling × Contempt [Actor]",
+     "description": "I think my sibling is stupid or lazy and say it so. Wise: notice contempt shuts down closeness and ask what I envy or fear. Harmful: cruelty in front of others."
+    },
+    {
+     "sno": 999,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling conflict at home",
+     "subtype": "Sibling × Dependence [Receiver]",
+     "description": "My younger sibling follows me everywhere and copies me, and I am annoyed and secretly flattered. Wise: give some time and boundaries, remembering I am their model. Harmful: mocking their need."
+    },
+    {
+     "sno": 997,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling conflict at home",
+     "subtype": "Sibling × Protectiveness [Actor]",
+     "description": "I fight with my younger sibling yet turn fierce when outsiders tease them. Wise: this loyalty is real; show it more kindly at home too. Harmful: bossing them and calling it protection."
+    },
+    {
+     "sno": 996,
+     "age": "13–17",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling conflict at home",
+     "subtype": "Sibling × Rivalry [Actor]",
+     "description": "We fight over the phone, room, and parental attention, each keeping score. Wise: agree on clear shared rules and ask a parent to referee once. Immature: tattling, hiding things, and escalating each round."
+    }
+   ],
+   "cluster_id": "C0107",
+   "cast": [
+    "Minakshi",
+    "Ira",
+    "Dilnaz"
+   ]
+  },
+  {
+   "type": "contrast",
+   "rows": [
+    {
+     "sno": 1299,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Love and commitment [Actor]",
+     "description": "You choose one person and its meaning goes beyond feelings. Wise: love shows in reliability, honest talk and making room for their growth. Immature: treating commitment as ownership or a performance for social media."
+    },
+    {
+     "sno": 1305,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Gratitude [Actor]",
+     "description": "You notice what they do quietly, like showing up in a hard week. Wise: say thanks specifically and reciprocate. Immature: keeping a score of favours and sulking when they are not repaid."
+    },
+    {
+     "sno": 1308,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Pressure to define the relationship [Receiver]",
+     "description": "They ask where this is going and you feel cornered. Wise: be honest about what you know and do not know, and avoid stringing them along. Immature: dodging, or saying yes to avoid a scene."
+    },
+    {
+     "sno": 1301,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Trust [Actor]",
+     "description": "You choose to believe them without proof at every moment. Wise: trust builds through small kept promises and is not blind; you can still notice red flags. Immature: testing them constantly to feel safe."
+    }
+   ],
+   "cluster_id": "C0108",
+   "cast": [
+    "Aparna",
+    "Tenzin",
+    "Vandana"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 161,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Lavanya",
+     "Kunal"
+    ],
+    "5": [
+     "Lars",
+     "Olga"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Morality",
+   "subtopic": "Early Conscience",
+   "subtype": "Understanding \"No\" & Basic Rules",
+   "description": "Responding to prohibitions and sensing that some actions are not allowed."
+  },
+  {
+   "sno": 162,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Omkar",
+     "Lalit"
+    ],
+    "5": [
+     "Gurpreet",
+     "Chinmay"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cultural",
+   "subtopic": "Cultural Immersion",
+   "subtype": "Mother Tongue, Songs & Family Rituals",
+   "description": "Absorbing language, lullabies, food and festivals as the base layer of identity."
+  },
+  {
+   "sno": 163,
+   "plan": {
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Jasleen",
+     "Arohi"
+    ],
+    "5": [
+     "Suraj",
+     "Vaibhav"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Emotional",
+   "subtopic": "Temperament",
+   "subtype": "Temperament & Sensory Sensitivity",
+   "description": "Individual baseline of reactivity, adaptability and sensory thresholds that shapes later behaviour."
+  },
+  {
+   "sno": 164,
+   "plan": {
+    "4": "R13",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Vijay",
+     "Mahima"
+    ],
+    "5": [
+     "Ayesha",
+     "Nitin"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Digital & Technology",
+   "subtopic": "Early Screen Exposure",
+   "subtype": "Screens vs. Live Interaction",
+   "description": "Learning best through live human interaction; screens as limited, co-viewed exposure."
+  },
+  {
+   "sno": 165,
+   "plan": {
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Usha",
+     "Bhupen"
+    ],
+    "5": [
+     "Rehana",
+     "Sangeeta"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Language & Narrative",
+   "subtype": "Storytelling & Sequencing",
+   "description": "Retelling events with a beginning, middle and end; describing one's day in order."
+  },
+  {
+   "sno": 166,
+   "plan": {
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "4": [
+     "Bidisha",
+     "Naveen"
+    ],
+    "5": [
+     "Vijay",
+     "Ritu"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Curiosity",
+   "subtype": "Persistent \"Why\" Questioning",
+   "description": "Asking repeated causal questions to understand how the world works."
+  },
+  {
+   "sno": 167,
+   "plan": {
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Payal",
+     "Swati"
+    ],
+    "5": [
+     "Kunal",
+     "Zainab"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Memory",
+   "subtype": "Rhymes, Prayers & Verbal Memorization",
+   "description": "Memorizing songs, poems and sayings, building recall and rhythm of language."
+  },
+  {
+   "sno": 168,
+   "plan": {
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Pranav",
+     "Chandrika"
+    ],
+    "5": [
+     "Shalini",
+     "Dhruv"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Emotional Literacy",
+   "subtype": "Naming & Explaining Feelings",
+   "description": "Saying \"I am sad because…\" instead of only acting out the feeling.",
+   "graph_context": [
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 169,
+   "plan": {
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Hemant",
+     "Kalyani"
+    ],
+    "5": [
+     "Tanvir",
+     "Elizabeth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Emotional Regulation",
+   "subtype": "Calm-Down Strategies",
+   "description": "Using breathing, a hug or a quiet corner to settle anger or fear.",
+   "graph_context": [
+    "related mind states: affection, anger, fear, calm"
+   ]
+  },
+  {
+   "sno": 170,
+   "plan": {
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Manjula",
+     "Ganga"
+    ],
+    "5": [
+     "Sachin",
+     "Tenzin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Fairness",
+   "subtype": "Turn-Taking & Fair Play",
+   "description": "Accepting \"not my turn\" and the outcome of games without cheating."
+  }
+ ]
+}

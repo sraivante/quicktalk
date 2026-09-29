@@ -1,0 +1,270 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 2862,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Rukmini"
+    ],
+    "2": [
+     "Rajni",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Workplace complaints and escalation [Expressing]",
+   "description": "A young professional raises complaints with evidence, timing and a proposed fix, using the proper channel. Venting behind others' backs feels good briefly but erodes trust, while serious harassment or safety issues should go to the designated authority.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2863,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Payal",
+     "Indu"
+    ],
+    "2": [
+     "Bhavna",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Assertive challenge without aggression [Regulating]",
+   "description": "A young adult disagrees with a person or claim directly and respectfully, focusing on the issue rather than the person. Firmness and hostility differ, and calm challenge leaves room for the other side to change.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, hostility, calm"
+   ]
+  },
+  {
+   "sno": 2864,
+   "plan": {
+    "1": "R15",
+    "2": "R1"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Yamini"
+    ],
+    "2": [
+     "Gargi",
+     "Pema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Workplace antagonism and blame [Regulating]",
+   "description": "A young professional facing blame or hostility keeps to facts, avoids public rebuttal, documents events and escalates through proper channels. Retaliatory sarcasm makes matters worse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2865,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nazia",
+     "Mohit"
+    ],
+    "2": [
+     "Yamini",
+     "Irawati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Proposing a face-saving compromise [Regulating]",
+   "description": "A young adult offers a middle path that lets each side keep dignity, such as a trial period or a split. Framing it around shared goals and acknowledging concessions usually helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2866,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Payal"
+    ],
+    "2": [
+     "Lokesh",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Recognising coercion versus persuasion [Interpreting]",
+   "description": "A young adult separates honest persuasion, which respects the right to say no, from coercion, threats or manipulation that remove choice. Pressure, isolation or secrecy are warning signs to discuss with trusted people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, loneliness, trust"
+   ]
+  },
+  {
+   "sno": 2867,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Kishore"
+    ],
+    "2": [
+     "Rafiq",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Salary, terms and workplace negotiation [Expressing]",
+   "description": "A young professional prepares evidence, states a range, listens and considers non-salary terms. Negotiating styles vary by culture and setting, and both over-aggression and silent acceptance can be costly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2868,
+   "plan": {
+    "1": "R10",
+    "2": "R11"
+   },
+   "cast": {
+    "1": [
+     "Vidya",
+     "Jatin"
+    ],
+    "2": [
+     "Sangeeta",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Admitting limits and needing help at work [Expressing]",
+   "description": "A young professional admits a gap, a mistake or a struggle to a manager or peer. Framed with a plan, it tends to build trust; risk depends on workplace culture, so choosing the listener matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2869,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Rosa",
+     "Yuki"
+    ],
+    "2": [
+     "Urmila",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Handling another person's disclosure [Interpreting]",
+   "description": "A young adult receiving a confidence listens without judgment, does not rush to fix or share it, and knows when to encourage professional help or when safety requires telling others. Confidentiality has limits when someone is at risk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2870,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Suraj",
+     "Arohi"
+    ],
+    "2": [
+     "Yash",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Reading humour across cultures and settings [Mismatch]",
+   "description": "A young professional recognises that jokes travel poorly; irony, self-deprecation or teasing that suits one culture or workplace can seem rude in another. When unsure, keep humour inclusive and watch reactions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2871,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Tushar",
+     "Gopika"
+    ],
+    "2": [
+     "Disha",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Workplace humour boundaries [Regulating]",
+   "description": "A young professional uses light humour to build rapport and avoids jokes that target identity, appearance or a colleague's mistakes. Laughter alone does not prove consent to a joke, so respond if someone looks uncomfortable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  }
+ ]
+}

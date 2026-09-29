@@ -1,0 +1,266 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  1,
+  2
+ ],
+ "rows": [
+  {
+   "sno": 4729,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Yogesh",
+     "Raghav"
+    ],
+    "2": [
+     "Sabina",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Cult recruitment",
+   "subtype": "Warm welcome to a lonely person [Receiver]",
+   "description": "A student new to a city or grieving is invited by friendly people to a group, meal or retreat and feels instant belonging. The hook is not the doctrine but the feeling of being wanted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: grief, loneliness, nostalgia"
+   ]
+  },
+  {
+   "sno": 4730,
+   "plan": {
+    "1": "R3",
+    "2": "R4"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Kiran"
+    ],
+    "2": [
+     "Swati",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Cult recruitment",
+   "subtype": "Gradual demands on time and loyalty [Receiver]",
+   "description": "Over months the group asks for more hours, money, secrecy and distance from doubters, with special knowledge on offer. Each step is small, so the total change is hard to see from inside.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 4731,
+   "plan": {
+    "1": "R14",
+    "2": "R15"
+   },
+   "cast": {
+    "1": [
+     "Salma",
+     "Kishore"
+    ],
+    "2": [
+     "Yogesh",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Cult recruitment",
+   "subtype": "Family noticing a change [Observer]",
+   "description": "Relatives see someone stop questioning, cut ties and speak only in the group's language. Anger and ultimatums usually deepen the bond to the group, while steady warmth keeps a door open.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: affection, anger"
+   ]
+  },
+  {
+   "sno": 4732,
+   "plan": {
+    "1": "R13",
+    "2": "R14"
+   },
+   "cast": {
+    "1": [
+     "Jyoti",
+     "Vijay"
+    ],
+    "2": [
+     "Irfan",
+     "Sabina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Cult recruitment",
+   "subtype": "Healthy groups allow questions [Response]",
+   "description": "A person checks whether a group welcomes doubt, lets members leave freely, is open about money, and does not punish outside friends. Faith communities of every kind can pass this test, and control-based groups cannot.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 4733,
+   "plan": {
+    "1": "R8",
+    "2": "R9"
+   },
+   "cast": {
+    "1": [
+     "Kofi",
+     "Sami"
+    ],
+    "2": [
+     "Farida",
+     "Rukmini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Radicalisation hooks",
+   "subtype": "Grievance and belonging [Receiver]",
+   "description": "A teenager who feels humiliated, unseen or angry meets online or local voices that name an enemy and offer purpose and brotherhood. The pull is meaning and belonging, more than ideas.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: grief, anger, nostalgia, humiliation"
+   ]
+  },
+  {
+   "sno": 4734,
+   "plan": {
+    "1": "R11",
+    "2": "R12"
+   },
+   "cast": {
+    "1": [
+     "Tarun",
+     "Nazia"
+    ],
+    "2": [
+     "Leela",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Radicalisation hooks",
+   "subtype": "Us versus them thinking hardening [Receiver]",
+   "description": "A young adult starts to see whole groups as less than human, drops friends who disagree, and consumes only one type of content. Recognising dehumanising language is an important warning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 4735,
+   "plan": {
+    "1": "R5",
+    "2": "R6"
+   },
+   "cast": {
+    "1": [
+     "Tanuja",
+     "Vikas"
+    ],
+    "2": [
+     "Jagdish",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Radicalisation hooks",
+   "subtype": "Friend or teacher noticing the shift [Observer]",
+   "description": "Someone close notices that a young person speaks with contempt for groups, consumes one channel, and withdraws from old friends. Listening to the pain underneath, without arguing, keeps trust and allows help from counsellors or community leaders.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: contempt, detachment, trust, hurt"
+   ]
+  },
+  {
+   "sno": 4736,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Pallavi",
+     "Charu"
+    ],
+    "2": [
+     "Vasudha",
+     "Omkar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Radicalisation hooks",
+   "subtype": "Widening the circle [Response]",
+   "description": "A person with anger seeks varied friends and sources, real activities and adults who take their grievances seriously. Purpose can be found in building something, not only in hating someone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: grief, anger"
+   ]
+  },
+  {
+   "sno": 4737,
+   "plan": {
+    "1": "R12",
+    "2": "R13"
+   },
+   "cast": {
+    "1": [
+     "Vikas",
+     "Farida"
+    ],
+    "2": [
+     "Rukmini",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Workplace manipulation and credit stealing",
+   "subtype": "Taking credit [Actor]",
+   "description": "A colleague or manager presents another person's idea as their own, driven by fear of being replaced or hunger for recognition. Some tell themselves that the team shares credit anyway.",
+   "graph_context": [
+    "related mind states: fear, resentment"
+   ]
+  },
+  {
+   "sno": 4738,
+   "plan": {
+    "1": "R6",
+    "2": "R7"
+   },
+   "cast": {
+    "1": [
+     "Ankita",
+     "Mohit"
+    ],
+    "2": [
+     "Deepika",
+     "Lavanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Workplace manipulation and credit stealing",
+   "subtype": "Seeing your work under another name [Receiver]",
+   "description": "An employee finds their idea in someone else's presentation and feels anger, doubt and fear of seeming petty. Silence can be misread as consent and repeated.",
+   "graph_context": [
+    "related mind states: anger, fear, doubt, resentment"
+   ]
+  }
+ ]
+}

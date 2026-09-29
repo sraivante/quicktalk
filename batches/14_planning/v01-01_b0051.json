@@ -1,0 +1,211 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 6261,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Tanvir",
+     "Jatin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: task decomposition into chapter-level checklists [Action]",
+   "description": "The student turns each subject into a tick-box list of chapters, past-paper sets and formula sheets, and ticks items off nightly, which makes progress visible instead of a vague feeling of being behind.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6262,
+   "plan": {
+    "1": "R5"
+   },
+   "cast": {
+    "1": [
+     "Bidisha",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: copying a topper's timetable without fit [Pitfall]",
+   "description": "A student adopts a classmate's 5 am to midnight routine from social media. It ignores her own energy pattern and school hours, so by week two she is exhausted and abandons the whole schedule.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, if-then plan, planning fallacy, seeking advice",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 6263,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Aadhya",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: past-paper practice and error log [Action]",
+   "description": "The student solves the last eight years of board papers under timed conditions and records every lost mark by cause, such as careless slip, unknown concept or slow writing, then targets the largest cause.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6264,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Keerthana",
+     "Manjula"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: planning fallacy with an optimistic timetable [Pitfall]",
+   "description": "A student schedules ten chapters into a single weekend, assuming everything will go smoothly. By Sunday only three are done, and the discouragement makes the next week's plan even looser.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, if-then plan, seeking advice",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 6265,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Ritu",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: buffer and slack planning [Revision]",
+   "description": "After missing two days to fever, the student sees the plan had no gaps. She rebuilds it with one free half-day per week and moves the missed chapters there instead of piling them on top.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, if-then plan, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 6266,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Sangeeta",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: seeking advice from a teacher [Action]",
+   "description": "Unsure how to split time, the student shows her draft plan to her Maths teacher, who points out that geometry is weighted more than expected and suggests dropping a low-value chapter revision.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, if-then plan, planning fallacy"
+   ]
+  },
+  {
+   "sno": 6267,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Naveen",
+     "Ira"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: avoidance through endless organising [Pitfall]",
+   "description": "A student spends three evenings colouring notes, buying flags and making a beautiful planner. The preparation feels active but no chapter has actually been studied, and the fear underneath stays untouched.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, copying without fit, if-then plan, planning fallacy, seeking advice",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6268,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Shankar",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: implementation intentions for study starts [Thinking]",
+   "description": "The student decides in advance: if it is 6 pm and chai is finished, then the Physics book opens at the desk. Tying the start to a fixed cue removes the daily debate about when to begin.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 6269,
+   "plan": {
+    "1": "R13"
+   },
+   "cast": {
+    "1": [
+     "Sonali",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: weekly review and adaptive replanning [Revision]",
+   "description": "Every Sunday the student compares planned and completed hours, notices that evening sessions keep slipping, and moves difficult subjects to the morning while keeping revision for the evening.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, copying without fit, if-then plan, planning fallacy, seeking advice"
+   ]
+  },
+  {
+   "sno": 6270,
+   "plan": {
+    "1": "R4"
+   },
+   "cast": {
+    "1": [
+     "Chaitanya",
+     "Samir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Fixing a failing subject",
+   "subtype": "Approach: root-cause analysis with five whys [Thinking]",
+   "description": "A student failing Maths asks why repeatedly and finds the trail leads back to weak fractions and algebra basics from Class 8, so the problem is foundations rather than the current chapter.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, analogy, avoidance and procrastination, batching, commitment device, cutting losses"
+   ]
+  }
+ ]
+}

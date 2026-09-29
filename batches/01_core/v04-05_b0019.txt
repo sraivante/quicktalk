@@ -1,0 +1,38 @@
+STAGE: core
+Variant ids in this batch: 4, 5 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 181, "plan": {"4": "R7", "5": "R8"}, "cast": {"4": ["Vandana", "Madhav"], "5": ["Tariq", "Dalia"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Fear & Imagination", "subtype": "Fear of Dark & Imagined Monsters", "description": "Separating imagination from reality and accepting comfort.", "graph_context": ["related mind states: fear"]}
+{"sno": 182, "plan": {"4": "R4", "5": "R7"}, "cast": {"4": ["Jeevan", "Mridul"], "5": ["Ganga", "Afreen"]}, "age": "4–6", "topic": "Creativity", "subtopic": "Artistic Expression", "subtype": "Drawing, Singing & Movement", "description": "Expressing ideas through crayon, rhythm and dance without fear of judgment.", "graph_context": ["this subtopic also appears at ages: 7–12", "related mind states: fear"]}
+{"sno": 183, "plan": {"4": "R7", "5": "R8"}, "cast": {"4": ["Akash", "Gopika"], "5": ["Mateo", "Diego"]}, "age": "4–6", "topic": "Ethics", "subtopic": "Care for Nature", "subtype": "Kindness to Plants & Animals", "description": "Watering plants, feeding birds and not hurting insects.", "graph_context": ["related mind states: hurt"]}
+{"sno": 184, "plan": {"4": "R8", "5": "R9"}, "cast": {"4": ["Emeka", "Nour"], "5": ["Kalyani", "Harish"]}, "age": "4–6", "topic": "Financial Literacy", "subtopic": "Money Concepts", "subtype": "Ownership, Cost & Exchange", "description": "Understanding that things cost money and belong to someone."}
+{"sno": 185, "plan": {"4": "R2", "5": "R3"}, "cast": {"4": ["Deepika", "Pranav"], "5": ["Tanvir", "Vikas"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Learning Skills", "subtype": "Note-Taking & Memorization Techniques", "description": "Using summaries, repetition, mnemonics and spaced review to retain material."}
+{"sno": 186, "plan": {"4": "R15", "5": "R1"}, "cast": {"4": ["Yogesh", "Leela"], "5": ["Jaya", "Vikas"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Learning Mindset", "subtype": "Growth Mindset", "description": "Believing ability grows with effort; replacing \"I can't\" with \"not yet\"."}
+{"sno": 187, "plan": {"4": "R3", "5": "R4"}, "cast": {"4": ["Dhruv", "Chetan"], "5": ["Jomon", "Gargi"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Reasoning", "subtype": "Deductive Puzzles & Cause-Effect Chains", "description": "Solving riddles, sequences and simple logic problems step by step.", "graph_context": ["related mind states: confusion"]}
+{"sno": 188, "plan": {"4": "R1", "5": "R2"}, "cast": {"4": ["Nitin", "Vandana"], "5": ["Gurpreet", "Aparna"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Written Expression", "subtype": "Paragraph Writing & Opinion with Reasons", "description": "Writing organized paragraphs and supporting an opinion with reasons."}
+{"sno": 189, "plan": {"4": "R5", "5": "R7"}, "cast": {"4": ["Jahnavi", "Urmila"], "5": ["Ujjwal", "Lalit"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Multilingualism", "subtype": "Switching Between Home, National & Global Languages", "description": "Using different languages appropriately across family, school and wider settings."}
+{"sno": 190, "plan": {"4": "R2", "5": "R3"}, "cast": {"4": ["Ujjwal", "Parul"], "5": ["Lalremsiami", "Samir"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Scientific Thinking", "subtype": "Prediction, Observation & Simple Experiments", "description": "Forming a guess, testing it, and noticing what actually happened."}
+
+Return exactly 20 JSON Lines and nothing else.

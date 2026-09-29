@@ -1,0 +1,171 @@
+{
+ "kind": "cluster",
+ "stage": "graph",
+ "variant_ids": [
+  1
+ ],
+ "clusters": [
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 499,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Tantrum and limits",
+     "subtype": "Parent × Anger [Actor]",
+     "description": "I am so angry about no sweets that I scream and throw myself down. My body feels too big to control. A wise grown-up stays calm, keeps the limit and helps me breathe. The immature pattern is hitting or throwing things."
+    },
+    {
+     "sno": 501,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Tantrum and limits",
+     "subtype": "Parent × Anger [Receiver]",
+     "description": "My parent shouts and threatens when I have a tantrum. I feel frightened and stop crying but I am not learning. It is not my fault that feelings are big. A calmer repair afterwards, with a hug and an explanation, helps."
+    }
+   ],
+   "cluster_id": "C0235",
+   "cast": [
+    "Seema",
+    "Chinmay",
+    "Tanvir"
+   ]
+  },
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 1370,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays trust",
+     "subtype": "Friend × Betrayal [Actor]",
+     "description": "You shared a friend's confidence, maybe for attention. Wise: own it quickly, apologise without excuses, and accept their distance. Immature: minimising or blaming their reaction."
+    },
+    {
+     "sno": 1369,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Friend betrays trust",
+     "subtype": "Friend × Betrayal by gossip [Receiver]",
+     "description": "Your secret spread and you feel exposed and furious. Wise: confront them privately, decide what trust is left, and be more careful. Immature: leaking their secrets in return."
+    }
+   ],
+   "cluster_id": "C0236",
+   "cast": [
+    "Vishal",
+    "Jeevan",
+    "Payal"
+   ]
+  },
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 1679,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Spouse × Jealousy [Actor]",
+     "description": "I feel jealous of my partner's friend and want to check their phone. Mature action is to voice my insecurity and ask for reassurance openly; the harmful pattern is surveillance and accusation, which erodes the trust I want."
+    },
+    {
+     "sno": 1680,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Partner infidelity",
+     "subtype": "Spouse × Jealousy [Receiver]",
+     "description": "My partner keeps suspecting me without proof and I feel watched and resentful. I offer honest reassurance once or twice, then set a boundary against constant checking and suggest counselling if it becomes controlling."
+    }
+   ],
+   "cluster_id": "C0237",
+   "cast": [
+    "Tenzin",
+    "Indu",
+    "Sumit"
+   ]
+  },
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 1299,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Love and commitment [Actor]",
+     "description": "You choose one person and its meaning goes beyond feelings. Wise: love shows in reliability, honest talk and making room for their growth. Immature: treating commitment as ownership or a performance for social media."
+    },
+    {
+     "sno": 1300,
+     "age": "18–22",
+     "topic": "Situational Awareness",
+     "subtopic": "Committed romantic relationship",
+     "subtype": "Partner × Love and commitment [Receiver]",
+     "description": "You feel chosen and valued, which is both warm and a little scary. Wise: receive it with honesty about your own limits and keep your own friendships. Immature: taking the devotion for granted."
+    }
+   ],
+   "cluster_id": "C0238",
+   "cast": [
+    "Mehak",
+    "Noor",
+    "Himani"
+   ]
+  },
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 1670,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Marital or partner conflict",
+     "subtype": "Spouse × Silent treatment [Actor]",
+     "description": "I go cold and stop speaking to punish my partner because saying I am hurt feels too exposed. Wise action is to say plainly that I am upset and need time; the immature pattern is using silence to control."
+    },
+    {
+     "sno": 1671,
+     "age": "23–26",
+     "topic": "Situational Awareness",
+     "subtopic": "Marital or partner conflict",
+     "subtype": "Spouse × Silent treatment [Receiver]",
+     "description": "My partner has gone silent and I feel anxious, guilty, and desperate to fix it. I invite talk gently, do not grovel or guess my crime, and say that silence as punishment hurts us both and we need to talk."
+    }
+   ],
+   "cluster_id": "C0239",
+   "cast": [
+    "Chandrika",
+    "Tushar",
+    "Anirban"
+   ]
+  },
+  {
+   "type": "view_pair",
+   "rows": [
+    {
+     "sno": 517,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Anger [Actor]",
+     "description": "My sibling broke my drawing and I hit back. I feel the anger in my whole body. A wise child says \"you broke it, I am mad\" and gets help. Hitting brings a punishment and my sibling then feels angry too."
+    },
+    {
+     "sno": 518,
+     "age": "4–6",
+     "topic": "Situational Awareness",
+     "subtopic": "Sibling fight",
+     "subtype": "Sibling × Anger [Receiver]",
+     "description": "My older sibling shouts and pushes me and I feel tiny and helpless. It is not my fault, and I should tell a parent when I am hurt. A wise parent stops the hurting and listens to both sides."
+    }
+   ],
+   "cluster_id": "C0240",
+   "cast": [
+    "Kalyani",
+    "Chinmay",
+    "Sonali"
+   ]
+  }
+ ]
+}

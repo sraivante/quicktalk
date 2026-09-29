@@ -1,0 +1,221 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 1678,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Minakshi",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Guilt [Actor]",
+   "description": "I was unfaithful and I am torn between shame, self-justification, and fear of being found out. The honest path is to face what I did and the harm it caused; the harmful path is hiding, blaming my partner, or asking them to soothe me.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, jealousy, temptation",
+    "related mind states: fear, shame, guilt"
+   ]
+  },
+  {
+   "sno": 1679,
+   "plan": {
+    "1": "R11"
+   },
+   "cast": {
+    "1": [
+     "Harish",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Jealousy [Actor]",
+   "description": "I feel jealous of my partner's friend and want to check their phone. Mature action is to voice my insecurity and ask for reassurance openly; the harmful pattern is surveillance and accusation, which erodes the trust I want.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, guilt, temptation",
+    "paired view exists: Receiver (S1680)",
+    "related mind states: jealousy, trust, insecurity"
+   ]
+  },
+  {
+   "sno": 1680,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Jahnavi",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Jealousy [Receiver]",
+   "description": "My partner keeps suspecting me without proof and I feel watched and resentful. I offer honest reassurance once or twice, then set a boundary against constant checking and suggest counselling if it becomes controlling.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, guilt, temptation",
+    "paired view exists: Actor (S1679)",
+    "related mind states: jealousy, resentment"
+   ]
+  },
+  {
+   "sno": 1681,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Deceit [Actor]",
+   "description": "I hide messages or lie about where I was, telling myself it protects my partner from pain. Concealment slowly deadens a bond; the wise step is to end the secrecy and choose honesty, even at a cost.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, guilt, jealousy, temptation",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1682,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Nilesh",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Repair after betrayal [Receiver]",
+   "description": "My partner wants to rebuild after their affair and I feel hope tangled with anger. I can set conditions like full honesty and time, and I am free to decide the marriage cannot be saved; neither choice is weakness.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, guilt, jealousy, temptation",
+    "paired view exists: Actor (S1683)",
+    "related mind states: anger, hope"
+   ]
+  },
+  {
+   "sno": 1683,
+   "plan": {
+    "1": "R7"
+   },
+   "cast": {
+    "1": [
+     "Dolma",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Spouse × Repair after betrayal [Actor]",
+   "description": "I broke my partner's trust and want the marriage to survive. I accept their anger, answer questions honestly without defensiveness, and let trust return at their pace, not mine; asking to be forgiven quickly repeats the harm.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, guilt, jealousy, temptation",
+    "paired view exists: Receiver (S1677)",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 1684,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Abhinav",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner infidelity",
+   "subtype": "Crush at work × Temptation [Actor]",
+   "description": "I feel a spark toward a colleague while married and enjoy the attention. Attraction is human; wisdom is to see what the spark is answering in my life, keep distance, and bring the gap to my partner before it becomes a secret.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, guilt, jealousy"
+   ]
+  },
+  {
+   "sno": 1685,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Nirmala",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Argument [Actor]",
+   "description": "My partner and I fight about spending and I feel controlled or judged. Money often carries fear and values, so I ask what security means to each of us and agree on a shared budget with room for personal spending.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, deceit, dependence, indebtedness, resentment",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1686,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Samir",
+     "Shankar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Resentment [Actor]",
+   "description": "I quietly resent my partner over who earns more or who sends money home to parents. I say it aloud kindly, treat it as a shared decision, and avoid keeping a silent ledger of grievances.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, deceit, dependence, indebtedness",
+    "related mind states: grief, resentment"
+   ]
+  },
+  {
+   "sno": 1687,
+   "plan": {
+    "1": "R15"
+   },
+   "cast": {
+    "1": [
+     "Nitin",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Deceit [Actor]",
+   "description": "I hide a loan, purchase, or savings from my partner, fearing their reaction. Hidden money damages trust more than the money itself; disclosing early with a plan is the mature choice.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, dependence, indebtedness, resentment",
+    "related mind states: fear, trust"
+   ]
+  }
+ ]
+}

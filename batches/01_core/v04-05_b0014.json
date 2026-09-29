@@ -1,0 +1,235 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 131,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Kishore",
+     "Irawati"
+    ],
+    "5": [
+     "Payal",
+     "Anand"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Critical Thinking",
+   "subtopic": "Intellectual Mastery",
+   "subtype": "Intellectual Rigor & Epistemic Agility",
+   "description": "Combining deep domain expertise with the willingness to unlearn and adapt when foundational paradigms shift."
+  },
+  {
+   "sno": 132,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Pooja",
+     "Jyoti"
+    ],
+    "5": [
+     "Samir",
+     "Pranav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Workplace Communication",
+   "description": "Mastering professional tone, email etiquette, and effective meeting participation."
+  },
+  {
+   "sno": 133,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Sudha",
+     "Ujjwal"
+    ],
+    "5": [
+     "Aditi",
+     "Pranav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Navigating Office Politics",
+   "description": "Understanding unwritten organizational rules, hierarchies, and professional dynamics."
+  },
+  {
+   "sno": 134,
+   "plan": {
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "4": [
+     "Indu",
+     "Nazia"
+    ],
+    "5": [
+     "Shreya",
+     "Vasudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Work-Life Integration",
+   "description": "Establishing boundaries to prevent burnout while transitioning from student life to full-time work."
+  },
+  {
+   "sno": 135,
+   "plan": {
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "4": [
+     "Santosh",
+     "Bhupen"
+    ],
+    "5": [
+     "Uday",
+     "Usha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Strategic Planning",
+   "description": "Mapping out multi-year goals and breaking them down into actionable, sequential steps."
+  },
+  {
+   "sno": 136,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Chetan",
+     "Tarun"
+    ],
+    "5": [
+     "Kavitha",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Risk Assessment",
+   "description": "Accurately evaluating the true probability and potential impact of future events before acting."
+  },
+  {
+   "sno": 137,
+   "plan": {
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "4": [
+     "Ishita",
+     "Bhavna"
+    ],
+    "5": [
+     "Kaito",
+     "Tariq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Delayed Gratification",
+   "description": "Willingly sacrificing short-term comfort or resources for the sake of a larger long-term gain."
+  },
+  {
+   "sno": 138,
+   "plan": {
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "4": [
+     "Alka",
+     "Ritu"
+    ],
+    "5": [
+     "Gargi",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Creativity",
+   "subtopic": "Strategic Innovation",
+   "subtype": "Applied Innovation & Systemic Design",
+   "description": "Transforming novel ideas into scalable, real-world operational models, artistic contributions, or technical systems."
+  },
+  {
+   "sno": 139,
+   "plan": {
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "4": [
+     "Keerthana",
+     "Santosh"
+    ],
+    "5": [
+     "Sharmila",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Awe",
+   "description": "Experiencing profound wonder at the vastness of the world, nature, or life itself.",
+   "graph_context": [
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 140,
+   "plan": {
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "4": [
+     "Avni",
+     "Lavanya"
+    ],
+    "5": [
+     "Ayesha",
+     "Akash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Contentment",
+   "description": "Finding sustainable, quiet satisfaction with one's current reality and life choices.",
+   "graph_context": [
+    "related mind states: contentment"
+   ]
+  }
+ ]
+}

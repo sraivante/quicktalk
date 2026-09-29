@@ -1,0 +1,218 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  1
+ ],
+ "rows": [
+  {
+   "sno": 968,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Nikita",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "I feel treated like a small child and stew in silent anger. Wise: say calmly what the rule costs me and offer a trial of trust. Immature: sulking, slamming doors, or punishing them by dropping my studies.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, fear, gratitude, manipulation",
+    "related mind states: anger, calm, resentment, trust"
+   ]
+  },
+  {
+   "sno": 969,
+   "plan": {
+    "1": "R12"
+   },
+   "cast": {
+    "1": [
+     "Asif",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Contempt [Actor]",
+   "description": "I start thinking my parents are backward and clueless, so their words stop counting. Wise: separate their fear from their outdated methods and still hear the concern. Immature: sneering and treating them as fools.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, fear, gratitude, manipulation, protectiveness",
+    "related mind states: contempt, fear"
+   ]
+  },
+  {
+   "sno": 970,
+   "plan": {
+    "1": "R6"
+   },
+   "cast": {
+    "1": [
+     "Trisha",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Fear [Receiver]",
+   "description": "I am the parent's fear made visible: they picture accidents, bad company, gossip. A teen in this spot should see that rules often come from love plus anxiety, and ask what exactly they fear so it can be addressed.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, gratitude, manipulation, protectiveness",
+    "related mind states: affection, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 971,
+   "plan": {
+    "1": "R9"
+   },
+   "cast": {
+    "1": [
+     "Noor",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Trust [Actor]",
+   "description": "I follow a rule I dislike because they have earned my trust before, and I say my disagreement openly. Wise: comply, then negotiate for later. Risk: swallowing every wish just to avoid conflict.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, fear, gratitude, manipulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 972,
+   "plan": {
+    "1": "R1"
+   },
+   "cast": {
+    "1": [
+     "Chandrika",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Manipulation [Actor]",
+   "description": "I fake tears, praise, or emotional blackmail to get a yes. It works sometimes and leaves me feeling slippery. Wise: notice the habit and make an honest case instead, since trust is what buys freedom.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, fear, gratitude, protectiveness",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 973,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Jaya",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Worry [Receiver]",
+   "description": "As the parent I clamp down after seeing my teen change, and I feel shut out. A teen can help by sharing plans and whereabouts freely, which lowers the parent's need to control and grows real autonomy.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, gratitude, manipulation, protectiveness",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 974,
+   "plan": {
+    "1": "R10"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent sets a restriction",
+   "subtype": "Parent × Protectiveness [Receiver]",
+   "description": "As the teen whose phone is monitored, I feel watched. Wise: ask for a clear reason and a path to more trust, and share enough openly that constant checking is not needed. Harmful: secret accounts.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, deceit, fear, gratitude, manipulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 975,
+   "plan": {
+    "1": "R2"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Parent × Shame [Actor]",
+   "description": "When told to be like the topper cousin, I feel small and defective, as if love depends on marks. Wise: name the hurt to a trusted adult, keep my own goals. Harmful: believing the comparison as truth about my worth.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, envy, indifference, resentment",
+    "related mind states: affection, shame, trust, hurt"
+   ]
+  },
+  {
+   "sno": 976,
+   "plan": {
+    "1": "R3"
+   },
+   "cast": {
+    "1": [
+     "Usha",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "I resent my parent and quietly dislike the cousin who did nothing wrong. Wise: tell the parent how comparison lands and ask for support with my own targets. Immature: sabotaging my work to prove them wrong.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, envy, indifference, shame",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 977,
+   "plan": {
+    "1": "R14"
+   },
+   "cast": {
+    "1": [
+     "Ishita",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Parent × Pressure [Receiver]",
+   "description": "I am compared aloud at family gatherings and feel judged in front of everyone. It is not my fault, and their pride and anxiety are the source. Wise: ask privately to stop and show effort on my own terms.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, indifference, resentment, shame",
+    "related mind states: anxiety, pride"
+   ]
+  }
+ ]
+}

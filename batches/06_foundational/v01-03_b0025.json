@@ -1,0 +1,315 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5682,
+   "plan": {
+    "1": "R5",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Kishore"
+    ],
+    "2": [
+     "Leela",
+     "Saurabh"
+    ],
+    "3": [
+     "Felix",
+     "Bao"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Deindividuation",
+   "subtype": "Anonymous in a crowd [Actor]",
+   "description": "A child in a rowdy group of classmates joins in teasing they would never do alone, feeling nobody will single them out. The group masks the individual, and inhibition drops.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5683,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "1": [
+     "Amandeep",
+     "Disha"
+    ],
+    "2": [
+     "Tomas",
+     "Oskar"
+    ],
+    "3": [
+     "Darshan",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Deindividuation",
+   "subtype": "Behind a screen or in a mob [Actor]",
+   "description": "A teenager in an anonymous group chat or comment section posts cruelty or joins a pile-on because the target feels distant and everyone is doing it. Lowered self-awareness makes actions feel less theirs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5684,
+   "plan": {
+    "1": "R6",
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "1": [
+     "Varun",
+     "Madhav"
+    ],
+    "2": [
+     "Bhupen",
+     "Ankita"
+    ],
+    "3": [
+     "Zanele",
+     "Olga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Deindividuation",
+   "subtype": "Victim of the crowd [Receiver]",
+   "description": "A student mobbed by dozens of messages or a hostile gathering feels overwhelmed, since there is no single person to reason with. The sheer number and anonymity of the crowd make the harm heavier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hostility, detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 5685,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Damini",
+     "Disha"
+    ],
+    "2": [
+     "Irfan",
+     "Kavitha"
+    ],
+    "3": [
+     "Jagdish",
+     "Anand"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Deindividuation",
+   "subtype": "Noticing the slide in a group [Observer]",
+   "description": "A young adult at a celebration or protest sees the mood shift from festive to reckless and realises people are acting in ways they would later regret. Seeing it early lets them leave or calm others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: calm, regret"
+   ]
+  },
+  {
+   "sno": 5686,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Dolma"
+    ],
+    "2": [
+     "Hansa",
+     "Ira"
+    ],
+    "3": [
+     "Sachin",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Deindividuation",
+   "subtype": "Keeping the self in the crowd [Response]",
+   "description": "A young adult reminds themselves that their name and conscience travel with them, uses their own words, and steps back if the group starts hurting someone. Being accountable even when unseen is a mark of character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5687,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "1": [
+     "Reena",
+     "Bhavna"
+    ],
+    "2": [
+     "Pankaj",
+     "Gautam"
+    ],
+    "3": [
+     "Anand",
+     "Vikas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "How power changes people",
+   "subtype": "Small authority, big head [Actor]",
+   "description": "A teenager made class monitor or team captain starts bossing peers, enjoying being obeyed and dismissing complaints. Power narrows attention to one's own goals and reduces care about others' views.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5688,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "1": [
+     "Maria",
+     "Anand"
+    ],
+    "2": [
+     "Anirban",
+     "Chandrika"
+    ],
+    "3": [
+     "Manoj",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "How power changes people",
+   "subtype": "Empathy fading with rank [Actor]",
+   "description": "A student leader or new intern with some authority becomes less attentive to how juniors feel and quicker to bend rules for themselves. They rarely notice it, believing they still are the same person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: interest, empathy"
+   ]
+  },
+  {
+   "sno": 5689,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "1": [
+     "Pooja",
+     "Chaitanya"
+    ],
+    "2": [
+     "Raghav",
+     "Jeevan"
+    ],
+    "3": [
+     "Kashish",
+     "Sangeeta"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "How power changes people",
+   "subtype": "Living under a powerful boss [Receiver]",
+   "description": "A junior employee learns to read a manager's moods, hide their views and say only what pleases, and feels smaller in the process. Powerlessness makes people watchful and quiet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5690,
+   "plan": {
+    "1": "R3",
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "1": [
+     "Sarika",
+     "Hrithik"
+    ],
+    "2": [
+     "Devika",
+     "Pradeep"
+    ],
+    "3": [
+     "Jasleen",
+     "Dilnaz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "How power changes people",
+   "subtype": "Watching a colleague change [Observer]",
+   "description": "A peer sees a friend become a manager and gradually stop listening, interrupt, and expect special treatment. They gently name the change instead of gossiping, while acknowledging how pressure also shapes behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5691,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "1": [
+     "Hafsa",
+     "Tarun"
+    ],
+    "2": [
+     "Dolma",
+     "Deepak"
+    ],
+    "3": [
+     "Shankar",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "How power changes people",
+   "subtype": "Humility safeguards [Response]",
+   "description": "A young leader invites honest feedback, keeps friends who will disagree, asks what their decision costs people below them, and shares credit. Deliberately staying curious about others limits the drift toward self-importance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: curiosity, trust"
+   ]
+  }
+ ]
+}

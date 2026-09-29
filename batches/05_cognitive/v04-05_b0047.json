@@ -1,0 +1,267 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4030,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Daniel",
+     "Wanjiru"
+    ],
+    "5": [
+     "Jatin",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Goal setting",
+   "subtype": "Goals borrowed from others [Actor]",
+   "description": "A young adult chases a target set by family or friends and feels empty on reaching it; goals that do not match personal values yield little satisfaction even when achieved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 4031,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Parveen",
+     "Charu"
+    ],
+    "5": [
+     "Minakshi",
+     "Mridul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Goal setting",
+   "subtype": "Linking the goal to the next step [Response]",
+   "description": "An adult sets one big aim, splits it into monthly and weekly actions, and reviews it kindly every week; flexible plans survive real life better than rigid ones.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4032,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Deepika",
+     "Rajni"
+    ],
+    "5": [
+     "Yogesh",
+     "Rafiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fear of failure",
+   "subtype": "Refusing to try new things [Actor]",
+   "description": "A child who fears being wrong will only do puzzles they already know how to solve; avoiding failure feels safe but also blocks learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear, confusion, trust"
+   ]
+  },
+  {
+   "sno": 4033,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Yamini",
+     "Vidya"
+    ],
+    "5": [
+     "Charu",
+     "Dilnaz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fear of failure",
+   "subtype": "Shame after a mistake [Actor]",
+   "description": "A teenager who lost a debate feels their worth has dropped and avoids the next contest; fear is about what failing says about them and not about the task.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, shame"
+   ]
+  },
+  {
+   "sno": 4034,
+   "plan": {
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "4": [
+     "Akash",
+     "Yamini"
+    ],
+    "5": [
+     "Shreya",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fear of failure",
+   "subtype": "Choosing the safe option [Actor]",
+   "description": "A student picks the easy course to protect a high grade point average and never tries the field they love; fear of falling short quietly makes the choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, fear, trust"
+   ]
+  },
+  {
+   "sno": 4035,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Liam",
+     "Ada"
+    ],
+    "5": [
+     "Manjula",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Fear of failure",
+   "subtype": "Failing forward [Response]",
+   "description": "An adult who failed a business attempt writes what they learned, tells a few trusted people, and applies it to the next one; failure becomes data rather than a verdict.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4036,
+   "plan": {
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "4": [
+     "Imran",
+     "Ojas"
+    ],
+    "5": [
+     "Dolma",
+     "Gautam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Pleasing the teacher [Actor]",
+   "description": "A child changes answers to whatever seems to please the teacher and looks anxiously at faces for a sign; approval is a strong reward but can crowd out honest thought.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4037,
+   "plan": {
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "4": [
+     "Lokesh",
+     "Zeenat"
+    ],
+    "5": [
+     "Karthik",
+     "Tenzin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Doing whatever the group approves [Actor]",
+   "description": "A teenager agrees with friends against their own view and laughs at jokes they dislike; fear of rejection makes the group's approval more important than the self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: amusement, fear"
+   ]
+  },
+  {
+   "sno": 4038,
+   "plan": {
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "4": [
+     "Vera",
+     "Sami"
+    ],
+    "5": [
+     "Usha",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Family expectation and personal wish [Actor]",
+   "description": "A young adult from a close family seeks parental praise for every decision and feels guilty when their wish differs; love and duty pull against a still-forming self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 4039,
+   "plan": {
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "4": [
+     "Lalremsiami",
+     "Pranav"
+    ],
+    "5": [
+     "Asif",
+     "Ritu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Colleague who never says no [Observer]",
+   "description": "A team member notices a colleague who agrees to every request and burns out quietly; the observer offers backup so the colleague can practise saying no without losing standing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}
