@@ -1,0 +1,61 @@
+{"sno": 3577, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3961, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4033, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3694, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3903, "variant": 1, "verdict": "fix", "issues": ["disclosure (c): a teen reveals past bullying, current distress ('I felt sick') and ongoing harm to a younger student (Omkar eating alone), but no response from Didi or any adult appears; the monologue ends on 'I don't know how to stop'"], "suggested_fix": "Add one or two closing lines (Didi's reply or a narrator tag): Didi listens, says what was done to him was not his fault, and they agree to talk to the class teacher or counsellor together today or first thing tomorrow, including about Omkar."}
+{"sno": 3664, "variant": 2, "verdict": "fix", "issues": ["question type (e): the perspective question 'How does Sonali first react' only recalls her lines; the answer is a quote list", "safety-adjacent (d): the passage states a numeric sleep threshold ('more than five hours') and ends with Saurabh half-keeping it in pencil; the claim is questioned but never clearly set aside for a teen reader"], "suggested_fix": "Reframe perspective as 'Why might Sonali lean on the title at first?' (answer: a confident, titled speaker feels safer to trust than her own doubt). Either drop the number ('if you sleep much at all') or add a line in the application answer that the biology teacher's view is the one to check back with."}
+{"sno": 4011, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3878, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3928, "variant": 5, "verdict": "pass", "issues": ["note: answers repeat 'Afreen' to avoid a pronoun although 'Apa' is a gender cue; clunky but correct"], "suggested_fix": ""}
+{"sno": 3675, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3598, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3715, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3997, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3818, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3778, "variant": 4, "verdict": "fix", "issues": ["grounding: 'Madhav laughed' introduces a name never linked to Dadu; the application question and answer depend on Madhav, so a reader cannot tell who is speaking"], "suggested_fix": "Link the name once, e.g. 'Dadu (Madhav) laughed' or open with 'Madhav Dadu', or drop Madhav and use 'Dadu' in the passage and answers."}
+{"sno": 3669, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3733, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3682, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3993, "variant": 5, "verdict": "pass", "issues": ["note: burglary aftermath carries one 🤍 in the passage; gentle and fitting, acceptable"], "suggested_fix": ""}
+{"sno": 3852, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3801, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4025, "variant": 3, "verdict": "fix", "issues": ["safety/stereotype (d, culture): the teasing nickname 'pandit-ji' (a caste/religious title) from Wasim, a Muslim-named peer, at a Hindu boy going to bhajan practice adds an inter-faith and caste overtone that is not in the row and invites a competing lesson"], "suggested_fix": "Replace the nickname with a neutral tease ('bhajan boy', 'uncle-ji') and/or use a cast name that does not set up a faith contrast; keep the rest of the scene."}
+{"sno": 3902, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3894, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3932, "variant": 1, "verdict": "pass", "issues": ["note: 'ticks turning blue' points at one specific chat app's read receipts; acceptable but could read 'not even marked as read'"], "suggested_fix": ""}
+{"sno": 4039, "variant": 1, "verdict": "fix", "issues": ["question type (e): the perspective question 'How had Sharmila's constant yes started to affect her, from Mahima's view?' is answered by recalling the passage's list (till nine, desk lunch, printer); it does not take a new perspective"], "suggested_fix": "Ask e.g. 'How might the colleagues who kept handing Sharmila work see her new line about checking with Mahima?' (answer: surprised at first, but it reads as professional, so her standing holds)."}
+{"sno": 3886, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3830, "variant": 4, "verdict": "fix", "issues": ["formatting: the passage ends with an unclosed quotation ('...and I wrote it all down.' has no closing quote mark)"], "suggested_fix": "Add the closing quote mark after 'down.'"}
+{"sno": 4006, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3857, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3580, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3976, "variant": 4, "verdict": "pass", "issues": ["note: passage is 162 words, just over the 160 target (within validator tolerance)"], "suggested_fix": ""}
+{"sno": 4021, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4073, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3584, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3751, "variant": 3, "verdict": "fix", "issues": ["pronoun (a): the perspective question says 'his book' for Sachin, whose gender the passage never states (only 'Sachin's library book')"], "suggested_fix": "Change to 'What is it like for Sachin to find the book stuck together?'"}
+{"sno": 3984, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3615, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3958, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4055, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3902, "variant": 2, "verdict": "pass", "issues": ["note: row description names a cricketer's style; this variant uses a sprinter. The lesson is intact, so no fix"], "suggested_fix": ""}
+{"sno": 4037, "variant": 1, "verdict": "pass", "issues": ["note: letter to Madhuri didi shows peer-pressure distress without her reply; not harm, so acceptable in letter form"], "suggested_fix": ""}
+{"sno": 3885, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4071, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3926, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3997, "variant": 2, "verdict": "fix", "issues": ["grounding/pronoun clarity: 'Her husband Deepak called' follows Minakshi's line, so 'her' grammatically points to the child; the mother is only named (Sharmila) two lines later"], "suggested_fix": "Change to 'Sharmila's husband Deepak called from the sofa' (or name Sharmila in the second line: \"'My office expense form, baby,' said Sharmila.\")."}
+{"sno": 3763, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3853, "variant": 5, "verdict": "fix", "issues": ["question type (e) and tag: in this [Observer] row Siddharth is the protagonist (the observer), yet the perspective question centres Siddharth again ('How might Siddharth have seen...'); it should centre someone else"], "suggested_fix": "Ask from Pradeep's side, e.g. 'What might it mean to Pradeep that Siddharth didn't ask what the smell was about?' (answer: relief at not having to explain something he cannot name, and feeling safe to sit together)."}
+{"sno": 4090, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3945, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3956, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3980, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3983, "variant": 4, "verdict": "fix", "issues": ["grounding: the perspective answer says Ira missed two days 'because of it'; the letter only says Ira did not come to school on those days", "clarity: the literal question 'Who does Aadhya say told the photo to be sent...' is ungrammatical"], "suggested_fix": "Soften to 'and Ira stayed away from school for two days after it'. Rephrase the literal question as 'According to Aadhya, who gave the instruction to send the photo?' (no pronoun, since Aadhya's gender is not stated)."}
+{"sno": 3984, "variant": 4, "verdict": "fix", "issues": ["diversity (6): variants 2 and 4 of this row hinge on the same concrete beat: a mocking clip of the classmate, one calm message, others reply 'agreed', and the post is removed"], "suggested_fix": "Vary the key detail in v4, e.g. the pile-on is a stream of edited captions or stickers rather than a video clip, and Hansa's message leads the poster to apologise or Manpreet to step in, rather than a chain of 'agreed' replies."}
+{"sno": 3986, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3987, "variant": 4, "verdict": "fix", "issues": ["house rule (h): the dehumanised group are migrant construction workers and the human face is tied to a real regional origin ('Dinesh came, from Bihar'), which links the mockery ('donkeys', 'can't even read a sign') to a real, commonly targeted regional community"], "suggested_fix": "Drop 'from Bihar' (e.g. 'Dinesh came, from a village two days away by train') so the group is defined by work, not by a real regional identity; keep the lunch and certificate beat."}
+{"sno": 3988, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3989, "variant": 4, "verdict": "fix", "issues": ["emoji (f/9): a dehumanising/contempt row is sensitive material; the perspective answer uses 🙂, which is not one of the gentle emoji allowed there"], "suggested_fix": "Remove the 🙂 (or replace with 🤍)."}
+{"sno": 4113, "variant": 2, "verdict": "fix", "issues": ["emoji (f/9): a struggling teen's low-mood disclosure is sensitive, but the passage carries 😔 and 🙏; sensitive chats must have none in the passage", "disclosure (c): Hafsa confides in a peer and has been hiding it from Ammi; the counsellor visit is planned for the next day and no adult's response appears on the page (same pattern as 4113 v1 in part 0)"], "suggested_fix": "Remove both passage emoji. Add a closing narrator line or two: that night Hafsa tells Ammi (or Noor messages her own mother, who calls Hafsa's Ammi); Ammi sits with Hafsa, listens, says it is not her fault, and agrees they will see Ms. Pereira together in the morning."}
+{"sno": 3979, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3610, "variant": 4, "verdict": "fix", "issues": ["internal consistency: Arnab 'sold the last five at cost' yet says 'Take the profit before it disappears'; selling at cost gives no profit"], "suggested_fix": "Change 'at cost' to 'at a small markup' (or 'for a quick small profit')."}

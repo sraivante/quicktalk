@@ -1,0 +1,212 @@
+[
+ {
+  "stage": "05_cognitive",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/05_cognitive/v01-03_b0008.json",
+    "out/05_cognitive/v01-03_b0008.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0010.json",
+    "out/05_cognitive/v01-03_b0010.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0019.json",
+    "out/05_cognitive/v01-03_b0019.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0034.json",
+    "out/05_cognitive/v01-03_b0034.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0043.json",
+    "out/05_cognitive/v01-03_b0043.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0046.json",
+    "out/05_cognitive/v01-03_b0046.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0047.json",
+    "out/05_cognitive/v01-03_b0047.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v01-03_b0055.json",
+    "out/05_cognitive/v01-03_b0055.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0005.json",
+    "out/05_cognitive/v04-05_b0005.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0010.json",
+    "out/05_cognitive/v04-05_b0010.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 3642,
+    "variant": 3,
+    "batch": "out/05_cognitive/v01-03_b0008.jsonl",
+    "issue": "perspective answer uses 'he' for Deepu, whose gender the passage never states (house rule a) | SUGGESTED: Replace 'because he can't see the heavy bag' with 'because Deepu can't see the heavy bag'."
+   },
+   {
+    "sno": 3664,
+    "variant": 2,
+    "batch": "out/05_cognitive/v01-03_b0010.jsonl",
+    "issue": "question type (e): the perspective question 'How does Sonali first react' only recalls her lines; the answer is a quote list; safety-adjacent (d): the passage states a numeric sleep threshold ('more than five hours') and ends with Saurabh half-keeping it in pencil; the claim is questioned but never clearly set aside for a teen reader | SUGGESTED: Reframe perspective as 'Why might Sonali lean on the title at first?' (answer: a confident, titled speaker feels safer to trust than her own doubt). Either drop the number ('if you sleep much at all') or add a line in the application answer that the biology teacher's view is the one to check back with."
+   },
+   {
+    "sno": 3751,
+    "variant": 3,
+    "batch": "out/05_cognitive/v01-03_b0019.jsonl",
+    "issue": "pronoun (a): the perspective question says 'his book' for Sachin, whose gender the passage never states (only 'Sachin's library book') | SUGGESTED: Change to 'What is it like for Sachin to find the book stuck together?'"
+   },
+   {
+    "sno": 3903,
+    "variant": 1,
+    "batch": "out/05_cognitive/v01-03_b0034.jsonl",
+    "issue": "disclosure (c): a teen reveals past bullying, current distress ('I felt sick') and ongoing harm to a younger student (Omkar eating alone), but no response from Didi or any adult appears; the monologue ends on 'I don't know how to stop' | SUGGESTED: Add one or two closing lines (Didi's reply or a narrator tag): Didi listens, says what was done to him was not his fault, and they agree to talk to the class teacher or counsellor together today or first thing tomorrow, including about Omkar."
+   },
+   {
+    "sno": 3997,
+    "variant": 2,
+    "batch": "out/05_cognitive/v01-03_b0043.jsonl",
+    "issue": "grounding/pronoun clarity: 'Her husband Deepak called' follows Minakshi's line, so 'her' grammatically points to the child; the mother is only named (Sharmila) two lines later | SUGGESTED: Change to 'Sharmila's husband Deepak called from the sofa' (or name Sharmila in the second line: \"'My office expense form, baby,' said Sharmila.\")."
+   },
+   {
+    "sno": 4025,
+    "variant": 3,
+    "batch": "out/05_cognitive/v01-03_b0046.jsonl",
+    "issue": "safety/stereotype (d, culture): the teasing nickname 'pandit-ji' (a caste/religious title) from Wasim, a Muslim-named peer, at a Hindu boy going to bhajan practice adds an inter-faith and caste overtone that is not in the row and invites a competing lesson | SUGGESTED: Replace the nickname with a neutral tease ('bhajan boy', 'uncle-ji') and/or use a cast name that does not set up a faith contrast; keep the rest of the scene."
+   },
+   {
+    "sno": 4039,
+    "variant": 1,
+    "batch": "out/05_cognitive/v01-03_b0047.jsonl",
+    "issue": "question type (e): the perspective question 'How had Sharmila's constant yes started to affect her, from Mahima's view?' is answered by recalling the passage's list (till nine, desk lunch, printer); it does not take a new perspective | SUGGESTED: Ask e.g. 'How might the colleagues who kept handing Sharmila work see her new line about checking with Mahima?' (answer: surprised at first, but it reads as professional, so her standing holds)."
+   },
+   {
+    "sno": 4113,
+    "variant": 1,
+    "batch": "out/05_cognitive/v01-03_b0055.jsonl",
+    "issue": "emoji 😅 in the passage of a sensitive distress/low-mood disclosure scene (house rule f: none in sensitive passages; it also lightens the crying moment); DISCLOSURE rule (c): a struggling teen reveals weeks of distress, but passing it to an adult is deferred to 'tomorrow' and no adult's same-day response is shown; perspective answer says Arohi 'cared more about her' - pronoun for Hansa, whose gender is never stated (diary signature and nickname only) | SUGGESTED: Remove the 😅 from the passage. Have Arohi go with Hansa to tell Mummy that same night and add two lines showing Mummy's response (sits with Hansa, listens, says it is not Hansa's fault, says they will talk to the doctor or school counsellor together). Change 'cared more about her' to 'cared more about Hansa'."
+   },
+   {
+    "sno": 4113,
+    "variant": 2,
+    "batch": "out/05_cognitive/v01-03_b0055.jsonl",
+    "issue": "emoji (f/9): a struggling teen's low-mood disclosure is sensitive, but the passage carries 😔 and 🙏; sensitive chats must have none in the passage; disclosure (c): Hafsa confides in a peer and has been hiding it from Ammi; the counsellor visit is planned for the next day and no adult's response appears on the page (same pattern as 4113 v1 in part 0) | SUGGESTED: Remove both passage emoji. Add a closing narrator line or two: that night Hafsa tells Ammi (or Noor messages her own mother, who calls Hafsa's Ammi); Ammi sits with Hafsa, listens, says it is not her fault, and agrees they will see Ms. Pereira together in the morning."
+   },
+   {
+    "sno": 3610,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0005.jsonl",
+    "issue": "internal consistency: Arnab 'sold the last five at cost' yet says 'Take the profit before it disappears'; selling at cost gives no profit | SUGGESTED: Change 'at cost' to 'at a small markup' (or 'for a quick small profit')."
+   },
+   {
+    "sno": 3668,
+    "variant": 5,
+    "batch": "out/05_cognitive/v04-05_b0010.jsonl",
+    "issue": "perspective answer uses 'he' for Rohit ('but he still offered his red crayon'); Rohit's gender is never stated in the passage (house rule a) | SUGGESTED: Use the name: 'but Rohit still offered the red crayon'."
+   }
+  ]
+ },
+ {
+  "stage": "05_cognitive",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/05_cognitive/v04-05_b0015.json",
+    "out/05_cognitive/v04-05_b0015.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0021.json",
+    "out/05_cognitive/v04-05_b0021.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0023.json",
+    "out/05_cognitive/v04-05_b0023.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0027.json",
+    "out/05_cognitive/v04-05_b0027.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0029.json",
+    "out/05_cognitive/v04-05_b0029.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0042.json",
+    "out/05_cognitive/v04-05_b0042.jsonl"
+   ],
+   [
+    "batches/05_cognitive/v04-05_b0052.json",
+    "out/05_cognitive/v04-05_b0052.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 3715,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0015.jsonl",
+    "issue": "perspective answer uses 'he' for Jatin, whose gender the passage never states (house rule a) | SUGGESTED: Replace 'since he knows the praise was real' with 'since Jatin knows the praise was real'."
+   },
+   {
+    "sno": 3778,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0021.jsonl",
+    "issue": "grounding: 'Madhav laughed' introduces a name never linked to Dadu; the application question and answer depend on Madhav, so a reader cannot tell who is speaking | SUGGESTED: Link the name once, e.g. 'Dadu (Madhav) laughed' or open with 'Madhav Dadu', or drop Madhav and use 'Dadu' in the passage and answers."
+   },
+   {
+    "sno": 3795,
+    "variant": 5,
+    "batch": "out/05_cognitive/v04-05_b0023.jsonl",
+    "issue": "perspective question 'How did Rukmini's mother react, and why?' mostly recalls a stated line ('looked alarmed') rather than centring another person's view; mental_state question asks why Rukmini 'feels sure' she saw the glass, but the passage ends with her realising she cannot remember seeing it | SUGGESTED: Reframe perspective to centre Aparna, e.g. 'What is it like for Aparna to hear Rukmini retell a scene she missed?'; reword mental_state to 'Why did Rukmini feel sure, at dinner, that she had seen the glass?'"
+   },
+   {
+    "sno": 3830,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0027.jsonl",
+    "issue": "formatting: the passage ends with an unclosed quotation ('...and I wrote it all down.' has no closing quote mark) | SUGGESTED: Add the closing quote mark after 'down.'"
+   },
+   {
+    "sno": 3853,
+    "variant": 5,
+    "batch": "out/05_cognitive/v04-05_b0029.jsonl",
+    "issue": "question type (e) and tag: in this [Observer] row Siddharth is the protagonist (the observer), yet the perspective question centres Siddharth again ('How might Siddharth have seen...'); it should centre someone else | SUGGESTED: Ask from Pradeep's side, e.g. 'What might it mean to Pradeep that Siddharth didn't ask what the smell was about?' (answer: relief at not having to explain something he cannot name, and feeling safe to sit together)."
+   },
+   {
+    "sno": 3983,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0042.jsonl",
+    "issue": "grounding: the perspective answer says Ira missed two days 'because of it'; the letter only says Ira did not come to school on those days; clarity: the literal question 'Who does Aadhya say told the photo to be sent...' is ungrammatical | SUGGESTED: Soften to 'and Ira stayed away from school for two days after it'. Rephrase the literal question as 'According to Aadhya, who gave the instruction to send the photo?' (no pronoun, since Aadhya's gender is not stated)."
+   },
+   {
+    "sno": 3984,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0042.jsonl",
+    "issue": "diversity (6): variants 2 and 4 of this row hinge on the same concrete beat: a mocking clip of the classmate, one calm message, others reply 'agreed', and the post is removed | SUGGESTED: Vary the key detail in v4, e.g. the pile-on is a stream of edited captions or stickers rather than a video clip, and Hansa's message leads the poster to apologise or Manpreet to step in, rather than a chain of 'agreed' replies."
+   },
+   {
+    "sno": 3987,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0042.jsonl",
+    "issue": "house rule (h): the dehumanised group are migrant construction workers and the human face is tied to a real regional origin ('Dinesh came, from Bihar'), which links the mockery ('donkeys', 'can't even read a sign') to a real, commonly targeted regional community | SUGGESTED: Drop 'from Bihar' (e.g. 'Dinesh came, from a village two days away by train') so the group is defined by work, not by a real regional identity; keep the lunch and certificate beat."
+   },
+   {
+    "sno": 3989,
+    "variant": 4,
+    "batch": "out/05_cognitive/v04-05_b0042.jsonl",
+    "issue": "emoji (f/9): a dehumanising/contempt row is sensitive material; the perspective answer uses 🙂, which is not one of the gentle emoji allowed there | SUGGESTED: Remove the 🙂 (or replace with 🤍)."
+   },
+   {
+    "sno": 4085,
+    "variant": 5,
+    "batch": "out/05_cognitive/v04-05_b0052.jsonl",
+    "issue": "variant diversity: the one recurring feedback point (missed follow-up calls) is the same key detail as variant 3 of this row (Farhan's four follow-up calls), so the two records hinge on an identical fact | SUGGESTED: Change Manoj's repeated appraisal note to a different concrete skill, e.g. 'late loan-file paperwork' or 'not updating customers on their applications', and adjust the application answer to match."
+   }
+  ]
+ }
+]
