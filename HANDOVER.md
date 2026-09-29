@@ -174,3 +174,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** Gen group 70 is done. **Cognitive v01-03 is complete (55/55).** The v04-05 second pass is in progress. Launched gen 79 (v04-05_b0042–b0047). Running: 74–79. **Next gen group: 80.**
 - **Session 1 (cont.):** Gen group 74 is done (cognitive v04-05_b0012–b0017). Launched gen 80 (v04-05_b0048–b0053). Running: 75–80. **Next gen group: 81.**
 - **Session 1 (cont.):** Gen group 76 is done (cognitive v04-05_b0024–b0029). Launched gen 81 (v04-05_b0054–b0055, the last cognitive batches). Running: 75, 77, 78, 79, 80, 81. **Next gen group: 82.** When cognitive completes, run the cognitive critic (include the rows flagged above).
+- **Session 1 (cont.):** Gen group 75 is done (cognitive v04-05_b0018–b0023). **Foundational started:** launched gen 82 (06_foundational v01-03_b0001–b0006). Running: 77, 78, 79, 80, 81, 82. **Next gen group: 83.**
