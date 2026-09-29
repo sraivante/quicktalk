@@ -1,0 +1,1983 @@
+[
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0002.json",
+"out/01_core/v01-03_b0002.jsonl"
+],
+[
+"batches/01_core/v01-03_b0003.json",
+"out/01_core/v01-03_b0003.jsonl"
+],
+[
+"batches/01_core/v01-03_b0006.json",
+"out/01_core/v01-03_b0006.jsonl"
+],
+[
+"batches/01_core/v01-03_b0007.json",
+"out/01_core/v01-03_b0007.jsonl"
+],
+[
+"batches/01_core/v01-03_b0008.json",
+"out/01_core/v01-03_b0008.jsonl"
+],
+[
+"batches/01_core/v01-03_b0011.json",
+"out/01_core/v01-03_b0011.jsonl"
+],
+[
+"batches/01_core/v01-03_b0012.json",
+"out/01_core/v01-03_b0012.jsonl"
+],
+[
+"batches/01_core/v01-03_b0013.json",
+"out/01_core/v01-03_b0013.jsonl"
+]
+],
+"critic": [
+{
+"sno": 14,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0002.jsonl"
+},
+{
+"sno": 52,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0006.jsonl"
+},
+{
+"sno": 53,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0006.jsonl"
+},
+{
+"sno": 53,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0006.jsonl"
+},
+{
+"sno": 53,
+"variant": 3,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0006.jsonl"
+},
+{
+"sno": 58,
+"variant": 3,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0006.jsonl"
+},
+{
+"sno": 65,
+"variant": 3,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0007.jsonl"
+},
+{
+"sno": 67,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0007.jsonl"
+},
+{
+"sno": 129,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0013.jsonl"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0014.json",
+"out/01_core/v01-03_b0014.jsonl"
+],
+[
+"batches/01_core/v01-03_b0016.json",
+"out/01_core/v01-03_b0016.jsonl"
+],
+[
+"batches/01_core/v01-03_b0017.json",
+"out/01_core/v01-03_b0017.jsonl"
+],
+[
+"batches/01_core/v01-03_b0019.json",
+"out/01_core/v01-03_b0019.jsonl"
+],
+[
+"batches/01_core/v01-03_b0020.json",
+"out/01_core/v01-03_b0020.jsonl"
+],
+[
+"batches/01_core/v01-03_b0021.json",
+"out/01_core/v01-03_b0021.jsonl"
+],
+[
+"batches/01_core/v01-03_b0023.json",
+"out/01_core/v01-03_b0023.jsonl"
+],
+[
+"batches/01_core/v01-03_b0024.json",
+"out/01_core/v01-03_b0024.jsonl"
+]
+],
+"critic": [
+{
+"sno": 135,
+"variant": 3,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0014.jsonl"
+},
+{
+"sno": 159,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0016.jsonl"
+},
+{
+"sno": 163,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0017.jsonl"
+},
+{
+"sno": 193,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0020.jsonl"
+},
+{
+"sno": 195,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0020.jsonl"
+},
+{
+"sno": 209,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0021.jsonl"
+},
+{
+"sno": 209,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0021.jsonl"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0026.json",
+"out/01_core/v01-03_b0026.jsonl"
+],
+[
+"batches/01_core/v01-03_b0027.json",
+"out/01_core/v01-03_b0027.jsonl"
+],
+[
+"batches/01_core/v01-03_b0028.json",
+"out/01_core/v01-03_b0028.jsonl"
+],
+[
+"batches/01_core/v01-03_b0029.json",
+"out/01_core/v01-03_b0029.jsonl"
+],
+[
+"batches/01_core/v01-03_b0030.json",
+"out/01_core/v01-03_b0030.jsonl"
+],
+[
+"batches/01_core/v01-03_b0031.json",
+"out/01_core/v01-03_b0031.jsonl"
+],
+[
+"batches/01_core/v01-03_b0032.json",
+"out/01_core/v01-03_b0032.jsonl"
+],
+[
+"batches/01_core/v04-05_b0003.json",
+"out/01_core/v04-05_b0003.jsonl"
+]
+],
+"critic": [
+{
+"sno": 289,
+"variant": 3,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0029.jsonl"
+},
+{
+"sno": 302,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v01-03_b0031.jsonl"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0006.json",
+"out/01_core/v04-05_b0006.jsonl"
+],
+[
+"batches/01_core/v04-05_b0007.json",
+"out/01_core/v04-05_b0007.jsonl"
+],
+[
+"batches/01_core/v04-05_b0010.json",
+"out/01_core/v04-05_b0010.jsonl"
+],
+[
+"batches/01_core/v04-05_b0011.json",
+"out/01_core/v04-05_b0011.jsonl"
+],
+[
+"batches/01_core/v04-05_b0012.json",
+"out/01_core/v04-05_b0012.jsonl"
+],
+[
+"batches/01_core/v04-05_b0013.json",
+"out/01_core/v04-05_b0013.jsonl"
+],
+[
+"batches/01_core/v04-05_b0015.json",
+"out/01_core/v04-05_b0015.jsonl"
+],
+[
+"batches/01_core/v04-05_b0017.json",
+"out/01_core/v04-05_b0017.jsonl"
+]
+],
+"critic": [
+{
+"sno": 53,
+"variant": 4,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0006.jsonl"
+},
+{
+"sno": 53,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0006.jsonl"
+},
+{
+"sno": 63,
+"variant": 4,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0007.jsonl"
+},
+{
+"sno": 103,
+"variant": 4,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0011.jsonl"
+},
+{
+"sno": 168,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0017.jsonl"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0018.json",
+"out/01_core/v04-05_b0018.jsonl"
+],
+[
+"batches/01_core/v04-05_b0019.json",
+"out/01_core/v04-05_b0019.jsonl"
+],
+[
+"batches/01_core/v04-05_b0021.json",
+"out/01_core/v04-05_b0021.jsonl"
+],
+[
+"batches/01_core/v04-05_b0022.json",
+"out/01_core/v04-05_b0022.jsonl"
+],
+[
+"batches/01_core/v04-05_b0023.json",
+"out/01_core/v04-05_b0023.jsonl"
+],
+[
+"batches/01_core/v04-05_b0024.json",
+"out/01_core/v04-05_b0024.jsonl"
+],
+[
+"batches/01_core/v04-05_b0025.json",
+"out/01_core/v04-05_b0025.jsonl"
+],
+[
+"batches/01_core/v04-05_b0026.json",
+"out/01_core/v04-05_b0026.jsonl"
+]
+],
+"critic": [
+{
+"sno": 172,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0018.jsonl"
+},
+{
+"sno": 174,
+"variant": 4,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0018.jsonl"
+},
+{
+"sno": 205,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0021.jsonl"
+},
+{
+"sno": 209,
+"variant": 4,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0021.jsonl"
+},
+{
+"sno": 213,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0022.jsonl"
+},
+{
+"sno": 216,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0022.jsonl"
+},
+{
+"sno": 221,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0023.jsonl"
+},
+{
+"sno": 225,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0023.jsonl"
+},
+{
+"sno": 227,
+"variant": 5,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/01_core/v04-05_b0023.jsonl"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0027.json",
+"out/01_core/v04-05_b0027.jsonl"
+],
+[
+"batches/01_core/v04-05_b0029.json",
+"out/01_core/v04-05_b0029.jsonl"
+],
+[
+"batches/01_core/v04-05_b0031.json",
+"out/01_core/v04-05_b0031.jsonl"
+],
+[
+"batches/01_core/v04-05_b0032.json",
+"out/01_core/v04-05_b0032.jsonl"
+]
+],
+"critic": []
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0002.json",
+"out/02_expression/v01-02_b0002.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0003.json",
+"out/02_expression/v01-02_b0003.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0004.json",
+"out/02_expression/v01-02_b0004.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0005.json",
+"out/02_expression/v01-02_b0005.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0006.json",
+"out/02_expression/v01-02_b0006.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0008.json",
+"out/02_expression/v01-02_b0008.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0009.json",
+"out/02_expression/v01-02_b0009.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0010.json",
+"out/02_expression/v01-02_b0010.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2076,
+"variant": 1,
+"issue": "Unstated gender: application 'She could name each feeling' for Rajni; the passage never genders Rajni | suggested: Use 'Rajni' or 'they'.",
+"batch": "out/02_expression/v01-02_b0002.jsonl"
+},
+{
+"sno": 2085,
+"variant": 2,
+"issue": "Unstated gender: perspective 'He may think Karthik is being rude' for the shopkeeper; Answer speculates 'rude' though the shopkeeper went on 'without any fuss' | suggested: Use 'The shopkeeper' / 'they'; 'may be amused or a little disappointed, but carries on without fuss'.",
+"batch": "out/02_expression/v01-02_b0003.jsonl"
+},
+{
+"sno": 2082,
+"variant": 1,
+"issue": "Grounding adds a relation: 'the mother responds' - Himani's relation to Pallavi is never stated | suggested: Grounding 'an adult responds', or add 'her mother Himani' to the passage.",
+"batch": "out/02_expression/v01-02_b0003.jsonl"
+},
+{
+"sno": 2096,
+"variant": 2,
+"issue": "Grounding adds a relation: 'leans on a parent' - Thabo's relation to Lucia is never stated | suggested: Say 'Lucia's father Thabo' in the passage, or 'a caregiver' in the grounding.",
+"batch": "out/02_expression/v01-02_b0004.jsonl"
+},
+{
+"sno": 2100,
+"variant": 1,
+"issue": "Unstated gender: perspective 'She may feel a little awkward' for the neighbour | suggested: Use 'The neighbour'/'they'.",
+"batch": "out/02_expression/v01-02_b0004.jsonl"
+},
+{
+"sno": 2105,
+"variant": 1,
+"issue": "Grounding adds a relation: 'the parent sets a calm limit' - Ishita's relation to Pranav is never stated; Literal Q 'What did Pranav push Dev over?' is ambiguous | suggested: Grounding 'an adult'; ask 'Why did Pranav push Dev?'",
+"batch": "out/02_expression/v01-02_b0005.jsonl"
+},
+{
+"sno": 2114,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0006.jsonl"
+},
+{
+"sno": 2132,
+"variant": 2,
+"issue": "Unstated gender: answers use 'She' for Rekha; the passage never genders her | suggested: Use 'Rekha' in answers.",
+"batch": "out/02_expression/v01-02_b0008.jsonl"
+},
+{
+"sno": 2138,
+"variant": 1,
+"issue": "Unstated gender: application 'she helps Harsha connect' for the unnamed teacher | suggested: Use 'the teacher'.",
+"batch": "out/02_expression/v01-02_b0008.jsonl"
+},
+{
+"sno": 2139,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0008.jsonl"
+},
+{
+"sno": 2148,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0009.jsonl"
+},
+{
+"sno": 2152,
+"variant": 2,
+"issue": "Grounding adds a fact: 'A deaf toddler' - only Hansa is said to be Deaf; Arohi's hearing is not stated; Invented sign meanings stated as fact: 'two fingers to her lips, the sign for milk', 'touched her chin, the sign for warm'; 'She had never said a spoken word, and Hansa did not worry' could teach that no speech at two needs no check if the child is hearing | suggested: Say 'their home sign for milk'; state Arohi's hearing status, or drop the 'never said a spoken word' line; grounding 'a toddler raised with sign'.",
+"batch": "out/02_expression/v01-02_b0010.jsonl"
+},
+{
+"sno": 2155,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0010.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0012.json",
+"out/02_expression/v01-02_b0012.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0015.json",
+"out/02_expression/v01-02_b0015.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0016.json",
+"out/02_expression/v01-02_b0016.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0017.json",
+"out/02_expression/v01-02_b0017.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0018.json",
+"out/02_expression/v01-02_b0018.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0021.json",
+"out/02_expression/v01-02_b0021.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0022.json",
+"out/02_expression/v01-02_b0022.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0030.json",
+"out/02_expression/v01-02_b0030.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2180,
+"variant": 2,
+"issue": "Mental_state alternative is not an alternative reading of the snarl ('The smaller child's mother might still have feared...'); Name reuse: Jahnavi and Rafiq are mother and son in 2216 v1, strangers here | suggested: Alternative: 'It could also have tipped into real frustration if the chase stopped being fun'; use fresh names.",
+"batch": "out/02_expression/v01-02_b0012.jsonl"
+},
+{
+"sno": 2205,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0015.jsonl"
+},
+{
+"sno": 2216,
+"variant": 1,
+"issue": "Unstated gender: mental_state answer says 'what the narrator says she couldn't tell'; the observer is never gendered; Minor fidelity: the mother speaks for Rafiq ('He doesn't feel like a hug today'); the child never practises saying no himself | suggested: Use 'the narrator' / 'they'; optionally let Rafiq say 'No hug' before Jahnavi offers the high-five.",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2219,
+"variant": 1,
+"issue": "Muddled kinship: 'A neighbour... Maria, was visiting' then 'the grandmother said, \"Give Dadi a kiss\"' - whose Dadi, and whom is Maria visiting, is unclear; Observer overclaims inner state: 'Maria's choice made her comfortable' (recipe: observer does not know for sure); Name reuse: Dilnaz is the mother in 2216 v2 and the child here | suggested: Make it 'Dilnaz's Dadi' at Maria's own home, and change the last line to 'she looked easier after that'.",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2220,
+"variant": 1,
+"issue": "Leak: application answer copies description wording 'feels wrong or someone asks for secrecy' (6-word run); Sabina's hands 'went still' and she asks about secrets; the counsellor just says 'Good.' - no gentle private check-in, which weakens the trusted-adult model; Absolute rule 'Nobody else may touch the parts of your body that are private' with no age-appropriate note (e.g. a parent helping at bath time or a doctor with a parent there) | suggested: Reword the application answer; add one line of the counsellor quietly telling Sabina she can come and talk any time; optionally add the caregiver/doctor-with-parent exception in child words.",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2220,
+"variant": 2,
+"issue": "Safeguarding response: after 'Let's find someone who can help you both right now' the adult 'went to bring the head teacher', leaving the disclosing child alone; Missing reassurance that it is not the child's fault | suggested: Adult stays with Shankar and Lokesh and asks another staff member to fetch the head teacher; add 'You did the right thing telling. It's not your fault.'",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2216,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2219,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2220,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2220,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0016.jsonl"
+},
+{
+"sno": 2229,
+"variant": 2,
+"issue": "Unstated gender: perspective 'She might find it charming' for the nurse; 'the card that his uncle had shown him' appears with no set-up (the shared signal is never shown being agreed); Name reuse: Thomas and Chinmay are father and son in 2446 v1, nephew and uncle here | suggested: Use 'the nurse'/'they'; add one line of Chinmay showing the quiet-voice card outside.",
+"batch": "out/02_expression/v01-02_b0017.jsonl"
+},
+{
+"sno": 2235,
+"variant": 1,
+"issue": "Disclosure scene with no trusted adult responding: Ayo 'heard whispers and smiled' and is nearby, but the passage ends with the boys holding hands and a plan to tell 'your mum' later; Mental_state answer says 'he told Emeka in a low voice'; passage only says 'Liam grew quiet' | suggested: End with the boys going to Ayo, who kneels, listens calmly, thanks Liam and says she will make sure his mum knows tonight.",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2240,
+"variant": 1,
+"issue": "REJECT: rewrite this record. Safety/teaches wrong response: a 5-year-old trails off about 'the bruise on his arm' with 'he said...' and pulls his sleeve down; the note ends 'he may simply have lost the word' and only asks the counsellor to 'keep an eye on him' - an injury plus a possible disclosure should be recorded and passed to the school's safeguarding lead the same day; Loads the row: the description's neutral 'lost the words' reading becomes a dismissal of an abuse cue; Unstated gender: answers call Mridul 'him'/'He'; the passage never genders the teacher | suggested: Regenerate with a non-injury topic (e.g. trailing off about a broken toy or a weekend trip) so the alternative readings stay neutral; or, if the bruise stays, the teacher writes down Sumit's exact words and reports to the designated safeguarding lead today, without questioning him further.",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2233,
+"variant": 2,
+"issue": "Unstated gender: literal answer 'She was sitting at the back of the library'; the observer is never gendered; Ambiguous: 'Farida said \"Shh, shh,\" softly, stroking her arm' - Farida is soothing a stranger's toddler, or Nandini? | suggested: Answer 'The narrator was sitting...'; make it 'the toddler's father said shh softly' or clarify whose arm.",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2235,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2235,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2240,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0018.jsonl"
+},
+{
+"sno": 2268,
+"variant": 1,
+"issue": "Broken answer: mental_state begins 'As not meant, since...' | suggested: 'No. His shoulders dropped after a quick sorry and Omkar ran off...'",
+"batch": "out/02_expression/v01-02_b0021.jsonl"
+},
+{
+"sno": 2279,
+"variant": 2,
+"issue": "Misattribution: application says Eshaan 'laughed and played along'; the passage says Mridul laughed and the teacher 'said it back'; Unstated gender: 'He' for Eshaan | suggested: 'Eshaan repeated the nonsense words back and planned a nonsense-rhyme corner.'",
+"batch": "out/02_expression/v01-02_b0022.jsonl"
+},
+{
+"sno": 2354,
+"variant": 1,
+"issue": "Contradiction: Tariq 'covered his face with both arms', then 'Tariq's face didn't look weak or funny to her' | suggested: Change to 'the way he curled up didn't look weak or funny to her. It looked frightened.'",
+"batch": "out/02_expression/v01-02_b0030.jsonl"
+},
+{
+"sno": 2358,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0030.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0032.json",
+"out/02_expression/v01-02_b0032.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0035.json",
+"out/02_expression/v01-02_b0035.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0036.json",
+"out/02_expression/v01-02_b0036.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0037.json",
+"out/02_expression/v01-02_b0037.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0039.json",
+"out/02_expression/v01-02_b0039.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0042.json",
+"out/02_expression/v01-02_b0042.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0044.json",
+"out/02_expression/v01-02_b0044.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0045.json",
+"out/02_expression/v01-02_b0045.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2418,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0036.jsonl"
+},
+{
+"sno": 2419,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0036.jsonl"
+},
+{
+"sno": 2422,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0037.jsonl"
+},
+{
+"sno": 2424,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0037.jsonl"
+},
+{
+"sno": 2445,
+"variant": 2,
+"issue": "Late name insertion reads unnaturally: 'Beta, come sit. Madhav here has a story' - the speaker refers to himself in the third person; Unclear event: 'the teacher's chair broke... He had sat on it first, you see'; Literal Q invents 'the teacher's room'; passage says only 'the teacher's chair'; Emoji '🙂' ends a spoken story - decoration, not something typed | suggested: Open with 'Beta, come sit. I'm your Madhav Dada, and this is from my school days in Nashik.'; make it 'Shankar had been sitting on it when it broke'; fix the literal Q; drop the emoji.",
+"batch": "out/02_expression/v01-02_b0039.jsonl"
+},
+{
+"sno": 2446,
+"variant": 2,
+"issue": "Unstated gender: answers and grounding use 'he'/'him' for Gurpreet (a name used for both genders; the passage has no pronoun); Fidelity partial: description's 'ask repeated questions' and 'honest answers' are not shown (Mummy asks; the child never asks); Name reads naturally ('I'm Gurpreet, and when my grandfather died I was ten') - no issue there | suggested: Use 'Gurpreet' / 'they' in answers and grounding; add one line of Gurpreet asking the same question again and Mummy answering honestly.",
+"batch": "out/02_expression/v01-02_b0039.jsonl"
+},
+{
+"sno": 2450,
+"variant": 1,
+"issue": "Unstated gender: mental_state 'He felt bad' and grounding 'wrinkles his nose' for Nilesh; the narrator is never gendered; Name insertion 'I'm Nilesh, and I don't like it when Tarun comes to lunch' reads naturally | suggested: Use 'Nilesh' or 'the child' in answers and grounding.",
+"batch": "out/02_expression/v01-02_b0039.jsonl"
+},
+{
+"sno": 2446,
+"variant": 1,
+"issue": "Sensitive (grief) passage ends with an emoji in narration: '...sleepy and comfortable.\" 🤍' - the rule allows at most one gentle emoji, in an answer only | suggested: Remove the emoji from the passage (optionally move 🤍 to the perspective answer).",
+"batch": "out/02_expression/v01-02_b0039.jsonl"
+},
+{
+"sno": 2495,
+"variant": 2,
+"issue": "Garbled perspective Q: 'How might Payal have felt when Indu was thought to hate them?'; Application answer repeats the name awkwardly: 'Payal can ask, as Payal suggests' | suggested: Ask 'How might Payal have felt on learning Indu was only cold?'; tidy the application answer.",
+"batch": "out/02_expression/v01-02_b0044.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0046.json",
+"out/02_expression/v01-02_b0046.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0047.json",
+"out/02_expression/v01-02_b0047.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0048.json",
+"out/02_expression/v01-02_b0048.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0049.json",
+"out/02_expression/v01-02_b0049.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0050.json",
+"out/02_expression/v01-02_b0050.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0051.json",
+"out/02_expression/v01-02_b0051.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0052.json",
+"out/02_expression/v01-02_b0052.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0053.json",
+"out/02_expression/v01-02_b0053.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2514,
+"variant": 2,
+"issue": "Unstated gender: perspective 'He points her toward trusted adults' for Bao; Literal answer answers 'where' with a time: 'She sat after the match in Lisbon'; Unwanted touch by a coach; plan to tell adults but no adult shown responding | suggested: Use 'Bao'; fix literal answer; optionally add a closing line of the head coach or a parent listening and taking it seriously.",
+"batch": "out/02_expression/v01-02_b0046.jsonl"
+},
+{
+"sno": 2513,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0046.jsonl"
+},
+{
+"sno": 2524,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0047.jsonl"
+},
+{
+"sno": 2550,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0049.jsonl"
+},
+{
+"sno": 2558,
+"variant": 1,
+"issue": "Unstated gender: answers use 'He' for Wasim; the narrator is never gendered; Odd closing line 'Can you tell them that next time?' - unclear who 'them' is | suggested: Use 'Wasim' in answers; end with 'I'm not against praise. I just can't take it with two hundred people looking.'",
+"batch": "out/02_expression/v01-02_b0050.jsonl"
+},
+{
+"sno": 2553,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0050.jsonl"
+},
+{
+"sno": 2563,
+"variant": 2,
+"issue": "Unstated gender: perspective 'He probably felt heard' for Dhruv; never gendered | suggested: Use 'Dhruv'.",
+"batch": "out/02_expression/v01-02_b0051.jsonl"
+},
+{
+"sno": 2576,
+"variant": 2,
+"issue": "Perspective Q centres the protagonist: 'How might Kiran have felt afterwards?'; Unstated gender: 'Baljeet adds that he doesn't know'; Awkward signature 'Baljeet.' at the end of a spoken-style account | suggested: Ask how Mrs Sandhu might see Kiran's visit; use 'Baljeet' without a pronoun; open with 'I'm Baljeet, the school librarian...'.",
+"batch": "out/02_expression/v01-02_b0052.jsonl"
+},
+{
+"sno": 2584,
+"variant": 2,
+"issue": "Awkward late signature: a spoken story ends with 'Leela.'; Unstated gender: literal answer 'He said things' - the coach is never gendered; Outcome 'not allowed to coach girls after that' implies the remarks only matter when aimed at girls | suggested: Introduce the speaker naturally ('I'm Leela, your Masi...'), use 'the coach' in answers, and make the outcome 'the coach was removed'.",
+"batch": "out/02_expression/v01-02_b0053.jsonl"
+},
+{
+"sno": 2582,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0053.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0054.json",
+"out/02_expression/v01-02_b0054.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0056.json",
+"out/02_expression/v01-02_b0056.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0057.json",
+"out/02_expression/v01-02_b0057.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0058.json",
+"out/02_expression/v01-02_b0058.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0059.json",
+"out/02_expression/v01-02_b0059.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0064.json",
+"out/02_expression/v01-02_b0064.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0065.json",
+"out/02_expression/v01-02_b0065.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0066.json",
+"out/02_expression/v01-02_b0066.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2592,
+"variant": 1,
+"issue": "Late name insertion: 'Dolma, that's me, still learning...' in the last line reads tacked-on; Unstated gender: literal answer 'Her first slogan' | suggested: Introduce Dolma at the start ('I'm Dolma, and for the clean-lake week...'); use 'Dolma's first slogan'.",
+"batch": "out/02_expression/v01-02_b0054.jsonl"
+},
+{
+"sno": 2620,
+"variant": 2,
+"issue": "Unstated gender: application 'She offered a small step' for Keerthana; never gendered in the passage | suggested: Use 'Keerthana'.",
+"batch": "out/02_expression/v01-02_b0056.jsonl"
+},
+{
+"sno": 2710,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0065.jsonl"
+},
+{
+"sno": 2714,
+"variant": 2,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0066.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0068.json",
+"out/02_expression/v01-02_b0068.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0069.json",
+"out/02_expression/v01-02_b0069.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0070.json",
+"out/02_expression/v01-02_b0070.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0071.json",
+"out/02_expression/v01-02_b0071.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0072.json",
+"out/02_expression/v01-02_b0072.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0074.json",
+"out/02_expression/v01-02_b0074.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0077.json",
+"out/02_expression/v01-02_b0077.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0079.json",
+"out/02_expression/v01-02_b0079.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2741,
+"variant": 1,
+"issue": "Unstated gender: application 'She could ask' for Nazia; narrator never gendered | suggested: Use 'Nazia'.",
+"batch": "out/02_expression/v01-02_b0068.jsonl"
+},
+{
+"sno": 2748,
+"variant": 2,
+"issue": "Unstated gender: 'she assumed' for Aditi; Mental_state answer calls it a 'wrongly' held assumption; the row says intent cannot be safely inferred, not that it is wrong; Mild generalisation: 'Lots of films from his country are like that' | suggested: 'assumed, without evidence, that the director must be depressed'; use 'Aditi'; 'or he might just love that style'.",
+"batch": "out/02_expression/v01-02_b0069.jsonl"
+},
+{
+"sno": 2752,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0070.jsonl"
+},
+{
+"sno": 2800,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0074.jsonl"
+},
+{
+"sno": 2823,
+"variant": 2,
+"issue": "Unnatural self-introduction inside a diary: 'I am Simran, and my first thought...' | suggested: Name via a signature ('- Simran') or a header ('Simran's diary').",
+"batch": "out/02_expression/v01-02_b0077.jsonl"
+},
+{
+"sno": 2829,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0077.jsonl"
+},
+{
+"sno": 2848,
+"variant": 2,
+"issue": "Emoji in narration: 'joy or nerves 🙂.' - not something anyone types, and placed before the full stop | suggested: Drop the emoji from the passage.",
+"batch": "out/02_expression/v01-02_b0079.jsonl"
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0081.json",
+"out/02_expression/v01-02_b0081.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0082.json",
+"out/02_expression/v01-02_b0082.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0083.json",
+"out/02_expression/v01-02_b0083.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0084.json",
+"out/02_expression/v01-02_b0084.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0085.json",
+"out/02_expression/v01-02_b0085.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2866,
+"variant": 1,
+"issue": "Unstated gender: 'asked her not to tell her parents' and grounding 'removed her choice' for Ishita (first-person, never gendered); Abrupt insertion 'I'm Ishita.' after the first sentence; Name reuse: Pranav and Ishita are toddler and caregiver in 2105 v2 | suggested: Use 'Ishita' in answers and grounding; fold the name into the opening.",
+"batch": "out/02_expression/v01-02_b0081.jsonl"
+},
+{
+"sno": 2869,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0081.jsonl"
+},
+{
+"sno": 2879,
+"variant": 1,
+"issue": "Unstated gender: mental_state 'He did not trust his voice' - Hrithik only signs the letter | suggested: Use 'Hrithik' in the answer.",
+"batch": "out/02_expression/v01-02_b0082.jsonl"
+},
+{
+"sno": 2880,
+"variant": 1,
+"issue": "Abrupt name insertion: 'Let me tell you about mine. I'm Chetan.'; Unstated gender: mental_state 'He thought it meant approved' for Chetan | suggested: Open with 'I'm Chetan, and I've been where you are, Leela.'; use 'Chetan' in answers.",
+"batch": "out/02_expression/v01-02_b0082.jsonl"
+},
+{
+"sno": 2889,
+"variant": 2,
+"issue": "Unstated gender: mental_state 'His heart thumped' for Santosh; Abrupt insertion: 'Let me tell you what I saw at twenty-four. I'm Santosh.' | suggested: Use 'Santosh'; introduce the name in the opening line.",
+"batch": "out/02_expression/v01-02_b0083.jsonl"
+},
+{
+"sno": 2885,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/02_expression/v01-02_b0083.jsonl"
+},
+{
+"sno": 2895,
+"variant": 2,
+"issue": "Unstated gender: perspective 'as her arms crossed' for Aditi; never gendered in the passage | suggested: Use 'Aditi's crossed arms'.",
+"batch": "out/02_expression/v01-02_b0084.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0001.json",
+"out/03_situational/v01-01_b0001.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0003.json",
+"out/03_situational/v01-01_b0003.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0004.json",
+"out/03_situational/v01-01_b0004.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0005.json",
+"out/03_situational/v01-01_b0005.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0006.json",
+"out/03_situational/v01-01_b0006.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0007.json",
+"out/03_situational/v01-01_b0007.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0008.json",
+"out/03_situational/v01-01_b0008.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0009.json",
+"out/03_situational/v01-01_b0009.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0003.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0004.jsonl"
+},
+{
+"sno": 366,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0005.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0005.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0006.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0007.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0008.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0009.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0010.json",
+"out/03_situational/v01-01_b0010.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0011.json",
+"out/03_situational/v01-01_b0011.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0012.json",
+"out/03_situational/v01-01_b0012.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0013.json",
+"out/03_situational/v01-01_b0013.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0014.json",
+"out/03_situational/v01-01_b0014.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0015.json",
+"out/03_situational/v01-01_b0015.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0016.json",
+"out/03_situational/v01-01_b0016.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0017.json",
+"out/03_situational/v01-01_b0017.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0010.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0011.jsonl"
+},
+{
+"sno": 437,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0012.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0012.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0013.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0014.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0015.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0016.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0017.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0018.json",
+"out/03_situational/v01-01_b0018.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0019.json",
+"out/03_situational/v01-01_b0019.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0020.json",
+"out/03_situational/v01-01_b0020.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0021.json",
+"out/03_situational/v01-01_b0021.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0022.json",
+"out/03_situational/v01-01_b0022.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0023.json",
+"out/03_situational/v01-01_b0023.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0024.json",
+"out/03_situational/v01-01_b0024.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0025.json",
+"out/03_situational/v01-01_b0025.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0018.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0019.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0020.jsonl"
+},
+{
+"sno": 519,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0021.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0021.jsonl"
+},
+{
+"sno": 535,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0022.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0022.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0023.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0024.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0025.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0026.json",
+"out/03_situational/v01-01_b0026.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0027.json",
+"out/03_situational/v01-01_b0027.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0028.json",
+"out/03_situational/v01-01_b0028.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0029.json",
+"out/03_situational/v01-01_b0029.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0030.json",
+"out/03_situational/v01-01_b0030.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0031.json",
+"out/03_situational/v01-01_b0031.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0032.json",
+"out/03_situational/v01-01_b0032.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0033.json",
+"out/03_situational/v01-01_b0033.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0026.jsonl"
+},
+{
+"sno": 582,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0027.jsonl"
+},
+{
+"sno": 586,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0027.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0027.jsonl"
+},
+{
+"sno": 590,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0028.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0028.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0029.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0030.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0031.jsonl"
+},
+{
+"sno": 631,
+"variant": null,
+"issue": "friend made male to fit cast but row says \"her\": keep row gender, rename",
+"batch": "out/03_situational/v01-01_b0032.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0032.jsonl"
+},
+{
+"sno": 641,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0033.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0033.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0034.json",
+"out/03_situational/v01-01_b0034.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0035.json",
+"out/03_situational/v01-01_b0035.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0036.json",
+"out/03_situational/v01-01_b0036.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0037.json",
+"out/03_situational/v01-01_b0037.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0038.json",
+"out/03_situational/v01-01_b0038.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0039.json",
+"out/03_situational/v01-01_b0039.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0040.json",
+"out/03_situational/v01-01_b0040.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0041.json",
+"out/03_situational/v01-01_b0041.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0034.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0035.jsonl"
+},
+{
+"sno": 675,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0036.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0036.jsonl"
+},
+{
+"sno": 681,
+"variant": null,
+"issue": "typically male name used for an elder sister: rename to fit",
+"batch": "out/03_situational/v01-01_b0037.jsonl"
+},
+{
+"sno": 679,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0037.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0037.jsonl"
+},
+{
+"sno": 693,
+"variant": null,
+"issue": "check gender against the row's \"her\"",
+"batch": "out/03_situational/v01-01_b0038.jsonl"
+},
+{
+"sno": 690,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0038.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0038.jsonl"
+},
+{
+"sno": 700,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0039.jsonl"
+},
+{
+"sno": 703,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0039.jsonl"
+},
+{
+"sno": 706,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0039.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0039.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0040.jsonl"
+},
+{
+"sno": 727,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0041.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0041.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0042.json",
+"out/03_situational/v01-01_b0042.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0043.json",
+"out/03_situational/v01-01_b0043.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0044.json",
+"out/03_situational/v01-01_b0044.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0045.json",
+"out/03_situational/v01-01_b0045.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0046.json",
+"out/03_situational/v01-01_b0046.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0047.json",
+"out/03_situational/v01-01_b0047.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0048.json",
+"out/03_situational/v01-01_b0048.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0049.json",
+"out/03_situational/v01-01_b0049.jsonl"
+]
+],
+"critic": [
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0042.jsonl"
+},
+{
+"sno": 742,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0043.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0043.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0044.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0045.jsonl"
+},
+{
+"sno": 776,
+"variant": null,
+"issue": "role/gender may differ from row description",
+"batch": "out/03_situational/v01-01_b0046.jsonl"
+},
+{
+"sno": 773,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0046.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0046.jsonl"
+},
+{
+"sno": 781,
+"variant": null,
+"issue": "role/gender may differ from row description",
+"batch": "out/03_situational/v01-01_b0047.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0047.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0048.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0049.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0050.json",
+"out/03_situational/v01-01_b0050.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0051.json",
+"out/03_situational/v01-01_b0051.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0056.json",
+"out/03_situational/v01-01_b0056.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0063.json",
+"out/03_situational/v01-01_b0063.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0065.json",
+"out/03_situational/v01-01_b0065.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0066.json",
+"out/03_situational/v01-01_b0066.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0068.json",
+"out/03_situational/v01-01_b0068.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0069.json",
+"out/03_situational/v01-01_b0069.jsonl"
+]
+],
+"critic": [
+{
+"sno": 811,
+"variant": null,
+"issue": "role may differ from row description",
+"batch": "out/03_situational/v01-01_b0050.jsonl"
+},
+{
+"sno": 817,
+"variant": null,
+"issue": "gender may differ from row description",
+"batch": "out/03_situational/v01-01_b0050.jsonl"
+},
+{
+"sno": 812,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0050.jsonl"
+},
+{
+"sno": null,
+"variant": null,
+"issue": "ROW CHECK: for every record, make sure the genders and roles match the row description (the row wins over cast names)",
+"batch": "out/03_situational/v01-01_b0050.jsonl"
+},
+{
+"sno": 870,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0056.jsonl"
+},
+{
+"sno": 942,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0063.jsonl"
+},
+{
+"sno": 967,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0065.jsonl"
+},
+{
+"sno": 974,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0066.jsonl"
+},
+{
+"sno": 993,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0068.jsonl"
+},
+{
+"sno": 1006,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0069.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0072.json",
+"out/03_situational/v01-01_b0072.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0073.json",
+"out/03_situational/v01-01_b0073.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0077.json",
+"out/03_situational/v01-01_b0077.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0079.json",
+"out/03_situational/v01-01_b0079.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0081.json",
+"out/03_situational/v01-01_b0081.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0087.json",
+"out/03_situational/v01-01_b0087.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0088.json",
+"out/03_situational/v01-01_b0088.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0089.json",
+"out/03_situational/v01-01_b0089.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1033,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0072.jsonl"
+},
+{
+"sno": 1082,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0077.jsonl"
+},
+{
+"sno": 1084,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0077.jsonl"
+},
+{
+"sno": 1105,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0079.jsonl"
+},
+{
+"sno": 1119,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0081.jsonl"
+},
+{
+"sno": 1123,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0081.jsonl"
+},
+{
+"sno": 1184,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0087.jsonl"
+},
+{
+"sno": 1203,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0089.jsonl"
+},
+{
+"sno": 1205,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0089.jsonl"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0094.json",
+"out/03_situational/v01-01_b0094.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1248,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0094.jsonl"
+},
+{
+"sno": 1253,
+"variant": 1,
+"issue": "SAFETY REVIEW: scene may involve a disclosure or signs of harm; apply the MASTER disclosure rule",
+"batch": "out/03_situational/v01-01_b0094.jsonl"
+}
+]
+}
+]
