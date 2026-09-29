@@ -99,3 +99,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** The critic finished (82/47/0). Applied its prompt and validator fixes and repaired the flagged v2 and graph records; the four batches pass. Waiting on the user about subagents for phase1.
 - **Session 1 (cont.):** The user approved subagents for phase1. Built the phase1 batches (1,050 / 16,200) and launched a 5-batch calibration round (3 core on Opus, 2 situational on Sonnet).
 - **Session 1 (cont.):** The user chose option 1 (Opus + Sonnet). Wrote GENERATOR.md, queue_phase1.json and sync_out.py; launched round 1 (groups 0–4, core).
+- **Session 1 (cont.):** Expression critic found 1 reject and 4 weak disclosure responses. Added the MASTER disclosure rule and a validator gender check. Built repair pass 2 (22 groups, 162 batches); launched repair2 groups 0, 4, 6 and 7. Hold repair2 groups 19–21 until generation groups 39–42 (situational b0081–b0104) have finished, to avoid overwriting their files.
