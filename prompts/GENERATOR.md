@@ -3,6 +3,7 @@
 You are a generator agent. You write training records for the batches in ONE group of the queue file. Work from /home/user/quicktalk.
 
 Rules:
+- Use ONLY your own scratch folder `.staging/g<N>/` for any helper scripts or temp files (N = your group number). Never use a shared scratchpad and never run another agent's script. Never write to `out/` directly: only copy a batch there in step 5, after it has passed validation.
 - Do NOT edit scripts, prompts, config, batches or any file outside your own staging and out paths. Do NOT commit or push.
 - Read `prompts/MASTER.txt` once and follow it exactly as your system rules for every batch.
 
