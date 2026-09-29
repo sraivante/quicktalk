@@ -1,0 +1,61 @@
+{"sno": 3651, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3737, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4047, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3795, "variant": 5, "verdict": "fix", "issues": ["perspective question 'How did Rukmini's mother react, and why?' mostly recalls a stated line ('looked alarmed') rather than centring another person's view", "mental_state question asks why Rukmini 'feels sure' she saw the glass, but the passage ends with her realising she cannot remember seeing it"], "suggested_fix": "Reframe perspective to centre Aparna, e.g. 'What is it like for Aparna to hear Rukmini retell a scene she missed?'; reword mental_state to 'Why did Rukmini feel sure, at dinner, that she had seen the glass?'"}
+{"sno": 3570, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4033, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3634, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3939, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3786, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3642, "variant": 3, "verdict": "fix", "issues": ["perspective answer uses 'he' for Deepu, whose gender the passage never states (house rule a)"], "suggested_fix": "Replace 'because he can't see the heavy bag' with 'because Deepu can't see the heavy bag'."}
+{"sno": 3715, "variant": 4, "verdict": "fix", "issues": ["perspective answer uses 'he' for Jatin, whose gender the passage never states (house rule a)"], "suggested_fix": "Replace 'since he knows the praise was real' with 'since Jatin knows the praise was real'."}
+{"sno": 3724, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3581, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3856, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3699, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3818, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4042, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4109, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3924, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4076, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3819, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3594, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3842, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3755, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3897, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4098, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3641, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3668, "variant": 5, "verdict": "fix", "issues": ["perspective answer uses 'he' for Rohit ('but he still offered his red crayon'); Rohit's gender is never stated in the passage (house rule a)"], "suggested_fix": "Use the name: 'but Rohit still offered the red crayon'."}
+{"sno": 4071, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4024, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3837, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3972, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3805, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3915, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3781, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3951, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3945, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3751, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4015, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4085, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4117, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3911, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4113, "variant": 1, "verdict": "fix", "issues": ["emoji 😅 in the passage of a sensitive distress/low-mood disclosure scene (house rule f: none in sensitive passages; it also lightens the crying moment)", "DISCLOSURE rule (c): a struggling teen reveals weeks of distress, but passing it to an adult is deferred to 'tomorrow' and no adult's same-day response is shown", "perspective answer says Arohi 'cared more about her' - pronoun for Hansa, whose gender is never stated (diary signature and nickname only)"], "suggested_fix": "Remove the 😅 from the passage. Have Arohi go with Hansa to tell Mummy that same night and add two lines showing Mummy's response (sits with Hansa, listens, says it is not Hansa's fault, says they will talk to the doctor or school counsellor together). Change 'cared more about her' to 'cared more about Hansa'."}
+{"sno": 3683, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3716, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4001, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4098, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3826, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3825, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3879, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3749, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3956, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3737, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3885, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3656, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4089, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3952, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 3619, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4085, "variant": 5, "verdict": "fix", "issues": ["variant diversity: the one recurring feedback point (missed follow-up calls) is the same key detail as variant 3 of this row (Farhan's four follow-up calls), so the two records hinge on an identical fact"], "suggested_fix": "Change Manoj's repeated appraisal note to a different concrete skill, e.g. 'late loan-file paperwork' or 'not updating customers on their applications', and adjust the application answer to match."}
+{"sno": 3668, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4093, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
