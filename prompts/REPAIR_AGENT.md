@@ -1,7 +1,7 @@
 # Repair agent instructions
 
 You repair already-generated batches that fail the CURRENT validator (or that the critic marked "fix"). Work from /home/user/quicktalk.
-Rules: do NOT edit scripts, prompts, config or batch files; do NOT commit or push; use only your own scratch folder `.staging/r<N>/`.
+Rules: do NOT edit scripts, prompts, config or batch files; do NOT commit or push; use only your own scratch folder `.staging/r<N>/` for ALL helper scripts and temp files; never use /tmp or the session scratchpad (other agents overwrite files there).
 
 Read `prompts/MASTER.txt` (current rules) first. Your group is entry N (0-based) of the list in the queue file named in your task message; its `"batches"` field lists `[batch_json, out]` pairs. For EACH pair:
 1. The source is `<out>`, or `.staging/needs_repair/<out>` if `<out>` does not exist. Copy the source to `.staging/r<N>/<basename>` and run `python3 scripts/validate_jsonl.py <batch_json> <that copy>` to see the FAIL lines.
