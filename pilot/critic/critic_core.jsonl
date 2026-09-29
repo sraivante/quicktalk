@@ -1,0 +1,80 @@
+{"sno": 225, "variant": 5, "verdict": "fix", "issues": ["Application answer says 'telling a parent' but passage says 'tell Mami' (usually maternal uncle's wife); relation not established", "Recipe asks for a home/family scene; setting never shown"], "suggested_fix": "Change answer to 'telling Mami together', or make the relation explicit in the passage (e.g. 'tell Mummy'); add one home detail."}
+{"sno": 231, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 258, "variant": 5, "verdict": "fix", "issues": ["Sensitive (addiction) record has two emojis in the passage ('🤍 not freaking out', 'tomorrow 🙏'); rule 10 allows at most one gentle emoji and only in an answer (conflicts with the R6 chat recipe)"], "suggested_fix": "Drop the passage emojis or keep only 🤍; settle the chat-recipe vs sensitive-emoji rule in the prompt."}
+{"sno": 235, "variant": 5, "verdict": "pass", "issues": ["Minor: mental_state answer only repeats Kiran's quoted words ('heavy all the time') instead of inferring a state"], "suggested_fix": "Optionally ask what Kiran's staring and withdrawal suggest she was feeling."}
+{"sno": 231, "variant": 1, "verdict": "fix", "issues": ["Perspective Q 'How might the school session have felt different for Damini' centres the protagonist"], "suggested_fix": "Ask how Pranav might have felt when Damini said 'Not now', or how the cousin's claim would look after hearing the story."}
+{"sno": 225, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 232, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 258, "variant": 2, "verdict": "fix", "issues": ["Perspective answer adds a fact: 'is getting back in touch' with Siddharth; passage never says so"], "suggested_fix": "End the answer at 'glad she recognised the problem and got help'."}
+{"sno": 258, "variant": 1, "verdict": "fix", "issues": ["R2 needs a family/home scene; no home or family shown and Anand's relation to Karthik never stated, yet grounding calls him 'a friend'", "Perspective asks about 'Karthik's family', who are not in the passage"], "suggested_fix": "Set it at home and state the relation (e.g. flatmate/brother); make perspective about Anand."}
+{"sno": 191, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 174, "variant": 3, "verdict": "fix", "issues": ["Perspective Q 'How is Emil affected by Bilal's calm reply?' centres the protagonist, not another person"], "suggested_fix": "Ask how Bilal might feel hearing this, or what the coach needs to know."}
+{"sno": 150, "variant": 1, "verdict": "fix", "issues": ["Speaker attribution broken: line 1 addresses 'Ritu', so line 3 should be the same speaker, yet it addresses 'Jatin bhaiya'; reader cannot tell who visited the supplier", "Mental_state answer assumes Ritu visited"], "suggested_fix": "Rewrite line 1 without the vocative or give each line a clear speaker tag."}
+{"sno": 232, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 209, "variant": 2, "verdict": "fix", "issues": ["Perspective answer gives the class teacher a gender ('She becomes one of his safe people'); passage does not state it", "Grounding assumes Sabina is 'a parent'; not stated"], "suggested_fix": "Use 'the teacher' / 'they'; state Sabina's relation (e.g. 'Ammi') or say 'an adult' in grounding."}
+{"sno": 174, "variant": 1, "verdict": "fix", "issues": ["Application Q 'What is Zeenat's plan after this?' is literal recall, not application"], "suggested_fix": "Ask 'Why is practising names and numbers every morning a good idea?' or 'What else could the class practise?'"}
+{"sno": 144, "variant": 3, "verdict": "pass", "issues": ["Minor: answers use 'he' for Lalit; gender inferred from the name only"], "suggested_fix": ""}
+{"sno": 235, "variant": 2, "verdict": "fix", "issues": ["Application answer 'She noticed changes' gives the note-writing teacher a gender never stated", "'What did the teacher do well' template (also used in sno 188/5)"], "suggested_fix": "Use 'The teacher noticed...'; vary the question frame."}
+{"sno": 191, "variant": 5, "verdict": "pass", "issues": ["Minor: 'her little brother' infers sibling relation from 'didi'; 🙏 appended to last answer"], "suggested_fix": ""}
+{"sno": 144, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 233, "variant": 4, "verdict": "fix", "issues": ["Kinship error: 'Ammamma' is the maternal grandmother (Amma's mother), but the perspective answer says Appa was 'grieving his mother too'"], "suggested_fix": "Say 'He was grieving her too' or 'grieving his mother-in-law'."}
+{"sno": 141, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 252, "variant": 3, "verdict": "fix", "issues": ["Chronology muddled: 'In the morning ... she'd said she'd had too much to drink the night before and didn't want anything to happen'", "Condom detail reads as the narrator inventorying a flatmate's cabinet and knowing it was 'bought from the chemist'; observer cannot know that"], "suggested_fix": "Make the order clear (she said it that night); replace the cabinet detail with something Saurabh mentions himself, e.g. a visit to the student health clinic."}
+{"sno": 231, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 252, "variant": 5, "verdict": "fix", "issues": ["Answers name the elder 'Omkar'; the passage never names the speaker (added name)", "🙂 appended to last answer on a consent topic; sensitive-emoji rule allows 🤍/🫂/🙏 only"], "suggested_fix": "Name the speaker in the passage (e.g. 'Omkar Mama') or say 'the storyteller'; drop the 🙂."}
+{"sno": 258, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 317, "variant": 4, "verdict": "fix", "issues": ["Answers call the unnamed speaker 'Vikas' and use 'himself'; passage names only the listener Deepak"], "suggested_fix": "Add a self-introduction ('I'm Vikas') or use 'the speaker' in answers."}
+{"sno": 180, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 219, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 108, "variant": 2, "verdict": "pass", "issues": ["Minor: 🎉 appended to last answer (habit pattern)"], "suggested_fix": ""}
+{"sno": 188, "variant": 5, "verdict": "pass", "issues": ["'What did Aparna Bua do well' repeats a template used elsewhere"], "suggested_fix": ""}
+{"sno": 11, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 87, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 44, "variant": 1, "verdict": "pass", "issues": ["Minor: 101 words, 1 over the 4-6 cap"], "suggested_fix": ""}
+{"sno": 41, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 25, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 130, "variant": 3, "verdict": "fix", "issues": ["Answers name the speaker 'Jyoti' and use 'She'; passage never names or genders the speaker"], "suggested_fix": "Add the name in the monologue or use 'the speaker'."}
+{"sno": 169, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 163, "variant": 5, "verdict": "pass", "issues": ["Minor: 83 words, over the 80-word cap for ages 1-3"], "suggested_fix": "Trim a clause."}
+{"sno": 21, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 21, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 234, "variant": 3, "verdict": "fix", "issues": ["Mental_state answer only restates behaviour ('She cried quietly at night so her mother wouldn't hear') and never names the inner state (lonely, hurting, pretending)", "'She wrote that in her notebook. 🙂' - emoji added to narration as decoration"], "suggested_fix": "Answer: 'She was lonely and hurting, even while telling herself she liked being alone.' Remove the narration emoji."}
+{"sno": 315, "variant": 3, "verdict": "pass", "issues": ["Minor: 🙏 on last answer does not match 'family risk feel real'"], "suggested_fix": ""}
+{"sno": 154, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 134, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 78, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 163, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 208, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 207, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 58, "variant": 4, "verdict": "pass", "issues": ["Minor: 'Mummy (Shalini)' is an unnatural way to insert the cast name in a child's diary"], "suggested_fix": ""}
+{"sno": 4, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 236, "variant": 5, "verdict": "pass", "issues": ["Minor: 'her sister' inferred from 'Bidisha di'"], "suggested_fix": ""}
+{"sno": 59, "variant": 1, "verdict": "pass", "issues": ["Minor: Raghav says 'It's in the water pile and the mammal pile' but his scheme has no separate water pile"], "suggested_fix": ""}
+{"sno": 14, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 224, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 195, "variant": 3, "verdict": "fix", "issues": ["Literal answer 'He whispered' gives Yuki a gender the passage never states"], "suggested_fix": "Use 'Yuki whispered' or state Yuki's pronoun in the passage."}
+{"sno": 292, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 110, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 57, "variant": 3, "verdict": "fix", "issues": ["Answers name the diarist 'Tushar' and say 'each brother'; passage gives neither the narrator's name nor the relation to Vishal"], "suggested_fix": "Sign the diary and state 'my little brother Vishal', or use 'the diarist'."}
+{"sno": 285, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 178, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 223, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 160, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 71, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 203, "variant": 1, "verdict": "fix", "issues": ["Fidelity partial: the row is admitting one's own mistake; Zeenat returns the shopkeeper's error but never owns her two-day delay, yet grounding claims 'admitting a mistake'"], "suggested_fix": "Add a line like 'I should have told you on Monday. I kept it.'"}
+{"sno": 21, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 48, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 123, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 74, "variant": 3, "verdict": "fix", "issues": ["Answers name the first-person narrator 'Anjali' and grounding says 'a girl'; passage gives no name or gender"], "suggested_fix": "Add the name to the passage or refer to 'the narrator'."}
+{"sno": 288, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 74, "variant": 2, "verdict": "fix", "issues": ["Perspective Q 'How might Gopika feel carrying the patched bag' centres the protagonist", "Literal answer adds 'rupees'; passage says only 'Six hundred'"], "suggested_fix": "Ask how Gurleen might feel about Gopika's idea, or how classmates might see the star patch; drop 'rupees'."}
+{"sno": 204, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 278, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 46, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 12, "variant": 2, "verdict": "pass", "issues": ["Minor: mental_state answer adds 'cold texture', not in passage"], "suggested_fix": ""}
+{"sno": 261, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 1, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 148, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 146, "variant": 1, "verdict": "fix", "issues": ["Answers name the elder 'Damini' and use 'her'; passage never names or genders the storyteller"], "suggested_fix": "Name the speaker in the passage or use 'the storyteller'."}
+{"sno": 36, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 27, "variant": 5, "verdict": "pass", "issues": ["Minor: Chotu is only mentioned, not shown playing; perspective answer assumes he is present"], "suggested_fix": ""}
