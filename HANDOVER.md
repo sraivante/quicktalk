@@ -119,3 +119,23 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** Gen group 50 is done (b0147–b0152). Launched 57 (dynamics b0013–b0018). Running: gen 52, 53, 54, 55, 56, 57. **Next gen group: 58.**
 - **Session 1 (cont.):** Gen group 54 is done (b0171–b0175). Launched 58 (dynamics b0019–b0024). Running: gen 52, 53, 55, 56, 57, 58. **Next gen group: 59.**
 - **Session 1 (cont.):** **Situational is complete** (175/175 batches, 1,744 records). The situational critic has started: `pilot/critic/sample_situational.jsonl` (180 records, a third from sensitive-looking rows, seed 303, built by `.staging/critic/sample.py`) is split into two Opus critic agents. Outputs go to `pilot/critic/critic_situational_part{0,1}.jsonl` and `_summary.md`. When they finish, build `batches/queue_repair3.json` from the fix and reject notes. Running: gen 55–58 (dynamics) and critics part 0 and 1. **Next gen group: 59** (dynamics b0025–b0030). Critic note: 1951 (b0164), where an adult's letter about unwelcome touching goes to the police the next morning; check.
+- **Session 1 (cont.):** **Situational critic done:** 123 pass, 57 fix, 0 reject (part0 70/21/0, part1 53/36/0). Top patterns:
+  1. he/she for named first-person narrators and third parties the passage never genders (32 records);
+  2. perspective questions centring the protagonist (7);
+  3. R2 recipe clash for non-family counterparts, and R7 without a rural setting;
+  4. same-day adult response missing on the page after a child tells a parent (873, 1210);
+  5. 1208: an online contact asked for secrecy, yet the meeting still goes ahead;
+  6. emoji mismatches (326, 398, 841, 936, 1224, 2033);
+  7. cast names repeat as fixed pairs.
+  **Root cause of the pairs:** `cast_for` in make_batches.py steps by 7919, so each first name always gets the same partner.
+  **Applied (prompt/config, under the user's earlier approval):**
+  - rule 2: a first-person narrator is ungendered unless the passage states it;
+  - rule 8: show the adult's same-day response on the page; secrecy from an online contact means end the contact and tell an adult;
+  - R2 reworded.
+  NOT yet regenerated into MASTER.txt.
+  **Blocked (a permission check denied the edit, needs the user's OK):**
+  - a validator WARN for he/she in first-person records;
+  - a per-index hash in `cast_for` to break the fixed pairs;
+  - then rerunning `make_batches.py --phase phase1` to rebuild MASTER.txt and the casts.
+  Until then, the launch prompts carry the narrator, perspective, R2 and disclosure guidance.
+  **Next:** build `batches/queue_repair3.json` from the 57 critic fixes (also run on same-pattern records?), and continue gen from 60.
