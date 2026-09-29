@@ -1,0 +1,5280 @@
+[
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0004.json",
+"out/01_core/v01-03_b0004.jsonl"
+],
+[
+"batches/01_core/v01-03_b0005.json",
+"out/01_core/v01-03_b0005.jsonl"
+],
+[
+"batches/01_core/v01-03_b0006.json",
+"out/01_core/v01-03_b0006.jsonl"
+],
+[
+"batches/01_core/v01-03_b0007.json",
+"out/01_core/v01-03_b0007.jsonl"
+],
+[
+"batches/01_core/v01-03_b0008.json",
+"out/01_core/v01-03_b0008.jsonl"
+],
+[
+"batches/01_core/v01-03_b0009.json",
+"out/01_core/v01-03_b0009.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0010.json",
+"out/01_core/v01-03_b0010.jsonl"
+],
+[
+"batches/01_core/v01-03_b0011.json",
+"out/01_core/v01-03_b0011.jsonl"
+],
+[
+"batches/01_core/v01-03_b0012.json",
+"out/01_core/v01-03_b0012.jsonl"
+],
+[
+"batches/01_core/v01-03_b0013.json",
+"out/01_core/v01-03_b0013.jsonl"
+],
+[
+"batches/01_core/v01-03_b0014.json",
+"out/01_core/v01-03_b0014.jsonl"
+],
+[
+"batches/01_core/v01-03_b0015.json",
+"out/01_core/v01-03_b0015.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0016.json",
+"out/01_core/v01-03_b0016.jsonl"
+],
+[
+"batches/01_core/v01-03_b0017.json",
+"out/01_core/v01-03_b0017.jsonl"
+],
+[
+"batches/01_core/v01-03_b0018.json",
+"out/01_core/v01-03_b0018.jsonl"
+],
+[
+"batches/01_core/v01-03_b0019.json",
+"out/01_core/v01-03_b0019.jsonl"
+],
+[
+"batches/01_core/v01-03_b0020.json",
+"out/01_core/v01-03_b0020.jsonl"
+],
+[
+"batches/01_core/v01-03_b0021.json",
+"out/01_core/v01-03_b0021.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0022.json",
+"out/01_core/v01-03_b0022.jsonl"
+],
+[
+"batches/01_core/v01-03_b0023.json",
+"out/01_core/v01-03_b0023.jsonl"
+],
+[
+"batches/01_core/v01-03_b0024.json",
+"out/01_core/v01-03_b0024.jsonl"
+],
+[
+"batches/01_core/v01-03_b0025.json",
+"out/01_core/v01-03_b0025.jsonl"
+],
+[
+"batches/01_core/v01-03_b0026.json",
+"out/01_core/v01-03_b0026.jsonl"
+],
+[
+"batches/01_core/v01-03_b0027.json",
+"out/01_core/v01-03_b0027.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0028.json",
+"out/01_core/v01-03_b0028.jsonl"
+],
+[
+"batches/01_core/v01-03_b0029.json",
+"out/01_core/v01-03_b0029.jsonl"
+],
+[
+"batches/01_core/v01-03_b0030.json",
+"out/01_core/v01-03_b0030.jsonl"
+],
+[
+"batches/01_core/v01-03_b0031.json",
+"out/01_core/v01-03_b0031.jsonl"
+],
+[
+"batches/01_core/v01-03_b0032.json",
+"out/01_core/v01-03_b0032.jsonl"
+],
+[
+"batches/01_core/v04-05_b0001.json",
+"out/01_core/v04-05_b0001.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0002.json",
+"out/01_core/v04-05_b0002.jsonl"
+],
+[
+"batches/01_core/v04-05_b0003.json",
+"out/01_core/v04-05_b0003.jsonl"
+],
+[
+"batches/01_core/v04-05_b0004.json",
+"out/01_core/v04-05_b0004.jsonl"
+],
+[
+"batches/01_core/v04-05_b0005.json",
+"out/01_core/v04-05_b0005.jsonl"
+],
+[
+"batches/01_core/v04-05_b0006.json",
+"out/01_core/v04-05_b0006.jsonl"
+],
+[
+"batches/01_core/v04-05_b0007.json",
+"out/01_core/v04-05_b0007.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0008.json",
+"out/01_core/v04-05_b0008.jsonl"
+],
+[
+"batches/01_core/v04-05_b0009.json",
+"out/01_core/v04-05_b0009.jsonl"
+],
+[
+"batches/01_core/v04-05_b0010.json",
+"out/01_core/v04-05_b0010.jsonl"
+],
+[
+"batches/01_core/v04-05_b0011.json",
+"out/01_core/v04-05_b0011.jsonl"
+],
+[
+"batches/01_core/v04-05_b0012.json",
+"out/01_core/v04-05_b0012.jsonl"
+],
+[
+"batches/01_core/v04-05_b0013.json",
+"out/01_core/v04-05_b0013.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0014.json",
+"out/01_core/v04-05_b0014.jsonl"
+],
+[
+"batches/01_core/v04-05_b0015.json",
+"out/01_core/v04-05_b0015.jsonl"
+],
+[
+"batches/01_core/v04-05_b0016.json",
+"out/01_core/v04-05_b0016.jsonl"
+],
+[
+"batches/01_core/v04-05_b0017.json",
+"out/01_core/v04-05_b0017.jsonl"
+],
+[
+"batches/01_core/v04-05_b0018.json",
+"out/01_core/v04-05_b0018.jsonl"
+],
+[
+"batches/01_core/v04-05_b0019.json",
+"out/01_core/v04-05_b0019.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0020.json",
+"out/01_core/v04-05_b0020.jsonl"
+],
+[
+"batches/01_core/v04-05_b0021.json",
+"out/01_core/v04-05_b0021.jsonl"
+],
+[
+"batches/01_core/v04-05_b0022.json",
+"out/01_core/v04-05_b0022.jsonl"
+],
+[
+"batches/01_core/v04-05_b0023.json",
+"out/01_core/v04-05_b0023.jsonl"
+],
+[
+"batches/01_core/v04-05_b0024.json",
+"out/01_core/v04-05_b0024.jsonl"
+],
+[
+"batches/01_core/v04-05_b0025.json",
+"out/01_core/v04-05_b0025.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0026.json",
+"out/01_core/v04-05_b0026.jsonl"
+],
+[
+"batches/01_core/v04-05_b0027.json",
+"out/01_core/v04-05_b0027.jsonl"
+],
+[
+"batches/01_core/v04-05_b0028.json",
+"out/01_core/v04-05_b0028.jsonl"
+],
+[
+"batches/01_core/v04-05_b0029.json",
+"out/01_core/v04-05_b0029.jsonl"
+],
+[
+"batches/01_core/v04-05_b0030.json",
+"out/01_core/v04-05_b0030.jsonl"
+],
+[
+"batches/01_core/v04-05_b0031.json",
+"out/01_core/v04-05_b0031.jsonl"
+]
+]
+},
+{
+"stage": "core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0032.json",
+"out/01_core/v04-05_b0032.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0001.json",
+"out/02_expression/v01-02_b0001.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0002.json",
+"out/02_expression/v01-02_b0002.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0003.json",
+"out/02_expression/v01-02_b0003.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0004.json",
+"out/02_expression/v01-02_b0004.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0005.json",
+"out/02_expression/v01-02_b0005.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0006.json",
+"out/02_expression/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0007.json",
+"out/02_expression/v01-02_b0007.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0008.json",
+"out/02_expression/v01-02_b0008.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0009.json",
+"out/02_expression/v01-02_b0009.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0010.json",
+"out/02_expression/v01-02_b0010.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0011.json",
+"out/02_expression/v01-02_b0011.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0012.json",
+"out/02_expression/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0013.json",
+"out/02_expression/v01-02_b0013.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0014.json",
+"out/02_expression/v01-02_b0014.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0015.json",
+"out/02_expression/v01-02_b0015.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0016.json",
+"out/02_expression/v01-02_b0016.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0017.json",
+"out/02_expression/v01-02_b0017.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0018.json",
+"out/02_expression/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0019.json",
+"out/02_expression/v01-02_b0019.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0020.json",
+"out/02_expression/v01-02_b0020.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0021.json",
+"out/02_expression/v01-02_b0021.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0022.json",
+"out/02_expression/v01-02_b0022.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0023.json",
+"out/02_expression/v01-02_b0023.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0024.json",
+"out/02_expression/v01-02_b0024.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0025.json",
+"out/02_expression/v01-02_b0025.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0026.json",
+"out/02_expression/v01-02_b0026.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0027.json",
+"out/02_expression/v01-02_b0027.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0028.json",
+"out/02_expression/v01-02_b0028.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0029.json",
+"out/02_expression/v01-02_b0029.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0030.json",
+"out/02_expression/v01-02_b0030.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0031.json",
+"out/02_expression/v01-02_b0031.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0032.json",
+"out/02_expression/v01-02_b0032.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0033.json",
+"out/02_expression/v01-02_b0033.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0034.json",
+"out/02_expression/v01-02_b0034.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0035.json",
+"out/02_expression/v01-02_b0035.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0036.json",
+"out/02_expression/v01-02_b0036.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0037.json",
+"out/02_expression/v01-02_b0037.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0038.json",
+"out/02_expression/v01-02_b0038.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0039.json",
+"out/02_expression/v01-02_b0039.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0040.json",
+"out/02_expression/v01-02_b0040.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0041.json",
+"out/02_expression/v01-02_b0041.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0042.json",
+"out/02_expression/v01-02_b0042.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0043.json",
+"out/02_expression/v01-02_b0043.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0044.json",
+"out/02_expression/v01-02_b0044.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0045.json",
+"out/02_expression/v01-02_b0045.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0046.json",
+"out/02_expression/v01-02_b0046.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0047.json",
+"out/02_expression/v01-02_b0047.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0048.json",
+"out/02_expression/v01-02_b0048.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0049.json",
+"out/02_expression/v01-02_b0049.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0050.json",
+"out/02_expression/v01-02_b0050.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0051.json",
+"out/02_expression/v01-02_b0051.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0052.json",
+"out/02_expression/v01-02_b0052.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0053.json",
+"out/02_expression/v01-02_b0053.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0054.json",
+"out/02_expression/v01-02_b0054.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0055.json",
+"out/02_expression/v01-02_b0055.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0056.json",
+"out/02_expression/v01-02_b0056.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0057.json",
+"out/02_expression/v01-02_b0057.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0058.json",
+"out/02_expression/v01-02_b0058.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0059.json",
+"out/02_expression/v01-02_b0059.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0060.json",
+"out/02_expression/v01-02_b0060.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0061.json",
+"out/02_expression/v01-02_b0061.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0062.json",
+"out/02_expression/v01-02_b0062.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0063.json",
+"out/02_expression/v01-02_b0063.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0064.json",
+"out/02_expression/v01-02_b0064.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0065.json",
+"out/02_expression/v01-02_b0065.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0066.json",
+"out/02_expression/v01-02_b0066.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0067.json",
+"out/02_expression/v01-02_b0067.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0068.json",
+"out/02_expression/v01-02_b0068.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0069.json",
+"out/02_expression/v01-02_b0069.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0070.json",
+"out/02_expression/v01-02_b0070.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0071.json",
+"out/02_expression/v01-02_b0071.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0072.json",
+"out/02_expression/v01-02_b0072.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0073.json",
+"out/02_expression/v01-02_b0073.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0074.json",
+"out/02_expression/v01-02_b0074.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0075.json",
+"out/02_expression/v01-02_b0075.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0076.json",
+"out/02_expression/v01-02_b0076.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0077.json",
+"out/02_expression/v01-02_b0077.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0078.json",
+"out/02_expression/v01-02_b0078.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0079.json",
+"out/02_expression/v01-02_b0079.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0080.json",
+"out/02_expression/v01-02_b0080.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0081.json",
+"out/02_expression/v01-02_b0081.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0082.json",
+"out/02_expression/v01-02_b0082.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0083.json",
+"out/02_expression/v01-02_b0083.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0084.json",
+"out/02_expression/v01-02_b0084.jsonl"
+]
+]
+},
+{
+"stage": "expression",
+"model": "sonnet",
+"batches": [
+[
+"batches/02_expression/v01-02_b0085.json",
+"out/02_expression/v01-02_b0085.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0003.json",
+"out/03_situational/v01-01_b0003.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0004.json",
+"out/03_situational/v01-01_b0004.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0005.json",
+"out/03_situational/v01-01_b0005.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0006.json",
+"out/03_situational/v01-01_b0006.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0007.json",
+"out/03_situational/v01-01_b0007.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0008.json",
+"out/03_situational/v01-01_b0008.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0009.json",
+"out/03_situational/v01-01_b0009.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0010.json",
+"out/03_situational/v01-01_b0010.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0011.json",
+"out/03_situational/v01-01_b0011.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0012.json",
+"out/03_situational/v01-01_b0012.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0013.json",
+"out/03_situational/v01-01_b0013.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0014.json",
+"out/03_situational/v01-01_b0014.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0015.json",
+"out/03_situational/v01-01_b0015.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0016.json",
+"out/03_situational/v01-01_b0016.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0017.json",
+"out/03_situational/v01-01_b0017.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0018.json",
+"out/03_situational/v01-01_b0018.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0019.json",
+"out/03_situational/v01-01_b0019.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0020.json",
+"out/03_situational/v01-01_b0020.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0021.json",
+"out/03_situational/v01-01_b0021.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0022.json",
+"out/03_situational/v01-01_b0022.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0023.json",
+"out/03_situational/v01-01_b0023.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0024.json",
+"out/03_situational/v01-01_b0024.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0025.json",
+"out/03_situational/v01-01_b0025.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0026.json",
+"out/03_situational/v01-01_b0026.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0027.json",
+"out/03_situational/v01-01_b0027.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0028.json",
+"out/03_situational/v01-01_b0028.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0029.json",
+"out/03_situational/v01-01_b0029.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0030.json",
+"out/03_situational/v01-01_b0030.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0031.json",
+"out/03_situational/v01-01_b0031.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0032.json",
+"out/03_situational/v01-01_b0032.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0033.json",
+"out/03_situational/v01-01_b0033.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0034.json",
+"out/03_situational/v01-01_b0034.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0035.json",
+"out/03_situational/v01-01_b0035.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0036.json",
+"out/03_situational/v01-01_b0036.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0037.json",
+"out/03_situational/v01-01_b0037.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0038.json",
+"out/03_situational/v01-01_b0038.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0039.json",
+"out/03_situational/v01-01_b0039.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0040.json",
+"out/03_situational/v01-01_b0040.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0041.json",
+"out/03_situational/v01-01_b0041.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0042.json",
+"out/03_situational/v01-01_b0042.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0043.json",
+"out/03_situational/v01-01_b0043.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0044.json",
+"out/03_situational/v01-01_b0044.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0045.json",
+"out/03_situational/v01-01_b0045.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0046.json",
+"out/03_situational/v01-01_b0046.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0047.json",
+"out/03_situational/v01-01_b0047.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0048.json",
+"out/03_situational/v01-01_b0048.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0049.json",
+"out/03_situational/v01-01_b0049.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0050.json",
+"out/03_situational/v01-01_b0050.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0051.json",
+"out/03_situational/v01-01_b0051.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0052.json",
+"out/03_situational/v01-01_b0052.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0053.json",
+"out/03_situational/v01-01_b0053.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0054.json",
+"out/03_situational/v01-01_b0054.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0055.json",
+"out/03_situational/v01-01_b0055.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0056.json",
+"out/03_situational/v01-01_b0056.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0057.json",
+"out/03_situational/v01-01_b0057.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0058.json",
+"out/03_situational/v01-01_b0058.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0059.json",
+"out/03_situational/v01-01_b0059.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0060.json",
+"out/03_situational/v01-01_b0060.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0061.json",
+"out/03_situational/v01-01_b0061.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0062.json",
+"out/03_situational/v01-01_b0062.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0063.json",
+"out/03_situational/v01-01_b0063.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0064.json",
+"out/03_situational/v01-01_b0064.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0065.json",
+"out/03_situational/v01-01_b0065.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0066.json",
+"out/03_situational/v01-01_b0066.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0067.json",
+"out/03_situational/v01-01_b0067.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0068.json",
+"out/03_situational/v01-01_b0068.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0069.json",
+"out/03_situational/v01-01_b0069.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0070.json",
+"out/03_situational/v01-01_b0070.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0071.json",
+"out/03_situational/v01-01_b0071.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0072.json",
+"out/03_situational/v01-01_b0072.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0073.json",
+"out/03_situational/v01-01_b0073.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0074.json",
+"out/03_situational/v01-01_b0074.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0075.json",
+"out/03_situational/v01-01_b0075.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0076.json",
+"out/03_situational/v01-01_b0076.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0077.json",
+"out/03_situational/v01-01_b0077.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0078.json",
+"out/03_situational/v01-01_b0078.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0079.json",
+"out/03_situational/v01-01_b0079.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0080.json",
+"out/03_situational/v01-01_b0080.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0081.json",
+"out/03_situational/v01-01_b0081.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0082.json",
+"out/03_situational/v01-01_b0082.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0083.json",
+"out/03_situational/v01-01_b0083.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0084.json",
+"out/03_situational/v01-01_b0084.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0085.json",
+"out/03_situational/v01-01_b0085.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0086.json",
+"out/03_situational/v01-01_b0086.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0087.json",
+"out/03_situational/v01-01_b0087.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0088.json",
+"out/03_situational/v01-01_b0088.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0089.json",
+"out/03_situational/v01-01_b0089.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0090.json",
+"out/03_situational/v01-01_b0090.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0091.json",
+"out/03_situational/v01-01_b0091.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0092.json",
+"out/03_situational/v01-01_b0092.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0093.json",
+"out/03_situational/v01-01_b0093.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0094.json",
+"out/03_situational/v01-01_b0094.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0095.json",
+"out/03_situational/v01-01_b0095.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0096.json",
+"out/03_situational/v01-01_b0096.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0097.json",
+"out/03_situational/v01-01_b0097.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0098.json",
+"out/03_situational/v01-01_b0098.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0099.json",
+"out/03_situational/v01-01_b0099.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0100.json",
+"out/03_situational/v01-01_b0100.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0101.json",
+"out/03_situational/v01-01_b0101.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0102.json",
+"out/03_situational/v01-01_b0102.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0103.json",
+"out/03_situational/v01-01_b0103.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0104.json",
+"out/03_situational/v01-01_b0104.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0105.json",
+"out/03_situational/v01-01_b0105.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0106.json",
+"out/03_situational/v01-01_b0106.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0107.json",
+"out/03_situational/v01-01_b0107.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0108.json",
+"out/03_situational/v01-01_b0108.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0109.json",
+"out/03_situational/v01-01_b0109.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0110.json",
+"out/03_situational/v01-01_b0110.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0111.json",
+"out/03_situational/v01-01_b0111.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0112.json",
+"out/03_situational/v01-01_b0112.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0113.json",
+"out/03_situational/v01-01_b0113.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0114.json",
+"out/03_situational/v01-01_b0114.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0115.json",
+"out/03_situational/v01-01_b0115.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0116.json",
+"out/03_situational/v01-01_b0116.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0117.json",
+"out/03_situational/v01-01_b0117.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0118.json",
+"out/03_situational/v01-01_b0118.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0119.json",
+"out/03_situational/v01-01_b0119.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0120.json",
+"out/03_situational/v01-01_b0120.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0121.json",
+"out/03_situational/v01-01_b0121.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0122.json",
+"out/03_situational/v01-01_b0122.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0123.json",
+"out/03_situational/v01-01_b0123.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0124.json",
+"out/03_situational/v01-01_b0124.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0125.json",
+"out/03_situational/v01-01_b0125.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0126.json",
+"out/03_situational/v01-01_b0126.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0127.json",
+"out/03_situational/v01-01_b0127.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0128.json",
+"out/03_situational/v01-01_b0128.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0129.json",
+"out/03_situational/v01-01_b0129.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0130.json",
+"out/03_situational/v01-01_b0130.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0131.json",
+"out/03_situational/v01-01_b0131.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0132.json",
+"out/03_situational/v01-01_b0132.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0133.json",
+"out/03_situational/v01-01_b0133.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0134.json",
+"out/03_situational/v01-01_b0134.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0135.json",
+"out/03_situational/v01-01_b0135.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0136.json",
+"out/03_situational/v01-01_b0136.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0137.json",
+"out/03_situational/v01-01_b0137.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0138.json",
+"out/03_situational/v01-01_b0138.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0139.json",
+"out/03_situational/v01-01_b0139.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0140.json",
+"out/03_situational/v01-01_b0140.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0141.json",
+"out/03_situational/v01-01_b0141.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0142.json",
+"out/03_situational/v01-01_b0142.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0143.json",
+"out/03_situational/v01-01_b0143.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0144.json",
+"out/03_situational/v01-01_b0144.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0145.json",
+"out/03_situational/v01-01_b0145.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0146.json",
+"out/03_situational/v01-01_b0146.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0147.json",
+"out/03_situational/v01-01_b0147.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0148.json",
+"out/03_situational/v01-01_b0148.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0149.json",
+"out/03_situational/v01-01_b0149.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0150.json",
+"out/03_situational/v01-01_b0150.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0151.json",
+"out/03_situational/v01-01_b0151.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0152.json",
+"out/03_situational/v01-01_b0152.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0153.json",
+"out/03_situational/v01-01_b0153.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0154.json",
+"out/03_situational/v01-01_b0154.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0155.json",
+"out/03_situational/v01-01_b0155.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0156.json",
+"out/03_situational/v01-01_b0156.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0157.json",
+"out/03_situational/v01-01_b0157.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0158.json",
+"out/03_situational/v01-01_b0158.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0159.json",
+"out/03_situational/v01-01_b0159.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0160.json",
+"out/03_situational/v01-01_b0160.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0161.json",
+"out/03_situational/v01-01_b0161.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0162.json",
+"out/03_situational/v01-01_b0162.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0163.json",
+"out/03_situational/v01-01_b0163.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0164.json",
+"out/03_situational/v01-01_b0164.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0165.json",
+"out/03_situational/v01-01_b0165.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0166.json",
+"out/03_situational/v01-01_b0166.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0167.json",
+"out/03_situational/v01-01_b0167.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0168.json",
+"out/03_situational/v01-01_b0168.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0169.json",
+"out/03_situational/v01-01_b0169.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0170.json",
+"out/03_situational/v01-01_b0170.jsonl"
+]
+]
+},
+{
+"stage": "situational",
+"model": "sonnet",
+"batches": [
+[
+"batches/03_situational/v01-01_b0171.json",
+"out/03_situational/v01-01_b0171.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0172.json",
+"out/03_situational/v01-01_b0172.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0173.json",
+"out/03_situational/v01-01_b0173.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0174.json",
+"out/03_situational/v01-01_b0174.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0175.json",
+"out/03_situational/v01-01_b0175.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0001.json",
+"out/04_dynamics/v01-02_b0001.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0002.json",
+"out/04_dynamics/v01-02_b0002.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0003.json",
+"out/04_dynamics/v01-02_b0003.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0004.json",
+"out/04_dynamics/v01-02_b0004.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0005.json",
+"out/04_dynamics/v01-02_b0005.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0006.json",
+"out/04_dynamics/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0007.json",
+"out/04_dynamics/v01-02_b0007.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0008.json",
+"out/04_dynamics/v01-02_b0008.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0009.json",
+"out/04_dynamics/v01-02_b0009.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0010.json",
+"out/04_dynamics/v01-02_b0010.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0011.json",
+"out/04_dynamics/v01-02_b0011.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0012.json",
+"out/04_dynamics/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0013.json",
+"out/04_dynamics/v01-02_b0013.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0014.json",
+"out/04_dynamics/v01-02_b0014.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0015.json",
+"out/04_dynamics/v01-02_b0015.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0016.json",
+"out/04_dynamics/v01-02_b0016.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0017.json",
+"out/04_dynamics/v01-02_b0017.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0018.json",
+"out/04_dynamics/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0019.json",
+"out/04_dynamics/v01-02_b0019.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0020.json",
+"out/04_dynamics/v01-02_b0020.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0021.json",
+"out/04_dynamics/v01-02_b0021.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0022.json",
+"out/04_dynamics/v01-02_b0022.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0023.json",
+"out/04_dynamics/v01-02_b0023.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0024.json",
+"out/04_dynamics/v01-02_b0024.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0025.json",
+"out/04_dynamics/v01-02_b0025.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0026.json",
+"out/04_dynamics/v01-02_b0026.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0027.json",
+"out/04_dynamics/v01-02_b0027.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0028.json",
+"out/04_dynamics/v01-02_b0028.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0029.json",
+"out/04_dynamics/v01-02_b0029.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0030.json",
+"out/04_dynamics/v01-02_b0030.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0031.json",
+"out/04_dynamics/v01-02_b0031.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0032.json",
+"out/04_dynamics/v01-02_b0032.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0033.json",
+"out/04_dynamics/v01-02_b0033.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0034.json",
+"out/04_dynamics/v01-02_b0034.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0035.json",
+"out/04_dynamics/v01-02_b0035.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0036.json",
+"out/04_dynamics/v01-02_b0036.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0037.json",
+"out/04_dynamics/v01-02_b0037.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0038.json",
+"out/04_dynamics/v01-02_b0038.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0039.json",
+"out/04_dynamics/v01-02_b0039.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0040.json",
+"out/04_dynamics/v01-02_b0040.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0041.json",
+"out/04_dynamics/v01-02_b0041.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0042.json",
+"out/04_dynamics/v01-02_b0042.jsonl"
+]
+]
+},
+{
+"stage": "dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0043.json",
+"out/04_dynamics/v01-02_b0043.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0044.json",
+"out/04_dynamics/v01-02_b0044.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0045.json",
+"out/04_dynamics/v01-02_b0045.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0001.json",
+"out/05_cognitive/v01-03_b0001.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0002.json",
+"out/05_cognitive/v01-03_b0002.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0003.json",
+"out/05_cognitive/v01-03_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0004.json",
+"out/05_cognitive/v01-03_b0004.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0005.json",
+"out/05_cognitive/v01-03_b0005.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0006.json",
+"out/05_cognitive/v01-03_b0006.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0007.json",
+"out/05_cognitive/v01-03_b0007.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0008.json",
+"out/05_cognitive/v01-03_b0008.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0009.json",
+"out/05_cognitive/v01-03_b0009.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0010.json",
+"out/05_cognitive/v01-03_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0011.json",
+"out/05_cognitive/v01-03_b0011.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0012.json",
+"out/05_cognitive/v01-03_b0012.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0013.json",
+"out/05_cognitive/v01-03_b0013.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0014.json",
+"out/05_cognitive/v01-03_b0014.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0015.json",
+"out/05_cognitive/v01-03_b0015.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0016.json",
+"out/05_cognitive/v01-03_b0016.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0017.json",
+"out/05_cognitive/v01-03_b0017.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0018.json",
+"out/05_cognitive/v01-03_b0018.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0019.json",
+"out/05_cognitive/v01-03_b0019.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0020.json",
+"out/05_cognitive/v01-03_b0020.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0021.json",
+"out/05_cognitive/v01-03_b0021.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0022.json",
+"out/05_cognitive/v01-03_b0022.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0023.json",
+"out/05_cognitive/v01-03_b0023.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0024.json",
+"out/05_cognitive/v01-03_b0024.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0025.json",
+"out/05_cognitive/v01-03_b0025.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0026.json",
+"out/05_cognitive/v01-03_b0026.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0027.json",
+"out/05_cognitive/v01-03_b0027.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0028.json",
+"out/05_cognitive/v01-03_b0028.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0029.json",
+"out/05_cognitive/v01-03_b0029.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0030.json",
+"out/05_cognitive/v01-03_b0030.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0031.json",
+"out/05_cognitive/v01-03_b0031.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0032.json",
+"out/05_cognitive/v01-03_b0032.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0033.json",
+"out/05_cognitive/v01-03_b0033.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0034.json",
+"out/05_cognitive/v01-03_b0034.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0035.json",
+"out/05_cognitive/v01-03_b0035.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0036.json",
+"out/05_cognitive/v01-03_b0036.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0037.json",
+"out/05_cognitive/v01-03_b0037.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0038.json",
+"out/05_cognitive/v01-03_b0038.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0039.json",
+"out/05_cognitive/v01-03_b0039.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0040.json",
+"out/05_cognitive/v01-03_b0040.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0041.json",
+"out/05_cognitive/v01-03_b0041.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0042.json",
+"out/05_cognitive/v01-03_b0042.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0043.json",
+"out/05_cognitive/v01-03_b0043.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0044.json",
+"out/05_cognitive/v01-03_b0044.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0045.json",
+"out/05_cognitive/v01-03_b0045.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0046.json",
+"out/05_cognitive/v01-03_b0046.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0047.json",
+"out/05_cognitive/v01-03_b0047.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0048.json",
+"out/05_cognitive/v01-03_b0048.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0049.json",
+"out/05_cognitive/v01-03_b0049.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0050.json",
+"out/05_cognitive/v01-03_b0050.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0051.json",
+"out/05_cognitive/v01-03_b0051.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0052.json",
+"out/05_cognitive/v01-03_b0052.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0053.json",
+"out/05_cognitive/v01-03_b0053.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0054.json",
+"out/05_cognitive/v01-03_b0054.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0055.json",
+"out/05_cognitive/v01-03_b0055.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0001.json",
+"out/05_cognitive/v04-05_b0001.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0002.json",
+"out/05_cognitive/v04-05_b0002.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0003.json",
+"out/05_cognitive/v04-05_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0004.json",
+"out/05_cognitive/v04-05_b0004.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0005.json",
+"out/05_cognitive/v04-05_b0005.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0006.json",
+"out/05_cognitive/v04-05_b0006.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0007.json",
+"out/05_cognitive/v04-05_b0007.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0008.json",
+"out/05_cognitive/v04-05_b0008.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0009.json",
+"out/05_cognitive/v04-05_b0009.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0010.json",
+"out/05_cognitive/v04-05_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0011.json",
+"out/05_cognitive/v04-05_b0011.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0012.json",
+"out/05_cognitive/v04-05_b0012.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0013.json",
+"out/05_cognitive/v04-05_b0013.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0014.json",
+"out/05_cognitive/v04-05_b0014.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0015.json",
+"out/05_cognitive/v04-05_b0015.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0016.json",
+"out/05_cognitive/v04-05_b0016.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0017.json",
+"out/05_cognitive/v04-05_b0017.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0018.json",
+"out/05_cognitive/v04-05_b0018.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0019.json",
+"out/05_cognitive/v04-05_b0019.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0020.json",
+"out/05_cognitive/v04-05_b0020.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0021.json",
+"out/05_cognitive/v04-05_b0021.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0022.json",
+"out/05_cognitive/v04-05_b0022.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0023.json",
+"out/05_cognitive/v04-05_b0023.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0024.json",
+"out/05_cognitive/v04-05_b0024.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0025.json",
+"out/05_cognitive/v04-05_b0025.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0026.json",
+"out/05_cognitive/v04-05_b0026.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0027.json",
+"out/05_cognitive/v04-05_b0027.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0028.json",
+"out/05_cognitive/v04-05_b0028.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0029.json",
+"out/05_cognitive/v04-05_b0029.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0030.json",
+"out/05_cognitive/v04-05_b0030.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0031.json",
+"out/05_cognitive/v04-05_b0031.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0032.json",
+"out/05_cognitive/v04-05_b0032.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0033.json",
+"out/05_cognitive/v04-05_b0033.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0034.json",
+"out/05_cognitive/v04-05_b0034.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0035.json",
+"out/05_cognitive/v04-05_b0035.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0036.json",
+"out/05_cognitive/v04-05_b0036.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0037.json",
+"out/05_cognitive/v04-05_b0037.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0038.json",
+"out/05_cognitive/v04-05_b0038.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0039.json",
+"out/05_cognitive/v04-05_b0039.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0040.json",
+"out/05_cognitive/v04-05_b0040.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0041.json",
+"out/05_cognitive/v04-05_b0041.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0042.json",
+"out/05_cognitive/v04-05_b0042.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0043.json",
+"out/05_cognitive/v04-05_b0043.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0044.json",
+"out/05_cognitive/v04-05_b0044.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0045.json",
+"out/05_cognitive/v04-05_b0045.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0046.json",
+"out/05_cognitive/v04-05_b0046.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0047.json",
+"out/05_cognitive/v04-05_b0047.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0048.json",
+"out/05_cognitive/v04-05_b0048.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0049.json",
+"out/05_cognitive/v04-05_b0049.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0050.json",
+"out/05_cognitive/v04-05_b0050.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0051.json",
+"out/05_cognitive/v04-05_b0051.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0052.json",
+"out/05_cognitive/v04-05_b0052.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0053.json",
+"out/05_cognitive/v04-05_b0053.jsonl"
+]
+]
+},
+{
+"stage": "cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0054.json",
+"out/05_cognitive/v04-05_b0054.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0055.json",
+"out/05_cognitive/v04-05_b0055.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0001.json",
+"out/06_foundational/v01-03_b0001.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0002.json",
+"out/06_foundational/v01-03_b0002.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0003.json",
+"out/06_foundational/v01-03_b0003.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0004.json",
+"out/06_foundational/v01-03_b0004.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0005.json",
+"out/06_foundational/v01-03_b0005.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0006.json",
+"out/06_foundational/v01-03_b0006.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0007.json",
+"out/06_foundational/v01-03_b0007.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0008.json",
+"out/06_foundational/v01-03_b0008.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0009.json",
+"out/06_foundational/v01-03_b0009.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0010.json",
+"out/06_foundational/v01-03_b0010.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0011.json",
+"out/06_foundational/v01-03_b0011.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0012.json",
+"out/06_foundational/v01-03_b0012.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0013.json",
+"out/06_foundational/v01-03_b0013.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0014.json",
+"out/06_foundational/v01-03_b0014.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0015.json",
+"out/06_foundational/v01-03_b0015.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0016.json",
+"out/06_foundational/v01-03_b0016.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0017.json",
+"out/06_foundational/v01-03_b0017.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0018.json",
+"out/06_foundational/v01-03_b0018.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0019.json",
+"out/06_foundational/v01-03_b0019.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0020.json",
+"out/06_foundational/v01-03_b0020.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0021.json",
+"out/06_foundational/v01-03_b0021.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0022.json",
+"out/06_foundational/v01-03_b0022.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0023.json",
+"out/06_foundational/v01-03_b0023.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0024.json",
+"out/06_foundational/v01-03_b0024.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0025.json",
+"out/06_foundational/v01-03_b0025.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0026.json",
+"out/06_foundational/v01-03_b0026.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0027.json",
+"out/06_foundational/v01-03_b0027.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0028.json",
+"out/06_foundational/v01-03_b0028.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0029.json",
+"out/06_foundational/v01-03_b0029.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0030.json",
+"out/06_foundational/v01-03_b0030.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0031.json",
+"out/06_foundational/v01-03_b0031.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0032.json",
+"out/06_foundational/v01-03_b0032.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0001.json",
+"out/06_foundational/v04-05_b0001.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0002.json",
+"out/06_foundational/v04-05_b0002.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0003.json",
+"out/06_foundational/v04-05_b0003.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0004.json",
+"out/06_foundational/v04-05_b0004.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0005.json",
+"out/06_foundational/v04-05_b0005.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0006.json",
+"out/06_foundational/v04-05_b0006.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0007.json",
+"out/06_foundational/v04-05_b0007.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0008.json",
+"out/06_foundational/v04-05_b0008.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0009.json",
+"out/06_foundational/v04-05_b0009.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0010.json",
+"out/06_foundational/v04-05_b0010.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0011.json",
+"out/06_foundational/v04-05_b0011.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0012.json",
+"out/06_foundational/v04-05_b0012.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0013.json",
+"out/06_foundational/v04-05_b0013.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0014.json",
+"out/06_foundational/v04-05_b0014.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0015.json",
+"out/06_foundational/v04-05_b0015.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0016.json",
+"out/06_foundational/v04-05_b0016.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0017.json",
+"out/06_foundational/v04-05_b0017.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0018.json",
+"out/06_foundational/v04-05_b0018.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0019.json",
+"out/06_foundational/v04-05_b0019.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0020.json",
+"out/06_foundational/v04-05_b0020.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0021.json",
+"out/06_foundational/v04-05_b0021.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0022.json",
+"out/06_foundational/v04-05_b0022.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0023.json",
+"out/06_foundational/v04-05_b0023.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0024.json",
+"out/06_foundational/v04-05_b0024.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0025.json",
+"out/06_foundational/v04-05_b0025.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0026.json",
+"out/06_foundational/v04-05_b0026.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0027.json",
+"out/06_foundational/v04-05_b0027.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0028.json",
+"out/06_foundational/v04-05_b0028.jsonl"
+]
+]
+},
+{
+"stage": "foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0029.json",
+"out/06_foundational/v04-05_b0029.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0030.json",
+"out/06_foundational/v04-05_b0030.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0031.json",
+"out/06_foundational/v04-05_b0031.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0032.json",
+"out/06_foundational/v04-05_b0032.jsonl"
+]
+]
+},
+{
+"stage": "personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0001.json",
+"out/07_personality/v01-02_b0001.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0002.json",
+"out/07_personality/v01-02_b0002.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0003.json",
+"out/07_personality/v01-02_b0003.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0004.json",
+"out/07_personality/v01-02_b0004.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0005.json",
+"out/07_personality/v01-02_b0005.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0006.json",
+"out/07_personality/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0007.json",
+"out/07_personality/v01-02_b0007.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0008.json",
+"out/07_personality/v01-02_b0008.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0009.json",
+"out/07_personality/v01-02_b0009.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0010.json",
+"out/07_personality/v01-02_b0010.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0011.json",
+"out/07_personality/v01-02_b0011.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0012.json",
+"out/07_personality/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0013.json",
+"out/07_personality/v01-02_b0013.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0014.json",
+"out/07_personality/v01-02_b0014.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0015.json",
+"out/07_personality/v01-02_b0015.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0016.json",
+"out/07_personality/v01-02_b0016.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0017.json",
+"out/07_personality/v01-02_b0017.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0018.json",
+"out/07_personality/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0019.json",
+"out/07_personality/v01-02_b0019.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0020.json",
+"out/07_personality/v01-02_b0020.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0021.json",
+"out/07_personality/v01-02_b0021.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0022.json",
+"out/07_personality/v01-02_b0022.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0023.json",
+"out/07_personality/v01-02_b0023.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0024.json",
+"out/07_personality/v01-02_b0024.jsonl"
+]
+]
+},
+{
+"stage": "personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0025.json",
+"out/07_personality/v01-02_b0025.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0026.json",
+"out/07_personality/v01-02_b0026.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0027.json",
+"out/07_personality/v01-02_b0027.jsonl"
+]
+]
+},
+{
+"stage": "group",
+"model": "sonnet",
+"batches": [
+[
+"batches/08_group/v01-02_b0001.json",
+"out/08_group/v01-02_b0001.jsonl"
+],
+[
+"batches/08_group/v01-02_b0002.json",
+"out/08_group/v01-02_b0002.jsonl"
+],
+[
+"batches/08_group/v01-02_b0003.json",
+"out/08_group/v01-02_b0003.jsonl"
+],
+[
+"batches/08_group/v01-02_b0004.json",
+"out/08_group/v01-02_b0004.jsonl"
+],
+[
+"batches/08_group/v01-02_b0005.json",
+"out/08_group/v01-02_b0005.jsonl"
+],
+[
+"batches/08_group/v01-02_b0006.json",
+"out/08_group/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "group",
+"model": "sonnet",
+"batches": [
+[
+"batches/08_group/v01-02_b0007.json",
+"out/08_group/v01-02_b0007.jsonl"
+],
+[
+"batches/08_group/v01-02_b0008.json",
+"out/08_group/v01-02_b0008.jsonl"
+],
+[
+"batches/08_group/v01-02_b0009.json",
+"out/08_group/v01-02_b0009.jsonl"
+],
+[
+"batches/08_group/v01-02_b0010.json",
+"out/08_group/v01-02_b0010.jsonl"
+],
+[
+"batches/08_group/v01-02_b0011.json",
+"out/08_group/v01-02_b0011.jsonl"
+],
+[
+"batches/08_group/v01-02_b0012.json",
+"out/08_group/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "group",
+"model": "sonnet",
+"batches": [
+[
+"batches/08_group/v01-02_b0013.json",
+"out/08_group/v01-02_b0013.jsonl"
+],
+[
+"batches/08_group/v01-02_b0014.json",
+"out/08_group/v01-02_b0014.jsonl"
+],
+[
+"batches/08_group/v01-02_b0015.json",
+"out/08_group/v01-02_b0015.jsonl"
+],
+[
+"batches/08_group/v01-02_b0016.json",
+"out/08_group/v01-02_b0016.jsonl"
+],
+[
+"batches/08_group/v01-02_b0017.json",
+"out/08_group/v01-02_b0017.jsonl"
+],
+[
+"batches/08_group/v01-02_b0018.json",
+"out/08_group/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "group",
+"model": "sonnet",
+"batches": [
+[
+"batches/08_group/v01-02_b0019.json",
+"out/08_group/v01-02_b0019.jsonl"
+],
+[
+"batches/08_group/v01-02_b0020.json",
+"out/08_group/v01-02_b0020.jsonl"
+],
+[
+"batches/08_group/v01-02_b0021.json",
+"out/08_group/v01-02_b0021.jsonl"
+],
+[
+"batches/08_group/v01-02_b0022.json",
+"out/08_group/v01-02_b0022.jsonl"
+],
+[
+"batches/08_group/v01-02_b0023.json",
+"out/08_group/v01-02_b0023.jsonl"
+]
+]
+},
+{
+"stage": "deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0001.json",
+"out/09_deception/v01-02_b0001.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0002.json",
+"out/09_deception/v01-02_b0002.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0003.json",
+"out/09_deception/v01-02_b0003.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0004.json",
+"out/09_deception/v01-02_b0004.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0005.json",
+"out/09_deception/v01-02_b0005.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0006.json",
+"out/09_deception/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0007.json",
+"out/09_deception/v01-02_b0007.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0008.json",
+"out/09_deception/v01-02_b0008.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0009.json",
+"out/09_deception/v01-02_b0009.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0010.json",
+"out/09_deception/v01-02_b0010.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0011.json",
+"out/09_deception/v01-02_b0011.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0012.json",
+"out/09_deception/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0013.json",
+"out/09_deception/v01-02_b0013.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0014.json",
+"out/09_deception/v01-02_b0014.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0015.json",
+"out/09_deception/v01-02_b0015.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0016.json",
+"out/09_deception/v01-02_b0016.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0017.json",
+"out/09_deception/v01-02_b0017.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0018.json",
+"out/09_deception/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0019.json",
+"out/09_deception/v01-02_b0019.jsonl"
+]
+]
+},
+{
+"stage": "culture",
+"model": "sonnet",
+"batches": [
+[
+"batches/10_culture/v01-02_b0001.json",
+"out/10_culture/v01-02_b0001.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0002.json",
+"out/10_culture/v01-02_b0002.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0003.json",
+"out/10_culture/v01-02_b0003.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0004.json",
+"out/10_culture/v01-02_b0004.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0005.json",
+"out/10_culture/v01-02_b0005.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0006.json",
+"out/10_culture/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "culture",
+"model": "sonnet",
+"batches": [
+[
+"batches/10_culture/v01-02_b0007.json",
+"out/10_culture/v01-02_b0007.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0008.json",
+"out/10_culture/v01-02_b0008.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0009.json",
+"out/10_culture/v01-02_b0009.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0010.json",
+"out/10_culture/v01-02_b0010.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0011.json",
+"out/10_culture/v01-02_b0011.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0012.json",
+"out/10_culture/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "culture",
+"model": "sonnet",
+"batches": [
+[
+"batches/10_culture/v01-02_b0013.json",
+"out/10_culture/v01-02_b0013.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0014.json",
+"out/10_culture/v01-02_b0014.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0015.json",
+"out/10_culture/v01-02_b0015.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0016.json",
+"out/10_culture/v01-02_b0016.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0017.json",
+"out/10_culture/v01-02_b0017.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0018.json",
+"out/10_culture/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "culture",
+"model": "sonnet",
+"batches": [
+[
+"batches/10_culture/v01-02_b0019.json",
+"out/10_culture/v01-02_b0019.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0020.json",
+"out/10_culture/v01-02_b0020.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0021.json",
+"out/10_culture/v01-02_b0021.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0022.json",
+"out/10_culture/v01-02_b0022.jsonl"
+]
+]
+},
+{
+"stage": "body",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0001.json",
+"out/11_body/v01-02_b0001.jsonl"
+],
+[
+"batches/11_body/v01-02_b0002.json",
+"out/11_body/v01-02_b0002.jsonl"
+],
+[
+"batches/11_body/v01-02_b0003.json",
+"out/11_body/v01-02_b0003.jsonl"
+],
+[
+"batches/11_body/v01-02_b0004.json",
+"out/11_body/v01-02_b0004.jsonl"
+],
+[
+"batches/11_body/v01-02_b0005.json",
+"out/11_body/v01-02_b0005.jsonl"
+],
+[
+"batches/11_body/v01-02_b0006.json",
+"out/11_body/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "body",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0007.json",
+"out/11_body/v01-02_b0007.jsonl"
+],
+[
+"batches/11_body/v01-02_b0008.json",
+"out/11_body/v01-02_b0008.jsonl"
+],
+[
+"batches/11_body/v01-02_b0009.json",
+"out/11_body/v01-02_b0009.jsonl"
+],
+[
+"batches/11_body/v01-02_b0010.json",
+"out/11_body/v01-02_b0010.jsonl"
+],
+[
+"batches/11_body/v01-02_b0011.json",
+"out/11_body/v01-02_b0011.jsonl"
+],
+[
+"batches/11_body/v01-02_b0012.json",
+"out/11_body/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "body",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0013.json",
+"out/11_body/v01-02_b0013.jsonl"
+],
+[
+"batches/11_body/v01-02_b0014.json",
+"out/11_body/v01-02_b0014.jsonl"
+],
+[
+"batches/11_body/v01-02_b0015.json",
+"out/11_body/v01-02_b0015.jsonl"
+],
+[
+"batches/11_body/v01-02_b0016.json",
+"out/11_body/v01-02_b0016.jsonl"
+],
+[
+"batches/11_body/v01-02_b0017.json",
+"out/11_body/v01-02_b0017.jsonl"
+],
+[
+"batches/11_body/v01-02_b0018.json",
+"out/11_body/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "body",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0019.json",
+"out/11_body/v01-02_b0019.jsonl"
+],
+[
+"batches/11_body/v01-02_b0020.json",
+"out/11_body/v01-02_b0020.jsonl"
+]
+]
+},
+{
+"stage": "execution",
+"model": "sonnet",
+"batches": [
+[
+"batches/12_execution/v01-02_b0001.json",
+"out/12_execution/v01-02_b0001.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0002.json",
+"out/12_execution/v01-02_b0002.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0003.json",
+"out/12_execution/v01-02_b0003.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0004.json",
+"out/12_execution/v01-02_b0004.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0005.json",
+"out/12_execution/v01-02_b0005.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0006.json",
+"out/12_execution/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "execution",
+"model": "sonnet",
+"batches": [
+[
+"batches/12_execution/v01-02_b0007.json",
+"out/12_execution/v01-02_b0007.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0008.json",
+"out/12_execution/v01-02_b0008.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0009.json",
+"out/12_execution/v01-02_b0009.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0010.json",
+"out/12_execution/v01-02_b0010.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0011.json",
+"out/12_execution/v01-02_b0011.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0012.json",
+"out/12_execution/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "execution",
+"model": "sonnet",
+"batches": [
+[
+"batches/12_execution/v01-02_b0013.json",
+"out/12_execution/v01-02_b0013.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0014.json",
+"out/12_execution/v01-02_b0014.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0015.json",
+"out/12_execution/v01-02_b0015.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0016.json",
+"out/12_execution/v01-02_b0016.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0017.json",
+"out/12_execution/v01-02_b0017.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0018.json",
+"out/12_execution/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "execution",
+"model": "sonnet",
+"batches": [
+[
+"batches/12_execution/v01-02_b0019.json",
+"out/12_execution/v01-02_b0019.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0020.json",
+"out/12_execution/v01-02_b0020.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0021.json",
+"out/12_execution/v01-02_b0021.jsonl"
+]
+]
+},
+{
+"stage": "wellbeing",
+"model": "sonnet",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0001.json",
+"out/13_wellbeing/v01-02_b0001.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0002.json",
+"out/13_wellbeing/v01-02_b0002.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0003.json",
+"out/13_wellbeing/v01-02_b0003.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0004.json",
+"out/13_wellbeing/v01-02_b0004.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0005.json",
+"out/13_wellbeing/v01-02_b0005.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0006.json",
+"out/13_wellbeing/v01-02_b0006.jsonl"
+]
+]
+},
+{
+"stage": "wellbeing",
+"model": "sonnet",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0007.json",
+"out/13_wellbeing/v01-02_b0007.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0008.json",
+"out/13_wellbeing/v01-02_b0008.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0009.json",
+"out/13_wellbeing/v01-02_b0009.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0010.json",
+"out/13_wellbeing/v01-02_b0010.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0011.json",
+"out/13_wellbeing/v01-02_b0011.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0012.json",
+"out/13_wellbeing/v01-02_b0012.jsonl"
+]
+]
+},
+{
+"stage": "wellbeing",
+"model": "sonnet",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0013.json",
+"out/13_wellbeing/v01-02_b0013.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0014.json",
+"out/13_wellbeing/v01-02_b0014.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0015.json",
+"out/13_wellbeing/v01-02_b0015.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0016.json",
+"out/13_wellbeing/v01-02_b0016.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0017.json",
+"out/13_wellbeing/v01-02_b0017.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0018.json",
+"out/13_wellbeing/v01-02_b0018.jsonl"
+]
+]
+},
+{
+"stage": "wellbeing",
+"model": "sonnet",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0019.json",
+"out/13_wellbeing/v01-02_b0019.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0020.json",
+"out/13_wellbeing/v01-02_b0020.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0021.json",
+"out/13_wellbeing/v01-02_b0021.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0022.json",
+"out/13_wellbeing/v01-02_b0022.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0023.json",
+"out/13_wellbeing/v01-02_b0023.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0024.json",
+"out/13_wellbeing/v01-02_b0024.jsonl"
+]
+]
+},
+{
+"stage": "wellbeing",
+"model": "sonnet",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0025.json",
+"out/13_wellbeing/v01-02_b0025.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0001.json",
+"out/14_planning/v01-01_b0001.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0002.json",
+"out/14_planning/v01-01_b0002.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0003.json",
+"out/14_planning/v01-01_b0003.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0004.json",
+"out/14_planning/v01-01_b0004.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0005.json",
+"out/14_planning/v01-01_b0005.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0006.json",
+"out/14_planning/v01-01_b0006.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0007.json",
+"out/14_planning/v01-01_b0007.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0008.json",
+"out/14_planning/v01-01_b0008.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0009.json",
+"out/14_planning/v01-01_b0009.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0010.json",
+"out/14_planning/v01-01_b0010.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0011.json",
+"out/14_planning/v01-01_b0011.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0012.json",
+"out/14_planning/v01-01_b0012.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0013.json",
+"out/14_planning/v01-01_b0013.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0014.json",
+"out/14_planning/v01-01_b0014.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0015.json",
+"out/14_planning/v01-01_b0015.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0016.json",
+"out/14_planning/v01-01_b0016.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0017.json",
+"out/14_planning/v01-01_b0017.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0018.json",
+"out/14_planning/v01-01_b0018.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0019.json",
+"out/14_planning/v01-01_b0019.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0020.json",
+"out/14_planning/v01-01_b0020.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0021.json",
+"out/14_planning/v01-01_b0021.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0022.json",
+"out/14_planning/v01-01_b0022.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0023.json",
+"out/14_planning/v01-01_b0023.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0024.json",
+"out/14_planning/v01-01_b0024.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0025.json",
+"out/14_planning/v01-01_b0025.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0026.json",
+"out/14_planning/v01-01_b0026.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0027.json",
+"out/14_planning/v01-01_b0027.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0028.json",
+"out/14_planning/v01-01_b0028.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0029.json",
+"out/14_planning/v01-01_b0029.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0030.json",
+"out/14_planning/v01-01_b0030.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0031.json",
+"out/14_planning/v01-01_b0031.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0032.json",
+"out/14_planning/v01-01_b0032.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0033.json",
+"out/14_planning/v01-01_b0033.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0034.json",
+"out/14_planning/v01-01_b0034.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0035.json",
+"out/14_planning/v01-01_b0035.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0036.json",
+"out/14_planning/v01-01_b0036.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0037.json",
+"out/14_planning/v01-01_b0037.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0038.json",
+"out/14_planning/v01-01_b0038.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0039.json",
+"out/14_planning/v01-01_b0039.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0040.json",
+"out/14_planning/v01-01_b0040.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0041.json",
+"out/14_planning/v01-01_b0041.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0042.json",
+"out/14_planning/v01-01_b0042.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0043.json",
+"out/14_planning/v01-01_b0043.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0044.json",
+"out/14_planning/v01-01_b0044.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0045.json",
+"out/14_planning/v01-01_b0045.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0046.json",
+"out/14_planning/v01-01_b0046.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0047.json",
+"out/14_planning/v01-01_b0047.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0048.json",
+"out/14_planning/v01-01_b0048.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0049.json",
+"out/14_planning/v01-01_b0049.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0050.json",
+"out/14_planning/v01-01_b0050.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0051.json",
+"out/14_planning/v01-01_b0051.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0052.json",
+"out/14_planning/v01-01_b0052.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0053.json",
+"out/14_planning/v01-01_b0053.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0054.json",
+"out/14_planning/v01-01_b0054.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0055.json",
+"out/14_planning/v01-01_b0055.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0056.json",
+"out/14_planning/v01-01_b0056.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0057.json",
+"out/14_planning/v01-01_b0057.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0058.json",
+"out/14_planning/v01-01_b0058.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0059.json",
+"out/14_planning/v01-01_b0059.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0060.json",
+"out/14_planning/v01-01_b0060.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0061.json",
+"out/14_planning/v01-01_b0061.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0062.json",
+"out/14_planning/v01-01_b0062.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0063.json",
+"out/14_planning/v01-01_b0063.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0064.json",
+"out/14_planning/v01-01_b0064.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0065.json",
+"out/14_planning/v01-01_b0065.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0066.json",
+"out/14_planning/v01-01_b0066.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0067.json",
+"out/14_planning/v01-01_b0067.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0068.json",
+"out/14_planning/v01-01_b0068.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0069.json",
+"out/14_planning/v01-01_b0069.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0070.json",
+"out/14_planning/v01-01_b0070.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0071.json",
+"out/14_planning/v01-01_b0071.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0072.json",
+"out/14_planning/v01-01_b0072.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0073.json",
+"out/14_planning/v01-01_b0073.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0074.json",
+"out/14_planning/v01-01_b0074.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0075.json",
+"out/14_planning/v01-01_b0075.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0076.json",
+"out/14_planning/v01-01_b0076.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0077.json",
+"out/14_planning/v01-01_b0077.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0078.json",
+"out/14_planning/v01-01_b0078.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0079.json",
+"out/14_planning/v01-01_b0079.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0080.json",
+"out/14_planning/v01-01_b0080.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0081.json",
+"out/14_planning/v01-01_b0081.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0082.json",
+"out/14_planning/v01-01_b0082.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0083.json",
+"out/14_planning/v01-01_b0083.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0084.json",
+"out/14_planning/v01-01_b0084.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0085.json",
+"out/14_planning/v01-01_b0085.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0086.json",
+"out/14_planning/v01-01_b0086.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0087.json",
+"out/14_planning/v01-01_b0087.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0088.json",
+"out/14_planning/v01-01_b0088.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0089.json",
+"out/14_planning/v01-01_b0089.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0090.json",
+"out/14_planning/v01-01_b0090.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0091.json",
+"out/14_planning/v01-01_b0091.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0092.json",
+"out/14_planning/v01-01_b0092.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0093.json",
+"out/14_planning/v01-01_b0093.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0094.json",
+"out/14_planning/v01-01_b0094.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0095.json",
+"out/14_planning/v01-01_b0095.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0096.json",
+"out/14_planning/v01-01_b0096.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0097.json",
+"out/14_planning/v01-01_b0097.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0098.json",
+"out/14_planning/v01-01_b0098.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0099.json",
+"out/14_planning/v01-01_b0099.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0100.json",
+"out/14_planning/v01-01_b0100.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0101.json",
+"out/14_planning/v01-01_b0101.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0102.json",
+"out/14_planning/v01-01_b0102.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0103.json",
+"out/14_planning/v01-01_b0103.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0104.json",
+"out/14_planning/v01-01_b0104.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0105.json",
+"out/14_planning/v01-01_b0105.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0106.json",
+"out/14_planning/v01-01_b0106.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0107.json",
+"out/14_planning/v01-01_b0107.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0108.json",
+"out/14_planning/v01-01_b0108.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0109.json",
+"out/14_planning/v01-01_b0109.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0110.json",
+"out/14_planning/v01-01_b0110.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0111.json",
+"out/14_planning/v01-01_b0111.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0112.json",
+"out/14_planning/v01-01_b0112.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0113.json",
+"out/14_planning/v01-01_b0113.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0114.json",
+"out/14_planning/v01-01_b0114.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0115.json",
+"out/14_planning/v01-01_b0115.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0116.json",
+"out/14_planning/v01-01_b0116.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0117.json",
+"out/14_planning/v01-01_b0117.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0118.json",
+"out/14_planning/v01-01_b0118.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0119.json",
+"out/14_planning/v01-01_b0119.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0120.json",
+"out/14_planning/v01-01_b0120.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0121.json",
+"out/14_planning/v01-01_b0121.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0122.json",
+"out/14_planning/v01-01_b0122.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0123.json",
+"out/14_planning/v01-01_b0123.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0124.json",
+"out/14_planning/v01-01_b0124.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0125.json",
+"out/14_planning/v01-01_b0125.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0126.json",
+"out/14_planning/v01-01_b0126.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0127.json",
+"out/14_planning/v01-01_b0127.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0128.json",
+"out/14_planning/v01-01_b0128.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0129.json",
+"out/14_planning/v01-01_b0129.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0130.json",
+"out/14_planning/v01-01_b0130.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0131.json",
+"out/14_planning/v01-01_b0131.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0132.json",
+"out/14_planning/v01-01_b0132.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0133.json",
+"out/14_planning/v01-01_b0133.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0134.json",
+"out/14_planning/v01-01_b0134.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0135.json",
+"out/14_planning/v01-01_b0135.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0136.json",
+"out/14_planning/v01-01_b0136.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0137.json",
+"out/14_planning/v01-01_b0137.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0138.json",
+"out/14_planning/v01-01_b0138.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0139.json",
+"out/14_planning/v01-01_b0139.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0140.json",
+"out/14_planning/v01-01_b0140.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0141.json",
+"out/14_planning/v01-01_b0141.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0142.json",
+"out/14_planning/v01-01_b0142.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0143.json",
+"out/14_planning/v01-01_b0143.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0144.json",
+"out/14_planning/v01-01_b0144.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0145.json",
+"out/14_planning/v01-01_b0145.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0146.json",
+"out/14_planning/v01-01_b0146.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0147.json",
+"out/14_planning/v01-01_b0147.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0148.json",
+"out/14_planning/v01-01_b0148.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0149.json",
+"out/14_planning/v01-01_b0149.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0150.json",
+"out/14_planning/v01-01_b0150.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0151.json",
+"out/14_planning/v01-01_b0151.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0152.json",
+"out/14_planning/v01-01_b0152.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0153.json",
+"out/14_planning/v01-01_b0153.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0154.json",
+"out/14_planning/v01-01_b0154.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0155.json",
+"out/14_planning/v01-01_b0155.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0156.json",
+"out/14_planning/v01-01_b0156.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0157.json",
+"out/14_planning/v01-01_b0157.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0158.json",
+"out/14_planning/v01-01_b0158.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0159.json",
+"out/14_planning/v01-01_b0159.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0160.json",
+"out/14_planning/v01-01_b0160.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0161.json",
+"out/14_planning/v01-01_b0161.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0162.json",
+"out/14_planning/v01-01_b0162.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0163.json",
+"out/14_planning/v01-01_b0163.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0164.json",
+"out/14_planning/v01-01_b0164.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0165.json",
+"out/14_planning/v01-01_b0165.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0166.json",
+"out/14_planning/v01-01_b0166.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0167.json",
+"out/14_planning/v01-01_b0167.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0168.json",
+"out/14_planning/v01-01_b0168.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0169.json",
+"out/14_planning/v01-01_b0169.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0170.json",
+"out/14_planning/v01-01_b0170.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0171.json",
+"out/14_planning/v01-01_b0171.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0172.json",
+"out/14_planning/v01-01_b0172.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0173.json",
+"out/14_planning/v01-01_b0173.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0174.json",
+"out/14_planning/v01-01_b0174.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0175.json",
+"out/14_planning/v01-01_b0175.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0176.json",
+"out/14_planning/v01-01_b0176.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0177.json",
+"out/14_planning/v01-01_b0177.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0178.json",
+"out/14_planning/v01-01_b0178.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0179.json",
+"out/14_planning/v01-01_b0179.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0180.json",
+"out/14_planning/v01-01_b0180.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0181.json",
+"out/14_planning/v01-01_b0181.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0182.json",
+"out/14_planning/v01-01_b0182.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0183.json",
+"out/14_planning/v01-01_b0183.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0184.json",
+"out/14_planning/v01-01_b0184.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0185.json",
+"out/14_planning/v01-01_b0185.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0186.json",
+"out/14_planning/v01-01_b0186.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0187.json",
+"out/14_planning/v01-01_b0187.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0188.json",
+"out/14_planning/v01-01_b0188.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0189.json",
+"out/14_planning/v01-01_b0189.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0190.json",
+"out/14_planning/v01-01_b0190.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0191.json",
+"out/14_planning/v01-01_b0191.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0192.json",
+"out/14_planning/v01-01_b0192.jsonl"
+]
+]
+},
+{
+"stage": "planning",
+"model": "sonnet",
+"batches": [
+[
+"batches/14_planning/v01-01_b0193.json",
+"out/14_planning/v01-01_b0193.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0001.json",
+"out/15_graph/g_b0001.jsonl"
+],
+[
+"batches/15_graph/g_b0002.json",
+"out/15_graph/g_b0002.jsonl"
+],
+[
+"batches/15_graph/g_b0003.json",
+"out/15_graph/g_b0003.jsonl"
+],
+[
+"batches/15_graph/g_b0004.json",
+"out/15_graph/g_b0004.jsonl"
+],
+[
+"batches/15_graph/g_b0005.json",
+"out/15_graph/g_b0005.jsonl"
+],
+[
+"batches/15_graph/g_b0006.json",
+"out/15_graph/g_b0006.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0007.json",
+"out/15_graph/g_b0007.jsonl"
+],
+[
+"batches/15_graph/g_b0008.json",
+"out/15_graph/g_b0008.jsonl"
+],
+[
+"batches/15_graph/g_b0009.json",
+"out/15_graph/g_b0009.jsonl"
+],
+[
+"batches/15_graph/g_b0010.json",
+"out/15_graph/g_b0010.jsonl"
+],
+[
+"batches/15_graph/g_b0011.json",
+"out/15_graph/g_b0011.jsonl"
+],
+[
+"batches/15_graph/g_b0012.json",
+"out/15_graph/g_b0012.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0013.json",
+"out/15_graph/g_b0013.jsonl"
+],
+[
+"batches/15_graph/g_b0014.json",
+"out/15_graph/g_b0014.jsonl"
+],
+[
+"batches/15_graph/g_b0015.json",
+"out/15_graph/g_b0015.jsonl"
+],
+[
+"batches/15_graph/g_b0016.json",
+"out/15_graph/g_b0016.jsonl"
+],
+[
+"batches/15_graph/g_b0017.json",
+"out/15_graph/g_b0017.jsonl"
+],
+[
+"batches/15_graph/g_b0018.json",
+"out/15_graph/g_b0018.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0019.json",
+"out/15_graph/g_b0019.jsonl"
+],
+[
+"batches/15_graph/g_b0020.json",
+"out/15_graph/g_b0020.jsonl"
+],
+[
+"batches/15_graph/g_b0021.json",
+"out/15_graph/g_b0021.jsonl"
+],
+[
+"batches/15_graph/g_b0022.json",
+"out/15_graph/g_b0022.jsonl"
+],
+[
+"batches/15_graph/g_b0023.json",
+"out/15_graph/g_b0023.jsonl"
+],
+[
+"batches/15_graph/g_b0024.json",
+"out/15_graph/g_b0024.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0025.json",
+"out/15_graph/g_b0025.jsonl"
+],
+[
+"batches/15_graph/g_b0026.json",
+"out/15_graph/g_b0026.jsonl"
+],
+[
+"batches/15_graph/g_b0027.json",
+"out/15_graph/g_b0027.jsonl"
+],
+[
+"batches/15_graph/g_b0028.json",
+"out/15_graph/g_b0028.jsonl"
+],
+[
+"batches/15_graph/g_b0029.json",
+"out/15_graph/g_b0029.jsonl"
+],
+[
+"batches/15_graph/g_b0030.json",
+"out/15_graph/g_b0030.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0031.json",
+"out/15_graph/g_b0031.jsonl"
+],
+[
+"batches/15_graph/g_b0032.json",
+"out/15_graph/g_b0032.jsonl"
+],
+[
+"batches/15_graph/g_b0033.json",
+"out/15_graph/g_b0033.jsonl"
+],
+[
+"batches/15_graph/g_b0034.json",
+"out/15_graph/g_b0034.jsonl"
+],
+[
+"batches/15_graph/g_b0035.json",
+"out/15_graph/g_b0035.jsonl"
+],
+[
+"batches/15_graph/g_b0036.json",
+"out/15_graph/g_b0036.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0037.json",
+"out/15_graph/g_b0037.jsonl"
+],
+[
+"batches/15_graph/g_b0038.json",
+"out/15_graph/g_b0038.jsonl"
+],
+[
+"batches/15_graph/g_b0039.json",
+"out/15_graph/g_b0039.jsonl"
+],
+[
+"batches/15_graph/g_b0040.json",
+"out/15_graph/g_b0040.jsonl"
+],
+[
+"batches/15_graph/g_b0041.json",
+"out/15_graph/g_b0041.jsonl"
+],
+[
+"batches/15_graph/g_b0042.json",
+"out/15_graph/g_b0042.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0043.json",
+"out/15_graph/g_b0043.jsonl"
+],
+[
+"batches/15_graph/g_b0044.json",
+"out/15_graph/g_b0044.jsonl"
+],
+[
+"batches/15_graph/g_b0045.json",
+"out/15_graph/g_b0045.jsonl"
+],
+[
+"batches/15_graph/g_b0046.json",
+"out/15_graph/g_b0046.jsonl"
+],
+[
+"batches/15_graph/g_b0047.json",
+"out/15_graph/g_b0047.jsonl"
+],
+[
+"batches/15_graph/g_b0048.json",
+"out/15_graph/g_b0048.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0049.json",
+"out/15_graph/g_b0049.jsonl"
+],
+[
+"batches/15_graph/g_b0050.json",
+"out/15_graph/g_b0050.jsonl"
+],
+[
+"batches/15_graph/g_b0051.json",
+"out/15_graph/g_b0051.jsonl"
+],
+[
+"batches/15_graph/g_b0052.json",
+"out/15_graph/g_b0052.jsonl"
+],
+[
+"batches/15_graph/g_b0053.json",
+"out/15_graph/g_b0053.jsonl"
+],
+[
+"batches/15_graph/g_b0054.json",
+"out/15_graph/g_b0054.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0055.json",
+"out/15_graph/g_b0055.jsonl"
+],
+[
+"batches/15_graph/g_b0056.json",
+"out/15_graph/g_b0056.jsonl"
+],
+[
+"batches/15_graph/g_b0057.json",
+"out/15_graph/g_b0057.jsonl"
+],
+[
+"batches/15_graph/g_b0058.json",
+"out/15_graph/g_b0058.jsonl"
+],
+[
+"batches/15_graph/g_b0059.json",
+"out/15_graph/g_b0059.jsonl"
+],
+[
+"batches/15_graph/g_b0060.json",
+"out/15_graph/g_b0060.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0061.json",
+"out/15_graph/g_b0061.jsonl"
+],
+[
+"batches/15_graph/g_b0062.json",
+"out/15_graph/g_b0062.jsonl"
+],
+[
+"batches/15_graph/g_b0063.json",
+"out/15_graph/g_b0063.jsonl"
+],
+[
+"batches/15_graph/g_b0064.json",
+"out/15_graph/g_b0064.jsonl"
+],
+[
+"batches/15_graph/g_b0065.json",
+"out/15_graph/g_b0065.jsonl"
+],
+[
+"batches/15_graph/g_b0066.json",
+"out/15_graph/g_b0066.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0067.json",
+"out/15_graph/g_b0067.jsonl"
+],
+[
+"batches/15_graph/g_b0068.json",
+"out/15_graph/g_b0068.jsonl"
+],
+[
+"batches/15_graph/g_b0069.json",
+"out/15_graph/g_b0069.jsonl"
+],
+[
+"batches/15_graph/g_b0070.json",
+"out/15_graph/g_b0070.jsonl"
+],
+[
+"batches/15_graph/g_b0071.json",
+"out/15_graph/g_b0071.jsonl"
+],
+[
+"batches/15_graph/g_b0072.json",
+"out/15_graph/g_b0072.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0073.json",
+"out/15_graph/g_b0073.jsonl"
+],
+[
+"batches/15_graph/g_b0074.json",
+"out/15_graph/g_b0074.jsonl"
+],
+[
+"batches/15_graph/g_b0075.json",
+"out/15_graph/g_b0075.jsonl"
+],
+[
+"batches/15_graph/g_b0076.json",
+"out/15_graph/g_b0076.jsonl"
+],
+[
+"batches/15_graph/g_b0077.json",
+"out/15_graph/g_b0077.jsonl"
+],
+[
+"batches/15_graph/g_b0078.json",
+"out/15_graph/g_b0078.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0079.json",
+"out/15_graph/g_b0079.jsonl"
+],
+[
+"batches/15_graph/g_b0080.json",
+"out/15_graph/g_b0080.jsonl"
+],
+[
+"batches/15_graph/g_b0081.json",
+"out/15_graph/g_b0081.jsonl"
+],
+[
+"batches/15_graph/g_b0082.json",
+"out/15_graph/g_b0082.jsonl"
+],
+[
+"batches/15_graph/g_b0083.json",
+"out/15_graph/g_b0083.jsonl"
+],
+[
+"batches/15_graph/g_b0084.json",
+"out/15_graph/g_b0084.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0085.json",
+"out/15_graph/g_b0085.jsonl"
+],
+[
+"batches/15_graph/g_b0086.json",
+"out/15_graph/g_b0086.jsonl"
+],
+[
+"batches/15_graph/g_b0087.json",
+"out/15_graph/g_b0087.jsonl"
+],
+[
+"batches/15_graph/g_b0088.json",
+"out/15_graph/g_b0088.jsonl"
+],
+[
+"batches/15_graph/g_b0089.json",
+"out/15_graph/g_b0089.jsonl"
+],
+[
+"batches/15_graph/g_b0090.json",
+"out/15_graph/g_b0090.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0091.json",
+"out/15_graph/g_b0091.jsonl"
+],
+[
+"batches/15_graph/g_b0092.json",
+"out/15_graph/g_b0092.jsonl"
+],
+[
+"batches/15_graph/g_b0093.json",
+"out/15_graph/g_b0093.jsonl"
+],
+[
+"batches/15_graph/g_b0094.json",
+"out/15_graph/g_b0094.jsonl"
+],
+[
+"batches/15_graph/g_b0095.json",
+"out/15_graph/g_b0095.jsonl"
+],
+[
+"batches/15_graph/g_b0096.json",
+"out/15_graph/g_b0096.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0097.json",
+"out/15_graph/g_b0097.jsonl"
+],
+[
+"batches/15_graph/g_b0098.json",
+"out/15_graph/g_b0098.jsonl"
+],
+[
+"batches/15_graph/g_b0099.json",
+"out/15_graph/g_b0099.jsonl"
+],
+[
+"batches/15_graph/g_b0100.json",
+"out/15_graph/g_b0100.jsonl"
+],
+[
+"batches/15_graph/g_b0101.json",
+"out/15_graph/g_b0101.jsonl"
+],
+[
+"batches/15_graph/g_b0102.json",
+"out/15_graph/g_b0102.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0103.json",
+"out/15_graph/g_b0103.jsonl"
+],
+[
+"batches/15_graph/g_b0104.json",
+"out/15_graph/g_b0104.jsonl"
+],
+[
+"batches/15_graph/g_b0105.json",
+"out/15_graph/g_b0105.jsonl"
+],
+[
+"batches/15_graph/g_b0106.json",
+"out/15_graph/g_b0106.jsonl"
+],
+[
+"batches/15_graph/g_b0107.json",
+"out/15_graph/g_b0107.jsonl"
+],
+[
+"batches/15_graph/g_b0108.json",
+"out/15_graph/g_b0108.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0109.json",
+"out/15_graph/g_b0109.jsonl"
+],
+[
+"batches/15_graph/g_b0110.json",
+"out/15_graph/g_b0110.jsonl"
+],
+[
+"batches/15_graph/g_b0111.json",
+"out/15_graph/g_b0111.jsonl"
+],
+[
+"batches/15_graph/g_b0112.json",
+"out/15_graph/g_b0112.jsonl"
+],
+[
+"batches/15_graph/g_b0113.json",
+"out/15_graph/g_b0113.jsonl"
+],
+[
+"batches/15_graph/g_b0114.json",
+"out/15_graph/g_b0114.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0115.json",
+"out/15_graph/g_b0115.jsonl"
+],
+[
+"batches/15_graph/g_b0116.json",
+"out/15_graph/g_b0116.jsonl"
+],
+[
+"batches/15_graph/g_b0117.json",
+"out/15_graph/g_b0117.jsonl"
+],
+[
+"batches/15_graph/g_b0118.json",
+"out/15_graph/g_b0118.jsonl"
+],
+[
+"batches/15_graph/g_b0119.json",
+"out/15_graph/g_b0119.jsonl"
+],
+[
+"batches/15_graph/g_b0120.json",
+"out/15_graph/g_b0120.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0121.json",
+"out/15_graph/g_b0121.jsonl"
+],
+[
+"batches/15_graph/g_b0122.json",
+"out/15_graph/g_b0122.jsonl"
+],
+[
+"batches/15_graph/g_b0123.json",
+"out/15_graph/g_b0123.jsonl"
+],
+[
+"batches/15_graph/g_b0124.json",
+"out/15_graph/g_b0124.jsonl"
+],
+[
+"batches/15_graph/g_b0125.json",
+"out/15_graph/g_b0125.jsonl"
+],
+[
+"batches/15_graph/g_b0126.json",
+"out/15_graph/g_b0126.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0127.json",
+"out/15_graph/g_b0127.jsonl"
+],
+[
+"batches/15_graph/g_b0128.json",
+"out/15_graph/g_b0128.jsonl"
+],
+[
+"batches/15_graph/g_b0129.json",
+"out/15_graph/g_b0129.jsonl"
+],
+[
+"batches/15_graph/g_b0130.json",
+"out/15_graph/g_b0130.jsonl"
+],
+[
+"batches/15_graph/g_b0131.json",
+"out/15_graph/g_b0131.jsonl"
+],
+[
+"batches/15_graph/g_b0132.json",
+"out/15_graph/g_b0132.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0133.json",
+"out/15_graph/g_b0133.jsonl"
+],
+[
+"batches/15_graph/g_b0134.json",
+"out/15_graph/g_b0134.jsonl"
+],
+[
+"batches/15_graph/g_b0135.json",
+"out/15_graph/g_b0135.jsonl"
+],
+[
+"batches/15_graph/g_b0136.json",
+"out/15_graph/g_b0136.jsonl"
+],
+[
+"batches/15_graph/g_b0137.json",
+"out/15_graph/g_b0137.jsonl"
+],
+[
+"batches/15_graph/g_b0138.json",
+"out/15_graph/g_b0138.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0139.json",
+"out/15_graph/g_b0139.jsonl"
+],
+[
+"batches/15_graph/g_b0140.json",
+"out/15_graph/g_b0140.jsonl"
+],
+[
+"batches/15_graph/g_b0141.json",
+"out/15_graph/g_b0141.jsonl"
+],
+[
+"batches/15_graph/g_b0142.json",
+"out/15_graph/g_b0142.jsonl"
+],
+[
+"batches/15_graph/g_b0143.json",
+"out/15_graph/g_b0143.jsonl"
+],
+[
+"batches/15_graph/g_b0144.json",
+"out/15_graph/g_b0144.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0145.json",
+"out/15_graph/g_b0145.jsonl"
+],
+[
+"batches/15_graph/g_b0146.json",
+"out/15_graph/g_b0146.jsonl"
+],
+[
+"batches/15_graph/g_b0147.json",
+"out/15_graph/g_b0147.jsonl"
+],
+[
+"batches/15_graph/g_b0148.json",
+"out/15_graph/g_b0148.jsonl"
+],
+[
+"batches/15_graph/g_b0149.json",
+"out/15_graph/g_b0149.jsonl"
+],
+[
+"batches/15_graph/g_b0150.json",
+"out/15_graph/g_b0150.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0151.json",
+"out/15_graph/g_b0151.jsonl"
+],
+[
+"batches/15_graph/g_b0152.json",
+"out/15_graph/g_b0152.jsonl"
+],
+[
+"batches/15_graph/g_b0153.json",
+"out/15_graph/g_b0153.jsonl"
+],
+[
+"batches/15_graph/g_b0154.json",
+"out/15_graph/g_b0154.jsonl"
+],
+[
+"batches/15_graph/g_b0155.json",
+"out/15_graph/g_b0155.jsonl"
+],
+[
+"batches/15_graph/g_b0156.json",
+"out/15_graph/g_b0156.jsonl"
+]
+]
+},
+{
+"stage": "graph",
+"model": "sonnet",
+"batches": [
+[
+"batches/15_graph/g_b0157.json",
+"out/15_graph/g_b0157.jsonl"
+]
+]
+}
+]
