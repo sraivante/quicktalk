@@ -1,0 +1,180 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5196,
+   "plan": {
+    "1": "R2",
+    "2": "R4",
+    "3": "R7"
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Flow",
+   "subtype": "Absorbed repetition [Actor]",
+   "description": "A toddler pours sand from cup to cup for a long stretch, deaf to calls for lunch. Total absorption in a task of the right size is the earliest form of flow, and being pulled out abruptly can bring tears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5202,
+   "plan": {
+    "1": "R2",
+    "2": "R4",
+    "3": "R7"
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Play",
+   "subtype": "Sensory exploration play [Actor]",
+   "description": "A toddler bangs pots, splashes water and drops spoons repeatedly to see what happens. This is not mischief but experimentation, and the repetition is how cause and effect is learned.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5203,
+   "plan": {
+    "1": "R4",
+    "2": "R7",
+    "3": "R8"
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Play",
+   "subtype": "Pretend worlds [Actor]",
+   "description": "A child runs a make-believe shop or hospital, assigning roles and correcting others who break the story. Pretend play rehearses adult life, emotions and rules in a safe frame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5209,
+   "plan": {
+    "1": "R14",
+    "2": "R15",
+    "3": "R1"
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Boredom becomes invention [Actor]",
+   "description": "Left without screens on a long summer afternoon, a child builds a fort, invents a game or draws for hours. Tolerated boredom is where self-directed interest first grows.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: interest, boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5211,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Restless boredom [Actor]",
+   "description": "A teenager scrolls compulsively, switching apps to escape a flat feeling. The boredom is less about lack of options and more about intolerance for an empty moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5212,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Boredom as information [Response]",
+   "description": "A student who feels bored in a course asks whether the material is too easy, too hard or simply meaningless to them. Reading boredom as data, not just a nuisance, guides better choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5214,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Resisting sleep [Actor]",
+   "description": "A child fights bedtime, wanting one more story or fearing missing out. Predictable routines and calm endings teach that rest is safe and does not mean being left out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: fear, calm, trust"
+   ]
+  },
+  {
+   "sno": 5220,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Solitude misread as problem [Observer]",
+   "description": "Adults worry when a quiet child prefers being alone and push them into groups. Checking for real distress is wise, but preference for solitude is often just temperament.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5223,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Solitude in a busy life [Response]",
+   "description": "A young professional schedules quiet time without a device, on a terrace or a morning walk. Solitude used deliberately sorts thoughts and sharpens decisions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 5227,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Awe",
+   "subtype": "Awe in ideas and people [Actor]",
+   "description": "A teenager moved by a scientist, a mountain, a devotional song or a stranger's kindness feels lifted beyond daily worries. Awe can arise from moral beauty as much as from scenery.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: anger, anxiety, awe"
+   ]
+  }
+ ]
+}

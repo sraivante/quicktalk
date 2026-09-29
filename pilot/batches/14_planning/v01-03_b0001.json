@@ -1,0 +1,174 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5763,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R1"
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a toy on a shelf",
+   "subtype": "Approach: using the caregiver as a tool [Action]",
+   "description": "A toddler points at the shelf, looks at grandmother, says \"uh, uh\" and pats her hand. Her arm becomes the means of reaching, so the toddler does not need to work out the reaching.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, rigid persistence, trial and error"
+   ]
+  },
+  {
+   "sno": 5767,
+   "plan": {
+    "1": "R13",
+    "2": "R1",
+    "3": "R2"
+   },
+   "age": "1–3",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Opening a plastic container",
+   "subtype": "Approach: trial and error [Action]",
+   "description": "A toddler twists, pulls, bangs the lid on the floor and pokes at the edge of a snack box. Each action is tried for a few seconds and dropped if nothing gives.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, experiment and measure"
+   ]
+  },
+  {
+   "sno": 5808,
+   "plan": {
+    "1": "R2",
+    "2": "R4",
+    "3": "R7"
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building with blocks",
+   "subtype": "Approach: giving up in anger [Pitfall]",
+   "description": "The tower falls a fourth time and a child sweeps the blocks off the mat, saying \"I hate this.\" Feelings run ahead of thinking and the learning from the earlier tries is lost.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, magical thinking, trial and error",
+    "related mind states: sadness, anger"
+   ]
+  },
+  {
+   "sno": 5819,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R4"
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a pretend game",
+   "subtype": "Approach: bargaining over roles [Action]",
+   "description": "Both want to be the doctor. A child says, \"You be doctor first, I am doctor next game,\" and the play can begin without a fight.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, mental simulation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 5922,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a test",
+   "subtype": "Approach: counting days left and dividing the chapters [Thinking]",
+   "description": "A child with a Social Studies test in four days counts six chapters and plans one and a half chapters a day. Dividing the big task into daily pieces makes it feel doable.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning"
+   ]
+  },
+  {
+   "sno": 5960,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R3"
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: working out what actually happened [Thinking]",
+   "description": "A boy thinks back over the quarrel and realises he laughed when his friend dropped his tiffin, and the friend thought he was being mocked. Seeing the friend's side changes what he wants to say.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 6281,
+   "plan": {
+    "1": "R2",
+    "2": "R3",
+    "3": "R4"
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing subjects or stream",
+   "subtype": "Approach: values-first reasoning about interests [Thinking]",
+   "description": "The student asks which tasks make hours vanish rather than which stream sounds prestigious, and notices she loves data puzzles and debate, pointing towards Economics more than the expected Science route.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, contingency planning, decision matrix, negotiation, working backward",
+    "related mind states: affection, interest, confusion"
+   ]
+  },
+  {
+   "sno": 6324,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: private and simple message [Action]",
+   "description": "The student asks in person, quietly, after a club meeting, or by a short private message, saying she likes talking with him and asking if he would like to get chai together some time.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6674,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing between two job offers",
+   "subtype": "Approach: talking to current employees at both firms [Action]",
+   "description": "The graduate finds two current employees on a professional network, asks about workload, learning and appraisal, and hears details missing from the offer letters.",
+   "graph_context": [
+    "same problem, other approaches: analysis paralysis, decision matrix, impulsive action, inversion, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 7078,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Delivering bad news to a client",
+   "subtype": "Approach: delaying until a fix is found [Pitfall]",
+   "description": "Hoping to solve it quietly, the manager waits two weeks before telling the client. When the delay is finally revealed, trust suffers more than the delay itself would have caused.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, delegation, mental simulation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

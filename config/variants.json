@@ -1,0 +1,21 @@
+{
+  "_doc": "Variant plan. A record = one passage + 4 Q&A. Tiers decide how many passages per framework row. Phases are cumulative: 'full' adds ids AFTER 'phase1' (e.g. tier A: ids 1-5 in phase1, ids 6-15 in full).",
+  "rows_per_batch": 10,
+  "pass_size": 3,
+  "clusters_per_batch": 6,
+  "pilot_rows_per_stage": 10,
+  "tiers": {
+    "A": {"name": "core + foundational + cognitive (mechanisms everything else builds on)",
+          "stages": ["core", "foundational", "cognitive"]},
+    "B": {"name": "mid-tier topics",
+          "stages": ["expression", "dynamics", "personality", "group", "deception", "culture", "body", "execution", "wellbeing"]},
+    "C": {"name": "large grid blocks (many near-sibling rows already give variety)",
+          "stages": ["situational", "planning"]},
+    "G": {"name": "knowledge-graph clusters", "stages": ["graph"]}
+  },
+  "phases": {
+    "pilot":  {"A": 3,  "B": 3, "C": 3, "G": 1, "note": "10 stratified rows per stage x 3 variants + 6 clusters. Evaluate quality and Pro usage here."},
+    "phase1": {"A": 5,  "B": 2, "C": 1, "G": 1, "note": "about 15k records"},
+    "full":   {"A": 15, "B": 6, "C": 3, "G": 1, "note": "about 47k records in total (adds ids after phase1)"}
+  }
+}

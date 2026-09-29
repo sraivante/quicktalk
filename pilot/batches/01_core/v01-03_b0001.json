@@ -1,0 +1,149 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 2,
+   "plan": {
+    "1": "R4",
+    "2": "R7",
+    "3": "R8"
+   },
+   "age": "1–3",
+   "topic": "Physical",
+   "subtopic": "Motor Control",
+   "subtype": "Fine Motor Skills",
+   "description": "Refining small muscle movements like a pincer grasp, holding a spoon, or stacking blocks."
+  },
+  {
+   "sno": 5,
+   "plan": {
+    "1": "R4",
+    "2": "R7",
+    "3": "R8"
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Language Acquisition",
+   "subtype": "Receptive Language",
+   "description": "Comprehending spoken words and following simple instructions before being able to speak."
+  },
+  {
+   "sno": 24,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "age": "4–6",
+   "topic": "Cognitive / Social",
+   "subtopic": "Theory of Mind",
+   "subtype": "Benign Deception",
+   "description": "Learning to playfully trick others (hide-and-seek), realizing others don't know everything.",
+   "graph_context": [
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 28,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R4"
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Cooperative Play",
+   "subtype": "Conflict Resolution",
+   "description": "Learning to negotiate, take turns, and apologize when disagreements arise during play."
+  },
+  {
+   "sno": 51,
+   "plan": {
+    "1": "R12",
+    "2": "R13",
+    "3": "R14"
+   },
+   "age": "7–12",
+   "topic": "Critical Thinking",
+   "subtopic": "Intellectual Virtues",
+   "subtype": "Curiosity & Inquiry Disposition",
+   "description": "Cultivating an intrinsic drive to ask deep questions and investigate topics beyond mandated school requirements.",
+   "graph_context": [
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 57,
+   "plan": {
+    "1": "R3",
+    "2": "R4",
+    "3": "R5"
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Rule-Based Logic",
+   "subtype": "Conservation",
+   "description": "Understanding that a quantity stays the same even if its container changes shape."
+  },
+  {
+   "sno": 80,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "age": "13–17",
+   "topic": "Critical Thinking",
+   "subtopic": "Metacognitive Virtues",
+   "subtype": "Intellectual Humility & Bias Awareness",
+   "description": "Recognizing personal cognitive biases, logical fallacies, emotional reasoning, and the limits of one's knowledge.",
+   "graph_context": [
+    "related concepts: emotional reasoning"
+   ]
+  },
+  {
+   "sno": 86,
+   "plan": {
+    "1": "R13",
+    "2": "R14",
+    "3": "R15"
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Peer Influence",
+   "description": "Balancing the desire for individual authenticity with the intense pressure to conform."
+  },
+  {
+   "sno": 107,
+   "plan": {
+    "1": "R5",
+    "2": "R6",
+    "3": "R7"
+   },
+   "age": "18–22",
+   "topic": "Education / Career",
+   "subtopic": "Specialization",
+   "subtype": "Academic/Vocational Focus",
+   "description": "Committing to a specific college major, trade, or specialized career path."
+  },
+  {
+   "sno": 130,
+   "plan": {
+    "1": "R9",
+    "2": "R10",
+    "3": "R11"
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Cognitive Flexibility",
+   "description": "Seamlessly adapting reasoning and behavior when rules change or unexpected situations arise."
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  1,
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5450,
+   "plan": {
+    "1": "R9",
+    "2": "R12",
+    "3": "R13"
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zeigarnik effect",
+   "subtype": "Unfinished puzzle keeps nagging [Actor]",
+   "description": "A child called away mid-puzzle keeps thinking about it and rushes back to finish, while finished tasks slip from mind; an open task holds attention more than a closed one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 5456,
+   "plan": {
+    "1": "R7",
+    "2": "R8",
+    "3": "R9"
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Placebo and nocebo effect",
+   "subtype": "Reading every possible side effect [Actor]",
+   "description": "A young adult scanning a long leaflet starts noticing each twinge as a listed effect; fear can magnify symptoms, though a persistent symptom still deserves a doctor's attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5458,
+   "plan": {
+    "1": "R4",
+    "2": "R5",
+    "3": "R6"
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Placebo and nocebo effect",
+   "subtype": "Using expectation wisely without denial [Response]",
+   "description": "An adult welcomes hopeful expectation but never lets it replace proper care; tells the doctor about worries, asks for balanced information, and does not dismiss lasting symptoms as imagination.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, hope"
+   ]
+  },
+  {
+   "sno": 5459,
+   "plan": {
+    "1": "R4",
+    "2": "R7",
+    "3": "R8"
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pygmalion effect",
+   "subtype": "Teacher's warmth toward the \"bright\" child [Receiver]",
+   "description": "A child whom the teacher calls bright gets more time, smiles and encouragement, and begins to act bright; being treated as capable makes trying feel worthwhile.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5461,
+   "plan": {
+    "1": "R15",
+    "2": "R1",
+    "3": "R2"
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pygmalion effect",
+   "subtype": "Family verdict about who they will become [Receiver]",
+   "description": "A teenager repeatedly hears \"you will never be like your cousin\" and slowly adopts it as identity; a parent's steady belief in effort can just as quietly lift them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5474,
+   "plan": {
+    "1": "R1",
+    "2": "R2",
+    "3": "R4"
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Commitment and consistency",
+   "subtype": "Sticks to what was said [Actor]",
+   "description": "A child who announced \"I am the doctor\" refuses to change the game even when it stops being fun, because going back on a spoken word feels wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5478,
+   "plan": {
+    "1": "R9",
+    "2": "R12",
+    "3": "R13"
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Foot-in-the-door and door-in-the-face",
+   "subtype": "Small request opens the way to a bigger one [Actor]",
+   "description": "A child asks a parent for just a few minutes of a game, then a few more, then the whole evening; each small yes makes the next feel like a natural continuation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5482,
+   "plan": {
+    "1": "R2",
+    "2": "R4",
+    "3": "R7"
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Copying what other children do [Actor]",
+   "description": "A toddler tries a food only after watching another child eat it happily; seeing others act signals to the little one what is safe and worth doing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5493,
+   "plan": {
+    "1": "R10",
+    "2": "R11",
+    "3": "R12"
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Downplaying own success to stay liked [Actor]",
+   "description": "A teenager who gets selected for a national contest plays it down and jokes about it, afraid that pride will make friends turn cold and call them arrogant.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, pride"
+   ]
+  },
+  {
+   "sno": 5497,
+   "plan": {
+    "1": "R2",
+    "2": "R4",
+    "3": "R7"
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "Prefers familiar faces and songs [Actor]",
+   "description": "A toddler is calmed by the lullaby and faces they know and is wary of strangers; familiarity signals safety, so the known simply feels better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, calm, trust"
+   ]
+  }
+ ]
+}

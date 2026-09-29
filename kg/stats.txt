@@ -1,0 +1,17 @@
+KNOWLEDGE GRAPH STATS
+nodes 10032, edges 54893
+node types: Row 7689, Subtopic 1064, Stage 404, Stance 259, Counterpart 242, Concept 185, Topic 57, Mechanism 53, MindState 49, View 12, StrategyFamily 12, AgeBand 6
+edge types: MENTIONS_STATE 8656, IN_TOPIC 7689, AT_AGE 7689, ABOUT 7689, VIEW 7266, USES_MECHANISM 1929, IN_FAMILY 1929, DEVELOPS_INTO 1855, FEATURES_STANCE 1744, FEATURES_COUNTERPART 1744, HOLDS_STANCE 1744, HAS_STANCE 1744, SOLVES 1148, FAILS_IN 464, STAGE_OF 404, SIGNALS 320, REVISED_IN 317, NEXT_STAGE 309, MENTIONS_CONCEPT 200, RELATED_CONCEPT 53
+connected components: 1 (largest 10032 nodes = 100.0%)
+situational rows mapped to a core stance: 83.9% (55 distinct core stances, 204 unmapped labels)
+planning rows mapped to a named mechanism from the label: 36.6%; from label or description: 54.1% (52 distinct mechanisms)
+planning rows given a strategy family: 65.8%
+heuristic concept-similarity links: 53 rows (threshold 0.22)
+rows with >=1 mind state mention: 64.2%
+rows mentioning a concept from Cognitive/Foundational blocks: 2.5%
+concepts total 182; concepts referenced by at least one other row: 23
+clusters: contrast 234, view_pair 58, sequence 104, approach_comparison 176, progression 250, concept_link 118; total 940
+top unmapped stance labels: blame (5), solidarity (5), shyness (4), power (4), friendship (4), support (4), bargaining (3), doubt (3), obedience (3), possessiveness (3), understanding (3), encouragement (3), numbness (3), gossip (3), longing (3)
+top stance cores: fear 109, anger 70, trust 66, guilt 62, envy 58, coercion 50, compassion 48, shame 48, manipulation 47, gratitude 44, loyalty 44, dependence 40
+top mechanisms: other 885, avoidance and procrastination 101, seeking advice 80, mental simulation 58, copying without fit 41, forward planning 38, negotiation 37, contingency planning 35, impulsive action 33, resource and budget planning 31, working backward 29, commitment device 28, values-first planning 28, if-then plan 27
+top mind states: trust 964, fear 681, anger 571, calm 502, hurt 429, admiration 428, affection 368, anxiety 360, resentment 243, shame 223, guilt 221, sadness 216

@@ -1,0 +1,43 @@
+STAGE: expression
+Variant ids in this batch: 1, 2, 3 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows describe an expression channel (face, eyes, gaze, gestures, touch, distance, voice, timing, speech acts, writing, digital, arts, appearance, ritual) and a mind state it can carry. The passage must show the cue in context AND leave room for at least one other reading. The mental_state answer gives the most likely reading with the evidence and names one alternative. Never claim a cue proves lying or hidden intent. Cultural variation should be shown, not asserted. Touch and closeness scenes must respect consent. For digital-expression rows (emoji, stickers, memes, punctuation, voice notes) emojis are part of the subject: show how the same emoji can carry different feelings in different contexts.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 2067, "plan": {"1": "R12", "2": "R13", "3": "R1"}, "age": "1–3", "topic": "Expression & Mind State", "subtopic": "Smile variations", "subtype": "Sustained and fleeting smiles in play [Expressing]", "description": "A toddler flashes a fleeting smile at a peekaboo surprise and a sustained one during a favourite game, showing joy that rises and fades quickly. Short smiles are normal and not a sign of disinterest.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26", "related mind states: joy, interest, surprise"]}
+{"sno": 2078, "plan": {"1": "R8", "2": "R12", "3": "R13"}, "age": "1–3", "topic": "Expression & Mind State", "subtopic": "Jaw and tongue", "subtype": "Dropped jaw and open mouth [Expressing]", "description": "A toddler stares with the jaw dropped in wonder or while concentrating, and drools while teething. It shows attention or discomfort, not disrespect.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26", "related mind states: admiration, curiosity, awe"]}
+{"sno": 2185, "plan": {"1": "R2", "2": "R4", "3": "R7"}, "age": "4–6", "topic": "Expression & Mind State", "subtopic": "Eyes and eyelids", "subtype": "Eyes shut against a scary scene [Regulating]", "description": "A child squeezes the eyes shut or hides them during a frightening part of a film to control fear. It is a healthy way to cope, and adults can offer a hand or a break.", "graph_context": ["this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26", "related mind states: fear"]}
+{"sno": 2198, "plan": {"1": "R9", "2": "R12", "3": "R13"}, "age": "4–6", "topic": "Expression & Mind State", "subtopic": "Head movements", "subtype": "Nodding to say yes [Expressing]", "description": "A preschooler nods to agree or answer, although a nod may just mean I heard you rather than I agree. Adults confirm understanding with a question.", "graph_context": ["this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 2323, "plan": {"1": "R13", "2": "R14", "3": "R15"}, "age": "7–12", "topic": "Expression & Mind State", "subtopic": "Eyes and eyelids", "subtype": "Squinting and narrowed eyes [Interpreting]", "description": "A school-age child sees a classmate narrow the eyes and reads suspicion or anger, though the person may be squinting at a bright board. Checking the context, such as light and vision, avoids unfair conclusions.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26", "related mind states: anger, doubt"]}
+{"sno": 2338, "plan": {"1": "R5", "2": "R7", "3": "R8"}, "age": "7–12", "topic": "Expression & Mind State", "subtopic": "Shoulders", "subtype": "One-shoulder lift [Interpreting]", "description": "A school-age child sees a friend lift one shoulder and reads uncertainty, shyness or a half-hearted maybe. It is a weak signal, so asking clarifies.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26", "related mind states: shyness"]}
+{"sno": 2480, "plan": {"1": "R5", "2": "R6", "3": "R7"}, "age": "13–17", "topic": "Expression & Mind State", "subtopic": "Gaze", "subtype": "Averting gaze as avoidance or respect [Interpreting]", "description": "A teenager reads a peer's averted gaze cautiously: it may mean shyness, guilt, social anxiety, autism-related comfort, or cultural politeness. Asking gently beats assuming dishonesty or disinterest.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26", "related mind states: admiration, anxiety, guilt, shyness"]}
+{"sno": 2496, "plan": {"1": "R10", "2": "R11", "3": "R12"}, "age": "13–17", "topic": "Expression & Mind State", "subtopic": "Arm positions", "subtype": "Opening arms to invite closeness [Regulating]", "description": "A teenager opens the arms for a friend who is upset, offering comfort, and learns to ask first if a hug is welcome. Consent applies to every hug, and a refusal is respected.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26", "related mind states: affection, admiration"]}
+{"sno": 2643, "plan": {"1": "R5", "2": "R6", "3": "R7"}, "age": "18–22", "topic": "Expression & Mind State", "subtopic": "Eyes and eyelids", "subtype": "Prolonged eye closure in exhaustion or calm [Mismatch]", "description": "A young adult closing the eyes for long moments in a meeting may be tired, meditating, listening intently or overwhelmed. The same sign has several meanings, so a gentle check-in is better than guessing.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26", "related mind states: tiredness, calm, overwhelm"]}
+{"sno": 2778, "plan": {"1": "R12", "2": "R13", "3": "R14"}, "age": "23–26", "topic": "Expression & Mind State", "subtopic": "Eyes and eyelids", "subtype": "Wet or squeezed eyes under pressure [Regulating]", "description": "An adult blinks quickly, squeezes the eyes or looks up to hold back tears at work, a common way to regulate strong feeling. A short break to breathe often helps more.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22", "related mind states: relief from stress"]}
+
+Return exactly 30 JSON Lines and nothing else.

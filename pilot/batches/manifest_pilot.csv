@@ -1,0 +1,16 @@
+phase,stage_no,stage,batch,items,variants,records,first,last,prompt,batch_json,out
+pilot,1,core,v01-03_b0001,10,3,30,2,130,pilot/batches/01_core/v01-03_b0001.txt,pilot/batches/01_core/v01-03_b0001.json,pilot/out/01_core/v01-03_b0001.jsonl
+pilot,2,expression,v01-03_b0001,10,3,30,2067,2778,pilot/batches/02_expression/v01-03_b0001.txt,pilot/batches/02_expression/v01-03_b0001.json,pilot/out/02_expression/v01-03_b0001.jsonl
+pilot,3,situational,v01-03_b0001,10,3,30,321,1289,pilot/batches/03_situational/v01-03_b0001.txt,pilot/batches/03_situational/v01-03_b0001.json,pilot/out/03_situational/v01-03_b0001.jsonl
+pilot,4,dynamics,v01-03_b0001,10,3,30,2910,3083,pilot/batches/04_dynamics/v01-03_b0001.txt,pilot/batches/04_dynamics/v01-03_b0001.json,pilot/out/04_dynamics/v01-03_b0001.jsonl
+pilot,5,cognitive,v01-03_b0001,10,3,30,3594,3759,pilot/batches/05_cognitive/v01-03_b0001.txt,pilot/batches/05_cognitive/v01-03_b0001.json,pilot/out/05_cognitive/v01-03_b0001.jsonl
+pilot,6,foundational,v01-03_b0001,10,3,30,5450,5497,pilot/batches/06_foundational/v01-03_b0001.txt,pilot/batches/06_foundational/v01-03_b0001.json,pilot/out/06_foundational/v01-03_b0001.jsonl
+pilot,7,personality,v01-03_b0001,10,3,30,4319,4357,pilot/batches/07_personality/v01-03_b0001.txt,pilot/batches/07_personality/v01-03_b0001.json,pilot/out/07_personality/v01-03_b0001.jsonl
+pilot,8,group,v01-03_b0001,10,3,30,3349,3374,pilot/batches/08_group/v01-03_b0001.txt,pilot/batches/08_group/v01-03_b0001.json,pilot/out/08_group/v01-03_b0001.jsonl
+pilot,9,deception,v01-03_b0001,10,3,30,4589,4633,pilot/batches/09_deception/v01-03_b0001.txt,pilot/batches/09_deception/v01-03_b0001.json,pilot/out/09_deception/v01-03_b0001.jsonl
+pilot,10,culture,v01-03_b0001,10,3,30,4772,4803,pilot/batches/10_culture/v01-03_b0001.txt,pilot/batches/10_culture/v01-03_b0001.json,pilot/out/10_culture/v01-03_b0001.jsonl
+pilot,11,body,v01-03_b0001,10,3,30,4119,4156,pilot/batches/11_body/v01-03_b0001.txt,pilot/batches/11_body/v01-03_b0001.json,pilot/out/11_body/v01-03_b0001.jsonl
+pilot,12,execution,v01-03_b0001,10,3,30,4992,5033,pilot/batches/12_execution/v01-03_b0001.txt,pilot/batches/12_execution/v01-03_b0001.json,pilot/out/12_execution/v01-03_b0001.jsonl
+pilot,13,wellbeing,v01-03_b0001,10,3,30,5196,5227,pilot/batches/13_wellbeing/v01-03_b0001.txt,pilot/batches/13_wellbeing/v01-03_b0001.json,pilot/out/13_wellbeing/v01-03_b0001.jsonl
+pilot,14,planning,v01-03_b0001,10,3,30,5763,7078,pilot/batches/14_planning/v01-03_b0001.txt,pilot/batches/14_planning/v01-03_b0001.json,pilot/out/14_planning/v01-03_b0001.jsonl
+pilot,15,graph,g_b0001,6,1,6,C0001,C0823,pilot/batches/15_graph/g_b0001.txt,pilot/batches/15_graph/g_b0001.json,pilot/out/15_graph/g_b0001.jsonl
