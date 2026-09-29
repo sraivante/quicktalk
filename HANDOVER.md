@@ -38,7 +38,7 @@ How it runs:
 - Run 5 agents at a time.
 
 **Queue progress:** groups 0–8 and 10–12 are done (all pass, 0 blocked; core is complete except group 9). Groups 9, 13, 14, 15 and 16 have been launched (running or unsynced). Launch the next groups in order from **17**. Observed: Sonnet expression batches almost always fail the answer-emoji quota on the first try, and one repair fixes it.
-**Flag for the critic sample** (sensitive rows the agents reported): core 225 (blackmail/grooming), 232 (controlling relationship), 233 (grief), 235 (friend in distress), 141, 144, 150 (mortality/grief/child labour/device defect), 174, 191, 205, 209 (unsafe touch, online pressure, puberty, abuse reporting), 231, 252 (sexual health), 258 (addiction).
+**Flag for the critic sample** (sensitive rows the agents reported): expression 2216, 2219, 2220, 2235 v1, 2240 v1 (unwanted or unsafe touch, disclosures, bruise); core 225 (blackmail/grooming), 232 (controlling relationship), 233 (grief), 235 (friend in distress), 141, 144, 150 (mortality/grief/child labour/device defect), 174, 191, 205, 209 (unsafe touch, online pressure, puberty, abuse reporting), 231, 252 (sexual health), 258 (addiction).
 **Fixes made during the run:**
 - per-agent scratch folders, and no direct writes to `out/` (GENERATOR.md);
 - cast names capped at 2 per batch; the phase1 batch files were rebuilt with the same rows and plans (make_batches.py).
