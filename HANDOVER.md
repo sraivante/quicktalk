@@ -37,7 +37,7 @@ How it runs:
 - After each agent finishes, run `python3 scripts/sync_out.py --trailer "Co-Authored-By: ...\nClaude-Session: ..."`. It re-validates, commits and pushes; a batch that fails the re-check gets its marker removed and goes back to pending.
 - Run 5 agents at a time.
 
-**Queue progress:** groups 1, 2, 3 and 4 are done (all 6/6 pass, 0 blocked). Groups 0, 5, 6, 7 and 8 have been launched (running or unsynced). Launch the next groups in order from **9**.
+**Queue progress:** groups 0–5, 7 and 10 are done (all pass, 0 blocked). Groups 6, 8, 9, 11 and 12 have been launched (running or unsynced). Launch the next groups in order from **13**.
 **Flag for the critic sample** (sensitive rows the agents reported): core 141, 144, 150 (mortality/grief/child labour/device defect), 174, 191, 205, 209 (unsafe touch, online pressure, puberty, abuse reporting), 231, 252 (sexual health), 258 (addiction).
 **Fixes made during the run:**
 - per-agent scratch folders, and no direct writes to `out/` (GENERATOR.md);
