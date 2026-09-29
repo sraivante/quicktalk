@@ -28,10 +28,14 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action
 
-1. **Waiting on the user:** permission to use parallel subagents for phase1 generation (asked 2026-09-29). About 1,050 batches cannot be done one at a time in the main session.
-2. Then **phase1**: `python3 scripts/make_batches.py --phase phase1`, then generate by stage (following RUN_IN_CLAUDE_CODE.md, with generators instructed to follow the current MASTER.txt), validate with `--mark`, do one repair round, and log blocked batches.
-3. Run the critic (a separate agent) on about 5% per stage as each stage finishes; commit and push after each validated group, and update this file.
-4. After phase1: run `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
+**Phase1 has started** (the user approved parallel subagents for generation on 2026-09-29). Batches were built with `make_batches.py --phase phase1`: 1,050 batches, 16,200 records, committed under `batches/`.
+
+1. **Calibration round (in progress):** 5 generator agents, one batch each: core b0001–b0003 on Opus, situational v01-01 b0001–b0002 on Sonnet. Each agent writes `out/...jsonl`, validates with `--mark`, and gets one repair round. Measure tokens per batch, time and first-try pass rate, then give the user a real estimate before scaling.
+2. **Scale:** rounds of about 5 parallel agents; each agent takes several batches of one stage. Use Opus for tier A (core, foundational, cognitive) and the sensitive stages (dynamics, personality, deception, body); Sonnet for the rest. I check every batch myself with the validator, log failures in `blocked.txt`, and commit and push after each round.
+3. **Critic:** run a separate agent on about 5% of each stage as it finishes.
+4. **After phase1:** run `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
+
+Generator agent prompt (reuse verbatim, change only the paths and model): read `prompts/MASTER.txt` as system rules; read the batch `.txt`; write JSONL to the out path (a Python json.dumps script is allowed); run `validate_jsonl.py <json> <out> --mark`; do one repair round of failing records only; no gaming the checks; do not edit other files or commit; reply with path, count, first-try and after-repair PASS/FAIL, and the reasons.
 
 Reference commands:
 ```
@@ -79,3 +83,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** Wrote PILOT_REPORT.md: repetitive question templates, repeated names, short 13+ passages, formulaic emojis, and brand or real-person slips the validator cannot see.
 - **Session 1 (cont.):** The user approved the full plan. Applied the fixes, rebuilt the pilot batches with casts, regenerated 06, 10 and 14 as v2 (all pass, clear gains), and launched the critic on a 129-record sample.
 - **Session 1 (cont.):** The critic finished (82/47/0). Applied its prompt and validator fixes and repaired the flagged v2 and graph records; the four batches pass. Waiting on the user about subagents for phase1.
+- **Session 1 (cont.):** The user approved subagents for phase1. Built the phase1 batches (1,050 / 16,200) and launched a 5-batch calibration round (3 core on Opus, 2 situational on Sonnet).
