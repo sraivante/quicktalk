@@ -18,15 +18,20 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   - `commit_rows.py`: the commit trailer now comes from `--trailer` (no hard-coded session).
 - **Step 2 done: v2 regenerated** for pilot 06 foundational, 10 culture and 14 planning (commit aa80da1). All pass the new validator. Versus v1: 0 short passages (was 5–8 per batch), 0 "do well" questions (was 2–7), 50–56 distinct names (was 11–18). **Still weak:** in 10 and 14 nearly every record has an answer emoji; the "about half with none" guidance is not enforced by the validator.
 - **The other 12 pilot batches are still v1.** Their `.ok` markers came from the OLD validator; under the new validator most fail (short passages, "do well", 6 brand mentions, overused names). They are kept for comparison only and are not exported unless `--include-pilot` is passed. Do not treat them as good data.
-- **Step 3 in progress: critic.** A separate Opus agent is reviewing `pilot/critic/sample.jsonl` (129 records: all 90 v2, 6 graph, 33 v1). Outputs go to `pilot/critic/critic_pilot.jsonl` and `pilot/critic/critic_summary.md`. If those files are missing, the session ended first: rerun the critic with the prompt in `prompts/training_data_prompt.md` [CRITIC] on the same sample.
+- **Step 3 done: critic.**
+  - A separate Opus agent reviewed 129 records: 82 pass, 47 fix, 0 reject. Details are in `pilot/critic/` and in `PILOT_REPORT.md` → Update.
+  - Its findings led to more prompt rules, a copied-wording check and an answer-emoji quota in the validator, and R13 beats on different days.
+  - All 36 flagged v2 and graph records were repaired. Pilot 06, 10, 14 and graph now pass the current validator.
+- **Current pilot status:** `status.py` shows 15/15, but only 06, 10, 14 and 15_graph pass the CURRENT validator. The other 11 are v1, marked under old rules, and are for comparison only.
 - **How generation is done:** the main session writes records itself (the user prefers no subagents except where needed, e.g. the critic, which must be a separate agent). A scratch helper copies metadata and recipe from the batch JSON, writes the JSONL and warns on the nominal word range; then `validate_jsonl.py --mark`. Scratch files are not committed.
 - **Branch:** `claude/intelligent-ride-oxqjfy`. Nothing has been pushed through `commit_rows.py` yet.
 
 ## Next action
 
-1. When the critic finishes: read `pilot/critic/critic_summary.md`, apply any clear prompt or validator fixes it points to, and add a "Critic results" section to `PILOT_REPORT.md`. Commit and push.
-2. Then **phase1**: `python3 scripts/make_batches.py --phase phase1` (about 1,050 batches, about 16,200 records). This needs parallel generation (subagents or several sessions over days). Before launching at scale, tell the user the pace, the usage and the model choice.
-3. After phase1: run the critic on about 5% per stage, then `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
+1. **Waiting on the user:** permission to use parallel subagents for phase1 generation (asked 2026-09-29). About 1,050 batches cannot be done one at a time in the main session.
+2. Then **phase1**: `python3 scripts/make_batches.py --phase phase1`, then generate by stage (following RUN_IN_CLAUDE_CODE.md, with generators instructed to follow the current MASTER.txt), validate with `--mark`, do one repair round, and log blocked batches.
+3. Run the critic (a separate agent) on about 5% per stage as each stage finishes; commit and push after each validated group, and update this file.
+4. After phase1: run `export_dataset.py`, check the near-duplicate report, and ask the user before `full`.
 
 Reference commands:
 ```
@@ -73,3 +78,4 @@ python3 scripts/export_dataset.py
 - **Session 1 (cont.):** The user said to start the pilot without subagents. Generated and validated all 15 pilot batches in-session (426 records). First try: 132/146 units passed; all failures were mechanical and fixed in one repair.
 - **Session 1 (cont.):** Wrote PILOT_REPORT.md: repetitive question templates, repeated names, short 13+ passages, formulaic emojis, and brand or real-person slips the validator cannot see.
 - **Session 1 (cont.):** The user approved the full plan. Applied the fixes, rebuilt the pilot batches with casts, regenerated 06, 10 and 14 as v2 (all pass, clear gains), and launched the critic on a 129-record sample.
+- **Session 1 (cont.):** The critic finished (82/47/0). Applied its prompt and validator fixes and repaired the flagged v2 and graph records; the four batches pass. Waiting on the user about subagents for phase1.

@@ -57,3 +57,60 @@ Date: 2026-09-29 · Branch: `claude/intelligent-ride-oxqjfy` · Status: **pilot 
 2. **Approve or reject prompt changes 1–4 above.** CLAUDE.md does not allow editing prompts or config without your approval. If approved, rerun `make_batches.py --phase pilot`, regenerate 2–3 batches, and compare.
 3. **Validator tweaks** (stemming, slack), only with your approval.
 4. Then decide on **phase1**, and whether validated rows should be committed per row with `commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy` (pilot rows only with `--include-pilot`).
+
+---
+
+## Update: fixes, v2 regeneration and critic pass (2026-09-29)
+
+**Fixes applied** (user approved): name casts per record (`config/names.json`), a brand/public-figure blocklist (`config/blocklist.json`), new MASTER rules (question-frame and opening variety, mid-range length, emojis inside dialogue, no brands), a stricter `validate_jsonl.py`, and a `--trailer` option in `commit_rows.py`.
+
+**v2 regeneration** of 06 foundational, 10 culture and 14 planning:
+
+| Per batch | v1 | v2 |
+|---|---|---|
+| Passages under the nominal length | 5–8 | 0 |
+| "What did X do well?" questions | 2–7 | 0 |
+| Distinct names | 11–18 | 50–56 |
+| Most-repeated name (records) | 3–5 | 2–3 |
+
+**Critic pass**: run by a separate Opus agent on 129 records (all 90 v2 records, the 6 graph clusters and 33 v1 records). Files: `pilot/critic/critic_pilot.jsonl` and `critic_summary.md`.
+
+| | pass | fix | reject |
+|---|---|---|---|
+| Overall | 82 | 47 | 0 |
+| v1 (33 rows + 6 graph) | 22 | 17 | 0 |
+| v2 (90) | 60 | 30 | 0 |
+
+Critic findings:
+- **Copied row wording and closing "labelling" lines.** This was worst in the graph clusters.
+- **Question types drifting into recall**, mostly in toddler planning rows.
+- **Before/during/after (R13) squeezed into one day.**
+- **[Thinking] rows where an adult supplies the reasoning.**
+- **Grounding slips:** a pronoun switch, and answers adding relations the passage never states.
+- **Answer emojis in 81% of records.**
+- **Repeated "you asked on this podcast" opener.**
+- **Minor safety issues:** numeric symptom thresholds, an answer suggesting a toddler climb, and a leader smiling right after a push.
+- **No rejects.** The sensitive rows were handled well.
+
+**Acted on:**
+- **Prompt:**
+  - mental_state questions must ask about the inner state;
+  - perspective questions must centre someone other than the protagonist;
+  - R13 beats fall on different days (also written into `config/recipes.json`);
+  - in [Thinking] rows the protagonist reaches the insight;
+  - [Receiver] rows keep the affected person visible;
+  - answers add no unstated relations, and names, pronouns and family terms stay consistent;
+  - no numeric health thresholds;
+  - graph passages have no closing summary line and stay causally consistent;
+  - varied monologue openers.
+- **Validator:**
+  - fails any 5-word run copied from the row description (text the description quotes as speech is exempt);
+  - fails a batch where more than 60% of records carry an answer emoji;
+  - warns (does not fail) when a mental_state question looks like recall.
+- **Repair round:** fixed all 36 flagged v2 and graph records, plus the new validator failures. All four batches (06, 10, 14, graph) now pass. Each batch has answer emojis in 15 of 30 records.
+
+**Not acted on:**
+- **Coherent-family name groups.** They would mean tagging names by religion or region, which risks stereotyping. The prompt instead asks for consistent, natural family terms within a household.
+- **The 12 remaining v1 pilot batches.** They are kept for comparison only.
+
+**Still limited:** the validator cannot check pronoun agreement or real recipe adherence. That depends on the generator's care and the critic sample, so run the critic on about 5% per stage during phase1.

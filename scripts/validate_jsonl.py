@@ -31,6 +31,14 @@ BLOCK_RE=re.compile(r'(?<![A-Za-z])('+'|'.join(re.escape(t) for t in BLOCK)+r')(
 try:
     _N=json.load(open(_os.path.join(_CFG,'names.json'),encoding='utf-8')); NAMEMAX=_N['max_records_per_name']; NAMESET=set(_N['india'])|set(_N['global'])|set(_N['overused'])
 except Exception: NAMEMAX,NAMESET=10**9,set()
+def _toks(t): return re.findall(r"[a-z]+(?:'[a-z]+)?",t.lower().replace('\u2019',"'"))
+def copied(passage, desc, n=5):
+    d=re.sub(r'"[^"]*"|\u201c[^\u201d]*\u201d','',desc)
+    dt=_toks(d); pt=_toks(passage)
+    dg={tuple(dt[i:i+n]) for i in range(len(dt)-n+1)}
+    return [' '.join(g) for g in {tuple(pt[i:i+n]) for i in range(len(pt)-n+1)}&dg]
+MSCUE=re.compile(r"\b(feel|felt|think|thought|want|worr|afraid|scared|hope|intend|mean|suggest|show|reveal|why|mind|believe|sure|realis|realiz|expect|wish|proud|upset|angry|happy|sad|nervous|anxious|embarrass|asham|guilt|relie|seem|emotion|mood|made)",re.I)
+EMOQUOTA=0.6
 def rectext(r): return r.get('passage','')+' '+' '.join(q.get('q','')+' '+q.get('a','') for q in r.get('qa',[]) if isinstance(q,dict))
 def batch_checks(recs, fails, key='batch'):
     cnt={}
@@ -66,6 +74,8 @@ if bj.get('kind')=='cluster':
         if any(b in p.lower() for b in BAD): f.append('banned phrase')
         for x in c['rows']:
             if difflib.SequenceMatcher(None,p.lower(),x['description'].lower()).ratio()>0.6: f.append(f'passage copies description of S{x["sno"]}')
+            cp=copied(p,x['description'])
+            if cp: f.append(f'passage copies wording of S{x["sno"]}: "{cp[0]}"')
         sens=any(x['topic'] in SENS_T for x in c['rows']); young=all(x['age'] in ('1–3','4–6') for x in c['rows'])
         pmax=1 if sens else (2 if young else 3)
         if ecount(p)>pmax: f.append(f'{ecount(p)} emojis in passage, max {pmax}')
@@ -115,6 +125,8 @@ for i,l in enumerate(lines,1):
     if BLOCK_RE and BLOCK_RE.search(rectext(r)): f.append(f'v{r.get("variant")}: real brand/public figure: {BLOCK_RE.search(rectext(r)).group(0)}')
     if any(b in p.lower() for b in BAD): f.append(f'v{r.get("variant")}: banned phrase')
     if difflib.SequenceMatcher(None,p.lower(),src['description'].lower()).ratio()>0.6: f.append(f'v{r.get("variant")}: passage copies description')
+    cp=copied(p,src['description'])
+    if cp: f.append(f'v{r.get("variant")}: passage copies row wording: "{cp[0]}"')
     ep=ecount(p); pmax=2 if src['age'] in ('1–3','4–6') else 3
     if bj['stage'] in SENSITIVE: pmax=1
     if ep>pmax: f.append(f'v{r.get("variant")}: {ep} emojis in passage, max {pmax}')
@@ -145,6 +157,11 @@ for s in rows:
             if wa and wb and len(wa&wb)/len(wa|wb)>0.55: fails[s].append(f'variants {a+1} and {b+1} too similar')
 allrecs=[x for v in got.values() for x in v]
 batch_checks(allrecs, fails)
+for x in allrecs:
+    qa_=x.get('qa')
+    if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {x.get("sno")} v{x.get("variant")}: mental_state question may be plain recall: {qa_[1].get("q")}')
+emo_recs=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and any(isinstance(q,dict) and ecount(str(q.get('a','')))>0 for q in x['qa']))
+if allrecs and emo_recs>EMOQUOTA*len(allrecs): fails['batch'].append(f'{emo_recs}/{len(allrecs)} records have an answer emoji (max {int(EMOQUOTA*100)}%); leave about half with none')
 dw=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])>2 and 'do well' in str(x['qa'][2].get('q','')).lower())
 if dw>1: fails['batch'].append(f'"do well" application question used {dw} times (max 1 per batch); vary the frames')
 bad=sorted(k for k,v in fails.items() if v and isinstance(k,int))
