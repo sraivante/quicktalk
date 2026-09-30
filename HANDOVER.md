@@ -271,3 +271,4 @@ python3 scripts/export_dataset.py
 - 08:35 Repair9 group 3 done (C0628 dare now gets same-day counsellor+parents; C0235 Kamal->Kamala). Launched 12 (+19, +36 in same agent). Running: 0,1,4,8,9,10,11,12. **Next repair9 group: 13** (skip 19, 36).
 - 08:36 Repair9 groups 1, 4 done (6392/6393 now show same-night/same-day adult response; Simran->Kabir; number fixes). Launched 13 (+ extra: 6753 v1 rename 'Jatin' girlfriend) and 14. Running: 0,8,9,10,11,12,13,14. **Next repair9 group: 15.**
 - 08:36 Repair9 groups 8, 11 done (C0726 Wasim now self-describes as autistic; C0761 climber is boy Rohan per row). Launched 15, 16. Running: 0,9,10,12,13,14,15,16. **Next repair9 group: 17.** Done so far: 1,2,3,4,5,6,7,8,11.
+- 08:37 Repair9 groups 0 (deception: 4625 same-night step, 4637 same-day, 4645 v2 new beat, feelings added) and 9 done. Launched 17, 18. Running: 10,12,13,14,15,16,17,18. **Next repair9 group: 20.** Done: 0-9, 11.
