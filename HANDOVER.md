@@ -299,3 +299,4 @@ python3 scripts/export_dataset.py
   - **Full phase built:** `make_batches.py --phase full` -> 1,418 batches, 30,520 records (manifest_full.csv; phase1 batch files unchanged). Casts: 1,479 gender-fixed rows all got a fitting first name; 0 R12 on Actor/Receiver rows. Work queue batches/queue_full.json (243 groups of <=6, Opus). Progress: `python3 <scratchpad>/progress.py full`.
   - **Order:** finish repair 10 -> re-validate + re-export -> run `commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy --push-every 25` (no sync_out/agents committing at the same time) -> start full generation (8 Opus agents, per-agent staging .staging/f<N>/).
 - 10:33 Repair10 groups 1, 3 done. Running 0,2,4,5,6,7,8,9. **Next repair10 group: 10.**
+- 10:33 Repair10 groups 2, 7 done. Running 0,4,5,6,8,9,10,11. **Next repair10 group: 12.**
