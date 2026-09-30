@@ -1,8 +1,8 @@
-files used: 1044
-records: 16079
-qa pairs: 64316
+files used: 1050
+records: 16199
+qa pairs: 64796
 SKIP records dropped: 0
 excluded after review: 1
-distinct rows covered: 7629
+distinct rows covered: 7689
 exact duplicate passages: 0
 near-duplicate variant pairs (Jaccard>0.5): 0
