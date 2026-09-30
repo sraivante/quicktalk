@@ -1,0 +1,3456 @@
+[
+{
+"stage": "09_deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0004.json",
+"out/09_deception/v01-02_b0004.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0005.json",
+"out/09_deception/v01-02_b0005.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0006.json",
+"out/09_deception/v01-02_b0006.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0007.json",
+"out/09_deception/v01-02_b0007.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0008.json",
+"out/09_deception/v01-02_b0008.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0011.json",
+"out/09_deception/v01-02_b0011.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0013.json",
+"out/09_deception/v01-02_b0013.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0016.json",
+"out/09_deception/v01-02_b0016.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4625,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0004.jsonl",
+"issue": "SAFETY REVIEW: CRITIC: (d) Safety/disclosure: Zainab says 'I'm so tired of everything' (possible self-harm warning sign) and the qualified help is deferred to 'Tomorrow, 11'; the diary ends overnight with only an alarm set. Asking 'do you feel safe' is in-beat, but no same-night safety step is shown. FIX: Add a same-night step in the entry: Yusuf agrees Zainab will call Yusuf or the hostel warden / a helpline tonight if the feelings get worse, and Yusuf checks in with Zainab before sleeping; or bring the counsellor/warden in that evening. Mirror it in the application answer."
+},
+{
+"sno": 4627,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0004.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Dilnaz realise' is answered with a realisation only. FIX: 'Dilnaz felt scared and trapped while hiding the messages, then relieved on realising they were a dangerous secret, not privacy.'"
+},
+{
+"sno": 4637,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0005.jsonl",
+"issue": "CRITIC: (d) The head teacher saw the humiliating bench punishment 'the week before' and acted only after Hafsa lied; an adult noticing harm to a child waits a week. FIX: Have the head teacher see the bench that same morning (or act the day it was seen), then speak to Hafsa and Vinita Ma'am the same day."
+},
+{
+"sno": 4640,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (c)/(5) TAG POV: [Observer] row, but the passage is told from Zubin, who both holds and catches his own bias (reads as Actor/Thinking); no bystander carries the POV. | (e) mental_state answer gives a thought/want/realisation but names no feeling: 'Why did Zubin almost laugh Payal off' gives reasons only. FIX: Either shift POV to Payal (the bystander who watches Zubin trust the charming stall) or to a friend beside Zubin; and name a feeling in mental_state (e.g. 'Zubin felt at ease with the friendly man and faintly impatient with awkward Payal')."
+},
+{
+"sno": 4640,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) Observer row: Bhavna is the observer, Pradeep the observed; mental_state centres Pradeep and perspective centres the second applicant, so the observed person is not the perspective centre. FIX: Make mental_state about Bhavna (e.g. uneasy that Pradeep is being charmed) and perspective about Pradeep (how he sees the first applicant after Bhavna's point)."
+},
+{
+"sno": 4641,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: Pablo 'knows' trust proves nothing and 'wants facts'; no emotion. FIX: 'Pablo feels warmly towards the owner but uneasy about the cheap price, so he checks rather than relying on the feeling.'"
+},
+{
+"sno": 4642,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'What was Harish thinking' answered with reasoning only. FIX: 'Harish felt uneasy about the big amount, new number and rush, but didn't want to accuse Amandeep, so checked through the saved number.'"
+},
+{
+"sno": 4643,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: answer says what Ayesha was thinking about (the notice board list) with no feeling; the passage offers 'my face went hot'. FIX: Ask about the moment of being seen through: 'How did Ayesha feel when Lokesh Sir mentioned the written test?' -> embarrassed, face hot, realising the praise had been about the team, not him."
+},
+{
+"sno": 4643,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Asif want' answered with a want only. FIX: Use the passage cue: 'He looked embarrassed' -> 'Asif felt embarrassed when the coach named the compliments, since he had hoped praise would win a starting place.'"
+},
+{
+"sno": 4644,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: Rafiq 'thought Jagdish might be jealous' with no feeling. FIX: 'Rafiq felt stung and defensive about the criticism, so he suspected Jagdish might be jealous, while the seniors' praise felt good.'"
+},
+{
+"sno": 4645,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: answer explains why refusing felt rude but names no emotion (passage gives 'ten feet tall'). FIX: 'Amandeep felt flattered and warm, then awkward and almost guilty about pausing, because after the compliments disagreeing felt rude.'"
+},
+{
+"sno": 4645,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0006.jsonl",
+"issue": "CRITIC: (i) Central beat duplicates v1 of the same row: lavish praise followed by a fee request, then pause and verify. Only the setting (lunch vs chat) differs. FIX: Change what the flatterer wants in one variant to something non-money (e.g. a senior praising Anirban to get a proxy attendance signature or a vote), keeping the chat recipe and the pause-to-check."
+},
+{
+"sno": 4658,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0007.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'feels she must be at fault' is a belief; no emotion word although the passage gives burning cheeks. FIX: 'It suggests she feels anxious and ashamed, no longer trusting her own memory, and rushes to take the blame even when almost sure she isn't at fault.'"
+},
+{
+"sno": 4666,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0008.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Manjula realise' is answered with a realisation only. FIX: Add the feeling, e.g. 'Manjula felt guilty and dismayed, realising the softened messages had made Manjula part of the fight.'"
+},
+{
+"sno": 4692,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0011.jsonl",
+"issue": "CRITIC: (e) Observer row: mental_state and perspective both centre Gargi (the observed person); mental_state should centre the observer, Lalremsiami. FIX: Change mental_state to Lalremsiami, e.g. 'What was Lalremsiami feeling as she recognised the account number?' -> concerned and careful, wanting to protect Gargi without shaming her; keep perspective on Gargi."
+},
+{
+"sno": 4718,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0013.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'Shreya was thinking about...' names no feeling. FIX: Add: 'Shreya felt amused and a little annoyed that the video had planted a worry she didn't have...'."
+},
+{
+"sno": 4743,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0016.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: answer explains Ishita's aim (be paid on time) with no feeling. FIX: Re-ask as a feeling, e.g. 'How did Ishita feel telling Arnab about the late payments?' -> 'a little exposed but relieved to be honest, wanting terms built on the real need.'"
+}
+]
+},
+{
+"stage": "14_planning",
+"model": "opus",
+"batches": [
+[
+"batches/14_planning/v01-01_b0008.json",
+"out/14_planning/v01-01_b0008.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0020.json",
+"out/14_planning/v01-01_b0020.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0024.json",
+"out/14_planning/v01-01_b0024.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0026.json",
+"out/14_planning/v01-01_b0026.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0055.json",
+"out/14_planning/v01-01_b0055.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0064.json",
+"out/14_planning/v01-01_b0064.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0096.json",
+"out/14_planning/v01-01_b0096.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0100.json",
+"out/14_planning/v01-01_b0100.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5840,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0008.jsonl",
+"issue": "CRITIC: House rule (a): perspective answer uses 'She' / 'her turn' for Rehana, whose gender the passage never states. FIX: Use 'Rehana' / 'Rehana's turn' instead of she/her, or give Rehana a gender cue in the passage."
+},
+{
+"sno": 5960,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0020.jsonl",
+"issue": "CRITIC: House rule (b): Simran is usually a girl's name in India but is used for the boy protagonist ('his bed'). FIX: Swap to a usual boy's name for the protagonist (and update answers/grounding)."
+},
+{
+"sno": 5993,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0024.jsonl",
+"issue": "CRITIC: Arithmetic: Rs 130 saved in two weeks means Rs 70 more takes about one week, not 'three more weeks'. | House rule (e): perspective ('How does Alka's suggestion affect Mohit's mood?') centres Mohit again, same as mental_state. | Revision tag weak: Alka supplies the change ('What if the goal was smaller?'); the row says the boy notices and sets the goal. FIX: Fix the number (e.g. 'that's only one more week' or change savings rate); make perspective centre Alka or Mummy; let Mohit propose the smaller target himself after Alka only asks a question."
+},
+{
+"sno": 6012,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0026.jsonl",
+"issue": "CRITIC: House rule (e): mental_state and perspective both centre Nilesh (perspective asks how Rajni's remark changes how Nilesh sees progress). | Tense slip: 'Tomorrow he reached the first line' should be 'The next day'. FIX: Perspective: 'How might Rajni see the chalk lines?' (e.g. pleased the idea turned into action); fix 'Tomorrow' to 'The next day'."
+},
+{
+"sno": 6301,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0055.jsonl",
+"issue": "CRITIC: Inconsistency: in week three Sahil sees 'three books open at their opening pages', but Devika has reached Chapter 8 of 15 in history and 7 of 14 in maths. | 'nobody had touched the last chapters' reads oddly for a solo student. FIX: Change to 'three books open to early chapters' and 'she had not touched the last chapters of any book'."
+},
+{
+"sno": 6392,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0064.jsonl",
+"issue": "SAFETY REVIEW: CRITIC: DISCLOSURE (house rule d / content rule 8): Ritu discloses months of bullying and school avoidance to a peer; the passage ends on 'mum tonight. I'll try' with no adult response on the page. | Application answer says 'the mum' instead of 'Ritu's mum'. FIX: Add a short closing beat the same day: Ritu's mum (or Madhuri telling a teacher/counsellor that afternoon) listens, says it is not Ritu's fault and arranges to see the counsellor tomorrow; fix 'the mum' to 'Ritu's mum'. Keep the passage emoji-free."
+},
+{
+"sno": 6393,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0064.jsonl",
+"issue": "CRITIC: House rule (d): a report up a chain to the class teacher shows only praise ('You did the right thing'), not the teacher's response to the bullying. FIX: Add one line of teacher action the same day, e.g. the teacher says they will speak to the boy and check on Ishita before the end of school."
+},
+{
+"sno": 6720,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0096.jsonl",
+"issue": "CRITIC: Perspective question centres the observer Santosh ('what is it like to watch'), not someone affected by the plan; planning addendum asks how the plan looks to someone else affected. FIX: Re-aim perspective at Sabina or Tarun, e.g. 'How might Sabina see Nilesh joining the group?'"
+},
+{
+"sno": 6758,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0100.jsonl",
+"issue": "CRITIC: Listener is addressed as 'Anjali' while the partner in the story is also Anjali and described in third person ('Anjali is here, in Pune'), so the listener and partner collide. | Grounding calls them 'a couple'; the passage never states the relationship explicitly (only 'we'). FIX: Rename the listener (another cast or minor name) or make the opening 'You asked how we handle...' without a name; add one line that states the relationship (e.g. 'we have been together two years') or say 'two partners' only if stated."
+}
+]
+},
+{
+"stage": "12_execution",
+"model": "opus",
+"batches": [
+[
+"batches/12_execution/v01-02_b0002.json",
+"out/12_execution/v01-02_b0002.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0004.json",
+"out/12_execution/v01-02_b0004.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0013.json",
+"out/12_execution/v01-02_b0013.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0018.json",
+"out/12_execution/v01-02_b0018.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0021.json",
+"out/12_execution/v01-02_b0021.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5002,
+"variant": 2,
+"batch": "out/12_execution/v01-02_b0002.jsonl",
+"issue": "CRITIC: mental_state answer gives Mei's intention only and names no feeling. FIX: Add a feeling, e.g. 'Mei felt concerned but kind, and wanted Olga to see the gap without being blamed'."
+},
+{
+"sno": 5003,
+"variant": 1,
+"batch": "out/12_execution/v01-02_b0002.jsonl",
+"issue": "CRITIC: Timeline logic wobbles: the courier already has a delivery date (22nd) for the samples, yet Swati says Pooja should be 'asking the supplier for samples' today. | Perspective answer says Swati wants Pooja to work out dates alone, but Swati states the conclusion herself. FIX: Make the samples not yet ordered ('the supplier needs a week to send them'), and drop 'work out the dates alone' from the answer or let Pooja reach the start date herself."
+},
+{
+"sno": "5003",
+"variant": 1,
+"batch": "out/12_execution/v01-02_b0002.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 5025,
+"variant": 2,
+"batch": "out/12_execution/v01-02_b0004.jsonl",
+"issue": "CRITIC: mental_state answer names no feeling for Chinmay ('the timing was never quite right', 'daunting' describes the task). FIX: Name a feeling, e.g. 'Chinmay felt uneasy about the big chapter and relieved each time the start moved'."
+},
+{
+"sno": 5117,
+"variant": 2,
+"batch": "out/12_execution/v01-02_b0013.jsonl",
+"issue": "CRITIC: Emoji added to the end of the last (perspective) answer by habit, which rule 10 forbids; it adds no feeling. FIX: Remove the 🙂 from the perspective answer."
+},
+{
+"sno": 5169,
+"variant": 2,
+"batch": "out/12_execution/v01-02_b0018.jsonl",
+"issue": "CRITIC: Perspective question 'Why might Jaya have written this letter to Mohit?' centres Jaya again, the same person as the mental_state question. FIX: Centre Mohit: 'How might Mohit use Jaya's letter?' or 'What might Mohit take from the two lists?'."
+},
+{
+"sno": 5194,
+"variant": 1,
+"batch": "out/12_execution/v01-02_b0021.jsonl",
+"issue": "CRITIC: Perspective question 'What did the compliance officer's reply show?' does not centre how another person sees or is affected; it reads as a second application question. FIX: Ask 'How might the compliance officer see Jasleen's email?' and answer from the thanks, review and keep-notes request."
+}
+]
+},
+{
+"stage": "15_graph",
+"model": "opus",
+"batches": [
+[
+"batches/15_graph/g_b0001.json",
+"out/15_graph/g_b0001.jsonl"
+],
+[
+"batches/15_graph/g_b0038.json",
+"out/15_graph/g_b0038.jsonl"
+],
+[
+"batches/15_graph/g_b0040.json",
+"out/15_graph/g_b0040.jsonl"
+],
+[
+"batches/15_graph/g_b0050.json",
+"out/15_graph/g_b0050.jsonl"
+],
+[
+"batches/15_graph/g_b0087.json",
+"out/15_graph/g_b0087.jsonl"
+],
+[
+"batches/15_graph/g_b0100.json",
+"out/15_graph/g_b0100.jsonl"
+],
+[
+"batches/15_graph/g_b0105.json",
+"out/15_graph/g_b0105.jsonl"
+],
+[
+"batches/15_graph/g_b0107.json",
+"out/15_graph/g_b0107.jsonl"
+]
+],
+"critic": [
+{
+"sno": "C0001",
+"variant": null,
+"batch": "out/15_graph/g_b0001.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "C0226",
+"variant": null,
+"batch": "out/15_graph/g_b0038.jsonl",
+"issue": "CRITIC: (b) Rows 470 and 471 are Parent rows, but Binita's relation to Avni is never stated (only 'her father Raghav' is named as a parent). A reader cannot tell Binita is the parent the rows require. FIX: State the relation once in the passage, e.g. 'her mother, Binita' or 'Amma (Binita)'."
+},
+{
+"sno": "C0235",
+"variant": null,
+"batch": "out/15_graph/g_b0040.jsonl",
+"issue": "CRITIC: (b) Cast gender flip: Kamal, usually a male name (Kamal is male elsewhere in this sample, e.g. Nana Kamal in C0820), is used as Leela's mother. | Minor pronoun ambiguity: 'She breathed slowly... until Leela's kicking slowed and she leaned on her knee'. FIX: Rename the mother to a female name (e.g. Kamala) or refer to her as Amma; rewrite the breathing line so it is clear who breathes and whose knee Leela leans on."
+},
+{
+"sno": "C0297",
+"variant": null,
+"batch": "out/15_graph/g_b0050.jsonl",
+"issue": "CRITIC: (a) Application answer calls Varun a friend ('friends like Varun'); the passage only says Varun brought samosas and carried boxes, so the relationship is not stated. | Relational answer is garbled: 'admit whether they wanted to stay because of love or because the flat without him felt frightening' merges Vidya's private admission with a joint one. FIX: Add 'their friend Varun' in the passage, or answer 'people like Varun, who helped on moving day'; rewrite the relational answer so Vidya's fear of the empty flat and Jatin's restlessness are attributed separately."
+},
+{
+"sno": "C0519",
+"variant": null,
+"batch": "out/15_graph/g_b0087.jsonl",
+"issue": "CRITIC: The retracing vignette is garbled and unresolved: 'she found it turned up in none of the first two places' is ungrammatical, and the story never says whether Sudha found the shoe at the gate, so the retracing approach's payoff (narrowing down) is not shown. | Note: the magical-thinking child is the non-cast Anaya; acceptable. FIX: Rewrite: 'It was not in the bedroom or on the verandah, so she went to the gate, and there it was under the bench.'"
+},
+{
+"sno": "C0595",
+"variant": null,
+"batch": "out/15_graph/g_b0100.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "C0628",
+"variant": null,
+"batch": "out/15_graph/g_b0105.jsonl",
+"issue": "SAFETY REVIEW: CRITIC: (d) Physical-danger challenge (balcony jump, kept secret from parents): Jatin tells Mahima the next morning, and her only same-day response on the page is thanks; the escalation to the counsellor happens 'that same week', and no protective step (telling parents, alerting the school the same day) is shown. | (c) Weak link: bossy commands at ten and weighing a friend's risky recommendation at fifteen share only the subtopic label 'Guidance and direction'; the relational answer strains ('a small change of approach protects the relationships and safety'). Not a pure word coincidence, but thin. | Minor: Mahima is 'the class teacher' at ten and still the go-to adult at fifteen without explanation. FIX: Make Mahima's response same-day and protective: she contacts the counsellor and Jatin's parents that day and the school warns students about the challenge. Rephrase the relational answer around one shared idea, e.g. telling versus asking in the guidance you give or take, and name Mahima as a teacher Jatin still trusts."
+},
+{
+"sno": "C0637",
+"variant": null,
+"batch": "out/15_graph/g_b0107.jsonl",
+"issue": "CRITIC: Literal question 'What did Vikas do with the hands' is ungrammatical (a side effect of avoiding pronouns). FIX: Rephrase: 'What did Vikas do when the teacher waved?' Answer: 'Vikas waved both hands.'"
+}
+]
+},
+{
+"stage": "10_culture",
+"model": "opus",
+"batches": [
+[
+"batches/10_culture/v01-02_b0007.json",
+"out/10_culture/v01-02_b0007.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0008.json",
+"out/10_culture/v01-02_b0008.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0014.json",
+"out/10_culture/v01-02_b0014.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0019.json",
+"out/10_culture/v01-02_b0019.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0021.json",
+"out/10_culture/v01-02_b0021.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0022.json",
+"out/10_culture/v01-02_b0022.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4838,
+"variant": 1,
+"batch": "out/10_culture/v01-02_b0007.jsonl",
+"issue": "CRITIC: Grounding says the no is repeated 'to the families'; the letter only mentions Vinita's own parents. FIX: Change grounding to 'repeats the calm no to her parents' (or 'to the family')."
+},
+{
+"sno": 4843,
+"variant": 2,
+"batch": "out/10_culture/v01-02_b0008.jsonl",
+"issue": "CRITIC: Dowry demands are never shown: the passage lists purchases and debt but no demand from the groom's side, so the row's 'meet demands out of fear' is only implied. | Application answer says Uday 'borrowed from a bank'; the passage only shows 'the bank man visiting twice' (hidden fact). | Row's second half (change needs many families to say no) is not shown; 'four families did the same' shows spread, not refusal, and the custom is never named as harmful (culture addendum). FIX: Add one line showing the demand (e.g. a list from the groom's family) and one line where someone in the lane names the custom as harmful or a family declines; rewrite the application answer to 'took on bank debt and sold the plot' only if the passage states the loan."
+},
+{
+"sno": "4903",
+"variant": 2,
+"batch": "out/10_culture/v01-02_b0014.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 4954,
+"variant": 2,
+"batch": "out/10_culture/v01-02_b0019.jsonl",
+"issue": "CRITIC: Receiver row: Eshaan's experience of feeling unfairly targeted is barely visible; the observer recipe leaves it as 'can't tell if hurt or just cross'. | Complaint is about the ball hitting a car rather than noise, drifting from the 'noise complaints' subtype. FIX: Let Sudha overhear a line from Eshaan (e.g. 'We're always the problem') and make Mr. Khanna's complaint about the evening noise as well as the car."
+},
+{
+"sno": 4978,
+"variant": 2,
+"batch": "out/10_culture/v01-02_b0021.jsonl",
+"issue": "CRITIC: mental_state answer is ungrammatical from pronoun avoidance: 'answered with facts about own life'. FIX: Rewrite as 'answered with facts about Rashmi's own life' or 'with personal facts'."
+},
+{
+"sno": 4983,
+"variant": 1,
+"batch": "out/10_culture/v01-02_b0022.jsonl",
+"issue": "CRITIC: Passage says 'my relatives warned me' then Lalremsiami refers to 'your aunt', who was never introduced. | Application answer says Varun 'arranged a meeting at Diwali'; the passage says the aunt wants to meet, nothing arranged. FIX: Have Varun say 'my aunt warned me' and change the answer to 'told the aunt about Lalremsiami, who now wants to meet at Diwali'."
+}
+]
+},
+{
+"stage": "11_body",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0005.json",
+"out/11_body/v01-02_b0005.jsonl"
+],
+[
+"batches/11_body/v01-02_b0006.json",
+"out/11_body/v01-02_b0006.jsonl"
+],
+[
+"batches/11_body/v01-02_b0008.json",
+"out/11_body/v01-02_b0008.jsonl"
+],
+[
+"batches/11_body/v01-02_b0018.json",
+"out/11_body/v01-02_b0018.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4168,
+"variant": 1,
+"batch": "out/11_body/v01-02_b0005.jsonl",
+"issue": "CRITIC: AGE FIT: row bracket is 13-17 but the passage states Nandini is twelve. FIX: Change 'Nandini, twelve' to 'Nandini, thirteen' (nothing else depends on the number)."
+},
+{
+"sno": 4174,
+"variant": 2,
+"batch": "out/11_body/v01-02_b0006.jsonl",
+"issue": "CRITIC: Pronoun ambiguity (rule a): literal question 'Who has been asking Bhupen if he has done something wrong?' can be read as gendering Bhupen, a first-person narrator whose gender the passage never states (in the passage 'he' is the fiancé). FIX: Rephrase: 'Who has been asking Bhupen whether the fiancé himself did something wrong?' or 'Who is worried he has upset Pooja?'"
+},
+{
+"sno": 4196,
+"variant": 1,
+"batch": "out/11_body/v01-02_b0008.jsonl",
+"issue": "CRITIC: mental_state answer asserts Zainab felt 'frustrated'; the passage gives no feeling cue for that (she only says the worry stayed, plus a lost hour). | application question is literal recall ('What did Zainab do when...?'), not what a wise person could do or what the approach does well or badly. FIX: mental_state: ask what Zainab felt/wanted in the moment after the rough call (e.g. shaken but determined, evidenced by 'Give me a minute' and the grounding steps). application: 'Why does grounding work better for Zainab than scrolling, and when is a counsellor the right step?'"
+},
+{
+"sno": 4293,
+"variant": 1,
+"batch": "out/11_body/v01-02_b0018.jsonl",
+"issue": "CRITIC: Dialogue attribution: two consecutive nurse lines ('Your tummy really hurts, doesn't it?' / 'I've noticed it's always on test day...') sit in separate paragraphs with no reply or tag between them, so the second reads as if Uday said it. FIX: Add Uday's response between the lines (e.g. 'Uday nodded.') or merge both into one nurse paragraph."
+},
+{
+"sno": 4292,
+"variant": 2,
+"batch": "out/11_body/v01-02_b0018.jsonl",
+"issue": "CRITIC: Form mismatch with R14: opens as a spoken story to Sharmila ('you asked why...', 'Let me tell you') but ends with a letter sign-off 'Your colleague, Vaibhav'. FIX: Drop the sign-off and name the speaker inside the speech (e.g. 'Let me, Vaibhav, tell you...'), or convert the whole piece into a letter consistently."
+}
+]
+},
+{
+"stage": "14_planning",
+"model": "opus",
+"batches": [
+[
+"batches/14_planning/v01-01_b0103.json",
+"out/14_planning/v01-01_b0103.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0154.json",
+"out/14_planning/v01-01_b0154.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0155.json",
+"out/14_planning/v01-01_b0155.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0188.json",
+"out/14_planning/v01-01_b0188.jsonl"
+]
+],
+"critic": [
+{
+"sno": 6786,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0103.jsonl",
+"issue": "CRITIC: mental_state answer gives a reason ('felt unable to be the one to say') and a later feeling ('excluded'), not the feeling at the moment of saying 'sounds great'. FIX: Name the feeling in the moment: 'Harsha felt awkward and afraid of spoiling everyone's excitement, so stayed quiet.'"
+},
+{
+"sno": 7300,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0154.jsonl",
+"issue": "CRITIC: Literal question is awkwardly worded ('Where did Sahil's aunt get him to take a bottle?'). | Perspective answer adds facts not on the page: Damini 'asked calmly' and the question 'let the guilt out' (calm and guilt are not stated). FIX: Literal: 'What did Sahil's aunt press into his hand?'; perspective: 'Damini was probably alarmed and worried, which is why she asked straight away how much he had spent.'"
+},
+{
+"sno": 7309,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0155.jsonl",
+"issue": "CRITIC: House rule (a): perspective answer uses 'he' for Hrithik, whose gender the passage never states (name alone is not a cue). | House rule (h) borderline: application answer gives a personal-finance instruction (lower the instalment for a month or two); the scooter line models cutting other spending to keep investing. FIX: Replace 'he said' with 'Hrithik said'; reframe application as a choice to check with a trusted adult or qualified adviser rather than a money rule, e.g. 'Ritu could talk it through with someone qualified before changing the rule.'"
+},
+{
+"sno": 7634,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0188.jsonl",
+"issue": "CRITIC: Internal inconsistency: the science book is 'still in the plastic cover' yet only 'chapters 3 to 6' are unopened, and 'tomorrow I'll start Chapter 1' implies nothing has been opened. FIX: Make it 'I haven't opened a single chapter' or drop the plastic-cover line."
+}
+]
+},
+{
+"stage": "13_wellbeing",
+"model": "opus",
+"batches": [
+[
+"batches/13_wellbeing/v01-02_b0016.json",
+"out/13_wellbeing/v01-02_b0016.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0017.json",
+"out/13_wellbeing/v01-02_b0017.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0022.json",
+"out/13_wellbeing/v01-02_b0022.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5348,
+"variant": 1,
+"batch": "out/13_wellbeing/v01-02_b0016.jsonl",
+"issue": "CRITIC: Age fit: the row is 23-26 but the elder describes being 'the boy who slept late' with no age, so the labelled person reads as a child or teen. FIX: Anchor the age, e.g. 'At twenty-three, back home after college, I was still the lazy one'."
+},
+{
+"sno": 5358,
+"variant": 1,
+"batch": "out/13_wellbeing/v01-02_b0017.jsonl",
+"issue": "CRITIC: Observer tag: the observer (Shreya) appears only in the Monday beat and then vanishes; the passage centres Lalremsiami, the one delaying. | mental_state centres Lalremsiami (the observed person) instead of the observer, and there is no Shreya inner state at all (house rule e). FIX: Keep Shreya noticing in each beat (the tight jaw, Manoj's confusion) and ask the mental_state question about Shreya; keep the perspective question on Lalremsiami or Manoj."
+},
+{
+"sno": 5409,
+"variant": 1,
+"batch": "out/13_wellbeing/v01-02_b0022.jsonl",
+"issue": "CRITIC: Garbled self-introduction: 'When I was fifteen, I'm Vidya and I was already taller than my mother' mixes two sentences. FIX: Split it: 'I'm Vidya. When I was fifteen and already taller than my mother, my science teacher would say...'."
+}
+]
+},
+{
+"stage": "15_graph",
+"model": "opus",
+"batches": [
+[
+"batches/15_graph/g_b0121.json",
+"out/15_graph/g_b0121.jsonl"
+],
+[
+"batches/15_graph/g_b0127.json",
+"out/15_graph/g_b0127.jsonl"
+]
+],
+"critic": [
+{
+"sno": "C0726",
+"variant": null,
+"batch": "out/15_graph/g_b0121.jsonl",
+"issue": "SAFETY REVIEW: CRITIC: (a)/(h) Grounding labels Wasim's experience 'autistic', but the passage never says so (no self-description, no one names it). Grounding adds a label the passage does not state and reads as a diagnosis by the narrator. FIX: Either let adult Wasim describe himself in the passage (e.g. telling Varun 'I'm autistic, written tasks help me'), which row 4507 supports, or drop the label from the grounding: 'One person's distinctive ways of relating at two, masking and exhaustion at fifteen, and clear tasks and adjustments at work at twenty-five.'"
+},
+{
+"sno": "C0761",
+"variant": null,
+"batch": "out/15_graph/g_b0127.jsonl",
+"issue": "CRITIC: (c) Age-nine vignette: row 3646 is about the child who is sure he won't fall, but the age marker 'Age nine' goes to Payal, who only holds the ladder; the child showing the bias is her unnamed 'little brother', whose age (under nine, possibly outside 7-12) is not given. | (a) 'asked her older cousin how she had managed her first year' gives the unnamed cousin a pronoun and is ambiguous about who 'she' is. FIX: Make the nine-year-old the climber (e.g. 'Age nine. Payal climbed...' with Payal's own line 'Falling is for other people'), or give the brother's age within 7-12. Rewrite the cousin line: 'asked her older cousin how the cousin's first year had gone.'"
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0002.json",
+"out/03_situational/v01-01_b0002.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0005.json",
+"out/03_situational/v01-01_b0005.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0006.json",
+"out/03_situational/v01-01_b0006.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0011.json",
+"out/03_situational/v01-01_b0011.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0013.json",
+"out/03_situational/v01-01_b0013.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0035.json",
+"out/03_situational/v01-01_b0035.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0041.json",
+"out/03_situational/v01-01_b0041.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0045.json",
+"out/03_situational/v01-01_b0045.jsonl"
+]
+],
+"critic": [
+{
+"sno": 331,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0002.jsonl",
+"issue": "CRITIC: mental_state question may be plain recall: How can you tell Binita was testing the rule and not just being rude when she said \"No!\"? Make the mental_state question ask about an inner state, answer naming a feeling."
+},
+{
+"sno": 360,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "373",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0006.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "423",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0011.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "446",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0013.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "665",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0035.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "727",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0041.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 758,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0045.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "04_dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0032.json",
+"out/04_dynamics/v01-02_b0032.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0033.json",
+"out/04_dynamics/v01-02_b0033.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0034.json",
+"out/04_dynamics/v01-02_b0034.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0035.json",
+"out/04_dynamics/v01-02_b0035.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0039.json",
+"out/04_dynamics/v01-02_b0039.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0040.json",
+"out/04_dynamics/v01-02_b0040.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0043.json",
+"out/04_dynamics/v01-02_b0043.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0044.json",
+"out/04_dynamics/v01-02_b0044.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3220,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0032.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3222,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0032.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3223,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0032.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3233,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0033.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3244,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0034.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3251,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0035.jsonl",
+"issue": "CRITIC: mental_state question may be plain recall: What fears are keeping Devika from voicing these doubts? Make the mental_state question ask about an inner state, answer naming a feeling."
+},
+{
+"sno": 3250,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0035.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3255,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0035.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3297,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0039.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3306,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3331,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0043.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3346,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "06_foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0032.json",
+"out/06_foundational/v01-03_b0032.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0001.json",
+"out/06_foundational/v04-05_b0001.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0003.json",
+"out/06_foundational/v04-05_b0003.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0004.json",
+"out/06_foundational/v04-05_b0004.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0005.json",
+"out/06_foundational/v04-05_b0005.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0006.json",
+"out/06_foundational/v04-05_b0006.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0007.json",
+"out/06_foundational/v04-05_b0007.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0009.json",
+"out/06_foundational/v04-05_b0009.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5754,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0032.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5450,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0001.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5469,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5476,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5476,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5485,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5498,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0006.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5503,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0007.jsonl",
+"issue": "CRITIC: mental_state question may be plain recall: What is Sudha unsure about as she stares at the photo? Make the mental_state question ask about an inner state, answer naming a feeling."
+},
+{
+"sno": 5505,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0007.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5508,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0007.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5523,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "09_deception",
+"model": "opus",
+"batches": [
+[
+"batches/09_deception/v01-02_b0018.json",
+"out/09_deception/v01-02_b0018.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4762,
+"variant": 1,
+"batch": "out/09_deception/v01-02_b0018.jsonl",
+"issue": "CRITIC: (e) mental_state answer gives a thought/want/realisation but names no feeling: 'felt the pull of excuses' is a temptation, not an emotion. FIX: Name the feeling: 'Irfan felt ashamed and tempted to defend himself with excuses, but chose not to because the lie was his.'"
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0008.json",
+"out/01_core/v01-03_b0008.jsonl"
+],
+[
+"batches/01_core/v01-03_b0009.json",
+"out/01_core/v01-03_b0009.jsonl"
+],
+[
+"batches/01_core/v01-03_b0010.json",
+"out/01_core/v01-03_b0010.jsonl"
+],
+[
+"batches/01_core/v01-03_b0011.json",
+"out/01_core/v01-03_b0011.jsonl"
+],
+[
+"batches/01_core/v01-03_b0012.json",
+"out/01_core/v01-03_b0012.jsonl"
+],
+[
+"batches/01_core/v01-03_b0013.json",
+"out/01_core/v01-03_b0013.jsonl"
+],
+[
+"batches/01_core/v01-03_b0015.json",
+"out/01_core/v01-03_b0015.jsonl"
+],
+[
+"batches/01_core/v01-03_b0022.json",
+"out/01_core/v01-03_b0022.jsonl"
+]
+],
+"critic": [
+{
+"sno": 73,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 78,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 85,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 88,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 94,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 100,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 104,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 112,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 118,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "118",
+"variant": 1,
+"batch": "out/01_core/v01-03_b0012.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "119",
+"variant": 2,
+"batch": "out/01_core/v01-03_b0012.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 124,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0013.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 150,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0015.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 214,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0024.json",
+"out/01_core/v01-03_b0024.jsonl"
+],
+[
+"batches/01_core/v01-03_b0025.json",
+"out/01_core/v01-03_b0025.jsonl"
+],
+[
+"batches/01_core/v01-03_b0026.json",
+"out/01_core/v01-03_b0026.jsonl"
+],
+[
+"batches/01_core/v01-03_b0028.json",
+"out/01_core/v01-03_b0028.jsonl"
+],
+[
+"batches/01_core/v01-03_b0031.json",
+"out/01_core/v01-03_b0031.jsonl"
+],
+[
+"batches/01_core/v04-05_b0005.json",
+"out/01_core/v04-05_b0005.jsonl"
+],
+[
+"batches/01_core/v04-05_b0008.json",
+"out/01_core/v04-05_b0008.jsonl"
+],
+[
+"batches/01_core/v04-05_b0009.json",
+"out/01_core/v04-05_b0009.jsonl"
+]
+],
+"critic": [
+{
+"sno": 236,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 247,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 255,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 260,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 280,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 303,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 49,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 72,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 77,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 89,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0010.json",
+"out/01_core/v04-05_b0010.jsonl"
+],
+[
+"batches/01_core/v04-05_b0011.json",
+"out/01_core/v04-05_b0011.jsonl"
+],
+[
+"batches/01_core/v04-05_b0012.json",
+"out/01_core/v04-05_b0012.jsonl"
+],
+[
+"batches/01_core/v04-05_b0016.json",
+"out/01_core/v04-05_b0016.jsonl"
+],
+[
+"batches/01_core/v04-05_b0017.json",
+"out/01_core/v04-05_b0017.jsonl"
+],
+[
+"batches/01_core/v04-05_b0020.json",
+"out/01_core/v04-05_b0020.jsonl"
+],
+[
+"batches/01_core/v04-05_b0021.json",
+"out/01_core/v04-05_b0021.jsonl"
+],
+[
+"batches/01_core/v04-05_b0022.json",
+"out/01_core/v04-05_b0022.jsonl"
+]
+],
+"critic": [
+{
+"sno": 100,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 104,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 106,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 112,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 113,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 114,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 116,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 152,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0016.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "170",
+"variant": 5,
+"batch": "out/01_core/v04-05_b0017.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 193,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 209,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0021.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 218,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "01_core",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0023.json",
+"out/01_core/v04-05_b0023.jsonl"
+],
+[
+"batches/01_core/v04-05_b0024.json",
+"out/01_core/v04-05_b0024.jsonl"
+],
+[
+"batches/01_core/v04-05_b0025.json",
+"out/01_core/v04-05_b0025.jsonl"
+],
+[
+"batches/01_core/v04-05_b0026.json",
+"out/01_core/v04-05_b0026.jsonl"
+],
+[
+"batches/01_core/v04-05_b0027.json",
+"out/01_core/v04-05_b0027.jsonl"
+],
+[
+"batches/01_core/v04-05_b0028.json",
+"out/01_core/v04-05_b0028.jsonl"
+],
+[
+"batches/01_core/v04-05_b0030.json",
+"out/01_core/v04-05_b0030.jsonl"
+],
+[
+"batches/01_core/v04-05_b0031.json",
+"out/01_core/v04-05_b0031.jsonl"
+]
+],
+"critic": [
+{
+"sno": 223,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0023.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 224,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0023.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 227,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0023.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 234,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 248,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "248",
+"variant": 5,
+"batch": "out/01_core/v04-05_b0025.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 254,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 269,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 270,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 273,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 275,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 276,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 277,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 291,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 298,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 300,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 302,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 307,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 307,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0031.json",
+"out/02_expression/v01-02_b0031.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0032.json",
+"out/02_expression/v01-02_b0032.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0033.json",
+"out/02_expression/v01-02_b0033.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0037.json",
+"out/02_expression/v01-02_b0037.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0038.json",
+"out/02_expression/v01-02_b0038.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0041.json",
+"out/02_expression/v01-02_b0041.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0044.json",
+"out/02_expression/v01-02_b0044.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0045.json",
+"out/02_expression/v01-02_b0045.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2364,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2370,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2378,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0032.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2385,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0033.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "2427",
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0037.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 2440,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0038.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2466,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0041.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2498,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2500,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2506,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0045.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0046.json",
+"out/02_expression/v01-02_b0046.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0050.json",
+"out/02_expression/v01-02_b0050.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0054.json",
+"out/02_expression/v01-02_b0054.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0057.json",
+"out/02_expression/v01-02_b0057.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0058.json",
+"out/02_expression/v01-02_b0058.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0063.json",
+"out/02_expression/v01-02_b0063.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0065.json",
+"out/02_expression/v01-02_b0065.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0070.json",
+"out/02_expression/v01-02_b0070.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2521,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0046.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2558,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0050.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "2598",
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0054.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 2629,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0057.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2629,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0057.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2633,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0058.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2690,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0063.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2691,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0063.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2710,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0065.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2754,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0070.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "02_expression",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0080.json",
+"out/02_expression/v01-02_b0080.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2854,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0080.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2859,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0080.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0048.json",
+"out/03_situational/v01-01_b0048.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0054.json",
+"out/03_situational/v01-01_b0054.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0066.json",
+"out/03_situational/v01-01_b0066.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0067.json",
+"out/03_situational/v01-01_b0067.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0070.json",
+"out/03_situational/v01-01_b0070.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0077.json",
+"out/03_situational/v01-01_b0077.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0084.json",
+"out/03_situational/v01-01_b0084.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0091.json",
+"out/03_situational/v01-01_b0091.jsonl"
+]
+],
+"critic": [
+{
+"sno": 788,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0048.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 854,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0054.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 974,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0066.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 986,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0067.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1009,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0070.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1084,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0077.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1155,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0084.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1219,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0091.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0097.json",
+"out/03_situational/v01-01_b0097.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0098.json",
+"out/03_situational/v01-01_b0098.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0099.json",
+"out/03_situational/v01-01_b0099.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0105.json",
+"out/03_situational/v01-01_b0105.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0110.json",
+"out/03_situational/v01-01_b0110.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0113.json",
+"out/03_situational/v01-01_b0113.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0122.json",
+"out/03_situational/v01-01_b0122.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0124.json",
+"out/03_situational/v01-01_b0124.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1286,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0097.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1293,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0098.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "1299",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0099.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "1362",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0105.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 1408,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0110.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1446,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0113.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1528,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0122.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1552,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0124.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "03_situational",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0126.json",
+"out/03_situational/v01-01_b0126.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0127.json",
+"out/03_situational/v01-01_b0127.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0129.json",
+"out/03_situational/v01-01_b0129.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0140.json",
+"out/03_situational/v01-01_b0140.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0154.json",
+"out/03_situational/v01-01_b0154.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0173.json",
+"out/03_situational/v01-01_b0173.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1570,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0126.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1585,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0127.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1601,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0129.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1708,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0140.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 1714,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0140.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "1848",
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0154.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 2045,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0173.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "04_dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0001.json",
+"out/04_dynamics/v01-02_b0001.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0003.json",
+"out/04_dynamics/v01-02_b0003.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0004.json",
+"out/04_dynamics/v01-02_b0004.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0007.json",
+"out/04_dynamics/v01-02_b0007.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0008.json",
+"out/04_dynamics/v01-02_b0008.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0009.json",
+"out/04_dynamics/v01-02_b0009.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0010.json",
+"out/04_dynamics/v01-02_b0010.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0014.json",
+"out/04_dynamics/v01-02_b0014.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2911,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0001.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2931,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2939,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2970,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0007.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2986,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 2988,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3006,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3043,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0014.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "04_dynamics",
+"model": "opus",
+"batches": [
+[
+"batches/04_dynamics/v01-02_b0015.json",
+"out/04_dynamics/v01-02_b0015.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0017.json",
+"out/04_dynamics/v01-02_b0017.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0020.json",
+"out/04_dynamics/v01-02_b0020.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0025.json",
+"out/04_dynamics/v01-02_b0025.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0026.json",
+"out/04_dynamics/v01-02_b0026.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0027.json",
+"out/04_dynamics/v01-02_b0027.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0030.json",
+"out/04_dynamics/v01-02_b0030.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0031.json",
+"out/04_dynamics/v01-02_b0031.jsonl"
+]
+],
+"critic": [
+{
+"sno": "3052",
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0015.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": "3053",
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0015.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 3068,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0017.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3104,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3149,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3165,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3170,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3199,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3212,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3215,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0031.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0002.json",
+"out/05_cognitive/v01-03_b0002.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0003.json",
+"out/05_cognitive/v01-03_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0004.json",
+"out/05_cognitive/v01-03_b0004.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0005.json",
+"out/05_cognitive/v01-03_b0005.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0006.json",
+"out/05_cognitive/v01-03_b0006.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0008.json",
+"out/05_cognitive/v01-03_b0008.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0010.json",
+"out/05_cognitive/v01-03_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0011.json",
+"out/05_cognitive/v01-03_b0011.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3584,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3585,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3585,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3589,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3590,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3594,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3605,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3618,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3624,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0006.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3641,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3648,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3649,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3662,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3670,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0012.json",
+"out/05_cognitive/v01-03_b0012.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0014.json",
+"out/05_cognitive/v01-03_b0014.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0016.json",
+"out/05_cognitive/v01-03_b0016.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0018.json",
+"out/05_cognitive/v01-03_b0018.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0019.json",
+"out/05_cognitive/v01-03_b0019.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0020.json",
+"out/05_cognitive/v01-03_b0020.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0021.json",
+"out/05_cognitive/v01-03_b0021.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0022.json",
+"out/05_cognitive/v01-03_b0022.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3684,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3685,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3685,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0012.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3702,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0014.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3726,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0016.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3727,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0016.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3742,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0018.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3750,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0019.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3764,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3769,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3771,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0021.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3775,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0021.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3775,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0021.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3784,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3785,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0023.json",
+"out/05_cognitive/v01-03_b0023.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0026.json",
+"out/05_cognitive/v01-03_b0026.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0030.json",
+"out/05_cognitive/v01-03_b0030.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0033.json",
+"out/05_cognitive/v01-03_b0033.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0037.json",
+"out/05_cognitive/v01-03_b0037.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0040.json",
+"out/05_cognitive/v01-03_b0040.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0044.json",
+"out/05_cognitive/v01-03_b0044.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0046.json",
+"out/05_cognitive/v01-03_b0046.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3796,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0023.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3796,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0023.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3821,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3822,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3823,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3824,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3863,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3866,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3867,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3892,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0033.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3895,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0033.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3935,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0037.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3964,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3965,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3968,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4002,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4004,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4009,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4021,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0046.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4024,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0046.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4028,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0046.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0047.json",
+"out/05_cognitive/v01-03_b0047.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0048.json",
+"out/05_cognitive/v01-03_b0048.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0049.json",
+"out/05_cognitive/v01-03_b0049.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0050.json",
+"out/05_cognitive/v01-03_b0050.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0051.json",
+"out/05_cognitive/v01-03_b0051.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0055.json",
+"out/05_cognitive/v01-03_b0055.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0001.json",
+"out/05_cognitive/v04-05_b0001.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0002.json",
+"out/05_cognitive/v04-05_b0002.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4030,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0047.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4037,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0047.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4041,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0048.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4049,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0048.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4056,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0049.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4063,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0050.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4072,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0051.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4114,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0055.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4116,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0055.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3579,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0001.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3585,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0002.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0003.json",
+"out/05_cognitive/v04-05_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0004.json",
+"out/05_cognitive/v04-05_b0004.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0005.json",
+"out/05_cognitive/v04-05_b0005.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0009.json",
+"out/05_cognitive/v04-05_b0009.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0010.json",
+"out/05_cognitive/v04-05_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0011.json",
+"out/05_cognitive/v04-05_b0011.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0013.json",
+"out/05_cognitive/v04-05_b0013.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0014.json",
+"out/05_cognitive/v04-05_b0014.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3596,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3601,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3609,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3611,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3615,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0005.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3651,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3654,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0009.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3661,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3662,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3669,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0010.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3671,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3696,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0013.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3708,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0014.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0015.json",
+"out/05_cognitive/v04-05_b0015.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0018.json",
+"out/05_cognitive/v04-05_b0018.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0020.json",
+"out/05_cognitive/v04-05_b0020.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0021.json",
+"out/05_cognitive/v04-05_b0021.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0022.json",
+"out/05_cognitive/v04-05_b0022.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0024.json",
+"out/05_cognitive/v04-05_b0024.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0025.json",
+"out/05_cognitive/v04-05_b0025.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0026.json",
+"out/05_cognitive/v04-05_b0026.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3718,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0015.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3746,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0018.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3748,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0018.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3748,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0018.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3763,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3766,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3768,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3774,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0021.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3786,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3804,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3806,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3815,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3815,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3822,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3827,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0026.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0027.json",
+"out/05_cognitive/v04-05_b0027.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0028.json",
+"out/05_cognitive/v04-05_b0028.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0029.json",
+"out/05_cognitive/v04-05_b0029.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0033.json",
+"out/05_cognitive/v04-05_b0033.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0036.json",
+"out/05_cognitive/v04-05_b0036.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0038.json",
+"out/05_cognitive/v04-05_b0038.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0039.json",
+"out/05_cognitive/v04-05_b0039.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0040.json",
+"out/05_cognitive/v04-05_b0040.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3832,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3833,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3838,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3845,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3851,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0029.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3858,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0029.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3892,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0033.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3926,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0036.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3940,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0038.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3950,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0039.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3955,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0039.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3959,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0039.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3960,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3961,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3966,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 3968,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0040.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "05_cognitive",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0044.json",
+"out/05_cognitive/v04-05_b0044.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0046.json",
+"out/05_cognitive/v04-05_b0046.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0048.json",
+"out/05_cognitive/v04-05_b0048.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0049.json",
+"out/05_cognitive/v04-05_b0049.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0051.json",
+"out/05_cognitive/v04-05_b0051.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0052.json",
+"out/05_cognitive/v04-05_b0052.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0054.json",
+"out/05_cognitive/v04-05_b0054.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0055.json",
+"out/05_cognitive/v04-05_b0055.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4006,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0044.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4020,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0046.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4040,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0048.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4044,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0048.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4053,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0049.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4070,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0051.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4073,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0051.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4083,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0052.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4109,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0054.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 4118,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0055.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "06_foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0002.json",
+"out/06_foundational/v01-03_b0002.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0003.json",
+"out/06_foundational/v01-03_b0003.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0004.json",
+"out/06_foundational/v01-03_b0004.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0008.json",
+"out/06_foundational/v01-03_b0008.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0011.json",
+"out/06_foundational/v01-03_b0011.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0013.json",
+"out/06_foundational/v01-03_b0013.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0015.json",
+"out/06_foundational/v01-03_b0015.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0016.json",
+"out/06_foundational/v01-03_b0016.jsonl"
+]
+],
+"critic": [
+{
+"sno": "5455",
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0002.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 5470,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5471,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0003.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5473,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0004.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5518,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0008.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5542,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0011.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5568,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0013.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5569,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0013.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5570,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0013.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5585,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0015.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5594,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0016.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "5600",
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0016.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+}
+]
+},
+{
+"stage": "06_foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0018.json",
+"out/06_foundational/v01-03_b0018.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0019.json",
+"out/06_foundational/v01-03_b0019.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0020.json",
+"out/06_foundational/v01-03_b0020.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0024.json",
+"out/06_foundational/v01-03_b0024.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0025.json",
+"out/06_foundational/v01-03_b0025.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0027.json",
+"out/06_foundational/v01-03_b0027.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0028.json",
+"out/06_foundational/v01-03_b0028.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0030.json",
+"out/06_foundational/v01-03_b0030.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5614,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0018.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5623,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0019.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5632,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5633,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5640,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0020.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5675,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5678,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5686,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5711,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5713,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5721,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0028.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": "5720",
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0028.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+},
+{
+"sno": 5736,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0030.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "06_foundational",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v04-05_b0014.json",
+"out/06_foundational/v04-05_b0014.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0016.json",
+"out/06_foundational/v04-05_b0016.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0017.json",
+"out/06_foundational/v04-05_b0017.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0022.json",
+"out/06_foundational/v04-05_b0022.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0024.json",
+"out/06_foundational/v04-05_b0024.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0025.json",
+"out/06_foundational/v04-05_b0025.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0027.json",
+"out/06_foundational/v04-05_b0027.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5572,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0014.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5600,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0016.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5604,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0017.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5653,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0022.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5675,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5679,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5680,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0024.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5683,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0025.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+},
+{
+"sno": 5702,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0027.jsonl",
+"issue": "NARRATOR PRONOUN CHECK: first-person passage whose narration never gives the narrator a gender, and he/she appears in questions/answers/grounding. Fix ONLY pronouns that refer to the narrator (or to anyone else the passage never genders): use the name, \"the narrator\" or \"they\". Pronouns for people gendered by kin terms or the passage are fine; if all are fine, change nothing."
+}
+]
+},
+{
+"stage": "07_personality",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0014.json",
+"out/07_personality/v01-02_b0014.jsonl"
+]
+],
+"critic": [
+{
+"sno": "4450",
+"variant": 1,
+"batch": "out/07_personality/v01-02_b0014.jsonl",
+"issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
+}
+]
+}
+]
