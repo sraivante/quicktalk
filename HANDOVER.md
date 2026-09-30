@@ -289,3 +289,4 @@ python3 scripts/export_dataset.py
 - 08:41 Repair9 groups 25, 31 done. Running: 28,33,34,35,37. Done: 0-27, 29-32, 36.
 - 08:41 Repair9 groups 28, 33 done. Running: 34, 35, 37. Done: 0-33, 36.
 - 08:41 Repair9 group 34 done. Noted (not fixed, systemic): mental_state answers naming no feeling still appear outside the sample (e.g. 5621 v2); a scripted check needs a validator change -> propose to user. Running: 35, 37.
+- 08:42 Repair9 group 35 done. Next-cycle item: 5709 v5 (06_foundational v04-05_b0027) kin mismatch (narrator 'Urmila Dadi', her brother 'Nana'). Running: 37 only.
