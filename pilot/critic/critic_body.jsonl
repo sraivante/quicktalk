@@ -1,0 +1,52 @@
+{"sno": 4235, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4299, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4161, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4311, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4238, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4207, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4276, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4249, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4163, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4294, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4232, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4182, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4189, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4198, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4146, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4241, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4167, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4202, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4133, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4300, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4318, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4293, "variant": 1, "verdict": "fix", "issues": ["Dialogue attribution: two consecutive nurse lines ('Your tummy really hurts, doesn't it?' / 'I've noticed it's always on test day...') sit in separate paragraphs with no reply or tag between them, so the second reads as if Uday said it."], "suggested_fix": "Add Uday's response between the lines (e.g. 'Uday nodded.') or merge both into one nurse paragraph."}
+{"sno": 4173, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4278, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4215, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4239, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4253, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4190, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4285, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4257, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4182, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4130, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4232, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4288, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4197, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4240, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4159, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4292, "variant": 2, "verdict": "fix", "issues": ["Form mismatch with R14: opens as a spoken story to Sharmila ('you asked why...', 'Let me tell you') but ends with a letter sign-off 'Your colleague, Vaibhav'."], "suggested_fix": "Drop the sign-off and name the speaker inside the speech (e.g. 'Let me, Vaibhav, tell you...'), or convert the whole piece into a letter consistently."}
+{"sno": 4229, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4196, "variant": 1, "verdict": "fix", "issues": ["mental_state answer asserts Zainab felt 'frustrated'; the passage gives no feeling cue for that (she only says the worry stayed, plus a lost hour).", "application question is literal recall ('What did Zainab do when...?'), not what a wise person could do or what the approach does well or badly."], "suggested_fix": "mental_state: ask what Zainab felt/wanted in the moment after the rough call (e.g. shaken but determined, evidenced by 'Give me a minute' and the grounding steps). application: 'Why does grounding work better for Zainab than scrolling, and when is a counsellor the right step?'"}
+{"sno": 4165, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4165, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4166, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4166, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4168, "variant": 1, "verdict": "fix", "issues": ["AGE FIT: row bracket is 13-17 but the passage states Nandini is twelve."], "suggested_fix": "Change 'Nandini, twelve' to 'Nandini, thirteen' (nothing else depends on the number)."}
+{"sno": 4168, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4174, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4174, "variant": 2, "verdict": "fix", "issues": ["Pronoun ambiguity (rule a): literal question 'Who has been asking Bhupen if he has done something wrong?' can be read as gendering Bhupen, a first-person narrator whose gender the passage never states (in the passage 'he' is the fiancé)."], "suggested_fix": "Rephrase: 'Who has been asking Bhupen whether the fiancé himself did something wrong?' or 'Who is worried he has upset Pooja?'"}
+{"sno": 4272, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4272, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4276, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4292, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
