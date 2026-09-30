@@ -444,3 +444,4 @@ python3 scripts/export_dataset.py
 - Full groups 208-209 done (8 PASS, 0 WARN, wellbeing). Launched 216-217. **Next full pair: 218-219.** full: batches 1223/1418 (86.2%) | records 26614/30520 (87.2%) | rows 5870/7689 (76.3%)
 - Full groups 206-207 done (12 PASS, 0 WARN, wellbeing). Critic: 5296 (suicide-risk warning signs). Launched 218-219. **Next full pair: 220-221.** full: batches 1224/1418 (86.3%) | records 26624/30520 (87.2%) | rows 5880/7689 (76.5%)
 - Full groups 200-201 done (12 PASS, 0 WARN). Launched 220-221. **Next full pair: 222-223.** full: batches 1228/1418 (86.6%) | records 26734/30520 (87.6%) | rows 5890/7689 (76.6%)
+- Full groups 210-211 done (12 PASS, planning v02-03). Launched 222-223. **Next full pair: 224-225.** full: batches 1241/1418 (87.5%) | records 26982/30520 (88.4%) | rows 5980/7689 (77.8%)
