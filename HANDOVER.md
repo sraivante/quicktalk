@@ -285,3 +285,4 @@ python3 scripts/export_dataset.py
 - 08:40 Repair9 group 27 done (1 grounding fix). Launched 33. Running: 17,25,26,28,30,31,32,33. **Next repair9 group: 34.** Done: 0-16, 18-24, 27, 29, 36. (out/05_cognitive v01-03_b0014.. show modified while group 26 is mid-edit; sync after it reports.)
 - 08:40 Repair9 group 26 done. Launched 34. Running: 17,25,28,30,31,32,33,34. **Next repair9 group: 35 (last).** Done: 0-16, 18-24, 26, 27, 29, 36.
 - 08:40 Repair9 group 30 done. Launched 35 (last). Running: 17,25,28,31,32,33,34,35. Done: 0-16, 18-24, 26, 27, 29, 30, 36.
+- 08:41 Repair9 groups 17 (31 pronoun fixes in expression, emoji out of grief scene 2427 v2), 32 done. Added cleanup group 37 to queue_repair9.json (10 notes: safety 1286 v1, 2511 v2, 2510 v1/v2; minor 6753, 148, 114, 3149, 2440 v2, 4118 v4) and launched it. Running: 25,28,31,33,34,35,37. Done: 0-24, 26, 27, 29, 30, 32, 36.

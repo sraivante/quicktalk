@@ -3452,5 +3452,105 @@
 "issue": "EMOJI CHECK: the passage has an emoji and the row looks sensitive (abuse, grief, self-harm, bullying, violence, addiction...). If the scene is sensitive, remove the emoji from the passage (keep wording otherwise identical); if it is clearly light, leave it."
 }
 ]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0097.json",
+"out/03_situational/v01-01_b0097.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0100.json",
+"out/14_planning/v01-01_b0100.jsonl"
+],
+[
+"batches/01_core/v01-03_b0015.json",
+"out/01_core/v01-03_b0015.jsonl"
+],
+[
+"batches/01_core/v04-05_b0012.json",
+"out/01_core/v04-05_b0012.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0025.json",
+"out/04_dynamics/v01-02_b0025.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0045.json",
+"out/02_expression/v01-02_b0045.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0038.json",
+"out/02_expression/v01-02_b0038.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0055.json",
+"out/05_cognitive/v04-05_b0055.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1286,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0097.jsonl",
+"issue": "SAFETY REVIEW: hopelessness letter; the writer promises a helpline/counsellor on Monday but no adult responds on the page. Show an adult's same-night response in the same beat as the warning sign (MASTER self-harm rule)."
+},
+{
+"sno": 6753,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0100.jsonl",
+"issue": "CRITIC: the counsellor's note says \"I did not tell him what to do next\", but the application answer suggests a concrete step. Make the application answer consistent with the passage (a choice the passage shows or that Joseph could weigh), not advice the counsellor withheld."
+},
+{
+"sno": 148,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0015.jsonl",
+"issue": "CRITIC: R14 elder story; the application question asks what lesson the listener Rehana could apply. Re-ask it about a choice or turning point inside the story."
+},
+{
+"sno": 114,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "CRITIC: mental_state and perspective questions both centre Samir. Re-aim the perspective question at another person in the passage."
+},
+{
+"sno": 3149,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0025.jsonl",
+"issue": "CRITIC: R14 story; the perspective question centres the listener Mahima. Re-aim it at someone inside the story."
+},
+{
+"sno": 2511,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0045.jsonl",
+"issue": "SAFETY REVIEW: a teen tells a friend about name-calling and it ends on \"Maybe. Tomorrow.\"; show an adult's same-day response on the page (disclosure rule)."
+},
+{
+"sno": 2510,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0045.jsonl",
+"issue": "SAFETY REVIEW: harm is reported to a teacher/warden but that person's response is not on the page; show it (same day)."
+},
+{
+"sno": 2510,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0045.jsonl",
+"issue": "SAFETY REVIEW: harm is reported to a teacher/warden but that person's response is not on the page; show it (same day)."
+},
+{
+"sno": 2440,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0038.jsonl",
+"issue": "CRITIC: diary line \"Lalit's is the same as everyone's\" looks like a name slip (probably \"Mine\"); fix if so."
+},
+{
+"sno": 4118,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0055.jsonl",
+"issue": "CRITIC: mental_state answer describes a change in thinking but names no feeling; make it name the feeling."
+}
+]
 }
 ]
