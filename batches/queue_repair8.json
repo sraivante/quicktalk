@@ -1,0 +1,256 @@
+[
+ {
+  "stage": "08_group",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/08_group/v01-02_b0001.json",
+    "out/08_group/v01-02_b0001.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0003.json",
+    "out/08_group/v01-02_b0003.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0004.json",
+    "out/08_group/v01-02_b0004.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0005.json",
+    "out/08_group/v01-02_b0005.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0007.json",
+    "out/08_group/v01-02_b0007.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0008.json",
+    "out/08_group/v01-02_b0008.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0011.json",
+    "out/08_group/v01-02_b0011.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0012.json",
+    "out/08_group/v01-02_b0012.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 3355,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0001.jsonl",
+    "issue": "LITERAL: Q 'What did Rafiq say would happen after the others left?' misframes the line; Rafiq said it before leaving, about telling Farida afterwards. | SUGGESTED: Ask 'What did Rafiq add when Farida hesitated?' (answer: 'We'll just tell you about it after.')."
+   },
+   {
+    "sno": 3378,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0003.jsonl",
+    "issue": "GROUNDING: perspective answer claims Sunil answered 'without hesitation'; the passage does not say that. | SUGGESTED: Remove 'without hesitation'; ground in 'said the exact same thing'."
+   },
+   {
+    "sno": 3386,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0004.jsonl",
+    "issue": "PERSPECTIVE: in this [Receiver] row the protagonist is Sangeeta; both mental_state and perspective centre her. Perspective should centre someone else (Chandrika or a silent onlooker).; DIVERSITY: central beat close to v1 (sno 3386 R11): school crowd of 20-30 watches harassment in canteen/corridor, one peer follows the target and takes them to an adult who responds the same day. | SUGGESTED: Perspective: ask what it was like for Chandrika, frozen in the queue, or for someone who turned their chair away. Vary v2's beat, e.g. harassment on a school bus or sports ground with a different kind of help."
+   },
+   {
+    "sno": 3393,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0005.jsonl",
+    "issue": "PERSPECTIVE: perspective question centres Ganga, the protagonist of this [Response] row (the child who assigns roles), while mental_state centres Arohi; the perspective slot should centre someone other than the protagonist. | SUGGESTED: Make mental_state ask what Ganga wanted/felt when sticking the strips on the board (e.g. hopeful, a bit anxious about fairness), and make perspective ask how Arohi experienced having her name on 'seed labels'."
+   },
+   {
+    "sno": 3410,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0007.jsonl",
+    "issue": "CONSISTENCY: 'four hires in a row, same university' but the passage lists one promotion (Karthik) and two hires = three.; GROUNDING (minor): grounding calls Vinita 'a hiring lead'; the passage shows her hiring and promoting but names no role. | SUGGESTED: Make the count match (e.g. 'three people in a row' or add one more hire) and describe Vinita in grounding as 'a colleague who hires and promotes'."
+   },
+   {
+    "sno": 3412,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0007.jsonl",
+    "issue": "CLARITY: 'and I was Gurpreet then' reads as if the narrator had a different name; the self-introduction is garbled. | SUGGESTED: Use 'I am Gurpreet, and back then I stood there shaking inside...' so the elder is clearly named."
+   },
+   {
+    "sno": 3421,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0008.jsonl",
+    "issue": "GROUNDING: grounding calls Irawati 'the junior'; the passage never states a junior role.; MENTAL_STATE: answer gives Swati's reasoning but names no feeling. | SUGGESTED: Grounding: '...and the named team member then reports honestly'. Mental_state answer: name the state, e.g. 'Swati felt the room's pressure to pick a culprit but stayed calm and determined to find the gap first.'"
+   },
+   {
+    "sno": 3454,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0011.jsonl",
+    "issue": "GROUNDING: application answer says Aparna will post 'the goal and who owns what'; Aparna only says 'I'll post the goal tonight' — 'who owns what' was Mahima's request. | SUGGESTED: Answer: 'Aparna decided to post the goal that night, after agreeing Mahima's point was fair.' Or have Aparna's line include who owns what."
+   },
+   {
+    "sno": 3468,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0012.jsonl",
+    "issue": "DIVERSITY: same central beat and setting as v1 (R13): office colleague smiles through weeks of petty annoyances, a small desk object (stapler here, pen in v1) triggers a shouted outburst in front of the office, and the other person had no idea. | SUGGESTED: Keep the R14 elder frame but move Payal's memory out of the office (e.g. a shared flat, a band or sports team, a family shop) and change the trigger and the aftermath beat."
+   }
+  ]
+ },
+ {
+  "stage": "08_group",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/08_group/v01-02_b0014.json",
+    "out/08_group/v01-02_b0014.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0015.json",
+    "out/08_group/v01-02_b0015.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0016.json",
+    "out/08_group/v01-02_b0016.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0017.json",
+    "out/08_group/v01-02_b0017.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0018.json",
+    "out/08_group/v01-02_b0018.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0019.json",
+    "out/08_group/v01-02_b0019.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0020.json",
+    "out/08_group/v01-02_b0020.jsonl"
+   ],
+   [
+    "batches/08_group/v01-02_b0021.json",
+    "out/08_group/v01-02_b0021.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 3482,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0014.jsonl",
+    "issue": "MENTAL_STATE: answer gives a reason (protect privacy, think first) but names no feeling.; CLARITY: Abebe's line 'If she wants a sibling to know' is ambiguous (Selin is herself the half-sibling); Abebe also supplies the whole reasoning, so Selin's own weighing in a [Response] row is thin.; GROUP (minor): the family is present but no group dynamic is visible. | SUGGESTED: Name Selin's feeling (e.g. shaken and protective). Rewrite Abebe's line to 'Who else knows is hers to decide' and give Selin one line of her own weighing (e.g. whether her brother/father should hear it from her mother)."
+   },
+   {
+    "sno": 3479,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0014.jsonl",
+    "issue": "PERSPECTIVE: this is a [Receiver] row with Baljeet as protagonist; both mental_state and perspective centre Baljeet. Perspective should centre someone else. | SUGGESTED: Perspective: ask how Sanjay or the mother-in-law might see the repeated 'Is this how you like it?'"
+   },
+   {
+    "sno": 3489,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0015.jsonl",
+    "issue": "EMOJI: perspective answer ends with 🙂 while describing Payal as 'pulled between friendship and the rank list' — the emoji does not match the conflicted feeling. | SUGGESTED: Drop the 🙂 from the perspective answer (passage emojis are fine)."
+   },
+   {
+    "sno": 3491,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0015.jsonl",
+    "issue": "PRONOUN: application answer uses 'She' for a generic 'student who holds back questions'.; COHERENCE: tip 'use the last-question slot rather than waiting until the end' contradicts itself (the last question is at the end). | SUGGESTED: Use 'They could write the question down early, sit nearer the front, or ask at the first pause instead of waiting for the last question.'"
+   },
+   {
+    "sno": 3498,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0015.jsonl",
+    "issue": "PERSPECTIVE: mental_state and perspective both centre Pema; perspective should centre someone else (the colleague named in the group email, or Tushar). | SUGGESTED: Perspective: 'What might it be like for the colleague named in the group email when everyone looked at their screens?'"
+   },
+   {
+    "sno": 3501,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0016.jsonl",
+    "issue": "MENTAL_STATE: answer says Binita 'felt that it was slow' and 'steady' — a judgement of pace, not a named feeling. | SUGGESTED: Name the inner state, e.g. 'Binita probably felt overlooked and a little doubtful while Divyansh got the lunches, yet kept a quiet patience.'"
+   },
+   {
+    "sno": 3504,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0016.jsonl",
+    "issue": "DIVERSITY: same central beat as v2 (sno 3504): the same deceased student Neha, a whole-school assembly, and a student who jokes and then sits alone (Alka by the water tank vs Jomon on the back steps). | SUGGESTED: Keep the counsellor's-note form but change the loss and the focal beat, e.g. a class decorating a memorial board where one student refuses to join and another cannot stop talking, or a sports team's first match after the loss."
+   },
+   {
+    "sno": 3500,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0016.jsonl",
+    "issue": "LITERAL: question 'Until which month will Pankaj give notice?' is misframed; the passage says notice will be given in April. | SUGGESTED: Ask 'In which month does Pankaj plan to give notice?'"
+   },
+   {
+    "sno": 3518,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0017.jsonl",
+    "issue": "FIDELITY: row is a FAMILY ritual whose meaning to the ELDERS is seen; passage makes it a workplace prayer led by a night guard, so the family/elder frame is lost.; GROUNDING: grounding calls Francis an 'older colleague'; the passage gives only 'night guard' on the same shift. | SUGGESTED: Keep the institution recipe but make it a family ritual that happens there (e.g. Kiran's family holding a grandparent's prayer at a community centre or hospital ward), with an elder whose feeling Kiran sees; align grounding wording to passage roles."
+   },
+   {
+    "sno": 3516,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0017.jsonl",
+    "issue": "GROUNDING: perspective Q/A assume Sudha knocked on Farhan's door; the passage only says she knocked on four doors. | SUGGESTED: Ask 'How might Farhan feel if he was one of the four invited?' or state in the passage that one of the doors was Farhan's."
+   },
+   {
+    "sno": 3524,
+    "variant": 2,
+    "batch": "out/08_group/v01-02_b0018.jsonl",
+    "issue": "GROUNDING: literal Q 'How many people were in the study group?' — passage only says '60 people saw' the removal, not the group size. | SUGGESTED: Ask 'How many people saw Deepika being removed?' (answer: sixty), or state the group size in the chat."
+   },
+   {
+    "sno": 3522,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0018.jsonl",
+    "issue": "AUTHORITY RESPONSE: Papa emails the class teacher, but the school's response does not appear on the page (Papa's same-day response to Avni is shown correctly). | SUGGESTED: Add a short beat: the class teacher replies that night or next morning, thanks them and says the group will be addressed, trimming elsewhere to stay in range."
+   },
+   {
+    "sno": 3536,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0019.jsonl",
+    "issue": "MENTAL_STATE: asks about the unnamed man rather than a named person.; PERSPECTIVE: perspective centres Gargi, the protagonist of this [Response] row, instead of someone else. | SUGGESTED: Swap focus: mental_state asks what Gargi might have felt/wanted while speaking (hedged, since the narrator cannot know); perspective asks how the man (or Sharmila in the queue) experienced being redirected."
+   },
+   {
+    "sno": 3531,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0019.jsonl",
+    "issue": "MENTAL_STATE: asks about the unnamed conductor, not a named person; the row's learner (Ishita) or model (Mummy) is not the subject.; FIDELITY (minor): 'waits patiently in line' from the row is not shown; the conductor's courtesy stands in for it. | SUGGESTED: Mental_state: 'What might Ishita have been thinking when she turned round to thank the conductor?' Optionally add a beat of Mummy waiting her turn at the door."
+   },
+   {
+    "sno": 3544,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0020.jsonl",
+    "issue": "MENTAL_STATE: Q asks what Reena 'thought' and the answer gives an opinion (coach was wrong) rather than naming a feeling. | SUGGESTED: Ask 'What was Reena feeling after the semi-final loss?' and answer e.g. 'disappointed but clear-eyed, still loyal to the team while seeing the coach's mistake.'"
+   },
+   {
+    "sno": 3555,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0021.jsonl",
+    "issue": "DISCLOSURE/AUTHORITY: the counsellor reports to the head of department, but that response is not shown on the page (nor any response to Wasim's original report). | SUGGESTED: Add one line for the head of department's same-day response (e.g. has the board wiped and says the class chat will be addressed), trimming elsewhere to stay in range."
+   },
+   {
+    "sno": 3556,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0021.jsonl",
+    "issue": "SAFETY/COVER-UP: bare wires over wet sacks are a live danger to workers; the scene ends with only a private notebook entry, and no protective step (warning others, keeping away, raising it with the owner or inspection) is shown or suggested in answers. | SUGGESTED: Keep the fear and doubt, but add a small safe action on the page (e.g. Kishore moves the sacks and tells the workers to keep clear, and plans to raise it at tomorrow's inspection); application answer names telling someone who can act before anyone is hurt."
+   }
+  ]
+ },
+ {
+  "stage": "08_group",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/08_group/v01-02_b0022.json",
+    "out/08_group/v01-02_b0022.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 3559,
+    "variant": 1,
+    "batch": "out/08_group/v01-02_b0022.jsonl",
+    "issue": "AUTHORITY RESPONSE: Yash reports to the compliance officer, but the officer's response is not shown on the page. | SUGGESTED: Add one line: the compliance officer listens, thanks Yash, and says the file will be checked (trim elsewhere to stay in range)."
+   }
+  ]
+ }
+]
