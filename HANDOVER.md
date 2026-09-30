@@ -337,3 +337,4 @@ python3 scripts/export_dataset.py
 - 10:51 Repair11 groups 0,1,2,3,5,7 done. Running 4,6,8,9. Leftover: 3700 v5 R11 ends 'Ankita, analyst.'
 - 10:51 Repair11 group 4 done. Running 6,8,9.
 - 10:51 Repair11 group 6 done. Running 8, 9.
+- 10:52 Repair11 group 8 done. Running 9. (Mixed-stage groups risk basename collisions in flat scratch dirs; full re-validation after group 9 will catch any mix-up.)
