@@ -422,3 +422,4 @@ python3 scripts/export_dataset.py
 - Full groups 146-147 done (12 PASS). Launched 172-173. **Next full pair: 174-175.** full: batches 956/1418 (67.4%) | records 21356/30520 (70.0%) | rows 4526/7689 (58.9%)
 - Full groups 154-155 done (8 PASS, 0 WARN). Launched 174-175. **Next full pair: 176-177.** full: batches 970/1418 (68.4%) | records 21656/30520 (71.0%) | rows 4566/7689 (59.4%)
 - Full groups 158-159 done (12 PASS, 0 WARN; post-commit fixes re-synced; 'Tourette's' label removed). Reusable narrator-pronoun audit: .staging/f158/audit.py (use for end scan). Launched 176-177. **Next full pair: 178-179.** full: batches 994/1418 (70.1%) | records 22136/30520 (72.5%) | rows 4686/7689 (60.9%)
+- Full groups 156-157 done (12 PASS, 0 WARN; 9 post-commit narrator fixes re-synced). Launched 178-179. **Next full pair: 180-181.** full: batches 998/1418 (70.4%) | records 22236/30520 (72.9%) | rows 4706/7689 (61.2%)
