@@ -356,3 +356,4 @@ python3 scripts/export_dataset.py
 - 12:50 Full groups 24-25 done (12 PASS; ~30 R4/R12 narrator-pronoun slips fixed post-ship). Added R4/R12 narrator rule to FULL_GEN.md; earlier full batches may carry the same slip -> scripted scan at the end. Launched 40-41. **Next full pair: 42-43.** full: batches 182/1418 (12.8%) | records 4638/30520 (15.2%) | rows 783/7689 (10.2%)
 - 12:55 Full groups 36-37 done (12 PASS). Launched 42-43. **Next full pair: 44-45.** full: batches 193/1418 (13.6%) | records 4868/30520 (16.0%) | rows 843/7689 (11.0%)
 - 13:06 Full groups 38-39 done (12 PASS). Launched 44-45. **Next full pair: 46-47.** full: batches 227/1418 (16.0%) | records 5468/30520 (17.9%) | rows 983/7689 (12.8%)
+- 13:06 Full groups 28-29 done (12 PASS). Launched 46-47. **Next full pair: 48-49.** full: batches 229/1418 (16.1%) | records 5508/30520 (18.0%) | rows 993/7689 (12.9%)
