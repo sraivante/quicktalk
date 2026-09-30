@@ -281,3 +281,4 @@ python3 scripts/export_dataset.py
 - 08:38 Repair9 groups 20, 21, 23 done. Residual SAFETY item: 1286 v1 (03_situational b0097; hopelessness letter, writer promises helpline/counsellor Monday, no adult response on page). Launched 27, 28, 29. Running: 17,22,24,25,26,27,28,29. **Next repair9 group: 30.** Done: 0-16, 18-21, 23, 36.
 - 08:39 Repair9 group 22 done. Launched 30. Running: 17,24,25,26,27,28,29,30. **Next repair9 group: 31.** Done: 0-16, 18-23, 36.
 - 08:39 Repair9 group 24 done. Residual: 3149 v1 (R14 perspective centres listener Mahima). Launched 31. Running: 17,25,26,27,28,29,30,31. **Next repair9 group: 32.** Done: 0-16, 18-24, 36.
+- 08:39 Repair9 group 29 done (13 flags, all false alarms; no change). Launched 32. Running: 17,25,26,27,28,30,31,32. **Next repair9 group: 33.** Done: 0-16, 18-24, 29, 36.
