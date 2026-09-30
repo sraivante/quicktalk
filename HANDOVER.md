@@ -363,3 +363,4 @@ python3 scripts/export_dataset.py
 - 13:21 Full groups 30-31 done (12 PASS). Launched 54-55. **Next full pair: 56-57.** full: batches 266/1418 (18.8%) | records 6138/30520 (20.1%) | rows 1113/7689 (14.5%)
 - 13:21 Full groups 42-43 done (12 PASS). Launched 56-57. **Next full pair: 58-59.** full: batches 267/1418 (18.8%) | records 6168/30520 (20.2%) | rows 1123/7689 (14.6%)
 - 13:36 Full groups 46-47 done (12 PASS). CRITIC CHECK: 2759 v6 distress - verify same-night step. Launched 58-59. **Next full pair: 60-61.** full: batches 310/1418 (21.9%) | records 6824/30520 (22.4%) | rows 1343/7689 (17.5%)
+- 13:37 Full groups 44-45 done (12 PASS). Launched 60-61. **Next full pair: 62-63.** full: batches 312/1418 (22.0%) | records 6844/30520 (22.4%) | rows 1343/7689 (17.5%)
