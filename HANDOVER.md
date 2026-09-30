@@ -275,3 +275,4 @@ python3 scripts/export_dataset.py
 - 08:37 Repair9 group 10 done (dynamics: 10 pronoun fixes, several found by sweep beyond the WARNs). Launched 20. Running: 12,13,14,15,16,17,18,20. **Next repair9 group: 21.** Done: 0-11.
 - 08:37 Repair9 group 16 done (8 pronoun/relationship fixes). Launched 21. Running: 12,13,14,15,17,18,20,21. **Next repair9 group: 22.** Done: 0-11, 16.
 - 08:37 Repair9 groups 12, 14, 19, 36 done. Launched 22, 23. Running: 13,15,17,18,20,21,22,23. **Next repair9 group: 24.** Done: 0-12, 14, 16, 19, 36.
+- 08:38 Repair9 group 13 done (+6753 v1 Jatin->Meera). Residual items for a final sweep: 6753 v1 (application answer suggests a step though counsellor 'did not tell him what to do'), 148 v2 (R14 application asks about listener's lesson). Launched 24. Running: 15,17,18,20,21,22,23,24. **Next repair9 group: 25.** Done: 0-14, 16, 19, 36.
