@@ -425,3 +425,4 @@ python3 scripts/export_dataset.py
 - Full groups 156-157 done (12 PASS, 0 WARN; 9 post-commit narrator fixes re-synced). Launched 178-179. **Next full pair: 180-181.** full: batches 998/1418 (70.4%) | records 22236/30520 (72.9%) | rows 4706/7689 (61.2%)
 - Full groups 170-171 done (10 PASS). Couples note: in 3481 the agent added a new wife name (Bhavna) since both cast names were male — i.e. option-2 behaviour already happening ad hoc; user decision still pending. Launched 180-181. **Next full pair: 182-183.** full: batches 1002/1418 (70.7%) | records 22267/30520 (73.0%) | rows 4737/7689 (61.6%)
 - Full groups 168-169 done (12 PASS). Launched 182-183. **Next full pair: 184-185.** full: batches 1010/1418 (71.2%) | records 22407/30520 (73.4%) | rows 4797/7689 (62.4%)
+- Full groups 164-165 done (12 PASS). Launched 184-185. **Next full pair: 186-187.** full: batches 1027/1418 (72.4%) | records 22810/30520 (74.7%) | rows 4900/7689 (63.7%)
