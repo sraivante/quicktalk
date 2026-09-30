@@ -288,3 +288,4 @@ python3 scripts/export_dataset.py
 - 08:41 Repair9 groups 17 (31 pronoun fixes in expression, emoji out of grief scene 2427 v2), 32 done. Added cleanup group 37 to queue_repair9.json (10 notes: safety 1286 v1, 2511 v2, 2510 v1/v2; minor 6753, 148, 114, 3149, 2440 v2, 4118 v4) and launched it. Running: 25,28,31,33,34,35,37. Done: 0-24, 26, 27, 29, 30, 32, 36.
 - 08:41 Repair9 groups 25, 31 done. Running: 28,33,34,35,37. Done: 0-27, 29-32, 36.
 - 08:41 Repair9 groups 28, 33 done. Running: 34, 35, 37. Done: 0-33, 36.
+- 08:41 Repair9 group 34 done. Noted (not fixed, systemic): mental_state answers naming no feeling still appear outside the sample (e.g. 5621 v2); a scripted check needs a validator change -> propose to user. Running: 35, 37.
