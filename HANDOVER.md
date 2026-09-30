@@ -329,3 +329,4 @@ python3 scripts/export_dataset.py
 - 10:44 Repair10 group 45 done. Launched 48 (last). Running 39,43,44,46,47,48.
 - 10:45 Repair10 group 43 done. Running 39,44,46,47,48.
 - 10:45 Repair10 group 44 done. Running 39,46,47,48.
+- 10:45 Repair10 group 39 done. Running 46,47,48.
