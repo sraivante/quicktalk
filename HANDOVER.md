@@ -377,3 +377,4 @@ python3 scripts/export_dataset.py
 - 14:30 Full groups 72-73 done (12 PASS). Launched 82-83. **Next full pair: 84-85.** full: batches 433/1418 (30.5%) | records 9242/30520 (30.3%) | rows 2507/7689 (32.6%)
 - 14:39 Full groups 66-67 done (12 PASS). OPEN QUESTION to user: couple rows become same-sex whenever the cast draws two same-gender names (only slot 1 is gender-matched); ask whether to keep that or let agents pick a partner name. Launched 84-85. **Next full pair: 86-87.** full: batches 453/1418 (31.9%) | records 9672/30520 (31.7%) | rows 2707/7689 (35.2%)
 - 14:39 Full groups 70-71 done (12 PASS). Launched 86-87. **Next full pair: 88-89.** full: batches 454/1418 (32.0%) | records 9692/30520 (31.8%) | rows 2717/7689 (35.3%)
+- 14:40 Full groups 68-69 done (12 PASS). Launched 88-89. **Next full pair: 90-91.** Awaiting user on couples question (1/2/3). full: batches 456/1418 (32.2%) | records 9742/30520 (31.9%) | rows 2737/7689 (35.6%)
