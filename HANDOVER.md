@@ -343,3 +343,4 @@ python3 scripts/export_dataset.py
 - 11:30 Full gen launched: agents on groups 0-1, 2-3, 4-5, 6-7, 8-9, 10-11, 12-13, 14-15 (core). Instructions .staging/critic/FULL_GEN.md. **Next full group pair: 16-17.**
 - 12:07 Full groups 12-13 done (12 PASS; b0009/b0011 took 2 repair rounds). Launched 16-17. **Next full pair: 18-19.** full: batches 76/1418 (5.4%) | records 2271/30520 (7.4%) | rows 317/7689 (4.1%)
 - 12:10 Full groups 8-9 done (12 PASS). Leftover: 166 v11 'take him' for ungendered Joseph. Launched 18-19. **Next full pair: 20-21.** full: batches 83/1418 (5.9%) | records 2461/30520 (8.1%) | rows 317/7689 (4.1%)
+- 12:11 Full groups 10-11 done (12 PASS). Launched 20-21. **Next full pair: 22-23.** full: batches 85/1418 (6.0%) | records 2521/30520 (8.3%) | rows 317/7689 (4.1%)
