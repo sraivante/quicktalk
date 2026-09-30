@@ -311,12 +311,15 @@ for k in pk3:  # progression across ages
     if len(byage) >= 2:
         ol = sorted(byage, key=AO.get); pick = [byage[ol[0]], byage[ol[-1]]] if len(ol) == 2 else [byage[ol[0]], byage[ol[len(ol) // 2]], byage[ol[-1]]]
         add('progression', pick, 250, B['progression'])
+POLYSEMOUS = {'splitting', 'bargaining', 'anchoring', 'framing', 'priming', 'projection', 'transference', 'labelling', 'labeling', 'mirroring', 'venting', 'flooding', 'masking', 'scaffolding', 'chunking', 'reframing'}
 byconcept = {}
 for r in rows:
     if r['Topic'] in CONCEPT_TOPICS: byconcept.setdefault(re.sub(r'\(.*?\)', '', r['Subtopic']).strip().lower(), r)
 cl = [(r, c) for r in rows if r['Topic'] not in CONCEPT_TOPICS for c in r['concepts'][:1]]
 random.shuffle(cl)
 for r, c in cl:
+    # a one-word concept that is also an everyday word links rows by coincidence (C0830: 'splitting' a chore vs splitting a friend)
+    if c in POLYSEMOUS: continue
     if c in byconcept and abs(AO[byconcept[c]['Age']] - AO[r['Age']]) <= 2: add('concept_link', [byconcept[c], r], 150, B['concept_link'])
 n = 0
 with open(os.path.join(a.out, 'clusters.jsonl'), 'w', encoding='utf-8') as f:

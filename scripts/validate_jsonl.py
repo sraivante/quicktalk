@@ -38,6 +38,50 @@ def copied(passage, desc, n=5):
     dg={tuple(dt[i:i+n]) for i in range(len(dt)-n+1)}
     return [' '.join(g) for g in {tuple(pt[i:i+n]) for i in range(len(pt)-n+1)}&dg]
 MSCUE=re.compile(r"\b(feel|felt|think|thought|want|worr|afraid|scared|hope|intend|mean|suggest|show|reveal|why|mind|believe|sure|realis|realiz|expect|wish|proud|upset|angry|happy|sad|nervous|anxious|embarrass|asham|guilt|relie|seem|emotion|mood|made)",re.I)
+
+# --- review-driven WARN checks (P1-P5); advisory only, they never fail a batch ---
+FEEL=re.compile(r"\b(\w*(?:afraid|troubl|anger|burn|resign|defeated|small|hurt|scared|fright|fear|terrif|nervous|anxi|worr|uneas|tense|panick|dread|shaken|sad|unhapp|down|low|lonel|alone|hurt|griev|heartbr|miser|glum|gloom|upset|disappoint|let down|deflat|crush|angr|mad|furious|annoy|irritat|frustrat|resent|bitter|indign|outrag|cross|jealous|envi|envy|embarrass|asham|shame|humiliat|guilt|sorry|regret|remorse|self-conscious|awkward|shy|exposed|small|happy|glad|joy|delight|pleas|thrill|excit|elat|chuffed|cheer|content|proud|pride|relie|calm|peace|settled|safe|secure|comfort|grateful|thank|touched|warm|lov|fond|tender|affection|car(?:ed|ing)|hope|hopeful|eager|curious|intrigu|interest|amus|surpris|shock|stun|startl|confus|puzzl|unsure|uncertain|torn|conflict|ambival|doubt|hesit|overwhelm|stress|pressur|tired|exhaust|drained|numb|empty|hopeless|helpless|trapped|stuck|defeat|discourag|confident|brave|bold|determin|resolv|motivat|inspir|reassur|validat|understood|seen|respect|valued|accepted|included|left out|excluded|rejected|betray|abandon|neglect|ignored|dismiss|belittl|insult|offend|wound|protective|defensive|suspici|wary|cautious|guarded|distrust|trust|shaky|flustered|rattled|restless|impatient|bored|lost|homesick|nostalg|wistful|bittersweet|mixed|sheepish|moved|awe|smug|superior|vindicat|triumph|satisf|fulfil|at ease|free|lighter|heavy|sting|pang|ache|dismay|horror|disgust|revuls|appall|reluct|resign|defiant|rebell|hostile|contempt|scorn|pity|sympath|empath|compassion|concern|alarm|agitat|uncomfort|discomfort|insecure|vulnerab|inadequa|useless|worthless|stupid|foolish|silly|dumb|unwanted|unloved|misunderstood|invisible|trapped|torn|mortif|flatter|admir|appreciat|encourag|energ|alive|giddy|bubbly|nervy|jittery|edgy|on edge|heartened|comforted|soothed|safe)\w*)\b",re.I)
+DIAG=re.compile(r"\b(autis\w*|adhd|ocd|bipolar|depress(?:ed|ion)|dyslex\w*|dyspraxi\w*|ptsd|schizo\w*|anorexi\w*|bulimi\w*|eating disorder|narcissis\w*|psychopath\w*|sociopath\w*|anxiety disorder|panic disorder|borderline)\b",re.I)
+AGEW={'one':1,'two':2,'three':3,'four':4,'five':5,'six':6,'seven':7,'eight':8,'nine':9,'ten':10,'eleven':11,'twelve':12,'thirteen':13,'fourteen':14,'fifteen':15,'sixteen':16,'seventeen':17,'eighteen':18,'nineteen':19,'twenty':20,'twenty-one':21,'twenty-two':22,'twenty-three':23,'twenty-four':24,'twenty-five':25,'twenty-six':26}
+AGE_RE=re.compile(r"\b(\d{1,2}|"+'|'.join(sorted(AGEW,key=len,reverse=True))+r")[- ]years?[- ]old\b|\baged (\d{1,2})\b",re.I)
+CAPN=re.compile(r"\b[A-Z][a-z]+(?:-[a-z]+)?\b")
+def ms_feel_warn(key, q):
+    if isinstance(q,dict) and q.get('a') and not FEEL.search(str(q['a'])+' '+str(q.get('q',''))): print(f'WARN {key}: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)')
+SUBJ=re.compile(r"^(?:How|What|Why|When|Which)\s+(?:might|would|could|did|does|do|was|is|were|will|may)\s+([A-Z][a-z]+(?:-[a-z]+)?)\b(?!['’]s)")
+def same_person_warn(key, qm, qp, names):
+    a=SUBJ.match(str(qm.get('q','')).strip()); b=SUBJ.match(str(qp.get('q','')).strip())
+    if a and b and a.group(1)==b.group(1) and a.group(1) in names: print(f'WARN {key}: mental_state and perspective questions both centre {a.group(1)}; centre different people')
+def diag_warn(key, r):
+    p=str(r.get('passage','')); txt=' '.join(str(q.get('a','')) for q in (r.get('qa') or []) if isinstance(q,dict))+' '+str(r.get('grounding',''))
+    for m in DIAG.finditer(txt):
+        if not re.search(r'\b'+re.escape(m.group(0)[:5]),p,re.I): print(f'WARN {key}: diagnostic label "{m.group(0)}" in answers/grounding but not in the passage')
+def age_warn(key, r, age):
+    if str(r.get('recipe','')).split('+')[0] in ('R14','R4','R12') or age not in ('4–6','7–12','13–17'): return
+    lo,hi=[int(x) for x in age.split('–')]; got=[]
+    for m in AGE_RE.finditer(str(r.get('passage',''))):
+        v=m.group(1) or m.group(2); got.append(int(v) if v.isdigit() else AGEW[v.lower()])
+    if len(got)==1 and not lo-1<=got[0]<=hi+1: print(f'WARN {key}: passage states age {got[0]} but the row is {age}')
+def signoff_warn(key, r):
+    if str(r.get('recipe','')).split('+')[0] not in ('R11','R14'): return
+    tail=str(r.get('passage','')).strip().splitlines()[-1] if str(r.get('passage','')).strip() else ''
+    if re.match(r"^\s*(?:[-–—]\s*)?(?:(?:your|yours|love|with love|regards|warmly)[^\n]{0,30},?\s*)?[A-Z][a-z]+(?: [A-Z][a-z]+)?\.?\s*$",tail) or re.search(r"\b(Yours|Your (?:friend|colleague|sister|brother|didi|bhaiya)|With love|Regards),?\s*$",tail): print(f'WARN {key}: spoken recipe {r.get("recipe")} ends with a letter-style sign-off; name the speaker inside the speech')
+def narrator_pron_hits(x):
+    """P5: pronoun sentences in answers/grounding of a first-person passage, minus those whose names the passage genders"""
+    P=str(x.get('passage','')); toks=re.findall(r"[A-Za-z'-]+",P)
+    cued=set()
+    for i,t in enumerate(toks):
+        if t[:1].isupper():
+            win=' '.join(toks[max(0,i-4):i+5])
+            if GCUE.search(re.sub(r'\b(he|she|him|his|her|hers|himself|herself)\b','',win,flags=re.I)): cued.add(t)
+    txt=' '.join(str(q.get('a',''))+' '+str(q.get('q','')) for q in (x.get('qa') or []) if isinstance(q,dict))+' '+str(x.get('grounding',''))
+    hits=[]
+    for sent in re.split(r'(?<=[.?!;])\s+',txt):
+        if not GPRON.search(sent): continue
+        if GCUE.search(re.sub(r'\b(he|she|him|his|her|hers|himself|herself)\b','',sent,flags=re.I)): continue
+        ns=[n for n in CAPN.findall(sent) if n in NAMESET]
+        if ns and all(n in cued for n in ns): continue
+        hits.append(sent.strip())
+    return hits
 EMOQUOTA=0.6
 GPRON=re.compile(r"\b(he|she|him|his|her|hers|himself|herself)\b",re.I)
 GCUE=re.compile(r"\b(he|she|him|his|her|hers|himself|herself|boy|girl|man|woman|men|women|son|daughter|brother|sister|mother|father|mom|mum|dad|papa|mama|amma|appa|ammi|abbu|nani|nana|dadi|dada|aunt|aunty|auntie|uncle|didi|bhaiya|bhai|anna|akka|grandma|grandpa|grandmother|grandfather|wife|husband|girlfriend|boyfriend|sir|madam|ma'am|mr|mrs|ms|miss|lady|gentleman|beta|beti|nephew|niece|bhabhi|chacha|chachi|mami|masi|mausi|bua|khala|apa|api|maasi|mumma|mamma|mummy|mommy|ma|maa|mai|baba|bapu|pitaji|mataji|dadaji|nanaji|dadiji|naniji|chachaji|mamaji|bhaiyya|bhaiji|didu|behna|mausa|atya|atte|phuppo|phupho|phupi|chachu|mamu|mama-ji|jiju|behen|bahen|bhabi|nanu|nanima|thakuma|thakurda|dida|dadima|ajji|ajja|ajoba|aaji|periamma|chithi|chitappa|periappa|athai|mami-ji|veerji|paaji|bibi|begum|miyan|amma-ji|papa-ji|dadu|paati|thatha|ammamma|grandson|granddaughter|bride|groom|actress|waiter|waitress|queen|king|prince|princess)\b",re.I)
@@ -101,6 +145,7 @@ if bj.get('kind')=='cluster':
             a_=cw(qa[k]['a']); vocab=pw|lab if k==1 else pw
             if a_ and len(a_&vocab)/len(a_)<0.4: f.append(f'{CT[k]} answer not supported by passage')
         if not r.get('grounding','').strip(): f.append('missing grounding')
+        ms_feel_warn(cid, qa[2]); same_person_warn(cid, qa[2], qa[1], NAMESET); diag_warn(cid, r)
     for cid in cl:
         if seen[cid]!=1: cf[cid].append(f'expected 1 record, got {seen[cid]}')
     _recs=[json.loads(x) for x in open(OUT,encoding='utf-8').read().splitlines() if x.strip().startswith('{')]
@@ -169,13 +214,16 @@ for s in rows:
 allrecs=[x for v in got.values() for x in v]
 batch_checks(allrecs, fails)
 for x in allrecs:
-    qa_=x.get('qa')
-    if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {x.get("sno")} v{x.get("variant")}: mental_state question may be plain recall: {qa_[1].get("q")}')
+    qa_=x.get('qa'); key_=f'{x.get("sno")} v{x.get("variant")}'
+    if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {key_}: mental_state question may be plain recall: {qa_[1].get("q")}')
+    if isinstance(qa_,list) and len(qa_)==4 and all(isinstance(q,dict) for q in qa_):
+        ms_feel_warn(key_, qa_[1]); same_person_warn(key_, qa_[1], qa_[3], NAMESET)
+    diag_warn(key_, x); age_warn(key_, x, rows.get(x.get('sno'),{}).get('age')); signoff_warn(key_, x)
 for x in allrecs:
     ps=re.sub(r'"[^"]*"|“[^”]*”','',str(x.get('passage','')))  # narration only, not quoted speech
     if len(re.findall(r"\bI\b|\bI'm\b|\bmy\b",ps))>=4 and not GPRON.search(ps):
-        txt=' '.join(str(q.get('a',''))+' '+str(q.get('q','')) for q in (x.get('qa') or []) if isinstance(q,dict))+' '+str(x.get('grounding',''))
-        if GPRON.search(txt): print(f'WARN {x.get("sno")} v{x.get("variant")}: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it')
+        h=narrator_pron_hits(x)
+        if h: print(f'WARN {x.get("sno")} v{x.get("variant")}: first-person passage and he/she in questions/answers/grounding with no gender cue for that person; check the narrator is not gendered unless the passage states it: "{h[0][:90]}"')
 last_emo=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])==4 and ecount(str(x['qa'][3].get('a','')))>0)
 if allrecs and last_emo>max(2,len(allrecs)//4): fails['batch'].append(f'{last_emo}/{len(allrecs)} records put an emoji on the last answer (max 25%); place emojis where the feeling is, not by habit at the end')
 emo_recs=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and any(isinstance(q,dict) and ecount(str(q.get('a','')))>0 for q in x['qa']))

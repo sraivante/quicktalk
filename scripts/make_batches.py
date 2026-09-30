@@ -25,14 +25,21 @@ cfg = json.load(open(J('config', 'variants.json'), encoding='utf-8'))
 rec = json.load(open(J('config', 'recipes.json'), encoding='utf-8'))
 AGES = rec['age_order']; RECIPES = rec['recipes']; TWISTS = rec['twists']
 NAMES = json.load(open(J('config', 'names.json'), encoding='utf-8'))
-def cast_for(key, recipe, n=2, used=None):
-    """Deterministic names; `used` (a dict name->count for the current batch) keeps any name to at most 2 uses per batch."""
+GENDER = NAMES.get('gender', {})
+def row_gender(desc):
+    """'m' or 'f' when the row description fixes the protagonist's gender with a pronoun or boy/girl, else None"""
+    m = bool(re.search(r"\b(he|him|his|himself|boy|boys)\b", desc, re.I)); f = bool(re.search(r"\b(she|her|hers|herself|girl|girls)\b", desc, re.I))
+    return 'm' if m and not f else 'f' if f and not m else None
+def cast_for(key, recipe, n=2, used=None, gender=None):
+    """Deterministic names; `used` (a dict name->count for the current batch) keeps any name to at most 2 uses per batch.
+    `gender` ('m'/'f') makes the first slot a name of that usual gender (or unisex), so rows that fix a gender get a fitting name."""
     pool = NAMES['global'] if recipe.split('+')[0] == 'R8' else NAMES['india']
     out, i = [], 0
     while len(out) < n:
         # hash each slot separately: a fixed step gave every first name the same partner across rows
         nm = pool[int(hashlib.sha1(f'{key}:{i}'.encode()).hexdigest(), 16) % len(pool)]; i += 1
         if nm in out or (used is not None and used.get(nm, 0) >= 2 and i < 10 * len(pool)): continue
+        if gender and not out and GENDER.get(nm, 'u') not in (gender, 'u') and i < 10 * len(pool): continue
         out.append(nm)
     if used is not None:
         for nm in out: used[nm] = used.get(nm, 0) + 1
@@ -62,8 +69,10 @@ p = os.path.join(a.kg, 'clusters.jsonl')
 if os.path.exists(p): clusters = [json.loads(l) for l in open(p, encoding='utf-8')]
 else: print('note: kg/clusters.jsonl missing; graph stage skipped')
 
-def recipe_for(sno, age, v):
+def recipe_for(sno, age, v, subtype=''):
     elig = [c for c, d in RECIPES.items() if AGES.index(d['min_age']) <= AGES.index(age)]
+    # an observer's account hides the protagonist's own state, which [Actor]/[Receiver] rows need
+    if re.search(r'\[(Actor|Receiver)\]', subtype): elig = [c for c in elig if c != 'R12'] or elig
     h = int(hashlib.sha1(str(sno).encode()).hexdigest(), 16) % len(elig)
     code = elig[(h + v - 1) % len(elig)]
     t = (v - 1) // len(elig)
@@ -122,7 +131,7 @@ for si, (k, _) in enumerate(STAGES, 1):
         for bi in range(0, len(cs), cfg['clusters_per_batch']):
             chunk = cs[bi:bi + cfg['clusters_per_batch']]; n = bi // cfg['clusters_per_batch'] + 1
             _seen = {}
-            chunk = [dict(c, cast=cast_for(c['cluster_id'], 'R1', 3, used=_seen)) for c in chunk]
+            chunk = [dict(c, cast=cast_for(c['cluster_id'], 'R1', 3, used=_seen, gender=row_gender(c['rows'][0]['description']))) for c in chunk]
             name = f'g_b{n:04d}'
             json.dump({'kind': 'cluster', 'stage': 'graph', 'variant_ids': [1], 'clusters': chunk}, open(os.path.join(d, name + '.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             pr = batch_t.replace('{{STAGE}}', 'graph (clusters of related framework rows)').replace('{{VARIANT_IDS}}', 'n/a (one record per cluster)').replace('{{V}}', '1').replace('{{N}}', str(len(chunk))).replace('{{TOTAL}}', str(len(chunk))).replace('{{RECIPES}}', 'not used in cluster mode').replace('{{ADDENDUM}}', add).replace('{{ROWS_JSON}}', '\n'.join(json.dumps(x, ensure_ascii=False) for x in chunk))
@@ -137,8 +146,8 @@ for si, (k, _) in enumerate(STAGES, 1):
             chunk = rs[bi:bi + RPB]; n = bi // RPB + 1; name = f'{tag}_b{n:04d}'
             recs, used, seen_names = [], [], {}
             for r in chunk:
-                sno = int(r['S.No']); plan = {str(v): recipe_for(sno, r['Age'], v) for v in ids}; used += plan.values()
-                cast = {v: cast_for(f'{sno}-{v}', c, used=seen_names) for v, c in plan.items()}
+                sno = int(r['S.No']); plan = {str(v): recipe_for(sno, r['Age'], v, r['Subtype']) for v in ids}; used += plan.values()
+                g = row_gender(r['Human Learning & Development']); cast = {v: cast_for(f'{sno}-{v}', c, used=seen_names, gender=g) for v, c in plan.items()}
                 o = {'sno': sno, 'plan': plan, 'cast': cast, 'age': r['Age'], 'topic': r['Topic'], 'subtopic': r['Subtopic'], 'subtype': r['Subtype'], 'description': r['Human Learning & Development']}
                 if ctx.get(sno): o['graph_context'] = ctx[sno]
                 recs.append(o)
