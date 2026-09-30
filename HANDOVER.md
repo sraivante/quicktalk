@@ -417,3 +417,4 @@ python3 scripts/export_dataset.py
 - Full groups 138-139 done (12 PASS). Launched 162-163. **Next full pair: 164-165.** full: batches 905/1418 (63.8%) | records 20426/30520 (66.9%) | rows 4266/7689 (55.5%)
 - Full groups 150-151 done (12 PASS). Launched 164-165. **Next full pair: 166-167.** full: batches 913/1418 (64.4%) | records 20546/30520 (67.3%) | rows 4306/7689 (56.0%)
 - Full groups 152-153 done (12 PASS; 5664 male observer renamed Dorjee, 5708 sisters Rukhsar/Rehana). Launched 166-167. **Next full pair: 168-169.** full: batches 935/1418 (65.9%) | records 20946/30520 (68.6%) | rows 4406/7689 (57.3%)
+- Full groups 160-161 done (12 PASS; several passages near the upper length margin: 4355, 4395, 4413, 4448, 4369 — critic may tighten). Launched 168-169. **Next full pair: 170-171.** full: batches 949/1418 (66.9%) | records 21186/30520 (69.4%) | rows 4486/7689 (58.3%)
