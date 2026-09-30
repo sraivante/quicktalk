@@ -303,3 +303,4 @@ python3 scripts/export_dataset.py
 - 10:33 Repair10 groups 0,4,5,6 done (0-7 done). Running 8-15. **Next repair10 group: 16.** Leftovers noted by agents for a later sweep: 2102 v1 sign-off with emoji; 2170 v2 / 2162 v2 / 76 v1 pronouns; 2063 v2 unstated 'father'.
 - 10:34 Repair10 group 8 done. Running 9-16. **Next repair10 group: 17.**
 - 10:35 Repair10 group 9 done. Running 10-17. **Next repair10 group: 18.**
+- 10:35 Repair10 groups 10, 15 done. Running 11-14,16-19. **Next repair10 group: 20.**
