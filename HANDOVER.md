@@ -304,3 +304,4 @@ python3 scripts/export_dataset.py
 - 10:34 Repair10 group 8 done. Running 9-16. **Next repair10 group: 17.**
 - 10:35 Repair10 group 9 done. Running 10-17. **Next repair10 group: 18.**
 - 10:35 Repair10 groups 10, 15 done. Running 11-14,16-19. **Next repair10 group: 20.**
+- 10:35 Repair10 groups 11, 13 done. Running 12,14,16-21. **Next repair10 group: 22.**
