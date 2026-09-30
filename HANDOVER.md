@@ -335,3 +335,4 @@ python3 scripts/export_dataset.py
 - 10:49 **Repair10 COMPLETE** (49/49; all 1,050 batches pass). Rescan: 188 no-feeling (partly newly visible after the check was tightened), 2 same-person, 3 age WARNs left (196 narrator WARNs are hand-checked false alarms). **Repair11** final sweep: batches/queue_repair11.json, 10 groups / 159 batches / 193 notes, .staging/critic/REPAIR11.md, scratch .staging/r11_<N>/.
 - 10:51 Repair11 group 2 done. Running 0,1,3-8. Next: 9 (last).
 - 10:51 Repair11 groups 0,1,2,3,5,7 done. Running 4,6,8,9. Leftover: 3700 v5 R11 ends 'Ankita, analyst.'
+- 10:51 Repair11 group 4 done. Running 6,8,9.
