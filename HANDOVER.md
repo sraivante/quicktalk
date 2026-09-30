@@ -420,3 +420,4 @@ python3 scripts/export_dataset.py
 - Full groups 160-161 done (12 PASS; several passages near the upper length margin: 4355, 4395, 4413, 4448, 4369 — critic may tighten). Launched 168-169. **Next full pair: 170-171.** full: batches 949/1418 (66.9%) | records 21186/30520 (69.4%) | rows 4486/7689 (58.3%)
 - Full groups 162-163 done (12 PASS, 0 WARN). Critic must sample self-harm/suicide-risk rows 4542,4543,4562,4570-4574,4578 and label rows 4586 ('anxiety'), 4587 ('OCD'). Launched 170-171. **Next full pair: 172-173.** full: batches 955/1418 (67.3%) | records 21326/30520 (69.9%) | rows 4526/7689 (58.9%)
 - Full groups 146-147 done (12 PASS). Launched 172-173. **Next full pair: 174-175.** full: batches 956/1418 (67.4%) | records 21356/30520 (70.0%) | rows 4526/7689 (58.9%)
+- Full groups 154-155 done (8 PASS, 0 WARN). Launched 174-175. **Next full pair: 176-177.** full: batches 970/1418 (68.4%) | records 21656/30520 (71.0%) | rows 4566/7689 (59.4%)
