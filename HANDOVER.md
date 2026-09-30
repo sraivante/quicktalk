@@ -348,3 +348,4 @@ python3 scripts/export_dataset.py
 - 12:12 Full groups 6-7 done (12 PASS). CRITIC CHECK: 83 v9 and 88 v11 (01_core v09-11) were softened to avoid safety triggers - check fidelity to row. Added no-dodging rule to FULL_GEN.md. Launched 24-25. **Next full pair: 26-27.** full: batches 88/1418 (6.2%) | records 2591/30520 (8.5%) | rows 317/7689 (4.1%)
 - 12:15 Full groups 2-3 done (12 PASS). Launched 26-27. **Next full pair: 28-29.** full: batches 95/1418 (6.7%) | records 2721/30520 (8.9%) | rows 317/7689 (4.1%)
 - 12:20 Full groups 14-15 done (12 PASS). Launched 28-29. **Next full pair: 30-31.** full: batches 111/1418 (7.8%) | records 3003/30520 (9.8%) | rows 357/7689 (4.6%)
+- 12:29 Full groups 20-21 done (8 PASS, core complete v15). Launched 30-31. **Next full pair: 32-33.** full: batches 136/1418 (9.6%) | records 3450/30520 (11.3%) | rows 437/7689 (5.7%)
