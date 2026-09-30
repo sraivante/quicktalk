@@ -338,3 +338,4 @@ python3 scripts/export_dataset.py
 - 10:51 Repair11 group 4 done. Running 6,8,9.
 - 10:51 Repair11 group 6 done. Running 8, 9.
 - 10:52 Repair11 group 8 done. Running 9. (Mixed-stage groups risk basename collisions in flat scratch dirs; full re-validation after group 9 will catch any mix-up.)
+- 10:54 **Repair11 COMPLETE.** Final re-validation: 1,050/1,050 pass with .ok; remaining WARNs (196 narrator, 5 feeling, 3 age, 2 same-person) are hand-checked false alarms. Export: 16,199 records, 64,796 QA, 0 dup. Next: commit_rows on the branch.
