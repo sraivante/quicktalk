@@ -1,0 +1,208 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 311,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Madhav",
+     "Nilesh"
+    ],
+    "10": [
+     "Sangeeta",
+     "Jeevan"
+    ],
+    "11": [
+     "Ujjwal",
+     "Sudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Environment",
+   "subtopic": "Sustainable Living",
+   "subtype": "Consumption, Energy & Carbon Choices",
+   "description": "Aligning daily consumption and career choices with environmental impact."
+  },
+  {
+   "sno": 312,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Disha",
+     "Nazia"
+    ],
+    "10": [
+     "Tanvir",
+     "Alka"
+    ],
+    "11": [
+     "Trisha",
+     "Pema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cultural",
+   "subtopic": "Heritage Transmission",
+   "subtype": "Passing On Language, Values & Rituals",
+   "description": "Deciding what heritage to preserve and teach to the next generation."
+  },
+  {
+   "sno": 313,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Anand",
+     "Vijay"
+    ],
+    "10": [
+     "Vasudha",
+     "Baljeet"
+    ],
+    "11": [
+     "Shalini",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Spiritual / Meaning",
+   "subtopic": "Legacy & Mortality",
+   "subtype": "Reflecting on Death, Legacy & Purpose",
+   "description": "Facing mortality calmly and shaping work and relationships around what will outlast oneself.",
+   "graph_context": [
+    "related mind states: calm, dread"
+   ]
+  },
+  {
+   "sno": 314,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Sofia",
+     "Sami"
+    ],
+    "10": [
+     "Aparna",
+     "Zainab"
+    ],
+    "11": [
+     "Deepika",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Spiritual / Meaning",
+   "subtopic": "Contemplative Practice",
+   "subtype": "Sustained Practice, Silence & Wisdom Traditions",
+   "description": "Building a lasting reflective practice through meditation, prayer or philosophy."
+  },
+  {
+   "sno": 315,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Gurleen",
+     "Sonali"
+    ],
+    "10": [
+     "Nandini",
+     "Pallavi"
+    ],
+    "11": [
+     "Nitin",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Physical",
+   "subtopic": "Preventive Health",
+   "subtype": "Screening, Checkups & Chronic Risk Awareness",
+   "description": "Tracking health markers, family risk and preventive care before problems arise."
+  },
+  {
+   "sno": 316,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Anirban",
+     "Gopika"
+    ],
+    "10": [
+     "Tanvir",
+     "Kamal"
+    ],
+    "11": [
+     "Lalremsiami",
+     "Madhuri"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cultural",
+   "subtopic": "Global Mobility",
+   "subtype": "Migration, Relocation & Cultural Adaptation",
+   "description": "Adapting to a new country or city while preserving identity and building belonging.",
+   "graph_context": [
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 317,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Alka",
+     "Tarun"
+    ],
+    "10": [
+     "Abhinav",
+     "Ganga"
+    ],
+    "11": [
+     "Vijay",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Individual Variation",
+   "subtopic": "Neurodiversity",
+   "subtype": "Lifelong Self-Management of Neurodivergence",
+   "description": "Building workplace and life systems that fit one's own attention, sensory and energy patterns.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  }
+ ]
+}

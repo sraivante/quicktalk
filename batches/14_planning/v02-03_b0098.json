@@ -1,0 +1,260 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6731,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Ojas",
+     "Sangeeta"
+    ],
+    "3": [
+     "Dalia",
+     "Noa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: working backward from the target employer [Thinking]",
+   "description": "A student looks at what recruiters at target firms want to see, and picks two projects that show data handling and deployment instead of ten small tutorial clones.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6732,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Zainab"
+    ],
+    "3": [
+     "Hansa",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: storyboarding the portfolio site on paper [Action]",
+   "description": "Before coding, the student sketches the home page, project pages and contact section on paper, and decides that each project needs a problem, a role, a result and a link.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6733,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Payal"
+    ],
+    "3": [
+     "Bhavna",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: perfectionism delaying launch [Pitfall]",
+   "description": "The student keeps redesigning the fonts and animations of the portfolio for two months and never publishes it, so no recruiter sees anything at all.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6734,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Rukmini",
+     "Nirmala"
+    ],
+    "3": [
+     "Disha",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: minimum viable portfolio then iterate [Action]",
+   "description": "The student publishes a simple one-page site with two projects in a weekend, shares the link with mentors, and improves it each month after feedback.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, working backward"
+   ]
+  },
+  {
+   "sno": 6735,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Gautam"
+    ],
+    "3": [
+     "Zanele",
+     "Nadia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: padding with copied tutorial projects [Pitfall]",
+   "description": "The student lists a to-do app, a weather app and a calculator taken straight from tutorials, and in the interview cannot explain design choices, which damages trust.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version, working backward",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6736,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Afreen",
+     "Lakshmi"
+    ],
+    "3": [
+     "Nitin",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: solving a real local problem [Thinking]",
+   "description": "Rather than a clone, the student builds a small inventory sheet for a family shop nearby, which gives a real user, real constraints and a story to tell.",
+   "graph_context": [
+    "same problem, other approaches: batching, externalising on paper, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6737,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Bhupen",
+     "Uma"
+    ],
+    "3": [
+     "Elizabeth",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: asking peers and seniors to critique it [Revision]",
+   "description": "A senior points out that project descriptions list tools but not outcomes, so the student rewrites each with the problem, what was built and what improved.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6738,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Leela"
+    ],
+    "3": [
+     "Yusuf",
+     "Madhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: batching writing and screenshots [Action]",
+   "description": "The student sets aside one Sunday to write all project summaries and capture screenshots at once, which is faster than doing each in bits between assignments.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, externalising on paper, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6739,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Asif"
+    ],
+    "3": [
+     "Francis",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: comparing with others and feeling behind [Pitfall]",
+   "description": "Scrolling through polished portfolios from students at top institutes, a student concludes that theirs is not worth showing and delays sharing, though the work is decent.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version, working backward"
+   ]
+  },
+  {
+   "sno": 6740,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Jyoti"
+    ],
+    "3": [
+     "Gargi",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a portfolio",
+   "subtype": "Approach: tracking which pieces get attention [Revision]",
+   "description": "The student notices recruiters open only the deployed project with a live link, and moves that to the top and deploys another one as well.",
+   "graph_context": [
+    "same problem, other approaches: batching, constraint-based thinking, externalising on paper, minimum viable version, working backward"
+   ]
+  }
+ ]
+}

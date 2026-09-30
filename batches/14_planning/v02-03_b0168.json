@@ -1,0 +1,248 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7431,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Chetan"
+    ],
+    "3": [
+     "Sarita",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: sharing own failures honestly [Action]",
+   "description": "The mentor describes a past bad project and what was learned, which helps the mentee feel safe admitting mistakes, though the mentor also avoids making the story about themselves.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7432,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Madhuri"
+    ],
+    "3": [
+     "Kofi",
+     "Yosef"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: mentoring beyond own competence [Pitfall]",
+   "description": "The mentor gives confident advice on higher studies abroad without knowing the process. The mentee follows it and misses deadlines, showing why it is fine for a mentor to admit not knowing."
+  },
+  {
+   "sno": 7433,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Suraj",
+     "Noor"
+    ],
+    "3": [
+     "Divyansh",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: connecting the mentee to other people [Action]",
+   "description": "When a question falls outside the mentor's area, the mentor introduces the mentee to a friend who works in that field, widening the mentee's network and support."
+  },
+  {
+   "sno": 7434,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Vishal",
+     "Ankita"
+    ],
+    "3": [
+     "Chetan",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: adapting to the mentee's style and background [Revision]",
+   "description": "The mentor notices a first-generation graduate is shy about asking questions, so switches to written notes before meetings and allows quiet time, adapting to the person rather than the plan.",
+   "graph_context": [
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 7435,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Jeevan"
+    ],
+    "3": [
+     "Nandini",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: guarding own time and limits [Thinking]",
+   "description": "Knowing that overcommitting leads to missed sessions, the mentor takes only two mentees at a time and states availability clearly, keeping the commitment reliable."
+  },
+  {
+   "sno": 7436,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Pallavi",
+     "Ayesha"
+    ],
+    "3": [
+     "Chinmay",
+     "Charu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: reviewing progress and ending gracefully [Revision]",
+   "description": "After six months, the mentor and mentee review goals achieved, decide what remains, and agree to shift to occasional check-ins, treating the end of regular sessions as success and not as abandonment."
+  },
+  {
+   "sno": 7437,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Keerthana",
+     "Omkar"
+    ],
+    "3": [
+     "Urmila",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: values-first exploration of purpose [Thinking]",
+   "description": "The person asks which problems keep drawing attention, such as rural education or clean water, and which of them fit their skills, before choosing a project to work on.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version"
+   ]
+  },
+  {
+   "sno": 7438,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Sachin"
+    ],
+    "3": [
+     "Ramesh",
+     "Omkar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: starting with a small pilot [Action]",
+   "description": "A software worker begins by teaching free weekend coding classes to twenty students in a nearby village school, learning what works before planning anything larger.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, values-first planning"
+   ]
+  },
+  {
+   "sno": 7439,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Rehana"
+    ],
+    "3": [
+     "Kavitha",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: grand vision with no first step [Pitfall]",
+   "description": "The person dreams of transforming education across the state, spends months on presentations and logos, and never starts. The size of the dream makes any first action seem too small.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 7440,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Madhuri"
+    ],
+    "3": [
+     "Sofia",
+     "Lindiwe"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: listening to the community before designing [Action]",
+   "description": "Before starting a library, the person talks with parents and teachers in the village and learns that reliable evening lighting and study space matter more than new books.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning"
+   ]
+  }
+ ]
+}

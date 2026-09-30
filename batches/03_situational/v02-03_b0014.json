@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 448,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kamal",
+     "Dhruv"
+    ],
+    "3": [
+     "Sabina",
+     "Thomas"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Bedtime",
+   "subtype": "Darkness × Fear [Actor]",
+   "description": "Shadows and sounds feel big to a mind that cannot yet tell real from imagined. Respond with a night light, calm voice and closeness; never mock, and never use ghosts or bogeymen as threat.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, neglect",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 449,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Zeenat"
+    ],
+    "3": [
+     "Kalyani",
+     "Disha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Bedtime",
+   "subtype": "Parent × Neglect [Receiver]",
+   "description": "Being shut in alone and ignored while crying overwhelms a very young child; she may stop crying not from calm but from giving up. Respond warmly, staying present as sleep habits build.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, fear",
+    "related mind states: sadness, calm, overwhelm, resentment"
+   ]
+  },
+  {
+   "sno": 450,
+   "plan": {
+    "2": "R8",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Olga",
+     "Aiko"
+    ],
+    "3": [
+     "Vikas",
+     "Tejas"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Toilet training",
+   "subtype": "Parent × Pride [Receiver]",
+   "description": "Warm cheer after a success makes the child beam and want to try again. Keep praise simple and unpressured; accidents are ignored kindly because bodies mature on their own timetable.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, shame",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 451,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kiran",
+     "Pankaj"
+    ],
+    "3": [
+     "Ankita",
+     "Neelam"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Toilet training",
+   "subtype": "Parent × Shame [Receiver]",
+   "description": "Scolding or laughing at accidents teaches the child that her body is disgusting and that mistakes must be hidden. Wise caregivers calmly clean up, say it is okay, and try again another day.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, pride",
+    "related mind states: amusement, disgust, shame, calm"
+   ]
+  },
+  {
+   "sno": 452,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Joseph"
+    ],
+    "3": [
+     "Elif",
+     "Astrid"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Toilet training",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "The toddler refuses the potty or holds on, claiming control over her own body. Pressure sharpens resistance. Offer choices, keep it low-key, and pause if the child is clearly not ready.",
+   "graph_context": [
+    "same situation, other stances at this age: pride, shame"
+   ]
+  },
+  {
+   "sno": 453,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nirmala",
+     "Ramesh"
+    ],
+    "3": [
+     "Aparna",
+     "Salma"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Screen time",
+   "subtype": "Screen × Obsession [Actor]",
+   "description": "A toddler stares at the phone, goes still and screams when it is taken. The fast lights hijack attention. Limit and share it with a caregiver, and offer play, hands-on activity and outdoor time.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, indifference"
+   ]
+  },
+  {
+   "sno": 454,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Gopika",
+     "Kavitha"
+    ],
+    "3": [
+     "Usha",
+     "Trisha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Screen time",
+   "subtype": "Parent × Anger [Actor]",
+   "description": "When the screen is turned off the child throws herself on the floor. It is sadness and frustration, not manners. Stay calm, hold the limit, offer a hug and a new activity.",
+   "graph_context": [
+    "same situation, other stances at this age: indifference, obsession",
+    "related mind states: affection, sadness, anger, calm"
+   ]
+  },
+  {
+   "sno": 455,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Nilesh"
+    ],
+    "3": [
+     "Dilnaz",
+     "Deepika"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Screen time",
+   "subtype": "Parent × Indifference [Receiver]",
+   "description": "When the parent hands over the phone to keep the child quiet, the child gets stimulation but not a person. Caregivers should treat it as a tool, not a babysitter, and talk and play daily.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, obsession"
+   ]
+  },
+  {
+   "sno": 456,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Vishal",
+     "Sumit"
+    ],
+    "3": [
+     "Jin",
+     "Fatima"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Animals",
+   "subtype": "Dog × Fear [Actor]",
+   "description": "A barking dog or a leaping cat can terrify a toddler, who freezes or runs to the parent. Comfort, keep a safe distance, and let curiosity return slowly without forcing touch.",
+   "graph_context": [
+    "same situation, other stances at this age: affection",
+    "related mind states: fear, curiosity, trust"
+   ]
+  },
+  {
+   "sno": 457,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Noor"
+    ],
+    "3": [
+     "Ramesh",
+     "Pranav"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Animals",
+   "subtype": "Cow or pet × Affection [Actor]",
+   "description": "The toddler laughs, points and says the animal's sound, wanting to touch and feed it. Caregivers should model gentle hands and stay close, since toddlers cannot judge when an animal is unsafe.",
+   "graph_context": [
+    "same situation, other stances at this age: fear",
+    "related mind states: amusement, affection, trust"
+   ]
+  }
+ ]
+}

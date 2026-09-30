@@ -1,0 +1,41 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 281, "plan": {"9": "R4", "10": "R5", "11": "R6"}, "cast": {"9": ["Chandrika", "Vidya"], "10": ["Karthik", "Dilnaz"], "11": ["Gargi", "Simran"]}, "age": "18–22", "topic": "Coping", "subtopic": "Adversity", "subtype": "Academic Setback, Financial Stress & Family Illness", "description": "Sustaining functioning and seeking help under simultaneous life pressures.", "graph_context": ["this subtopic also appears at ages: 13–17"]}
+{"sno": 282, "plan": {"9": "R12", "10": "R13", "11": "R14"}, "cast": {"9": ["Tanuja", "Himani"], "10": ["Vishal", "Jahnavi"], "11": ["Lokesh", "Vandana"]}, "age": "18–22", "topic": "Individual Variation", "subtopic": "Self-Advocacy", "subtype": "Seeking Accommodations & Support", "description": "Stating own needs, such as ADHD, disability or anxiety, to institutions and employers and asking for reasonable adjustments.", "graph_context": ["related mind states: anxiety"]}
+{"sno": 283, "plan": {"9": "R4", "10": "R5", "11": "R6"}, "cast": {"9": ["Uday", "Tushar"], "10": ["Elizabeth", "Indu"], "11": ["Sahil", "Tanuja"]}, "age": "18–22", "topic": "Advanced Communication", "subtopic": "Assertiveness", "subtype": "Disagreeing With Authority Respectfully", "description": "Voicing dissent to professors, bosses or elders without hostility or silence.", "graph_context": ["related mind states: admiration, hostility"]}
+{"sno": 284, "plan": {"9": "R11", "10": "R12", "11": "R13"}, "cast": {"9": ["Wasim", "Disha"], "10": ["Chaitanya", "Ritu"], "11": ["Abhinav", "Kavitha"]}, "age": "18–22", "topic": "Behavior", "subtopic": "Habit Formation", "subtype": "Building & Breaking Habits", "description": "Designing cues, routines and rewards to install good habits and remove harmful ones."}
+{"sno": 285, "plan": {"9": "R3", "10": "R4", "11": "R5"}, "cast": {"9": ["Kalyani", "Sarita"], "10": ["Tanvir", "Thomas"], "11": ["Siddharth", "Rehana"]}, "age": "18–22", "topic": "Behavior", "subtopic": "Life Choices", "subtype": "Trade-offs in Location, Partner, Career & Marriage", "description": "Weighing major decisions with incomplete information and family input."}
+{"sno": 286, "plan": {"9": "R11", "10": "R12", "11": "R13"}, "cast": {"9": ["Yusuf", "Pema"], "10": ["Arohi", "Lalit"], "11": ["Afreen", "Chandrika"]}, "age": "18–22", "topic": "Social / Mission", "subtopic": "Volunteering", "subtype": "Service, NGOs & Community Work", "description": "Contributing time and skills to causes without ego or savior mindset."}
+{"sno": 287, "plan": {"9": "R5", "10": "R6", "11": "R7"}, "cast": {"9": ["Jasleen", "Manoj"], "10": ["Anjali", "Kamal"], "11": ["Nitin", "Pallavi"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Emotional Intelligence", "subtype": "Reading & Managing Others' Emotions", "description": "Noticing tone and mood at work or in relationships and responding thoughtfully."}
+{"sno": 288, "plan": {"9": "R1", "10": "R2", "11": "R3"}, "cast": {"9": ["Vishal", "Ankita"], "10": ["Farida", "Uday"], "11": ["Sonali", "Vikas"]}, "age": "23–26", "topic": "Career", "subtopic": "Career Growth", "subtype": "Feedback, Mentors & Promotion Strategy", "description": "Seeking honest feedback, building sponsors and planning role growth."}
+{"sno": 289, "plan": {"9": "R2", "10": "R3", "11": "R4"}, "cast": {"9": ["Tejas", "Trisha"], "10": ["Lalremsiami", "Zeenat"], "11": ["Afreen", "Deepika"]}, "age": "23–26", "topic": "Leadership", "subtopic": "People Management", "subtype": "Delegation, Coaching & Difficult Conversations", "description": "Delegating clearly, coaching juniors and delivering hard feedback with respect.", "graph_context": ["related mind states: admiration"]}
+{"sno": 290, "plan": {"9": "R15", "10": "R1", "11": "R2"}, "cast": {"9": ["Mohit", "Mahima"], "10": ["Jyoti", "Arohi"], "11": ["Jyoti", "Kalyani"]}, "age": "23–26", "topic": "Advanced Communication", "subtopic": "Negotiation", "subtype": "Salary, Role & Contract Negotiation", "description": "Preparing, anchoring and negotiating compensation and terms without damaging relationships.", "graph_context": ["related concepts: anchoring"]}
+
+Return exactly 30 JSON Lines and nothing else.

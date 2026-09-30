@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5702,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Siddiq",
+     "Tuan"
+    ],
+    "7": [
+     "Lakshmi",
+     "Bhavna"
+    ],
+    "8": [
+     "Bhupen",
+     "Zubin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Asch-style conformity",
+   "subtype": "Saying what the group says [Actor]",
+   "description": "A child sees that everyone else picks one answer or opinion and follows though it looks wrong to them, worried about being laughed at. Even when the truth is visible, disagreeing alone feels risky.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: amusement, anxiety"
+   ]
+  },
+  {
+   "sno": 5703,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Indu",
+     "Vijay"
+    ],
+    "7": [
+     "Neelam",
+     "Parveen"
+    ],
+    "8": [
+     "Parveen",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Asch-style conformity",
+   "subtype": "Doubting your own eyes [Actor]",
+   "description": "A teenager in a group that unanimously praises a film or looks down on a classmate begins to doubt their own view and adopts the group's. Sometimes they truly change their mind and sometimes they merely stay quiet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 5704,
+   "plan": {
+    "6": "R10",
+    "7": "R11",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Wasim",
+     "Farhan"
+    ],
+    "7": [
+     "Himani",
+     "Amandeep"
+    ],
+    "8": [
+     "Bidisha",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Asch-style conformity",
+   "subtype": "One ally breaks the spell [Observer]",
+   "description": "A student notices that when a single classmate voices doubt, others quickly dare to disagree too. Having even one supporter makes it much easier to speak honestly against the majority.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 5705,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Jaya"
+    ],
+    "7": [
+     "Lakshmi",
+     "Kishore"
+    ],
+    "8": [
+     "Amandeep",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Asch-style conformity",
+   "subtype": "Being the lone dissenter [Receiver]",
+   "description": "A young adult who disagrees with an entire group in a meeting or hostel discussion feels stares, pressure and self-doubt. Their stance costs something socially and takes courage even when they are right.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 5706,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Mridul",
+     "Mahima"
+    ],
+    "7": [
+     "Manjula",
+     "Rehana"
+    ],
+    "8": [
+     "Preeti",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Asch-style conformity",
+   "subtype": "Disagreeing with grace [Response]",
+   "description": "A young professional checks their reasoning, then states a different view politely and gives evidence, or asks a question that opens the topic. They stay open to being wrong without simply going along.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5707,
+   "plan": {
+    "6": "R4",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Harish",
+     "Asif"
+    ],
+    "7": [
+     "Joseph",
+     "Siddharth"
+    ],
+    "8": [
+     "Rania",
+     "Alejandro"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kin selection and family loyalty",
+   "subtype": "Sharing more with family [Actor]",
+   "description": "A child readily shares a treat with a sibling or grandparent and is slower to share with a visiting stranger's child. Closeness and shared belonging shape early generosity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, nostalgia"
+   ]
+  },
+  {
+   "sno": 5708,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Yusuf"
+    ],
+    "7": [
+     "Selin",
+     "Tariq"
+    ],
+    "8": [
+     "Sarika",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kin selection and family loyalty",
+   "subtype": "Defending a brother or sister [Actor]",
+   "description": "A child fiercely defends a sibling from a bully even after quarrelling with them that morning. Family loyalty can override personal grudges and small risks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5709,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Anand",
+     "Minakshi"
+    ],
+    "7": [
+     "Arnab",
+     "Payal"
+    ],
+    "8": [
+     "Sabina",
+     "Avni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kin selection and family loyalty",
+   "subtype": "Duty to family versus own wishes [Actor]",
+   "description": "A teenager gives up a trip or a preferred course to help with a sibling's education or family finances, feeling love and resentment together. Loyalty is real and sacrifice still has a cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, resentment"
+   ]
+  },
+  {
+   "sno": 5710,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Varun",
+     "Jaya"
+    ],
+    "7": [
+     "Vijay",
+     "Hemant"
+    ],
+    "8": [
+     "Gargi",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kin selection and family loyalty",
+   "subtype": "Favouring relatives unfairly [Observer]",
+   "description": "A student sees a family friend at a workplace or election given a favour because of kinship. They understand the deep pull of loyalty to one's own, and also the harm to fairness when it displaces merit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5711,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Dhruv",
+     "Bhavna"
+    ],
+    "7": [
+     "Vandana",
+     "Lalit"
+    ],
+    "8": [
+     "Rukmini",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Kin selection and family loyalty",
+   "subtype": "Balancing loyalty and fairness [Response]",
+   "description": "A young adult supports relatives in need with time and money, but declines to bend rules or hide wrongdoing for them. They say plainly that love for family and honesty toward others can both be kept.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

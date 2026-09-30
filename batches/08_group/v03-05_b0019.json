@@ -1,0 +1,317 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3529,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Sunaina"
+    ],
+    "4": [
+     "Rukmini",
+     "Amandeep"
+    ],
+    "5": [
+     "Hiroshi",
+     "Javier"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Learning to wait in line [Actor]",
+   "description": "A young child learns that waiting for a turn at the slide or counter is expected. They feel impatient and rely on adult praise and a clear sense of fairness to hold on.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3530,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Manoj"
+    ],
+    "4": [
+     "Baljeet",
+     "Saurabh"
+    ],
+    "5": [
+     "Saurabh",
+     "Raghav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Cutting the line [Actor]",
+   "description": "A child pushes ahead because they are in a hurry or think no one will mind. They feel a flash of guilt or defiance depending on how others react.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hostility, guilt"
+   ]
+  },
+  {
+   "sno": 3531,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Hafsa",
+     "Avni"
+    ],
+    "4": [
+     "Chetan",
+     "Rekha"
+    ],
+    "5": [
+     "Zainab",
+     "Ojas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Teaching public manners by example [Response]",
+   "description": "A parent thanks the bus conductor, waits patiently in line and apologises for a bump. Children learn public manners far more from watching than from being told.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 3532,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Sumit",
+     "Ganga"
+    ],
+    "4": [
+     "Bhavna",
+     "Leela"
+    ],
+    "5": [
+     "Diego",
+     "Camila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Loud behaviour in public places [Actor]",
+   "description": "Teenagers laugh loudly on a bus or in a cinema, enjoying their group's energy and forgetting others. It is usually thoughtlessness, and a calm word often corrects it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, calm"
+   ]
+  },
+  {
+   "sno": 3533,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Charu",
+     "Ira"
+    ],
+    "4": [
+     "Shreya",
+     "Vaibhav"
+    ],
+    "5": [
+     "Aditi",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Queue jumped by a well-connected person [Receiver]",
+   "description": "A person waiting patiently sees someone with influence walk to the front. They feel anger and helplessness, and the sight teaches some to accept unfairness and others to object.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3534,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Keerthana",
+     "Kalyani"
+    ],
+    "4": [
+     "Varun",
+     "Zeenat"
+    ],
+    "5": [
+     "Minakshi",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Giving up a seat or space [Actor]",
+   "description": "A young adult offers their seat or gives way to an elderly person or a pregnant woman. The small act comes from awareness of others and needs no praise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3535,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Suraj"
+    ],
+    "4": [
+     "Sudha",
+     "Manjula"
+    ],
+    "5": [
+     "Hafsa",
+     "Pranav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Watching someone break a norm [Observer]",
+   "description": "A commuter sees someone jump a queue or litter and wonders whether to speak. They weigh safety and tone, and often a light, polite comment works better than a scolding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: curiosity, awe, trust"
+   ]
+  },
+  {
+   "sno": 3536,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Ritu"
+    ],
+    "4": [
+     "Chetan",
+     "Lokesh"
+    ],
+    "5": [
+     "Alka",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Queues and public-space etiquette",
+   "subtype": "Politely enforcing the line [Response]",
+   "description": "A person says excuse me, the line starts there, without heat. Calm, friendly firmness usually works, and if it turns hostile they let it go.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: hostility, calm"
+   ]
+  },
+  {
+   "sno": 3537,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Manjula"
+    ],
+    "4": [
+     "Sumit",
+     "Imran"
+    ],
+    "5": [
+     "Baljeet",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Loving a team or star [Actor]",
+   "description": "A child cheers for a cricket team or film hero and wears the colours proudly. Loving the same thing as others gives instant belonging and a story to be part of.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: pride, nostalgia"
+   ]
+  },
+  {
+   "sno": 3538,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Vandana",
+     "Rashmi"
+    ],
+    "4": [
+     "Ishita",
+     "Rashmi"
+    ],
+    "5": [
+     "Shreya",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Fandom as identity [Actor]",
+   "description": "A teenager's music, series or team becomes part of who they are. They feel understood by other fans and defensive when their idol is criticised, as though the criticism were personal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

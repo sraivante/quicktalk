@@ -1,0 +1,216 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4549,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Ira",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Panic",
+   "subtype": "Family witnessing an attack [Receiver]",
+   "description": "A parent or roommate sees someone gasping and terrified and feels scared too. Staying steady and kind, without panic, gives the person an anchor, and follow-up care matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4550,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Nandini",
+     "Bhavna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "OCD-type patterns",
+   "subtype": "Rituals to keep bad things away [Actor]",
+   "description": "A child repeats handwashing, touching or checking, or must say certain words to prevent harm. It feels unavoidable, and scolding makes it worse; a doctor or child psychologist can guide the family.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4551,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Divyansh",
+     "Farhan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "OCD-type patterns",
+   "subtype": "Family accommodating rituals [Receiver]",
+   "description": "A family may repeat answers, wait outside or change routines to keep the person calm. It comes from love but can strengthen the pattern, and a clinician can advise how to help without feeding it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: affection, calm"
+   ]
+  },
+  {
+   "sno": 4552,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Wasim",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "OCD-type patterns",
+   "subtype": "Unwanted intrusive thoughts [Actor]",
+   "description": "A teenager may have upsetting thoughts they hate and fear meaning something about them. Such thoughts are common and do not show who a person is; shame keeps them secret, and professional help works.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: fear, shame"
+   ]
+  },
+  {
+   "sno": 4553,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "OCD-type patterns",
+   "subtype": "Ritual taking over the day [Actor]",
+   "description": "A young adult spends hours checking or arranging things, arrives late and hides it from friends. Compulsions relieve fear briefly and then demand more, and seeking a qualified clinician is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: fear, relief"
+   ]
+  },
+  {
+   "sno": 4554,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Ira",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Trauma responses",
+   "subtype": "Reminders bring the past back [Actor]",
+   "description": "A child startles at loud sounds, has nightmares or plays out scary scenes again and again, or shuts down when reminded. Safety, routine and trusted adults help, and a child specialist is worth seeing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: surprise, trust"
+   ]
+  },
+  {
+   "sno": 4555,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Trauma responses",
+   "subtype": "Freeze, fight, flight or fawn [Actor]",
+   "description": "After frightening events, a teenager may go numb, become jumpy, lash out, run away or please everyone to stay safe. These are protective survival responses, not character faults.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: fear, detachment, trust"
+   ]
+  },
+  {
+   "sno": 4556,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Trauma responses",
+   "subtype": "Teacher seeing reactive behaviour [Observer]",
+   "description": "A teacher sees a student who explodes or goes silent over small things. Asking what happened rather than what is wrong, predictable routines and no public shaming help, with referral to a counsellor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 4557,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Camila",
+     "Dalia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Trauma responses",
+   "subtype": "Feeling unsafe in a safe place [Actor]",
+   "description": "A young adult may feel on edge, avoid reminders, feel detached or ashamed and struggle to trust. Healing usually needs time, safety and support from someone trained, not just willpower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: shame, detachment, trust"
+   ]
+  },
+  {
+   "sno": 4558,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Seema",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Trauma responses",
+   "subtype": "Partner or friend walking alongside [Receiver]",
+   "description": "A person supporting a survivor may feel confused when the survivor pulls away or reacts strongly. Patience, asking what helps and respecting pace, without pushing for details, create safety.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: admiration, confusion, trust"
+   ]
+  }
+ ]
+}

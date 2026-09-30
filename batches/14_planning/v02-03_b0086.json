@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6611,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nazia",
+     "Pema"
+    ],
+    "3": [
+     "Nazia",
+     "Sachin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: clarifying own values and comfort level [Thinking]",
+   "description": "A teen asks herself what she is comfortable with in a friendship or crush, such as sharing photos or meeting alone, and writes limits down before the situation arises.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6612,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Tushar"
+    ],
+    "3": [
+     "Nitin",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: stating a boundary clearly and calmly [Action]",
+   "description": "A student tells someone he likes that he is not ready to share private pictures or meet alone, using simple direct words, and does not apologise for the limit.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, trial by imitation, values-first planning",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6613,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Shalini",
+     "Omkar"
+    ],
+    "3": [
+     "Payal",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: watching whether the other person respects it [Thinking]",
+   "description": "A teen notes that after she said no to sharing her password, the friend went quiet but respected it, and treats that respect as important information about the relationship.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, values-first planning",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6614,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Aparna",
+     "Irfan"
+    ],
+    "3": [
+     "Nikita",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: seeking advice from an older trusted person [Action]",
+   "description": "Confused about pressure from a boyfriend to send photos, a teen asks an older cousin and later her mother, and learns that pressure of this kind is a warning and not romance.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, trial by imitation, values-first planning",
+    "related mind states: confusion, trust"
+   ]
+  },
+  {
+   "sno": 6615,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Lakshmi"
+    ],
+    "3": [
+     "Deepak",
+     "Karthik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: giving in to avoid losing the relationship [Pitfall]",
+   "description": "A teen shares private photos because he says everyone does and he will leave otherwise, valuing the relationship over comfort, and later fears where the photos might travel.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, seeking advice, trial by imitation, values-first planning",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6616,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Ayesha"
+    ],
+    "3": [
+     "Parveen",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: ignoring gut discomfort [Pitfall]",
+   "description": "A student feels uneasy about an online friend who wants secrecy and late-night chats, but dismisses the feeling as silly, and ignores an important sign that something is not right.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, trial by imitation, values-first planning",
+    "related mind states: playfulness, anxiety"
+   ]
+  },
+  {
+   "sno": 6617,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Disha",
+     "Hrithik"
+    ],
+    "3": [
+     "Ganga",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: if-then rules for pressure situations [Thinking]",
+   "description": "A teen decides that if anyone pushes after a no, then she leaves the conversation and tells an adult, so she has a ready response and does not need to negotiate under pressure.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, seeking advice, trial by imitation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6618,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Parveen"
+    ],
+    "3": [
+     "Sangeeta",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: leaving and telling an adult when boundaries are crossed [Action]",
+   "description": "When a classmate repeatedly touches her after being told to stop, a teen walks away, reports it to a teacher and her parents, and keeps notes of dates, using proper channels.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, trial by imitation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6619,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Vandana",
+     "Anirban"
+    ],
+    "3": [
+     "Chandrika",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: reviewing the boundary after new information [Revision]",
+   "description": "After some months of trust, a teen adjusts what she shares with a close friend but keeps the core limits, showing that boundaries can shift with time without dropping her own comfort.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, if-then plan, seeking advice, trial by imitation, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6620,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Yogesh"
+    ],
+    "3": [
+     "Omkar",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding about a relationship boundary",
+   "subtype": "Approach: respecting other people's no [Thinking]",
+   "description": "A student who likes someone accepts a polite refusal, avoids messaging repeatedly, and steps back, treating consent as a rule for himself as well and not only something demanded of others.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, seeking advice, trial by imitation, values-first planning",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

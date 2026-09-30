@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2662,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Simran"
+    ],
+    "4": [
+     "Lakshmi",
+     "Kunal"
+    ],
+    "5": [
+     "Harish",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Spreading fingers and fidget tools [Regulating]",
+   "description": "A young adult presses fingers spread on a table to steady nerves or uses a fidget object to stay calm, a healthy regulation tool that observers should not mistake for disinterest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest, calm"
+   ]
+  },
+  {
+   "sno": 2663,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Varun"
+    ],
+    "4": [
+     "Kalyani",
+     "Pallavi"
+    ],
+    "5": [
+     "Nilesh",
+     "Lavanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Digital emoji versions of gestures [Interpreting]",
+   "description": "A young adult reads the thumbs-up, folded-hands and wave emoji as modern equivalents of gestures, but the thumbs-up may seem curt or passive-aggressive to some. Norms differ by age and workplace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2664,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Ganga",
+     "Ishita"
+    ],
+    "4": [
+     "Sarika",
+     "Bidisha"
+    ],
+    "5": [
+     "Jaya",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Gestures across cultures [Mismatch]",
+   "description": "A young adult travelling finds that the OK-sign, thumbs-up and beckoning finger carry different meanings in different countries, some offensive. When unsure, a smile, a word or a namaste-like neutral greeting is safer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2665,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Vishal",
+     "Jyoti"
+    ],
+    "4": [
+     "Seema",
+     "Karthik"
+    ],
+    "5": [
+     "Rafiq",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Come-closer gesture across cultures [Mismatch]",
+   "description": "A student abroad learns that an upturned-finger beckon that is friendly in one place can be rude in another, and a palm-down scoop is common in South Asia and elsewhere. Guessing meaning from one culture is risky, so watching locals and asking is wiser.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2666,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Kishore",
+     "Shalini"
+    ],
+    "4": [
+     "Dolma",
+     "Aparna"
+    ],
+    "5": [
+     "Camila",
+     "Jana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Signalling a turn in group discussion [Regulating]",
+   "description": "A young adult in a seminar lifts a finger, leans in slightly or catches the chair's eye to claim a turn. Read together, these cues show wish to contribute; interrupting anyway shows poor turn reading, while patient signalling builds influence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2667,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Harish"
+    ],
+    "4": [
+     "Kalyani",
+     "Nikita"
+    ],
+    "5": [
+     "Nirmala",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Gesturing while explaining ideas [Regulating]",
+   "description": "A young adult in a presentation uses measured hand shapes to show a graph trend or process, but fidgety or over-large motions can distract. Purposeful gestures usually help listeners follow, and rehearsing on video can show what to trim.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 2668,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Uday"
+    ],
+    "4": [
+     "Wasim",
+     "Tanvir"
+    ],
+    "5": [
+     "Maria",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Sign languages as full languages [Interpreting]",
+   "description": "A student meeting a Deaf friend learns that signed languages use shape, movement, space and facial grammar as complete languages, not mime. Treating signs as loose gestures shows misunderstanding; learning basics and asking respectfully builds connection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2669,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Shankar",
+     "Pradeep"
+    ],
+    "4": [
+     "Anjali",
+     "Leela"
+    ],
+    "5": [
+     "Gabriel",
+     "Pablo"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Leaning in and leaning back [Interpreting]",
+   "description": "A student reads a friend leaning forward as interest and leaning back as relaxed or distant. These are weak cues; a person leaning back may be comfortable, or unwell, so checking with a question is wiser than concluding disinterest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest, calm"
+   ]
+  },
+  {
+   "sno": 2670,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Wasim",
+     "Varun"
+    ],
+    "4": [
+     "Javier",
+     "Kaito"
+    ],
+    "5": [
+     "Nirmala",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Stiffening and freeze under stress [Expressing]",
+   "description": "A young adult stiffens, holds the breath or hunches in a stressful exam or confrontation. It signals threat or anxiety; slow exhaling, dropping the shoulders and grounding the feet often ease it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety, relief from stress"
+   ]
+  },
+  {
+   "sno": 2671,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Noor"
+    ],
+    "4": [
+     "Tarun",
+     "Saurabh"
+    ],
+    "5": [
+     "Lars",
+     "Nkechi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Whole-body movement",
+   "subtype": "Bowing, folding hands and formal movement [Mismatch]",
+   "description": "A young adult uses a bow, namaste or a stand-up greeting according to custom. Meaning is politeness and respect, but the depth and manner vary by place and relationship, so watching others and following local custom avoids offence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

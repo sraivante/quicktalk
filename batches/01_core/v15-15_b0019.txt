@@ -1,0 +1,37 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R14+T1: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice. TWIST: Set it in a different season or festival period than a typical scene.
+R15+T1: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row. TWIST: Set it in a different season or festival period than a typical scene.
+R2+T1: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue. TWIST: Set it in a different season or festival period than a typical scene.
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 181, "plan": {"15": "R9+T1"}, "cast": {"15": ["Payal", "Chetan"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Fear & Imagination", "subtype": "Fear of Dark & Imagined Monsters", "description": "Separating imagination from reality and accepting comfort.", "graph_context": ["related mind states: fear"]}
+{"sno": 182, "plan": {"15": "R8+T1"}, "cast": {"15": ["Anders", "Dalia"]}, "age": "4–6", "topic": "Creativity", "subtopic": "Artistic Expression", "subtype": "Drawing, Singing & Movement", "description": "Expressing ideas through crayon, rhythm and dance without fear of judgment.", "graph_context": ["this subtopic also appears at ages: 7–12", "related mind states: fear"]}
+{"sno": 183, "plan": {"15": "R9+T1"}, "cast": {"15": ["Ojas", "Sarita"]}, "age": "4–6", "topic": "Ethics", "subtopic": "Care for Nature", "subtype": "Kindness to Plants & Animals", "description": "Watering plants, feeding birds and not hurting insects.", "graph_context": ["related mind states: hurt"]}
+{"sno": 184, "plan": {"15": "R12+T1"}, "cast": {"15": ["Jyoti", "Deepika"]}, "age": "4–6", "topic": "Financial Literacy", "subtopic": "Money Concepts", "subtype": "Ownership, Cost & Exchange", "description": "Understanding that things cost money and belong to someone."}
+{"sno": 185, "plan": {"15": "R1+T1"}, "cast": {"15": ["Jasleen", "Kunal"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Learning Skills", "subtype": "Note-Taking & Memorization Techniques", "description": "Using summaries, repetition, mnemonics and spaced review to retain material."}
+{"sno": 186, "plan": {"15": "R14+T1"}, "cast": {"15": ["Leela", "Shankar"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Learning Mindset", "subtype": "Growth Mindset", "description": "Believing ability grows with effort; replacing \"I can't\" with \"not yet\"."}
+{"sno": 187, "plan": {"15": "R2+T1"}, "cast": {"15": ["Yogesh", "Sumit"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Reasoning", "subtype": "Deductive Puzzles & Cause-Effect Chains", "description": "Solving riddles, sequences and simple logic problems step by step.", "graph_context": ["related mind states: confusion"]}
+{"sno": 188, "plan": {"15": "R15+T1"}, "cast": {"15": ["Madhav", "Omkar"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Written Expression", "subtype": "Paragraph Writing & Opinion with Reasons", "description": "Writing organized paragraphs and supporting an opinion with reasons."}
+{"sno": 189, "plan": {"15": "R4+T1"}, "cast": {"15": ["Siddharth", "Indu"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Multilingualism", "subtype": "Switching Between Home, National & Global Languages", "description": "Using different languages appropriately across family, school and wider settings."}
+{"sno": 190, "plan": {"15": "R1+T1"}, "cast": {"15": ["Pooja", "Jyoti"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Scientific Thinking", "subtype": "Prediction, Observation & Simple Experiments", "description": "Forming a guess, testing it, and noticing what actually happened."}
+
+Return exactly 10 JSON Lines and nothing else.

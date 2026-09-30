@@ -1,0 +1,305 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4739,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Suraj"
+    ],
+    "4": [
+     "Sumit",
+     "Kavitha"
+    ],
+    "5": [
+     "Arnab",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Workplace manipulation and credit stealing",
+   "subtype": "Noticing whose name is missing [Observer]",
+   "description": "A teammate sees a junior's work presented by someone else and quietly names the real author in the meeting. Small acts of fairness change the culture.",
+   "graph_context": [
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 4740,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Tejas",
+     "Suraj"
+    ],
+    "4": [
+     "Hansa",
+     "Baljeet"
+    ],
+    "5": [
+     "Vijay",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Workplace manipulation and credit stealing",
+   "subtype": "Documenting and speaking calmly [Response]",
+   "description": "An employee keeps dated records, shares progress in writing, and raises the matter calmly with the person first, and with a manager or HR if it repeats. Facts and calm work better than accusations.",
+   "graph_context": [
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4741,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ganga",
+     "Madhuri"
+    ],
+    "4": [
+     "Shreya",
+     "Binita"
+    ],
+    "5": [
+     "Elif",
+     "Mina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Negotiation ethics",
+   "subtype": "Hard bargaining versus deceit [Actor]",
+   "description": "A person negotiating a salary or deal may keep a bottom line private and argue firmly, which is fair. Inventing a rival offer or hiding known defects crosses into lying."
+  },
+  {
+   "sno": 4742,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Disha"
+    ],
+    "4": [
+     "Trisha",
+     "Vandana"
+    ],
+    "5": [
+     "Sudha",
+     "Maria"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Negotiation ethics",
+   "subtype": "Being pressured at the table [Receiver]",
+   "description": "A person is told the offer expires now, or that others would kill for this job, and feels pushed to accept. Asking for time and written terms is a fair response to pressure."
+  },
+  {
+   "sno": 4743,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Ujjwal"
+    ],
+    "4": [
+     "Jeevan",
+     "Sonali"
+    ],
+    "5": [
+     "Himani",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Negotiation ethics",
+   "subtype": "Seeking a fair deal [Response]",
+   "description": "A mature negotiator explains their needs truthfully, asks what matters to the other side, and looks for terms that work for both. Deals built on truth are easier to keep over time."
+  },
+  {
+   "sno": 4744,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Daniel",
+     "Anders"
+    ],
+    "4": [
+     "Damini",
+     "Chinmay"
+    ],
+    "5": [
+     "Nirmala",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "White-collar fraud rationalisation",
+   "subtype": "First small step [Actor]",
+   "description": "An employee fudges a number or expense, thinking I will fix it next month or everyone does it. The mind calls it borrowing, and the first step makes later ones easier.",
+   "graph_context": [
+    "related mind states: detachment",
+    "related concepts: rationalisation"
+   ]
+  },
+  {
+   "sno": 4745,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Swati"
+    ],
+    "4": [
+     "Noa",
+     "Lindiwe"
+    ],
+    "5": [
+     "Farhan",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "White-collar fraud rationalisation",
+   "subtype": "Pressure, opportunity and excuses [Actor]",
+   "description": "A person under targets, debt or fear of failure finds a gap in controls and gives themselves reasons such as the company can afford it. Most who commit fraud once saw themselves as basically honest.",
+   "graph_context": [
+    "related mind states: fear",
+    "related concepts: rationalisation, fear of failure"
+   ]
+  },
+  {
+   "sno": 4746,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Uma",
+     "Karthik"
+    ],
+    "4": [
+     "Chetan",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Leela",
+     "Maria"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "White-collar fraud rationalisation",
+   "subtype": "A colleague sensing something off [Observer]",
+   "description": "A team member notices repeated odd adjustments, a boss who resists audits, or a peer living beyond their means. Small doubts deserve to be raised through proper channels early.",
+   "graph_context": [
+    "related mind states: doubt",
+    "related concepts: rationalisation"
+   ]
+  },
+  {
+   "sno": 4747,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Kunal",
+     "Jasleen"
+    ],
+    "4": [
+     "Anirban",
+     "Sonali"
+    ],
+    "5": [
+     "Sarita",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "White-collar fraud rationalisation",
+   "subtype": "Stopping early and admitting [Response]",
+   "description": "A person who has taken the first wrong step can stop, correct the record and speak to a trusted senior or legal adviser. Coming forward early costs much less than being found out later.",
+   "graph_context": [
+    "related mind states: trust",
+    "related concepts: rationalisation"
+   ]
+  },
+  {
+   "sno": 4748,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Tarun"
+    ],
+    "4": [
+     "Damini",
+     "Charu"
+    ],
+    "5": [
+     "Eshaan",
+     "Vasudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Whistleblowing ethics",
+   "subtype": "Deciding to speak [Actor]",
+   "description": "An employee who has seen wrongdoing weighs loyalty to colleagues against harm to others and their own job. Doubt, fear and duty coexist, and speaking is a serious personal risk.",
+   "graph_context": [
+    "related mind states: fear, doubt"
+   ]
+  }
+ ]
+}

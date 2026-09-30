@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6461,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Gautam"
+    ],
+    "3": [
+     "Yusuf",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: talking to people who do the work [Action]",
+   "description": "A student asks a cousin who is a chartered accountant, a local architect and a nurse neighbour what a normal day is like, and writes down the parts they say are boring or stressful.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, copying without fit, decision matrix, externalising on paper, negotiation"
+   ]
+  },
+  {
+   "sno": 6462,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Binita",
+     "Bidisha"
+    ],
+    "3": [
+     "Pallavi",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: small tryouts and measuring enjoyment [Action]",
+   "description": "Over two months a student tries a coding tutorial, a sketching project and volunteering at a clinic help desk, then rates energy and interest after each to see which pulls her back.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, copying without fit, decision matrix, negotiation, values-first planning",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6463,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Ujjwal"
+    ],
+    "3": [
+     "Tarun",
+     "Mridul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: negotiating a win-win with parents [Action]",
+   "description": "A student prepares facts on fees, entrance dates and job outcomes, then proposes to parents that he sits the engineering exam while also building a design portfolio, so both views are honoured.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, copying without fit, decision matrix, externalising on paper, values-first planning"
+   ]
+  },
+  {
+   "sno": 6464,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Ayesha",
+     "Lalit"
+    ],
+    "3": [
+     "Asif",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: working backward from a desired lifestyle [Thinking]",
+   "description": "A teen pictures living in a mid-sized city near family with flexible hours, then works backward to which fields and qualifications make that realistic and which would push it far away.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, copying without fit, decision matrix, externalising on paper, negotiation"
+   ]
+  },
+  {
+   "sno": 6465,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Gautam"
+    ],
+    "3": [
+     "Yogesh",
+     "Raghav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: following family expectation without examining it [Pitfall]",
+   "description": "A student picks the science stream because the father and elder brother are engineers, never asks whether he likes it, and by class eleven is bored and hiding poor marks.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, copying without fit, decision matrix, externalising on paper, negotiation, values-first planning",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 6466,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Jeevan"
+    ],
+    "3": [
+     "Gopika",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: copying a famous role model's path [Pitfall]",
+   "description": "After watching a popular video about a self-taught founder, a teen decides to skip formal study, overlooking that the founder had savings, contacts and years of practice she does not have.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, decision matrix, externalising on paper, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6467,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Shalini"
+    ],
+    "3": [
+     "Vandana",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: endless career quizzes and comparisons [Pitfall]",
+   "description": "A student takes a dozen online aptitude tests and reads forty career lists, gets conflicting results each time, and reaches the deadline for stream selection with no decision at all.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, decision matrix, externalising on paper, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6468,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Gopika",
+     "Vandana"
+    ],
+    "3": [
+     "Parul",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: revisiting the choice after weak feedback [Revision]",
+   "description": "After scoring poorly in chemistry despite steady effort, a student meets a school counsellor, admits medicine may not suit her, and shifts to a data and statistics path she had been avoiding.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, copying without fit, decision matrix, externalising on paper, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6469,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Lalit",
+     "Dolma"
+    ],
+    "3": [
+     "Ira",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Choosing a career path",
+   "subtype": "Approach: keeping the choice reversible for now [Revision]",
+   "description": "Unsure between commerce and science, a teen picks the stream that keeps more doors open, notes the date to review after the first term, and agrees with teachers on what would trigger a change.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, copying without fit, decision matrix, externalising on paper, negotiation"
+   ]
+  },
+  {
+   "sno": 6470,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Charu"
+    ],
+    "3": [
+     "Bhavna",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Entrance exam and backup plans",
+   "subtype": "Approach: working backward from the exam date [Thinking]",
+   "description": "A student counts the weeks left before the entrance test, lists all syllabus units, and calculates how many units must be finished each week including revision and mock tests.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, copying without fit, lateral thinking, seeking advice, time-boxing"
+   ]
+  }
+ ]
+}

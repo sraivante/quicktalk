@@ -1,0 +1,215 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5112,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Vikas",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Money handling in practice",
+   "subtype": "First monthly budget [Actor]",
+   "description": "A student or first-job earner runs out of money before month end and is unsure where it went. Small repeated spends on food delivery and subscriptions add up more than one obvious purchase.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5113,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Zainab",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Money handling in practice",
+   "subtype": "Easy credit and buy now pay later [Actor]",
+   "description": "A young adult sees no-cost EMI and card offers as free money and buys things beyond means. The trap is that small instalments hide a growing total and late charges make it heavier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5114,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Vasudha",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Money handling in practice",
+   "subtype": "Debt spiral and hidden shame [Actor]",
+   "description": "A person paying one card or loan with another feels growing anxiety and hides it from family. Shame delays talking to someone, while early honesty and a repayment plan leave more options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, shame"
+   ]
+  },
+  {
+   "sno": 5115,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Amara",
+     "Alejandro"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Money handling in practice",
+   "subtype": "Family financial pressure [Receiver]",
+   "description": "A young earner asked to fund parents, siblings and weddings feels love and duty along with resentment about their own goals. Clear limits, open conversation and a small personal buffer keep goodwill alive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: affection, resentment"
+   ]
+  },
+  {
+   "sno": 5116,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Ganga",
+     "Thomas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Money handling in practice",
+   "subtype": "Bills, buffer and tracking [Response]",
+   "description": "A steady money handler pays bills on fixed dates, sets aside savings first, keeps a small emergency reserve and reviews spending monthly. Automatic habits beat willpower, and avoiding high-interest borrowing avoids the worst traps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5117,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "First forms and documents [Actor]",
+   "description": "A teenager filling an exam or scholarship form feels anxious about a wrong spelling or missing document. Careful reading, checking against the ID and asking before submitting prevent mistakes that are hard to correct.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5118,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Mridul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "Government office confusion [Actor]",
+   "description": "A young adult visiting an office for a certificate or ID update faces unclear queues, different counters and conflicting advice, and feels lost. Going early with originals and photocopies and asking what to bring in advance saves repeated trips.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 5119,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Wasim",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "Deadlines and renewals forgotten [Actor]",
+   "description": "An adult lets a licence, insurance or tax filing lapse because no reminder existed. Boring paperwork gets postponed until it becomes urgent, and a simple calendar reminder is the cheapest cure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5120,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "Ill-treated by a clerk or agent [Receiver]",
+   "description": "A citizen sent from counter to counter or hinted toward an extra payment feels helpless and angry. Staying polite, asking for the rule in writing and knowing official complaint routes are safer than either arguing or quietly paying.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 5121,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Ojas",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Paperwork, forms and offices",
+   "subtype": "Helping parents with paperwork [Response]",
+   "description": "A young adult helps an elderly parent with forms, online portals and bank work, patiently explaining rather than taking over. Respect for the parent's dignity matters as much as getting the form right.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

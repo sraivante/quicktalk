@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7371,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Vidya",
+     "Jeevan"
+    ],
+    "3": [
+     "Yogesh",
+     "Ritu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: adding a checklist and guardrail [Action]",
+   "description": "The team adds a required review for destructive commands, separates test and production credentials and writes a short checklist, so the same slip cannot repeat.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 7372,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Vikas"
+    ],
+    "3": [
+     "Varun",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: spiralling in self-blame [Pitfall]",
+   "description": "The employee replays the error for days and starts doubting every task, becoming slower and more error-prone, which shows how shame can damage performance as much as carelessness.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, contingency planning, seeking advice",
+    "related mind states: shame, doubt"
+   ]
+  },
+  {
+   "sno": 7373,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Seema"
+    ],
+    "3": [
+     "Vasudha",
+     "Pallavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: apologising and offering repair to the client [Action]",
+   "description": "The manager and employee call the affected client, explain the issue plainly, share recovery timelines and offer a service credit, which rebuilds credibility better than excuses.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, contingency planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 7374,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Irfan"
+    ],
+    "3": [
+     "Irfan",
+     "Asif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: putting the event in perspective with a mentor [Thinking]",
+   "description": "A senior colleague shares a similar mistake from earlier years and how it was handled. The employee sees the error as fixable and learns that recovery matters more than perfection.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, contingency planning"
+   ]
+  },
+  {
+   "sno": 7375,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Shreya"
+    ],
+    "3": [
+     "Mridul",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: rebuilding trust with small reliable deliveries [Revision]",
+   "description": "Over the next months, the employee delivers tasks on time, communicates delays early and keeps the team informed, and gradually regains bigger responsibilities.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, contingency planning, seeking advice",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7376,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Jamal",
+     "Zanele"
+    ],
+    "3": [
+     "Nandini",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a major work mistake",
+   "subtype": "Approach: sharing lessons with the wider team [Revision]",
+   "description": "The employee presents a short talk on what failed and what changed. Others start reporting near misses, showing that openness can make the whole team safer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, contingency planning, seeking advice",
+    "related mind states: resentment, trust"
+   ]
+  },
+  {
+   "sno": 7377,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Madhav"
+    ],
+    "3": [
+     "Preeti",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: working backward from a target role [Thinking]",
+   "description": "A developer aiming to become an architect by twenty-nine lists what that role needs, such as system design, leading a team and domain depth, then assigns each to a year.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, values-first planning"
+   ]
+  },
+  {
+   "sno": 7378,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Amandeep"
+    ],
+    "3": [
+     "Thomas",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: yearly themes with quarterly goals [Action]",
+   "description": "Year one focuses on core skills, year two on ownership of a module, and so on. Each quarter has one or two measurable goals, reviewed in a short written note.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7379,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Vishal"
+    ],
+    "3": [
+     "Manoj",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: following the highest salary each time [Pitfall]",
+   "description": "The person hops to whichever company pays most, ignoring learning and reputation. After four years the resume shows many names but little depth or a clear direction.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, values-first planning, working backward"
+   ]
+  },
+  {
+   "sno": 7380,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Neelam",
+     "Sabina"
+    ],
+    "3": [
+     "Yash",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a five-year career strategy",
+   "subtype": "Approach: keeping options open through broad skills [Thinking]",
+   "description": "Uncertain about the future, the person builds transferable skills such as communication, data handling and cloud basics, accepting that specialisation may come later once interests clarify.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, experiment and measure, rigid persistence, seeking advice, values-first planning, working backward",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

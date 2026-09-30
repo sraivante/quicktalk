@@ -1,0 +1,272 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 578,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Zeynep",
+     "Bao"
+    ],
+    "3": [
+     "Jagdish",
+     "Gargi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Praying or ritual at home",
+   "subtype": "Grandparent × Obedience [Receiver]",
+   "description": "Dadi says \"sit and pray with us\" and I do as told without knowing why. I feel loved and part of the family. Wise elders explain and welcome my questions, and do not punish me for asking \"why\".",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, fear, gratitude, worship",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 579,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Nadia",
+     "Kofi"
+    ],
+    "3": [
+     "Hrithik",
+     "Nilesh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Praying or ritual at home",
+   "subtype": "Family × Curiosity [Actor]",
+   "description": "I ask \"where does God live? why do we light the lamp?\" My questions are real and deep. Wise adults answer honestly and simply, even saying \"different people believe different things\" and \"I don't know\".",
+   "graph_context": [
+    "same situation, other stances at this age: fear, gratitude, worship",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 580,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Wei",
+     "Oskar"
+    ],
+    "3": [
+     "Pooja",
+     "Neelam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Watching screens",
+   "subtype": "Screen × Obsession [Actor]",
+   "description": "I cannot stop watching cartoons and get upset when it ends. The screen holds my attention fast and switching off feels like losing something. Wise parents set clear time and give a warning and a fun next thing.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, fear, manipulation",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 581,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Avni",
+     "Santosh"
+    ],
+    "3": [
+     "Rehana",
+     "Imran"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Watching screens",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "My parent turns off the tablet and I shout and cry. I feel robbed of something I love. A wise parent stays calm and keeps the rule. Bargaining for five more minutes over and over teaches me that crying works.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, fear, manipulation, obsession",
+    "related mind states: affection, sadness, calm"
+   ]
+  },
+  {
+   "sno": 582,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kamal",
+     "Parveen"
+    ],
+    "3": [
+     "Sangeeta",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Watching screens",
+   "subtype": "Online stranger × Manipulation [Receiver]",
+   "description": "A game pops up a chat or a stranger says \"send me a photo\" or \"don't tell your parents\". I may not know it is unsafe. Wise rule: always show a trusted adult. Any request for secrets is a warning sign.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, fear, obsession",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 583,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Yusuf"
+    ],
+    "3": [
+     "Kishore",
+     "Ganga"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Watching screens",
+   "subtype": "Celebrity × Admiration [Actor]",
+   "description": "I want to be like my favourite cartoon hero and copy his moves and words. I feel excited and inspired. Wise adults enjoy this and remind me, gently, that cartoon things cannot be done in real life.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, fear, manipulation, obsession",
+    "related mind states: admiration, excitement"
+   ]
+  },
+  {
+   "sno": 584,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Irfan"
+    ],
+    "3": [
+     "Vidya",
+     "Binita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Watching screens",
+   "subtype": "Screen × Fear [Actor]",
+   "description": "A scary scene makes me hide and I have nightmares. I do not know what is pretend. Wise adults choose age-fit shows, sit with me and say \"it is a story, you are safe\".",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, manipulation, obsession",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 585,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Vinita"
+    ],
+    "3": [
+     "Shankar",
+     "Rehana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a stranger",
+   "subtype": "Stranger × Fear [Actor]",
+   "description": "A stranger at the market speaks to me and I hide behind Mummy. This fear is healthy. I feel safe near my parent. Wise adults teach that a polite hello is fine near them but I should never go off with anyone.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, manipulation, trust",
+    "this subtopic also appears at ages: 1–3",
+    "related mind states: anger, fear, trust"
+   ]
+  },
+  {
+   "sno": 586,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Anirban"
+    ],
+    "3": [
+     "Charu",
+     "Shankar"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a stranger",
+   "subtype": "Stranger × Manipulation [Receiver]",
+   "description": "A stranger says \"come, I have sweets\" or \"your mother sent me\". I feel tempted or confused. Wise rule: say no, run to a trusted adult and tell. A grown-up who asks a child for help or secrecy is a warning sign.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, trust",
+    "this subtopic also appears at ages: 1–3",
+    "related mind states: anger, confusion, trust"
+   ]
+  },
+  {
+   "sno": 587,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Disha"
+    ],
+    "3": [
+     "Akash",
+     "Darshan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a stranger",
+   "subtype": "Stranger × Trust [Receiver]",
+   "description": "A shopkeeper helps me when I am lost in the market and calls my parents. I learn some strangers are safe helpers, such as a shop owner, a police officer or a mother with children. Knowing whom to ask keeps me safe.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, manipulation",
+    "this subtopic also appears at ages: 1–3",
+    "related mind states: anger, trust"
+   ]
+  }
+ ]
+}

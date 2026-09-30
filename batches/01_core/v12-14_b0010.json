@@ -1,0 +1,295 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 91,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Farhan",
+     "Eshaan"
+    ],
+    "13": [
+     "Pablo",
+     "Chidi"
+    ],
+    "14": [
+     "Deepak",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Inspiration",
+   "description": "Feeling deeply moved or motivated by abstract concepts, art, or role models."
+  },
+  {
+   "sno": 92,
+   "plan": {
+    "12": "R8",
+    "13": "R9",
+    "14": "R10"
+   },
+   "cast": {
+    "12": [
+     "Zanele",
+     "Olga"
+    ],
+    "13": [
+     "Kavitha",
+     "Tenzin"
+    ],
+    "14": [
+     "Kavitha",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Intimate Emotions",
+   "subtype": "Infatuation",
+   "description": "Experiencing intense, highly idealized romantic crushes and obsessions."
+  },
+  {
+   "sno": 93,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Ritu",
+     "Wasim"
+    ],
+    "13": [
+     "Vishal",
+     "Sharmila"
+    ],
+    "14": [
+     "Dilnaz",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Intimate Emotions",
+   "subtype": "Heartbreak",
+   "description": "Processing the acute, overwhelming emotional pain of social or romantic rejection.",
+   "graph_context": [
+    "related mind states: overwhelm, hurt"
+   ]
+  },
+  {
+   "sno": 94,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Rafiq",
+     "Keerthana"
+    ],
+    "13": [
+     "Maria",
+     "Lavanya"
+    ],
+    "14": [
+     "Jaya",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Intimate Emotions",
+   "subtype": "Vulnerability",
+   "description": "Taking the daunting emotional risk of opening up fully to peers or partners."
+  },
+  {
+   "sno": 95,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Lalit",
+     "Jaya"
+    ],
+    "13": [
+     "Hafsa",
+     "Sharmila"
+    ],
+    "14": [
+     "Santosh",
+     "Nitin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Coping",
+   "subtopic": "Stress Regulation",
+   "subtype": "Somatic Stress Management",
+   "description": "Utilizing breathwork, physical exercise, and self-calming strategies to handle high academic or social anxiety.",
+   "graph_context": [
+    "related mind states: anxiety, calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 96,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Jatin",
+     "Aadhya"
+    ],
+    "13": [
+     "Dilnaz",
+     "Nandini"
+    ],
+    "14": [
+     "Tanvir",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Ethical Questioning",
+   "description": "Challenging arbitrary norms, wrestling with ethical paradoxes, and defining a moral compass.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 97,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Sarita",
+     "Tenzin"
+    ],
+    "13": [
+     "Kashish",
+     "Manjula"
+    ],
+    "14": [
+     "Francis",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Moral Courage",
+   "subtopic": "Conviction",
+   "subtype": "Moral Courage & Peer Defense",
+   "description": "Standing up for ethical principles and bullied peers even when socially risky or unpopular."
+  },
+  {
+   "sno": 98,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Yamini",
+     "Farida"
+    ],
+    "13": [
+     "Ulla",
+     "Tuan"
+    ],
+    "14": [
+     "Anirban",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Spiritual / Meaning",
+   "subtopic": "Existential Inquiry",
+   "subtype": "Meaning & Purpose Seeking",
+   "description": "Exploring deep questions of existence, universal connection, personal philosophy, and spiritual orientation."
+  },
+  {
+   "sno": 99,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Irfan",
+     "Vaibhav"
+    ],
+    "13": [
+     "Gurpreet",
+     "Kalyani"
+    ],
+    "14": [
+     "Kishore",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Service & Civic Mission",
+   "description": "Aligning energy with social causes, volunteerism, and standing up for marginalized peers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 100,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Parul",
+     "Parveen"
+    ],
+    "13": [
+     "Vijay",
+     "Bhupen"
+    ],
+    "14": [
+     "Parul",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Hot vs. Cold Dynamics",
+   "description": "Learning to regulate choices made under intense emotional arousal or peer pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

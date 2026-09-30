@@ -1,0 +1,319 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4359,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Himani",
+     "Vikas"
+    ],
+    "4": [
+     "Mina",
+     "Mei"
+    ],
+    "5": [
+     "Tushar",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Neuroticism",
+   "subtype": "Emotionally stable calm [Actor]",
+   "description": "A young adult recovers quickly from setbacks and rarely spirals over criticism. Calm is helpful, but may underestimate how much others are struggling, so asking rather than assuming matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4360,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Jasleen"
+    ],
+    "4": [
+     "Rashmi",
+     "Gurpreet"
+    ],
+    "5": [
+     "Freya",
+     "Astrid"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Neuroticism",
+   "subtype": "Living with an anxious partner [Receiver]",
+   "description": "A partner is asked again and again for reassurance about small things and starts to feel drained. Offers care, but also gently encourages the person to build their own calming routines rather than feeling responsible for all their worry.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety, tiredness, calm"
+   ]
+  },
+  {
+   "sno": 4361,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Swati",
+     "Pooja"
+    ],
+    "4": [
+     "Manjula",
+     "Kashish"
+    ],
+    "5": [
+     "Dhruv",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Neuroticism",
+   "subtype": "Sensitive alarm system as an asset [Actor]",
+   "description": "A professional who worries a lot also catches risks early, prepares thoroughly and feels for others. Learns that the alarm is useful information, not always a verdict, and builds rest into work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4362,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Tanvir",
+     "Pankaj"
+    ],
+    "4": [
+     "Harsha",
+     "Mehak"
+    ],
+    "5": [
+     "Omkar",
+     "Jahnavi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Deep processor in a busy room [Actor]",
+   "description": "A child notices tiny changes, is overwhelmed by noise or scratchy clothes and asks deep questions about sad things. Needs a quiet corner and time to warm up, and is not being dramatic or difficult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, overwhelm"
+   ]
+  },
+  {
+   "sno": 4363,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Tenzin"
+    ],
+    "4": [
+     "Tenzin",
+     "Kamal"
+    ],
+    "5": [
+     "Naveen",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Absorbing others' moods [Actor]",
+   "description": "A child feels a classmate's hurt as their own and cries at films or unfairness. Empathy is strong, and learning that another's feeling is not theirs to fix protects the child from overload.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: empathy, hurt"
+   ]
+  },
+  {
+   "sno": 4364,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Dilnaz",
+     "Ira"
+    ],
+    "4": [
+     "Jyoti",
+     "Himani"
+    ],
+    "5": [
+     "Ishita",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Parent hearing 'you are too sensitive' [Receiver]",
+   "description": "A sensitive child hurt by such remarks starts hiding feelings. A parent or teacher who says the feelings make sense, while teaching coping tools, protects both trust and confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 4365,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jomon",
+     "Jeevan"
+    ],
+    "4": [
+     "Lokesh",
+     "Raghav"
+    ],
+    "5": [
+     "Avni",
+     "Chinmay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Overstimulated by crowds and criticism [Actor]",
+   "description": "A teenager finds crowded malls, loud parties and harsh feedback exhausting and needs long recovery. Often called too sensitive, they gain strength from choosing environments and stating needs calmly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: tiredness, calm"
+   ]
+  },
+  {
+   "sno": 4366,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Santiago",
+     "Nkechi"
+    ],
+    "4": [
+     "Tushar",
+     "Indu"
+    ],
+    "5": [
+     "Dilnaz",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Peer noticing a sensitive classmate [Observer]",
+   "description": "A friend sees someone who flinches at raised voices and needs quiet at lunch. Small kindnesses, like a heads-up before surprises and no teasing, make school far more bearable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 4367,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Rashmi"
+    ],
+    "4": [
+     "Baljeet",
+     "Mehak"
+    ],
+    "5": [
+     "Shalini",
+     "Ujjwal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Rich inner life and its cost [Actor]",
+   "description": "A young adult experiences music, nature and kindness intensely, and also feels conflict and deadlines sharply. Learns to schedule downtime and to see sensitivity as depth, not weakness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4368,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Vandana",
+     "Divyansh"
+    ],
+    "4": [
+     "Gurleen",
+     "Lalit"
+    ],
+    "5": [
+     "Indu",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Highly sensitive temperament",
+   "subtype": "Shaping a life that fits [Response]",
+   "description": "A wise sensitive adult picks work with some control over noise and pace, keeps boundaries and treats overwhelm as a signal to rest. They do not apologise for needing quiet, and they also stretch themselves gently.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: overwhelm"
+   ]
+  }
+ ]
+}

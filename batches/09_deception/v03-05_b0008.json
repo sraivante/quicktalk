@@ -1,0 +1,318 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4659,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Salma"
+    ],
+    "4": [
+     "Avni",
+     "Farida"
+    ],
+    "5": [
+     "Charu",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Noticing a pattern across time [Observer]",
+   "description": "A friend hears the same story reversed each time, with the partner always right and the person always confused. Outsiders often see the pattern before the person inside it does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 4660,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Lavanya",
+     "Kavitha"
+    ],
+    "4": [
+     "Hafsa",
+     "Noor"
+    ],
+    "5": [
+     "Suraj",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Keeping your own record [Response]",
+   "description": "A person writes down dates and events privately, talks to a trusted friend or counsellor, and checks their perception with someone outside. Reality is protected by other anchors than the person casting doubt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 4661,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kunal",
+     "Madhuri"
+    ],
+    "4": [
+     "Jyoti",
+     "Sudha"
+    ],
+    "5": [
+     "Nirmala",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Withdrawing to punish [Actor]",
+   "description": "A person goes silent after a disagreement, expecting the other to plead and give in. The silence is a way to feel powerful when words feel risky, but it punishes rather than protects.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 4662,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Devika"
+    ],
+    "4": [
+     "Eshaan",
+     "Mahima"
+    ],
+    "5": [
+     "Ojas",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Anxious under withdrawal [Receiver]",
+   "description": "The person receiving the silence feels dread, replays what they did, and hurries to apologise for anything. Being ignored activates real social pain, which makes this tactic effective and cruel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, anxiety, detachment, hurt"
+   ]
+  },
+  {
+   "sno": 4663,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Sunaina",
+     "Sarika"
+    ],
+    "4": [
+     "Abhinav",
+     "Zeenat"
+    ],
+    "5": [
+     "Jagdish",
+     "Lavanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Silent treatment as control",
+   "subtype": "Asking for a pause versus stonewalling [Response]",
+   "description": "A mature person says I need an hour to calm down and will come back, which is a break with a promise to return. Punishing silence has no end date and demands surrender.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4664,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Divyansh",
+     "Yash"
+    ],
+    "4": [
+     "Imran",
+     "Binita"
+    ],
+    "5": [
+     "Hrithik",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Pulling in a third person [Actor]",
+   "description": "A teenager or adult complains about one person to another to gain allies, or carries messages that stir jealousy. Direct talk feels risky, so a third party becomes a shield or a weapon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 4665,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Mohit",
+     "Afreen"
+    ],
+    "4": [
+     "Vishal",
+     "Santosh"
+    ],
+    "5": [
+     "Nadia",
+     "Ulla"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Being compared or used as a go-between [Receiver]",
+   "description": "A person is told a partner's ex is better, or a parent uses the child to pass hurtful messages to the other parent. It creates anxiety, divided loyalty and a sense of never being safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anxiety, trust, hurt"
+   ]
+  },
+  {
+   "sno": 4666,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Suraj",
+     "Akash"
+    ],
+    "4": [
+     "Manjula",
+     "Joseph"
+    ],
+    "5": [
+     "Tanvir",
+     "Jahnavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Triangulation",
+   "subtype": "Going back to the source [Response]",
+   "description": "A person who hears gossip or is asked to carry messages suggests the two talk directly and declines to take sides. Refusing to be a channel keeps relationships cleaner.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4667,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Farida",
+     "Saurabh"
+    ],
+    "4": [
+     "Ujjwal",
+     "Siddharth"
+    ],
+    "5": [
+     "Amara",
+     "Xin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Deflecting responsibility [Actor]",
+   "description": "A person always presents themselves as wronged, so any complaint against them turns into sympathy for themselves. Behind it is often a fragile self-image that cannot tolerate being at fault.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: resentment, empathy"
+   ]
+  },
+  {
+   "sno": 4668,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Anirban",
+     "Alka"
+    ],
+    "4": [
+     "Lucia",
+     "Yosef"
+    ],
+    "5": [
+     "Sachin",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Playing the victim",
+   "subtype": "Learning to admit fault [Response]",
+   "description": "A teenager who owns a mistake with a plain sorry finds that relationships recover faster than through defensiveness. Taking responsibility is strength, and it does not mean accepting all blame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7041,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Mohit"
+    ],
+    "3": [
+     "Nandini",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Surviving a natural disaster",
+   "subtype": "Approach: rebuild with documents, insurance and mental-health support [Revision]",
+   "description": "After the disaster, the person applies for relief, files an insurance claim with photos, replaces lost papers and speaks to a counsellor about stress. Recovery is planned in stages.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, contingency planning, forward planning, mental simulation, seeking advice",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 7042,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Binita"
+    ],
+    "3": [
+     "Shalini",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Surviving a natural disaster",
+   "subtype": "Approach: rehearse an earthquake drill at home [Thinking]",
+   "description": "The student practises drop, cover and hold on and identifies a sturdy table and exits, and teaches younger siblings. Rehearsal turns a panic reaction into a learned response.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, contingency planning, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 7043,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Bhavna",
+     "Samir"
+    ],
+    "3": [
+     "Kavitha",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Surviving a natural disaster",
+   "subtype": "Approach: ration supplies and check on stranded relatives [Revision]",
+   "description": "Trapped by floods for two days, the person counts food and water, plans consumption and contacts relatives by any working channel. Replanning to constraints helps stretch resources.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, forward planning, mental simulation, seeking advice",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 7044,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Neelam",
+     "Sangeeta"
+    ],
+    "3": [
+     "Vaibhav",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: notice the warning signs of pressure and isolation [Thinking]",
+   "description": "A student invited to a friendly self-improvement group sees that leaders discourage contact with family, demand large payments and label doubters as weak. Recognising these patterns creates distance.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning",
+    "related mind states: doubt, loneliness"
+   ]
+  },
+  {
+   "sno": 7045,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Naveen"
+    ],
+    "3": [
+     "Arnab",
+     "Omkar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: keep outside relationships and reality checks [Action]",
+   "description": "The person continues weekly calls with family and old friends, and discusses what the group says with them. Outside views break the closed loop that such groups depend on.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7046,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Mohit",
+     "Ankita"
+    ],
+    "3": [
+     "Kavitha",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: commit gradually because each step seemed small [Pitfall]",
+   "description": "First a free workshop, then donations, then leaving college for group work. Each small step feels consistent with the last, and the escalation of commitment makes leaving harder.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7047,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Gargi"
+    ],
+    "3": [
+     "Hansa",
+     "Damini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: set limits on time and money in advance [Action]",
+   "description": "Before attending, the person decides a maximum time per week, no financial commitments and no signing of papers on the spot. A pre-set limit is harder to erode in the moment.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7048,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Ganga"
+    ],
+    "3": [
+     "Vijay",
+     "Alka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: ask for details and independent information [Thinking]",
+   "description": "The person asks where funds go, who leads and what former members say, and looks up news and reviews. A group that resists questions signals a problem.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7049,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Raghav"
+    ],
+    "3": [
+     "Dolma",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: give in to social pressure to belong [Pitfall]",
+   "description": "Lonely in a new city, the person values the warm welcome and love bombing and ignores doubts. The need for belonging outweighs judgement, and the person reads doubt as personal failure.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it",
+    "related mind states: affection, doubt, loneliness, nostalgia"
+   ]
+  },
+  {
+   "sno": 7050,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Vaibhav",
+     "Leela"
+    ],
+    "3": [
+     "Leela",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: step away with support and a safe exit plan [Revision]",
+   "description": "Feeling uneasy, the person tells a trusted friend, avoids private meetings with leaders, and stops attending, leaning on family and, if threatened, the police. Leaving is planned with support.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, values-first planning",
+    "related mind states: anxiety, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6531,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Noor"
+    ],
+    "3": [
+     "Irawati",
+     "Alka"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: setting a specific measurable target [Thinking]",
+   "description": "A teen wants to run 5 km without stopping for a school race, so she writes the date, a starting distance of one kilometre, and a plan to add a little each week.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, mental simulation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6532,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Disha"
+    ],
+    "3": [
+     "Sudha",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: progressive plan with rest days [Action]",
+   "description": "A student follows a run and walk schedule three days a week with rest between, records each session in a diary, and increases distance slowly to avoid overuse pain.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, mental simulation, seeking advice, time-boxing",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6533,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Akash"
+    ],
+    "3": [
+     "Anirban",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: getting coaching from a qualified person [Action]",
+   "description": "A young cricketer asks the school coach to check his bowling action and a suitable warm-up, rather than copying online drills that may not suit his body.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, mental simulation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6534,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Rukmini",
+     "Gopika"
+    ],
+    "3": [
+     "Reena",
+     "Mridul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: training partner as accountability [Action]",
+   "description": "Two friends agree to meet at the ground at six every morning, and whoever misses owes the other a chai, which makes skipping on cold days socially costly.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, mental simulation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6535,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Jaya"
+    ],
+    "3": [
+     "Francis",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: doing too much too soon [Pitfall]",
+   "description": "A teen aiming for the school team trains twice daily from day one, ignores soreness, and picks up a strain that keeps him out for weeks, delaying the goal he wanted to speed up.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, mental simulation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6536,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Vasudha"
+    ],
+    "3": [
+     "Harsha",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: comparing with online influencers and extreme diets [Pitfall]",
+   "description": "A student copies a fitness influencer's crash routine and food restrictions, feels weak and dizzy in class, and needs to learn that growing bodies need adequate food and expert guidance.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, mental simulation, time-boxing"
+   ]
+  },
+  {
+   "sno": 6537,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Himani"
+    ],
+    "3": [
+     "Vijay",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: listening to the body and adapting [Revision]",
+   "description": "Noticing knee pain after running on hard roads, a teen cuts distance, switches to a softer field, asks the coach about shoes, and returns to the plan gradually.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, avoidance and procrastination, mental simulation, seeking advice, time-boxing",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6538,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Ankita",
+     "Aparna"
+    ],
+    "3": [
+     "Maria",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: planning around exams and study load [Thinking]",
+   "description": "A teen with board exams shortens sessions to twenty minutes, keeps fixed time slots, and treats movement as a study aid for focus rather than a rival to marks.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, mental simulation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6539,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Payal"
+    ],
+    "3": [
+     "Gopika",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: process goals when results stall [Revision]",
+   "description": "After a plateau in her sprint time, a student shifts from chasing times to tracking consistent attendance and technique drills, then sees progress return over the next month.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, mental simulation, seeking advice, time-boxing"
+   ]
+  },
+  {
+   "sno": 6540,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Nazia",
+     "Farhan"
+    ],
+    "3": [
+     "Lakshmi",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching a fitness or sports goal",
+   "subtype": "Approach: visualising the race and rehearsing [Thinking]",
+   "description": "Before the district meet, an athlete mentally walks through the warm-up, start and final stretch, plans what to do if she stumbles, and steadies her nerves with a set breathing pattern.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, avoidance and procrastination, seeking advice, time-boxing",
+    "related mind states: relief from stress"
+   ]
+  }
+ ]
+}

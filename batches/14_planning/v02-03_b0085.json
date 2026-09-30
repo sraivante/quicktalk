@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6601,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Madhuri"
+    ],
+    "3": [
+     "Parveen",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: fixing a total budget and working backward [Thinking]",
+   "description": "A group of teens with a school trip fund of 3,000 rupees each subtracts fixed costs for transport and stay, and sees only about 800 remains for food and entry tickets.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, resource and budget planning, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6602,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Devika"
+    ],
+    "3": [
+     "Afreen",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: comparing transport and stay options [Thinking]",
+   "description": "Students compare a sleeper train, a bus and a shared taxi for price, time and safety, and choose the train for the overnight leg while accepting slower travel to save money.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, resource and budget planning, working backward",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6603,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ines",
+     "Yosef"
+    ],
+    "3": [
+     "Jaya",
+     "Raghav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: dividing planning tasks among the group [Action]",
+   "description": "Four friends assign transport, food, stay and safety to different members, share a sheet of quotes, and agree a deadline for deciding, preventing everyone from doing everything.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, resource and budget planning, sleeping on it, working backward",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6604,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Chaitanya"
+    ],
+    "3": [
+     "Rukmini",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: involving parents and choosing safe arrangements [Action]",
+   "description": "The teens share the itinerary, hostel details and contact numbers with parents, agree check-in times, and travel with a responsible adult, which keeps the trip safe and approved.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, resource and budget planning, sleeping on it, working backward",
+    "related mind states: detachment, trust"
+   ]
+  },
+  {
+   "sno": 6605,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Yash",
+     "Tenzin"
+    ],
+    "3": [
+     "Ramesh",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: buffer for delays and extra costs [Thinking]",
+   "description": "A teen adds a ten percent reserve and one spare hour in each day, so a late train or a rise in prices does not ruin the rest of the schedule.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, commitment device, resource and budget planning, sleeping on it, working backward"
+   ]
+  },
+  {
+   "sno": 6606,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Zainab"
+    ],
+    "3": [
+     "Beatriz",
+     "Soo-ah"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: overpacking the itinerary [Pitfall]",
+   "description": "The group plans eight places in two days, then exhausted by travel time, skips half of them and pays for tickets they never use, having ignored how slow moving actually is.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, resource and budget planning, sleeping on it, working backward",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 6607,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Nazia"
+    ],
+    "3": [
+     "Nikita",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: ignoring hidden costs [Pitfall]",
+   "description": "A student budgets for tickets and stay but forgets local transport, water, snacks and entry fees, and runs out of money on the last day, borrowing from a friend.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, sleeping on it, working backward"
+   ]
+  },
+  {
+   "sno": 6608,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Maria"
+    ],
+    "3": [
+     "Uday",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: going along with the loudest friend [Pitfall]",
+   "description": "The group accepts one boy's idea of a costly adventure park without discussing money, and two members quietly struggle to afford it, feeling unable to object.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, buffer and slack, commitment device, resource and budget planning, sleeping on it, working backward"
+   ]
+  },
+  {
+   "sno": 6609,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Asif"
+    ],
+    "3": [
+     "Kamal",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: replanning when a booking fails [Revision]",
+   "description": "When the planned hostel is full, the group calls two alternatives, chooses one with a parent's approval, adjusts the food budget to cover it, and updates the shared plan.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, commitment device, resource and budget planning, sleeping on it, working backward"
+   ]
+  },
+  {
+   "sno": 6610,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Tarun"
+    ],
+    "3": [
+     "Hafsa",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a trip on a budget",
+   "subtype": "Approach: tracking daily spending and adjusting [Revision]",
+   "description": "Each evening a teen adds up the day's costs, notices lunch is taking too much, switches to local eateries for the next day, and stays within the total.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, commitment device, resource and budget planning, sleeping on it, working backward"
+   ]
+  }
+ ]
+}

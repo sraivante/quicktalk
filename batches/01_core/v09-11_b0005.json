@@ -1,0 +1,300 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 41,
+   "plan": {
+    "9": "R8",
+    "10": "R9+T1",
+    "11": "R12+T1"
+   },
+   "cast": {
+    "9": [
+     "Santiago",
+     "Layla"
+    ],
+    "10": [
+     "Sarita",
+     "Kiran"
+    ],
+    "11": [
+     "Shankar",
+     "Thomas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Humor",
+   "subtopic": "Early Humor",
+   "subtype": "Playfulness & Absurdity",
+   "description": "Appreciating simple jokes, silly word sounds, physical slapstick, and incongruous situations.",
+   "graph_context": [
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 42,
+   "plan": {
+    "9": "R7",
+    "10": "R8+T1",
+    "11": "R9+T1"
+   },
+   "cast": {
+    "9": [
+     "Kunal",
+     "Manjula"
+    ],
+    "10": [
+     "Lindiwe",
+     "Aiko"
+    ],
+    "11": [
+     "Zainab",
+     "Jatin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Pre-Conventional Morality",
+   "description": "Obeying rules primarily to earn immediate concrete rewards or avoid physical punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 43,
+   "plan": {
+    "9": "R15",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Simran",
+     "Chaitanya"
+    ],
+    "10": [
+     "Pallavi",
+     "Ira"
+    ],
+    "11": [
+     "Abhinav",
+     "Jagdish"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Resource Sharing",
+   "description": "Sharing limited resources (toys, treats) even when it conflicts with personal pleasure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 44,
+   "plan": {
+    "9": "R1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Parveen",
+     "Irawati"
+    ],
+    "10": [
+     "Aadhya",
+     "Himani"
+    ],
+    "11": [
+     "Jeevan",
+     "Kavitha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Early Self-Regulation",
+   "description": "Resisting immediate impulses or temptations to secure a larger, delayed reward.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 45,
+   "plan": {
+    "9": "R7",
+    "10": "R8+T1",
+    "11": "R9+T1"
+   },
+   "cast": {
+    "9": [
+     "Salma",
+     "Dilnaz"
+    ],
+    "10": [
+     "Abebe",
+     "Hiroshi"
+    ],
+    "11": [
+     "Lakshmi",
+     "Kashish"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Habits & Ethics",
+   "subtopic": "Classroom Conduct",
+   "subtype": "School Readiness Habits",
+   "description": "Adopting classroom etiquette (sitting still, taking turns, raising hands) vs. disruptive outbursts and refusal to cooperate."
+  },
+  {
+   "sno": 46,
+   "plan": {
+    "9": "R1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Devika",
+     "Noor"
+    ],
+    "10": [
+     "Manoj",
+     "Noor"
+    ],
+    "11": [
+     "Raghav",
+     "Karthik"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Civic & Relational",
+   "subtopic": "Relational Respect",
+   "subtype": "Teacher & Elder Deference",
+   "description": "Showing polite deferential behavior toward teachers, elders, and relatives through greetings, listening, and respectful tone.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 47,
+   "plan": {
+    "9": "R13",
+    "10": "R15+T1",
+    "11": "R1+T1"
+   },
+   "cast": {
+    "9": [
+     "Arohi",
+     "Sarita"
+    ],
+    "10": [
+     "Binita",
+     "Hemant"
+    ],
+    "11": [
+     "Jeevan",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Family & Early School",
+   "description": "Assisting with age-appropriate domestic chores, respecting shared classroom property, and maintaining basic environmental cleanliness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 48,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Anjali",
+     "Gurpreet"
+    ],
+    "10": [
+     "Trisha",
+     "Lakshmi"
+    ],
+    "11": [
+     "Sahil",
+     "Maria"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Academic Fundamentals",
+   "subtype": "Literacy",
+   "description": "Decoding letters into sounds, achieving reading fluency, and reading comprehension."
+  },
+  {
+   "sno": 49,
+   "plan": {
+    "9": "R9",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Madhav",
+     "Sonali"
+    ],
+    "10": [
+     "Hrithik",
+     "Ishita"
+    ],
+    "11": [
+     "Santosh",
+     "Suraj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Academic Fundamentals",
+   "subtype": "Arithmetic",
+   "description": "Moving beyond counting to understand addition, subtraction, multiplication, and fractions."
+  },
+  {
+   "sno": 50,
+   "plan": {
+    "9": "R9",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Kishore",
+     "Kunal"
+    ],
+    "10": [
+     "Leela",
+     "Akash"
+    ],
+    "11": [
+     "Kamal",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Academic Fundamentals",
+   "subtype": "Information Processing",
+   "description": "Developing a longer attention span and working memory to follow multi-step instructions."
+  }
+ ]
+}

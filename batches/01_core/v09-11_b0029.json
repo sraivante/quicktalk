@@ -1,0 +1,295 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 281,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Chandrika",
+     "Vidya"
+    ],
+    "10": [
+     "Karthik",
+     "Dilnaz"
+    ],
+    "11": [
+     "Gargi",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Coping",
+   "subtopic": "Adversity",
+   "subtype": "Academic Setback, Financial Stress & Family Illness",
+   "description": "Sustaining functioning and seeking help under simultaneous life pressures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 282,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Tanuja",
+     "Himani"
+    ],
+    "10": [
+     "Vishal",
+     "Jahnavi"
+    ],
+    "11": [
+     "Lokesh",
+     "Vandana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Individual Variation",
+   "subtopic": "Self-Advocacy",
+   "subtype": "Seeking Accommodations & Support",
+   "description": "Stating own needs, such as ADHD, disability or anxiety, to institutions and employers and asking for reasonable adjustments.",
+   "graph_context": [
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 283,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Uday",
+     "Tushar"
+    ],
+    "10": [
+     "Elizabeth",
+     "Indu"
+    ],
+    "11": [
+     "Sahil",
+     "Tanuja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Advanced Communication",
+   "subtopic": "Assertiveness",
+   "subtype": "Disagreeing With Authority Respectfully",
+   "description": "Voicing dissent to professors, bosses or elders without hostility or silence.",
+   "graph_context": [
+    "related mind states: admiration, hostility"
+   ]
+  },
+  {
+   "sno": 284,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Wasim",
+     "Disha"
+    ],
+    "10": [
+     "Chaitanya",
+     "Ritu"
+    ],
+    "11": [
+     "Abhinav",
+     "Kavitha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Behavior",
+   "subtopic": "Habit Formation",
+   "subtype": "Building & Breaking Habits",
+   "description": "Designing cues, routines and rewards to install good habits and remove harmful ones."
+  },
+  {
+   "sno": 285,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Kalyani",
+     "Sarita"
+    ],
+    "10": [
+     "Tanvir",
+     "Thomas"
+    ],
+    "11": [
+     "Siddharth",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Behavior",
+   "subtopic": "Life Choices",
+   "subtype": "Trade-offs in Location, Partner, Career & Marriage",
+   "description": "Weighing major decisions with incomplete information and family input."
+  },
+  {
+   "sno": 286,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Yusuf",
+     "Pema"
+    ],
+    "10": [
+     "Arohi",
+     "Lalit"
+    ],
+    "11": [
+     "Afreen",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Social / Mission",
+   "subtopic": "Volunteering",
+   "subtype": "Service, NGOs & Community Work",
+   "description": "Contributing time and skills to causes without ego or savior mindset."
+  },
+  {
+   "sno": 287,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Jasleen",
+     "Manoj"
+    ],
+    "10": [
+     "Anjali",
+     "Kamal"
+    ],
+    "11": [
+     "Nitin",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Emotional Intelligence",
+   "subtype": "Reading & Managing Others' Emotions",
+   "description": "Noticing tone and mood at work or in relationships and responding thoughtfully."
+  },
+  {
+   "sno": 288,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Vishal",
+     "Ankita"
+    ],
+    "10": [
+     "Farida",
+     "Uday"
+    ],
+    "11": [
+     "Sonali",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career",
+   "subtopic": "Career Growth",
+   "subtype": "Feedback, Mentors & Promotion Strategy",
+   "description": "Seeking honest feedback, building sponsors and planning role growth."
+  },
+  {
+   "sno": 289,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Tejas",
+     "Trisha"
+    ],
+    "10": [
+     "Lalremsiami",
+     "Zeenat"
+    ],
+    "11": [
+     "Afreen",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Leadership",
+   "subtopic": "People Management",
+   "subtype": "Delegation, Coaching & Difficult Conversations",
+   "description": "Delegating clearly, coaching juniors and delivering hard feedback with respect.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 290,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Mohit",
+     "Mahima"
+    ],
+    "10": [
+     "Jyoti",
+     "Arohi"
+    ],
+    "11": [
+     "Jyoti",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Advanced Communication",
+   "subtopic": "Negotiation",
+   "subtype": "Salary, Role & Contract Negotiation",
+   "description": "Preparing, anchoring and negotiating compensation and terms without damaging relationships.",
+   "graph_context": [
+    "related concepts: anchoring"
+   ]
+  }
+ ]
+}

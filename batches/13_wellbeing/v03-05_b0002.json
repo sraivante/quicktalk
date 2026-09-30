@@ -1,0 +1,324 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5206,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Pooja"
+    ],
+    "4": [
+     "Bidisha",
+     "Hemant"
+    ],
+    "5": [
+     "Rafiq",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Play",
+   "subtype": "Play as recovery [Response]",
+   "description": "A stressed student who schedules an hour of football, dance or board games finds the mind returns sharper. Play is not wasted time but a recovery tool that adults often forget they need.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5207,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Amandeep",
+     "Nikita"
+    ],
+    "4": [
+     "Hrithik",
+     "Asif"
+    ],
+    "5": [
+     "Nitin",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Play",
+   "subtype": "Play lost to productivity [Observer]",
+   "description": "A young adult notices friends treat every hobby as a side hustle or a metric. Doing something badly and purely for fun has become rare, and reclaiming it protects against burnout.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5208,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Zeenat"
+    ],
+    "4": [
+     "Pooja",
+     "Ishita"
+    ],
+    "5": [
+     "Ingrid",
+     "Ada"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "First boredom [Actor]",
+   "description": "A child declares that there is nothing to do and clings to a parent. Boredom is a signal that the mind wants to generate its own activity, but the child does not yet know how.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5209,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ojas",
+     "Yamini"
+    ],
+    "4": [
+     "Parul",
+     "Vinita"
+    ],
+    "5": [
+     "Vishal",
+     "Akash"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Boredom becomes invention [Actor]",
+   "description": "Left without screens on a long summer afternoon, a child builds a fort, invents a game or draws for hours. Tolerated boredom is where self-directed interest first grows.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: interest, boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5210,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Amandeep"
+    ],
+    "4": [
+     "Madhav",
+     "Omkar"
+    ],
+    "5": [
+     "Parveen",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Rescuing from boredom [Observer]",
+   "description": "A parent instantly supplies a tablet whenever a child complains of boredom. The habit is kind but teaches that discomfort must be filled externally, and a short unrescued wait often yields creativity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5211,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Rehana",
+     "Sarita"
+    ],
+    "4": [
+     "Jagdish",
+     "Charu"
+    ],
+    "5": [
+     "Binita",
+     "Uma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Restless boredom [Actor]",
+   "description": "A teenager scrolls compulsively, switching apps to escape a flat feeling. The boredom is less about lack of options and more about intolerance for an empty moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5212,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Siddharth",
+     "Nandini"
+    ],
+    "4": [
+     "Ayesha",
+     "Naveen"
+    ],
+    "5": [
+     "Mehak",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Boredom and idleness",
+   "subtype": "Boredom as information [Response]",
+   "description": "A student who feels bored in a course asks whether the material is too easy, too hard or simply meaningless to them. Reading boredom as data, not just a nuisance, guides better choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5213,
+   "plan": {
+    "3": "R13",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Anjali",
+     "Dhruv"
+    ],
+    "4": [
+     "Jomon",
+     "Sumit"
+    ],
+    "5": [
+     "Rehana",
+     "Tenzin"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Falling apart when tired [Actor]",
+   "description": "A toddler becomes clingy, tearful or wild when overtired, and cannot say why. Tiredness shows as behaviour, and a nap often solves what discipline cannot.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness, tiredness"
+   ]
+  },
+  {
+   "sno": 5214,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Anand"
+    ],
+    "4": [
+     "Kaito",
+     "Chidi"
+    ],
+    "5": [
+     "Jatin",
+     "Ujjwal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Resisting sleep [Actor]",
+   "description": "A child fights bedtime, wanting one more story or fearing missing out. Predictable routines and calm endings teach that rest is safe and does not mean being left out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: fear, calm, trust"
+   ]
+  },
+  {
+   "sno": 5215,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Sumit",
+     "Uday"
+    ],
+    "4": [
+     "Farida",
+     "Nitin"
+    ],
+    "5": [
+     "Yamini",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Rest as reward, not laziness [Receiver]",
+   "description": "A child hears that resting is lazy while a busy adult is praised. Households that respect downtime raise children who can stop without shame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 23–26",
+    "related mind states: admiration, shame"
+   ]
+  }
+ ]
+}

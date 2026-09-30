@@ -1,0 +1,315 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3449,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Gautam"
+    ],
+    "4": [
+     "Anirban",
+     "Sonali"
+    ],
+    "5": [
+     "Camila",
+     "Priscila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Leaving a group that no longer fits [Response]",
+   "description": "A young adult gradually moves away from a status-focused group and invests in friends who value them without ranking. It brings loneliness first and steadier belonging later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: loneliness, nostalgia"
+   ]
+  },
+  {
+   "sno": 3450,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Aditi",
+     "Kishore"
+    ],
+    "4": [
+     "Nirmala",
+     "Aditi"
+    ],
+    "5": [
+     "Wei",
+     "Clara"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Office seating and inner circles [Observer]",
+   "description": "A new employee sees that lunch tables and after-work outings mark who is close to the boss. Recognising the map without obsessing over it helps them choose where to invest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3451,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Omkar",
+     "Ujjwal"
+    ],
+    "4": [
+     "Amandeep",
+     "Chinmay"
+    ],
+    "5": [
+     "Gopika",
+     "Hemant"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Natural leader in play [Actor]",
+   "description": "A child whom others follow in games listens to ideas, shares turns and keeps the group happy. They lead by warmth and fairness, not by fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, affection, fear"
+   ]
+  },
+  {
+   "sno": 3452,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Vaibhav",
+     "Ojas"
+    ],
+    "4": [
+     "Harsha",
+     "Kalyani"
+    ],
+    "5": [
+     "Sangeeta",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Leading by bossing [Actor]",
+   "description": "A teenager in charge of a group task gives orders and takes decisions alone. They believe it is efficient and are hurt when the group goes quiet or resists.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3453,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Suraj",
+     "Reena"
+    ],
+    "4": [
+     "Pankaj",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Arnab",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Follower who wants a say [Actor]",
+   "description": "A teenager in a group notices decisions they disagree with and feels torn between loyalty and speaking up. Good followership includes honest contribution, not silent agreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3454,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Pema"
+    ],
+    "4": [
+     "Disha",
+     "Lalit"
+    ],
+    "5": [
+     "Lokesh",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "First real leadership role [Actor]",
+   "description": "A student head of a club or event team feels pressure to prove themselves. They swing between over-control and avoiding conflict, and learn that leading means serving the group's goal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3455,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Kiran",
+     "Imran"
+    ],
+    "4": [
+     "Hafsa",
+     "Mridul"
+    ],
+    "5": [
+     "Shalini",
+     "Pranav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Led by a domineering person [Receiver]",
+   "description": "A team member under an autocratic leader feels tense and stops offering ideas. They comply outwardly while motivation drains away.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3456,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Jagdish"
+    ],
+    "4": [
+     "Jeevan",
+     "Ira"
+    ],
+    "5": [
+     "Imran",
+     "Lalremsiami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Courageous followership [Response]",
+   "description": "A team member supports the group's direction but says plainly when they see a problem. Loyalty and honesty together make them a valuable follower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3457,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Sabina",
+     "Rehana"
+    ],
+    "4": [
+     "Indu",
+     "Leela"
+    ],
+    "5": [
+     "Samir",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Hands-off leader [Receiver]",
+   "description": "A team with a leader who sets no direction feels confused and unsupported. Freedom feels good at first, then turns into drift and quiet frustration.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anger, confusion"
+   ]
+  },
+  {
+   "sno": 3458,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Minakshi",
+     "Ira"
+    ],
+    "4": [
+     "Nikita",
+     "Rukmini"
+    ],
+    "5": [
+     "Rehana",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "First-time manager of former peers [Actor]",
+   "description": "A young manager supervises colleagues who were friends. They feel awkward giving feedback and may be too soft or too harsh before finding a steady, respectful tone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, embarrassment"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2582,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Sunaina",
+     "Pooja"
+    ],
+    "4": [
+     "Ayesha",
+     "Alka"
+    ],
+    "5": [
+     "Sachin",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Alluding and slang [Interpreting]",
+   "description": "A teenager uses and decodes references to shows, songs or slang that signal group membership. Outsiders may miss or misread them, and meanings change quickly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2583,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Shreya",
+     "Tanvir"
+    ],
+    "4": [
+     "Lalit",
+     "Pallavi"
+    ],
+    "5": [
+     "Vikas",
+     "Kavitha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Hinting and implying [Mismatch]",
+   "description": "A teenager hints \"It is getting late\" to suggest leaving or implies displeasure without saying it. Hints save face but are often missed, so clear requests avoid confusion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2584,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Yusuf",
+     "Nandini"
+    ],
+    "4": [
+     "Dilnaz",
+     "Ganga"
+    ],
+    "5": [
+     "Lokesh",
+     "Raghav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Innuendo and double meanings [Interpreting]",
+   "description": "A teenager learns that some remarks carry a suggestive or hurtful second meaning. Recognising these means noticing discomfort, the right to say \"that is not okay\" and telling a trusted adult if it continues.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2585,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Tarun"
+    ],
+    "4": [
+     "Pooja",
+     "Imran"
+    ],
+    "5": [
+     "Gopika",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Questioning and personalising belief [Regulating]",
+   "description": "A teenager may question rituals, adapt them or find new meaning, sometimes causing tension with family. Respectful questions can coexist with participation, and pressure from either side rarely helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2586,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Aadhya"
+    ],
+    "4": [
+     "Deepak",
+     "Arohi"
+    ],
+    "5": [
+     "Jyoti",
+     "Gurpreet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Reverence and respect in shared spaces [Expressing]",
+   "description": "A teenager shows respect by removing shoes, covering the head, standing or being quiet in a temple, mosque, church or gurdwara. Practices differ, and a visitor can watch others or politely ask.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2587,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Chaitanya"
+    ],
+    "4": [
+     "Gurleen",
+     "Damini"
+    ],
+    "5": [
+     "Indu",
+     "Keerthana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Hand orientation and palm direction in signs [Interpreting]",
+   "description": "In signed languages, the direction the palm faces and where the hand points can change a sign's meaning, like a vowel changes a word. Hearing learners must respect this grammar, not treat signs as loose gestures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2588,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Gopika",
+     "Sahil"
+    ],
+    "4": [
+     "Deepak",
+     "Uday"
+    ],
+    "5": [
+     "Aditi",
+     "Manjula"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Interpreting a signed conversation [Interpreting]",
+   "description": "A learner watches for hand shape, movement, space and facial grammar to follow meaning, and asks for repetition instead of guessing. Signed languages vary by country and region; there is no single universal sign language.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2589,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Naveen"
+    ],
+    "4": [
+     "Lavanya",
+     "Anirban"
+    ],
+    "5": [
+     "Bilal",
+     "Abebe"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Signed-language expression",
+   "subtype": "Sign language identity and community [Expressing]",
+   "description": "A deaf or hard-of-hearing teenager may take pride in signing and Deaf culture, while others use spoken language or both. Language choice is personal, and signed languages are valid, complete languages.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 2590,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Maria",
+     "Vijay"
+    ],
+    "4": [
+     "Dalia",
+     "Xin"
+    ],
+    "5": [
+     "Yamini",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Essays and arguments [Expressing]",
+   "description": "A teenager writes essays with a thesis, evidence and counterargument to persuade or explain. Tone in writing must be carried by word choice, since no face or voice supports it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2591,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Sarika",
+     "Anand"
+    ],
+    "4": [
+     "Lavanya",
+     "Aadhya"
+    ],
+    "5": [
+     "Jaya",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Written expression",
+   "subtype": "Personal writing and diaries as private space [Regulating]",
+   "description": "A teenager uses a journal or notes to sort out feelings and identity. Privacy matters, and writing something down does not mean acting on it; worries about safety should be shared with a trusted adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety, trust"
+   ]
+  }
+ ]
+}

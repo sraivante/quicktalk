@@ -1,0 +1,310 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3790,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Vaibhav",
+     "Saurabh"
+    ],
+    "13": [
+     "Raghav",
+     "Hafsa"
+    ],
+    "14": [
+     "Sachin",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Memory reconstruction",
+   "subtype": "Arguments about what was said [Actor]",
+   "description": "A teenager and a parent each remember an argument differently and both feel certain. Their memories are shaped by feelings and later thoughts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3791,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Zainab",
+     "Siddharth"
+    ],
+    "13": [
+     "Nandini",
+     "Simran"
+    ],
+    "14": [
+     "Omar",
+     "Olga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Memory reconstruction",
+   "subtype": "Confident but wrong [Actor]",
+   "description": "A young adult is sure about a detail of a past event and is shown a photo or message proving otherwise. Confidence is not a measure of accuracy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3792,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Hrithik",
+     "Divyansh"
+    ],
+    "13": [
+     "Irfan",
+     "Dhruv"
+    ],
+    "14": [
+     "Tanvir",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Memory reconstruction",
+   "subtype": "Holding memory lightly [Response]",
+   "description": "A mature person checks important facts against records, says I remember it this way, and lets others' memories be different without calling them liars.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3793,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Jahnavi",
+     "Abhinav"
+    ],
+    "13": [
+     "Dolma",
+     "Uday"
+    ],
+    "14": [
+     "Ines",
+     "Priscila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False memory",
+   "subtype": "Imagined becomes remembered [Actor]",
+   "description": "A preschooler who is repeatedly asked about an event that did not happen may start to describe it. Imagination and memory blur easily at this age.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3794,
+   "plan": {
+    "12": "R15+T1",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Tejas",
+     "Jomon"
+    ],
+    "13": [
+     "Dhruv",
+     "Amandeep"
+    ],
+    "14": [
+     "Manoj",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False memory",
+   "subtype": "Suggestion by questions [Receiver]",
+   "description": "A child questioned with leading words by an adult or peers may adopt details that were never true. Neutral, open questions protect the accuracy of what he says.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3795,
+   "plan": {
+    "12": "R8",
+    "13": "R9",
+    "14": "R10"
+   },
+   "cast": {
+    "12": [
+     "Mateo",
+     "Tuan"
+    ],
+    "13": [
+     "Kunal",
+     "Amandeep"
+    ],
+    "14": [
+     "Parveen",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False memory",
+   "subtype": "Group retelling [Actor]",
+   "description": "A teenager who hears friends recount a shared incident starts to remember events that only they described. Group talk can blend into personal memory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3796,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Rukmini",
+     "Zeenat"
+    ],
+    "13": [
+     "Seema",
+     "Sabina"
+    ],
+    "14": [
+     "Pradeep",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False memory",
+   "subtype": "Vivid but untrue [Actor]",
+   "description": "A young adult recalls a detailed childhood scene that family members say never occurred. Vividness and emotion do not prove a memory is accurate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3797,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Zeenat",
+     "Thomas"
+    ],
+    "13": [
+     "Devika",
+     "Charu"
+    ],
+    "14": [
+     "Gopika",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False memory",
+   "subtype": "Careful with witness and family accounts [Response]",
+   "description": "A wise person avoids leading questions, records facts soon after events, and treats strong feelings about a memory as real without treating every detail as proof.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3798,
+   "plan": {
+    "12": "R1+T1",
+    "13": "R2+T1",
+    "14": "R4+T1"
+   },
+   "cast": {
+    "12": [
+     "Vijay",
+     "Imran"
+    ],
+    "13": [
+     "Vikas",
+     "Farhan"
+    ],
+    "14": [
+     "Gautam",
+     "Gargi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Source confusion",
+   "subtype": "Where did I hear that [Actor]",
+   "description": "A preschooler says he saw a monster at the park when it was a story he heard. He knows the content but has lost track of where it came from.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3799,
+   "plan": {
+    "12": "R9+T1",
+    "13": "R13+T1",
+    "14": "R14+T1"
+   },
+   "cast": {
+    "12": [
+     "Rafiq",
+     "Sarita"
+    ],
+    "13": [
+     "Jagdish",
+     "Sunaina"
+    ],
+    "14": [
+     "Suraj",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Source confusion",
+   "subtype": "Dream, story or real [Actor]",
+   "description": "A child mixes up something seen in a cartoon with something that happened at school and defends it sincerely. He is not lying, since the source tag is lost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

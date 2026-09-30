@@ -1,0 +1,317 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3559,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Shalini",
+     "Suraj"
+    ],
+    "4": [
+     "Suraj",
+     "Binita"
+    ],
+    "5": [
+     "Arohi",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Watching a cover-up unfold [Observer]",
+   "description": "A colleague sees documents quietly changed and meetings held behind closed doors. They notice the silence in the room and must decide whether to speak and to whom.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3560,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Jin",
+     "Rafael"
+    ],
+    "4": [
+     "Chaitanya",
+     "Wasim"
+    ],
+    "5": [
+     "Manoj",
+     "Tarun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Reporting through proper channels [Response]",
+   "description": "An employee records facts, keeps copies, seeks advice and uses internal or external channels for reporting concerns. Careful, documented, lawful steps protect both the truth and the reporter.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3561,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Sabina"
+    ],
+    "4": [
+     "Irfan",
+     "Kiran"
+    ],
+    "5": [
+     "Harsha",
+     "Tarun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Leaders who make truth safe [Response]",
+   "description": "A leader invites bad news, protects those who raise it and admits errors publicly. An institution that fixes its faults earns more lasting trust than one that hides them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3562,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Ujjwal"
+    ],
+    "4": [
+     "Sangeeta",
+     "Dilnaz"
+    ],
+    "5": [
+     "Vikas",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Going along with the majority view [Actor]",
+   "description": "A teenager adopts the class majority opinion on a topic in order to be accepted. They do not change their mind privately, only their public position.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3563,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Bhavna"
+    ],
+    "4": [
+     "Kavitha",
+     "Bhupen"
+    ],
+    "5": [
+     "Pranav",
+     "Rafiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Being the lone dissenter [Receiver]",
+   "description": "A student who disagrees with the entire class feels isolated and unsure whether they are wrong. The pressure to conform is strongest exactly when they are alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3564,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Ujjwal"
+    ],
+    "4": [
+     "Dalia",
+     "Chidi"
+    ],
+    "5": [
+     "Minakshi",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Consistent minority changing minds [Actor]",
+   "description": "A student who calmly and consistently holds a minority view, without hostility, slowly makes others reconsider. Steady, respectful confidence is more persuasive than loudness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: admiration, hostility, calm"
+   ]
+  },
+  {
+   "sno": 3565,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Amandeep",
+     "Noor"
+    ],
+    "4": [
+     "Dolma",
+     "Jagdish"
+    ],
+    "5": [
+     "Chaitanya",
+     "Kavitha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Majority ignoring the minority [Observer]",
+   "description": "A student notices that the majority laughs off a minority opinion without hearing it. Quiet listening and asking follow-up questions shows respect and sometimes reveals a good point.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: amusement, admiration"
+   ]
+  },
+  {
+   "sno": 3566,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Tenzin",
+     "Jagdish"
+    ],
+    "4": [
+     "Neelam",
+     "Payal"
+    ],
+    "5": [
+     "Farhan",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Being a minority in a group [Receiver]",
+   "description": "A person who is the only one of their gender, region, faith or background in a team feels watched and represents their whole group. They may over-perform or stay quiet, and fair treatment needs conscious effort from others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3567,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Shreya"
+    ],
+    "4": [
+     "Mehak",
+     "Sudha"
+    ],
+    "5": [
+     "Gautam",
+     "Jyoti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Minority view that turned out right [Observer]",
+   "description": "An observer remembers a time when a lone voice warned of a problem the group dismissed. Reflecting on such cases teaches that being outnumbered does not mean being wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 3568,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Hafsa",
+     "Tenzin"
+    ],
+    "4": [
+     "Sonali",
+     "Chinmay"
+    ],
+    "5": [
+     "Rajni",
+     "Uday"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Holding a view without hostility [Response]",
+   "description": "A person who disagrees with the group explains their reasoning calmly, acknowledges what is valid in the other view and is willing to be persuaded. They do not need to win to keep their integrity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hostility, calm, determination"
+   ]
+  }
+ ]
+}

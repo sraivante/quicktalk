@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6041,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Manjula"
+    ],
+    "3": [
+     "Vishal",
+     "Hafsa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: rehearsing in front of a mirror or family [Action]",
+   "description": "A boy practises his poem recitation in front of his family after dinner. They tell him to slow down and look up, and he improves before the day comes.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6042,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Jasleen"
+    ],
+    "3": [
+     "Sumit",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: imagining the stage and how he will walk in [Thinking]",
+   "description": "A child closes his eyes and pictures walking onto the stage, standing at the spot and beginning. Imagining each step helps him feel less surprised by the real moment.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, task decomposition",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 6043,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Rukmini",
+     "Hrithik"
+    ],
+    "3": [
+     "Preeti",
+     "Irfan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: practising only the parts she already knows well [Pitfall]",
+   "description": "A girl keeps repeating the first verse of the song because she enjoys it. On stage she is confident at first, then forgets the second verse she has barely practised.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation, task decomposition"
+   ]
+  },
+  {
+   "sno": 6044,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Aparna"
+    ],
+    "3": [
+     "Divyansh",
+     "Usha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: worrying so much that he stops practising [Pitfall]",
+   "description": "A boy thinks about everyone laughing at him and feels sick, so he avoids rehearsing. With less practice, he becomes more nervous, and the worry becomes a cycle.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, task decomposition",
+    "related mind states: amusement, anxiety"
+   ]
+  },
+  {
+   "sno": 6045,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Vishal"
+    ],
+    "3": [
+     "Jasleen",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: calming with slow breaths before going on [Action]",
+   "description": "Before the dance, a girl breathes in slowly for four counts and out for four. The teacher taught the group, and it helps her heart slow down and her hands steady.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, task decomposition",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 6046,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Nazia",
+     "Chaitanya"
+    ],
+    "3": [
+     "Sangeeta",
+     "Himani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: planning what to do if she forgets a line [Thinking]",
+   "description": "A child asks what if I forget. She and her teacher decide she will pause, take a breath, and look at the friend who has the next line, so a slip need not stop the show.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, task decomposition",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 6047,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Suraj"
+    ],
+    "3": [
+     "Wasim",
+     "Manjula"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: recording a practice and noticing mistakes [Revision]",
+   "description": "A boy records his speech on his mother's phone and finds he speaks too fast and mumbles the end. He adjusts by pausing after each sentence and re-records to compare.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation, task decomposition"
+   ]
+  },
+  {
+   "sno": 6048,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sarika",
+     "Hansa"
+    ],
+    "3": [
+     "Harsha",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a school performance",
+   "subtype": "Approach: continuing smoothly after a mistake on stage [Revision]",
+   "description": "During the show a girl mixes up a step in the dance. She smiles, picks up the beat and joins the next move, and most of the audience never notices the slip.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation, task decomposition"
+   ]
+  },
+  {
+   "sno": 6049,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Mateo",
+     "Emil"
+    ],
+    "3": [
+     "Nilesh",
+     "Hafsa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: finding out the topics and format first [Thinking]",
+   "description": "A boy learns that the inter-school quiz covers general knowledge, science and sports, with buzzer rounds. Knowing the format tells him what to prepare and how quickly he must answer.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6050,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Ramesh"
+    ],
+    "3": [
+     "Dalia",
+     "Marek"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for a quiz competition",
+   "subtype": "Approach: reading widely from newspapers and books [Action]",
+   "description": "A girl reads the children's page of the newspaper each day and a general knowledge book at night. She keeps a notebook of new facts about places, people and records.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, buffer and slack, impulsive action"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4529,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Ankita"
+    ],
+    "4": [
+     "Hansa",
+     "Pankaj"
+    ],
+    "5": [
+     "Kashish",
+     "Anjali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Tics",
+   "subtype": "Involuntary movements or sounds [Actor]",
+   "description": "A child blinks, sniffs or makes sounds they cannot fully control, with urges that build before them. Tics often rise with stress and excitement and fall when absorbed, and shame makes them worse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: shame, excitement"
+   ]
+  },
+  {
+   "sno": 4530,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Rashmi",
+     "Manoj"
+    ],
+    "4": [
+     "Charu",
+     "Kalyani"
+    ],
+    "5": [
+     "Bilal",
+     "Tomas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Tics",
+   "subtype": "Classmates staring or mimicking [Receiver]",
+   "description": "A child with tics feels hurt by stares and jokes. Teachers who explain briefly that it is not a choice and stop mocking help, and friends can simply carry on as normal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4531,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Harish"
+    ],
+    "4": [
+     "Vijay",
+     "Tarun"
+    ],
+    "5": [
+     "Jagdish",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Tics",
+   "subtype": "Managing in public [Actor]",
+   "description": "A teenager may suppress tics at school then release them at home, feeling tired and self-conscious. Not blamed or told to stop, they cope better; a doctor can explain options if tics cause trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: embarrassment, tiredness"
+   ]
+  },
+  {
+   "sno": 4532,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Imran",
+     "Rehana"
+    ],
+    "4": [
+     "Chetan",
+     "Sarika"
+    ],
+    "5": [
+     "Pradeep",
+     "Deepika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Tics",
+   "subtype": "Respectful ignoring [Response]",
+   "description": "A wise friend or colleague does not comment, imitate or ask them to stop, and carries on the conversation. Acknowledging only if the person raises it makes them feel accepted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4533,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Tenzin",
+     "Mridul"
+    ],
+    "4": [
+     "Madhuri",
+     "Abhinav"
+    ],
+    "5": [
+     "Aiko",
+     "Ines"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Worry showing as stomach aches and clinging [Actor]",
+   "description": "A child complains of aches before school, cries at separation and asks many what if questions. The body feels the fear, and calm routines and gentle steps toward the feared thing help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4534,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Valentina",
+     "Santiago"
+    ],
+    "4": [
+     "Mahima",
+     "Gopika"
+    ],
+    "5": [
+     "Dilnaz",
+     "Usha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Avoiding to feel safe [Actor]",
+   "description": "A child refuses sleepovers, birthday parties or exam days because of fear, and feels relief when excused. Relief teaches the brain to avoid more, so supportive small exposures are wiser.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: fear, relief, trust"
+   ]
+  },
+  {
+   "sno": 4535,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Jana",
+     "Ada"
+    ],
+    "4": [
+     "Vaibhav",
+     "Hafsa"
+    ],
+    "5": [
+     "Tejas",
+     "Kishore"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Teacher or parent noticing [Observer]",
+   "description": "An adult sees a child who is very quiet, tearful or constantly seeking reassurance. Gentle questions, a calm tone and a plan with the family avoid both dismissing the worry and feeding it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: sadness, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4536,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Kamal"
+    ],
+    "4": [
+     "Joseph",
+     "Noor"
+    ],
+    "5": [
+     "Deepika",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Constant what-if thoughts [Actor]",
+   "description": "A teenager feels tense, cannot sleep and spirals over grades, health or friends, and may seem irritable. It is more than ordinary nerves when it lasts and limits life, and calls for talking to a counsellor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 4537,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Gabriel",
+     "Esther"
+    ],
+    "4": [
+     "Bhavna",
+     "Kamal"
+    ],
+    "5": [
+     "Mridul",
+     "Tanvir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Responding with steady support [Response]",
+   "description": "A supportive person listens without saying just relax, helps the person take one small step and encourages regular sleep and movement. When anxiety lasts, they help find a qualified professional.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4538,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Sonali"
+    ],
+    "4": [
+     "Divyansh",
+     "Alka"
+    ],
+    "5": [
+     "Imran",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxiety",
+   "subtype": "Overload in transitions [Actor]",
+   "description": "A young adult in a new city or job feels racing thoughts, tight chest and fear of not coping, yet hides it. Sharing with someone and seeking professional help early is a strength, not weakness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

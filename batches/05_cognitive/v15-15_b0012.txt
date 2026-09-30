@@ -1,0 +1,38 @@
+STAGE: cognitive
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R11+T1: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer. TWIST: Set it in a different season or festival period than a typical scene.
+R3+T1: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short). TWIST: Set it in a different season or festival period than a typical scene.
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R5+T1: A diary or journal entry by the protagonist, written the same day, informal. TWIST: Set it in a different season or festival period than a typical scene.
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows describe a thinking mechanism (bias, heuristic, defence mechanism, distortion, motivation, habit). In the passage, show the mechanism operating WITHOUT naming it, so it must be identified from behaviour. The mental_state answer explains why it feels reasonable from the inside. The literal answer names the concrete event. The application answer gives a workable countermeasure. Children's rows show the early form (magical thinking, egocentrism) at their level. Do not label people as having a disorder.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3680, "plan": {"15": "R5"}, "cast": {"15": ["Farida", "Chetan"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Spotlight effect", "subtype": "Reassurance from reality [Response]", "description": "A young professional asks how much she remembers about others' slips, realises people are mostly self-focused, and gives herself permission to speak imperfectly.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22"]}
+{"sno": 3681, "plan": {"15": "R7+T1"}, "cast": {"15": ["Yogesh", "Harsha"]}, "age": "4–6", "topic": "Cognitive Machinery", "subtopic": "Illusion of control", "subtype": "Wishing makes it so [Actor]", "description": "A young child believes that hoping hard or a special ritual can change the roll of a dice or a match result. Feeling in charge is comforting.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 3682, "plan": {"15": "R1+T1"}, "cast": {"15": ["Yash", "Ganga"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Illusion of control", "subtype": "Lucky routines [Actor]", "description": "A child uses a lucky pen, a special seat, or a fixed routine before matches and exams and thinks it affects results. Missing the routine brings real anxiety.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26", "related mind states: anxiety"]}
+{"sno": 3683, "plan": {"15": "R11+T1"}, "cast": {"15": ["Tenzin", "Gopika"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Illusion of control", "subtype": "Games of chance [Actor]", "description": "A teenager thinks that choosing his own lottery number or lucky scratch card gives him better odds. Effort and choice feel like they influence pure chance.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26", "related mind states: detachment"]}
+{"sno": 3684, "plan": {"15": "R9+T1"}, "cast": {"15": ["Yogesh", "Ganga"]}, "age": "18–22", "topic": "Cognitive Machinery", "subtopic": "Illusion of control", "subtype": "Gambling and trading traps [Actor]", "description": "A young adult believes skill or a system will beat random outcomes, doubling down after losses. Feeling of control keeps him playing when odds are against him.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"]}
+{"sno": 3685, "plan": {"15": "R9"}, "cast": {"15": ["Simran", "Siddharth"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Illusion of control", "subtype": "Separating skill from luck [Response]", "description": "A wise person asks which parts of an outcome she truly controls, invests effort there, and accepts the random remainder without superstition or self-blame.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"]}
+{"sno": 3686, "plan": {"15": "R3+T1"}, "cast": {"15": ["Vishal", "Hafsa"]}, "age": "7–12", "topic": "Cognitive Machinery", "subtopic": "Gambler's fallacy", "subtype": "It is due to change [Actor]", "description": "A child flipping a coin says tails must come next after five heads. He believes chance has a memory and balances itself out.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 3687, "plan": {"15": "R3+T1"}, "cast": {"15": ["Farida", "Nikita"]}, "age": "13–17", "topic": "Cognitive Machinery", "subtopic": "Gambler's fallacy", "subtype": "Match and cards thinking [Actor]", "description": "A teenager believes a team or a card must turn up after a long run, and bets friendly stakes on it. Each independent event has no memory of the last.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26"]}
+{"sno": 3688, "plan": {"15": "R5+T1"}, "cast": {"15": ["Indu", "Jaya"]}, "age": "18–22", "topic": "Cognitive Machinery", "subtopic": "Gambler's fallacy", "subtype": "Money and games [Actor]", "description": "A young adult keeps betting because a win is due after a losing streak, and losses grow. Random streaks do not correct themselves on demand.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 3689, "plan": {"15": "R1"}, "cast": {"15": ["Bhupen", "Binita"]}, "age": "23–26", "topic": "Cognitive Machinery", "subtopic": "Gambler's fallacy", "subtype": "Watching a friend chase losses [Observer]", "description": "A friend notices someone betting more after each loss, saying his luck will turn. Kind, direct concern and suggesting help matter more than a lecture on probability.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22"]}
+
+Return exactly 10 JSON Lines and nothing else.

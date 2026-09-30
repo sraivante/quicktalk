@@ -1,0 +1,332 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2918,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Pankaj"
+    ],
+    "4": [
+     "Jeevan",
+     "Shreya"
+    ],
+    "5": [
+     "Raghav",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 5: One person moves first [Response]",
+   "description": "A private, brief message such as \"That got out of hand. Can we talk tomorrow, just us?\" moves the argument out of the audience. Speaking face to face, away from the group, removes most of the fuel.",
+   "graph_context": [
+    "previous stage: Exhaustion and second thoughts",
+    "next stage: Owning your part, not the whole",
+    "this subtopic also appears at ages: 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 2919,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Nilesh",
+     "Tarun"
+    ],
+    "4": [
+     "Damini",
+     "Tarun"
+    ],
+    "5": [
+     "Shankar",
+     "Parul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 6: Owning your part, not the whole [Response]",
+   "description": "Each says what they regret without demanding the other apologise first. A mature repair keeps friendship above who started it, and the group cools when the two of them do.",
+   "graph_context": [
+    "previous stage: One person moves first",
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 2920,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Ishita"
+    ],
+    "4": [
+     "Tanvir",
+     "Bhavna"
+    ],
+    "5": [
+     "Noa",
+     "Esther"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 1: Spark over a small thing [Actor]",
+   "description": "A flatmate finds dishes piled up for the third day and mutters a sarcastic remark. The dishes are not the real issue; it is a feeling of not being respected that has been building quietly.",
+   "graph_context": [
+    "next stage: Defensive reply",
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2921,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jomon",
+     "Manoj"
+    ],
+    "4": [
+     "Noor",
+     "Suraj"
+    ],
+    "5": [
+     "Eshaan",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 2: Defensive reply [Receiver]",
+   "description": "The other flatmate hears an attack on his character and answers with a list of what he has already done. He is protecting his self-image, so the complaint becomes a trial rather than a request.",
+   "graph_context": [
+    "previous stage: Spark over a small thing",
+    "next stage: Generalising and mind-reading",
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 2922,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Tejas"
+    ],
+    "4": [
+     "Neelam",
+     "Ganga"
+    ],
+    "5": [
+     "Francis",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 3: Generalising and mind-reading [Actor]",
+   "description": "Statements become \"you just don't care\" and \"you think you are better than us\". Each person assigns motives to the other and hears them as fact, which makes any denial sound like another lie.",
+   "graph_context": [
+    "previous stage: Defensive reply",
+    "next stage: Peak and point of no return",
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related concepts: denial"
+   ]
+  },
+  {
+   "sno": 2923,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Mehak"
+    ],
+    "4": [
+     "Arnab",
+     "Mehak"
+    ],
+    "5": [
+     "Shreya",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 4: Peak and point of no return [Actor]",
+   "description": "A cruel remark lands on a known sore spot, such as money, family or failure. Both feel a flash of shame and anger, and some part of them knows it was too far but pride blocks taking it back.",
+   "graph_context": [
+    "previous stage: Generalising and mind-reading",
+    "next stage: Calling a time-out",
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: anger, shame, pride"
+   ]
+  },
+  {
+   "sno": 2924,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Shankar",
+     "Indu"
+    ],
+    "4": [
+     "Mridul",
+     "Shalini"
+    ],
+    "5": [
+     "Yogesh",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 5: Calling a time-out [Response]",
+   "description": "One person says \"I am too angry to talk well; can we continue in an hour?\" and actually returns. A stated pause with a return time is very different from storming off, which reads as punishment.",
+   "graph_context": [
+    "previous stage: Peak and point of no return",
+    "next stage: Repair and one concrete agreement",
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2925,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Maria",
+     "Chandrika"
+    ],
+    "4": [
+     "Emeka",
+     "Fatima"
+    ],
+    "5": [
+     "Ankita",
+     "Ganga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 6: Repair and one concrete agreement [Response]",
+   "description": "On returning, each restates the other's point before their own and owns their harshest words. They leave with one small practical agreement, like a rota, because a shared plan holds better than a shared feeling.",
+   "graph_context": [
+    "previous stage: Calling a time-out",
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 2926,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kishore",
+     "Vidya"
+    ],
+    "4": [
+     "Sachin",
+     "Ankita"
+    ],
+    "5": [
+     "Eshaan",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 1: Rising unmet need [Actor]",
+   "description": "One partner feels the relationship slipping and craves reassurance and a proper talk. Underneath is fear of being left, though it comes out as questions, hints and a sharper tone than intended.",
+   "graph_context": [
+    "next stage: Pursuit",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 2927,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Manoj"
+    ],
+    "4": [
+     "Hemant",
+     "Chinmay"
+    ],
+    "5": [
+     "Sharmila",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Pursue-withdraw cycle",
+   "subtype": "Stage 2: Pursuit [Actor]",
+   "description": "She sends several messages and asks \"what is wrong with us?\" the moment he walks in. She believes closeness is on the other side of the conversation, so more pressing feels like the only way to reach him.",
+   "graph_context": [
+    "previous stage: Rising unmet need",
+    "next stage: Feeling flooded and withdrawing",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  }
+ ]
+}

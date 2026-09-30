@@ -1,0 +1,315 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5482,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R1+T2",
+    "14": "R2+T2"
+   },
+   "cast": {
+    "12": [
+     "Alka",
+     "Lavanya"
+    ],
+    "13": [
+     "Mehak",
+     "Himani"
+    ],
+    "14": [
+     "Swati",
+     "Shalini"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Copying what other children do [Actor]",
+   "description": "A toddler tries a food only after watching another child eat it happily; seeing others act signals to the little one what is safe and worth doing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5483,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Shankar",
+     "Kishore"
+    ],
+    "13": [
+     "Devika",
+     "Lalremsiami"
+    ],
+    "14": [
+     "Aditi",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Following the class trend [Actor]",
+   "description": "A child wants the same bag or game everyone in class has, less from liking it than from the sense that so many people cannot all be wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5484,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Keerthana",
+     "Uma"
+    ],
+    "13": [
+     "Asif",
+     "Deepak"
+    ],
+    "14": [
+     "Naveen",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Everyone else is doing it [Actor]",
+   "description": "A teenager goes along with a risky dare or trend because the whole group seems comfortable, and doubts their own unease; group behaviour outweighs private judgment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 5485,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Tushar",
+     "Swati"
+    ],
+    "13": [
+     "Wasim",
+     "Siddharth"
+    ],
+    "14": [
+     "Pranav",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Crowds and reviews guide choice [Actor]",
+   "description": "A young adult picks the crowded restaurant or the top-rated course by star count without checking, treating popularity as evidence of quality.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5486,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Preeti",
+     "Hemant"
+    ],
+    "13": [
+     "Anand",
+     "Farhan"
+    ],
+    "14": [
+     "Karthik",
+     "Vidya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social proof",
+   "subtype": "Asking whether the crowd knows or just copies [Response]",
+   "description": "An adult asks whether people have real information or are all following each other, and checks with one trusted, independent source before joining.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5487,
+   "plan": {
+    "12": "R9+T1",
+    "13": "R13+T1",
+    "14": "R14+T1"
+   },
+   "cast": {
+    "12": [
+     "Kunal",
+     "Lalit"
+    ],
+    "13": [
+     "Ishita",
+     "Karthik"
+    ],
+    "14": [
+     "Rashmi",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Availability cascade",
+   "subtype": "Playground story grows with each telling [Actor]",
+   "description": "A child hears from many classmates that the old tree is haunted and believes it more after each retelling; repetition makes an idea feel true and important.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5488,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Arnab",
+     "Lalremsiami"
+    ],
+    "13": [
+     "Nilesh",
+     "Harsha"
+    ],
+    "14": [
+     "Sahil",
+     "Bhavna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Availability cascade",
+   "subtype": "Rumour about a teacher spreads [Observer]",
+   "description": "A student sees a rumour about a teacher spread through school until everyone treats it as fact; every repetition makes it feel more believable and harder to question.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5489,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Rashmi",
+     "Joseph"
+    ],
+    "13": [
+     "Emeka",
+     "Ines"
+    ],
+    "14": [
+     "Dilnaz",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Availability cascade",
+   "subtype": "Forwarding a scare message [Actor]",
+   "description": "A young adult forwards an alarming health or safety message because many others have; how often they see it is taken as proof, and doubters feel cold or careless.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 5490,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Aparna",
+     "Darshan"
+    ],
+    "13": [
+     "Payal",
+     "Joseph"
+    ],
+    "14": [
+     "Rajni",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Availability cascade",
+   "subtype": "Vivid story drives neighbourhood panic [Observer]",
+   "description": "An adult sees one dramatic news story about a rare event push the whole locality into over-caution while common everyday risks are ignored.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5491,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Nikita",
+     "Sarika"
+    ],
+    "13": [
+     "Sharmila",
+     "Dilnaz"
+    ],
+    "14": [
+     "Uma",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Availability cascade",
+   "subtype": "Checking source and base rate before spreading [Response]",
+   "description": "An adult traces a claim to its original source, asks how common the thing really is, and stops the chain by not forwarding, gently explaining why to worried relatives.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,193 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 261,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Harish",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Coping",
+   "subtopic": "Attention Training",
+   "subtype": "Mindfulness, Meditation & Focus",
+   "description": "Training attention through breath, silence and reduced multitasking.",
+   "graph_context": [
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 262,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Sofia",
+     "Gabriel"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Physical",
+   "subtopic": "Circadian & Lifestyle",
+   "subtype": "Sleep, Diet & Exercise Discipline",
+   "description": "Building sustainable sleep and eating routines without parental structure."
+  },
+  {
+   "sno": 263,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Devika",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Literacy",
+   "subtype": "Working With AI & Verifying Outputs",
+   "description": "Using AI as a tool for learning and work while keeping own judgment and skill growth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 264,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Omkar",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Digital Privacy",
+   "subtype": "Passwords, Data Rights & Scam Defense",
+   "description": "Protecting accounts, recognizing phishing and understanding data consent."
+  },
+  {
+   "sno": 265,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Vandana",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Attention Economy",
+   "subtype": "Recommendation Feeds & Manipulative Design",
+   "description": "Resisting engagement-maximizing design and consciously curating information intake.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 266,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Hemant",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Digital & Technology",
+   "subtopic": "Online Reputation",
+   "subtype": "Professional Presence & Digital Footprint",
+   "description": "Managing profiles and posts as future employers and partners will see them."
+  },
+  {
+   "sno": 267,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Jatin",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Job Search",
+   "subtype": "Resume, Portfolio & Interview Skills",
+   "description": "Presenting skills and experience clearly and performing under interview pressure.",
+   "graph_context": [
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 268,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Irfan",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Entrepreneurship",
+   "subtype": "Opportunity Recognition & Basic Business Sense",
+   "description": "Spotting unmet needs, testing ideas cheaply and understanding revenue vs. cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 269,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Sabina",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Self-Directed Learning",
+   "subtype": "Upskilling & Learning How to Learn",
+   "description": "Independently acquiring new skills through courses, projects and practice."
+  },
+  {
+   "sno": 270,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Lavanya",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Rejection Resilience",
+   "subtype": "Handling Rejection & Job Uncertainty",
+   "description": "Absorbing repeated rejection, learning from it and continuing."
+  }
+ ]
+}

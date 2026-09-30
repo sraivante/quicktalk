@@ -1,0 +1,312 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3570,
+   "plan": {
+    "12": "R5+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Vikas",
+     "Ritu"
+    ],
+    "13": [
+     "Mohit",
+     "Seema"
+    ],
+    "14": [
+     "Xin",
+     "Nkechi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Favouring the team or idol [Actor]",
+   "description": "A child insists his favourite cricketer is the best and only remembers the matches that prove it. Bad scores are explained away as bad luck or a bad umpire.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3571,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Kunal",
+     "Kishore"
+    ],
+    "13": [
+     "Gargi",
+     "Salma"
+    ],
+    "14": [
+     "Nilesh",
+     "Payal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Searching only for agreeing content [Actor]",
+   "description": "A teenager who has decided a classmate is fake reads every message for proof and skips anything friendly. Feeds and group chats keep serving what already fits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3572,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Seema",
+     "Lalremsiami"
+    ],
+    "13": [
+     "Harish",
+     "Lalremsiami"
+    ],
+    "14": [
+     "Raghav",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Choosing sources that agree [Actor]",
+   "description": "A college student picks articles and seniors' advice that back a decision already made, such as skipping placements, and feels well researched while only collecting agreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3573,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Disha",
+     "Uday"
+    ],
+    "13": [
+     "Hana",
+     "Emeka"
+    ],
+    "14": [
+     "Keerthana",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Noticing it in a friend [Observer]",
+   "description": "A roommate sees a friend dismiss every warning about a shaky startup idea while quoting each encouraging comment. Naming the pattern kindly works better than arguing point by point.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3574,
+   "plan": {
+    "12": "R8",
+    "13": "R9",
+    "14": "R10"
+   },
+   "cast": {
+    "12": [
+     "Nour",
+     "Omar"
+    ],
+    "13": [
+     "Zainab",
+     "Vidya"
+    ],
+    "14": [
+     "Devika",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Hiring or review judgments [Actor]",
+   "description": "A young professional decides early that a new colleague is weak and then reads each small slip as confirmation while ignoring her good work. The first impression quietly steers later evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3575,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R12"
+   },
+   "cast": {
+    "12": [
+     "Hafsa",
+     "Jeevan"
+    ],
+    "13": [
+     "Deepika",
+     "Jaya"
+    ],
+    "14": [
+     "Rajni",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Confirmation bias",
+   "subtype": "Testing your own view [Response]",
+   "description": "A mature worker asks what evidence would change her mind, seeks a smart critic, and reads the best case against her position before committing. Disagreement becomes data instead of insult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3576,
+   "plan": {
+    "12": "R1+T1",
+    "13": "R2+T1",
+    "14": "R3+T1"
+   },
+   "cast": {
+    "12": [
+     "Jaya",
+     "Deepika"
+    ],
+    "13": [
+     "Chaitanya",
+     "Ritu"
+    ],
+    "14": [
+     "Shankar",
+     "Parul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Anchoring",
+   "subtype": "First number sticks [Actor]",
+   "description": "A child bargaining for stickers hears the first price and treats it as the fair baseline. Any lower number feels like a big win even when it is still too high.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 3577,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Mridul",
+     "Sumit"
+    ],
+    "13": [
+     "Pankaj",
+     "Suraj"
+    ],
+    "14": [
+     "Jeevan",
+     "Trisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Anchoring",
+   "subtype": "Marks and rank comparisons [Actor]",
+   "description": "A teenager who scored 70 after a first test of 90 feels terrible, though 70 would have pleased him after a 50. The first result becomes the yardstick for everything after.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3578,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Anand",
+     "Joseph"
+    ],
+    "13": [
+     "Lakshmi",
+     "Afreen"
+    ],
+    "14": [
+     "Anand",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Anchoring",
+   "subtype": "Salary and price anchors [Actor]",
+   "description": "A graduate hears the first offer or the first quoted rent and adjusts too little from it. Even an arbitrary opening figure pulls the final agreement toward itself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3579,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Divyansh",
+     "Madhav"
+    ],
+    "13": [
+     "Pradeep",
+     "Manjula"
+    ],
+    "14": [
+     "Tushar",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Anchoring",
+   "subtype": "Negotiating with anchors [Observer]",
+   "description": "A colleague notices that whoever names the first figure shapes the whole talk. He prepares his own range beforehand and reasons from research, not from the number just heard.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

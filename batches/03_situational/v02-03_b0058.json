@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 888,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Hafsa"
+    ],
+    "3": [
+     "Jagdish",
+     "Tanvir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Parent × Resentment [Actor]",
+   "description": "My parent takes my tablet and I feel furious and cheated. Underneath, I am upset at losing something fun. Negotiating a fixed schedule is better than sneaking screens.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, compassion, dependence, disillusionment, shame",
+    "related mind states: playfulness, anger, resentment"
+   ]
+  },
+  {
+   "sno": 889,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Naveen"
+    ],
+    "3": [
+     "Jasleen",
+     "Tarun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Parent × Concern [Receiver]",
+   "description": "My mother says I look tired and stares at my screen habit. She is worried, not being mean. Listening to her and setting a limit together shows I can take care of myself.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, dependence, disillusionment, resentment, shame",
+    "related mind states: anxiety, tiredness"
+   ]
+  },
+  {
+   "sno": 890,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Chinmay"
+    ],
+    "3": [
+     "Gopika",
+     "Tanuja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Screen × Boredom [Actor]",
+   "description": "When I am bored I grab the phone and scroll. Boredom is where new ideas begin; sometimes I can try drawing, playing outside or reading instead.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, compassion, dependence, disillusionment, resentment, shame",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 891,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Yusuf"
+    ],
+    "3": [
+     "Mohit",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Sibling × Argument [Actor]",
+   "description": "My brother and I fight over the TV remote. Taking turns with a timer, or asking a parent to decide, is fairer than shouting or grabbing.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, dependence, disillusionment, resentment, shame"
+   ]
+  },
+  {
+   "sno": 892,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Reena"
+    ],
+    "3": [
+     "Sabina",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Friend × Dependence [Actor]",
+   "description": "My friends only want to play online now and I feel lonely if I do not join. I can invite them to play outside, and notice how I feel after long screen time.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, compassion, disillusionment, resentment, shame",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 893,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Yamini"
+    ],
+    "3": [
+     "Vishal",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Screen × Shame [Actor]",
+   "description": "I watched something I knew I should not, and I feel embarrassed. Curiosity is normal; telling a trusted adult helps me understand what I saw and feel safe again, without being punished for asking.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, compassion, dependence, disillusionment, resentment",
+    "related mind states: shame, embarrassment, curiosity, trust"
+   ]
+  },
+  {
+   "sno": 894,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Aditi"
+    ],
+    "3": [
+     "Vaibhav",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Too much screen time",
+   "subtype": "Grandparent × Disappointment [Receiver]",
+   "description": "My grandfather says we children never talk to him because of phones. I feel guilty. Putting the phone away for a story-time chat gives us both something we need.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, compassion, dependence, resentment, shame",
+    "related mind states: disappointment, guilt"
+   ]
+  },
+  {
+   "sno": 895,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Ayesha"
+    ],
+    "3": [
+     "Devika",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a pet",
+   "subtype": "Pet × Grief [Actor]",
+   "description": "My dog has died and I cannot stop crying. The hole in my chest is real grief. Crying, talking and making a small memory box are healthy ways to say goodbye.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, guilt",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 896,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Darshan"
+    ],
+    "3": [
+     "Francis",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a pet",
+   "subtype": "Parent × Comfort [Receiver]",
+   "description": "My father hugs me and says it is okay to cry. I feel less alone. I learn that being sad is normal and that sharing it makes the load lighter.",
+   "graph_context": [
+    "same situation, other stances at this age: grief, guilt",
+    "related mind states: affection, sadness"
+   ]
+  },
+  {
+   "sno": 897,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Ujjwal"
+    ],
+    "3": [
+     "Nitin",
+     "Alka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Death of a pet",
+   "subtype": "Friend × Insensitivity [Receiver]",
+   "description": "A friend says, it is only a dog, get a new one. It stings because my pet was family. I can tell him gently that I need time, and turn to people who understand.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, grief, guilt"
+   ]
+  }
+ ]
+}

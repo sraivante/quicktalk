@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 328,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Nikita"
+    ],
+    "3": [
+     "Jyoti",
+     "Afreen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Toy dispute during play",
+   "subtype": "Bully × Fear",
+   "description": "Freezes, cries or gives up the toy; learns to say \"stop\" loudly and tell the teacher instead of hiding it.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, argument, forgiveness, generosity, hurt, trust",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 329,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Sarika",
+     "Raghav"
+    ],
+    "3": [
+     "Payal",
+     "Baljeet"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher corrects behaviour",
+   "subtype": "Teacher × Respect",
+   "description": "Listens, says sorry and tries again; correction is felt as care rather than rejection.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, gratitude, humiliation, resentment, shame, trust",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 330,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Asif",
+     "Deepak"
+    ],
+    "3": [
+     "Keerthana",
+     "Ayesha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher corrects behaviour",
+   "subtype": "Teacher × Fear",
+   "description": "Goes silent and avoids eye contact; harsh handling teaches hiding mistakes instead of fixing them.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, humiliation, resentment, respect, shame, trust",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 331,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Rania",
+     "Valentina"
+    ],
+    "3": [
+     "Yamini",
+     "Alka"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher corrects behaviour",
+   "subtype": "Teacher × Defiance",
+   "description": "Says \"no\" or turns away; testing limits is normal, and calm firm routine reduces it better than shame.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, gratitude, humiliation, resentment, respect, shame",
+    "related mind states: hostility, shame, calm"
+   ]
+  },
+  {
+   "sno": 332,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Mohit"
+    ],
+    "3": [
+     "Pankaj",
+     "Minakshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent refuses a request",
+   "subtype": "Parent × Bargaining",
+   "description": "Tries \"just five minutes\" or \"I'll be good\"; learns that negotiating is useful only when the parent is fair and consistent.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, manipulation, resentment, trust"
+   ]
+  },
+  {
+   "sno": 333,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Daniel",
+     "Tomas"
+    ],
+    "3": [
+     "Seema",
+     "Santosh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Younger sibling cries",
+   "subtype": "Sibling × Care",
+   "description": "Fetches a toy or pats the baby; caring behaviour grows when adults praise the specific action.",
+   "graph_context": [
+    "same situation, other stances at this age: jealousy, neglect, protectiveness"
+   ]
+  },
+  {
+   "sno": 334,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Bhavna"
+    ],
+    "3": [
+     "Jomon",
+     "Arohi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Younger sibling cries",
+   "subtype": "Sibling × Jealousy",
+   "description": "Acts out or wants to be a baby again when parents attend to the newborn; needs reassurance and a special role, not scolding.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, neglect, protectiveness",
+    "related mind states: jealousy"
+   ]
+  },
+  {
+   "sno": 335,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Disha",
+     "Eshaan"
+    ],
+    "3": [
+     "Eshaan",
+     "Kiran"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Receiving a disappointing gift",
+   "subtype": "Relative × Gratitude",
+   "description": "Learns to say thank you even when the gift is not wanted, understanding the giver's intention; honesty can wait for private moments.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, honesty, hurt",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 336,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Seema",
+     "Akash"
+    ],
+    "3": [
+     "Gurpreet",
+     "Kunal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Seeing someone else hurt",
+   "subtype": "Friend × Compassion",
+   "description": "Comforts a crying friend by sitting beside them or getting the teacher; kindness is stronger with a close friend than a stranger.",
+   "graph_context": [
+    "related mind states: sadness, anger, empathy"
+   ]
+  },
+  {
+   "sno": 337,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Selin",
+     "Yuki"
+    ],
+    "3": [
+     "Arnab",
+     "Darshan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Praying or ritual at home",
+   "subtype": "Family deity × Devotion",
+   "description": "Copies folding hands, chanting or lighting a lamp; feels awe and belonging from ritual, without understanding its meaning yet.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, fear, gratitude",
+    "related mind states: awe, nostalgia"
+   ]
+  }
+ ]
+}

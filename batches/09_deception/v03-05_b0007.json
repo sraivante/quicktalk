@@ -1,0 +1,317 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4649,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Mridul",
+     "Sunaina"
+    ],
+    "4": [
+     "Deepak",
+     "Sarita"
+    ],
+    "5": [
+     "Sunaina",
+     "Afreen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Love-bombing",
+   "subtype": "Swept up and feeling chosen [Receiver]",
+   "description": "A young adult receives constant messages, big declarations and talk of destiny and feels seen as never before. The speed leaves little room to learn who the person really is.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4650,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Ira"
+    ],
+    "4": [
+     "Yusuf",
+     "Mahima"
+    ],
+    "5": [
+     "Chinmay",
+     "Damini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Love-bombing",
+   "subtype": "A friend noticing a too-fast bond [Observer]",
+   "description": "A friend sees someone drop other plans, stop seeing them and speak only about a new partner after a week. They gently name what they see and stay available without shaming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4651,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Farida",
+     "Naveen"
+    ],
+    "4": [
+     "Wasim",
+     "Tanuja"
+    ],
+    "5": [
+     "Pema",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Love-bombing",
+   "subtype": "Slowing the pace [Response]",
+   "description": "A person asks for time, keeps friends and routines, and watches how the other reacts to a gentle no. Someone respectful stays warm when the pace is slowed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4652,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Deepika"
+    ],
+    "4": [
+     "Sonali",
+     "Mahima"
+    ],
+    "5": [
+     "Jasleen",
+     "Gurleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Love-bombing",
+   "subtype": "Attention that later turns cold [Receiver]",
+   "description": "After the flood, the attention shrinks into criticism or absence, and the receiver works hard to earn back the early warmth. The gap between the two phases is the mark of the pattern.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection, overwhelm"
+   ]
+  },
+  {
+   "sno": 4653,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Sudha",
+     "Lalit"
+    ],
+    "4": [
+     "Omkar",
+     "Sharmila"
+    ],
+    "5": [
+     "Rehana",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Guilt-tripping",
+   "subtype": "Using hurt to steer [Actor]",
+   "description": "A teenager or parent says after all I have done for you, or I guess I am just a bad friend, so the other person gives in. Real pain is being used as leverage instead of stated as a request.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4654,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Lalit",
+     "Chetan"
+    ],
+    "4": [
+     "Dilnaz",
+     "Yamini"
+    ],
+    "5": [
+     "Pablo",
+     "Clara"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Guilt-tripping",
+   "subtype": "Feeling responsible for another's mood [Receiver]",
+   "description": "A young adult keeps giving in because refusing brings sighs, sulking or reminders of sacrifice. Guilt is sometimes a signal of harm done, and sometimes only a lever.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4655,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Noor"
+    ],
+    "4": [
+     "Chetan",
+     "Disha"
+    ],
+    "5": [
+     "Noor",
+     "Eshaan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Guilt-tripping",
+   "subtype": "Sorting real guilt from pressure [Response]",
+   "description": "A person asks whether they actually wronged the other, and if not, keeps the decision while showing care in words. Compassion and compliance are not the same thing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: guilt, empathy"
+   ]
+  },
+  {
+   "sno": 4656,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Neelam",
+     "Jatin"
+    ],
+    "4": [
+     "Karthik",
+     "Binita"
+    ],
+    "5": [
+     "Farhan",
+     "Payal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Denying what happened [Actor]",
+   "description": "A person insists that an event never occurred or that the other is too sensitive, to avoid blame. Some do it on purpose and others cling to a self-image that cannot bear the truth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4657,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Lavanya",
+     "Shreya"
+    ],
+    "4": [
+     "Pablo",
+     "Elif"
+    ],
+    "5": [
+     "Chandrika",
+     "Abhinav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Parents or peers rewriting events [Receiver]",
+   "description": "A teenager told that a hurtful event never happened, or was a joke, begins to doubt their own feelings. Speaking to a trusted adult outside the situation helps restore trust in their own perception.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: doubt, trust, hurt"
+   ]
+  },
+  {
+   "sno": 4658,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Asif",
+     "Pradeep"
+    ],
+    "4": [
+     "Hrithik",
+     "Urmila"
+    ],
+    "5": [
+     "Sangeeta",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Gaslighting",
+   "subtype": "Doubting one's own memory [Receiver]",
+   "description": "A person told repeatedly that they misremember or overreact begins to trust their own mind less and apologises for things that were not wrong. Confusion and shrinking confidence are the core harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: confusion, doubt, trust"
+   ]
+  }
+ ]
+}

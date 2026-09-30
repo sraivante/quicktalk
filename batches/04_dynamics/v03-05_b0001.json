@@ -1,0 +1,333 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2908,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Swati"
+    ],
+    "4": [
+     "Tuan",
+     "Yosef"
+    ],
+    "5": [
+     "Joseph",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 1: Small trigger [Actor]",
+   "description": "A child sees a friend take the last turn on the swing and feels a hot jolt of unfairness. He says \"That's mine\" louder than needed, already sure the other child did it on purpose.",
+   "graph_context": [
+    "next stage: Blame and counter-blame",
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2909,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Emeka",
+     "Rosa"
+    ],
+    "4": [
+     "Shreya",
+     "Alka"
+    ],
+    "5": [
+     "Nirmala",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 2: Blame and counter-blame [Actor]",
+   "description": "Each child recounts the story so that only the other is at fault. Voices rise, \"you always\" and \"you never\" appear, and neither is listening because both are busy preparing the next defence.",
+   "graph_context": [
+    "previous stage: Small trigger",
+    "next stage: Raising the stakes",
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2910,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Madhav",
+     "Ankita"
+    ],
+    "4": [
+     "Alka",
+     "Rekha"
+    ],
+    "5": [
+     "Irawati",
+     "Seema"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 3: Raising the stakes [Actor]",
+   "description": "Feeling cornered before an audience, the child drags in old grievances and insults the friend's family or looks. Winning starts to matter more than the swing, and the words chosen are meant to hurt.",
+   "graph_context": [
+    "previous stage: Blame and counter-blame",
+    "next stage: Flooding",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: grief, hurt"
+   ]
+  },
+  {
+   "sno": 2911,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Sachin",
+     "Tushar"
+    ],
+    "4": [
+     "Harsha",
+     "Naveen"
+    ],
+    "5": [
+     "Siddharth",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 4: Flooding [Receiver]",
+   "description": "The child on the receiving end has a racing heart and hot face, and can no longer think straight. He either shoves, cries, or storms off, which is the body taking over rather than a considered choice.",
+   "graph_context": [
+    "previous stage: Raising the stakes",
+    "next stage: Adult or peer pause",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 2912,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Gargi",
+     "Madhuri"
+    ],
+    "4": [
+     "Afreen",
+     "Harish"
+    ],
+    "5": [
+     "Shreya",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 5: Adult or peer pause [Response]",
+   "description": "A teacher separates them without ruling on who won, and lets each cool down with water or a walk. Calm comes first; only then does she ask each child for their version and what they were feeling.",
+   "graph_context": [
+    "previous stage: Flooding",
+    "next stage: Naming the need and settling",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2913,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Ramesh"
+    ],
+    "4": [
+     "Seema",
+     "Chetan"
+    ],
+    "5": [
+     "Joseph",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 6: Naming the need and settling [Response]",
+   "description": "Children who have cooled can say \"I felt cheated\" instead of \"you cheat\" and agree a turn-taking rule. The turning point is swapping who is right for what is fair, and both usually feel lighter afterwards.",
+   "graph_context": [
+    "previous stage: Adult or peer pause",
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2914,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Yash",
+     "Binita"
+    ],
+    "4": [
+     "Rafiq",
+     "Vaibhav"
+    ],
+    "5": [
+     "Harsha",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 1: Public teasing meets a raw spot [Receiver]",
+   "description": "In the group chat a teenager is teased about his marks, and it lands on a fear that he is not good enough. He replies quickly, before thinking, because silence would feel like admitting it.",
+   "graph_context": [
+    "next stage: Audience effect",
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 2915,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Anand"
+    ],
+    "4": [
+     "Dilnaz",
+     "Simran"
+    ],
+    "5": [
+     "Rajni",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 2: Audience effect [Observer]",
+   "description": "Classmates start reacting with emojis and screenshots, and the argument becomes a show. Both teens now defend their reputation with an audience watching, which makes backing down feel like a public loss.",
+   "graph_context": [
+    "previous stage: Public teasing meets a raw spot",
+    "next stage: Escalation by allies",
+    "this subtopic also appears at ages: 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 2916,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Ganga",
+     "Devika"
+    ],
+    "4": [
+     "Olga",
+     "Clara"
+    ],
+    "5": [
+     "Pankaj",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 3: Escalation by allies [Observer]",
+   "description": "Friends join in on each side and repeat things said in private. What was a two-person quarrel becomes two camps, and the original hurt is buried under loyalty and taking sides.",
+   "graph_context": [
+    "previous stage: Audience effect",
+    "next stage: Exhaustion and second thoughts",
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2917,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Rukmini"
+    ],
+    "4": [
+     "Divyansh",
+     "Akash"
+    ],
+    "5": [
+     "Anand",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Argument escalation and de-escalation",
+   "subtype": "Stage 4: Exhaustion and second thoughts [Actor]",
+   "description": "After a day of sulking the teen realises he is more hurt about being laughed at than about anything said. The anger drains, and he wonders how to step back without looking weak.",
+   "graph_context": [
+    "previous stage: Escalation by allies",
+    "next stage: One person moves first",
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: amusement, anger, curiosity, tiredness"
+   ]
+  }
+ ]
+}

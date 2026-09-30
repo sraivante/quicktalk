@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1488,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Rehana"
+    ],
+    "3": [
+     "Damini",
+     "Pooja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Interviewer × Rejection [Receiver]",
+   "description": "The polite \"we are moving ahead with other candidates\" mail stings and feels personal. Wise: it is one hiring decision, not a verdict; ask once for feedback, note one fix, apply again. Harmful: stop trying or rehearse it for weeks.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, envy, fear, gratitude"
+   ]
+  },
+  {
+   "sno": 1489,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Karthik"
+    ],
+    "3": [
+     "Tuan",
+     "Bilal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Recruiter × Deceit [Receiver]",
+   "description": "I was told \"you are almost selected\", then heard nothing for weeks. Hope turns to confusion and anger. Wise: do not put life on hold for one offer, keep other applications alive, follow up twice politely, then move on.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, envy, fear, gratitude, rejection",
+    "related mind states: anger, confusion, hope"
+   ]
+  },
+  {
+   "sno": 1490,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Irfan"
+    ],
+    "3": [
+     "Sarika",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Interviewer × Fear [Actor]",
+   "description": "Before the panel my hands are cold and I fear being exposed as not good enough. Wise: prepare a few real stories, breathe, say \"I don't know, but here is how I'd find out\". Harmful: bluffing, which collapses on the next question.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, envy, gratitude, rejection",
+    "related mind states: fear, relief from stress"
+   ]
+  },
+  {
+   "sno": 1491,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Tuan",
+     "Camila"
+    ],
+    "3": [
+     "Sunaina",
+     "Pranav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Batchmate × Envy [Actor]",
+   "description": "My friend got the offer and I did not, and I feel warmth and a sour twist together. Wise: admit the envy privately, congratulate honestly, ask how they prepared. Harmful: quietly hoping they fail or sneering at their company.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, fear, gratitude, rejection",
+    "related mind states: affection, envy"
+   ]
+  },
+  {
+   "sno": 1492,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Nikita"
+    ],
+    "3": [
+     "Thomas",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Batchmate × Rivalry [Actor]",
+   "description": "In a group discussion I see others as obstacles and want to shout them down. Wise: contribute clearly, credit a good point, let the panel see a person who can work with others. Harmful: talking over people to look strong.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, envy, fear, gratitude"
+   ]
+  },
+  {
+   "sno": 1493,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Jin",
+     "Xin"
+    ],
+    "3": [
+     "Wasim",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Parent × Disillusionment [Receiver]",
+   "description": "My parent sighs and says the neighbour's son already has a job. I feel small and angry at once. Wise: hear the worry under the comparison, share my plan with dates, ask for patience. Harmful: shouting or going silent for days.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, envy, fear, gratitude, rejection",
+    "related mind states: anger, anxiety"
+   ]
+  },
+  {
+   "sno": 1494,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Payal"
+    ],
+    "3": [
+     "Shankar",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Friend × Compassion [Receiver]",
+   "description": "A friend sits with me after the rejection and does not rush to fix it. I feel less alone and can breathe again. Wise: accept the kindness, then take one small next step. Harmful: refusing comfort because I feel undeserving.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, disillusionment, envy, fear, gratitude, rejection",
+    "related mind states: empathy, relief from stress"
+   ]
+  },
+  {
+   "sno": 1495,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Pranav"
+    ],
+    "3": [
+     "Himani",
+     "Ojas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Mentor × Gratitude [Actor]",
+   "description": "A senior gave me a mock interview and honest feedback, even though it hurt. I feel thankful and a little embarrassed. Wise: say thank you, apply the feedback, and report back. Harmful: taking the help and vanishing.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, envy, fear, rejection",
+    "related mind states: gratitude, embarrassment, hurt"
+   ]
+  },
+  {
+   "sno": 1496,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Avni",
+     "Akash"
+    ],
+    "3": [
+     "Arohi",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Job interview rejection",
+   "subtype": "Self × Resentment [Actor]",
+   "description": "I blame the system, quotas, connections and English accents, and there may be some truth in it. Wise: name what is unfair without letting it become the whole story, then control what I can. Harmful: bitterness that stops effort.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, deceit, disillusionment, envy, fear, gratitude",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1497,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Manjula"
+    ],
+    "3": [
+     "Anirban",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Abusive employer at work",
+   "subtype": "Boss × Humiliation [Receiver]",
+   "description": "My boss mocks me in front of the team and calls it \"directness\". I feel small, hot-faced and frozen. Wise: it is his conduct, not proof I am worthless; note dates, talk to a trusted senior or HR, and start quietly building exits.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, coercion, dependence, fear, loyalty, manipulation",
+    "related mind states: humiliation, trust"
+   ]
+  }
+ ]
+}

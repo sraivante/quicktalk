@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1988,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Mahima"
+    ],
+    "3": [
+     "Jaya",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Locals × Prejudice [Receiver]",
+   "description": "You face stereotypes, accent mockery or being left out. It hurts and can shake confidence. Name it to yourself, find supportive people, address it calmly when safe, and report discrimination. Their bias is not your defect.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, exploitation, guilt, loneliness",
+    "related mind states: calm, trust, hurt"
+   ]
+  },
+  {
+   "sno": 1989,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Leela",
+     "Parveen"
+    ],
+    "3": [
+     "Bhupen",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "New culture × Curiosity [Actor]",
+   "description": "You explore new customs, foods and ways of working with interest. Adapt where it helps and stay rooted where it matters. Learning does not mean betraying your own culture or copying blindly.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, guilt, loneliness, prejudice",
+    "related mind states: curiosity, interest"
+   ]
+  },
+  {
+   "sno": 1990,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Kamal"
+    ],
+    "3": [
+     "Amandeep",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Parents at home × Guilt [Actor]",
+   "description": "You live far from ageing parents and feel torn between career and duty. Set regular calls, plan visits, arrange local support, and be honest about limits. Guilt without action helps no one, and love can travel.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, exploitation, loneliness, prejudice",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 1991,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Ganga",
+     "Kamal"
+    ],
+    "3": [
+     "Pallavi",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Parents at home × Longing [Receiver]",
+   "description": "Your parents miss you and hide it behind cheerful voices. Ask directly how they are, share your daily life in small ways, and involve them in decisions. Reassurance and real presence when needed matter.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, exploitation, guilt, loneliness, prejudice",
+    "related mind states: joy, nostalgia"
+   ]
+  },
+  {
+   "sno": 1992,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Jahnavi"
+    ],
+    "3": [
+     "Kiran",
+     "Madhuri"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Fellow migrants × Solidarity [Actor]",
+   "description": "People from your region become a lifeline with food, festivals and tips. Enjoy it, but also mix with the wider community, or you may stay in a bubble. Pay forward the help you got to the next newcomer.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, exploitation, guilt, loneliness, prejudice"
+   ]
+  },
+  {
+   "sno": 1993,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Pallavi"
+    ],
+    "3": [
+     "Afreen",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Employer or landlord × Exploitation [Receiver]",
+   "description": "Newcomers with limited rights are exploited via unpaid overtime, withheld passports, and rent tricks. Know your local labour laws, keep copies of documents, contact embassy or legal aid, and never surrender your passport.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, guilt, loneliness, prejudice"
+   ]
+  },
+  {
+   "sno": 1994,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Ujjwal"
+    ],
+    "3": [
+     "Sabina",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving abroad or to a new city",
+   "subtype": "Self × Identity [Actor]",
+   "description": "You wonder who you are between two cultures and feel like you belong to neither. This in-between space can become a strength: a bridge for others. Keep values you choose, practise language, and be patient with yourself.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, exploitation, guilt, loneliness, prejudice",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 1995,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Sami",
+     "Mateo"
+    ],
+    "3": [
+     "Vidya",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Serious illness diagnosis",
+   "subtype": "Doctor × Fear [Actor]",
+   "description": "A serious diagnosis brings fear about the future and family. Bring someone to appointments, write down questions, ask for second opinions, and take it in stages. Panic searching at night rarely helps; trusted sources do.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, comfort, compassion, protectiveness, trust",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 1996,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Darshan",
+     "Kiran"
+    ],
+    "3": [
+     "Wasim",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Serious illness diagnosis",
+   "subtype": "Doctor × Trust [Actor]",
+   "description": "A doctor who explains options honestly earns your trust. Share full information, follow the plan, and ask if you do not understand. Trust is not blind: you are a partner in your treatment.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, comfort, compassion, fear, protectiveness",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1997,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Karthik"
+    ],
+    "3": [
+     "Ojas",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Serious illness diagnosis",
+   "subtype": "Self × Anger [Actor]",
+   "description": "Why me feels bitter and unfair, especially at young age. Anger is a natural response to loss of control. Let it out safely through talk, writing or movement, and avoid taking it out on those caring for you.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, comfort, compassion, fear, protectiveness, trust",
+    "related mind states: anger, resentment, trust"
+   ]
+  }
+ ]
+}

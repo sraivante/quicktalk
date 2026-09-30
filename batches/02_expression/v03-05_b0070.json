@@ -1,0 +1,320 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2752,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Parveen",
+     "Pankaj"
+    ],
+    "4": [
+     "Varun",
+     "Vidya"
+    ],
+    "5": [
+     "Harsha",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Processions and ceremonial movement [Interpreting]",
+   "description": "A young adult reads a wedding baraat, a religious procession, a graduation march or a funeral cortege as marking joy, devotion or loss. Meaning is set by tradition, so an outsider observes respectfully and asks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: joy, admiration"
+   ]
+  },
+  {
+   "sno": 2753,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Bhavna"
+    ],
+    "4": [
+     "Shankar",
+     "Devika"
+    ],
+    "5": [
+     "Rehana",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Public demonstrations and peaceful protest [Expressing]",
+   "description": "A young adult joins a march or rally to voice concern about a cause, using chants, slogans and processions. Peaceful protest is a form of expression, and staying aware of safety, rules and exit routes protects participants.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 2754,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Baljeet",
+     "Rukmini"
+    ],
+    "4": [
+     "Pooja",
+     "Anjali"
+    ],
+    "5": [
+     "Lavanya",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Grateful, welcoming and joyful in new communities [Interpreting]",
+   "description": "A young adult in a hostel or new city reads invitations, sweets shared and thanks as signs of welcome. Reading them warmly builds friendships, and cultural custom shapes how gratitude is voiced.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: joy, gratitude"
+   ]
+  },
+  {
+   "sno": 2755,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Sahil"
+    ],
+    "4": [
+     "Madhav",
+     "Mridul"
+    ],
+    "5": [
+     "Mehak",
+     "Vandana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Loving and admiring in adult relationships [Expressing]",
+   "description": "A young adult shows love through time, help, messages and shared plans, and admiration by learning from mentors. Love styles differ, so asking what feels caring is better than assuming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 2756,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Aadhya",
+     "Irfan"
+    ],
+    "4": [
+     "Siddiq",
+     "Valentina"
+    ],
+    "5": [
+     "Dolma",
+     "Naveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Grieving and sorrowful away from home [Regulating]",
+   "description": "A young adult grieving a loss far from family may feel isolated and put on a brave face. Reaching out, marking the loss through ritual and talking to friends or a counsellor supports healing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness, grief, loneliness"
+   ]
+  },
+  {
+   "sno": 2757,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Pankaj",
+     "Abhinav"
+    ],
+    "4": [
+     "Kiran",
+     "Kamal"
+    ],
+    "5": [
+     "Nkechi",
+     "Wanjiru"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Angry and irritated in shared living and study [Regulating]",
+   "description": "A young adult with a difficult roommate or group project feels irritation building. Naming the issue early, using calm words and taking breaks prevents small annoyances from becoming conflict.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 2758,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Damini"
+    ],
+    "4": [
+     "Santosh",
+     "Salma"
+    ],
+    "5": [
+     "Zubin",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Fearful and alarmed in unsafe situations [Interpreting]",
+   "description": "A young adult notices a gut sense of danger, such as being followed or pressured. Feelings are cues, not proof, but moving to a public place, asking for help and leaving are all sound steps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, fear, trust"
+   ]
+  },
+  {
+   "sno": 2759,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Yusuf",
+     "Rekha"
+    ],
+    "4": [
+     "Yusuf",
+     "Mridul"
+    ],
+    "5": [
+     "Pallavi",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Sympathetic and reassuring toward peers [Expressing]",
+   "description": "A young adult listens, sits with a distressed friend and avoids quick fixes or judging. Support can be more useful than advice, and serious risk means involving professional help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 2760,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Tushar",
+     "Dilnaz"
+    ],
+    "4": [
+     "Jyoti",
+     "Parveen"
+    ],
+    "5": [
+     "Bilal",
+     "Mateo"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Puzzled and confused in video calls [Mismatch]",
+   "description": "A young adult on a video call may freeze, look away or stay muted while thinking, lagging or confused. Missing visual cues online means checking in with words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2761,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Preeti",
+     "Aparna"
+    ],
+    "4": [
+     "Yamini",
+     "Sarita"
+    ],
+    "5": [
+     "Keerthana",
+     "Darshan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Skeptical and questioning in learning [Regulating]",
+   "description": "A young adult questions sources, methods and claims in class or online. Skeptical reasoning is a strength when it is fair and curious, and stubborn cynicism is a pitfall.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: curiosity, doubt"
+   ]
+  }
+ ]
+}

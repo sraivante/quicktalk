@@ -1,0 +1,318 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4469,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Manoj",
+     "Pranav"
+    ],
+    "4": [
+     "Disha",
+     "Ujjwal"
+    ],
+    "5": [
+     "Parul",
+     "Samir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Impulsivity",
+   "subtype": "Living for the moment with costs [Actor]",
+   "description": "A young adult quits a job in anger, spends the month's money in a week or ends a relationship in a flash. Excitement or upset drives the decision; building a delay habit and support saves regret.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, excitement, regret"
+   ]
+  },
+  {
+   "sno": 4470,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Pranav",
+     "Ishita"
+    ],
+    "4": [
+     "Rekha",
+     "Kiran"
+    ],
+    "5": [
+     "Tuan",
+     "Bilal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Impulsivity",
+   "subtype": "Partner coping with rash decisions [Receiver]",
+   "description": "A partner or family member sees repeated sudden choices that affect shared money or plans and feels anxious. Calm agreements about big decisions, without contempt, help; persistent trouble deserves professional guidance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: contempt, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4471,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Bhupen",
+     "Rajni"
+    ],
+    "4": [
+     "Dalia",
+     "Selin"
+    ],
+    "5": [
+     "Sonali",
+     "Rehana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Patience",
+   "subtype": "Waiting is very hard [Actor]",
+   "description": "A child cries when a treat is delayed and asks are we there yet repeatedly. Patience grows with age and with adults who make waiting concrete through timers, songs and small games.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4472,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Mridul",
+     "Jaya"
+    ],
+    "4": [
+     "Vasudha",
+     "Sumit"
+    ],
+    "5": [
+     "Anirban",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Patience",
+   "subtype": "Learning to delay reward [Actor]",
+   "description": "A child begins to save pocket money for a toy or wait a turn without complaint. Realises that waiting can bring more, and enjoys the pride of having managed it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4473,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Vaibhav"
+    ],
+    "4": [
+     "Jagdish",
+     "Kishore"
+    ],
+    "5": [
+     "Divyansh",
+     "Kiran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Patience",
+   "subtype": "Impatience with slow progress [Actor]",
+   "description": "A teenager wants instant results in fitness, skills or friendships and gives up when improvement is slow. Seeing progress in small steps and comparing to their own earlier self builds patience.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 4474,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Vidya"
+    ],
+    "4": [
+     "Ojas",
+     "Ramesh"
+    ],
+    "5": [
+     "Farhan",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Patience",
+   "subtype": "Patient with people and processes [Response]",
+   "description": "A wise adult stays calm with a slow learner, a long process or a difficult relative, knowing pushing rarely speeds growth. Patience is not passivity; it is choosing pace with purpose.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4475,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Sonali",
+     "Ojas"
+    ],
+    "4": [
+     "Harsha",
+     "Bhavna"
+    ],
+    "5": [
+     "Tenzin",
+     "Tejas"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Emotional intensity",
+   "subtype": "Big feelings in a small body [Actor]",
+   "description": "A toddler screams with joy or falls to the floor in rage over small things and cannot yet calm alone. Intensity is a temperament, and calm adult presence is the way children learn to settle.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: joy, anger, calm"
+   ]
+  },
+  {
+   "sno": 4476,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Yusuf",
+     "Tenzin"
+    ],
+    "4": [
+     "Mridul",
+     "Jeevan"
+    ],
+    "5": [
+     "Akash",
+     "Tushar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Emotional intensity",
+   "subtype": "Feeling everything strongly [Actor]",
+   "description": "A child loves fiercely, gets crushed by teasing and has long, loud upsets. Naming feelings and teaching ways to cool down turn intensity into passion rather than trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4477,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Hafsa",
+     "Aditi"
+    ],
+    "4": [
+     "Anand",
+     "Joseph"
+    ],
+    "5": [
+     "Hemant",
+     "Vasudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Emotional intensity",
+   "subtype": "Highs and lows in adolescence [Actor]",
+   "description": "A teenager feels intense crushes, rage at unfairness and deep sadness, sometimes within one day. Hormones and a developing brain amplify emotion; it is often normal but needs steady adults.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22",
+    "related mind states: sadness, anger"
+   ]
+  },
+  {
+   "sno": 4478,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Gurpreet",
+     "Zainab"
+    ],
+    "4": [
+     "Yusuf",
+     "Noor"
+    ],
+    "5": [
+     "Omar",
+     "Gabriel"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Emotional intensity",
+   "subtype": "Family reacting to big emotions [Receiver]",
+   "description": "A parent or sibling faces slammed doors and dramatic outbursts and feels walked on. Staying calm, holding limits on behaviour and talking after feelings settle keeps connection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3569,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Avni",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Majority and minority influence",
+   "subtype": "Majority protecting minority voices [Response]",
+   "description": "A leader or peer in the majority asks the quiet or different member for their view and credits them. Giving a minority real airtime improves decisions and belonging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

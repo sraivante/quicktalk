@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7241,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vikas",
+     "Zainab"
+    ],
+    "3": [
+     "Suraj",
+     "Samir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: writing down key points as a script [Action]",
+   "description": "He writes a short outline including thanks, the decision, the reasons and what he asks in return. He does not read it out, but it keeps him from freezing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 7242,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Neelam"
+    ],
+    "3": [
+     "Trisha",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: putting it off until the last moment [Pitfall]",
+   "description": "She delays telling her parents about her plan to move abroad, and they hear it from a relative. The news lands worse, and trust is hurt more than the decision itself.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 7243,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Zainab"
+    ],
+    "3": [
+     "Chetan",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: speaking impulsively in anger [Pitfall]",
+   "description": "After a small quarrel, he blurts out a long-held complaint about his parents' interference. Hurtful words are exchanged, and the real request gets lost in the noise.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 7244,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Chidi",
+     "Yuki"
+    ],
+    "3": [
+     "Minakshi",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: over-rehearsing until it sounds scripted [Pitfall]",
+   "description": "She memorises exact lines and when her mother responds differently, she keeps to the script. The talk feels cold, and she misses signs of her mother's real worry.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 7245,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Vijay"
+    ],
+    "3": [
+     "Imran",
+     "Salma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: sleeping on it and planning a follow-up talk [Revision]",
+   "description": "When the first talk becomes heated, he says let us continue tomorrow. The next day, both are calmer and reach a plan, showing that a difficult conversation can be split across several days.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 7246,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Lakshmi",
+     "Ujjwal"
+    ],
+    "3": [
+     "Pema",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a difficult conversation",
+   "subtype": "Approach: asking a trusted friend or counsellor to help prepare [Action]",
+   "description": "She talks through her plan with a friend who asks what her parents fear, which she had not considered. She adds a reassurance about visits to her message.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 7247,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Sachin"
+    ],
+    "3": [
+     "Eshaan",
+     "Urmila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Launching startup with limited runway",
+   "subtype": "Approach: working backward from months of cash left [Thinking]",
+   "description": "A founder with savings for nine months counts back from the last salary date and asks what must be proven by month six to raise money. Every task is then judged against that date.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, copying without fit, minimum viable version, pre-mortem, seeking advice"
+   ]
+  },
+  {
+   "sno": 7248,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Tejas"
+    ],
+    "3": [
+     "Keerthana",
+     "Anand"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Launching startup with limited runway",
+   "subtype": "Approach: building a minimum viable version in six weeks [Action]",
+   "description": "Two founders ship a bare-bones invoicing tool for Kirana shops using no-code tools, and put it in front of twenty shop owners in Lucknow before writing any custom backend.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, copying without fit, pre-mortem, seeking advice, working backward"
+   ]
+  },
+  {
+   "sno": 7249,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Divyansh",
+     "Neelam"
+    ],
+    "3": [
+     "Ojas",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Launching startup with limited runway",
+   "subtype": "Approach: polishing the product before showing anyone [Pitfall]",
+   "description": "A founder keeps refining the app design for five months out of fear of a weak first impression. Cash drains while no real customer feedback arrives, and the runway shrinks to three months.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, copying without fit, minimum viable version, pre-mortem, seeking advice",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7250,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Ojas",
+     "Uday"
+    ],
+    "3": [
+     "Anjali",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Launching startup with limited runway",
+   "subtype": "Approach: weekly burn review with a kill threshold [Revision]",
+   "description": "After each Friday the founders compare spending with signups. When cash falls below four months with no paying user, they cut the paid tools and freelancers and shift to selling personally.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, contingency planning, copying without fit, minimum viable version, pre-mortem, seeking advice"
+   ]
+  }
+ ]
+}

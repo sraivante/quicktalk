@@ -1,0 +1,316 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5492,
+   "plan": {
+    "9": "R9",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Mridul",
+     "Sahil"
+    ],
+    "10": [
+     "Mridul",
+     "Vaibhav"
+    ],
+    "11": [
+     "Jasleen",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Top scorer teased [Receiver]",
+   "description": "A child who wins the school prize is mocked as a \"show-off\" by classmates and starts hiding good marks to fit in again.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5493,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Sumit",
+     "Tarun"
+    ],
+    "10": [
+     "Reena",
+     "Vaibhav"
+    ],
+    "11": [
+     "Vandana",
+     "Raghav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Downplaying own success to stay liked [Actor]",
+   "description": "A teenager who gets selected for a national contest plays it down and jokes about it, afraid that pride will make friends turn cold and call them arrogant.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, pride"
+   ]
+  },
+  {
+   "sno": 5494,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Shreya",
+     "Kalyani"
+    ],
+    "10": [
+     "Harsha",
+     "Chandrika"
+    ],
+    "11": [
+     "Vikas",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Cutting down someone who rose [Actor]",
+   "description": "A young adult feels a sting when a peer is praised and finds small faults to mention; envy and fear of being left behind turn admiration into criticism.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration, fear, envy"
+   ]
+  },
+  {
+   "sno": 5495,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Damini",
+     "Suraj"
+    ],
+    "10": [
+     "Akash",
+     "Ankita"
+    ],
+    "11": [
+     "Vijay",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Team sniping at the promoted colleague [Observer]",
+   "description": "A manager sees a team quietly withdraw support from a newly promoted colleague; the group's comfort with equality is threatened when one person moves up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 5496,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Lavanya",
+     "Uday"
+    ],
+    "10": [
+     "Afreen",
+     "Kiran"
+    ],
+    "11": [
+     "Payal",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tall poppy syndrome",
+   "subtype": "Celebrating others and owning envy [Response]",
+   "description": "A person notices their own envy, names it, and instead of undermining the achiever congratulates them and asks what the success shows about their own goals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 5497,
+   "plan": {
+    "9": "R13+T1",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Harsha",
+     "Lokesh"
+    ],
+    "10": [
+     "Lalremsiami",
+     "Yusuf"
+    ],
+    "11": [
+     "Uma",
+     "Rashmi"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "Prefers familiar faces and songs [Actor]",
+   "description": "A toddler is calmed by the lullaby and faces they know and is wary of strangers; familiarity signals safety, so the known simply feels better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, calm, trust"
+   ]
+  },
+  {
+   "sno": 5498,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Saurabh",
+     "Nazia"
+    ],
+    "10": [
+     "Salma",
+     "Yamini"
+    ],
+    "11": [
+     "Manoj",
+     "Mahima"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "A song grows on them [Actor]",
+   "description": "A child who found a tune odd at first begins to love it after hearing it many times at family functions; repeated contact alone raised the liking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5499,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Avni",
+     "Parul"
+    ],
+    "10": [
+     "Imran",
+     "Ishita"
+    ],
+    "11": [
+     "Suraj",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "Warming to a classmate through daily contact [Actor]",
+   "description": "A teenager who disliked a new classmate at first likes them after seeing them daily in the same bus and class; simply being around makes people feel friendlier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5500,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Hafsa",
+     "Noor"
+    ],
+    "10": [
+     "Jasleen",
+     "Chandrika"
+    ],
+    "11": [
+     "Naveen",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "Familiar brand mistaken for a better one [Actor]",
+   "description": "A young adult picks the brand seen in countless adverts and believes it is good, when what they feel is familiarity, not quality.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5501,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Javier",
+     "Thabo"
+    ],
+    "10": [
+     "Nirmala",
+     "Naveen"
+    ],
+    "11": [
+     "Swati",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Mere exposure effect",
+   "subtype": "Widening taste on purpose [Response]",
+   "description": "An adult notices that liking may only be familiarity and deliberately gives unfamiliar music, food or people a few fair tries before deciding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7301,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Vandana"
+    ],
+    "3": [
+     "Afreen",
+     "Jahnavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: resource and budget mapping [Thinking]",
+   "description": "The person lists insurance cover, savings, employer support and government schemes, and estimates the likely cost across months, so financial choices do not add surprise to an already stressful time.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, magical thinking",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 7302,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Ritu"
+    ],
+    "3": [
+     "Ojas",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: avoiding the topic to stay hopeful [Pitfall]",
+   "description": "The family refuses to discuss the seriousness, hoping it will pass. Important talks about care preferences and finances are delayed until an emergency forces rushed decisions.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, magical thinking, resource and budget planning",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 7303,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Jatin"
+    ],
+    "3": [
+     "Madhav",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: planning around caregiver energy [Thinking]",
+   "description": "The person realises that one sibling cannot manage everything and plans rest shifts, hired help for certain hours and time off so that the family can keep going for the long haul.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, magical thinking, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7304,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Elizabeth"
+    ],
+    "3": [
+     "Jomon",
+     "Tarun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: asking the patient about their wishes [Action]",
+   "description": "The family sits with the parent and gently asks how they wish to be treated and informed, so that plans respect the parent's own values instead of being decided over their head.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, resource and budget planning",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 7305,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Rukmini"
+    ],
+    "3": [
+     "Parul",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: revising the plan after treatment response [Revision]",
+   "description": "When the first treatment plan brings side effects, the family talks with the doctor about changes, updates schedules at work and home, and adapts finances rather than sticking to the first plan.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, magical thinking, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7306,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Ujjwal"
+    ],
+    "3": [
+     "Zeenat",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family diagnosis",
+   "subtype": "Approach: seeking support for oneself [Revision]",
+   "description": "After weeks of poor sleep, the young adult notices exhaustion and accepts a friend's suggestion to speak with a counsellor and take short breaks, which helps stable caregiving.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, magical thinking, resource and budget planning",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 7307,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Binita"
+    ],
+    "3": [
+     "Mohit",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: reviewing goals and time horizon [Thinking]",
+   "description": "When the market falls twenty percent, a young investor asks when the money is needed. Funds meant for retirement decades away are treated differently from money for a house in two years.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7308,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Kaito",
+     "Valentina"
+    ],
+    "3": [
+     "Pallavi",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: panic selling at the bottom [Pitfall]",
+   "description": "Watching daily losses and social media fear, the investor sells everything to stop the pain. Later recovery happens without them, and the loss becomes permanent.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 7309,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Mohit",
+     "Jagdish"
+    ],
+    "3": [
+     "Chandrika",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: continuing the monthly SIP [Action]",
+   "description": "The investor keeps the fixed monthly instalment going, on a rule made before the fall, buying more units at lower prices without needing to guess the bottom.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation"
+   ]
+  },
+  {
+   "sno": 7310,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Noor"
+    ],
+    "3": [
+     "Zainab",
+     "Maria"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a market crash",
+   "subtype": "Approach: checking the emergency fund first [Thinking]",
+   "description": "Before any investment decision, the person confirms that six months of expenses sit in safe accounts, so that a job loss would not force selling investments at a loss.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, trial by imitation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

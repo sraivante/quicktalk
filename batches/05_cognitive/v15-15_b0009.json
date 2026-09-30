@@ -1,0 +1,210 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 3650,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Yusuf",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Planning fallacy",
+   "subtype": "Homework will take ten minutes [Actor]",
+   "description": "A child says a project will be quick and starts the night before. He imagines the ideal path and forgets past delays.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3651,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Nandini",
+     "Vandana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Planning fallacy",
+   "subtype": "Exam schedules [Actor]",
+   "description": "A teenager plans to revise the whole syllabus in a weekend and feels shocked when it takes far longer. Past experience is ignored for a bright hopeful picture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hope, surprise"
+   ]
+  },
+  {
+   "sno": 3652,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Binita",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Planning fallacy",
+   "subtype": "Deadlines and thesis [Actor]",
+   "description": "A student underestimates a thesis, a move or an application, then panics near the deadline. Tasks usually take longer than the best-case story suggests.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3653,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Vishal",
+     "Yash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Planning fallacy",
+   "subtype": "Estimating from past cases [Response]",
+   "description": "A mature worker checks how long similar tasks actually took, adds a buffer, and breaks the job into small parts before promising dates.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3654,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Sarika",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Planning fallacy",
+   "subtype": "Team leads and estimates [Observer]",
+   "description": "A lead sees teammates repeatedly give optimistic dates and treats it as a pattern of human thinking, not laziness, by asking for ranges and reviewing past accuracy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 3655,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Jaya",
+     "Payal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Survivorship bias",
+   "subtype": "Only winners are visible [Actor]",
+   "description": "A teenager sees toppers and celebrities who dropped out and succeeded and concludes the path is easy, never seeing the many who tried and quietly failed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3656,
+   "plan": {
+    "15": "R10+T1"
+   },
+   "cast": {
+    "15": [
+     "Tanvir",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Survivorship bias",
+   "subtype": "Success stories as advice [Actor]",
+   "description": "A student copies habits of famous founders without noticing that many people with the same habits failed. The visible sample is not the whole picture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3657,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Nandini",
+     "Minakshi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Survivorship bias",
+   "subtype": "Asking who is missing [Response]",
+   "description": "A thoughtful person asks where the failures are and what the whole group looked like before praising a method, course or strategy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3658,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Harish",
+     "Uday"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Survivorship bias",
+   "subtype": "Old-is-better talk [Observer]",
+   "description": "A young professional hears that old buildings or old habits were better made, and notes that only the durable ones remain to be seen. The weaker ones are gone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3659,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Yash",
+     "Sunaina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Bandwagon effect",
+   "subtype": "Doing what all do [Actor]",
+   "description": "A child wants the toy or game everyone has and changes his taste to match the group. Being included matters more than whether he likes it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

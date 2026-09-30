@@ -1,0 +1,217 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3369,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Trisha",
+     "Chinmay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Obedience to authority",
+   "subtype": "Following a senior's instruction [Actor]",
+   "description": "A new intern or ragging-era junior does what a senior demands to avoid punishment or gain favour. Responsibility feels moved to the person giving the order, which is exactly how harm gets done.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "possibly related concept (heuristic): Milgram-style obedience"
+   ]
+  },
+  {
+   "sno": 3370,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Vikas",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Obedience to authority",
+   "subtype": "Following a boss into a grey area [Actor]",
+   "description": "An employee is asked to backdate a form or smooth a report and complies, telling themselves it is not their decision. Diffused responsibility lets ordinary people do things they would never choose alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "possibly related concept (heuristic): Milgram-style obedience"
+   ]
+  },
+  {
+   "sno": 3371,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Noor",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Obedience to authority",
+   "subtype": "Noticing a colleague's compliance [Observer]",
+   "description": "A colleague sees a peer quietly doing something dubious on instruction. Asking a plain question, is this okay, gives the person space to pause without being accused.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3372,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Amara",
+     "Ines"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Obedience to authority",
+   "subtype": "Refusing an unethical order [Response]",
+   "description": "An adult declines an improper instruction calmly, asks for it in writing, and uses proper channels. Wisdom is knowing that following orders never removes personal responsibility.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm",
+    "possibly related concept (heuristic): Milgram-style obedience"
+   ]
+  },
+  {
+   "sno": 3373,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Ujjwal",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Group game with one plan [Actor]",
+   "description": "Children playing a group game follow the confident child's plan even when a quieter child has a better idea. Nobody checks, because arguing seems to risk the fun and the friendship.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 3374,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Jyoti",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Class committee agreeing too fast [Actor]",
+   "description": "A group of teens planning an event rushes to agree with the loudest member. Nobody wants to spoil the mood, so doubts stay unspoken and a poor plan goes ahead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3375,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Pallavi",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Project team ignoring warning signs [Actor]",
+   "description": "A college project team dismisses a member's concern because the group feels united and confident. Cohesion feels good, so contrary evidence is treated as disloyalty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3376,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Baljeet",
+     "Lakshmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Self-censoring a doubt [Actor]",
+   "description": "A student keeps a reservation to themselves because everyone else looks certain. They assume the others must know better, not realising several others are silent for the same reason.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3377,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Vinita",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Writing doubts before discussing [Response]",
+   "description": "A team member suggests everyone note their concerns privately before the meeting. Collecting views before the group's mood forms keeps quiet voices from being drowned out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3378,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Gautam",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Unanimous meeting, private doubts [Actor]",
+   "description": "A team nods through a plan while each person privately has worries. Later, hallway chats reveal almost everyone had doubts, and the unity was an illusion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, doubt"
+   ]
+  }
+ ]
+}

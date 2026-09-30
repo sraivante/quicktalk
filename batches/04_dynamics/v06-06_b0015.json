@@ -1,0 +1,233 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3048,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Baljeet",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 3: The target's confusion and shame [Receiver]",
+   "description": "The child feels stomach aches before school, thinks it is his fault and hides it from parents for fear of making things worse. Fear and shame make bullying secret, which helps it continue.",
+   "graph_context": [
+    "previous stage: Testing with small acts",
+    "next stage: The bystanders' dilemma",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear, shame, confusion"
+   ]
+  },
+  {
+   "sno": 3049,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 4: The bystanders' dilemma [Observer]",
+   "description": "Classmates feel sorry but fear being next, some laugh to stay safe, and a few even join. Each waits for someone else to act, so a group of kind children can still allow harm.",
+   "graph_context": [
+    "previous stage: The target's confusion and shame",
+    "next stage: An ally breaks the silence",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: amusement, fear, trust"
+   ]
+  },
+  {
+   "sno": 3050,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 5: An ally breaks the silence [Response]",
+   "description": "One child sits beside the target, says \"come play with us\" and tells a teacher afterwards. Standing with the target, and telling an adult, is not tale-telling; it is safe and brave, and it changes the group's mood.",
+   "graph_context": [
+    "previous stage: The bystanders' dilemma",
+    "next stage: Adults act on both sides",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3051,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Kunal",
+     "Joseph"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 6: Adults act on both sides [Response]",
+   "description": "The school protects the target, is firm with the bully and also asks what unmet need drives him. The child who bullied needs consequence and support to learn other ways of getting respect.",
+   "graph_context": [
+    "previous stage: An ally breaks the silence",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3052,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Noor",
+     "Sharmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 1: Status and a group's approval [Actor]",
+   "description": "A teenager who wants to be at the top of the social order finds that mocking someone draws laughs from the group. Group approval is a powerful reward at this age, more so than the target's suffering is a deterrent.",
+   "graph_context": [
+    "next stage: Escalation online and offline",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 3053,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Avni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 2: Escalation online and offline [Actor]",
+   "description": "Mocking moves to edited photos, fake accounts and exclusion from plans. Screens create distance from the victim's face, so cruelty feels lighter to the sender and heavier to the receiver.",
+   "graph_context": [
+    "previous stage: Status and a group's approval",
+    "next stage: The target's withdrawal",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3054,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Naveen",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 3: The target's withdrawal [Receiver]",
+   "description": "The teen stops speaking in class, eats alone and sleeps badly, and may say he is fine. Bullying works by isolating, and the sharpest pain is often the belief that nobody would believe or help.",
+   "graph_context": [
+    "previous stage: Escalation online and offline",
+    "next stage: The bystander's moral tension",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: detachment, loneliness, hurt"
+   ]
+  },
+  {
+   "sno": 3055,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Shreya",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 4: The bystander's moral tension [Observer]",
+   "description": "A classmate feels guilt for laughing once and fear of being targeted if she stops. Small acts such as messaging the target privately or refusing to share the post are real help, and do not require confronting the bully in public.",
+   "graph_context": [
+    "previous stage: The target's withdrawal",
+    "next stage: Reporting and evidence",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: amusement, fear, guilt",
+    "possibly related concept (heuristic): Allyship and how to help a targeted person"
+   ]
+  },
+  {
+   "sno": 3056,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Pradeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 5: Reporting and evidence [Response]",
+   "description": "The target or an ally saves screenshots and tells a parent, teacher or counsellor, who takes it seriously. Reporting is protection and not weakness, and adults must act without making the target pay for having spoken.",
+   "graph_context": [
+    "previous stage: The bystander's moral tension",
+    "next stage: Accountability and repair",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3057,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Ramesh",
+     "Lokesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 6: Accountability and repair [Response]",
+   "description": "The bully faces consequences and a chance to understand harm, ideally with help for what drives the behaviour. The target gets support to regain confidence, and a bystander group learns that silence has a cost.",
+   "graph_context": [
+    "previous stage: Reporting and evidence",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  }
+ ]
+}

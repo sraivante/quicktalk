@@ -1,0 +1,231 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2998,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Nirmala",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 1: Attraction and idealising [Actor]",
+   "description": "A student is drawn to a classmate's humour and confidence and imagines a future from a few conversations. Infatuation fills in the blanks generously, so the person seen is partly the person wished for.",
+   "graph_context": [
+    "next stage: Approach and uncertainty",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 2999,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Nandini",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 2: Approach and uncertainty [Actor]",
+   "description": "He replies to her stories, suggests coffee and reads her texts many times. Under the play is fear of rejection, and small signals such as reply speed feel enormously important.",
+   "graph_context": [
+    "previous stage: Attraction and idealising",
+    "next stage: Getting to know the real person",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3000,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Shreya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 3: Getting to know the real person [Actor]",
+   "description": "As they meet more they see habits, moods and differences in values. The glow fades a little, and the important question shifts from \"do I like how this feels?\" to \"do I like who this is?\".",
+   "graph_context": [
+    "previous stage: Approach and uncertainty",
+    "next stage: The exclusivity question",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3001,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Bao",
+     "Abebe"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 4: The exclusivity question [Response]",
+   "description": "One says \"I would like us to be exclusive. Where do you stand?\" Asking directly risks a no but ends weeks of guessing, and the answer, whichever it is, lets each act on facts.",
+   "graph_context": [
+    "previous stage: Getting to know the real person",
+    "next stage: Meeting families and worlds",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3002,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Uma",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 5: Meeting families and worlds [Observer]",
+   "description": "A friend notices them adjusting to each other's friends, food and family expectations. In many Indian families the question of caste, religion or a future household appears early and tests whether the couple can face the outside together.",
+   "graph_context": [
+    "previous stage: The exclusivity question",
+    "next stage: A grounded commitment",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3003,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Shreya",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 6: A grounded commitment [Response]",
+   "description": "They commit after seeing each other in stress as well as in joy, and speak honestly about goals. Commitment is a decision made with open eyes, not a feeling that simply arrives.",
+   "graph_context": [
+    "previous stage: Meeting families and worlds",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 3004,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Alka",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 1: Spark with practical eyes [Actor]",
+   "description": "A young professional meets someone through friends or a matchmaking family. Attraction is present but tempered by questions on career, city and readiness, so excitement and caution share the same evening.",
+   "graph_context": [
+    "next stage: Building routine and closeness",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: excitement, resentment"
+   ]
+  },
+  {
+   "sno": 3005,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 2: Building routine and closeness [Actor]",
+   "description": "They text morning to night, share meals and start planning weekends. Small acts of dependability such as remembering a deadline matter more now than grand gestures.",
+   "graph_context": [
+    "previous stage: Spark with practical eyes",
+    "next stage: First real friction",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3006,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rafael",
+     "Liam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 3: First real friction [Actor]",
+   "description": "A disagreement over money, time with parents or work travel reveals different expectations. How each behaves in the first real disagreement says more about the future than the honeymoon months.",
+   "graph_context": [
+    "previous stage: Building routine and closeness",
+    "next stage: Fear of loss of freedom",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3007,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Sarita",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 4: Fear of loss of freedom [Actor]",
+   "description": "One becomes quieter as talk of living together nears, feeling both love and a sense of a closing door. Ambivalence is normal; hiding it is the risk, and saying it early is the kinder path.",
+   "graph_context": [
+    "previous stage: First real friction",
+    "next stage: The honest conversation",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection, fear"
+   ]
+  }
+ ]
+}

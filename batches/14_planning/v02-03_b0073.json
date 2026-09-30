@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6481,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Swati"
+    ],
+    "3": [
+     "Manoj",
+     "Dilnaz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: choosing one course and finishing it [Action]",
+   "description": "A student picks a single beginner Python course, sets a goal of one lesson a day, and resists starting other courses until it is completed and a small program of his own is written.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6482,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Jahnavi"
+    ],
+    "3": [
+     "Madhuri",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: learning by building a tiny project [Action]",
+   "description": "A teen wants a quiz app for classmates, so she learns only the loops, lists and input handling needed, looking things up as she gets stuck, and ends with something friends actually use.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6483,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Tarun"
+    ],
+    "3": [
+     "Kiran",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: tutorial hopping without practice [Pitfall]",
+   "description": "A student watches video after video, feels he is learning, but when given a blank editor cannot write even a loop because he only ever followed along and never typed his own code.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6484,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Pallavi"
+    ],
+    "3": [
+     "Imran",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: debugging by reading the error and isolating the cause [Thinking]",
+   "description": "Faced with a crash, a teen reads the error message line by line, comments out half the code to find where it fails, and fixes one thing at a time, checking after each change.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version, trial by imitation",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6485,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Kunal"
+    ],
+    "3": [
+     "Chaitanya",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: copying and pasting code without understanding [Pitfall]",
+   "description": "A student pastes answers from forums until the program runs, but when it needs a small change he cannot modify it, since he never worked out why any line was there.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, minimum viable version, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6486,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Ankita"
+    ],
+    "3": [
+     "Irawati",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: setting a schedule around slow internet and shared device [Thinking]",
+   "description": "A teen with a family phone and patchy data downloads lessons at the library wifi, codes offline on a shared laptop in a fixed evening slot, and plans around those limits instead of ignoring them.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6487,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Maria"
+    ],
+    "3": [
+     "Payal",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: joining a study group for accountability [Action]",
+   "description": "A student teams with two classmates to solve one problem a week, present solutions to each other every Friday, and nudge whoever has skipped, which keeps all three going through dull weeks.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, minimum viable version, trial by imitation",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6488,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Thomas"
+    ],
+    "3": [
+     "Bhavna",
+     "Ishita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: perfectionism stalls the first version [Pitfall]",
+   "description": "A teen keeps restarting her program because the structure feels messy, spends a month on setup and naming, and never reaches a working version she could actually improve.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6489,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Francis",
+     "Vinita"
+    ],
+    "3": [
+     "Divyansh",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: reviewing progress and changing method [Revision]",
+   "description": "After noticing three weeks without new skills, a student reviews what he did, sees he only watched videos, and switches to solving small exercises first and using videos only when stuck.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, copying without fit, minimum viable version, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6490,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Pradeep"
+    ],
+    "3": [
+     "Rashmi",
+     "Jagdish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to code from the internet",
+   "subtype": "Approach: asking for help with a well-formed question [Action]",
+   "description": "Stuck on a bug, a teen writes what she expected, what happened, and what she already tried, then posts it in a learner forum and gets a useful answer within a day.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, adaptive replanning, copying without fit, minimum viable version, trial by imitation"
+   ]
+  }
+ ]
+}

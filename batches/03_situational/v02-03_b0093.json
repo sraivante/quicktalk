@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1238,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vishal",
+     "Aparna"
+    ],
+    "3": [
+     "Eshaan",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Identity and belonging",
+   "subtype": "Peer × Mockery [Receiver]",
+   "description": "Classmates tease me for my accent, name or manner. Wise: I need not shrink; tell a teacher if it continues and find people who value me as I am.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, confusion, curiosity, pride, rejection"
+   ]
+  },
+  {
+   "sno": 1239,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Gopika"
+    ],
+    "3": [
+     "Bhupen",
+     "Charu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Identity and belonging",
+   "subtype": "School × Acceptance [Receiver]",
+   "description": "A teacher or club welcomes me without judgment. I feel deep relief. Wise: hold onto these anchors and pay the kindness forward.",
+   "graph_context": [
+    "same situation, other stances at this age: confusion, curiosity, mockery, pride, rejection",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 1240,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Sumit"
+    ],
+    "3": [
+     "Chinmay",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Identity and belonging",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I feel proud of where I come from, my language and culture. Wise: pride can live alongside curiosity for other people and needn't require putting anyone else down.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, confusion, curiosity, mockery, rejection",
+    "related mind states: curiosity, pride"
+   ]
+  },
+  {
+   "sno": 1241,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Emeka",
+     "Beatriz"
+    ],
+    "3": [
+     "Chandrika",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Identity and belonging",
+   "subtype": "Peer × Curiosity [Actor]",
+   "description": "I meet a classmate whose life is very different from mine. Wise: ask respectfully, listen more than assume, and let differences teach me.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, confusion, mockery, pride, rejection",
+    "related mind states: admiration, curiosity"
+   ]
+  },
+  {
+   "sno": 1242,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Harish"
+    ],
+    "3": [
+     "Kishore",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Peer × Prejudice [Receiver]",
+   "description": "A classmate makes remarks about my caste, religion, region or family income. I feel small and angry. Wise: it is their bias, not my truth; tell a teacher and stay with friends who respect me.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, loyalty, shame",
+    "related mind states: admiration, anger"
+   ]
+  },
+  {
+   "sno": 1243,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Arohi"
+    ],
+    "3": [
+     "Emil",
+     "Astrid"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Institution × Discrimination [Receiver]",
+   "description": "A school rule or official treats my group unfairly. Wise: document facts, ask allies, and use formal complaint routes. Righteous anger is useful when channelled.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, loyalty, prejudice, shame",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1244,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Yogesh",
+     "Kashish"
+    ],
+    "3": [
+     "Ojas",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Self × Prejudice [Actor]",
+   "description": "I notice I hold stereotypes I absorbed at home about another group. Wise: name it, meet real people, and unlearn gradually without self-hate.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, loyalty, shame"
+   ]
+  },
+  {
+   "sno": 1245,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Ritu"
+    ],
+    "3": [
+     "Manjula",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Friend × Loyalty [Actor]",
+   "description": "A friend faces a bigoted remark and I hesitate to speak. Wise: a small stand like saying that isn't okay, or checking on them later, can matter greatly.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, prejudice, shame"
+   ]
+  },
+  {
+   "sno": 1246,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Ojas"
+    ],
+    "3": [
+     "Zainab",
+     "Vinita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Family × Prejudice [Receiver]",
+   "description": "Relatives look down on my friend from another community. Wise: respectfully disagree, don't drop the friend, and accept that changing elders takes time.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, contempt, loyalty, shame",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1247,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Vikas",
+     "Yash"
+    ],
+    "3": [
+     "Zeenat",
+     "Lokesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing prejudice or discrimination",
+   "subtype": "Migrant classmate × Belonging [Receiver]",
+   "description": "I moved to a new city and am teased for my language and food. Wise: keep my roots, learn the local ways gradually, and find one or two allies.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, loyalty, prejudice, shame",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

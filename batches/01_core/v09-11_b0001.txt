@@ -1,0 +1,36 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R13+T1: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day. TWIST: Set it in a different season or festival period than a typical scene.
+R2+T1: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue. TWIST: Set it in a different season or festival period than a typical scene.
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 1, "plan": {"9": "R13+T1", "10": "R1+T1", "11": "R2+T1"}, "cast": {"9": ["Sabina", "Himani"], "10": ["Sunaina", "Alka"], "11": ["Chaitanya", "Eshaan"]}, "age": "1–3", "topic": "Physical", "subtopic": "Motor Control", "subtype": "Gross Motor Skills", "description": "Developing large muscle coordination for standing, walking, climbing, and running."}
+{"sno": 2, "plan": {"9": "R7+T1", "10": "R8+T1", "11": "R12+T1"}, "cast": {"9": ["Mridul", "Tanuja"], "10": ["Santiago", "Ingrid"], "11": ["Charu", "Omkar"]}, "age": "1–3", "topic": "Physical", "subtopic": "Motor Control", "subtype": "Fine Motor Skills", "description": "Refining small muscle movements like a pincer grasp, holding a spoon, or stacking blocks."}
+{"sno": 3, "plan": {"9": "R1+T1", "10": "R2+T1", "11": "R4+T1"}, "cast": {"9": ["Arohi", "Anjali"], "10": ["Uday", "Shreya"], "11": ["Karthik", "Vikas"]}, "age": "1–3", "topic": "Physical", "subtopic": "Motor Control", "subtype": "Balance & Posture", "description": "Gaining core strength to maintain stability while shifting weight and catching oneself."}
+{"sno": 4, "plan": {"9": "R7+T1", "10": "R8+T1", "11": "R12+T1"}, "cast": {"9": ["Sumit", "Vidya"], "10": ["Sofia", "Beatriz"], "11": ["Lavanya", "Pradeep"]}, "age": "1–3", "topic": "Physical / Somatic", "subtopic": "Body Awareness", "subtype": "Interoception & Bodily Signals", "description": "Recognizing internal physical signals like hunger, fatigue, elimination needs, and physical discomfort.", "graph_context": ["related mind states: tiredness"]}
+{"sno": 5, "plan": {"9": "R7+T1", "10": "R8+T1", "11": "R12+T1"}, "cast": {"9": ["Pradeep", "Baljeet"], "10": ["Aiko", "Wanjiru"], "11": ["Ujjwal", "Eshaan"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Language Acquisition", "subtype": "Receptive Language", "description": "Comprehending spoken words and following simple instructions before being able to speak."}
+{"sno": 6, "plan": {"9": "R13+T1", "10": "R1+T1", "11": "R2+T1"}, "cast": {"9": ["Damini", "Farhan"], "10": ["Vishal", "Disha"], "11": ["Mehak", "Sarika"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Language Acquisition", "subtype": "Expressive Language", "description": "Moving from babbling to forming functional words and short sentences to communicate needs."}
+{"sno": 7, "plan": {"9": "R12+T1", "10": "R13+T1", "11": "R1+T1"}, "cast": {"9": ["Zainab", "Ishita"], "10": ["Ojas", "Hemant"], "11": ["Harsha", "Kalyani"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Object Permanence", "subtype": "Visual Tracking", "description": "Following moving objects with the eyes and anticipating where they will reappear."}
+{"sno": 8, "plan": {"9": "R7+T1", "10": "R8+T1", "11": "R12+T1"}, "cast": {"9": ["Jatin", "Vandana"], "10": ["Kwame", "Bao"], "11": ["Uma", "Gurleen"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Object Permanence", "subtype": "Hidden Object Recovery", "description": "Understanding that an object covered by a blanket still exists and searching for it."}
+{"sno": 9, "plan": {"9": "R7+T1", "10": "R8+T1", "11": "R12+T1"}, "cast": {"9": ["Rehana", "Sumit"], "10": ["Paulo", "Mina"], "11": ["Shalini", "Tushar"]}, "age": "1–3", "topic": "Emotional", "subtopic": "Primary Emotions", "subtype": "Joy", "description": "Experiencing delight and positive reactions to playful stimuli.", "graph_context": ["related mind states: joy, playfulness"]}
+{"sno": 10, "plan": {"9": "R1+T1", "10": "R2+T1", "11": "R4+T1"}, "cast": {"9": ["Lokesh", "Urmila"], "10": ["Seema", "Sabina"], "11": ["Pankaj", "Baljeet"]}, "age": "1–3", "topic": "Emotional", "subtopic": "Primary Emotions", "subtype": "Anger", "description": "Expressing frustration when needs are not met or movement is restricted.", "graph_context": ["related mind states: anger"]}
+
+Return exactly 30 JSON Lines and nothing else.

@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6711,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Vaibhav"
+    ],
+    "3": [
+     "Pankaj",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: root-cause analysis with five whys [Thinking]",
+   "description": "A student who failed two courses asks why repeatedly and traces the failure to missed early classes after a family illness and to hesitation in asking for help, not to lack of ability.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, prioritising"
+   ]
+  },
+  {
+   "sno": 6712,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Sharmila"
+    ],
+    "3": [
+     "Rehana",
+     "Varun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: talking honestly with an academic advisor [Action]",
+   "description": "The student meets the advisor, brings the marksheet, explains what happened, and learns about backlog exam dates, credit rules and a lighter course load for the next term.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, prioritising, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6713,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Hrithik"
+    ],
+    "3": [
+     "Deepak",
+     "Saurabh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: avoidance and hiding the result [Pitfall]",
+   "description": "Afraid of family reaction, the student says nothing and skips backlog forms, and the lapsing deadlines make the situation worse than the original failure.",
+   "graph_context": [
+    "same problem, other approaches: checklist, lateral thinking, learning from past failure, prioritising, root cause analysis",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6714,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Zeenat"
+    ],
+    "3": [
+     "Tanuja",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: prioritising the courses needed first [Thinking]",
+   "description": "The student lists which subjects are prerequisites for later courses and which are electives, and clears the prerequisites first because they block progress.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6715,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Ayesha",
+     "Mahima"
+    ],
+    "3": [
+     "Gurleen",
+     "Darshan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: rebuilding routine with small checklists [Action]",
+   "description": "The student starts with a daily checklist of attend class, revise one hour and solve five past questions. Keeping the list small makes it possible to keep on a bad day.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, lateral thinking, learning from past failure, prioritising, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6716,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Amandeep",
+     "Dilnaz"
+    ],
+    "3": [
+     "Kamal",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: overcorrecting with an extreme schedule [Pitfall]",
+   "description": "Determined to make up everything at once, the student plans twelve-hour study days, collapses in the second week and abandons the plan altogether.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, prioritising, root cause analysis",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 6717,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Nitin"
+    ],
+    "3": [
+     "Marek",
+     "Bao"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: learning from past failure patterns [Thinking]",
+   "description": "Looking at past terms, the student notices that marks fall whenever a hobby project or part-time task overlaps with exams, and plans to pause it around exam weeks.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, prioritising, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6718,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Sabina"
+    ],
+    "3": [
+     "Thabo",
+     "Clara"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: seeking support from family and a counsellor [Action]",
+   "description": "The student tells a parent, then uses the campus counselling service to talk through shame and stress, so that the recovery plan is made with support rather than alone.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, prioritising, root cause analysis",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 6719,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Jagdish"
+    ],
+    "3": [
+     "Kunal",
+     "Samir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: reframing failure as a redirect [Thinking]",
+   "description": "The student reframes the failed term as information: the course load was too heavy, and study methods need to change. This makes it possible to plan without self-blame.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, learning from past failure, prioritising, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6720,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Ganga"
+    ],
+    "3": [
+     "Tenzin",
+     "Yash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Recovering from a failed semester",
+   "subtype": "Approach: tracking weekly progress and adjusting [Revision]",
+   "description": "Each Sunday the student checks attendance and test scores against targets, and after three weeks of weak scores in one subject swaps solo study for a peer group.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, checklist, lateral thinking, learning from past failure, prioritising, root cause analysis"
+   ]
+  }
+ ]
+}

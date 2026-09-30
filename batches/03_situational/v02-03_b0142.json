@@ -1,0 +1,271 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1728,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Urmila"
+    ],
+    "3": [
+     "Abhinav",
+     "Asif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Own parents × Understanding [Actor]",
+   "description": "Now a parent myself, I begin to see how hard mine had it and feel new tenderness and sometimes anger. This can soften old grievances; I let it deepen respect while still naming what I will do differently.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: affection, admiration, grief, anger"
+   ]
+  },
+  {
+   "sno": 1729,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Uday"
+    ],
+    "3": [
+     "Tejas",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Child × Identity change [Actor]",
+   "description": "I miss my old freedom and career pace and then feel guilty for missing it. Both the love and the grief are true. I make time for myself without shame and see that a new identity can include the old one.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: affection, grief, shame, guilt"
+   ]
+  },
+  {
+   "sno": 1730,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Jasleen"
+    ],
+    "3": [
+     "Varun",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Spouse × Unequal load [Receiver]",
+   "description": "My partner does not see how much unseen work I carry with the baby and I feel invisible and angry. I name specific tasks and share a list, ask for equal ownership rather than help, and avoid martyrdom.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1731,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Pradeep"
+    ],
+    "3": [
+     "Tanvir",
+     "Rekha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Child × Anxiety about adequacy [Actor]",
+   "description": "I compare my parenting with relatives and social media and feel I am never enough. I remember children need steady, loving, imperfect parents, not perfect ones, and I trust simple routines and my pediatrician.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, guilt, protectiveness",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 1732,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Zeenat"
+    ],
+    "3": [
+     "Shalini",
+     "Sonali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Patience [Actor]",
+   "description": "My toddler tests me repeatedly and I feel my patience thinning. I breathe, lower my voice, and remember the child is learning, not plotting; stepping away safely for a minute beats shouting or hitting.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, guilt, pride, protectiveness",
+    "related mind states: trust, relief from stress"
+   ]
+  },
+  {
+   "sno": 1733,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Sachin"
+    ],
+    "3": [
+     "Aditi",
+     "Afreen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Anger & guilt [Receiver]",
+   "description": "My child is screaming at me in a tantrum and I feel embarrassed and furious in public. I stay calm, keep them safe, and wait it out; the child needs me steady, and I gently repair later if I lost my temper.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, pride, protectiveness",
+    "paired view exists: Actor (S1734)",
+    "related mind states: anger, embarrassment, guilt, calm"
+   ]
+  },
+  {
+   "sno": 1734,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Mehak"
+    ],
+    "3": [
+     "Alejandro",
+     "Yosef"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Guilt [Actor]",
+   "description": "I snapped at my child and now feel awful. Good parents also lose their temper. I apologise simply, name what happened, and reconnect; guilt that drives repair is healthy, guilt that drives overindulgence is not.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, pride, protectiveness",
+    "paired view exists: Receiver (S1733)",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1735,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Nazia"
+    ],
+    "3": [
+     "Jin",
+     "Zeynep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Protectiveness [Receiver]",
+   "description": "My child is being held back or hovered over by an anxious parent. As their parent I feel my own worry shape how I act; I consciously allow small risks so they learn courage and my fear does not become theirs.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, guilt, pride",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 1736,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Nazia"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Rajni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Comparison [Actor]",
+   "description": "I compare my child with cousins or neighbours who walk, read, or score earlier and feel anxious. Children have their own pace; I consult a professional if truly worried, and avoid shaming my child with comparisons.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, guilt, pride, protectiveness",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 1737,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Sudha"
+    ],
+    "3": [
+     "Jagdish",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Raising a young child",
+   "subtype": "Child × Pride [Actor]",
+   "description": "I feel proud of my child and want the world to see them. I praise effort and character more than marks or looks, and avoid living out my own unfulfilled dreams through them.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, comparison, guilt, protectiveness",
+    "related mind states: pride"
+   ]
+  }
+ ]
+}

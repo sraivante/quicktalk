@@ -1,0 +1,260 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7441,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Anand",
+     "Uma"
+    ],
+    "3": [
+     "Simran",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: planning for sustainability and handover [Thinking]",
+   "description": "The person asks who will run the project when they are busy or move away, and trains a local volunteer, arranging small recurring funding so that it does not depend on one person.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning"
+   ]
+  },
+  {
+   "sno": 7442,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Shankar"
+    ],
+    "3": [
+     "Varun",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: imposing an outsider's solution [Pitfall]",
+   "description": "The person builds computer labs in a school without power backup or trained teachers. The equipment sits unused, showing how good intentions without local fit produce little benefit.",
+   "graph_context": [
+    "same problem, other approaches: minimum viable version, values-first planning"
+   ]
+  },
+  {
+   "sno": 7443,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Priscila",
+     "Ulla"
+    ],
+    "3": [
+     "Vinita",
+     "Zainab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: measuring simple outcomes [Action]",
+   "description": "The organiser records attendance, test scores and student feedback each month, using them to decide whether to continue, adjust or stop each activity.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning"
+   ]
+  },
+  {
+   "sno": 7444,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Anjali"
+    ],
+    "3": [
+     "Aditi",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: transparent accounts and legal setup [Action]",
+   "description": "Handling donations, the organiser registers a trust with legal help, keeps clear records and shares accounts with donors, protecting trust and following the law.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7445,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Vidya"
+    ],
+    "3": [
+     "Wasim",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: balancing the project with job and health [Thinking]",
+   "description": "Noticing burnout after three months of late nights, the person limits the project to fixed weekly hours and invites more volunteers, understanding that a purpose lasts only if its carrier does.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning"
+   ]
+  },
+  {
+   "sno": 7446,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Jasleen"
+    ],
+    "3": [
+     "Tanuja",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a legacy or purpose project",
+   "subtype": "Approach: changing direction after evidence [Revision]",
+   "description": "After a year, data shows that the weekend classes reach few girls. The person adds a timing for mothers' approval and a women teacher, adapting the plan to evidence from the community.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, minimum viable version, values-first planning"
+   ]
+  },
+  {
+   "sno": 7447,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Urmila"
+    ],
+    "3": [
+     "Jin",
+     "Clara"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Working backward from the goal",
+   "subtype": "Approach: starts from the finished picture and asks what comes just before it [Thinking]",
+   "description": "A child who wants a built block tower looks at the picture on the box and asks what goes on top, then what goes under that, and so picks the base blocks first.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7448,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Xin",
+     "Nkechi"
+    ],
+    "3": [
+     "Mehak",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Working backward from the goal",
+   "subtype": "Approach: counts back from a fixed date to set small deadlines [Action]",
+   "description": "A girl with a Friday science fair counts back: poster done Thursday, experiment run Tuesday, materials bought Sunday. She writes each date on a sticky note on her desk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7449,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Mohit"
+    ],
+    "3": [
+     "Anjali",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Working backward from the goal",
+   "subtype": "Approach: fixes the target score and derives weekly study targets from it [Thinking]",
+   "description": "A Class 11 student aiming for 90 percent in physics estimates marks needed per unit, sees which chapters lag, and sets weekly chapter and problem counts from the exam date.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7450,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Lalit"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Noor"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Working backward from the goal",
+   "subtype": "Approach: assumes only the last step is known and chains backwards [Pitfall]",
+   "description": "A final-year student wants a product-company job and works back neatly, but never checks whether the earlier steps are actually achievable. The chain looks tidy while the first step stays vague.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

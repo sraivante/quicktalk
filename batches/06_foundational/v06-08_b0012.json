@@ -1,0 +1,316 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5552,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Nilesh"
+    ],
+    "7": [
+     "Asif",
+     "Gurleen"
+    ],
+    "8": [
+     "Darshan",
+     "Sabina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Child fetches the teacher and a bandage [Actor]",
+   "description": "A child sees the same fall, feels sorry, and calmly goes to fetch help; concern with a steady body leads to action instead of shared panic.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 5553,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Kashish"
+    ],
+    "7": [
+     "Naveen",
+     "Vandana"
+    ],
+    "8": [
+     "Sunaina",
+     "Vinita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Overwhelmed by a friend's crisis, then withdrawing [Actor]",
+   "description": "A teenager absorbs a friend's grief, sleeps badly, and starts avoiding the friend out of exhaustion; too much feeling-with can end in pulling away from the one who needs them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: grief, tiredness, detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 5554,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Tanvir",
+     "Kashish"
+    ],
+    "7": [
+     "Parveen",
+     "Sahil"
+    ],
+    "8": [
+     "Vasudha",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Caring role wears the carer down [Actor]",
+   "description": "A nursing or counselling student feels every patient's pain, grows numb and irritable, and wonders if they care less; this is fatigue from over-feeling, not a lack of heart.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: curiosity, tiredness, detachment, awe"
+   ]
+  },
+  {
+   "sno": 5555,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Preeti"
+    ],
+    "7": [
+     "Manjula",
+     "Bidisha"
+    ],
+    "8": [
+     "Neelam",
+     "Elizabeth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Settling first, then helping [Response]",
+   "description": "An adult takes slow breaths, feels warm concern rather than merging with the pain, asks \"what would help?\", and looks after their own rest so care can last.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: relief from stress, hurt"
+   ]
+  },
+  {
+   "sno": 5556,
+   "plan": {
+    "6": "R11",
+    "7": "R12",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Deepika",
+     "Afreen"
+    ],
+    "7": [
+     "Anirban",
+     "Lakshmi"
+    ],
+    "8": [
+     "Gargi",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Noticing a colleague's burnout [Observer]",
+   "description": "A supervisor sees a caregiver grow hard or tearful after too many hard cases and arranges rest, talk and shared load; caring people need care too.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 5557,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Avni"
+    ],
+    "7": [
+     "Eshaan",
+     "Kunal"
+    ],
+    "8": [
+     "Chaitanya",
+     "Tanvir"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Alexithymia",
+   "subtype": "Adult offers words to a child [Observer]",
+   "description": "A parent or teacher says \"your face looks cross, are you upset?\" to help a child name what they feel; simple naming without pressure builds emotional vocabulary.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5558,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Rajni",
+     "Vishal"
+    ],
+    "7": [
+     "Marek",
+     "Yosef"
+    ],
+    "8": [
+     "Zubin",
+     "Dolma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Alexithymia",
+   "subtype": "Feels something but cannot name it [Actor]",
+   "description": "A child says \"I feel weird\" and points to a tight stomach when asked; the feeling is real, but finding the words for it is difficult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5559,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Vidya",
+     "Deepika"
+    ],
+    "7": [
+     "Gurleen",
+     "Vaibhav"
+    ],
+    "8": [
+     "Pranav",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Alexithymia",
+   "subtype": "\"I'm fine\" while clearly not [Actor]",
+   "description": "A teenager answers every question about mood with \"fine\" or \"nothing\", and describes bodily aches more than feelings; they are not cold, they lack the map of words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5560,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R10"
+   },
+   "cast": {
+    "6": [
+     "Javier",
+     "Kofi"
+    ],
+    "7": [
+     "Mahima",
+     "Aditi"
+    ],
+    "8": [
+     "Seema",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Alexithymia",
+   "subtype": "Partner feels shut out [Receiver]",
+   "description": "A person in a close relationship feels the other never says what they feel and takes it as coldness; it may be difficulty naming feelings, not a lack of caring.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5561,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Lalit",
+     "Elizabeth"
+    ],
+    "7": [
+     "Chinmay",
+     "Dhruv"
+    ],
+    "8": [
+     "Devika",
+     "Shreya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Alexithymia",
+   "subtype": "Learning words for feelings with support [Response]",
+   "description": "An adult builds a list of feeling words, notices bodily cues such as a tight chest, writes daily notes, and speaks to a counsellor if the difficulty causes distress in work or love.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

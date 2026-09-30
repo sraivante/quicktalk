@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1148,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Suraj",
+     "Lalit"
+    ],
+    "3": [
+     "Ojas",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Police stop or questioning",
+   "subtype": "Peer × Pride [Actor]",
+   "description": "A friend brags about talking back to police. I feel the pull to copy. Wise: courage is knowing when to stay calm; a video for likes can cost me my safety.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, fear, prejudice, protectiveness, respect",
+    "related mind states: pride, calm, trust"
+   ]
+  },
+  {
+   "sno": 1149,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Hafsa"
+    ],
+    "3": [
+     "Elif",
+     "Fatima"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Police stop or questioning",
+   "subtype": "Parent × Protectiveness [Receiver]",
+   "description": "My parent is frightened after I was questioned and turns strict. Wise: listen to the fear, share the full story, and agree on safe habits like sharing locations.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, fear, prejudice, pride, respect",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 1150,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Neelam"
+    ],
+    "3": [
+     "Urmila",
+     "Mehak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Grandparent × Love [Actor]",
+   "description": "I lose belief in some rituals, yet I still sit beside my grandmother at prayer because I love her. Wise: honour the person while being honest inside. Harmful: mocking her faith.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, argument, fear, rejection, respect",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1151,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Zainab"
+    ],
+    "3": [
+     "Urmila",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Faith community × Belonging [Actor]",
+   "description": "The temple, mosque, church or gurdwara gives me friends and a sense of home. I value belonging, and I also ask questions. Wise: keep both without fearing either.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, anger, argument, fear, rejection, respect",
+    "related mind states: fear, nostalgia"
+   ]
+  },
+  {
+   "sno": 1152,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Elizabeth"
+    ],
+    "3": [
+     "Divyansh",
+     "Sonali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Faith community × Rejection [Receiver]",
+   "description": "When I ask a doubtful question, elders call me disrespectful and shun me. It hurts deeply. Wise: seek an open-minded elder or friend, and not treat one group as the whole faith.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, fear, respect",
+    "related mind states: admiration, doubt, hurt"
+   ]
+  },
+  {
+   "sno": 1153,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Gargi",
+     "Hemant"
+    ],
+    "3": [
+     "Varun",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "God × Anger [Actor]",
+   "description": "After a loss I am angry at God for not preventing it. Wise: anger is a form of relationship or a form of asking; it can be spoken aloud or written, and believers and non-believers both feel it.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, argument, fear, rejection, respect",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1154,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Hrithik"
+    ],
+    "3": [
+     "Mehak",
+     "Ankita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "I tell my parents I no longer believe as they do. Wise: choose a calm time, say I still respect them, and do not demand immediate acceptance. Harmful: attacking their beliefs.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, fear, rejection, respect",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 1155,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Rekha"
+    ],
+    "3": [
+     "Indu",
+     "Gargi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Parent × Fear [Receiver]",
+   "description": "My parents fear I am leaving the faith and lose their way of passing on their traditions. Wise: hear their fear, remain part of family events I can join honestly, and let time work.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, rejection, respect",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1156,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Usha"
+    ],
+    "3": [
+     "Damini",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Self × Non-belief [Actor]",
+   "description": "I feel I do not believe in any god and feel lonely about it. Wise: find people, books and values I can rely on. Non-belief can also carry deep ethics and awe.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection",
+    "related mind states: loneliness, awe"
+   ]
+  },
+  {
+   "sno": 1157,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Neelam"
+    ],
+    "3": [
+     "Wasim",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "Friend × Respect [Actor]",
+   "description": "My friend follows a different religion, and we ask each other real questions. Wise: listen to learn, not to win. Curiosity and kindness matter more than converting.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection",
+    "related mind states: admiration, curiosity"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6391,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Minakshi"
+    ],
+    "3": [
+     "Damini",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: retaliating in kind [Pitfall]",
+   "description": "Angry at repeated taunts, the student plans to embarrass the bully online. It risks escalating, may lead to punishment for both, and shifts attention from the original harm.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device",
+    "related mind states: anger, embarrassment"
+   ]
+  },
+  {
+   "sno": 6392,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Wasim",
+     "Swati"
+    ],
+    "3": [
+     "Wei",
+     "Abebe"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: silent endurance hoping it stops [Pitfall]",
+   "description": "The student ignores it and says nothing for months. The bullying continues, self-confidence drops, and avoiding school starts to seem like the only relief.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 6393,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Sudha"
+    ],
+    "3": [
+     "Amandeep",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: bystander friend choosing to support [Action]",
+   "description": "A friend who witnesses it sits beside the target, does not laugh, tells the bully to stop if it feels safe, and reports it to a teacher afterwards, showing that visible support matters.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device",
+    "related mind states: amusement, trust"
+   ]
+  },
+  {
+   "sno": 6394,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Naveen",
+     "Samir"
+    ],
+    "3": [
+     "Pranav",
+     "Sonali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: bystander staying quiet out of fear [Pitfall]",
+   "description": "A classmate sees the teasing but fears becoming the next target, and stays silent. The reasoning is understandable, yet it leaves the victim isolated and the behaviour unchecked.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device",
+    "related mind states: fear, loneliness"
+   ]
+  },
+  {
+   "sno": 6395,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Payal"
+    ],
+    "3": [
+     "Vinita",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: safety planning for hotspots [Action]",
+   "description": "The student, with a counsellor, identifies where the bullying occurs, such as the bus or corridor, and arranges to walk with friends, sit near the staff and know whom to approach quickly.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6396,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Reena"
+    ],
+    "3": [
+     "Sabina",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: blocking and reporting online abuse [Action]",
+   "description": "The student uses privacy settings, blocks the accounts, reports the abusive posts on the platform and keeps screenshots for the school, limiting exposure while preserving evidence.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  },
+  {
+   "sno": 6397,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Gargi"
+    ],
+    "3": [
+     "Divyansh",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: following up when the first step fails [Revision]",
+   "description": "When a single teacher conversation changes nothing, the parents write to the principal, and the student keeps recording incidents, escalating calmly through official channels until action is taken.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6398,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Keerthana",
+     "Manoj"
+    ],
+    "3": [
+     "Anand",
+     "Sudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a bullying situation",
+   "subtype": "Approach: rebuilding confidence with support [Revision]",
+   "description": "With help from a counsellor, sport and a small circle of supportive friends, the student regains confidence, and later helps younger students recognise bullying and speak up early.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device"
+   ]
+  },
+  {
+   "sno": 6399,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Imran",
+     "Hrithik"
+    ],
+    "3": [
+     "Pranav",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing sleep and routine",
+   "subtype": "Approach: root-cause analysis of late nights [Thinking]",
+   "description": "A student sleeping at 3 am asks why, and finds it comes from late-night scrolling after a stressful day and studying during the evening's wasted hours, not from any lack of hours in the day.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning, if-then plan, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6400,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Ira"
+    ],
+    "3": [
+     "Tanvir",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing sleep and routine",
+   "subtype": "Approach: shifting bedtime gradually [Action]",
+   "description": "Instead of jumping from 3 am to 10 pm, the student moves bedtime earlier by fifteen minutes every few days, keeping a fixed wake-up time so the body clock adjusts steadily.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, forward planning, if-then plan, sleeping on it"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5712,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Nazia",
+     "Ojas"
+    ],
+    "13": [
+     "Madhuri",
+     "Tanuja"
+    ],
+    "14": [
+     "Santiago",
+     "Esther"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Reciprocal altruism and fairness norms",
+   "subtype": "Tit-for-tat sharing [Actor]",
+   "description": "A child shares a toy with the friend who shared last time, and refuses the one who never does. Early fairness is expressed as \"you did for me, I do for you\".",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5713,
+   "plan": {
+    "12": "R15+T1",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Ankita",
+     "Nirmala"
+    ],
+    "13": [
+     "Sudha",
+     "Shankar"
+    ],
+    "14": [
+     "Zainab",
+     "Imran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Reciprocal altruism and fairness norms",
+   "subtype": "Keeping score of favours [Actor]",
+   "description": "A child notes who helped whom, and objects loudly to unequal splits, even when they would receive the extra. A sense that fairness matters is emerging, sometimes rigidly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5714,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Wasim",
+     "Arnab"
+    ],
+    "13": [
+     "Neelam",
+     "Reena"
+    ],
+    "14": [
+     "Pallavi",
+     "Manjula"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Reciprocal altruism and fairness norms",
+   "subtype": "Owing and being owed [Receiver]",
+   "description": "A teenager who received notes or help from a friend feels a pull to return the favour, and feels resentment or guilt if it remains unpaid. Reciprocity binds friendships but can become a ledger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: guilt, resentment"
+   ]
+  },
+  {
+   "sno": 5715,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Sahil",
+     "Hansa"
+    ],
+    "13": [
+     "Seema",
+     "Sudha"
+    ],
+    "14": [
+     "Nilesh",
+     "Ganga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Reciprocal altruism and fairness norms",
+   "subtype": "Spotting a free rider [Observer]",
+   "description": "A flatmate notes that one person keeps accepting help but never gives it, and the group quietly stops helping. Groups punish takers through withdrawal, gossip or pointed comment before they confront.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 5716,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Deepak",
+     "Farida"
+    ],
+    "13": [
+     "Jyoti",
+     "Kashish"
+    ],
+    "14": [
+     "Farida",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Reciprocal altruism and fairness norms",
+   "subtype": "Giving without strict counting [Response]",
+   "description": "A young adult helps generously with no immediate return, but stops giving to someone who habitually takes, and says so calmly. Mature reciprocity is generous, alert and not afraid to set limits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 5717,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R15+T1",
+    "14": "R1+T1"
+   },
+   "cast": {
+    "12": [
+     "Harish",
+     "Sahil"
+    ],
+    "13": [
+     "Sabina",
+     "Lalit"
+    ],
+    "14": [
+     "Deepak",
+     "Yash"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ostracism and social pain",
+   "subtype": "Left out of the game [Receiver]",
+   "description": "A child told \"you can't play with us\" cries or freezes and often says their tummy hurts. Exclusion is felt as a real physical-feeling pain, even in very young children.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5718,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Irfan",
+     "Sachin"
+    ],
+    "13": [
+     "Yash",
+     "Rukmini"
+    ],
+    "14": [
+     "Gurpreet",
+     "Nitin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ostracism and social pain",
+   "subtype": "Silent treatment [Receiver]",
+   "description": "A child whose friends stop speaking to them in class feels invisible, anxious and confused about what they did. Being ignored can hurt more than being openly teased.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: anxiety, confusion, hurt"
+   ]
+  },
+  {
+   "sno": 5719,
+   "plan": {
+    "12": "R5+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Jeevan",
+     "Yogesh"
+    ],
+    "13": [
+     "Imran",
+     "Chetan"
+    ],
+    "14": [
+     "Lars",
+     "Bilal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ostracism and social pain",
+   "subtype": "Leading the freeze-out [Actor]",
+   "description": "A child who organises a group to shun a classmate feels powerful and safe from being excluded themselves, and may tell themselves the target deserves it. Excluders often act out of fear of losing their own place.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 5720,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Mridul",
+     "Jasleen"
+    ],
+    "13": [
+     "Indu",
+     "Maria"
+    ],
+    "14": [
+     "Chandrika",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ostracism and social pain",
+   "subtype": "Noticing a lonely student [Observer]",
+   "description": "A teacher or classmate sees someone eating alone and being dropped from group chats. A small act, such as sitting with them or including them in a task, can break the cycle without drawing attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 5721,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Ira",
+     "Sachin"
+    ],
+    "13": [
+     "Nitin",
+     "Simran"
+    ],
+    "14": [
+     "Ritu",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ostracism and social pain",
+   "subtype": "Recovering after being shut out [Response]",
+   "description": "A young adult excluded from a friend circle admits the hurt, reaches out to other people, and does not conclude there is something wrong with them. They keep contact with those who accept them and avoid retaliating with exclusion of their own.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

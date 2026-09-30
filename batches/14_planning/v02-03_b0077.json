@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6521,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Aparna"
+    ],
+    "3": [
+     "Wasim",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: measuring use before changing it [Thinking]",
+   "description": "A teen checks his phone's screen-time report and is shocked by six hours daily, mostly short videos, and decides to make a plan from real numbers instead of guilt.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan",
+    "related mind states: guilt, surprise, detachment"
+   ]
+  },
+  {
+   "sno": 6522,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Dolma",
+     "Zainab"
+    ],
+    "3": [
+     "Pallavi",
+     "Deepak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: asking what need the phone is meeting [Thinking]",
+   "description": "A student asks why she scrolls at night and sees it is loneliness and avoiding homework worry, so she plans real replacements such as calling a friend and starting homework with ten-minute goals.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, forward planning, if-then plan",
+    "related mind states: anxiety, loneliness"
+   ]
+  },
+  {
+   "sno": 6523,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Baljeet"
+    ],
+    "3": [
+     "Ojas",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: if-then rules and phone-free zones [Action]",
+   "description": "A teen sets that if he sits down to study then the phone goes in another room, and if it is after ten at night then it charges in the hall, making choices automatic.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning"
+   ]
+  },
+  {
+   "sno": 6524,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Hrithik"
+    ],
+    "3": [
+     "Preeti",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: app limits and removing triggers [Action]",
+   "description": "A student deletes short-video apps from her phone, sets a daily limit on messaging, turns off nonessential notifications, and moves the games to a computer so they need a deliberate choice.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6525,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Himani"
+    ],
+    "3": [
+     "Minakshi",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: replacing the habit with an appealing alternative [Action]",
+   "description": "A teen signs up for evening cricket with neighbours and a weekend guitar class so the free hours are filled, since simply removing the phone leaves a boring gap.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6526,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Bhupen",
+     "Parveen"
+    ],
+    "3": [
+     "Jatin",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: cold-turkey resolution announced on the first day [Pitfall]",
+   "description": "A student swears off all screens for a month, ignores that school groups run on messaging, breaks the rule by day four, and gives up the whole effort out of all-or-nothing thinking.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan",
+    "related concepts: all-or-nothing thinking"
+   ]
+  },
+  {
+   "sno": 6527,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Baljeet"
+    ],
+    "3": [
+     "Pooja",
+     "Ritu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: promising to start on Monday [Pitfall]",
+   "description": "A teen keeps delaying a plan to a better start date, such as after the festival or after tests, and each Monday brings a new reason, so the habit continues unchanged for months.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6528,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Shalini"
+    ],
+    "3": [
+     "Afreen",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: agreeing family rules together rather than imposed ones [Action]",
+   "description": "A teen and parents agree that devices are off at meals and after ten, and that parents follow the same rule, so it feels like a shared household habit and not a punishment.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, forward planning, if-then plan"
+   ]
+  },
+  {
+   "sno": 6529,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Trisha"
+    ],
+    "3": [
+     "Mehak",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: reviewing slips without self-blame [Revision]",
+   "description": "After a weekend binge, a student checks what triggered it, an argument and boredom, adjusts by planning an outing for the next weekend, and restarts the next day instead of quitting.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, if-then plan",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 6530,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Darshan"
+    ],
+    "3": [
+     "Karthik",
+     "Chinmay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing screen addiction",
+   "subtype": "Approach: seeking help when control keeps failing [Revision]",
+   "description": "Despite several plans, a teen still loses sleep and grades, so he speaks to a school counsellor with his parents, who suggest a structured routine and more professional support if needed.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, if-then plan"
+   ]
+  }
+ ]
+}

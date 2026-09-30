@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2772,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Salma",
+     "Amandeep"
+    ],
+    "4": [
+     "Francis",
+     "Bhupen"
+    ],
+    "5": [
+     "Tanvir",
+     "Tenzin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Faces are cues, not proof [Interpreting]",
+   "description": "A mature reader treats a wince, grin or scowl as one clue among tone, words and situation, holding the guess loosely and checking with the person, because the same face can come from several different states.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2773,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Javier",
+     "Wanjiru"
+    ],
+    "4": [
+     "Binita",
+     "Damini"
+    ],
+    "5": [
+     "Arnab",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Professional face and emotional labour [Regulating]",
+   "description": "A young professional keeps a pleasant face with clients or a manager during a stressful day, which is useful, but long-term suppression can be tiring and is best balanced with honest outlets elsewhere.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2774,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Zainab"
+    ],
+    "4": [
+     "Kunal",
+     "Aparna"
+    ],
+    "5": [
+     "Tarun",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Broad smile as customer or leadership tool [Regulating]",
+   "description": "A young professional uses a broad, open-mouth smile to set clients at ease or to open a meeting. It works best when it matches honest goodwill, and habitual smiling over real worry can wear a person down.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2775,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Sarita",
+     "Yamini"
+    ],
+    "4": [
+     "Felix",
+     "Camila"
+    ],
+    "5": [
+     "Parveen",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Sustained smile in intimacy and grief [Mismatch]",
+   "description": "A sustained smile can appear at reunions, weddings or even a funeral when remembering a loved one, mixing joy with sorrow. Readers should not assume a smile means only happiness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: joy, affection, sadness, grief"
+   ]
+  },
+  {
+   "sno": 2776,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Kashish",
+     "Sachin"
+    ],
+    "4": [
+     "Maria",
+     "Ankita"
+    ],
+    "5": [
+     "Lalremsiami",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Eyebrow flash across a room [Expressing]",
+   "description": "A young adult flashes the eyebrows to acknowledge a colleague across a room, a light signal of recognition and friendliness. It is easy to overlook, so it complements rather than replaces a greeting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2777,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Jahnavi"
+    ],
+    "4": [
+     "Arohi",
+     "Vandana"
+    ],
+    "5": [
+     "Preeti",
+     "Jyoti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Worry lines and chronic strain [Interpreting]",
+   "description": "A colleague's habitually drawn-together brows may reflect worry, concentration, headaches or simply how the face rests. Asking kindly about workload is wiser than reading a mood into a resting brow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2778,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Saurabh",
+     "Raghav"
+    ],
+    "4": [
+     "Pranav",
+     "Tushar"
+    ],
+    "5": [
+     "Jasleen",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Wet or squeezed eyes under pressure [Regulating]",
+   "description": "An adult blinks quickly, squeezes the eyes or looks up to hold back tears at work, a common way to regulate strong feeling. A short break to breathe often helps more.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 2779,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Bhupen",
+     "Anand"
+    ],
+    "4": [
+     "Gautam",
+     "Hrithik"
+    ],
+    "5": [
+     "Chetan",
+     "Dhruv"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Widening the eyes as a listening cue [Expressing]",
+   "description": "A young professional widens the eyes slightly to show interest and encourage a speaker. It works when natural, and a fixed wide-eyed look may seem strained.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 2780,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Dilnaz",
+     "Lavanya"
+    ],
+    "4": [
+     "Ganga",
+     "Deepak"
+    ],
+    "5": [
+     "Sonali",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Gaze in cross-cultural teams [Mismatch]",
+   "description": "A young professional working across countries learns that gaze norms vary: sustained eye contact means engagement in some places and challenge in others. Adapting while staying curious avoids stereotypes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: curiosity, interest"
+   ]
+  },
+  {
+   "sno": 2781,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Divyansh",
+     "Anjali"
+    ],
+    "4": [
+     "Kiran",
+     "Tushar"
+    ],
+    "5": [
+     "Santosh",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Looking at the phone versus at the person [Interpreting]",
+   "description": "A colleague glancing down at a phone during a talk may signal boredom, urgency or an actual work task. Naming the concern and asking for full attention is kinder than assuming disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, boredom",
+    "related concepts: boredom"
+   ]
+  }
+ ]
+}

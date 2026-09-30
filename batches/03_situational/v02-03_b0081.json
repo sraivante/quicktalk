@@ -1,0 +1,265 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1118,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Dolma",
+     "Kunal"
+    ],
+    "3": [
+     "Anjali",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend shares a heavy secret",
+   "subtype": "Friend × Dependence [Receiver]",
+   "description": "A friend leans on me at all hours and I am worn out. Wise: care, set limits, and encourage other support like family or a counsellor. Harmful: quietly resenting them.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, curiosity, loyalty, protectiveness, trust",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1119,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Neelam"
+    ],
+    "3": [
+     "Eshaan",
+     "Dilnaz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend shares a heavy secret",
+   "subtype": "Friend × Loyalty [Actor]",
+   "description": "I keep a friend's harmless secret through teasing and pressure. Wise: loyalty here is a strength; still check that the secret is not hurting them.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, curiosity, dependence, protectiveness, trust",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1120,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Rukmini"
+    ],
+    "3": [
+     "Rekha",
+     "Vinita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend shares a heavy secret",
+   "subtype": "Friend × Being idolised [Receiver]",
+   "description": "A younger friend tells me I am their hero and shares everything. I feel proud and pressured. Wise: stay honest about my flaws and point them to other supports. Harmful: leaning into control because they listen.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, dependence, loyalty, protectiveness, trust",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 1121,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Vishal"
+    ],
+    "3": [
+     "Mehak",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Consent and boundaries",
+   "subtype": "Friend × Boundary [Actor]",
+   "description": "I say no to a hug, a photo, or a dare and feel awkward. Wise: a clear no needs no reason, and a good friend accepts it. Harmful: apologising for my boundary.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion",
+    "related mind states: affection, embarrassment"
+   ]
+  },
+  {
+   "sno": 1122,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Rekha"
+    ],
+    "3": [
+     "Tejas",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Consent and boundaries",
+   "subtype": "Crush × Boundary [Receiver]",
+   "description": "My crush says they are not comfortable with something. Wise: stop at once, thank them for honesty, and do not pout. Harmful: pushing, teasing, or sulking to get my way.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1123,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Rukmini"
+    ],
+    "3": [
+     "Ramesh",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Consent and boundaries",
+   "subtype": "Older teen × Coercion [Receiver]",
+   "description": "An older teen flatters me and pressures me for things I am unsure about. It is not my fault. Wise: no is enough; leave, tell a trusted adult, and know that real affection waits.",
+   "graph_context": [
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 1124,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Seema"
+    ],
+    "3": [
+     "Tarun",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Consent and boundaries",
+   "subtype": "Peer group × Pressure [Receiver]",
+   "description": "Friends demand that I share private photos or tease me for not dating. Wise: my body and messages are mine; do not send them, and tell an adult if anyone threatens to spread them."
+  },
+  {
+   "sno": 1125,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Salma",
+     "Damini"
+    ],
+    "3": [
+     "Yusuf",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Board exam pressure",
+   "subtype": "Parent × Fear [Actor]",
+   "description": "I dread the result because my parents have staked their hopes and savings on it. Wise: tell them plainly how much I can carry. Harmful: hiding a bad mock score until it explodes.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, envy, exploitation, gratitude, shame",
+    "related mind states: fear, hope"
+   ]
+  },
+  {
+   "sno": 1126,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Sudha"
+    ],
+    "3": [
+     "Mridul",
+     "Joseph"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Board exam pressure",
+   "subtype": "Parent × Pressure [Receiver]",
+   "description": "I am being measured by marks, and it feels like love is conditional. Wise: hear the fear behind their push and say what helps, like a plan or a calm evening. Harmful: shutting down.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, envy, exploitation, fear, gratitude, shame",
+    "related mind states: affection, fear, calm"
+   ]
+  },
+  {
+   "sno": 1127,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Mehak",
+     "Arnab"
+    ],
+    "3": [
+     "Kalyani",
+     "Hemant"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Board exam pressure",
+   "subtype": "Rival × Envy [Actor]",
+   "description": "A classmate tops every test and I feel small and bitter. Wise: study their method and accept that ranks are one narrow measure. Harmful: spreading rumours or hiding notes.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, exploitation, fear, gratitude, shame",
+    "paired view exists: Receiver (S1128)",
+    "related mind states: envy, resentment"
+   ]
+  }
+ ]
+}

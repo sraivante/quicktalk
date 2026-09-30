@@ -1,0 +1,314 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3820,
+   "plan": {
+    "9": "R2+T1",
+    "10": "R4+T1",
+    "11": "R7+T1"
+   },
+   "cast": {
+    "9": [
+     "Arnab",
+     "Hafsa"
+    ],
+    "10": [
+     "Mohit",
+     "Sarika"
+    ],
+    "11": [
+     "Jatin",
+     "Yusuf"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Affect heuristic",
+   "subtype": "Nice feeling means safe [Actor]",
+   "description": "A young child trusts a friendly stranger or a sweet-looking food because it feels good and fears a plain-looking helper because he feels nervous. Feelings guide judgments.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, fear, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 3821,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Chaitanya",
+     "Pema"
+    ],
+    "10": [
+     "Harsha",
+     "Yamini"
+    ],
+    "11": [
+     "Samir",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Affect heuristic",
+   "subtype": "Liking decides the answer [Actor]",
+   "description": "A child who likes a subject thinks it is easy and useful, while one he dislikes seems hard and pointless. Emotion supplies quick answers about risk and benefit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3822,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Hrithik",
+     "Arnab"
+    ],
+    "10": [
+     "Tanvir",
+     "Neelam"
+    ],
+    "11": [
+     "Shankar",
+     "Himani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Affect heuristic",
+   "subtype": "Fear and thrill decide [Actor]",
+   "description": "A teenager judges something risky by how exciting or scary it feels, not by facts. Things he likes seem low-risk and high-benefit, and things he dislikes the opposite.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: joy, fear, excitement"
+   ]
+  },
+  {
+   "sno": 3823,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Charu",
+     "Divyansh"
+    ],
+    "10": [
+     "Anjali",
+     "Mridul"
+    ],
+    "11": [
+     "Keerthana",
+     "Mridul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Affect heuristic",
+   "subtype": "Gut feeling on people and products [Actor]",
+   "description": "A student picks a brand, a job or a person because it just feels right, then builds reasons afterward. Emotion drives and reason justifies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3824,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Payal",
+     "Jeevan"
+    ],
+    "10": [
+     "Hansa",
+     "Uma"
+    ],
+    "11": [
+     "Gurpreet",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Affect heuristic",
+   "subtype": "Checking feelings against facts [Response]",
+   "description": "A thoughtful adult notes her feeling, treats it as information, and then asks what evidence supports or contradicts it before acting on big matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3825,
+   "plan": {
+    "9": "R15+T1",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Hrithik",
+     "Hansa"
+    ],
+    "10": [
+     "Jahnavi",
+     "Omkar"
+    ],
+    "11": [
+     "Mahima",
+     "Nazia"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intuition vs deliberation",
+   "subtype": "Fast reactions, little planning [Actor]",
+   "description": "A preschooler acts on the first impulse, grabbing, hitting or running, with little pause to think. Slow thinking is only beginning to develop.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3826,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Jyoti",
+     "Himani"
+    ],
+    "10": [
+     "Sangeeta",
+     "Aparna"
+    ],
+    "11": [
+     "Dhruv",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intuition vs deliberation",
+   "subtype": "Stop and think [Actor]",
+   "description": "A child learns to catch a wrong first answer to a trick question with a brief pause. Quick answers feel right but can mislead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3827,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Imran",
+     "Lalremsiami"
+    ],
+    "10": [
+     "Kavitha",
+     "Tanuja"
+    ],
+    "11": [
+     "Rafiq",
+     "Rukmini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intuition vs deliberation",
+   "subtype": "Fast and slow thinking [Actor]",
+   "description": "A teenager moves between snap gut choices, especially with friends watching, and careful reasoning when calm. Heightened emotion and peers favour the fast mode.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3828,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Tarun",
+     "Bhupen"
+    ],
+    "10": [
+     "Nazia",
+     "Naveen"
+    ],
+    "11": [
+     "Samir",
+     "Dilnaz"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intuition vs deliberation",
+   "subtype": "Choosing the right mode [Response]",
+   "description": "A young adult trusts quick intuition for familiar low-stakes matters and slows down with checklists, sleep and advice for big, new or irreversible ones.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3829,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Pankaj",
+     "Noor"
+    ],
+    "10": [
+     "Arohi",
+     "Charu"
+    ],
+    "11": [
+     "Lars",
+     "Olga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intuition vs deliberation",
+   "subtype": "Seeing a colleague misuse either [Observer]",
+   "description": "A team notices one person over-analysing simple choices and another gut-deciding complex ones. The wise help each match effort to the stakes and to the type of problem.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

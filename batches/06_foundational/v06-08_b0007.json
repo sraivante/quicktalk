@@ -1,0 +1,313 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5502,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Chetan",
+     "Payal"
+    ],
+    "7": [
+     "Jahnavi",
+     "Bidisha"
+    ],
+    "8": [
+     "Vijay",
+     "Abhinav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Misinformation effect",
+   "subtype": "Leading question plants a detail [Receiver]",
+   "description": "A young child asked \"was the man wearing a red hat?\" later remembers a red hat that was never there; adults' wording in questions can seed false details in a child's memory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5503,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Tejas",
+     "Nikita"
+    ],
+    "7": [
+     "Jasleen",
+     "Kalyani"
+    ],
+    "8": [
+     "Wasim",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Misinformation effect",
+   "subtype": "Family retelling replaces own memory [Actor]",
+   "description": "A child's memory of a trip blends with what siblings and parents have said about it since, until they cannot tell what they saw from what they were told.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5504,
+   "plan": {
+    "6": "R10",
+    "7": "R11",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Kalyani"
+    ],
+    "7": [
+     "Lokesh",
+     "Shreya"
+    ],
+    "8": [
+     "Sudha",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Misinformation effect",
+   "subtype": "Witnessing an event and then reading reports [Actor]",
+   "description": "A young adult who saw a minor accident adds details from later news and chat messages and feels fully certain, since confident recall is not proof of accuracy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5505,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Kamal",
+     "Bhupen"
+    ],
+    "7": [
+     "Zainab",
+     "Kiran"
+    ],
+    "8": [
+     "Joseph",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Misinformation effect",
+   "subtype": "Asking open questions and noting memory early [Observer]",
+   "description": "A teacher or parent gathering a child's account asks \"what happened?\" rather than suggesting details, and records the account soon; memory is rebuilt each time and shaped by questions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 5506,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Reena"
+    ],
+    "7": [
+     "Pooja",
+     "Uday"
+    ],
+    "8": [
+     "Sudha",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Misinformation effect",
+   "subtype": "Holding own memory humbly [Response]",
+   "description": "An adult in a dispute says \"this is how I remember it\" instead of \"this is what happened\", and looks for a message or photo, since confident memory can still be wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 5507,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Rajni",
+     "Eshaan"
+    ],
+    "7": [
+     "Sonali",
+     "Pallavi"
+    ],
+    "8": [
+     "Damini",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Normalcy bias",
+   "subtype": "It cannot happen here [Actor]",
+   "description": "A teenager shrugs off a flood or cyclone warning because nothing bad has happened before, and keeps scrolling, feeling safe because the world so far has been ordinary.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: overwhelm, trust"
+   ]
+  },
+  {
+   "sno": 5508,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Zubin",
+     "Chandrika"
+    ],
+    "7": [
+     "Pooja",
+     "Jeevan"
+    ],
+    "8": [
+     "Charu",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Normalcy bias",
+   "subtype": "Delaying leaving during danger [Actor]",
+   "description": "A family under a real warning pauses to pack and gather things, sure it will pass; the mind clings to the usual pattern and underestimates how fast conditions can change.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5509,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Parul"
+    ],
+    "7": [
+     "Jasleen",
+     "Noor"
+    ],
+    "8": [
+     "Deepika",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Normalcy bias",
+   "subtype": "Colleagues stay put when the alarm rings [Observer]",
+   "description": "An employee sees coworkers keep working through a fire alarm, each looking at the others for cues; nobody moves until someone does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5510,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Sarita",
+     "Varun"
+    ],
+    "7": [
+     "Shreya",
+     "Tanvir"
+    ],
+    "8": [
+     "Aiko",
+     "Mei"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Normalcy bias",
+   "subtype": "Acting early on warnings [Response]",
+   "description": "An adult notes exits, keeps a small emergency kit, follows official warnings without waiting for proof, and prefers the mild embarrassment of a false alarm over being late.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 5511,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Imran",
+     "Harsha"
+    ],
+    "7": [
+     "Tanuja",
+     "Gautam"
+    ],
+    "8": [
+     "Santosh",
+     "Sabina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Illusory truth effect",
+   "subtype": "Playground fact heard many times [Actor]",
+   "description": "A child believes a \"fact\" about food or ghosts because everyone repeats it; hearing it often makes it feel familiar, and familiar feels true.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

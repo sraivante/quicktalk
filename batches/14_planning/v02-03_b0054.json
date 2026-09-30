@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6291,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Pradeep"
+    ],
+    "3": [
+     "Vishal",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: prioritising by urgent versus important [Thinking]",
+   "description": "Facing a test in three days and a district match on Saturday, the student separates what is due soon from what matters long term, and drops a lower-value gaming session while keeping sport.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, time-boxing"
+   ]
+  },
+  {
+   "sno": 6292,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Kalyani"
+    ],
+    "3": [
+     "Anjali",
+     "Lokesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: promising to cut screens completely [Pitfall]",
+   "description": "A student swears to delete all games and social apps. The all-or-nothing rule lasts four days, then a single slip is treated as total failure and the old habit returns at full strength.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6293,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Samir",
+     "Pallavi"
+    ],
+    "3": [
+     "Harsha",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: tracking actual screen time first [Action]",
+   "description": "Using the phone's usage report for a week, the student discovers three hours a day on short videos, far more than he guessed. The data, not a lecture, makes him ready to change.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6294,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Damini",
+     "Jahnavi"
+    ],
+    "3": [
+     "Rukmini",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: if-then rules for phone use [Thinking]",
+   "description": "The student sets a rule: if study session starts, then phone goes into the hall drawer; if the timer ends, then phone returns. A concrete trigger works better than general willpower.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6295,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Sunaina"
+    ],
+    "3": [
+     "Kashish",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: treating sport as reward only after study [Pitfall]",
+   "description": "The student makes football contingent on finishing all revision. Study runs late every day, sport disappears, mood falls, and concentration gets worse rather than better.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, if-then plan, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6296,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Omkar"
+    ],
+    "3": [
+     "Aadhya",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: energy-aware scheduling [Thinking]",
+   "description": "The student notices that hard subjects go best before dinner and that a run clears her head, so she places a short run before the hardest study block instead of treating exercise as a competitor.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6297,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Devika",
+     "Tejas"
+    ],
+    "3": [
+     "Ramesh",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: accountability partner for screen limits [Action]",
+   "description": "Two friends message each other a screenshot of daily screen time each night. The small social stakes make the limit feel real, and comparing numbers turns it into a friendly challenge.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, if-then plan, prioritising, time-boxing",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6298,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Ritu"
+    ],
+    "3": [
+     "Hemant",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Balancing study, sport and screens",
+   "subtype": "Approach: reviewing and loosening an unrealistic plan [Revision]",
+   "description": "After two weeks of missing targets, the student sees the schedule left no room for travel or festivals. He trims study blocks slightly, keeps sport fixed and allows one guilt-free screen evening.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, contingency planning, if-then plan, prioritising, time-boxing",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 6299,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Trisha"
+    ],
+    "3": [
+     "Nirmala",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: triage of topics by marks and confidence [Thinking]",
+   "description": "With thirty days left, a student rates each topic by exam weight and self-confidence, and decides to revise high-weight, medium-confidence topics first, since they give the biggest gain per hour.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, first principles, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6300,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Anjali"
+    ],
+    "3": [
+     "Mridul",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: backward calendar with buffer days [Action]",
+   "description": "The student writes the exam dates, subtracts rest days, assigns each subject revision blocks, and keeps the last two days before each paper for light review and sleep rather than new material.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, first principles, pre-mortem"
+   ]
+  }
+ ]
+}

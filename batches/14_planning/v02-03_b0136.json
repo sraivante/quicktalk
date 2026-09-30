@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7111,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Seema",
+     "Varun"
+    ],
+    "3": [
+     "Fatima",
+     "Selin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: making a range and giving reasons [Action]",
+   "description": "She asks for a range slightly above her target and explains her project results and certifications. The recruiter counters within the range and she accepts a figure near her target.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7112,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Tuan",
+     "Wanjiru"
+    ],
+    "3": [
+     "Jomon",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: overreaching and losing goodwill [Pitfall]",
+   "description": "Based on one unusual online post, he demands a figure far above the market. The recruiter ends the discussion politely, and he later has to ask again at a lower figure.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7113,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Baljeet"
+    ],
+    "3": [
+     "Kashish",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: reviewing the outcome and preparing for the next round [Revision]",
+   "description": "After settling slightly below target, she notes what worked and sets a review date with her manager. She plans measurable results to support a stronger request next time.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7114,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Bidisha"
+    ],
+    "3": [
+     "Vikas",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: asking for a review after a raise is refused [Revision]",
+   "description": "When the company cannot raise pay now, he asks for a written review date and clear targets. Six months later, results in hand, he reopens the talk with a stronger basis.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7115,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Mehak"
+    ],
+    "3": [
+     "Jagdish",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: gathering specific examples before speaking [Thinking]",
+   "description": "A lead lists what actually happened: three late tasks and two untested changes over a month. He avoids labels like careless, so the discussion stays on observable work.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, commitment device, root cause analysis, task decomposition"
+   ]
+  },
+  {
+   "sno": 7116,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Naveen"
+    ],
+    "3": [
+     "Madhav",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: root cause analysis with the junior [Thinking]",
+   "description": "In a private talk she asks what is making tasks hard. The junior explains he does not understand the codebase and fears asking, so the problem is support, not effort.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, commitment device, task decomposition",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 7117,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Naveen",
+     "Disha"
+    ],
+    "3": [
+     "Tanuja",
+     "Mridul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: setting small clear tasks with regular check-ins [Action]",
+   "description": "The lead gives smaller tasks with acceptance criteria and a daily ten-minute review. Progress becomes visible, and the junior gains confidence with each completed piece.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, commitment device, root cause analysis"
+   ]
+  },
+  {
+   "sno": 7118,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Binita",
+     "Lavanya"
+    ],
+    "3": [
+     "Pranav",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: pairing with a buddy [Action]",
+   "description": "She assigns a friendly mid-level colleague to pair with him twice a week. He learns team habits faster, and the lead spends less time on repeated explanations.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, commitment device, root cause analysis, task decomposition"
+   ]
+  },
+  {
+   "sno": 7119,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Chetan"
+    ],
+    "3": [
+     "Simran",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: doing the junior's work quietly [Pitfall]",
+   "description": "To meet deadlines the lead rewrites his code at night without telling him. He never learns what was wrong, and she burns out while his performance stays the same.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, root cause analysis, task decomposition"
+   ]
+  },
+  {
+   "sno": 7120,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Dolma",
+     "Siddharth"
+    ],
+    "3": [
+     "Nitin",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling an underperforming junior",
+   "subtype": "Approach: harsh public criticism [Pitfall]",
+   "description": "Frustrated, a lead points out mistakes in front of the team. The junior withdraws, stops asking questions and hides errors, so the quality problem grows.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, commitment device, root cause analysis, task decomposition",
+    "related mind states: anger, detachment"
+   ]
+  }
+ ]
+}

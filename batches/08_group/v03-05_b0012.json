@@ -1,0 +1,317 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3459,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Ishita"
+    ],
+    "4": [
+     "Dolma",
+     "Deepak"
+    ],
+    "5": [
+     "Uma",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Observing a good leader [Observer]",
+   "description": "A junior watches a leader who admits mistakes, gives credit and asks for views. They learn that authority based on trust lasts longer than authority based on position.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3460,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Santosh",
+     "Nikita"
+    ],
+    "4": [
+     "Abebe",
+     "Layla"
+    ],
+    "5": [
+     "Tenzin",
+     "Akash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Leadership styles and followership",
+   "subtype": "Adapting style to the person [Response]",
+   "description": "A wise leader gives freedom to the experienced, guidance to the new and honest feedback to all. They ask what each person needs, not what suits their own habit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3461,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Xin",
+     "Lindiwe"
+    ],
+    "4": [
+     "Noor",
+     "Irawati"
+    ],
+    "5": [
+     "Vandana",
+     "Vinita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Sharing toys and building together [Actor]",
+   "description": "Young children learn to build a block tower together and argue over who places what. Taking turns is fragile and needs adult help, but it is the seed of teamwork.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3462,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Vaibhav"
+    ],
+    "4": [
+     "Chinmay",
+     "Naveen"
+    ],
+    "5": [
+     "Madhuri",
+     "Pankaj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Choosing teams in sport [Actor]",
+   "description": "Children choosing sides feel the sting of being picked last or the pride of being picked first. They also start to learn that a team needs different strengths.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3463,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Ganga",
+     "Vaibhav"
+    ],
+    "4": [
+     "Charu",
+     "Ankita"
+    ],
+    "5": [
+     "Rafiq",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Picked last [Receiver]",
+   "description": "A child left until the end of team selection feels their worth measured in public. They may laugh it off, and a kind captain who picks them warmly can undo much of the hurt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 3464,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Kavitha",
+     "Mridul"
+    ],
+    "4": [
+     "Lokesh",
+     "Nirmala"
+    ],
+    "5": [
+     "Bao",
+     "Rafael"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Team argument over roles [Actor]",
+   "description": "Teenagers on a team clash over who leads, who gets credit and whose idea wins. The fight is often about respect and recognition, not the task itself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3465,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jaya",
+     "Madhav"
+    ],
+    "4": [
+     "Ganga",
+     "Tanvir"
+    ],
+    "5": [
+     "Kashish",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Sharing credit and blame fairly [Response]",
+   "description": "A team captain acknowledges each member's role in a win and takes a share of blame in a loss. This teaches the group that mistakes are safe to admit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3466,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Deepak",
+     "Chetan"
+    ],
+    "4": [
+     "Anirban",
+     "Leela"
+    ],
+    "5": [
+     "Asif",
+     "Sharmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Forming, storming, settling [Observer]",
+   "description": "A student sees a new project team go from polite to tense to workable. Understanding that early friction is normal keeps them from giving up too soon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3467,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Aparna",
+     "Kavitha"
+    ],
+    "4": [
+     "Aparna",
+     "Tanvir"
+    ],
+    "5": [
+     "Jin",
+     "Nkechi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Trust broken by a missed deadline [Receiver]",
+   "description": "A team member is let down by a teammate who does not deliver and does not say so. The problem is less the delay than the silence, which makes future promises harder to believe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: disappointment, trust"
+   ]
+  },
+  {
+   "sno": 3468,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Lokesh",
+     "Nilesh"
+    ],
+    "4": [
+     "Himani",
+     "Bidisha"
+    ],
+    "5": [
+     "Paulo",
+     "Ulla"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Team formation, conflict and trust",
+   "subtype": "Conflict avoided until it explodes [Actor]",
+   "description": "A team member holds back irritation for weeks, smiling in meetings, until a small trigger produces an outburst. Unspoken issues do not vanish, they gather force.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

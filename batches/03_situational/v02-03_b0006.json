@@ -1,0 +1,265 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 368,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Emil",
+     "Xin"
+    ],
+    "3": [
+     "Rukmini",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays a secret",
+   "subtype": "Best friend × Grief",
+   "description": "Mourns the loss of the friendship; naming the grief helps rather than pretending not to care.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, deceit, disillusionment, forgiveness, hatred, shame",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 369,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Ayesha",
+     "Santosh"
+    ],
+    "3": [
+     "Kavitha",
+     "Ira"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Dissent",
+   "description": "Raises the concern politely with evidence, or goes through a proper channel; disrespect and silence both fail.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 370,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Leela"
+    ],
+    "3": [
+     "Sharmila",
+     "Sangeeta"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Idol × Worship",
+   "description": "Treats the idol as flawless and defends every act; healthy admiration keeps the ability to disagree and see the person as human.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, loyalty",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 371,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Dolma"
+    ],
+    "3": [
+     "Neelam",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Idol × Disillusionment",
+   "description": "Feels crushed when the idol turns out to be flawed; learns to keep the ideas and drop the idolisation.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, envy, exploitation, hatred, loyalty, worship"
+   ]
+  },
+  {
+   "sno": 372,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Usha"
+    ],
+    "3": [
+     "Neelam",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Competing for a place",
+   "subtype": "Rival × Competition",
+   "description": "Trains harder and treats the rival as a benchmark, competing without sabotaging or spreading rumours.",
+   "graph_context": [
+    "same situation, other stances at this age: hatred"
+   ]
+  },
+  {
+   "sno": 373,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Zeenat"
+    ],
+    "3": [
+     "Leila",
+     "Nkechi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Competing for a place",
+   "subtype": "Rival × Hatred & sabotage",
+   "description": "Fixates on defeating the rival, losing sleep and focus; recognises that obsession drains energy from own growth.",
+   "graph_context": [
+    "same situation, other stances at this age: rivalry"
+   ]
+  },
+  {
+   "sno": 374,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Avni"
+    ],
+    "3": [
+     "Javier",
+     "Jamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Group chat argument",
+   "subtype": "Peer group × Public shaming",
+   "description": "Sees a pile-on against one person; choices are to join, stay silent or defend, and courage means at least messaging the target privately.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, mockery"
+   ]
+  },
+  {
+   "sno": 375,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Sabina"
+    ],
+    "3": [
+     "Hrithik",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Group chat argument",
+   "subtype": "Online stranger × Provocation",
+   "description": "Gets baited into a heated reply; learns not to feed trolls, to mute or block, and to sleep before responding.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, mockery",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 376,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Hrithik"
+    ],
+    "3": [
+     "Anirban",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "God × Doubt",
+   "description": "Asks hard questions about religion and feels guilty; doubt is a normal part of building conviction, and honest questioning can lead to deeper faith or reasoned change.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection",
+    "related mind states: guilt, doubt"
+   ]
+  },
+  {
+   "sno": 377,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Aditi",
+     "Ankita"
+    ],
+    "3": [
+     "Mahima",
+     "Aparna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Questioning family faith",
+   "subtype": "God × Devotion",
+   "description": "Deepens practice through prayer, meditation or service and feels steadied by it; devotion works best when it makes one kinder, not more contemptuous of others.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection",
+    "related mind states: contempt"
+   ]
+  }
+ ]
+}

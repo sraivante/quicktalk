@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1858,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Shalini"
+    ],
+    "3": [
+     "Urmila",
+     "Asif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Layoff announced",
+   "subtype": "Self × Shame [Actor]",
+   "description": "Being laid off feels like a verdict on your worth, and you hide it from parents. Reality: it is usually a budget decision. Tell one trusted person, set a daily routine, and treat the search like a job.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, betrayal, compassion, dependence, fear, guilt",
+    "related mind states: shame, trust"
+   ]
+  },
+  {
+   "sno": 1859,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Damini"
+    ],
+    "3": [
+     "Bhavna",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Layoff announced",
+   "subtype": "Family × Dependence [Receiver]",
+   "description": "Parents or a spouse rely on your income and are anxious. Be transparent about savings and plan, involve them without hiding, and accept that their worry is love in an ugly shape, not an accusation.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, betrayal, compassion, fear, guilt, shame",
+    "related mind states: affection, anxiety"
+   ]
+  },
+  {
+   "sno": 1860,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Shalini",
+     "Vikas"
+    ],
+    "3": [
+     "Pranav",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Layoff announced",
+   "subtype": "Boss × Anger [Actor]",
+   "description": "Rage at leadership for cuts made after record celebrations is understandable. Channel it into precise questions on severance, notice and rights, not a public tirade that shrinks your future options.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, compassion, dependence, fear, guilt, shame",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1861,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ada",
+     "Kwame"
+    ],
+    "3": [
+     "Mohit",
+     "Jyoti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Boss × Coercion [Receiver]",
+   "description": "Boss says fudge the numbers or delay disclosure, hinting at your job. Recognise it as pressure, not a favour. Note the instruction in writing, refuse politely, and know your escalation channel. It is not your fault they asked.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear, guilt, loyalty, trust",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 1862,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Anand"
+    ],
+    "3": [
+     "Jyoti",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Boss × Loyalty [Actor]",
+   "description": "You like your boss, who once protected you, and now they ask for a small lie. Loyalty to a person cannot cover wrongdoing that harms others. Say a clear no, offer a legitimate alternative, and keep respect.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, fear, guilt, trust",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1863,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Ayesha"
+    ],
+    "3": [
+     "Dolma",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Self × Fear [Actor]",
+   "description": "Fear of losing the job, visa or reference makes compliance feel practical. Wise action: write down facts, consult a lawyer or ethics line, and avoid being the only signature. Immature: going along and telling yourself you had no choice.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, guilt, loyalty, trust",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1864,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Madhav"
+    ],
+    "3": [
+     "Nazia",
+     "Rukmini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Institution × Whistleblowing [Actor]",
+   "description": "Deciding whether to report wrongdoing means weighing harm to others against personal cost. Document accurately, use internal and legal channels first, seek advice, and expect stress. Do not act in revenge or rumour.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, fear, guilt, loyalty, trust"
+   ]
+  },
+  {
+   "sno": 1865,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Chetan"
+    ],
+    "3": [
+     "Wasim",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Colleague × Complicity [Receiver]",
+   "description": "A colleague quietly asks you not to raise it, saying everyone does it. That is normalised deviance and social pressure. Listen without contempt, but do not sign on; ask what they fear and show a safer route.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, fear, guilt, loyalty, trust",
+    "related mind states: contempt, fear, trust"
+   ]
+  },
+  {
+   "sno": 1866,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Disha",
+     "Yogesh"
+    ],
+    "3": [
+     "Afreen",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Institution × Betrayal [Receiver]",
+   "description": "After you reported an issue, you get sidelined and labeled troublemaker. Retaliation is real and not your fault. Keep records, contact a lawyer or regulator, lean on friends, and remember integrity has a cost but keeps you whole.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, guilt, loyalty, trust",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 1867,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Clara",
+     "Santiago"
+    ],
+    "3": [
+     "Rukmini",
+     "Mohit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Ordered to do something unethical",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "You went along once and now feel sick about it. Guilt is useful if it leads to repair: come clean where possible, correct the record, and refuse a second time. Wallowing or hiding deepens the harm.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, fear, loyalty, trust",
+    "related mind states: guilt"
+   ]
+  }
+ ]
+}

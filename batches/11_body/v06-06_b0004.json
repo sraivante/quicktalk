@@ -1,0 +1,218 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4149,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Zeenat",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Pain (acute and chronic) and irritability",
+   "subtype": "Teen with recurring headaches [Actor]",
+   "description": "A teenager with frequent pain may seem moody, avoid social plans and feel misunderstood when told it is nothing. Being taken seriously, and getting properly checked, eases the emotional weight.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4150,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Samir",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Pain (acute and chronic) and irritability",
+   "subtype": "Friend of someone in constant pain [Receiver]",
+   "description": "A friend of a person living with chronic pain may feel hurt when plans are cancelled or replies are curt. Understanding that pain drains patience and energy helps friends stay kind instead of taking it personally.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4151,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Shreya",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pain (acute and chronic) and irritability",
+   "subtype": "Chronic pain wearing on mood [Actor]",
+   "description": "A young adult living with long-lasting pain can feel tired, hopeless and easily irritated, grieving the life they planned. Pacing activity, being honest with loved ones and using proper medical care all support dignity and mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: affection, grief, anger, hope"
+   ]
+  },
+  {
+   "sno": 4152,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Anand",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Pain (acute and chronic) and irritability",
+   "subtype": "Partner supporting without hovering [Response]",
+   "description": "A partner of someone in pain asks what would help today, believes them without questioning, and does not take irritability as rejection. They also protect their own rest so care does not turn into resentment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: resentment, hurt"
+   ]
+  },
+  {
+   "sno": 4153,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Chen",
+     "Nadia"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Sick toddler clinging [Actor]",
+   "description": "A feverish toddler wants constant holding, refuses play and cries at small things. The clinginess is a comfort-seeking signal, and calm closeness matters as much as checking the child for warning signs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4154,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Preeti",
+     "Dolma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Child regressing when ill [Actor]",
+   "description": "A sick young child may suddenly want a bottle, baby talk or the parent's bed again. Regression during illness is normal and usually fades as the child recovers, without any need for shaming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related concepts: regression"
+   ]
+  },
+  {
+   "sno": 4155,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Ritu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Sibling annoyed by the sick child's attention [Receiver]",
+   "description": "A healthy child may resent all the fuss around a sick sibling and act out or complain of pretend symptoms. A small piece of one-on-one time tells the well child they are still seen.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, resentment"
+   ]
+  },
+  {
+   "sno": 4156,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Suraj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Ill teen feeling foggy and cranky [Actor]",
+   "description": "A teenager with flu feels heavy, unmotivated and short-tempered, and may worry about missing school. Illness dulls thinking and mood, so decisions and arguments are better left until recovery.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4157,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Sarika",
+     "Ojas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Away from home and unwell [Actor]",
+   "description": "A student sick alone in a hostel feels sudden homesickness, self-pity and reluctance to bother anyone. Reaching out to a friend, a warden or family early makes recovery safer and less lonely.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: loneliness, nostalgia, trust"
+   ]
+  },
+  {
+   "sno": 4158,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Yogesh",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Fever and illness behaviour",
+   "subtype": "Working while sick [Actor]",
+   "description": "A young professional pushes on with a fever from fear of seeming unreliable, makes mistakes and spreads illness. Resting and telling the team is often the more responsible choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

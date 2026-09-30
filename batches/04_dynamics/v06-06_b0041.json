@@ -1,0 +1,223 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3308,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Maria",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 4: Pressure and loyalty [Actor]",
+   "description": "Managers reward those who deliver results without questions and sideline those who raise concerns. Loyalty to the team and fear for the job silence the ones who still feel uneasy.",
+   "graph_context": [
+    "previous stage: Euphemisms and rationalising",
+    "next stage: Harm becomes real",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 3309,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Rukmini",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 4: Pressure and loyalty [Observer]",
+   "description": "A colleague notices that the honest ones are sidelined and rules are quietly ignored. Signs of drift include targets set beyond legitimate means, fear of bad news and jokes about not asking too many questions.",
+   "graph_context": [
+    "previous stage: Euphemisms and rationalising",
+    "next stage: Harm becomes real",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3310,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Tariq",
+     "Clara"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 5: Harm becomes real [Actor]",
+   "description": "A customer, patient or worker is hurt, or an audit looms, and the cost of the earlier choices becomes visible. Many feel sudden shame and try to cover up further rather than admit it.",
+   "graph_context": [
+    "previous stage: Pressure and loyalty",
+    "next stage: Reckoning",
+    "related mind states: shame, hurt"
+   ]
+  },
+  {
+   "sno": 3311,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Varun",
+     "Rukmini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 6: Reckoning [Response]",
+   "description": "Someone speaks up, or an external review exposes the pattern. Leaders who own it, protect those who raised the issue and fix the incentives can rebuild trust.",
+   "graph_context": [
+    "previous stage: Harm becomes real",
+    "next stage: Guarding against drift",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3312,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 7: Guarding against drift [Response]",
+   "description": "The organisation builds safe reporting channels, rewards honest bad news and reviews incentives. Individuals decide their lines in advance and notice when they are explaining away discomfort.",
+   "graph_context": [
+    "previous stage: Reckoning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3313,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Tanvir",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Moral drift in an organisation",
+   "subtype": "Stage 1: A small shortcut [Response]",
+   "description": "A new hire declines to backdate a form, states the reason simply and offers a compliant alternative. Drawing the line at the first bend is much easier than at the tenth.",
+   "graph_context": [
+    "next stage: Normalising"
+   ]
+  },
+  {
+   "sno": 3314,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Irawati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 1: Noticing something wrong [Actor]",
+   "description": "An employee spots a safety cover-up, falsified data or misuse of funds and feels a knot of unease. At first the mind seeks innocent explanations and hopes someone else will handle it.",
+   "graph_context": [
+    "next stage: Checking and doubting",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 3315,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Rafiq",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 2: Checking and doubting [Actor]",
+   "description": "The person quietly gathers facts, asks whether they misunderstand and weighs loyalty to colleagues against duty to those who may be harmed. Being sure it is real comes before deciding to act.",
+   "graph_context": [
+    "previous stage: Noticing something wrong",
+    "next stage: Fear of costs",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3316,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Chetan",
+     "Mahima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 3: Fear of costs [Actor]",
+   "description": "Thoughts of losing the job, being blacklisted, family worries and isolation weigh heavily. The person may lose sleep, and feels alone since few colleagues are willing to speak.",
+   "graph_context": [
+    "previous stage: Checking and doubting",
+    "next stage: Trying internal channels",
+    "related mind states: fear, anxiety, loneliness"
+   ]
+  },
+  {
+   "sno": 3317,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Whistleblowing",
+   "subtype": "Stage 4: Trying internal channels [Response]",
+   "description": "The employee raises the matter with a supervisor, ethics office or compliance team in writing and keeps a record. Using proper channels first is often wise, and it clarifies who is willing to act.",
+   "graph_context": [
+    "previous stage: Fear of costs",
+    "next stage: Retaliation or dismissal"
+   ]
+  }
+ ]
+}

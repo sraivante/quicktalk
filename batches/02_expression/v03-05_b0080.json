@@ -1,0 +1,317 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2852,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Hemant"
+    ],
+    "4": [
+     "Farida",
+     "Devika"
+    ],
+    "5": [
+     "Alka",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Receiving recognition gracefully [Regulating]",
+   "description": "A young adult accepts thanks with a simple acknowledgement rather than brushing it off or boasting. Deflecting every compliment can leave the giver feeling unheard, while a warm thank-you and credit to others balances it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 2853,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Vasudha",
+     "Bhupen"
+    ],
+    "4": [
+     "Akash",
+     "Hemant"
+    ],
+    "5": [
+     "Lokesh",
+     "Zainab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Recognising colleagues at work [Expressing]",
+   "description": "A young professional credits a teammate's contribution in a meeting or message. Specific, timely and public credit builds trust, while generic praise or taking shared credit damages it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2854,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Kashish"
+    ],
+    "4": [
+     "Sharmila",
+     "Salma"
+    ],
+    "5": [
+     "Avni",
+     "Asif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Digital comfort and its limits [Mismatch]",
+   "description": "A heart emoji or \"thinking of you\" text offers quick support but can seem thin during a serious crisis. A call or visit, when the person welcomes it, often conveys care more fully.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2855,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Kavitha",
+     "Tarun"
+    ],
+    "4": [
+     "Bidisha",
+     "Sudha"
+    ],
+    "5": [
+     "Vijay",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Empathic listening and limits [Regulating]",
+   "description": "A young professional comforts a friend or colleague without absorbing all their distress, and refers them to help when needed. Empathy is a guess about feelings, not proof, so checking gently keeps support accurate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 2856,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Imran",
+     "Vinita"
+    ],
+    "4": [
+     "Uma",
+     "Seema"
+    ],
+    "5": [
+     "Gurpreet",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Reconciling and setting terms [Regulating]",
+   "description": "A young adult may forgive while keeping boundaries or choose not to reconcile when trust is broken repeatedly. Forgiveness is a personal process and does not oblige renewed contact, especially where safety is at stake.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2857,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Mahima"
+    ],
+    "4": [
+     "Harish",
+     "Leela"
+    ],
+    "5": [
+     "Sarita",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Workplace accountability [Regulating]",
+   "description": "A young professional owns an error early, explains the fix and avoids over-apologising or defensiveness. Both excessive self-blame and denial impair trust, so a brief factual acknowledgement usually works best.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust",
+    "related concepts: denial"
+   ]
+  },
+  {
+   "sno": 2858,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Binita",
+     "Gurpreet"
+    ],
+    "4": [
+     "Pooja",
+     "Urmila"
+    ],
+    "5": [
+     "Madhuri",
+     "Lakshmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Cultural norms on stating needs [Mismatch]",
+   "description": "In some settings guests are expected to decline food or help politely before accepting, and open statements of need may feel blunt. Hosts and guests read such politeness cautiously, offering more than once and watching context.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2859,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Beatriz",
+     "Noa"
+    ],
+    "4": [
+     "Sarika",
+     "Akash"
+    ],
+    "5": [
+     "Noor",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Workplace needs and boundaries [Expressing]",
+   "description": "A young professional asks for deadline clarity, breaks, accommodations or leave and states preferences on how to be contacted. Framing a need with a reason and an alternative usually gets a better hearing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2860,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Yash",
+     "Bidisha"
+    ],
+    "4": [
+     "Kunal",
+     "Sachin"
+    ],
+    "5": [
+     "Ishita",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Indirect disapproval in hierarchical or polite cultures [Mismatch]",
+   "description": "Disapproval may be signalled by silence, delayed replies, a change of subject or \"we will see\" rather than a plain no. Such cues are ambiguous and may reflect politeness or hesitation; asking gently clarifies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2861,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Noor",
+     "Mahima"
+    ],
+    "4": [
+     "Trisha",
+     "Sudha"
+    ],
+    "5": [
+     "Gurleen",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Scolding and reprimanding as a supervisor [Regulating]",
+   "description": "A young supervisor reprimands by describing the behaviour and its impact, keeping voice calm and giving a path to improve. Sarcasm, humiliation or repeated scolding harms the relationship and can amount to bullying.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm, humiliation"
+   ]
+  }
+ ]
+}

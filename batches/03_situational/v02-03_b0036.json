@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 668,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Hemant"
+    ],
+    "3": [
+     "Ramesh",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Guilt [Actor]",
+   "description": "I wonder if the fighting is because of me, my marks or my mess. Children often blame themselves, but adult problems are not caused by kids. If I ask, a parent should tell me clearly it is not my fault.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, hope, loyalty",
+    "related mind states: guilt, curiosity, awe"
+   ]
+  },
+  {
+   "sno": 669,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Francis"
+    ],
+    "3": [
+     "Akash",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Anger [Actor]",
+   "description": "I am angry at both of them for ruining our home. Anger covers sadness. Wise: say it in words, maybe draw or run. Slamming doors is natural, but hurting others or blaming one parent unfairly will hurt me more.",
+   "graph_context": [
+    "same situation, other stances at this age: comfort, fear, grief, guilt, hope, loyalty",
+    "related mind states: sadness, anger, hurt"
+   ]
+  },
+  {
+   "sno": 670,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ulla",
+     "Noa"
+    ],
+    "3": [
+     "Santosh",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Divided loyalty [Actor]",
+   "description": "Each parent says bad things about the other, and I feel torn. I love both. A wise child says I do not want to be in the middle. Being a messenger or spy for either parent is too heavy for me.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, guilt, hope",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 671,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Hemant"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Nirmala"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Grief [Actor]",
+   "description": "When my parents separate, I miss the old family and cry at odd times. Grief is normal even though nobody died. I keep routines, talk about it, and let myself be sad without hurrying to be okay.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, guilt, hope, loyalty",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 672,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Aparna",
+     "Joseph"
+    ],
+    "3": [
+     "Parul",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Hope [Actor]",
+   "description": "I keep hoping they will get back together and imagine plans to fix it. This is common, but I cannot fix their marriage. Accepting slowly frees me to enjoy time with each parent as it is.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, guilt, loyalty",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 673,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Avni",
+     "Yusuf"
+    ],
+    "3": [
+     "Ramesh",
+     "Vaibhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Child × Reassurance [Receiver]",
+   "description": "As a parent I explain calmly that the split is not the child's fault and that we both love them. Wise parents avoid badmouthing the other and keep routines. Using a child as a confidant or messenger harms them.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, grief, guilt, hope, loyalty",
+    "related mind states: affection, calm"
+   ]
+  },
+  {
+   "sno": 674,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Maria"
+    ],
+    "3": [
+     "Elizabeth",
+     "Jaya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Grandparent × Comfort [Receiver]",
+   "description": "My grandmother holds me and says the house may change but her love will not. Being with a steady elder calms me. Family in India often carries this role well; I accept the warmth and speak honestly.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, grief, guilt, hope, loyalty",
+    "related mind states: affection, calm"
+   ]
+  },
+  {
+   "sno": 675,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Leela"
+    ],
+    "3": [
+     "Joseph",
+     "Vaibhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Friend × Embarrassment [Actor]",
+   "description": "I do not want friends to know about the separation, and I feel ashamed. Many families go through it. I choose one trusted friend to tell. Hiding it forever costs more than sharing with someone kind.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, guilt, hope",
+    "related mind states: shame, embarrassment, trust"
+   ]
+  },
+  {
+   "sno": 676,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Francis"
+    ],
+    "3": [
+     "Lakshmi",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Manipulation [Receiver]",
+   "description": "One parent bribes me with gifts and hints I should choose them. It feels nice but wrong. I can say I love you both and do not want to choose. A child should never be a prize in an adult dispute.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, guilt, hope",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 677,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Pradeep"
+    ],
+    "3": [
+     "Neelam",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents fighting or separating",
+   "subtype": "Parent × Relief [Actor]",
+   "description": "After the separation the house is quieter and I feel relieved, then guilty for feeling that. Both feelings are true. Relief from tension is not betrayal, and I can miss them and feel calmer at once.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, comfort, fear, grief, guilt, hope",
+    "related mind states: guilt, relief, calm"
+   ]
+  }
+ ]
+}

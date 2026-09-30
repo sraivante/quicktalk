@@ -1,0 +1,219 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4519,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Shalini",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Giftedness",
+   "subtype": "Advanced mind, ordinary child [Actor]",
+   "description": "A child grasps ideas far above age level yet still needs friends, play and comfort. Boredom, perfectionism and feeling different are common, and adults must nurture the whole child, not only marks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: boredom",
+    "related concepts: boredom, perfectionism"
+   ]
+  },
+  {
+   "sno": 4520,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Kiran",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Giftedness",
+   "subtype": "Teacher noticing a restless bright child [Observer]",
+   "description": "A teacher sees a pupil finishing early, asking probing questions and then disrupting. Extra depth rather than extra workload, and respect for questions, keep interest alive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: admiration, interest, boredom"
+   ]
+  },
+  {
+   "sno": 4521,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Giftedness",
+   "subtype": "Loneliness and pressure [Actor]",
+   "description": "A gifted teenager may feel out of step with peers, hide ability to belong or feel every result must be top. Finding like-minded peers and mentors, and permission to be average sometimes, relieves the strain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: relief, loneliness"
+   ]
+  },
+  {
+   "sno": 4522,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Shalini",
+     "Sachin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Giftedness",
+   "subtype": "Parent expecting too much [Receiver]",
+   "description": "A parent proud of a gifted child may push for constant achievement, and the child feels loved only for brilliance. Valuing the child beyond ability protects their well-being.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: affection, pride"
+   ]
+  },
+  {
+   "sno": 4523,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Irawati",
+     "Sharmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Giftedness",
+   "subtype": "Uneven skills [Actor]",
+   "description": "A young adult brilliant at analysis may struggle with organisation or emotional skills, sometimes both at once. Seeing strengths and gaps without shame lets them work on each.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4524,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Hemant",
+     "Ira"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Stuttering",
+   "subtype": "Repeating sounds in excited speech [Actor]",
+   "description": "A child repeats or stretches sounds when excited, sometimes with tension in the face. Often the child is unaware at first; calm listening and no finishing sentences help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: excitement, calm"
+   ]
+  },
+  {
+   "sno": 4525,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sachin",
+     "Vijay"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Stuttering",
+   "subtype": "Listener responding kindly [Observer]",
+   "description": "A peer or adult who meets stuttering waits, does not complete sentences and does not say slow down or take a breath. Treating the person as a full conversation partner respects their pace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, relief from stress"
+   ]
+  },
+  {
+   "sno": 4526,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Jaya",
+     "Saurabh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Stuttering",
+   "subtype": "Fear of speaking in class [Actor]",
+   "description": "A child avoids reading aloud, swaps words to dodge difficult sounds and dreads being called on. Teasing makes it worse; teachers can allow time and speech therapy from a qualified therapist helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4527,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Tanvir",
+     "Nirmala"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Stuttering",
+   "subtype": "Hidden effort and shame [Actor]",
+   "description": "A teenager may stay silent, avoid phone calls and rehearse constantly, while their thoughts are clear and ready. The stress is often about how others react, more than the speech itself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4528,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Vidya",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Stuttering",
+   "subtype": "Speaking with confidence [Response]",
+   "description": "A young adult speaks openly about stuttering, slows down and does not apologise for it. Listeners who wait patiently and keep eye contact make it easier, and support groups reduce isolation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: loneliness"
+   ]
+  }
+ ]
+}

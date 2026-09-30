@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 378,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Manjula"
+    ],
+    "3": [
+     "Rashmi",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend in crisis",
+   "subtype": "Friend × Protective concern",
+   "description": "Notices signs of self-harm or despair, listens without judgment and encourages involving a trusted adult, even at the cost of the friend's anger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 379,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Yogesh"
+    ],
+    "3": [
+     "Joseph",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family conflict at home",
+   "subtype": "Parents × Fear & helplessness",
+   "description": "Feels anxious when parents fight or money is tight; needs space to talk, and learns that adult problems are not the child's fault.",
+   "graph_context": [
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 380,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Urmila"
+    ],
+    "3": [
+     "Beatriz",
+     "Elif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Critical feedback at work",
+   "subtype": "Boss × Respect",
+   "description": "Listens, asks for specifics, thanks the boss and shows change within days; feedback is treated as data rather than an attack.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, resentment",
+    "related mind states: gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 381,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Binita"
+    ],
+    "3": [
+     "Zainab",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Critical feedback at work",
+   "subtype": "Boss × Anger & resentment",
+   "description": "Feels humiliated and vents to colleagues; better to cool off, then request a private conversation to clarify expectations.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, respect",
+    "related mind states: anger, resentment, humiliation"
+   ]
+  },
+  {
+   "sno": 382,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Pankaj"
+    ],
+    "3": [
+     "Thomas",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Critical feedback at work",
+   "subtype": "Boss × Fear",
+   "description": "Freezes and over-apologises; learns that competence and calm questions earn respect faster than appeasement.",
+   "graph_context": [
+    "same situation, other stances at this age: resentment, respect",
+    "related mind states: admiration, fear, calm"
+   ]
+  },
+  {
+   "sno": 383,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Urmila",
+     "Kashish"
+    ],
+    "3": [
+     "Harish",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Colleague takes credit",
+   "subtype": "Colleague × Anger",
+   "description": "Feels used and considers exposing them; a measured approach is to document contributions, speak to the colleague, and escalate with facts if needed.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, envy",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 384,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Rukmini"
+    ],
+    "3": [
+     "Deepika",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Colleague takes credit",
+   "subtype": "Colleague × Envy",
+   "description": "Notices that the credit-taker gets promoted and feels bitter; learns to make own work visible instead of resenting.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, betrayal",
+    "related mind states: envy, resentment"
+   ]
+  },
+  {
+   "sno": 385,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Darshan"
+    ],
+    "3": [
+     "Shankar",
+     "Karthik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner disagrees strongly",
+   "subtype": "Partner × Argument",
+   "description": "Attacks the person instead of the issue (\"you always\"); healthy patterns use \"I feel\", pause when flooded and return to solve the problem together.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, contempt",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 386,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Wasim",
+     "Aparna"
+    ],
+    "3": [
+     "Hemant",
+     "Darshan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner disagrees strongly",
+   "subtype": "Partner × Affection under conflict",
+   "description": "Remains warm during disagreement by touching, softening the tone and stating that the relationship is safe.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt",
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 387,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Rajni"
+    ],
+    "3": [
+     "Jyoti",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner disagrees strongly",
+   "subtype": "Partner × Contempt",
+   "description": "Uses sarcasm, eye-rolling and mockery; contempt is a strong predictor of relationship breakdown and is replaced by appreciation and respect.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, argument",
+    "related mind states: admiration, contempt"
+   ]
+  }
+ ]
+}

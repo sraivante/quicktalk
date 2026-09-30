@@ -1,0 +1,319 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3850,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Usha",
+     "Damini"
+    ],
+    "10": [
+     "Samir",
+     "Sachin"
+    ],
+    "11": [
+     "Vandana",
+     "Minakshi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Denial",
+   "subtype": "Watching someone minimise mistreatment [Observer]",
+   "description": "A friend notices a colleague dismissing repeated disrespect from a partner as just their way; naming it gently once and staying available works better than arguing the person out of it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3851,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Beatriz",
+     "Chen"
+    ],
+    "10": [
+     "Vikas",
+     "Jatin"
+    ],
+    "11": [
+     "Hansa",
+     "Imran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Repression",
+   "subtype": "Forgetting the humiliating moment [Actor]",
+   "description": "A child cannot recall the day they were laughed at in assembly, yet flinches whenever the teacher calls on them; the memory is pushed out of awareness while the feeling keeps steering behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: amusement, humiliation"
+   ]
+  },
+  {
+   "sno": 3852,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Seema",
+     "Wasim"
+    ],
+    "10": [
+     "Rehana",
+     "Indu"
+    ],
+    "11": [
+     "Hansa",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Repression",
+   "subtype": "Blanking on a painful argument [Actor]",
+   "description": "A teenager honestly remembers little of a bitter family fight, but goes quiet and tense whenever the same room or song appears; the mind has shelved the hurt without resolving it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: resentment, hurt"
+   ]
+  },
+  {
+   "sno": 3853,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Nandini",
+     "Sarita"
+    ],
+    "10": [
+     "Suraj",
+     "Rafiq"
+    ],
+    "11": [
+     "Aiko",
+     "Emeka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Repression",
+   "subtype": "Unexplained strong reaction [Observer]",
+   "description": "A roommate sees a friend become rigid and irritable at a certain smell or phrase and cannot say why; the observer wisely notes it kindly without digging for a story the friend has not offered.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3854,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Rafiq",
+     "Jahnavi"
+    ],
+    "10": [
+     "Shalini",
+     "Rukmini"
+    ],
+    "11": [
+     "Mohit",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Repression",
+   "subtype": "Old feeling resurfacing [Actor]",
+   "description": "An adult holding a new baby or attending a funeral is flooded by grief tied to an early loss they thought was long forgotten; buried feelings often return when life offers a similar moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: grief, overwhelm"
+   ]
+  },
+  {
+   "sno": 3855,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Sudha",
+     "Nandini"
+    ],
+    "10": [
+     "Deepak",
+     "Rehana"
+    ],
+    "11": [
+     "Rukmini",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Repression",
+   "subtype": "Letting buried feeling be spoken [Response]",
+   "description": "An adult writes, talks with a trusted person, or cries when an old hurt surfaces instead of shoving it down again; if the feeling is overwhelming or persistent, a qualified counsellor is a sensible ally.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: overwhelm, trust, hurt"
+   ]
+  },
+  {
+   "sno": 3856,
+   "plan": {
+    "9": "R1+T1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Omkar",
+     "Arnab"
+    ],
+    "10": [
+     "Sudha",
+     "Farida"
+    ],
+    "11": [
+     "Chaitanya",
+     "Ayesha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Projection",
+   "subtype": "Attributing own anger to another [Actor]",
+   "description": "A child who just snatched a toy shouts that the other child is being mean and angry; the unwanted feeling is placed outside because owning it feels too bad.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3857,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Priscila",
+     "Rania"
+    ],
+    "10": [
+     "Kiran",
+     "Anand"
+    ],
+    "11": [
+     "Tushar",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Projection",
+   "subtype": "Accusing a friend of the child's own envy [Actor]",
+   "description": "A child who quietly envies a classmate's new bag announces that the classmate is showing off and is jealous of everyone; the envy is seen clearly in others and not at all in the self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: envy, jealousy"
+   ]
+  },
+  {
+   "sno": 3858,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Sharmila",
+     "Charu"
+    ],
+    "10": [
+     "Vaibhav",
+     "Tanuja"
+    ],
+    "11": [
+     "Sofia",
+     "Beatriz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Projection",
+   "subtype": "Feeling judged when self-doubting [Actor]",
+   "description": "A teenager unsure about their own looks becomes convinced the whole class stares and criticises; private self-criticism is experienced as other people's contempt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: contempt, doubt"
+   ]
+  },
+  {
+   "sno": 3859,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Binita",
+     "Yash"
+    ],
+    "10": [
+     "Vikas",
+     "Sahil"
+    ],
+    "11": [
+     "Lavanya",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Projection",
+   "subtype": "Being accused of hostility one does not feel [Receiver]",
+   "description": "A student is told by a flatmate that they are secretly angry and cold, when the flatmate is the one holding a grudge; the receiver can calmly check the facts instead of absorbing the charge.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, hostility, calm, resentment"
+   ]
+  }
+ ]
+}

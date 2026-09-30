@@ -1,0 +1,211 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5012,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Ritu",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "The last ten percent [Actor]",
+   "description": "A student has a project nearly done but leaves the final polish and submission undone for weeks. Finishing exposes the work to judgment, so avoidance often hides fear rather than laziness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 5013,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Amandeep",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "Defining done in advance [Response]",
+   "description": "A wise worker writes what finished looks like before starting, such as submitted, tested and sent, so there is no vague ninety percent. Clear endpoints make stopping a decision rather than a drift.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5014,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "Colleague who starts but does not close [Receiver]",
+   "description": "A team relies on someone who begins tasks brightly and leaves loose ends, so others quietly finish or chase them. The cost is invisible to the person and heavy for the people covering.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5015,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Eshaan",
+     "Karthik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Follow-through and finishing",
+   "subtype": "Finishing imperfectly on purpose [Response]",
+   "description": "A mature worker ships a good-enough version, gets feedback and improves it rather than holding it for perfection. A finished imperfect thing teaches far more than a perfect thing that never leaves the desk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5016,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Lalit",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Attention pulled by whatever is nearby [Actor]",
+   "description": "A young child starts putting on shoes, notices a toy and is soon playing on the floor with one shoe on. Attention follows the most interesting thing in view, and remembering the original goal is still fragile.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5017,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Kamal",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Homework with phone or TV near [Actor]",
+   "description": "A schoolchild studies with a screen within reach and keeps glancing at it, taking twice as long. The pull is not weakness of character; the brain simply responds to novelty and is bad at ignoring it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5018,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Ritu",
+     "Pankaj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Phone as a constant pull [Actor]",
+   "description": "A teenager picks up the phone for one quick check and surfaces forty minutes later without remembering deciding to. Feeds are built to remove stopping points, so willpower alone loses against design.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5019,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Alka",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Shaping the environment [Response]",
+   "description": "A wise student puts the phone in another room, uses a fixed study block and keeps only the needed book on the desk. Changing the surroundings works better than daily self-scolding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5020,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Minakshi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Multitasking illusion [Actor]",
+   "description": "A student studies with chat, music and videos running and feels busy while retaining little. Switching between tasks costs a little each time and the effort is mistaken for progress.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5021,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Lakshmi",
+     "Usha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Managing distractions",
+   "subtype": "Interrupted colleagues [Receiver]",
+   "description": "A worker deep in a problem is repeatedly pinged by a colleague wanting a quick answer and loses the thread each time. What feels like a two-minute question costs the receiver much longer to regain focus.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

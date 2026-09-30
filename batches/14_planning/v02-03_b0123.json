@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6981,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Vidya",
+     "Elizabeth"
+    ],
+    "3": [
+     "Tanuja",
+     "Devika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: return with limits on screen time and a support routine [Revision]",
+   "description": "Weeks later, the student rejoins with a smaller circle, checks messages only at set times and speaks to a counsellor about the stress. Recovery involves rebuilding a healthier relationship with the platform.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, seeking advice"
+   ]
+  },
+  {
+   "sno": 6982,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Bhupen",
+     "Keerthana"
+    ],
+    "3": [
+     "Anirban",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: ask the platform and a lawyer about defamation remedies [Action]",
+   "description": "When false claims spread, the person keeps records and consults a lawyer or the platform's help process about takedown and legal options. Lawful remedies are pursued without retaliation.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6983,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Sangeeta"
+    ],
+    "3": [
+     "Gautam",
+     "Binita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing an online pile-on",
+   "subtype": "Approach: hit back with insults to defend pride [Pitfall]",
+   "description": "Stung by mockery, the person posts a cutting reply about the main critic. The retort draws more attention and gives the crowd fresh material.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, experiment and measure, forward planning, seeking advice",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 6984,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Gurpreet"
+    ],
+    "3": [
+     "Gurpreet",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: pros-and-cons list with a fixed deadline [Thinking]",
+   "description": "An engineer unhappy in a first job writes what is gained and lost by staying versus leaving, and sets a date, three months away, to decide. A deadline prevents endless brooding.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, cutting losses, experiment and measure, rigid persistence, root cause analysis",
+    "related mind states: joy, sadness"
+   ]
+  },
+  {
+   "sno": 6985,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Akash"
+    ],
+    "3": [
+     "Rajni",
+     "Jeevan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: quit on the day of a bad meeting [Pitfall]",
+   "description": "Humiliated in a review, the employee sends a resignation email that evening with no other offer. The impulse feels like freedom, but leaves a gap in income and burned bridges.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, experiment and measure, pros and cons, rigid persistence, root cause analysis",
+    "related mind states: humiliation"
+   ]
+  },
+  {
+   "sno": 6986,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Mridul"
+    ],
+    "3": [
+     "Tarun",
+     "Lakshmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: find out what exactly is wrong using five whys [Thinking]",
+   "description": "The person asks why the job feels bad, then why again, and finds that the real problem is a lack of learning and an unclear role, not the pay. Root-cause thinking changes what to ask for or look for.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, cutting losses, experiment and measure, pros and cons, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6987,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pallavi",
+     "Arnab"
+    ],
+    "3": [
+     "Santosh",
+     "Dhruv"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: run an experiment by asking for a change [Action]",
+   "description": "The employee asks for a different project and clearer goals for two months, then observes whether the work improves. A trial provides evidence before an irreversible choice.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, cutting losses, pros and cons, rigid persistence, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6988,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Seema"
+    ],
+    "3": [
+     "Vijay",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: persist rigidly because leaving feels like failure [Pitfall]",
+   "description": "A student in a course he dislikes keeps going, citing the fees already paid and family expectations. Sunk cost and fear of judgement keep him in a poor fit for a year.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, cutting losses, experiment and measure, pros and cons, root cause analysis",
+    "related mind states: fear",
+    "possibly related concept (heuristic): Sunk cost fallacy"
+   ]
+  },
+  {
+   "sno": 6989,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Dhruv"
+    ],
+    "3": [
+     "Nadia",
+     "Liam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: line up an exit plan before leaving [Action]",
+   "description": "The person updates the CV, builds three months of savings and starts interviews while still employed, then resigns on good terms. Planning the exit reduces risk.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, cutting losses, experiment and measure, pros and cons, rigid persistence, root cause analysis"
+   ]
+  },
+  {
+   "sno": 6990,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Damini"
+    ],
+    "3": [
+     "Parul",
+     "Shreya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to quit or persist",
+   "subtype": "Approach: consult people who made a similar choice [Action]",
+   "description": "The person speaks to two seniors who left similar roles and to one who stayed, asking what they gained and regretted. Different experiences reveal how the choice looks in practice.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, cutting losses, experiment and measure, pros and cons, rigid persistence",
+    "related mind states: regret"
+   ]
+  }
+ ]
+}

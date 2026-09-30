@@ -1,0 +1,303 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 71,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Chinmay",
+     "Eshaan"
+    ],
+    "10": [
+     "Shreya",
+     "Tejas"
+    ],
+    "11": [
+     "Sumit",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Group & Community Care",
+   "description": "Taking active responsibility for helping peers, caring for animals, or serving group roles.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 72,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Harsha",
+     "Naveen"
+    ],
+    "10": [
+     "Sachin",
+     "Jasleen"
+    ],
+    "11": [
+     "Uday",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Rule-Based Problem Solving",
+   "description": "Using structured logic, step-by-step choices, and standard rules to resolve daily dilemmas.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 73,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Samir",
+     "Pankaj"
+    ],
+    "10": [
+     "Wei",
+     "Leila"
+    ],
+    "11": [
+     "Gautam",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Habits & Ethics",
+   "subtopic": "Academic Discipline",
+   "subtype": "Study & Work Ethics",
+   "description": "Building diligent study routines, punctuality, and academic honesty vs. procrastination, slacking off, and cheating.",
+   "graph_context": [
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 74,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Noor",
+     "Charu"
+    ],
+    "10": [
+     "Usha",
+     "Bidisha"
+    ],
+    "11": [
+     "Anand",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Financial Literacy",
+   "subtopic": "Resource Management",
+   "subtype": "Thrift & Value Awareness",
+   "description": "Grasping money as exchanged value, practicing saving, avoiding wasteful consumption, and respecting resource limits.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 75,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Lavanya",
+     "Disha"
+    ],
+    "10": [
+     "Nirmala",
+     "Nikita"
+    ],
+    "11": [
+     "Rafiq",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Civic & Relational",
+   "subtopic": "Civic Identity",
+   "subtype": "Patriotism & Institutional Respect",
+   "description": "Honoring national symbols (flag, anthem), respecting school/civil rules, and valuing extended family and government institutions.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 76,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Dilnaz",
+     "Ramesh"
+    ],
+    "10": [
+     "Francis",
+     "Shreya"
+    ],
+    "11": [
+     "Karthik",
+     "Imran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Community & Environment",
+   "description": "Taking personal ownership of homework/chores, respecting community spaces, caring for animals, and practicing respectful digital behavior.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 77,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Tanvir",
+     "Pradeep"
+    ],
+    "10": [
+     "Damini",
+     "Neelam"
+    ],
+    "11": [
+     "Baljeet",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Metacognition",
+   "description": "Developing the ability to think about one's own thinking, analyze flaws, and self-reflect."
+  },
+  {
+   "sno": 78,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Lavanya",
+     "Karthik"
+    ],
+    "10": [
+     "Divyansh",
+     "Devika"
+    ],
+    "11": [
+     "Jaya",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Hypothetical Reasoning",
+   "description": "Asking \"what if\" questions and playing out complex scenarios that have not happened."
+  },
+  {
+   "sno": 79,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Farhan",
+     "Jomon"
+    ],
+    "10": [
+     "Tanvir",
+     "Francis"
+    ],
+    "11": [
+     "Nandini",
+     "Jagdish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Systems Thinking",
+   "description": "Understanding how multiple separate variables interact within a larger system."
+  },
+  {
+   "sno": 80,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Harsha",
+     "Minakshi"
+    ],
+    "10": [
+     "Vikas",
+     "Kalyani"
+    ],
+    "11": [
+     "Yuki",
+     "Olga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Critical Thinking",
+   "subtopic": "Metacognitive Virtues",
+   "subtype": "Intellectual Humility & Bias Awareness",
+   "description": "Recognizing personal cognitive biases, logical fallacies, emotional reasoning, and the limits of one's knowledge.",
+   "graph_context": [
+    "related concepts: emotional reasoning"
+   ]
+  }
+ ]
+}

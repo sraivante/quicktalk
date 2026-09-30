@@ -1,0 +1,218 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2162,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Bhupen",
+     "Santosh"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Playful [Expressing]",
+   "description": "A toddler runs away with a grin and looks back to be chased, inviting play. The look back is the invitation, so adults who join in build connection and turn-taking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2163,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Jomon",
+     "Avni"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Distressed [Expressing]",
+   "description": "A toddler screams, clings or arches away when overwhelmed or frightened. Distress needs calm closeness, since scolding raises arousal, and reading the trigger helps prevent it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, calm, overwhelm"
+   ]
+  },
+  {
+   "sno": 2164,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Mridul"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Pained [Expressing]",
+   "description": "A toddler cries sharply, holds a body part or refuses to move when hurt. Toddlers cannot say where it hurts, so adults watch for pointing, guarding, fever and changes in eating or sleeping.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2165,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Maria",
+     "Swati"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Sad [Expressing]",
+   "description": "A toddler goes quiet, droops or whimpers when a caregiver leaves or a toy breaks. Sadness may look like tiredness, so comfort and a simple name for the feeling help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, tiredness"
+   ]
+  },
+  {
+   "sno": 2166,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Damini"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Distress and loss",
+   "subtype": "Tearful [Expressing]",
+   "description": "A toddler cries loudly with tears for hunger, pain, tiredness, frustration or fear. Crying is the main signal at this age, so caregivers check needs and offer soothing before reasoning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, anger, fear, tiredness"
+   ]
+  },
+  {
+   "sno": 2167,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Pooja",
+     "Dilnaz"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Angry [Expressing]",
+   "description": "A toddler stamps, hits or throws things when blocked or frustrated. Anger at this age is big and physical, and calm limits with a name for the feeling help more than punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 2168,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Mahima",
+     "Himani"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Threat and conflict",
+   "subtype": "Fearful [Expressing]",
+   "description": "A toddler freezes, clings or cries at a loud noise, stranger or dog. Fear is a survival signal, so comfort and gradual exposure work better than forcing or mocking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 2169,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Rajni"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Social sensitivity",
+   "subtype": "Shy [Expressing]",
+   "description": "A toddler hides behind a parent, looks away or goes quiet with strangers. Shyness is a temperament trait and improves with gentle warm-up time, not pushing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, shyness"
+   ]
+  },
+  {
+   "sno": 2170,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Binita",
+     "Vidya"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Curious [Expressing]",
+   "description": "A toddler reaches, pokes, opens and points at everything, seeking to know. Curiosity is safe when the environment is safe, and naming things feeds language.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: curiosity, trust"
+   ]
+  },
+  {
+   "sno": 2171,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Sofia",
+     "Kofi"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Thinking and attention",
+   "subtype": "Interested and attentive [Expressing]",
+   "description": "A toddler stares, leans in and goes still at a new sound or picture. Focused looking shows interest, and staring away can mean too much stimulation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

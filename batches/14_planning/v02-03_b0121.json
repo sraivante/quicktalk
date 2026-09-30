@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6961,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Kavitha",
+     "Divyansh"
+    ],
+    "3": [
+     "Manoj",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: root-cause thinking about how data was shared so freely [Thinking]",
+   "description": "Asking why so many services had the same details, the person decides to give minimum data, use a separate email for sign-ups and read permissions. Tracing the cause changes future habits.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6962,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Sarita",
+     "Manjula"
+    ],
+    "3": [
+     "Urmila",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: alert friends and family to expect phishing [Action]",
+   "description": "Since contact lists were part of the leak, the person tells relatives to ignore suspicious messages asking for money or OTPs. Warning others reduces spread of harm.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 6963,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Omkar"
+    ],
+    "3": [
+     "Hansa",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a data breach",
+   "subtype": "Approach: assume nothing is at risk because nothing was stolen [Pitfall]",
+   "description": "The person reasons that only an email address leaked and dismisses the risk. Combined with other data, the address later enables targeted scams, showing how small leaks add up.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6964,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Bhupen"
+    ],
+    "3": [
+     "Rehana",
+     "Sharmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: decide which tasks the tool should and should not do [Thinking]",
+   "description": "A final-year student sets a rule that AI can explain concepts and check grammar, but cannot write the submitted analysis. Choosing the purpose first keeps the tool as an aid to learning.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6965,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Neelam",
+     "Noor"
+    ],
+    "3": [
+     "Karthik",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: verify AI outputs against reliable sources [Action]",
+   "description": "Before using a summary of a paper, the person checks the claims and citations in the original source. Verification is needed because tools can produce confident but wrong statements.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6966,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Usha"
+    ],
+    "3": [
+     "Preeti",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: paste the assignment and submit the result [Pitfall]",
+   "description": "Pressed for time, a student submits an AI-written essay unchanged. The work has errors, breaks the institution's policy on originality and teaches nothing, so the shortcut costs more later.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6967,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Saurabh"
+    ],
+    "3": [
+     "Vijay",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: read the institution and employer AI policy first [Action]",
+   "description": "The employee checks the company guideline before pasting client documents into a public chatbot, and asks the manager about approved tools. Confidential data should not be entered into unapproved services.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6968,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Mina",
+     "Santiago"
+    ],
+    "3": [
+     "Kishore",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: use the tool as a tutor with own attempt first [Thinking]",
+   "description": "The student attempts a coding problem, then asks the tool to explain the error and quiz them on the concept. Trying first keeps thinking active and makes the help stick.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6969,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Yash"
+    ],
+    "3": [
+     "Dilnaz",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: trust the output because it sounds fluent [Pitfall]",
+   "description": "A young analyst uses a tool-generated figure in a report without checking it. A manager finds the number invented, which harms credibility. Fluency is mistaken for accuracy.",
+   "graph_context": [
+    "same problem, other approaches: critical path, negotiation",
+    "related mind states: detachment, trust"
+   ]
+  },
+  {
+   "sno": 6970,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Jomon"
+    ],
+    "3": [
+     "Rehana",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Using AI tools responsibly",
+   "subtype": "Approach: add disclosure and keep a record of use [Revision]",
+   "description": "After a professor's question, the student begins noting where AI helped and includes an acknowledgment in submitted work. Adjusting to openness protects trust and clarifies what is their own work.",
+   "graph_context": [
+    "same problem, other approaches: critical path, impulsive action, negotiation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

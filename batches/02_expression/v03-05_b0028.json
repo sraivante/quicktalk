@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2332,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Yash",
+     "Manoj"
+    ],
+    "4": [
+     "Bhavna",
+     "Darshan"
+    ],
+    "5": [
+     "Bidisha",
+     "Preeti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Tongue pressed in cheek [Mismatch]",
+   "description": "A school-age child presses the tongue against a cheek while concentrating or hiding a joke, and older people use it to show something is tongue-in-cheek. The meaning depends on shared context.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2333,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Nandini",
+     "Vandana"
+    ],
+    "4": [
+     "Irfan",
+     "Avni"
+    ],
+    "5": [
+     "Francis",
+     "Hansa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Blank face at bullying or shame [Regulating]",
+   "description": "A child keeps a blank, rigid face when teased to avoid giving a reaction, which can hide real hurt. Adults check in privately and let the child know they can ask for help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shame, hurt"
+   ]
+  },
+  {
+   "sno": 2334,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Farhan"
+    ],
+    "4": [
+     "Ujjwal",
+     "Anjali"
+    ],
+    "5": [
+     "Kiran",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Deadpan humour [Mismatch]",
+   "description": "A school-age child delivers a joke with a deadpan face, making it funnier for those who know the style but confusing others. A small signal like a twinkle helps show it is a joke.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, confusion"
+   ]
+  },
+  {
+   "sno": 2335,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Neelam"
+    ],
+    "4": [
+     "Gopika",
+     "Rashmi"
+    ],
+    "5": [
+     "Nikita",
+     "Ramesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Bowing the head and namaste in India [Mismatch]",
+   "description": "A child learns to bow the head slightly with namaste to greet elders as respect, which differs from head-bowing in shame. Context and culture decide whether it signals reverence or submission.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, shame"
+   ]
+  },
+  {
+   "sno": 2336,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kunal",
+     "Karthik"
+    ],
+    "4": [
+     "Mridul",
+     "Anjali"
+    ],
+    "5": [
+     "Ankita",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Head tilt in listening [Interpreting]",
+   "description": "A school-age child sees a teacher tilt the head and reads curiosity or sympathy, though it can also be doubt. Body and tone add to the meaning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: curiosity, doubt, empathy"
+   ]
+  },
+  {
+   "sno": 2337,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Chandrika",
+     "Farhan"
+    ],
+    "4": [
+     "Pooja",
+     "Chinmay"
+    ],
+    "5": [
+     "Aparna",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Shoulders",
+   "subtype": "Dropped shoulders after failure [Expressing]",
+   "description": "A child drops the shoulders after a loss or disappointing marks, showing sadness or defeat. A warm word helps more than telling the child to cheer up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: sadness, disappointment"
+   ]
+  },
+  {
+   "sno": 2338,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Mei",
+     "Noa"
+    ],
+    "4": [
+     "Deepak",
+     "Deepika"
+    ],
+    "5": [
+     "Yogesh",
+     "Baljeet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Shoulders",
+   "subtype": "One-shoulder lift [Interpreting]",
+   "description": "A school-age child sees a friend lift one shoulder and reads uncertainty, shyness or a half-hearted maybe. It is a weak signal, so asking clarifies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 2339,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Uma",
+     "Tarun"
+    ],
+    "4": [
+     "Payal",
+     "Pema"
+    ],
+    "5": [
+     "Vandana",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Arm positions",
+   "subtype": "Hands behind the back [Mismatch]",
+   "description": "A child holds hands behind the back, in school parade or when hiding something, and it may signal respect, nervousness or concealment. It is not proof of guilt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, anxiety, guilt"
+   ]
+  },
+  {
+   "sno": 2340,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Freya",
+     "Soo-ah"
+    ],
+    "4": [
+     "Simran",
+     "Vikas"
+    ],
+    "5": [
+     "Gargi",
+     "Hansa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Arm positions",
+   "subtype": "Hands on hips [Interpreting]",
+   "description": "A school-age child sees a teacher with hands on hips and reads authority or impatience, but it may also be resting. Tone and words add meaning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2341,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Sonali",
+     "Imran"
+    ],
+    "4": [
+     "Yash",
+     "Sahil"
+    ],
+    "5": [
+     "Jatin",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Snapping fingers and rubbing hands [Mismatch]",
+   "description": "A child snaps the fingers in rhythm or to call attention, and rubs the hands from cold or eager anticipation. Meaning depends on context, and snapping at people can seem rude.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: excitement"
+   ]
+  }
+ ]
+}

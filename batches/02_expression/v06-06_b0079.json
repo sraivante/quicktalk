@@ -1,0 +1,214 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2842,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Kamal",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Confusion and lack of knowledge at work [Expressing]",
+   "description": "A young employee who is confused says what is clear, what is not and what is needed, rather than nodding along. Faking understanding is a common pitfall that leads to bigger errors later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2843,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Rashmi",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Disbelief, suspicion and scams [Interpreting]",
+   "description": "A young professional treats surprising offers, urgent messages and unbelievable claims with healthy suspicion and verifies before acting. Doubt is a protective tool, though it should not become cynicism about everything.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: doubt, surprise"
+   ]
+  },
+  {
+   "sno": 2844,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Akash",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Disagreeing with seniors [Regulating]",
+   "description": "A young professional disagrees with a senior by acknowledging the point, giving a reason and offering an alternative. Norms about hierarchy vary, so tone and timing matter as much as content.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2845,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Vasudha",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Requests in hierarchical workplaces [Mismatch]",
+   "description": "In a workplace, a boss's request may work as an instruction and an employee's request may sound like a hint. A young professional states asks clearly, such as I would like X by Y, and confirms in writing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2846,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Afreen",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Mentoring and reminding [Regulating]",
+   "description": "A young professional mentors juniors by suggesting options, giving reminders and letting them decide. Overcorrecting or reminding constantly can feel like distrust and reduce learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2847,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Soo-ah",
+     "Bilal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Workplace limits and authorizing [Regulating]",
+   "description": "A young professional sets limits on after-hours work, refuses tasks outside role and asks who authorizes decisions. Stating limits with alternatives is more effective than silent resentment or sudden refusal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 2848,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Formal vows and pledges [Mismatch]",
+   "description": "A young adult may take vows in marriage, religion, or a profession, which carry cultural meaning and legal weight. The seriousness differs by culture, so a person asks what the commitment means to each side.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2849,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Nandini",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Overpromising and offering at work [Regulating]",
+   "description": "A young professional offers to help and makes commitments to a team. Overpromising to please leads to burnout and broken trust, so a realistic yes with a date is better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2850,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Ganga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Longing and solidarity at distance [Expressing]",
+   "description": "A young adult living away from home for work misses family and friends and shows connection through calls, video chats and sharing news. Regular small contact often maintains closeness better than rare big gestures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 2851,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Urmila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Love languages and cultural differences [Mismatch]",
+   "description": "Affection can show through words, acts of service, gifts, time or touch, and families and cultures differ in how openly love is voiced. In many Indian families care shows through food and practical help, so absence of words does not mean absence of love.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

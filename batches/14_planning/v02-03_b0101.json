@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6761,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Salma"
+    ],
+    "3": [
+     "Baljeet",
+     "Leela"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: emotion-aware planning of the first weeks [Thinking]",
+   "description": "The student accepts that the first weeks will be heavy and plans around it, keeping routines like classes, meals and sleep, and not making big decisions on bad days.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning"
+   ]
+  },
+  {
+   "sno": 6762,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Vaibhav"
+    ],
+    "3": [
+     "Vidya",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: leaning on friends and family [Action]",
+   "description": "The student tells two close friends what happened, accepts invitations even when not in the mood, and calls a sibling weekly, so that isolation does not deepen the pain.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, forward planning",
+    "related mind states: loneliness, hurt"
+   ]
+  },
+  {
+   "sno": 6763,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Afreen"
+    ],
+    "3": [
+     "Kalyani",
+     "Omkar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: checking the ex's profiles repeatedly [Pitfall]",
+   "description": "The student keeps looking at the ex's posts hoping for a sign, and each look reopens the hurt, while the habit keeps the breakup fresh long after it ended.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6764,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Kishore"
+    ],
+    "3": [
+     "Ira",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: reducing triggers by muting and removing reminders [Action]",
+   "description": "The student mutes the ex's accounts, moves old photos into a folder for later, and takes a different route to class, making room for healing without any confrontation.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning"
+   ]
+  },
+  {
+   "sno": 6765,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Kunal"
+    ],
+    "3": [
+     "Elif",
+     "Diego"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: rebound relationship to avoid the feeling [Pitfall]",
+   "description": "To escape loneliness, the student starts a new relationship within days, and it fails because the grief was never faced and the new partner is used as a distraction.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, emotion-aware planning, forward planning",
+    "related mind states: grief, loneliness"
+   ]
+  },
+  {
+   "sno": 6766,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Pranav"
+    ],
+    "3": [
+     "Pooja",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: channelling energy into goals [Action]",
+   "description": "The student joins a gym, picks up a coding project and enrols in a weekend class, which fills the evenings and gives small wins to build confidence.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning"
+   ]
+  },
+  {
+   "sno": 6767,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Samir",
+     "Maria"
+    ],
+    "3": [
+     "Tanvir",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: reflecting on what was learned [Thinking]",
+   "description": "After some weeks, the student writes what they valued, what did not work and what they want next time, which turns the pain into clearer views on future partners.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6768,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Hrithik"
+    ],
+    "3": [
+     "Akash",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: rumination and replaying arguments [Pitfall]",
+   "description": "At night the student replays old conversations looking for what could have been changed, and loses sleep, since the mind searches for control that is not available.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning"
+   ]
+  },
+  {
+   "sno": 6769,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Aditi",
+     "Rukmini"
+    ],
+    "3": [
+     "Ishita",
+     "Sonali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: seeking professional support when low persists [Revision]",
+   "description": "When sadness stays heavy for two months and affects studies, the student books a campus counsellor visit instead of waiting, and starts to feel more supported.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, emotion-aware planning, forward planning",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 6770,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Avni"
+    ],
+    "3": [
+     "Vaibhav",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Moving on after a breakup",
+   "subtype": "Approach: revising the plan after a setback [Revision]",
+   "description": "After running into the ex at a fest and feeling shaken, the student does not treat it as failure, and simply plans a calm exit line and a friend nearby for such moments.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, forward planning",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

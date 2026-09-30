@@ -1,0 +1,267 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6421,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Ankita"
+    ],
+    "3": [
+     "Tushar",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: joining because friends are going [Pitfall]",
+   "description": "The teen goes along because of excitement and fear of missing out, without knowing the demands. When tensions rise, there is no clarity about what is being supported or how to leave.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: fear, excitement"
+   ]
+  },
+  {
+   "sno": 6422,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Sarika"
+    ],
+    "3": [
+     "Harsha",
+     "Alka"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: risk assessment and safety planning [Action]",
+   "description": "The teen checks that the protest is lawful and peaceful, tells parents the location, goes with a trusted adult, carries water and a charged phone, and agrees on when to leave.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 6423,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Manjula"
+    ],
+    "3": [
+     "Sangeeta",
+     "Chandrika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: talking with parents and weighing their concerns [Action]",
+   "description": "The teen listens to parents' worries about safety and exams, explains why the issue matters, and together they agree on a form of participation that respects both views.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: admiration, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 6424,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Omkar"
+    ],
+    "3": [
+     "Kamal",
+     "Jatin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: choosing other lawful ways to contribute [Thinking]",
+   "description": "The teen weighs options such as signing a petition, writing to a representative, speaking at a school forum or raising awareness responsibly, and picks a way that fits age and risk.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6425,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Sahil"
+    ],
+    "3": [
+     "Bhupen",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: sharing unverified posts as action [Pitfall]",
+   "description": "The teen forwards dramatic messages about the issue without checking them. If false, this spreads confusion and weakens the cause, showing that quick sharing feels like action but can cause harm.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, values-first planning",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 6426,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Pema"
+    ],
+    "3": [
+     "Jeevan",
+     "Nikita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: avoiding any decision out of fear [Pitfall]",
+   "description": "Worried about trouble, the teen decides to never think about civic issues. This avoids risk, but also removes the chance to learn how to take part in public life in safe, lawful ways.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning",
+    "related mind states: fear, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 6427,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Santosh",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Noor",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: changing plan when the situation shifts [Revision]",
+   "description": "When news reports say the gathering has turned tense, the teen decides not to go and instead helps with a peaceful awareness activity, showing that plans should change with new information.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6428,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Disha"
+    ],
+    "3": [
+     "Eshaan",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to join a protest",
+   "subtype": "Approach: reflecting after participating [Revision]",
+   "description": "After a peaceful gathering, the teen reviews what was learned, what felt uncomfortable and how effective the action was, and decides to stay involved through a school committee.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, values-first planning",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6429,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Kavitha",
+     "Chetan"
+    ],
+    "3": [
+     "Jahnavi",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Duty versus personal desire",
+   "subtype": "Approach: naming the competing values [Thinking]",
+   "description": "A girl asked to skip a robotics camp to help at her family's shop writes down what family duty and her own ambition each mean to her, so the conflict is understood rather than only felt.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, brainstorming, negotiation, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6430,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Amandeep",
+     "Vasudha"
+    ],
+    "3": [
+     "Manjula",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Duty versus personal desire",
+   "subtype": "Approach: listing options beyond either-or [Thinking]",
+   "description": "Instead of just yes or no, the student brainstorms half-days at the shop, a sibling covering some shifts, or joining a shorter robotics programme, widening the choices.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, sleeping on it, values-first planning"
+   ]
+  }
+ ]
+}

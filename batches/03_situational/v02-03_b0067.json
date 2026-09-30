@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 978,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Rukmini"
+    ],
+    "3": [
+     "Darshan",
+     "Keerthana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Parent × Envy [Actor]",
+   "description": "As a parent I compare my child because I fear they will fall behind and I feel my own regrets. Wise: notice that comparison motivates rarely, and praise real effort. Harmful: making love feel conditional.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, indifference, resentment, shame",
+    "related mind states: affection, fear, envy, regret"
+   ]
+  },
+  {
+   "sno": 979,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Sudha"
+    ],
+    "3": [
+     "Lalit",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Cousin × Envy [Receiver]",
+   "description": "I am the cousin held up as ideal and feel awkward, unable to share my own struggles. Wise: stay kind, admit I have difficulties too, and refuse to gloat. Harmful: enjoying the pedestal.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, indifference, resentment, shame",
+    "related mind states: embarrassment, envy"
+   ]
+  },
+  {
+   "sno": 980,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Afreen",
+     "Madhuri"
+    ],
+    "3": [
+     "Rashmi",
+     "Abhinav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent compares me",
+   "subtype": "Parent × Indifference [Actor]",
+   "description": "I stop reacting to comparisons and go numb, telling myself I do not care. Wise: check whether I truly stopped caring or just stopped feeling; then have one honest talk. Harmful: turning off effort altogether.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, envy, resentment, shame",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 981,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vijay",
+     "Ritu"
+    ],
+    "3": [
+     "Disha",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Grief [Actor]",
+   "description": "I mourn the family I thought I had and feel it as my loss too. Wise: let myself cry, keep routines, and talk to a friend or counsellor. Harmful: pretending I am fine to protect everyone.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, guilt, loyalty, manipulation, neglect",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 982,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Jomon"
+    ],
+    "3": [
+     "Chetan",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Anger [Actor]",
+   "description": "I blame one parent and cannot sit in the same room with them. Wise: recognise that anger covers sadness and that adult relationships are more complicated than I see. Harmful: cutting one parent off entirely.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, grief, guilt, loyalty, manipulation, neglect",
+    "related mind states: sadness, anger"
+   ]
+  },
+  {
+   "sno": 983,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Leila",
+     "Marek"
+    ],
+    "3": [
+     "Anjali",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Guilt [Actor]",
+   "description": "I secretly wonder if my fights or grades caused the split. Wise: hear from the parents plainly that it was not my fault and keep loving both. Harmful: trying to fix them by behaving perfectly.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, grief, loyalty, manipulation, neglect",
+    "related mind states: guilt, curiosity, awe"
+   ]
+  },
+  {
+   "sno": 984,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Jagdish"
+    ],
+    "3": [
+     "Zubin",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Manipulation [Receiver]",
+   "description": "A parent uses me as messenger or spy, or badmouths the other to win my side. It is not my job or fault. Wise: kindly refuse to carry messages and tell a trusted adult if the pressure continues.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, grief, guilt, loyalty, neglect",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 985,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Baljeet"
+    ],
+    "3": [
+     "Ivan",
+     "Nadia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Loyalty [Actor]",
+   "description": "I feel torn, afraid that loving one parent betrays the other. Wise: say I love both and will not choose. Harmful: siding with the louder parent or hiding affection from the other to keep peace.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, grief, guilt, manipulation, neglect",
+    "related mind states: affection, fear, calm"
+   ]
+  },
+  {
+   "sno": 986,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Neelam"
+    ],
+    "3": [
+     "Tejas",
+     "Parul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Acceptance [Actor]",
+   "description": "After time I see both parents as flawed humans who do better apart, and I take care of my own life. Wise: stay open to visits and honest with them. Risk: forcing calm before I have grieved.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, grief, guilt, loyalty, manipulation, neglect",
+    "related mind states: grief, calm"
+   ]
+  },
+  {
+   "sno": 987,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Sahil"
+    ],
+    "3": [
+     "Hemant",
+     "Jagdish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Parents are divorcing",
+   "subtype": "Parent × Neglect [Receiver]",
+   "description": "Absorbed in their own pain, my parent forgets my meals, exams, or feelings. It is not because I am unlovable. Wise: ask for what I need clearly and lean on a grandparent, teacher, or relative.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, grief, guilt, loyalty, manipulation",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

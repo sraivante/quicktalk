@@ -1,0 +1,330 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3338,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Karthik",
+     "Chinmay"
+    ],
+    "4": [
+     "Abhinav",
+     "Jasleen"
+    ],
+    "5": [
+     "Vijay",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Midlife-style regret at 25",
+   "subtype": "Stage 6: Small experiments [Response]",
+   "description": "The person tries a course, a side project or a conversation with someone doing what they admire. Cheap tests of a new direction give real feedback without burning bridges.",
+   "graph_context": [
+    "previous stage: Sorting regret from values",
+    "next stage: Own timeline, own pace",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3339,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Tariq",
+     "Zanele"
+    ],
+    "4": [
+     "Chandrika",
+     "Rekha"
+    ],
+    "5": [
+     "Tushar",
+     "Rukmini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Midlife-style regret at 25",
+   "subtype": "Stage 7: Own timeline, own pace [Response]",
+   "description": "Comfort comes from accepting that lives unfold unevenly and that many paths open late. The person plans in years, not weeks, and measures progress against their own values.",
+   "graph_context": [
+    "previous stage: Small experiments"
+   ]
+  },
+  {
+   "sno": 3340,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Vera",
+     "Ivan"
+    ],
+    "4": [
+     "Irawati",
+     "Asif"
+    ],
+    "5": [
+     "Gargi",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 1: Excitement and honeymoon [Actor]",
+   "description": "A student or young worker arrives in a new city for study or a job, finding everything fresh and exciting. Novelty gives energy, and homesickness is pushed aside by the rush of activity.",
+   "graph_context": [
+    "next stage: Logistics and small frustrations",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: excitement, nostalgia"
+   ]
+  },
+  {
+   "sno": 3341,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Yamini",
+     "Reena"
+    ],
+    "4": [
+     "Kiran",
+     "Nandini"
+    ],
+    "5": [
+     "Tejas",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 2: Logistics and small frustrations [Actor]",
+   "description": "Finding a flat, food, language and paperwork wear the person down. Small irritations pile up, and the person compares everything unfavourably with home.",
+   "graph_context": [
+    "previous stage: Excitement and honeymoon",
+    "next stage: Homesickness and culture shock",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3342,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Pooja",
+     "Lokesh"
+    ],
+    "4": [
+     "Sudha",
+     "Leela"
+    ],
+    "5": [
+     "Alka",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 3: Homesickness and culture shock [Actor]",
+   "description": "Weeks in, the person misses family, familiar food and being known, and feels like an outsider. Crying at night or a wish to return does not mean the move was wrong.",
+   "graph_context": [
+    "previous stage: Logistics and small frustrations",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: sadness, surprise, nostalgia"
+   ]
+  },
+  {
+   "sno": 3343,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Kamal"
+    ],
+    "4": [
+     "Francis",
+     "Tushar"
+    ],
+    "5": [
+     "Shankar",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 3: Homesickness and culture shock [Receiver]",
+   "description": "Parents at home feel the absence too, and worry when the child sounds low. Regular, warm calls without guilt-tripping or demands to return let the young person keep a base and still grow.",
+   "graph_context": [
+    "previous stage: Logistics and small frustrations",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anxiety, guilt, surprise, nostalgia"
+   ]
+  },
+  {
+   "sno": 3344,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Kalyani",
+     "Sabina"
+    ],
+    "4": [
+     "Mridul",
+     "Simran"
+    ],
+    "5": [
+     "Elizabeth",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 4: Loneliness and testing the new place [Actor]",
+   "description": "Colleagues are friendly but distant, and weekends feel empty. The person tries clubs, neighbours or people from their region and finds that making friends takes months, not weeks.",
+   "graph_context": [
+    "next stage: The low point",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3345,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Maria",
+     "Disha"
+    ],
+    "4": [
+     "Pranav",
+     "Vandana"
+    ],
+    "5": [
+     "Madhuri",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 5: The low point [Actor]",
+   "description": "A bad week such as illness or a work setback in an unfamiliar place feels much worse without a support net. Doubt about the move peaks, and reaching out to someone can turn the stretch.",
+   "graph_context": [
+    "previous stage: Loneliness and testing the new place",
+    "next stage: Building routines and roots",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3346,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Neelam",
+     "Gurpreet"
+    ],
+    "4": [
+     "Omkar",
+     "Chandrika"
+    ],
+    "5": [
+     "Pranav",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 6: Building routines and roots [Response]",
+   "description": "The person finds a regular café, gym or community, learns local ways and keeps rituals from home. Familiar routines create steadiness while new ties form.",
+   "graph_context": [
+    "previous stage: The low point",
+    "next stage: Two homes, one self",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3347,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Madhav",
+     "Reena"
+    ],
+    "4": [
+     "Sumit",
+     "Hansa"
+    ],
+    "5": [
+     "Disha",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 7: Two homes, one self [Response]",
+   "description": "After a year or so, the place feels familiar and home is no longer only one location. The person keeps ties to both, feels gratitude for what each gave and can help a newcomer through the same path.",
+   "graph_context": [
+    "previous stage: Building routines and roots",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2512,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Chetan",
+     "Naveen"
+    ],
+    "4": [
+     "Aparna",
+     "Darshan"
+    ],
+    "5": [
+     "Emeka",
+     "Alejandro"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Adjusting appearance under peer gaze [Mismatch]",
+   "description": "A teenager checks hair, fixes clothes or hides behind a phone when feeling watched. It can signal self-consciousness, ordinary grooming or a wish to look good; teasing about it deepens insecurity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: embarrassment, insecurity"
+   ]
+  },
+  {
+   "sno": 2513,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Swati",
+     "Akash"
+    ],
+    "4": [
+     "Urmila",
+     "Ayesha"
+    ],
+    "5": [
+     "Kishore",
+     "Damini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Touching the face and neck under stress [Regulating]",
+   "description": "A teenager rubs the neck, touches the face or bites nails before a presentation or a tough talk. These self-touches often calm nerves but are not reliable signs of hidden thoughts; slow breathing helps more.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: calm, resentment, relief from stress"
+   ]
+  },
+  {
+   "sno": 2514,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Chandrika",
+     "Sumit"
+    ],
+    "4": [
+     "Irawati",
+     "Shreya"
+    ],
+    "5": [
+     "Vishal",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Comforting touch versus unwanted touch [Interpreting]",
+   "description": "A teenager reads a shoulder touch or squeeze as support, but the same touch from someone in power or on a private area may be unwelcome. Discomfort deserves trust; saying stop, moving away and telling a trusted adult are all right.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2515,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Binita",
+     "Gautam"
+    ],
+    "4": [
+     "Anirban",
+     "Mehak"
+    ],
+    "5": [
+     "Uma",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Consent in hugs and closeness [Regulating]",
+   "description": "A teenager learns to ask or check before hugging a friend and to accept no gracefully. Stating a preference, such as I am not a hugger, is healthy; pressure or guilt over refusal is a warning sign to discuss with a trusted adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, guilt, trust"
+   ]
+  },
+  {
+   "sno": 2516,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Nandini",
+     "Nikita"
+    ],
+    "4": [
+     "Irfan",
+     "Pallavi"
+    ],
+    "5": [
+     "Ujjwal",
+     "Rashmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Approaching and stepping back in social ties [Mismatch]",
+   "description": "A teenager moves closer to some peers and away from others, and the choices can be read as liking, rivalry, shyness or safety. Distance is a cue, not a verdict, and quick conclusions about popularity or hostility often go wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: hostility, shyness, trust"
+   ]
+  },
+  {
+   "sno": 2517,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Gopika",
+     "Vijay"
+    ],
+    "4": [
+     "Naveen",
+     "Maria"
+    ],
+    "5": [
+     "Pema",
+     "Jasleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Unwanted closeness and stepping away [Regulating]",
+   "description": "A teenager steps back, turns away or puts an object in between when someone stands too close or follows them. Discomfort is valid, and an adult should be told if the person keeps closing in or ignores clear signals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2518,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Trisha"
+    ],
+    "4": [
+     "Salma",
+     "Afreen"
+    ],
+    "5": [
+     "Mohit",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Laughing to fit in or mask [Regulating]",
+   "description": "A teenager laughs along with a group joke that feels unkind or hides hurt behind a laugh. Fake laughter can protect belonging but leave the person uneasy; choosing safe friends and a calm boundary such as that is not funny is healthier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, anxiety, calm, nostalgia"
+   ]
+  },
+  {
+   "sno": 2519,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Urmila"
+    ],
+    "4": [
+     "Divyansh",
+     "Vandana"
+    ],
+    "5": [
+     "Tanuja",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Nervous laughter [Mismatch]",
+   "description": "A teenager laughs when embarrassed, scared, being scolded or hearing bad news. It signals stress release, not enjoyment or disrespect; reading it as mockery causes conflict, while a gentle check on feelings helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, admiration, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 2520,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Gabriel",
+     "Zeynep"
+    ],
+    "4": [
+     "Rajni",
+     "Bhavna"
+    ],
+    "5": [
+     "Lavanya",
+     "Chandrika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Crying while speaking or laughing [Mismatch]",
+   "description": "A teenager may cry while explaining something angry, or laugh until they cry. Mixed tears can mean overwhelmed feeling, joy, relief or tension, so labelling them from the outside can be wrong; asking helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: joy, amusement, sadness, anger",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 2521,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Jatin",
+     "Reena"
+    ],
+    "4": [
+     "Sarita",
+     "Arohi"
+    ],
+    "5": [
+     "Shankar",
+     "Parul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Silent crying and privacy [Expressing]",
+   "description": "A teenager cries quietly in a room or under a blanket to avoid being seen. It can signal grief, stress, loneliness or hormonal overwhelm; frequent hidden crying with withdrawal or hopelessness calls for a trusted adult or a counsellor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: sadness, grief, hope, detachment"
+   ]
+  }
+ ]
+}

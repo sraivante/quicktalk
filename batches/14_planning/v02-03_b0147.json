@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7221,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Tanvir"
+    ],
+    "3": [
+     "Devika",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: paying savings first through automation [Action]",
+   "description": "On salary day a fixed amount moves to savings and SIP before spending begins. This approach turns saving into a default rather than a monthly decision.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7222,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Sharmila"
+    ],
+    "3": [
+     "Vikas",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: prioritising debts by interest rate [Thinking]",
+   "description": "With a credit card balance and a low interest education loan, they clear the high interest card first while paying minimum on the loan. Order matters more than small extra payments everywhere.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, resource and budget planning",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 7223,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Pankaj"
+    ],
+    "3": [
+     "Diego",
+     "Ada"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: buffer for irregular expenses [Thinking]",
+   "description": "They notice annual costs like insurance, festivals and repairs upset monthly plans. They set aside a small monthly amount for these, so a bill no longer feels like an emergency.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7224,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Yuki",
+     "Santiago"
+    ],
+    "3": [
+     "Deepika",
+     "Farhan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: strict budgeting that collapses in month three [Pitfall]",
+   "description": "A very tight plan with no fun money works for weeks, then one outing breaks it. Feeling they failed, the couple abandons the budget, showing that rigidity can undermine consistency.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, prioritising",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 7225,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Vaibhav"
+    ],
+    "3": [
+     "Soo-ah",
+     "Jana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: ignoring small purchases [Pitfall]",
+   "description": "Because each item costs little, they never count daily snacks and online orders. At month end the account is short and neither can explain where the money went.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7226,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Usha"
+    ],
+    "3": [
+     "Jahnavi",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: revising categories after an income change [Revision]",
+   "description": "When a salary hike arrives, they resist raising spending and split it into higher savings, a small lifestyle upgrade and a parents' support fund, and rewrite the plan.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7227,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Sahil"
+    ],
+    "3": [
+     "Sarita",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: separate accounts for shared bills and personal spending [Action]",
+   "description": "A couple keeps one account for rent, groceries and EMIs, funded in proportion to income, and lets each spend the rest freely. Fewer small arguments follow, since personal choices are not audited.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, cutting losses, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7228,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Hafsa"
+    ],
+    "3": [
+     "Sharmila",
+     "Ganga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing a household budget",
+   "subtype": "Approach: cutting losses on an unused commitment [Revision]",
+   "description": "Reviewing statements, they find a gym membership and two streaming plans nobody uses. They cancel them despite the sunk cost and redirect the amount to a travel fund.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, prioritising, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7229,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ada",
+     "Lindiwe"
+    ],
+    "3": [
+     "Siddharth",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A family dispute over property",
+   "subtype": "Approach: gathering documents and understanding the facts [Thinking]",
+   "description": "Before discussing a dispute over the ancestral house, a sibling collects the papers, checks who is named on them and what each relative is assuming. Facts reduce guesswork.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 7230,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Vikas"
+    ],
+    "3": [
+     "Elizabeth",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A family dispute over property",
+   "subtype": "Approach: consulting a lawyer for general guidance [Action]",
+   "description": "Unsure of the rules, the siblings ask a lawyer to explain the general legal position and the options for settlement. They use the advice to frame discussion, not as a weapon.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, task decomposition"
+   ]
+  }
+ ]
+}

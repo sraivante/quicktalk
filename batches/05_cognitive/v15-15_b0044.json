@@ -1,0 +1,216 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 4000,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Deepak",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-deception",
+   "subtype": "Ignoring what one actually wants [Actor]",
+   "description": "A student tells themselves they want the family-approved career while feeling dread each morning; the mind edits inconvenient wishes to keep the peace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 4001,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Rashmi",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-deception",
+   "subtype": "Checking with someone who will say the hard thing [Response]",
+   "description": "An adult asks a trusted friend how they really come across or what they may be missing; outside eyes catch what self-flattery hides.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4002,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Vijay",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-handicapping",
+   "subtype": "Not studying so failure has an excuse [Actor]",
+   "description": "A child says they didn't even try before an exam they fear; low effort protects the sense of being clever if the mark is poor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4003,
+   "plan": {
+    "15": "R11+T1"
+   },
+   "cast": {
+    "15": [
+     "Pooja",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-handicapping",
+   "subtype": "Staying up late before a big match [Actor]",
+   "description": "A teenager who fears losing stays up gaming the night before and blames tiredness afterwards; the handicap gives a ready excuse but also hurts the actual chance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 4004,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Pallavi",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-handicapping",
+   "subtype": "Leaving an assignment for the last night [Actor]",
+   "description": "A student postpones a paper and declares it was done in a rush, so a low grade says nothing about ability; the person wins a little face and loses the chance to learn.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4005,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Vijay",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-handicapping",
+   "subtype": "Noticing the built-in excuse [Observer]",
+   "description": "A colleague notices that a teammate always mentions being unwell or overloaded just before a big presentation; the colleague reassures that effort and imperfect results are both welcome.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 4006,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Lokesh",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Self-handicapping",
+   "subtype": "Trying fully and accepting the result [Response]",
+   "description": "An adult chooses to prepare properly for a risky attempt and accepts that a poor result would then be information; full effort risks the ego but is the only route to real growth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4007,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Nandini",
+     "Mehak"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intrinsic and extrinsic motivation",
+   "subtype": "Playing for its own sake [Actor]",
+   "description": "A child draws for an hour with no audience simply because it is fun, and stops when they feel finished; the activity is its own reward.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 4008,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Irawati",
+     "Alka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intrinsic and extrinsic motivation",
+   "subtype": "Reward replacing interest [Actor]",
+   "description": "A child who loved reading is offered a prize for each book and soon reads only the thin ones; when the reward dominates, the original joy can fade.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy, affection, interest"
+   ]
+  },
+  {
+   "sno": 4009,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Manoj",
+     "Akash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intrinsic and extrinsic motivation",
+   "subtype": "Studying only for marks [Actor]",
+   "description": "A teenager works for rank and parental approval, cramming what will be tested and forgetting it quickly; external pressure can produce results but not curiosity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: curiosity"
+   ]
+  }
+ ]
+}

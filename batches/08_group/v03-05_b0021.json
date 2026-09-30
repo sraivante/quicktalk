@@ -1,0 +1,320 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3549,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Sudha",
+     "Jagdish"
+    ],
+    "4": [
+     "Sunaina",
+     "Mahima"
+    ],
+    "5": [
+     "Mohit",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Holding conviction with respect [Response]",
+   "description": "A protester or volunteer stays firm on their cause while treating opponents as human and checking facts. Movements lose credibility when they lie or dehumanise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3550,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ayesha",
+     "Charu"
+    ],
+    "4": [
+     "Vinita",
+     "Kavitha"
+    ],
+    "5": [
+     "Yamini",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Volunteer burnout [Actor]",
+   "description": "A committed volunteer gives so much time that health, work and family suffer, and they feel guilty about slowing down. Sustained service needs limits and shared load.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3551,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Amandeep",
+     "Abhinav"
+    ],
+    "4": [
+     "Ritu",
+     "Yogesh"
+    ],
+    "5": [
+     "Pranav",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Different roles in a movement [Observer]",
+   "description": "An observer sees that a cause needs organisers, quiet workers and those who fund or write, not just the loudest speakers. Recognising varied contributions reduces resentment inside groups.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3552,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Neelam",
+     "Jahnavi"
+    ],
+    "4": [
+     "Naveen",
+     "Pradeep"
+    ],
+    "5": [
+     "Karthik",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Ground-level volunteer in a disaster [Actor]",
+   "description": "A young adult helps with flood or health relief, feeling tired, useful and sometimes overwhelmed. Working within an organised effort keeps help effective and safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: relief, tiredness, overwhelm, trust"
+   ]
+  },
+  {
+   "sno": 3553,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Emil",
+     "Tariq"
+    ],
+    "4": [
+     "Kiran",
+     "Afreen"
+    ],
+    "5": [
+     "Imran",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Staying safe and lawful in action [Response]",
+   "description": "An organiser plans for safety, knows their rights and keeps to peaceful methods. They leave if a crowd turns violent, since a good cause does not justify harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 3554,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Kashish"
+    ],
+    "4": [
+     "Manoj",
+     "Sharmila"
+    ],
+    "5": [
+     "Lalremsiami",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Pressure to protect the institution's name [Receiver]",
+   "description": "A student who reports harassment or cheating is told it will damage the college's reputation. They feel guilt and fear, and may withdraw the complaint to escape the pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, guilt, detachment"
+   ]
+  },
+  {
+   "sno": 3555,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Jomon",
+     "Madhuri"
+    ],
+    "4": [
+     "Sunaina",
+     "Lakshmi"
+    ],
+    "5": [
+     "Mahima",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Ostracised for reporting [Receiver]",
+   "description": "A person who reports wrongdoing is isolated, gossiped about and labelled a troublemaker. The retaliation is often social and quiet, and support from even one ally matters greatly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3556,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Rafael",
+     "Soo-ah"
+    ],
+    "4": [
+     "Harsha",
+     "Ganga"
+    ],
+    "5": [
+     "Darshan",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Told to stay quiet at work [Receiver]",
+   "description": "An employee who finds a safety or ethics problem is advised by superiors to let it go for the company's sake. They feel fear for their job and doubt about their own judgement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear, doubt, trust"
+   ]
+  },
+  {
+   "sno": 3557,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Ramesh",
+     "Yogesh"
+    ],
+    "4": [
+     "Shalini",
+     "Lokesh"
+    ],
+    "5": [
+     "Vishal",
+     "Pallavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Slow slide into covering up [Actor]",
+   "description": "A person joins a small concealment, such as a fudged number or a missed report, and each step makes the next easier. Guilt is quieted by telling themselves everyone does it and it protects the team.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: guilt, detachment"
+   ]
+  },
+  {
+   "sno": 3558,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Tejas",
+     "Lavanya"
+    ],
+    "4": [
+     "Oskar",
+     "Yara"
+    ],
+    "5": [
+     "Irfan",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Institutional pressure and cover-ups",
+   "subtype": "Loyalty versus conscience [Actor]",
+   "description": "A professional feels loyalty to colleagues and a superior and also knows something is wrong. Both pulls are real, and the fear of being called a traitor often outweighs the sense of duty to those harmed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

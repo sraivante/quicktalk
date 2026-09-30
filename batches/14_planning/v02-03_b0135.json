@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7101,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vasudha",
+     "Naveen"
+    ],
+    "3": [
+     "Gurleen",
+     "Jyoti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a promotion",
+   "subtype": "Approach: choosing a few high-impact goals [Thinking]",
+   "description": "She picks two projects tied to team targets and declines smaller requests politely. Focus lets her deliver clear results that match the criteria.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, copying without fit, seeking advice, working backward"
+   ]
+  },
+  {
+   "sno": 7102,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Bao",
+     "Kaito"
+    ],
+    "3": [
+     "Naveen",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a promotion",
+   "subtype": "Approach: reviewing feedback and adjusting the timeline [Revision]",
+   "description": "When the manager says leadership skills are not yet shown, he lets go of the current cycle. He plans to mentor an intern and lead a demo, and targets the next cycle.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, copying without fit, working backward"
+   ]
+  },
+  {
+   "sno": 7103,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Nikita"
+    ],
+    "3": [
+     "Darshan",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a promotion",
+   "subtype": "Approach: comparing with a peer's path without context [Pitfall]",
+   "description": "Seeing a colleague promoted in two years, she copies his exact steps. His role was in a growing team, hers is not, so the same path does not create equal opportunities.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice, working backward"
+   ]
+  },
+  {
+   "sno": 7104,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Zubin"
+    ],
+    "3": [
+     "Pooja",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a promotion",
+   "subtype": "Approach: mock interview with a mentor before the panel [Action]",
+   "description": "Before the promotion panel, she presents her case to a mentor who points out that she lists tasks instead of impact. She rewrites it around results and business outcomes.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, copying without fit, working backward",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 7105,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Gargi",
+     "Hansa"
+    ],
+    "3": [
+     "Chandrika",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: researching market ranges and gathering evidence [Thinking]",
+   "description": "Before an offer discussion, a developer checks salary ranges for similar roles in Pune, talks to peers, and lists her skills. She sets a target and a minimum she will accept.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7106,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Sharmila"
+    ],
+    "3": [
+     "Zubin",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: deciding the walk-away point beforehand [Thinking]",
+   "description": "He decides in advance the lowest total package he would take and what else matters, such as remote days and learning budget. This stops him from agreeing under pressure.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 7107,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Shreya"
+    ],
+    "3": [
+     "Binita",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: rehearsing the conversation aloud [Action]",
+   "description": "She practises with a friend, including the moment when the recruiter says the budget is fixed. She prepares a calm reply asking about joining bonus or an early review.",
+   "graph_context": [
+    "same problem, other approaches: critical path, negotiation, resource and budget planning",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 7108,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Wasim"
+    ],
+    "3": [
+     "Suraj",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: negotiating the whole package [Action]",
+   "description": "When the base is firm, he asks about a joining bonus, a six-month review and work-from-home days. The company agrees to two of three, leaving both sides satisfied.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, resource and budget planning",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 7109,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Charu",
+     "Gopika"
+    ],
+    "3": [
+     "Ganga",
+     "Rekha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: accepting the first offer from fear of losing it [Pitfall]",
+   "description": "Afraid the offer will vanish, she says yes immediately. Later she learns colleagues at the same level were paid more, and she regrets not asking even one question.",
+   "graph_context": [
+    "same problem, other approaches: critical path, mental simulation, negotiation, resource and budget planning",
+    "related mind states: fear, regret"
+   ]
+  },
+  {
+   "sno": 7110,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Vijay",
+     "Ritu"
+    ],
+    "3": [
+     "Nitin",
+     "Thomas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating salary",
+   "subtype": "Approach: anchoring on a personal need instead of value [Pitfall]",
+   "description": "He argues for a higher figure because of his rent and loan. The employer hears need, not contribution, and answers that pay depends on the role, which weakens his case.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, negotiation, resource and budget planning"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4419,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Hiroshi",
+     "Lindiwe"
+    ],
+    "4": [
+     "Bhupen",
+     "Arnab"
+    ],
+    "5": [
+     "Sumit",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Self-esteem",
+   "subtype": "Impostor feelings [Actor]",
+   "description": "A capable student or new employee believes success is luck and fears being found out. They discount praise and overwork; naming the feeling and sharing it with peers usually shows that others feel the same.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear",
+    "possibly related concept (heuristic): Imposter feelings"
+   ]
+  },
+  {
+   "sno": 4420,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Ujjwal",
+     "Baljeet"
+    ],
+    "4": [
+     "Pallavi",
+     "Rajni"
+    ],
+    "5": [
+     "Sonali",
+     "Lakshmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Self-esteem",
+   "subtype": "Steady self-respect [Actor]",
+   "description": "A young professional accepts strengths and flaws, takes feedback without collapse and admits mistakes. Self-esteem here is not loud confidence but a calm sense of being worthy while still learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 4421,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Sudha",
+     "Nitin"
+    ],
+    "4": [
+     "Aparna",
+     "Hansa"
+    ],
+    "5": [
+     "Raghav",
+     "Trisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Pride in genuine effort [Actor]",
+   "description": "A child shows a drawing or a mastered skill with glow, wants to share it and is happy for a friend's success too. This pride is rooted in work done, and it fuels further effort without needing others to lose.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, pride"
+   ]
+  },
+  {
+   "sno": 4422,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Nandini",
+     "Hafsa"
+    ],
+    "4": [
+     "Jahnavi",
+     "Gurleen"
+    ],
+    "5": [
+     "Gautam",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Owning achievement without contempt [Actor]",
+   "description": "A teenager who wins a competition enjoys it, thanks coaches and stays kind to those who lost. Pride and humility live together, and confidence does not need an audience.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: gratitude, contempt, pride"
+   ]
+  },
+  {
+   "sno": 4423,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Camila",
+     "Hana"
+    ],
+    "4": [
+     "Madhav",
+     "Rajni"
+    ],
+    "5": [
+     "Tushar",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Recognising pride from arrogance [Response]",
+   "description": "A wise teenager asks whether their pride includes others or needs others below. Real pride can say I did well and you did well too, and can accept correction without collapse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4424,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Hafsa",
+     "Naveen"
+    ],
+    "4": [
+     "Gurpreet",
+     "Yogesh"
+    ],
+    "5": [
+     "Raghav",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Needing admiration and superiority [Actor]",
+   "description": "A young adult tells stories that make them the hero, dismisses others' achievements and reacts with anger or coldness to criticism. Beneath the grandness there is often a shaky self-image; this is a pattern, not a diagnosis.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration, anger"
+   ]
+  },
+  {
+   "sno": 4425,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Swati",
+     "Ishita"
+    ],
+    "4": [
+     "Noor",
+     "Samir"
+    ],
+    "5": [
+     "Mei",
+     "Santiago"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Friend or partner on the receiving end [Receiver]",
+   "description": "A person feels flattered early, then increasingly small, blamed and unheard by a self-centred partner. Self-doubt rises, and recognising the pattern with a trusted outsider matters before it wears down their confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 4426,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Shalini",
+     "Kamal"
+    ],
+    "4": [
+     "Saurabh",
+     "Yamini"
+    ],
+    "5": [
+     "Darshan",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Setting boundaries with a self-focused person [Response]",
+   "description": "A wise person stays calm, does not argue for validation, states limits plainly and limits how much personal information they share. Expecting the other to change quickly is unrealistic; protecting one's own wellbeing is realistic.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4427,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Amara",
+     "Soo-ah"
+    ],
+    "4": [
+     "Tarun",
+     "Suraj"
+    ],
+    "5": [
+     "Wasim",
+     "Tenzin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Charm then entitlement [Actor]",
+   "description": "A person who charms at first begins to expect special treatment, takes credit and shows little curiosity about others' feelings. Relationships become one-sided, and empathy is present only when it serves them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: curiosity, resentment, empathy"
+   ]
+  },
+  {
+   "sno": 4428,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Priscila",
+     "Wanjiru"
+    ],
+    "4": [
+     "Lalremsiami",
+     "Madhav"
+    ],
+    "5": [
+     "Vinita",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Healthy pride vs narcissistic patterns",
+   "subtype": "Colleague observing credit-taking [Observer]",
+   "description": "A team sees a co-worker take credit and belittle others while charming seniors. Keeping records of contributions, addressing issues factually and not competing for admiration protects both the work and morale.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 141, "plan": {"15": "R6"}, "cast": {"15": ["Payal", "Lokesh"]}, "age": "23–26", "topic": "Emotional", "subtopic": "Existential Emotions", "subtype": "Existential Dread", "description": "Grappling deeply with the realities of mortality, life's inherent meaning, and long-term purpose.", "graph_context": ["related mind states: fear, dread"]}
+{"sno": 142, "plan": {"15": "R10"}, "cast": {"15": ["Imran", "Pema"]}, "age": "23–26", "topic": "Emotional", "subtopic": "Existential Emotions", "subtype": "Fulfillment", "description": "Feeling a deep, resonant sense of purpose tied to long-term goals or community impact."}
+{"sno": 143, "plan": {"15": "R4"}, "cast": {"15": ["Payal", "Sachin"]}, "age": "23–26", "topic": "Emotional", "subtopic": "Mature Compassion", "subtype": "Deep Empathy", "description": "Understanding others' complex emotional states without necessarily taking them on.", "graph_context": ["related mind states: empathy"]}
+{"sno": 144, "plan": {"15": "R2"}, "cast": {"15": ["Madhuri", "Uma"]}, "age": "23–26", "topic": "Emotional", "subtopic": "Mature Compassion", "subtype": "Forgiveness", "description": "Consciously processing and letting go of deep resentment toward oneself or others.", "graph_context": ["related mind states: resentment"]}
+{"sno": 145, "plan": {"15": "R12"}, "cast": {"15": ["Bhupen", "Leela"]}, "age": "23–26", "topic": "Emotional", "subtopic": "Mature Compassion", "subtype": "Grace", "description": "Extending unearned goodwill and understanding to others despite recognizing their flaws."}
+{"sno": 146, "plan": {"15": "R13"}, "cast": {"15": ["Samir", "Lalremsiami"]}, "age": "23–26", "topic": "Morality", "subtopic": "Moral Reasoning", "subtype": "Applied Ethical Leadership", "description": "Consistently upholding high moral standards across personal, professional, and societal leadership.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"]}
+{"sno": 147, "plan": {"15": "R7"}, "cast": {"15": ["Mehak", "Jeevan"]}, "age": "23–26", "topic": "Moral Courage", "subtopic": "Executive Integrity", "subtype": "Institutional Stewardship & Ethical Risk", "description": "Putting professional standing or career capital on the line to defend organizational ethics and prevent institutional corruption."}
+{"sno": 148, "plan": {"15": "R12"}, "cast": {"15": ["Akash", "Vaibhav"]}, "age": "23–26", "topic": "Financial Literacy", "subtopic": "Asset Strategy", "subtype": "Wealth Building & Capital Allocation", "description": "Managing long-term investments, capital growth, insurance planning, and economic stability for future family/dependents."}
+{"sno": 149, "plan": {"15": "R10"}, "cast": {"15": ["Naveen", "Madhav"]}, "age": "23–26", "topic": "Social / Mission", "subtopic": "Prosocial Care", "subtype": "Life Mission Alignment", "description": "Structuring long-term career, family, and social choices around sustained societal contribution.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"]}
+{"sno": 150, "plan": {"15": "R1"}, "cast": {"15": ["Irawati", "Ganga"]}, "age": "23–26", "topic": "Behavior", "subtopic": "Intelligent Decision-Making", "subtype": "Executive Strategic Choice", "description": "Integrating systemic impacts, ethical principles, and risk management into high-stakes decisions.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"]}
+
+Return exactly 10 JSON Lines and nothing else.

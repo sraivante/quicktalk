@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6371,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Neelam"
+    ],
+    "3": [
+     "Raghav",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: relying on popularity alone [Pitfall]",
+   "description": "A well-liked student assumes friends will vote for him and makes no plan. Rivals with clear proposals talk to more classes, and he loses despite having a lot of goodwill.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6372,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Simran"
+    ],
+    "3": [
+     "Chandrika",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: writing and rehearsing the speech [Action]",
+   "description": "The candidate drafts a two-minute speech with one clear promise and one story, practises in front of a mirror and a friend, and trims filler after timing it.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning"
+   ]
+  },
+  {
+   "sno": 6373,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Nikita"
+    ],
+    "3": [
+     "Gurleen",
+     "Devika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: promising things outside the role's power [Pitfall]",
+   "description": "The candidate promises no homework and free trips. The claims win applause but cannot be delivered, harming credibility with teachers and with students who value honesty.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6374,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Wei",
+     "Santiago"
+    ],
+    "3": [
+     "Yash",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: analogy with past successful candidates [Thinking]",
+   "description": "The student studies why a previous captain won, noting that visible small fixes such as repairing water coolers earned trust, and adapts that approach to current needs.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6375,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Charu"
+    ],
+    "3": [
+     "Binita",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: fair campaigning and respectful rivalry [Thinking]",
+   "description": "The candidate decides not to mock opponents or spread rumours, reasoning that a campaign built on ideas keeps friendships intact and reflects the leadership being asked for.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6376,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Disha"
+    ],
+    "3": [
+     "Keerthana",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: handling nerves through practice and breathing [Action]",
+   "description": "Before the assembly, the candidate slows breathing, holds a card with three key points and looks at a friendly face in the crowd, so anxiety does not wipe out the message.",
+   "graph_context": [
+    "same problem, other approaches: analogy, mental simulation",
+    "related mind states: anxiety, relief from stress"
+   ]
+  },
+  {
+   "sno": 6377,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Parul"
+    ],
+    "3": [
+     "Kishore",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: learning from a loss and following through [Revision]",
+   "description": "After losing by a few votes, the student congratulates the winner, asks for feedback and offers to lead a canteen committee, turning the defeat into a way of doing the promised work anyway.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6378,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Vasudha",
+     "Jomon"
+    ],
+    "3": [
+     "Joseph",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: adjusting the message midway [Revision]",
+   "description": "Mid-campaign, the candidate notices younger students care most about sports periods, and revises the speech to include a schedule proposal, showing that listening can reshape a plan in progress.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6379,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Neelam"
+    ],
+    "3": [
+     "Lalit",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a group project",
+   "subtype": "Approach: breaking the project into tasks and owners [Action]",
+   "description": "A team building a science model lists research, materials, construction and presentation, gives each member a task that matches their strengths and sets a date for each stage.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, critical path, groupthink planning, impulsive action, minimum viable version",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6380,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Dilnaz"
+    ],
+    "3": [
+     "Irawati",
+     "Vinita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a group project",
+   "subtype": "Approach: critical path thinking [Thinking]",
+   "description": "The leader sees that painting cannot start until the frame dries, and that testing needs a working circuit, so she starts those dependent tasks first and lets independent ones run in parallel.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, groupthink planning, impulsive action, minimum viable version, task decomposition",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

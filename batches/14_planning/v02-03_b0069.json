@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6441,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Rafiq",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: taking any offer without thinking [Pitfall]",
+   "description": "The student accepts a night delivery job with vague terms from a stranger. It looks like easy money, but it is unsafe, may be illegal for a minor and clashes with school hours.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, minimum viable version",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 6442,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Rajni"
+    ],
+    "3": [
+     "Chidi",
+     "Leila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: minimum viable version of a small business [Action]",
+   "description": "The student starts by making ten handmade greeting cards for festival season, sells them to relatives and neighbours, and uses the response to decide whether to make more.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6443,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Gargi"
+    ],
+    "3": [
+     "Pradeep",
+     "Yogesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: pricing by costs and time [Thinking]",
+   "description": "The student adds material costs and hours spent, compares with what neighbours charge, and sets a fair price, realising that underpricing to please buyers makes the work unsustainable.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6444,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ada",
+     "Abebe"
+    ],
+    "3": [
+     "Mridul",
+     "Hemant"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: overcommitting and neglecting school [Pitfall]",
+   "description": "Excited by early earnings, the student takes on many tutoring students. Homework and sleep suffer, marks fall, and the money starts to look like a poor trade.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, impulsive action, minimum viable version",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 6445,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Vaibhav",
+     "Vijay"
+    ],
+    "3": [
+     "Himani",
+     "Hansa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: buffer and weekly hour cap [Revision]",
+   "description": "After a dip in marks, the student caps work to six hours a week and blocks exam months completely, agreeing with parents on when to pause the gig.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6446,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Mehak",
+     "Ankita"
+    ],
+    "3": [
+     "Swati",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: saving plan with goals [Action]",
+   "description": "The student splits earnings into three parts, family contribution, saving for a laptop and small spending, and records them in a notebook, learning the basics of budgeting through real money.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6447,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Kiran",
+     "Urmila"
+    ],
+    "3": [
+     "Nitin",
+     "Jeevan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: learning from an unhappy customer [Revision]",
+   "description": "When a customer complains about a late order, the student apologises, redoes the work and begins to promise realistic delivery dates, seeing feedback as a cheap way to learn.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, impulsive action, minimum viable version",
+    "related mind states: joy, sadness"
+   ]
+  },
+  {
+   "sno": 6448,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Chetan"
+    ],
+    "3": [
+     "Tanuja",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a first part-time gig",
+   "subtype": "Approach: reflecting on whether the gig fits long-term goals [Revision]",
+   "description": "After three months, the student asks whether the work builds skills for a future career, decides to continue coding-related jobs and drop the least useful tasks.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, externalising on paper, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6449,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Arnab"
+    ],
+    "3": [
+     "Hansa",
+     "Lalremsiami"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing coaching class overload",
+   "subtype": "Approach: auditing the weekly timetable [Thinking]",
+   "description": "A student in Class 11 adds up school, three coaching batches, travel and homework, finds 62 hours a week and no rest, and sees that the problem is total load and not lack of effort.",
+   "graph_context": [
+    "same problem, other approaches: batching, emotion-aware planning, experiment and measure, negotiation, prioritising, seeking advice"
+   ]
+  },
+  {
+   "sno": 6450,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Mahima"
+    ],
+    "3": [
+     "Ankita",
+     "Jeevan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Managing coaching class overload",
+   "subtype": "Approach: prioritising the classes that add most [Action]",
+   "description": "The student compares which batches clarify concepts versus repeat school content, keeps the two that help most, and uses the freed time for self-study and sleep.",
+   "graph_context": [
+    "same problem, other approaches: batching, emotion-aware planning, experiment and measure, forward planning, negotiation, seeking advice"
+   ]
+  }
+ ]
+}

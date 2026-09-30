@@ -1,0 +1,218 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4399,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Leila",
+     "Emeka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Avoidant attachment",
+   "subtype": "Opening up gradually [Response]",
+   "description": "A wise avoidant person notices the urge to withdraw, says so aloud and stays a little longer than is comfortable. Small honest disclosures with safe people slowly show that need does not lead to rejection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: detachment, trust"
+   ]
+  },
+  {
+   "sno": 4400,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Hrithik",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Avoidant attachment",
+   "subtype": "Partner feeling shut out [Receiver]",
+   "description": "A partner of an avoidant person feels the other goes quiet during conflict and dismisses their needs. Chasing tends to make the person retreat further; calm, direct requests and personal limits are wiser.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4401,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Anirban",
+     "Vidya"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Confused approach and fear [Actor]",
+   "description": "A toddler moves toward a caregiver then freezes, backs away or looks frightened, since the person who comforts is also a source of fear or is themselves frightened. The child has no consistent way to seek safety.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, confusion, trust"
+   ]
+  },
+  {
+   "sno": 4402,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Sudha",
+     "Pooja"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Controlling or role-reversed child [Actor]",
+   "description": "A child may bossily manage a parent, act as caregiver or swing between clinging and hitting. This is a survival strategy in unpredictable homes, and calls for safe, consistent adults.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4403,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Leela",
+     "Tanuja"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Steady adult for a frightened child [Response]",
+   "description": "A teacher, relative or foster parent offers predictable routines, calm tone and repair after ruptures. The steady presence over months helps the child slowly learn that some adults are safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, calm, trust"
+   ]
+  },
+  {
+   "sno": 4404,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Divyansh",
+     "Farhan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Unpredictable reactions [Actor]",
+   "description": "A child suddenly shifts from friendly to explosive or shuts down, and struggles to trust anyone fully. Behind it is a mix of needing and fearing people, and punishment usually deepens it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4405,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Sumit",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Pull and push in relationships [Actor]",
+   "description": "A teenager craves closeness, then sabotages it, and may swing between intense bonds and cutting people off. Often linked to early fear or loss, and therapeutic help from a trusted professional matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4406,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Mohit",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Peer noticing sudden shifts [Observer]",
+   "description": "A friend sees someone who is warm one week and cold the next. Understanding it as fear rather than a personal insult helps, along with clear boundaries and encouraging them to speak to a trusted adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4407,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Jyoti",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Longing and fear together [Actor]",
+   "description": "A young adult wants love deeply but feels danger when it comes near, so relationships feel chaotic. Slowly building steady friendships and a reliable helper can start to change the pattern.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, anger, fear, nostalgia"
+   ]
+  },
+  {
+   "sno": 4408,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Manoj",
+     "Omkar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Disorganised attachment",
+   "subtype": "Partner in a hot-and-cold bond [Receiver]",
+   "description": "A partner feels confused by sudden affection then distance, and starts walking on eggshells. Protecting own wellbeing, staying consistent and encouraging professional support matter more than trying to fix the other.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection, confusion"
+   ]
+  }
+ ]
+}

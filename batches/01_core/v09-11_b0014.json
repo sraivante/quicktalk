@@ -1,0 +1,286 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 131,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Jatin",
+     "Kiran"
+    ],
+    "10": [
+     "Urmila",
+     "Nirmala"
+    ],
+    "11": [
+     "Tanvir",
+     "Kashish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Critical Thinking",
+   "subtopic": "Intellectual Mastery",
+   "subtype": "Intellectual Rigor & Epistemic Agility",
+   "description": "Combining deep domain expertise with the willingness to unlearn and adapt when foundational paradigms shift."
+  },
+  {
+   "sno": 132,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Kashish",
+     "Vijay"
+    ],
+    "10": [
+     "Manoj",
+     "Nilesh"
+    ],
+    "11": [
+     "Vishal",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Workplace Communication",
+   "description": "Mastering professional tone, email etiquette, and effective meeting participation."
+  },
+  {
+   "sno": 133,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Amandeep",
+     "Samir"
+    ],
+    "10": [
+     "Kavitha",
+     "Jagdish"
+    ],
+    "11": [
+     "Maria",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Navigating Office Politics",
+   "description": "Understanding unwritten organizational rules, hierarchies, and professional dynamics."
+  },
+  {
+   "sno": 134,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Manoj",
+     "Jasleen"
+    ],
+    "10": [
+     "Lindiwe",
+     "Xin"
+    ],
+    "11": [
+     "Hemant",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Work-Life Integration",
+   "description": "Establishing boundaries to prevent burnout while transitioning from student life to full-time work."
+  },
+  {
+   "sno": 135,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Tanvir",
+     "Sonali"
+    ],
+    "10": [
+     "Pranav",
+     "Asif"
+    ],
+    "11": [
+     "Tarun",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Strategic Planning",
+   "description": "Mapping out multi-year goals and breaking them down into actionable, sequential steps."
+  },
+  {
+   "sno": 136,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Rajni",
+     "Mridul"
+    ],
+    "10": [
+     "Charu",
+     "Zubin"
+    ],
+    "11": [
+     "Vishal",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Risk Assessment",
+   "description": "Accurately evaluating the true probability and potential impact of future events before acting."
+  },
+  {
+   "sno": 137,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Omkar",
+     "Noor"
+    ],
+    "10": [
+     "Avni",
+     "Vidya"
+    ],
+    "11": [
+     "Irfan",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Delayed Gratification",
+   "description": "Willingly sacrificing short-term comfort or resources for the sake of a larger long-term gain."
+  },
+  {
+   "sno": 138,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Devika",
+     "Baljeet"
+    ],
+    "10": [
+     "Irfan",
+     "Divyansh"
+    ],
+    "11": [
+     "Vinita",
+     "Francis"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Creativity",
+   "subtopic": "Strategic Innovation",
+   "subtype": "Applied Innovation & Systemic Design",
+   "description": "Transforming novel ideas into scalable, real-world operational models, artistic contributions, or technical systems."
+  },
+  {
+   "sno": 139,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Gurleen",
+     "Manjula"
+    ],
+    "10": [
+     "Suraj",
+     "Anand"
+    ],
+    "11": [
+     "Eshaan",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Awe",
+   "description": "Experiencing profound wonder at the vastness of the world, nature, or life itself.",
+   "graph_context": [
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 140,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Rukmini",
+     "Gopika"
+    ],
+    "10": [
+     "Jyoti",
+     "Deepak"
+    ],
+    "11": [
+     "Karthik",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Contentment",
+   "description": "Finding sustainable, quiet satisfaction with one's current reality and life choices.",
+   "graph_context": [
+    "related mind states: contentment"
+   ]
+  }
+ ]
+}

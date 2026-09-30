@@ -1,0 +1,313 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5462,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Wei",
+     "Tuan"
+    ],
+    "10": [
+     "Rashmi",
+     "Jeevan"
+    ],
+    "11": [
+     "Shreya",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pygmalion effect",
+   "subtype": "Boss expects excellence or expects nothing [Receiver]",
+   "description": "One intern whose manager visibly expects great work gets stretch tasks and honest feedback and rises; another treated as filler receives none of these and coasts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5463,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Farida",
+     "Nilesh"
+    ],
+    "10": [
+     "Dolma",
+     "Darshan"
+    ],
+    "11": [
+     "Shreya",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pygmalion effect",
+   "subtype": "Manager checks own expectations [Response]",
+   "description": "A manager notices they hand the tough assignments to one person and the routine ones to another, then deliberately gives all the same challenge, feedback and patience and judges by evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5464,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Asif",
+     "Nikita"
+    ],
+    "10": [
+     "Payal",
+     "Sudha"
+    ],
+    "11": [
+     "Leela",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pygmalion effect",
+   "subtype": "Parent who is sure of what the child is [Actor]",
+   "description": "A parent convinced their child is \"the shy one\" answers for them and shields them from chances; the child adopts the role, whereas expecting growth gives room to grow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 5465,
+   "plan": {
+    "9": "R9+T1",
+    "10": "R13+T1",
+    "11": "R15+T1"
+   },
+   "cast": {
+    "9": [
+     "Asif",
+     "Varun"
+    ],
+    "10": [
+     "Hemant",
+     "Payal"
+    ],
+    "11": [
+     "Mehak",
+     "Deepika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Contrast effect",
+   "subtype": "Small treat seems big or small by comparison [Actor]",
+   "description": "A child feels happy with a modest biscuit after getting a plain one, but tearful when a sibling gets a bigger one; the same treat feels different depending on what it is compared with.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, sadness"
+   ]
+  },
+  {
+   "sno": 5466,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Bhupen",
+     "Tarun"
+    ],
+    "10": [
+     "Leela",
+     "Santosh"
+    ],
+    "11": [
+     "Hemant",
+     "Kunal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Contrast effect",
+   "subtype": "Marks judged against friends [Actor]",
+   "description": "A student with a fair score feels miserable after a friend's top mark but delighted on hearing the class average was low; the reference point changed the feeling, not the marks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 5467,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Gargi",
+     "Pema"
+    ],
+    "10": [
+     "Tenzin",
+     "Pankaj"
+    ],
+    "11": [
+     "Rajni",
+     "Karthik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Contrast effect",
+   "subtype": "Feeling plain after scrolling edited photos [Actor]",
+   "description": "A teenager feels unattractive after an hour of polished, filtered images, then feels normal among classmates in person; the comparison set, not the face, shifted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5468,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Sarika",
+     "Tanvir"
+    ],
+    "10": [
+     "Farida",
+     "Ojas"
+    ],
+    "11": [
+     "Preeti",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Contrast effect",
+   "subtype": "Bargain looks cheap next to a costly item [Observer]",
+   "description": "A shopper sees a friend feel that a mid-priced shirt is cheap after looking at an expensive jacket, though it is still costly; judgments follow the last thing seen.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5469,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Neelam",
+     "Nikita"
+    ],
+    "10": [
+     "Neelam",
+     "Seema"
+    ],
+    "11": [
+     "Akash",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Contrast effect",
+   "subtype": "Choosing the reference point deliberately [Response]",
+   "description": "An adult asks what the option is worth by itself and against their own past and needs, not just against the closest example, and avoids sizing up their life against a curated highlight reel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5470,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Amara",
+     "Leila"
+    ],
+    "10": [
+     "Yogesh",
+     "Shankar"
+    ],
+    "11": [
+     "Rafiq",
+     "Anand"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Decoy effect",
+   "subtype": "Combo choice pushed by a pointless third option [Actor]",
+   "description": "A teenager picks the mid-size popcorn combo because a poor third option makes it look like a bargain; the choice feels smart though the decoy shaped it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5471,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Afreen",
+     "Deepika"
+    ],
+    "10": [
+     "Gopika",
+     "Vijay"
+    ],
+    "11": [
+     "Madhuri",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Decoy effect",
+   "subtype": "Subscription tiers steer the choice [Actor]",
+   "description": "A young adult chooses the premium plan because the middle plan is barely cheaper and offers much less; the odd option made premium look like obvious value.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  }
+ ]
+}

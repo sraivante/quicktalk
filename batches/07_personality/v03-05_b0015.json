@@ -1,0 +1,320 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4459,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Chetan"
+    ],
+    "4": [
+     "Noor",
+     "Tushar"
+    ],
+    "5": [
+     "Tejas",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Ambition",
+   "subtype": "Ambition mixed with fear of failure [Actor]",
+   "description": "A young professional wants a big role but avoids stretch tasks in case they fail. Desire and dread pull in opposite directions, and small risks that build evidence help break the stalemate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4460,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Asif",
+     "Aparna"
+    ],
+    "4": [
+     "Vikas",
+     "Payal"
+    ],
+    "5": [
+     "Hrithik",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Ambition",
+   "subtype": "Peer watching relentless climbing [Observer]",
+   "description": "A colleague sees someone who sacrifices sleep, friendships and health for promotion. Genuine concern, rather than judgment or envy, is a way to offer a break without questioning their goals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 4461,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Tanvir",
+     "Gargi"
+    ],
+    "4": [
+     "Gopika",
+     "Pema"
+    ],
+    "5": [
+     "Ritu",
+     "Hansa"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Risk tolerance",
+   "subtype": "Bold or cautious toddler [Actor]",
+   "description": "A toddler climbs on furniture with delight, while another clings and watches before touching new things. Both are normal temperaments, and adults must guard safety in the first and encourage gentle exploring in the second.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, trust"
+   ]
+  },
+  {
+   "sno": 4462,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Rafiq",
+     "Vijay"
+    ],
+    "4": [
+     "Maria",
+     "Nitin"
+    ],
+    "5": [
+     "Pranav",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Risk tolerance",
+   "subtype": "Dare-taking child [Actor]",
+   "description": "A child accepts dares, jumps from heights and enjoys the thrill without thinking much about consequences. Judgment is still developing, and adults offer safe outlets for adventure and firm limits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26",
+    "related mind states: joy, trust"
+   ]
+  },
+  {
+   "sno": 4463,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Uday"
+    ],
+    "4": [
+     "Preeti",
+     "Anand"
+    ],
+    "5": [
+     "Noor",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Risk tolerance",
+   "subtype": "Risk-taking in groups [Actor]",
+   "description": "A teenager takes more risks with friends watching, because peer approval and thrill weigh heavily while the brain's brakes are still developing. Parents can help by planning safer choices and rehearsing how to leave.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: joy, trust"
+   ]
+  },
+  {
+   "sno": 4464,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Gurpreet",
+     "Urmila"
+    ],
+    "4": [
+     "Vidya",
+     "Sabina"
+    ],
+    "5": [
+     "Jaya",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Risk tolerance",
+   "subtype": "Cautious by nature [Actor]",
+   "description": "A young adult avoids uncertain ventures, checks facts many times and prefers proven paths. Caution guards against loss, but may cause missed chances if fear rather than judgment decides.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4465,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Arohi",
+     "Gurleen"
+    ],
+    "4": [
+     "Arohi",
+     "Jatin"
+    ],
+    "5": [
+     "Madhav",
+     "Rajni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Risk tolerance",
+   "subtype": "Calculated risk [Response]",
+   "description": "A wise person asks what is the worst outcome, whether it can be survived and what is the likely gain, then takes a step with a back-up plan. Neither reckless nor frozen, they treat risk as a choice with costs on both sides.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "possibly related concept (heuristic): Catastrophising"
+   ]
+  },
+  {
+   "sno": 4466,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Sarita"
+    ],
+    "4": [
+     "Suraj",
+     "Ritu"
+    ],
+    "5": [
+     "Eshaan",
+     "Kavitha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Impulsivity",
+   "subtype": "Grabbing and blurting [Actor]",
+   "description": "A young child grabs a toy, interrupts or hits before thinking because self-control is still forming. Sees the wish and acts, and is helped by clear simple rules and calm practice, not shame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shame, calm"
+   ]
+  },
+  {
+   "sno": 4467,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Mohit"
+    ],
+    "4": [
+     "Vijay",
+     "Jahnavi"
+    ],
+    "5": [
+     "Oskar",
+     "Felix"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Impulsivity",
+   "subtype": "Acting before thinking [Actor]",
+   "description": "A child blurts answers, pushes in the queue or throws things in anger and later feels sorry. The gap between urge and action is short, and cue words or pauses can widen it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4468,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Beatriz",
+     "Ines"
+    ],
+    "4": [
+     "Neelam",
+     "Rukmini"
+    ],
+    "5": [
+     "Trisha",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Impulsivity",
+   "subtype": "Spending, posting or fighting in the moment [Actor]",
+   "description": "A teenager sends an angry message, makes a rash purchase or joins a risky stunt and regrets it later. Strong emotion plus peer pressure shrinks foresight, so a rule like sleep on it protects.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, regret"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1558,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Nikita",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Following a spiritual teacher",
+   "subtype": "Guru × Gratitude [Actor]",
+   "description": "A teacher's kindness helped me through a dark year, and I feel deep thanks. Wise: gratitude can coexist with clear eyes; support the good, keep thinking. Harmful: feeling that thanks means never questioning.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, disillusionment, fear, manipulation, worship",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1559,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Lalit"
+    ],
+    "3": [
+     "Dolma",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Following a spiritual teacher",
+   "subtype": "Guru × Disillusionment [Actor]",
+   "description": "I found out my teacher lives in luxury and keeps secrets. My heart broke. Wise: grieve the image, keep what truth I learned, and separate the practice from the person. Harmful: dropping every value out of anger.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, fear, gratitude, manipulation, worship",
+    "related mind states: grief, anger"
+   ]
+  },
+  {
+   "sno": 1560,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Darshan"
+    ],
+    "3": [
+     "Harsha",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Following a spiritual teacher",
+   "subtype": "Guru × Dependence [Actor]",
+   "description": "I ask my teacher before every decision and feel lost without him. Wise: a good guide builds my judgement, not my dependence; make small choices alone and see that I can. Harmful: outsourcing my whole life.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, fear, gratitude, manipulation, worship"
+   ]
+  },
+  {
+   "sno": 1561,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Pooja"
+    ],
+    "3": [
+     "Wasim",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Following a spiritual teacher",
+   "subtype": "Devotee friend × Fear [Actor]",
+   "description": "My friend has cut off his family for the ashram and I worry about him. Wise: keep the door open, stay warm, ask curious questions, avoid attacking his teacher. Harmful: ultimatums that push him deeper.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, disillusionment, gratitude, manipulation, worship",
+    "related mind states: fear, anxiety, curiosity"
+   ]
+  },
+  {
+   "sno": 1562,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Salma"
+    ],
+    "3": [
+     "Vaibhav",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Group × Affection [Receiver]",
+   "description": "Members shower me with attention, meals and \"you belong here\" in my first week. I feel warm after a lonely year. Wise: enjoy kindness but notice if love is tied to obedience or to cutting off others.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, fear, loyalty, protectiveness",
+    "related mind states: affection, loneliness"
+   ]
+  },
+  {
+   "sno": 1563,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Avni"
+    ],
+    "3": [
+     "Emeka",
+     "Anders"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Leader × Coercion [Receiver]",
+   "description": "I am asked to donate, hand over my phone and stop seeing old friends \"for my growth\". Wise: these are control signals; keep independent contact, money and a way to leave, and talk to someone outside.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, compassion, disillusionment, fear, loyalty, protectiveness"
+   ]
+  },
+  {
+   "sno": 1564,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Gabriel",
+     "Aiko"
+    ],
+    "3": [
+     "Seema",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Group × Loyalty [Actor]",
+   "description": "I defend the group even though private doubts are growing. Belonging is strong. Wise: notice which questions I am not allowed to ask; loyalty that forbids thinking is worth examining. Harmful: silencing my doubts.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, compassion, disillusionment, fear, protectiveness",
+    "related mind states: doubt, nostalgia"
+   ]
+  },
+  {
+   "sno": 1565,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Anirban"
+    ],
+    "3": [
+     "Anand",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Family × Fear [Receiver]",
+   "description": "My family begs me to leave the group, and I see them as enemies who do not understand. Wise: listen for love inside their fear, and keep one connection alive even if I disagree. Harmful: cutting them off as told.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, compassion, disillusionment, loyalty, protectiveness",
+    "related mind states: affection, fear"
+   ]
+  },
+  {
+   "sno": 1566,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Lalit"
+    ],
+    "3": [
+     "Bhavna",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Group × Disillusionment [Actor]",
+   "description": "I finally saw that the group's promises did not match its actions. I feel foolish and grieve years lost. Wise: leaving is brave, not stupid; get support, seek counselling and rebuild slowly. Harmful: self-blame.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, compassion, fear, loyalty, protectiveness",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 1567,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Maria"
+    ],
+    "3": [
+     "Sabina",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining high-control group",
+   "subtype": "Ex-member × Compassion [Receiver]",
+   "description": "An ex-member shares that she felt the same fears and now finds peace. I feel less alone. Wise: listen without rushing the decision and take one safe step at a time. Harmful: replacing one authority with another.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, disillusionment, fear, loyalty, protectiveness",
+    "related mind states: fear, calm, trust, empathy"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4489,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Cultural roles and personality",
+   "subtype": "Observer misreading a cultural style [Observer]",
+   "description": "A manager sees a quiet, deferential employee as unconfident, though the style comes from respect learned at home. Asking directly and creating ways to voice ideas avoids unfair judgment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4490,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Manjula",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Cultural roles and personality",
+   "subtype": "Choosing which roles to keep [Response]",
+   "description": "A wise adult sorts inherited roles into those they value, those they adjust and those they set down, with respect for family. Change is gradual and explained, not a sudden rejection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4491,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Thabo",
+     "Amara"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Busy body and wandering mind [Actor]",
+   "description": "A child moves constantly, loses track of instructions and finds waiting painful, though they can hyperfocus on what excites them. Feels frustrated by constant correction; they are not choosing to be naughty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, excitement, hurt"
+   ]
+  },
+  {
+   "sno": 4492,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Aditi",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Trying hard and still forgetting [Actor]",
+   "description": "A child loses homework, daydreams in class and hears you are so careless. They feel ashamed because effort does not match results, and need supports like routines and visual reminders, not more scolding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4493,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Dilnaz",
+     "Baljeet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Teacher noticing [Observer]",
+   "description": "A teacher sees a bright pupil who cannot sit still and blurts answers. Rather than labelling, they adjust seating, give movement breaks and talk with the family about seeking a professional assessment if it seems needed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 4494,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Xin",
+     "Nkechi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Parent living with daily friction [Receiver]",
+   "description": "A parent worn out by reminders and morning battles feels both love and exasperation. Praising effort, using clear short instructions and getting support for themselves help the home stay warm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4495,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Lalit",
+     "Kashish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Time blindness and last-minute rush [Actor]",
+   "description": "A teenager underestimates how long tasks take, starts late and works well only under deadline pressure. Behind the chaos is a real difficulty with planning, and external structure helps more than lectures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4496,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Seema",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Respectful support [Response]",
+   "description": "A wise friend or adult does not mock forgetfulness, offers gentle reminders and body-doubling, and celebrates small wins. Avoids assuming laziness, and leaves any diagnosis to qualified professionals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4497,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Elizabeth",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Independence without scaffolding [Actor]",
+   "description": "A young adult who was held together by school and parents finds college and hostel life overwhelming: missed bills, scattered notes and restless nights. Building routines and seeking an evaluation and support can change things.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: boredom, overwhelm"
+   ]
+  },
+  {
+   "sno": 4498,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Shalini",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "ADHD-type experience",
+   "subtype": "Strengths alongside struggles [Actor]",
+   "description": "An adult with this style may bring energy, creativity and quick thinking while struggling with admin and follow-through. Choosing suitable work and tools, and not measuring self only by tidy standards, matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

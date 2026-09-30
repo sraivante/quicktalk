@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6131,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Yusuf"
+    ],
+    "3": [
+     "Pranav",
+     "Lavanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding what to do with pocket money",
+   "subtype": "Approach: lending to a friend without a plan [Pitfall]",
+   "description": "A boy lends his savings to a friend who promises to repay soon but forgets, and he learns to lend only small amounts and agree on a date beforehand.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, externalising on paper, impulsive action"
+   ]
+  },
+  {
+   "sno": 6132,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Bidisha"
+    ],
+    "3": [
+     "Seema",
+     "Indu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: task decomposition into a packing and route list [Action]",
+   "description": "A girl helps plan a visit to her grandparents by listing tasks: book tickets, pack clothes, arrange food for the train, and tick them off with her mother the week before.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, magical thinking, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6133,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Mohit"
+    ],
+    "3": [
+     "Jeevan",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: comparing travel options by cost and comfort [Thinking]",
+   "description": "A boy compares train, bus and car for a trip to Agra, noting the train is cheaper and safer at night while the car allows stops, and helps the family choose the train.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, magical thinking, resource and budget planning, task decomposition",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6134,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Manjula"
+    ],
+    "3": [
+     "Sumit",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: making a wish list without limits [Pitfall]",
+   "description": "The child suggests visiting six places in two days, and only when his father points at the map and clock does he see that travel time makes the plan impossible.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, resource and budget planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6135,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Gargi",
+     "Vandana"
+    ],
+    "3": [
+     "Noor",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: adjusting the plan to fit the budget [Revision]",
+   "description": "After learning the family can spend only ten thousand rupees, the girl removes the water park and keeps the fort and museum, which cost less and everyone still enjoys.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, magical thinking, task decomposition"
+   ]
+  },
+  {
+   "sno": 6136,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Alka"
+    ],
+    "3": [
+     "Harsha",
+     "Suraj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: asking each family member for one wish [Action]",
+   "description": "To be fair, the boy asks grandma, mother, father and sister to pick one place each, and the family builds the days around these so nobody feels ignored.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, resource and budget planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6137,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Vasudha",
+     "Keerthana"
+    ],
+    "3": [
+     "Seema",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: preparing for rain and delays [Thinking]",
+   "description": "A girl thinks the train may be late and it may rain, so she suggests carrying snacks, a plastic sheet and an indoor plan such as a museum for a wet afternoon.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, magical thinking, resource and budget planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6138,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Varun",
+     "Usha"
+    ],
+    "3": [
+     "Karthik",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: leaving the whole plan to the adults [Pitfall]",
+   "description": "A child shows no interest and does not help, then is upset on the trip because the places do not match what he likes, missing the chance to give his input.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, forward planning, magical thinking, resource and budget planning, task decomposition",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6139,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Tanvir"
+    ],
+    "3": [
+     "Uma",
+     "Disha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: drawing a map with a timetable [Action]",
+   "description": "The girl sketches the route on paper with boxes for morning, afternoon and evening, and uses it to check that the timings between stops are realistic.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, checklist, magical thinking, resource and budget planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6140,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Dolma"
+    ],
+    "3": [
+     "Vaibhav",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a family trip",
+   "subtype": "Approach: packing checklist based on past trips [Thinking]",
+   "description": "Remembering that last year they forgot medicine and a charger, the boy writes those first on the list, using earlier mistakes to prevent repeats.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, forward planning, magical thinking, resource and budget planning, task decomposition"
+   ]
+  }
+ ]
+}

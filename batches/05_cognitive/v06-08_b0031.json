@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 3870,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Vinita",
+     "Jomon"
+    ],
+    "7": [
+     "Aadhya",
+     "Ganga"
+    ],
+    "8": [
+     "Madhav",
+     "Bidisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rationalisation",
+   "subtype": "Testing the excuse [Response]",
+   "description": "An adult writes down the real reason for a choice and asks whether they would accept the same explanation from a friend; honest reasons are usually shorter and less flattering.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3871,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Mridul",
+     "Vaibhav"
+    ],
+    "7": [
+     "Divyansh",
+     "Gopika"
+    ],
+    "8": [
+     "Sami",
+     "Nour"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intellectualisation",
+   "subtype": "Facts instead of grief [Actor]",
+   "description": "A teenager whose grandparent has died recites medical details and statistics with a flat voice; thinking about the event keeps the pain at arm's length, and tears may come only later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: grief, hurt"
+   ]
+  },
+  {
+   "sno": 3872,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Uday",
+     "Gurleen"
+    ],
+    "7": [
+     "Kiran",
+     "Binita"
+    ],
+    "8": [
+     "Ritu",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intellectualisation",
+   "subtype": "Analysing a breakup like a case study [Actor]",
+   "description": "A student explains a painful breakup through attachment theory and diagrams while avoiding how it felt; the analysis is real but doubles as a wall against feeling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3873,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Avni"
+    ],
+    "7": [
+     "Amandeep",
+     "Avni"
+    ],
+    "8": [
+     "Tanvir",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intellectualisation",
+   "subtype": "Letting thinking and feeling share the table [Response]",
+   "description": "A student uses their analytical skill to understand a loss and then sets aside time to actually feel it; understanding is helpful when it leads toward emotion and not away from it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3874,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Deepika",
+     "Lakshmi"
+    ],
+    "7": [
+     "Sarita",
+     "Asif"
+    ],
+    "8": [
+     "Zainab",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intellectualisation",
+   "subtype": "Partner wants feelings and gets a lecture [Receiver]",
+   "description": "A partner who says they are hurt receives a well-argued explanation of why the hurt is illogical; they feel unheard even though every point is technically correct.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3875,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Gurpreet",
+     "Sharmila"
+    ],
+    "7": [
+     "Aditi",
+     "Charu"
+    ],
+    "8": [
+     "Javier",
+     "Kwame"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Intellectualisation",
+   "subtype": "Noticing the calm that rings hollow [Observer]",
+   "description": "A mentor sees a bright junior discuss a layoff in rational terms but skip meals and sleep; the mentor asks how it feels rather than what it means.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3876,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Manoj",
+     "Rukmini"
+    ],
+    "7": [
+     "Usha",
+     "Aparna"
+    ],
+    "8": [
+     "Rehana",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reaction formation",
+   "subtype": "Excessive kindness to a resented rival [Actor]",
+   "description": "A child who feels displaced by a new classmate becomes overly sweet and follows them everywhere; the loud friendliness masks jealousy the child cannot admit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: jealousy, resentment"
+   ]
+  },
+  {
+   "sno": 3877,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Tenzin",
+     "Nitin"
+    ],
+    "7": [
+     "Kashish",
+     "Mohit"
+    ],
+    "8": [
+     "Tejas",
+     "Nitin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reaction formation",
+   "subtype": "Mocking the one who is liked [Actor]",
+   "description": "A teenager who has a crush teases the person loudly in front of friends; the opposite behaviour protects them from feeling exposed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3878,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rehana",
+     "Rajni"
+    ],
+    "7": [
+     "Manoj",
+     "Chaitanya"
+    ],
+    "8": [
+     "Clara",
+     "Santiago"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reaction formation",
+   "subtype": "Fierce scorn for a secret temptation [Actor]",
+   "description": "A young adult condemns a habit or lifestyle with unusual heat while privately drawn to it; when the intensity outruns the situation, the feeling underneath is often the opposite one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: contempt"
+   ]
+  },
+  {
+   "sno": 3879,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Lokesh",
+     "Trisha"
+    ],
+    "7": [
+     "Ishita",
+     "Ganga"
+    ],
+    "8": [
+     "Chinmay",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reaction formation",
+   "subtype": "Over-the-top praise from a rival [Observer]",
+   "description": "A colleague notices a competitor gushing about a promotion a little too much and too often; the excess is a hint of mixed feelings and not proof of ill will.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1968,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Nitin"
+    ],
+    "3": [
+     "Samir",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Public criticism online",
+   "subtype": "Troll × Indifference [Actor]",
+   "description": "Trolls provoke for attention. Practise not feeding them: mute, block and move on. Indifference here is protection, not weakness. Engage with people who criticise in good faith and ignore those who only want a reaction.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, guilt, hurt, respect",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 1969,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Shreya"
+    ],
+    "3": [
+     "Thomas",
+     "Manjula"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Public criticism online",
+   "subtype": "Friend × Compassion [Actor]",
+   "description": "A friend is being trolled and is sinking. Message privately, ask what help they want, offer to check the messages for them, and avoid piling advice. Being present can matter more than defending them publicly.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, guilt, hurt, indifference, respect",
+    "related mind states: resentment, empathy"
+   ]
+  },
+  {
+   "sno": 1970,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Bhavna"
+    ],
+    "3": [
+     "Bao",
+     "Chen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Public criticism online",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "You said something careless that hurt people and are now being criticised. Own it without excuses, apologise directly to those harmed, learn and change behaviour. Defensive counterattack or disappearing without repair prolongs the harm.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, hurt, indifference, respect",
+    "related mind states: guilt, hurt"
+   ]
+  },
+  {
+   "sno": 1971,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Mehak"
+    ],
+    "3": [
+     "Irfan",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Relative × Trust [Actor]",
+   "description": "An uncle forwards a shocking video, and you almost share it. Pause and check the source, date and independent reports, since emotional intensity is itself a warning. Correct family gently, in private, with a link.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, dependence, distrust, guilt, manipulation",
+    "related mind states: surprise, trust"
+   ]
+  },
+  {
+   "sno": 1972,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Varun",
+     "Rashmi"
+    ],
+    "3": [
+     "Arohi",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Stranger online × Deceit [Receiver]",
+   "description": "Fake clips and doctored audio can copy a real person. Learn to look for odd blinking, mismatched sound or lack of reliable coverage, and verify with official channels. Lies are made to be believed; you are not foolish for being tricked.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, dependence, distrust, guilt, manipulation, trust",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1973,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Jagdish"
+    ],
+    "3": [
+     "Raghav",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Deepfake creator × Harm [Receiver]",
+   "description": "If a fake image or video of you spreads, it is a violation and not your shame. Save evidence, report to the platform and cybercrime portal, tell trusted people, and seek legal help. Do not pay blackmail demands.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, dependence, distrust, guilt, manipulation",
+    "related mind states: shame, trust"
+   ]
+  },
+  {
+   "sno": 1974,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Damini",
+     "Vidya"
+    ],
+    "3": [
+     "Hafsa",
+     "Shreya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Political leader × Manipulation [Receiver]",
+   "description": "Campaigns use edited clips and fear-based rumours to steer emotion. Notice who benefits, check multiple sources, and be cautious about content that flatters your side. Media literacy is a civic skill.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, dependence, distrust, guilt, trust",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 1975,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Lalit",
+     "Anand"
+    ],
+    "3": [
+     "Vijay",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Friend × Argument [Actor]",
+   "description": "A friend believes a conspiracy theory and you feel compelled to correct them. Ask how they came to it, share one reliable fact, and respect them enough not to humiliate. People rarely change when they feel attacked.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, distrust, guilt, manipulation, trust",
+    "related mind states: admiration, humiliation"
+   ]
+  },
+  {
+   "sno": 1976,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Ujjwal"
+    ],
+    "3": [
+     "Vandana",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "You shared something false and it caused panic or hurt someone. Delete it, post a correction to the same audience, and apologise if named. Building the habit of checking before sharing repairs more than shame does.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, dependence, distrust, manipulation, trust",
+    "related mind states: shame, guilt, hurt"
+   ]
+  },
+  {
+   "sno": 1977,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Soo-ah",
+     "Rafael"
+    ],
+    "3": [
+     "Tenzin",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Misinformation and deepfakes",
+   "subtype": "Platform or algorithm × Dependence [Actor]",
+   "description": "Your feed keeps you angry and hooked, and you notice worse mood and warped views. Curate sources, schedule offline time, read long-form, and remember outrage is what platforms reward. You are shaping your mind with your attention.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, distrust, guilt, manipulation, trust",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

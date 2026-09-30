@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7201,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Sarika"
+    ],
+    "3": [
+     "Ayesha",
+     "Bidisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: tracking where time actually goes for a week [Thinking]",
+   "description": "An engineer logs work messages, meetings and evening hours and finds that most late work is responding to chats, not real emergencies. The data replaces vague guilt.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, negotiation, rigid persistence",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 7202,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Indu",
+     "Gurpreet"
+    ],
+    "3": [
+     "Gopika",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: setting a fixed shutdown time [Action]",
+   "description": "She decides to close the laptop by 7 pm, sets a reminder, and tells her team the hours she will respond. Clear expectations make it easier to keep the boundary.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 7203,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Francis"
+    ],
+    "3": [
+     "Chetan",
+     "Mahima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: if-then rule for after-hours messages [Action]",
+   "description": "He adopts a rule: if a message arrives after eight and is not marked urgent, then he replies the next morning. The rule removes the daily decision and reduces guilt.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, negotiation, rigid persistence",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 7204,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Manjula",
+     "Yogesh"
+    ],
+    "3": [
+     "Disha",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: negotiating expectations with the manager [Action]",
+   "description": "She explains to her manager that constant availability is hurting her focus and proposes a way for real emergencies to reach her by phone. The manager agrees to try it.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, rigid persistence",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 7205,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Lalit"
+    ],
+    "3": [
+     "Kiran",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: announcing boundaries then dropping them at the first request [Pitfall]",
+   "description": "He tells the team he is offline after six, but answers when the manager pings once. The team learns the boundary is flexible and messages continue as before.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 7206,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Sunaina"
+    ],
+    "3": [
+     "Gargi",
+     "Urmila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: swinging to extreme disengagement [Pitfall]",
+   "description": "After burning out, she stops replying to anything after noon and skips meetings. Colleagues lose trust and her work suffers, so the pendulum swing creates a new problem.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, negotiation, rigid persistence",
+    "related mind states: interest, trust"
+   ]
+  },
+  {
+   "sno": 7207,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Imran",
+     "Pranav"
+    ],
+    "3": [
+     "Pradeep",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: protecting a family ritual as a commitment device [Thinking]",
+   "description": "He puts a fixed dinner with his wife and a Sunday call with his parents on his calendar as unmovable events. Having someone waiting gives the boundary force.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, if-then plan, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 7208,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Farida",
+     "Bhavna"
+    ],
+    "3": [
+     "Vidya",
+     "Jeevan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: accountability partner check [Action]",
+   "description": "She shares her goal to leave on time with a colleague, and they nudge each other at 6.30 pm. Shared accountability helps when personal willpower alone fails.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, if-then plan, negotiation, rigid persistence"
+   ]
+  },
+  {
+   "sno": 7209,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Jasleen",
+     "Bhavna"
+    ],
+    "3": [
+     "Sangeeta",
+     "Lavanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Repairing work-life boundaries",
+   "subtype": "Approach: reviewing and loosening rules for real peaks [Revision]",
+   "description": "After a release week forced late nights, they agree on a rule: crunch weeks are allowed, followed by a lighter day. The boundary becomes realistic rather than rigid.",
+   "graph_context": [
+    "same problem, other approaches: accountability partner, commitment device, if-then plan, negotiation"
+   ]
+  },
+  {
+   "sno": 7210,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Nilesh"
+    ],
+    "3": [
+     "Pema",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A burnout recovery plan",
+   "subtype": "Approach: noticing warning signs and taking them seriously [Thinking]",
+   "description": "A team lead notices constant fatigue, irritability and dread on Sunday nights. Instead of pushing through, he concludes this is a pattern that needs a change, not just a rest weekend.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, delegation, forward planning, root cause analysis",
+    "related mind states: fear, tiredness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1268,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Devika"
+    ],
+    "3": [
+     "Siddharth",
+     "Nirmala"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Friend × Loyalty [Receiver]",
+   "description": "A friend says I still respect you and sits by me after I lost. I feel relief. Wise: accept comfort, and later do the same for them.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, disillusionment, mockery, shame",
+    "related mind states: admiration, relief"
+   ]
+  },
+  {
+   "sno": 1269,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Xin",
+     "Tariq"
+    ],
+    "3": [
+     "Jasleen",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Coach × Disappointment [Receiver]",
+   "description": "My coach or teacher looks disappointed after my result. Wise: ask what I can learn, avoid taking their frown as total rejection.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, loyalty, mockery, shame",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 1270,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Zubin"
+    ],
+    "3": [
+     "Vandana",
+     "Trisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Self × Resilience [Actor]",
+   "description": "After failing I restart with a smaller plan. Wise: progress follows practice and correction; famous people fail often too, quietly.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, disillusionment, loyalty, mockery, shame"
+   ]
+  },
+  {
+   "sno": 1271,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Mohit",
+     "Tanvir"
+    ],
+    "3": [
+     "Zubin",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Rival × Contempt [Receiver]",
+   "description": "A rival gloats over my failure. Wise: don't stoop to their level; their need to gloat says more about them; work on beating my own past score.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, loyalty, mockery, shame",
+    "related mind states: contempt"
+   ]
+  },
+  {
+   "sno": 1272,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Rehana"
+    ],
+    "3": [
+     "Trisha",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Self × Perfectionism [Actor]",
+   "description": "I refuse to try things I might fail at. Wise: fear of failure limits me more than failure does; start with low-stakes attempts.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, disillusionment, loyalty, mockery, shame",
+    "related mind states: fear",
+    "related concepts: fear of failure"
+   ]
+  },
+  {
+   "sno": 1273,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Mehak"
+    ],
+    "3": [
+     "Farhan",
+     "Tejas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Parent × Compassion [Receiver]",
+   "description": "My parent comforts me instead of scolding after a failure. I feel safe. Wise: share honestly what happened and plan the next step together.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, disillusionment, loyalty, mockery, shame",
+    "related mind states: trust, empathy"
+   ]
+  },
+  {
+   "sno": 1274,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Vikas",
+     "Naveen"
+    ],
+    "3": [
+     "Ulla",
+     "Siddiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Reporting wrongdoing at school",
+   "subtype": "Peer × Loyalty [Actor]",
+   "description": "I see a friend cheating or bullying and feel torn between loyalty and right. Wise: talk to the friend first if safe; if harm continues, tell a trusted adult. Real loyalty isn't silence about harm.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear, gratitude, guilt, rejection, trust",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1275,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Vasudha"
+    ],
+    "3": [
+     "Mahima",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Reporting wrongdoing at school",
+   "subtype": "Peer group × Exclusion [Receiver]",
+   "description": "After I reported a wrong, friends call me a snitch and freeze me out. Wise: hurt is real; distinguish telling to protect from telling to punish, and find allies.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear, gratitude, guilt, loyalty, trust",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1276,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Lavanya"
+    ],
+    "3": [
+     "Shalini",
+     "Sarika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Reporting wrongdoing at school",
+   "subtype": "Teacher × Trust [Actor]",
+   "description": "I report to a teacher I trust that someone is being harassed. Wise: give facts, ask for confidentiality, and follow up; don't take the law into my own hands.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, fear, gratitude, guilt, loyalty, rejection",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1277,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Parveen"
+    ],
+    "3": [
+     "Jeevan",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Reporting wrongdoing at school",
+   "subtype": "Institution × Betrayal [Receiver]",
+   "description": "I reported, but the school ignored it or exposed me. I feel betrayed. Wise: document, escalate to the principal, board, parents or helpline, and keep myself safe.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, gratitude, guilt, loyalty, rejection, trust",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

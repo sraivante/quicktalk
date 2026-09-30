@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3880,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Dolma",
+     "Yogesh"
+    ],
+    "13": [
+     "Jahnavi",
+     "Urmila"
+    ],
+    "14": [
+     "Nour",
+     "Gabriel"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reaction formation",
+   "subtype": "Admitting the mixed feeling [Response]",
+   "description": "An adult who catches themselves being extra nice to someone they resent allows the truth that they are both envious and happy for them; honest ambivalence lets kindness become genuine.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: joy, envy, resentment"
+   ]
+  },
+  {
+   "sno": 3881,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Hemant",
+     "Omkar"
+    ],
+    "13": [
+     "Nitin",
+     "Rehana"
+    ],
+    "14": [
+     "Aiko",
+     "Anders"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regression",
+   "subtype": "Baby talk after a new sibling [Actor]",
+   "description": "A child who was toilet trained and speaking clearly returns to baby talk and clinging after a sibling is born; the child is asking whether there is still room for them to be looked after.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3882,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Hemant",
+     "Jatin"
+    ],
+    "13": [
+     "Jeevan",
+     "Salma"
+    ],
+    "14": [
+     "Gurleen",
+     "Hansa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regression",
+   "subtype": "Wanting to sleep near parents after a move [Actor]",
+   "description": "A child who has changed schools and cities asks to sleep in the parents' room and stops doing chores they used to manage; stress temporarily pulls them back toward early comforts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3883,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Gopika",
+     "Himani"
+    ],
+    "13": [
+     "Sharmila",
+     "Imran"
+    ],
+    "14": [
+     "Tushar",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regression",
+   "subtype": "Curling up after failure [Actor]",
+   "description": "A teenager who failed a selection trial refuses to talk, wants only childhood food and stays in bed; the retreat is a way to be soothed and usually eases with warmth and time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3884,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Kalyani",
+     "Yusuf"
+    ],
+    "13": [
+     "Dolma",
+     "Akash"
+    ],
+    "14": [
+     "Jatin",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regression",
+   "subtype": "Hostel student calling home in tears [Actor]",
+   "description": "A first-year student far from home phones a parent daily and acts younger than usual during exams; being comforted is a need, not weakness, and the balance shifts back as confidence grows.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3885,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R12"
+   },
+   "cast": {
+    "12": [
+     "Pradeep",
+     "Lakshmi"
+    ],
+    "13": [
+     "Aditi",
+     "Anjali"
+    ],
+    "14": [
+     "Manoj",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regression",
+   "subtype": "Parent meeting regression with warmth [Response]",
+   "description": "A parent responds to a child's baby-like behaviour with extra cuddles and patience without mocking, while keeping routines steady; the child is reassured and moves forward sooner.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3886,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Payal",
+     "Hafsa"
+    ],
+    "13": [
+     "Pranav",
+     "Tanuja"
+    ],
+    "14": [
+     "Samir",
+     "Pallavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Sublimation",
+   "subtype": "Anger into drumming or sport [Actor]",
+   "description": "A child who is furious about a family quarrel bangs a drum or runs laps until the storm passes; the energy is redirected into something skilled and safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 3887,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Bhavna",
+     "Akash"
+    ],
+    "13": [
+     "Suraj",
+     "Avni"
+    ],
+    "14": [
+     "Tanvir",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Sublimation",
+   "subtype": "Heartbreak into poetry [Actor]",
+   "description": "A teenager who has been rejected writes verses and songs instead of lashing out; making something from the pain gives it shape and lets others see it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3888,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Disha",
+     "Urmila"
+    ],
+    "13": [
+     "Shreya",
+     "Sudha"
+    ],
+    "14": [
+     "Ramesh",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Sublimation",
+   "subtype": "Aggression into disciplined competition [Actor]",
+   "description": "A young man with a fierce temper finds kabaddi or debating where intensity is welcomed within rules; the drive is honoured and channelled without being denied.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 3889,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Yusuf",
+     "Siddharth"
+    ],
+    "13": [
+     "Kiran",
+     "Hafsa"
+    ],
+    "14": [
+     "Sahil",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Sublimation",
+   "subtype": "Coach spotting redirected drive [Observer]",
+   "description": "A coach sees a volatile player turn anger into relentless training and cautions that the channel is healthy only if the person also rests and talks about what is underneath.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

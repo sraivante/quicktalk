@@ -1,0 +1,272 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1298,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Pankaj"
+    ],
+    "3": [
+     "Lavanya",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Falling for a crush",
+   "subtype": "Crush × Caste, religion or family barrier [Actor]",
+   "description": "You like someone your family may not accept. Wise: think seriously about what you both really want and how you will handle family, rather than assuming love alone will win. Immature: secrecy that ends in a sudden crisis.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, comparison, fear, obsession, rejection",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1299,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Vasudha"
+    ],
+    "3": [
+     "Binita",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Love and commitment [Actor]",
+   "description": "You choose one person and its meaning goes beyond feelings. Wise: love shows in reliability, honest talk and making room for their growth. Immature: treating commitment as ownership or a performance for social media.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, gratitude, respect, trust",
+    "paired view exists: Receiver (S1300)",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1300,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Suraj",
+     "Tanvir"
+    ],
+    "3": [
+     "Aadhya",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Love and commitment [Receiver]",
+   "description": "You feel chosen and valued, which is both warm and a little scary. Wise: receive it with honesty about your own limits and keep your own friendships. Immature: taking the devotion for granted.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, dependence, fear, gratitude, respect, trust",
+    "paired view exists: Actor (S1299)",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1301,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Kiran"
+    ],
+    "3": [
+     "Farhan",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Trust [Actor]",
+   "description": "You choose to believe them without proof at every moment. Wise: trust builds through small kept promises and is not blind; you can still notice red flags. Immature: testing them constantly to feel safe.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1302,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Jatin"
+    ],
+    "3": [
+     "Kalyani",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Dependence [Actor]",
+   "description": "You lean on them for mood, decisions and identity, and feel lost alone. Wise: keep your own friends, work and goals so love is a choice, not a need. Immature: making them responsible for your whole happiness.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, fear, gratitude, respect, trust",
+    "paired view exists: Receiver (S1303)",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1303,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Tejas"
+    ],
+    "3": [
+     "Thomas",
+     "Seema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Dependence [Receiver]",
+   "description": "Your partner needs you constantly and it feels heavy. Wise: give care but name the limit kindly and encourage their other supports. Harmful: feeling guilty into giving up your own life.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, fear, gratitude, respect, trust",
+    "paired view exists: Actor (S1302)",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1304,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Rehana"
+    ],
+    "3": [
+     "Aadhya",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Respect and equality [Actor]",
+   "description": "You want a partner who is equal, not a fantasy or servant. Wise: share decisions, listen to their ambitions, and split effort fairly. Immature: expecting them to follow your career or adjust always.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, trust",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1305,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Sangeeta"
+    ],
+    "3": [
+     "Yash",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Gratitude [Actor]",
+   "description": "You notice what they do quietly, like showing up in a hard week. Wise: say thanks specifically and reciprocate. Immature: keeping a score of favours and sulking when they are not repaid.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, respect, trust",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1306,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Salma",
+     "Nikita"
+    ],
+    "3": [
+     "Kamal",
+     "Mohit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Fear of losing [Actor]",
+   "description": "You feel anxious they will leave, so you clutch or please too much. Wise: name the fear, work on your own worth, and talk openly. Immature: checking phones or picking fights to test them.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, gratitude, respect, trust",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 1307,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Gurleen"
+    ],
+    "3": [
+     "Jasleen",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Long distance strain [Actor]",
+   "description": "Different cities, time zones and studies make you feel forgotten. Wise: agree on realistic contact, share your inner life, and plan visits. Immature: demanding constant replies or reading silence as betrayal.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect"
+   ]
+  }
+ ]
+}

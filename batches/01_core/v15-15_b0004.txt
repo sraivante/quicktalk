@@ -1,0 +1,35 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R13+T1: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day. TWIST: Set it in a different season or festival period than a typical scene.
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 31, "plan": {"15": "R13+T1"}, "cast": {"15": ["Eshaan", "Ritu"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Foundational Logic", "subtype": "Early Numeracy", "description": "Grasping the concept of counting, quantity, and identifying \"more\" versus \"less.\""}
+{"sno": 32, "plan": {"15": "R12+T1"}, "cast": {"15": ["Bhupen", "Afreen"]}, "age": "4–6", "topic": "Creativity", "subtopic": "Imaginative Play", "subtype": "Divergent Thinking", "description": "Inventing alternative uses for everyday objects and generating imaginative scenarios during play."}
+{"sno": 33, "plan": {"15": "R8+T1"}, "cast": {"15": ["Clara", "Pablo"]}, "age": "4–6", "topic": "Physical Literacy", "subtopic": "Body Boundaries", "subtype": "Spatial Coordination", "description": "Understanding personal physical space, maintaining balance during active games, and honoring bodily boundaries of peers."}
+{"sno": 34, "plan": {"15": "R7+T1"}, "cast": {"15": ["Bhupen", "Vasudha"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Self-Conscious Emotions", "subtype": "Pride", "description": "Feeling satisfaction and standing taller after personal achievements.", "graph_context": ["related mind states: pride, contentment"]}
+{"sno": 35, "plan": {"15": "R4+T1"}, "cast": {"15": ["Eshaan", "Devika"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Self-Conscious Emotions", "subtype": "Shame", "description": "Feeling fundamentally bad about oneself when failing to meet external expectations.", "graph_context": ["related mind states: shame"]}
+{"sno": 36, "plan": {"15": "R7+T1"}, "cast": {"15": ["Rehana", "Mehak"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Self-Conscious Emotions", "subtype": "Guilt", "description": "Recognizing one has done a specific wrong action and feeling remorse for it.", "graph_context": ["related mind states: guilt"]}
+{"sno": 37, "plan": {"15": "R8+T1"}, "cast": {"15": ["Ada", "Bao"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Self-Conscious Emotions", "subtype": "Embarrassment", "description": "Feeling sudden self-consciousness when receiving unwanted or overwhelming attention.", "graph_context": ["related mind states: embarrassment, overwhelm"]}
+{"sno": 38, "plan": {"15": "R8+T1"}, "cast": {"15": ["Rosa", "Mei"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Early Empathic Emotions", "subtype": "Sympathy", "description": "Feeling sorrow or concern upon seeing someone else's distress.", "graph_context": ["related mind states: sadness, empathy"]}
+{"sno": 39, "plan": {"15": "R8+T1"}, "cast": {"15": ["Kofi", "Abebe"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Early Empathic Emotions", "subtype": "Concern", "description": "Noticing another's pain and attempting rudimentary comfort.", "graph_context": ["related mind states: hurt"]}
+{"sno": 40, "plan": {"15": "R9+T1"}, "cast": {"15": ["Binita", "Sarita"]}, "age": "4–6", "topic": "Coping", "subtopic": "Emotional Regulation", "subtype": "Frustration Tolerance & Self-Soothing", "description": "Recovering from minor disappointments or lost games without resorting to prolonged meltdowns.", "graph_context": ["related mind states: disappointment, anger"]}
+
+Return exactly 10 JSON Lines and nothing else.

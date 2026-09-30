@@ -1,0 +1,313 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5022,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Manjula",
+     "Nitin"
+    ],
+    "4": [
+     "Kiran",
+     "Parul"
+    ],
+    "5": [
+     "Shalini",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Waiting to feel like it [Actor]",
+   "description": "A child says they will begin homework when they feel like it and drifts through the evening. Feeling ready rarely arrives before starting; children often learn this only through repeated late nights.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5023,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Pankaj",
+     "Bhavna"
+    ],
+    "4": [
+     "Nirmala",
+     "Indu"
+    ],
+    "5": [
+     "Darshan",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Dread of the first minutes [Actor]",
+   "description": "A teenager finds the thought of revising unbearable but, once the book is open for ten minutes, the resistance largely fades. The dread is mostly about the entrance, not the work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5024,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Pallavi",
+     "Jatin"
+    ],
+    "4": [
+     "Ayesha",
+     "Madhuri"
+    ],
+    "5": [
+     "Amandeep",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Tiny start rule [Response]",
+   "description": "A wise approach is to commit to just five minutes, open the book, write one sentence or lay out the tools. Motion creates momentum, and permission to stop afterwards makes starting feel safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5025,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Gurpreet"
+    ],
+    "4": [
+     "Maria",
+     "Sunaina"
+    ],
+    "5": [
+     "Damini",
+     "Ankita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Perfect conditions excuse [Actor]",
+   "description": "A young adult waits for a clear desk, a full day and the right mood before starting a thesis chapter. Perfect conditions are a polite name for postponement, and they never quite arrive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5026,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Yusuf"
+    ],
+    "4": [
+     "Arohi",
+     "Rajni"
+    ],
+    "5": [
+     "Siddharth",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Low mood and getting going [Observer]",
+   "description": "A friend sees someone unusually unable to start anything for weeks, beyond ordinary laziness. If the flatness is deep and lasting, it is worth gently suggesting a doctor or counsellor rather than lecturing about discipline.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5027,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Zanele",
+     "Chidi"
+    ],
+    "4": [
+     "Madhav",
+     "Kashish"
+    ],
+    "5": [
+     "Kunal",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Starting when unmotivated",
+   "subtype": "Action before motivation [Response]",
+   "description": "An experienced worker treats motivation as a result of starting, not a requirement, and keeps a fixed routine on flat days. Routine carries people through the days when drive is absent.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5028,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Nazia"
+    ],
+    "4": [
+     "Avni",
+     "Nilesh"
+    ],
+    "5": [
+     "Thomas",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Deadlines and pacing",
+   "subtype": "Deadline feels far away [Actor]",
+   "description": "A child told a project is due in two weeks feels there is endless time and does nothing until the last two days. Distant deadlines have little emotional weight until they become near.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5029,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Samir",
+     "Maria"
+    ],
+    "4": [
+     "Hrithik",
+     "Sachin"
+    ],
+    "5": [
+     "Rajni",
+     "Nandini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Deadlines and pacing",
+   "subtype": "Night-before rush [Actor]",
+   "description": "A teenager works frantically the night before a submission, sleeps little and delivers something rushed. The adrenaline of pressure feels like proof of ability and reinforces the habit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5030,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Samir",
+     "Shankar"
+    ],
+    "4": [
+     "Hafsa",
+     "Hansa"
+    ],
+    "5": [
+     "Ramesh",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Deadlines and pacing",
+   "subtype": "Pressure as fuel and its cost [Actor]",
+   "description": "A college student says they work best under pressure and repeatedly leaves things to the last day. It sometimes works, but quality suffers, sleep suffers, and one unexpected illness can break the whole plan.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5031,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Santosh"
+    ],
+    "4": [
+     "Pallavi",
+     "Seema"
+    ],
+    "5": [
+     "Nirmala",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Deadlines and pacing",
+   "subtype": "Setting internal earlier deadlines [Response]",
+   "description": "A wise worker sets personal milestones ahead of the real date and finishes a rough draft early. This leaves room for surprises and makes the final days about improving, not scrambling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: surprise"
+   ]
+  }
+ ]
+}

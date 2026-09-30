@@ -1,0 +1,214 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 3830,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Chinmay",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Expert intuition",
+   "subtype": "Beginner gut versus trained gut [Actor]",
+   "description": "A student trusts his gut in a field he barely knows and is often wrong. Reliable intuition comes only from many repeated experiences with quick, honest feedback.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3831,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Ritu",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Expert intuition",
+   "subtype": "Developing pattern recognition [Actor]",
+   "description": "A young nurse, engineer or driver begins to sense that something is wrong before she can say why, from hundreds of cases seen. She learns to treat the feeling as a cue to check.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3832,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Amandeep",
+     "Jatin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Expert intuition",
+   "subtype": "Where intuition fails [Observer]",
+   "description": "A senior notices experts confident in fields with noisy feedback, such as predicting markets or hiring, where experience does not sharpen judgment. He asks for data alongside gut feeling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3833,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Vasudha",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Expert intuition",
+   "subtype": "Using intuition wisely [Response]",
+   "description": "A mature professional trusts a trained hunch in familiar settings, tests it against evidence, checks with colleagues, and stays humble outside her domain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3834,
+   "plan": {
+    "15": "R8+T2"
+   },
+   "cast": {
+    "15": [
+     "Bilal",
+     "Wanjiru"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Wishes and thoughts as causes [Actor]",
+   "description": "A toddler believes that his wish or a gesture can make things happen, such as a wave making a toy move. He cannot yet separate thought from the physical world.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 3835,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Rafiq",
+     "Lavanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Monsters, fairies and rituals [Actor]",
+   "description": "A preschooler believes in monsters under the bed, the tooth fairy and special words that protect him. Imagination is vivid and the line with reality is soft.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 3836,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Mohit",
+     "Darshan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Guilt for bad events [Actor]",
+   "description": "A young child thinks his angry wish caused a sibling's illness or parents' quarrel. Adults should gently explain that his thoughts did not cause it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: anger, guilt"
+   ]
+  },
+  {
+   "sno": 3837,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Sumit",
+     "Karthik"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Handling with warmth [Response]",
+   "description": "A parent plays along with imagination, checks the child's fears, and gently gives simple true explanations, without mocking him or scaring him with made-up dangers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: affection, anger, fear"
+   ]
+  },
+  {
+   "sno": 3838,
+   "plan": {
+    "15": "R4+T1"
+   },
+   "cast": {
+    "15": [
+     "Tushar",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Superstitions and lucky rituals [Actor]",
+   "description": "An older child avoids stepping on cracks, taps things or wears a lucky shirt for exams. He half knows it is not logical and still feels safer with it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3839,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Harish",
+     "Vasudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Magical thinking in children",
+   "subtype": "Leftover magic in teens [Observer]",
+   "description": "A teacher notices teenagers who still keep lucky charms or fear jinxing good news. It is normal and harmless when it does not replace effort or lead to harmful choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

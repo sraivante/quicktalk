@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 938,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Manjula"
+    ],
+    "3": [
+     "Urmila",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Shame after a mistake",
+   "subtype": "Self × Shame [Actor]",
+   "description": "I spilled ink on a friend's book and feel my face burn. Shame says I am bad, while guilt says I did a bad thing. I can apologise and offer to fix it.",
+   "graph_context": [
+    "same situation, other stances at this age: forgiveness, humiliation",
+    "related mind states: shame, guilt"
+   ]
+  },
+  {
+   "sno": 939,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Harish"
+    ],
+    "3": [
+     "Naveen",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Shame after a mistake",
+   "subtype": "Classmate × Humiliation [Receiver]",
+   "description": "The whole class laughs when I stammer or fall on stage. I want to disappear. Most of them forget soon; a friend who stands by me matters more than the laughter.",
+   "graph_context": [
+    "same situation, other stances at this age: forgiveness, shame",
+    "related mind states: amusement, humiliation"
+   ]
+  },
+  {
+   "sno": 940,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Shalini"
+    ],
+    "3": [
+     "Gautam",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Shame after a mistake",
+   "subtype": "Parent × Forgiveness [Receiver]",
+   "description": "My mother forgives me quickly when I confess a mistake. I feel a weight lift. Being forgiven teaches me that a mistake can be mended and does not end love.",
+   "graph_context": [
+    "same situation, other stances at this age: humiliation, shame",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 941,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Felix",
+     "Noa"
+    ],
+    "3": [
+     "Uma",
+     "Rehana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Shame after a mistake",
+   "subtype": "Teacher × Scolding [Receiver]",
+   "description": "The teacher scolds me sharply for a slip. I feel ashamed and defensive. Listening to what I can learn, without deciding I am useless, helps me grow.",
+   "graph_context": [
+    "same situation, other stances at this age: forgiveness, humiliation, shame",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 942,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Vandana",
+     "Ira"
+    ],
+    "3": [
+     "Ira",
+     "Himani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Shame after a mistake",
+   "subtype": "Self × Hiding [Actor]",
+   "description": "I broke something at home and hid the pieces. The secret feels heavy. Telling the truth, even late, usually brings relief and shows my parents I can be trusted.",
+   "graph_context": [
+    "same situation, other stances at this age: forgiveness, humiliation, shame",
+    "related mind states: relief, trust"
+   ]
+  },
+  {
+   "sno": 943,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Rehana"
+    ],
+    "3": [
+     "Charu",
+     "Hafsa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Classmate × Admiration [Actor]",
+   "description": "A classmate draws or sings beautifully and I am amazed. Admiring others opens my heart, and I can ask how she practises instead of thinking I could never do it.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, envy, insecurity, jealousy, pride",
+    "related mind states: admiration, awe"
+   ]
+  },
+  {
+   "sno": 944,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Kashish"
+    ],
+    "3": [
+     "Wanjiru",
+     "Ines"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Classmate × Envy [Actor]",
+   "description": "Everyone praises my classmate's talent and I feel invisible. Envy shows me what I care about. I can work on my own strengths instead of running down hers.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, insecurity, jealousy, pride",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 945,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Chinmay"
+    ],
+    "3": [
+     "Harsha",
+     "Nilesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Parent × Comparison [Receiver]",
+   "description": "My parents say, look at your cousin, he is so good. I feel crushed. I can say that I am trying in my own way and ask them to notice what I do well.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, insecurity, jealousy, pride"
+   ]
+  },
+  {
+   "sno": 946,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Gurleen"
+    ],
+    "3": [
+     "Gargi",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I won a prize for my talent and love the applause. Pride is healthy; I stay humble by thanking those who taught me and helping others who are learning.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, envy, insecurity, jealousy",
+    "related mind states: affection, gratitude, pride"
+   ]
+  },
+  {
+   "sno": 947,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Irawati"
+    ],
+    "3": [
+     "Jeevan",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Friend × Jealousy [Receiver]",
+   "description": "My friend goes cold after I win a contest. I feel confused and guilty for winning. I can stay kind, give him space and remind him that his friendship matters to me.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, envy, insecurity, pride",
+    "related mind states: guilt, confusion, jealousy"
+   ]
+  }
+ ]
+}

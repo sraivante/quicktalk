@@ -1,0 +1,316 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4239,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Rashmi"
+    ],
+    "4": [
+     "Amandeep",
+     "Mahima"
+    ],
+    "5": [
+     "Sahil",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Using substances to cope with stress [Actor]",
+   "description": "A young adult using nicotine, alcohol or other substances to switch off worry feels brief relief followed by rebound anxiety and dependence. Noticing this pattern early and reaching for other supports matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: anxiety, relief"
+   ]
+  },
+  {
+   "sno": 4240,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Madhav"
+    ],
+    "4": [
+     "Abhinav",
+     "Wasim"
+    ],
+    "5": [
+     "Marek",
+     "Rania"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Recognising when help is needed [Response]",
+   "description": "A person realises that use is rising, cravings are strong, promises to cut down are broken or life is suffering, and reaches out to a doctor, counsellor or trusted person. Asking for help is a strength, not a failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4241,
+   "plan": {
+    "3": "R8",
+    "4": "R13",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Tuan",
+     "Zeynep"
+    ],
+    "4": [
+     "Aadhya",
+     "Ankita"
+    ],
+    "5": [
+     "Nazia",
+     "Santosh"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Toddler wound up by fast screens [Actor]",
+   "description": "A toddler who watches fast, bright videos before bed may be more wired, cranky and slow to sleep. Quiet play, books and a screen-free wind-down help the small brain settle.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4242,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Soo-ah",
+     "Hiroshi"
+    ],
+    "4": [
+     "Uma",
+     "Chandrika"
+    ],
+    "5": [
+     "Kishore",
+     "Elizabeth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Meltdown when screen time ends [Actor]",
+   "description": "A young child pulled from a show or game may scream or sulk because the stimulating content ends abruptly. Warning before the end and a pleasant next activity soften the transition.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4243,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Tomas",
+     "Xin"
+    ],
+    "4": [
+     "Farhan",
+     "Wasim"
+    ],
+    "5": [
+     "Varun",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Late-night gaming and morning grogginess [Actor]",
+   "description": "A schoolchild who plays or watches into the night finds it hard to wake, focus or stay calm the next day. Agreed cut-off times and devices outside the bedroom protect sleep.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4244,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Indu",
+     "Urmila"
+    ],
+    "4": [
+     "Sabina",
+     "Karthik"
+    ],
+    "5": [
+     "Ankita",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Phone in bed [Actor]",
+   "description": "A teenager scrolling in bed feels one more video is harmless, but sleep is delayed and mood the next day drops. Fear of missing out and bright light both keep the mind alert long after tiredness sets in.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, tiredness"
+   ]
+  },
+  {
+   "sno": 4245,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Divyansh",
+     "Keerthana"
+    ],
+    "4": [
+     "Jagdish",
+     "Sharmila"
+    ],
+    "5": [
+     "Karthik",
+     "Trisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Parents setting screen limits without a war [Response]",
+   "description": "A parent who sets rules together with the teen, explains the reason and follows them too gets more cooperation. Charging phones outside bedrooms works better as a family habit than as a punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4246,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Xin",
+     "Paulo"
+    ],
+    "4": [
+     "Salma",
+     "Pallavi"
+    ],
+    "5": [
+     "Gargi",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Doomscrolling before sleep [Actor]",
+   "description": "A young adult scrolling through news and feeds at night feels tense, comparing and unable to switch off, and sleeps poorly. Setting a wind-down time and putting the phone away can quietly improve mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4247,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Pema",
+     "Hansa"
+    ],
+    "4": [
+     "Vandana",
+     "Damini"
+    ],
+    "5": [
+     "Aadhya",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Screens, blue light and sleep",
+   "subtype": "Working screens late into the night [Actor]",
+   "description": "A professional answering messages and emails late finds the mind still buzzing at bedtime and wakes unrested. Clear work boundaries and a screen-free half hour before sleep help the brain shift gears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4248,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Urmila",
+     "Shalini"
+    ],
+    "4": [
+     "Naveen",
+     "Raghav"
+    ],
+    "5": [
+     "Payal",
+     "Jyoti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Slouching and feeling small [Actor]",
+   "description": "A child who is sad or shy tends to hunch and look down, and slumped sitting can reinforce the feeling. Playful movement, stretching and standing tall can lift energy a little.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: playfulness, sadness, shyness"
+   ]
+  }
+ ]
+}

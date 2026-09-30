@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5562,
+   "plan": {
+    "9": "R2+T1",
+    "10": "R4+T1",
+    "11": "R7+T1"
+   },
+   "cast": {
+    "9": [
+     "Samir",
+     "Shalini"
+    ],
+    "10": [
+     "Sarita",
+     "Chaitanya"
+    ],
+    "11": [
+     "Afreen",
+     "Vasudha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "Hunger and sleep turn into tantrums [Actor]",
+   "description": "A toddler melts down over small things when hungry or tired, and a meal or nap changes the mood; body needs come before manners or reasoning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 5563,
+   "plan": {
+    "9": "R4",
+    "10": "R7+T1",
+    "11": "R8+T1"
+   },
+   "cast": {
+    "9": [
+     "Harsha",
+     "Mehak"
+    ],
+    "10": [
+     "Sabina",
+     "Lavanya"
+    ],
+    "11": [
+     "Sami",
+     "Thabo"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "Teacher notices a child cannot focus before snack [Observer]",
+   "description": "A teacher sees a child fidgeting and tearful before break, calm after eating; unmet basic needs often look like bad behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, calm"
+   ]
+  },
+  {
+   "sno": 5564,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Ankita",
+     "Rafiq"
+    ],
+    "10": [
+     "Aditi",
+     "Swati"
+    ],
+    "11": [
+     "Lavanya",
+     "Deepika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "Skipped breakfast narrows attention [Actor]",
+   "description": "A schoolchild who came without breakfast thinks only of food and cannot follow the lesson; the mind narrows to the pressing need and higher goals fade.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5565,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Kiran",
+     "Mahima"
+    ],
+    "10": [
+     "Elizabeth",
+     "Karthik"
+    ],
+    "11": [
+     "Lindiwe",
+     "Camila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "Sleep loss changes mood and choices [Actor]",
+   "description": "A teenager up late every night grows irritable, impulsive and low, and takes worse decisions; steady sleep and regular meals protect mood and judgment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5566,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Ganga",
+     "Indu"
+    ],
+    "10": [
+     "Jatin",
+     "Lokesh"
+    ],
+    "11": [
+     "Madhav",
+     "Anand"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "All-nighters and hungry decisions [Actor]",
+   "description": "A student surviving on tea and little sleep snaps at friends and makes rash choices before exams, then regrets them; rested bodies think and forgive better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 5567,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Irfan",
+     "Sachin"
+    ],
+    "10": [
+     "Jeevan",
+     "Sharmila"
+    ],
+    "11": [
+     "Ramesh",
+     "Gautam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Physiological needs (Maslow)",
+   "subtype": "Long scarcity leaves little room for planning [Observer]",
+   "description": "A person short of food, sleep or safe shelter for long has little mental room for future planning, which reflects scarcity and not laziness; support and stable basics free the mind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5568,
+   "plan": {
+    "9": "R9",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Rehana",
+     "Anjali"
+    ],
+    "10": [
+     "Harsha",
+     "Dilnaz"
+    ],
+    "11": [
+     "Aditi",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Absorbed in what they love [Actor]",
+   "description": "A child lost for an hour in drawing or building forgets time and prizes; curiosity and joy in the task itself are early signs of a mind growing toward its own potential.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, affection, curiosity"
+   ]
+  },
+  {
+   "sno": 5569,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Lindiwe",
+     "Tariq"
+    ],
+    "10": [
+     "Raghav",
+     "Devika"
+    ],
+    "11": [
+     "Minakshi",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Finding their own voice [Actor]",
+   "description": "A teenager keeps learning classical music despite jokes from classmates, since it feels true to them; growth begins where inner interest outweighs the wish to fit in.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5570,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Samir",
+     "Yash"
+    ],
+    "10": [
+     "Sahil",
+     "Nazia"
+    ],
+    "11": [
+     "Bao",
+     "Santiago"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Choosing meaning over prestige [Actor]",
+   "description": "A young adult turns down a high-paying, famous job for work that fits their values, and feels both fear and calm; the path fits them better than the applause would.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 5571,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Jahnavi",
+     "Jyoti"
+    ],
+    "10": [
+     "Chaitanya",
+     "Bhavna"
+    ],
+    "11": [
+     "Jagdish",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Mentor sees genuine engagement [Observer]",
+   "description": "A mentor notices a young person light up and stay late for their own interest, not for marks, and gives them space and tools instead of pressing them toward a set career.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

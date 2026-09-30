@@ -1,0 +1,216 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5366,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Asking good questions",
+   "subtype": "Open versus closed [Response]",
+   "description": "A young adult asks a friend how did that feel, not did you like it, and gets a fuller answer. Open, curious questions invite stories, while leading ones invite agreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 5367,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Vinita",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Asking good questions",
+   "subtype": "Questions that interrogate [Receiver]",
+   "description": "A person is fired quick questions why did you do that, what were you thinking and feels attacked. The same content asked with softer tone and genuine curiosity brings better answers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 5368,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Charu",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Asking good questions",
+   "subtype": "Asking what is missing [Response]",
+   "description": "A thoughtful colleague asks what would make this fail, or what am I not seeing. Such questions surface hidden risks and show respect for other viewpoints.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5369,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Vijay"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Validating feelings versus fixing",
+   "subtype": "Comfort by presence [Receiver]",
+   "description": "A crying toddler quiets when held and spoken to softly, regardless of what was wrong. Before language, feeling accepted is the entire comfort needed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 5370,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Minakshi",
+     "Tarun"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Validating feelings versus fixing",
+   "subtype": "Naming the feeling [Response]",
+   "description": "A parent says you are sad because your friend left, and the child nods and calms. Naming a feeling helps a small child sort it and feel understood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: sadness, calm"
+   ]
+  },
+  {
+   "sno": 5371,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Alejandro",
+     "Chidi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Validating feelings versus fixing",
+   "subtype": "Dismissed with minimising [Receiver]",
+   "description": "A child crying over a lost match is told it is just a game, stop crying. The child learns to hide feelings, not that they are small.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 5372,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Darshan",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Validating feelings versus fixing",
+   "subtype": "Wanting to be heard, not advised [Receiver]",
+   "description": "A teenager vents about a teacher and gets a list of solutions, so they stop sharing. Often the request is to be heard first, and advice is welcome only if asked.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5373,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Salma",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Validating feelings versus fixing",
+   "subtype": "Both and [Response]",
+   "description": "A person says that sounds really hard, and then asks would you like ideas or just company. Validation first and asking permission to problem-solve respects both feeling and agency.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5374,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Maria",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Arguing productively",
+   "subtype": "Winning versus understanding [Actor]",
+   "description": "Children arguing over a game push louder and repeat the same claim. Learning to state what the other person said before answering starts to change the pattern.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5375,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Arguing productively",
+   "subtype": "Escalating through absolutes [Actor]",
+   "description": "A teenager in a quarrel says you always or you never and drags in old grievances. Absolutes provoke defence, and specific present issues keep the argument solvable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: grief, resentment"
+   ]
+  }
+ ]
+}

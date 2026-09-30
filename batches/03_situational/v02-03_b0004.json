@@ -1,0 +1,263 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 348,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Raghav"
+    ],
+    "3": [
+     "Tejas",
+     "Sarika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing cheating in an exam",
+   "subtype": "Friend × Loyalty vs honesty",
+   "description": "Feels torn between protecting a friend and fairness; options are to urge the friend to stop, tell a teacher, or refuse to help, and a mature child weighs the harm to others.",
+   "graph_context": [
+    "same situation, other stances at this age: anger"
+   ]
+  },
+  {
+   "sno": 349,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Darshan"
+    ],
+    "3": [
+     "Urmila",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing cheating in an exam",
+   "subtype": "Stranger × Indignation",
+   "description": "Feels anger at unfairness and reports it when safe; needs guidance not to become a self-righteous informer over small things.",
+   "graph_context": [
+    "same situation, other stances at this age: loyalty",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 350,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Uday"
+    ],
+    "3": [
+     "Rekha",
+     "Jahnavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being teased by peers",
+   "subtype": "Peers × Hurt",
+   "description": "Feels shame at teasing and withdraws; learns to answer calmly, walk away and seek support instead of fighting.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, hatred",
+    "related mind states: shame, detachment, calm, hurt"
+   ]
+  },
+  {
+   "sno": 351,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Yash",
+     "Nitin"
+    ],
+    "3": [
+     "Aadhya",
+     "Hafsa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being teased by peers",
+   "subtype": "Bully × Hatred",
+   "description": "Wants revenge and imagines hurting the bully; a healthy path is to acknowledge the anger, tell an adult, and avoid retaliating.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, hurt",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 352,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Minakshi",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Kiran",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being teased by peers",
+   "subtype": "Bully × Empathy",
+   "description": "Realizes that a bully may be hurting at home; understanding explains behaviour but does not excuse it or remove the need for boundaries.",
+   "graph_context": [
+    "same situation, other stances at this age: hatred, hurt",
+    "related mind states: empathy, hurt"
+   ]
+  },
+  {
+   "sno": 353,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Gargi"
+    ],
+    "3": [
+     "Ganga",
+     "Ojas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling rivalry",
+   "subtype": "Sibling × Rivalry & protection",
+   "description": "Fights over attention and things at home but defends the sibling outside; learns that conflict and loyalty can coexist."
+  },
+  {
+   "sno": 354,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Maria"
+    ],
+    "3": [
+     "Zeenat",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "God × Worship & awe",
+   "description": "Feels devotion, wonder and belonging while participating; faith is absorbed through stories, music and ritual before argument.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, rejection, respect, trust",
+    "related mind states: curiosity, awe, nostalgia"
+   ]
+  },
+  {
+   "sno": 355,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Neelam"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "God × Bargaining",
+   "description": "Prays for exam marks in exchange for promises; transactional faith is normal at this age and can mature toward gratitude.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, rejection, respect, trust, worship",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 356,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Dhruv"
+    ],
+    "3": [
+     "Nirmala",
+     "Tushar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Festival or prayer",
+   "subtype": "Other faith × Curiosity & respect",
+   "description": "Attends a friend's festival, asks questions and respects rituals different from home; prejudice starts where curiosity ends.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude, rejection, trust, worship",
+    "related mind states: admiration, curiosity"
+   ]
+  },
+  {
+   "sno": 357,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Eshaan"
+    ],
+    "3": [
+     "Pema",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Getting lost or in danger",
+   "subtype": "Trusted adult × Reliance",
+   "description": "Stays calm, approaches a safe person such as a shopkeeper or police officer, and repeats the parent's number.",
+   "graph_context": [
+    "related mind states: detachment, calm, trust"
+   ]
+  }
+ ]
+}

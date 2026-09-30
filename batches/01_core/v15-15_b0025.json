@@ -1,0 +1,196 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 241,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Gautam",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Ethics",
+   "subtopic": "Academic Honesty",
+   "subtype": "Plagiarism & Shortcut Temptation",
+   "description": "Resisting copying and AI-written submissions and understanding why originality matters."
+  },
+  {
+   "sno": 242,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Neelam",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Leadership",
+   "subtopic": "Initiative",
+   "subtype": "Student Leadership & Organizing Others",
+   "description": "Taking charge of projects, motivating peers and taking blame when things fail."
+  },
+  {
+   "sno": 243,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Sarika",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cultural",
+   "subtopic": "Identity Navigation",
+   "subtype": "Code-Switching & Heritage Pride",
+   "description": "Moving between home culture, school culture and online culture without shame.",
+   "graph_context": [
+    "related mind states: shame, pride"
+   ]
+  },
+  {
+   "sno": 244,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Vidya",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cultural",
+   "subtopic": "Intercultural Competence",
+   "subtype": "Global Awareness & Migration Stories",
+   "description": "Understanding other societies, migration and prejudice through curiosity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 245,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Keerthana",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Coping",
+   "subtopic": "Adversity",
+   "subtype": "Handling Failure, Result Disappointment & Family Crisis",
+   "description": "Coping with bad results, parental conflict or financial hardship without losing hope.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: disappointment, hope"
+   ]
+  },
+  {
+   "sno": 246,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Thomas",
+     "Mridul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Individual Variation",
+   "subtopic": "Neurodiversity",
+   "subtype": "Understanding One's Learning Style & Differences",
+   "description": "Recognizing personal strengths and needs, such as attention, dyslexia or sensory sensitivity, and asking for support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 247,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Gargi",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Environment",
+   "subtopic": "Climate Awareness",
+   "subtype": "Climate Literacy & Small Actions",
+   "description": "Understanding causes of climate change and taking realistic personal and group action."
+  },
+  {
+   "sno": 248,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Farida",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Physical",
+   "subtopic": "Fitness & Body Care",
+   "subtype": "Exercise, Nutrition & Skin/Body Hygiene",
+   "description": "Building consistent fitness and eating habits."
+  },
+  {
+   "sno": 249,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Usha",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Philosophy",
+   "subtopic": "Worldviews",
+   "subtype": "Introductory Logic, Ethics & Worldviews",
+   "description": "Comparing philosophies, religions and ethical systems reasonably."
+  },
+  {
+   "sno": 250,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Chinmay",
+     "Manjula"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Habits & Ethics",
+   "subtopic": "Perseverance",
+   "subtype": "Long-Term Projects & Consistency",
+   "description": "Sustaining effort on multi-month goals despite boredom and setbacks.",
+   "graph_context": [
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  }
+ ]
+}

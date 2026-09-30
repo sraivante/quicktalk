@@ -1,0 +1,37 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R1+T2: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Include a sibling, cousin or close friend as a secondary character who reacts.
+R12+T2: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Include a sibling, cousin or close friend as a secondary character who reacts.
+R13+T1: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day. TWIST: Set it in a different season or festival period than a typical scene.
+R4+T2: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Include a sibling, cousin or close friend as a secondary character who reacts.
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R7+T2: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Include a sibling, cousin or close friend as a secondary character who reacts.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 161, "plan": {"15": "R1+T2"}, "cast": {"15": ["Seema", "Chetan"]}, "age": "1–3", "topic": "Morality", "subtopic": "Early Conscience", "subtype": "Understanding \"No\" & Basic Rules", "description": "Responding to prohibitions and sensing that some actions are not allowed."}
+{"sno": 162, "plan": {"15": "R4+T2"}, "cast": {"15": ["Tejas", "Anjali"]}, "age": "1–3", "topic": "Cultural", "subtopic": "Cultural Immersion", "subtype": "Mother Tongue, Songs & Family Rituals", "description": "Absorbing language, lullabies, food and festivals as the base layer of identity."}
+{"sno": 163, "plan": {"15": "R12+T2"}, "cast": {"15": ["Jagdish", "Ojas"]}, "age": "1–3", "topic": "Emotional", "subtopic": "Temperament", "subtype": "Temperament & Sensory Sensitivity", "description": "Individual baseline of reactivity, adaptability and sensory thresholds that shapes later behaviour."}
+{"sno": 164, "plan": {"15": "R7+T2"}, "cast": {"15": ["Lokesh", "Aparna"]}, "age": "1–3", "topic": "Digital & Technology", "subtopic": "Early Screen Exposure", "subtype": "Screens vs. Live Interaction", "description": "Learning best through live human interaction; screens as limited, co-viewed exposure."}
+{"sno": 165, "plan": {"15": "R1+T1"}, "cast": {"15": ["Nandini", "Lakshmi"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Language & Narrative", "subtype": "Storytelling & Sequencing", "description": "Retelling events with a beginning, middle and end; describing one's day in order."}
+{"sno": 166, "plan": {"15": "R13+T1"}, "cast": {"15": ["Rajni", "Seema"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Curiosity", "subtype": "Persistent \"Why\" Questioning", "description": "Asking repeated causal questions to understand how the world works."}
+{"sno": 167, "plan": {"15": "R1+T1"}, "cast": {"15": ["Minakshi", "Hemant"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Memory", "subtype": "Rhymes, Prayers & Verbal Memorization", "description": "Memorizing songs, poems and sayings, building recall and rhythm of language."}
+{"sno": 168, "plan": {"15": "R8+T1"}, "cast": {"15": ["Rosa", "Ulla"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Emotional Literacy", "subtype": "Naming & Explaining Feelings", "description": "Saying \"I am sad because…\" instead of only acting out the feeling.", "graph_context": ["related mind states: sadness"]}
+{"sno": 169, "plan": {"15": "R7+T1"}, "cast": {"15": ["Tanvir", "Varun"]}, "age": "4–6", "topic": "Emotional", "subtopic": "Emotional Regulation", "subtype": "Calm-Down Strategies", "description": "Using breathing, a hug or a quiet corner to settle anger or fear.", "graph_context": ["related mind states: affection, anger, fear, calm"]}
+{"sno": 170, "plan": {"15": "R7+T1"}, "cast": {"15": ["Nirmala", "Lavanya"]}, "age": "4–6", "topic": "Social", "subtopic": "Fairness", "subtype": "Turn-Taking & Fair Play", "description": "Accepting \"not my turn\" and the outcome of games without cheating."}
+
+Return exactly 10 JSON Lines and nothing else.

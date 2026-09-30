@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3740,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Divyansh",
+     "Lakshmi"
+    ],
+    "10": [
+     "Aditi",
+     "Tanuja"
+    ],
+    "11": [
+     "Dolma",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Decision fatigue",
+   "subtype": "Exam days and choices [Actor]",
+   "description": "A teenager after hours of study or many decisions grabs whatever is easy, such as junk snacks or a quick reply. Choosing depletes mental energy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3741,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Charu",
+     "Nirmala"
+    ],
+    "10": [
+     "Lavanya",
+     "Zeenat"
+    ],
+    "11": [
+     "Nitin",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Decision fatigue",
+   "subtype": "Many small choices [Actor]",
+   "description": "A student after a day of decisions about food, classes and plans defaults to impulse or avoidance in the evening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 3742,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Trisha",
+     "Rajni"
+    ],
+    "10": [
+     "Manoj",
+     "Samir"
+    ],
+    "11": [
+     "Anirban",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Decision fatigue",
+   "subtype": "Saving decisions for good hours [Response]",
+   "description": "A wise professional makes big decisions early in the day, uses routines for small ones, and avoids important choices when hungry, rushed or worn out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3743,
+   "plan": {
+    "9": "R2+T1",
+    "10": "R4+T1",
+    "11": "R7+T1"
+   },
+   "cast": {
+    "9": [
+     "Sahil",
+     "Imran"
+    ],
+    "10": [
+     "Irawati",
+     "Uma"
+    ],
+    "11": [
+     "Nitin",
+     "Lakshmi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Choice overload",
+   "subtype": "Too many options [Actor]",
+   "description": "A young child in a toy shop with many choices freezes, cries or grabs the nearest one. A small selection is easier and more satisfying.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 3744,
+   "plan": {
+    "9": "R5",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Suraj",
+     "Preeti"
+    ],
+    "10": [
+     "Chaitanya",
+     "Ujjwal"
+    ],
+    "11": [
+     "Javier",
+     "Hiroshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Choice overload",
+   "subtype": "Too many flavours [Actor]",
+   "description": "A child faced with a long menu takes ages, picks something and then wishes he had picked another. More options make each seem less certain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3745,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Yogesh",
+     "Simran"
+    ],
+    "10": [
+     "Vijay",
+     "Divyansh"
+    ],
+    "11": [
+     "Francis",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Choice overload",
+   "subtype": "Courses, apps and options [Actor]",
+   "description": "A student compares dozens of colleges, phones or apps, stays unsure, and feels less satisfied with the final choice than if he had fewer options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 3746,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Anirban",
+     "Nirmala"
+    ],
+    "10": [
+     "Nikita",
+     "Mahima"
+    ],
+    "11": [
+     "Amandeep",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Choice overload",
+   "subtype": "Narrowing on purpose [Response]",
+   "description": "A wise decider sets criteria first, keeps a shortlist of three, and picks a good-enough option rather than searching for the perfect one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 3747,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Neelam",
+     "Simran"
+    ],
+    "10": [
+     "Gurpreet",
+     "Elizabeth"
+    ],
+    "11": [
+     "Aadhya",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regret aversion",
+   "subtype": "Avoiding future what-ifs [Actor]",
+   "description": "A teenager avoids asking someone out or applying for a competition, fearing the regret of failing more than the regret of never trying.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: fear, regret"
+   ]
+  },
+  {
+   "sno": 3748,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Sahil",
+     "Rashmi"
+    ],
+    "10": [
+     "Kiran",
+     "Nilesh"
+    ],
+    "11": [
+     "Wasim",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regret aversion",
+   "subtype": "Playing safe to avoid regret [Actor]",
+   "description": "A young adult picks the safe stream or job so that no one can say he made a mistake. Anticipated regret narrows choices, though inaction brings its own regret later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: trust, regret"
+   ]
+  },
+  {
+   "sno": 3749,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Tejas",
+     "Maria"
+    ],
+    "10": [
+     "Kamal",
+     "Mridul"
+    ],
+    "11": [
+     "Anand",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regret aversion",
+   "subtype": "Decisions and second thoughts [Actor]",
+   "description": "A young professional keeps every door open and delays commitment, fearing he might regret the road not taken. The delay itself becomes a cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, regret"
+   ]
+  }
+ ]
+}

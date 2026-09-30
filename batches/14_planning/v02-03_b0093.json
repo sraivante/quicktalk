@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6681,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Saurabh"
+    ],
+    "3": [
+     "Jatin",
+     "Kavitha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: task decomposition with a shared board [Action]",
+   "description": "A team of four splits the project into modules, puts tasks on a shared board with owners and dates, and reviews it briefly twice a week.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6682,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Binita"
+    ],
+    "3": [
+     "Irawati",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: dependency and critical-path thinking [Thinking]",
+   "description": "The team notices that the data pipeline must exist before model training and the interface can be built in parallel, so the pipeline owner gets support first.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, groupthink planning, impulsive action, minimum viable version, negotiation"
+   ]
+  },
+  {
+   "sno": 6683,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Ganga"
+    ],
+    "3": [
+     "Kalyani",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: minimum viable version first [Action]",
+   "description": "The team builds a bare working version of the attendance system in three weeks, then adds face recognition and reports later, so a demo exists even if time runs short.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, impulsive action, negotiation"
+   ]
+  },
+  {
+   "sno": 6684,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Alka"
+    ],
+    "3": [
+     "Kunal",
+     "Sunaina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: leaving work to the last month [Pitfall]",
+   "description": "Confident that the project is easy, the team postpones coding until the final month, then finds integration bugs and rushes through a barely working submission.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, minimum viable version, negotiation"
+   ]
+  },
+  {
+   "sno": 6685,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Suraj",
+     "Hafsa"
+    ],
+    "3": [
+     "Seema",
+     "Sarika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: groupthink on the first idea [Pitfall]",
+   "description": "Nobody questions the topic suggested by the loudest member, though two members privately doubt the dataset exists, and the doubt surfaces only after weeks of work.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, impulsive action, minimum viable version, negotiation",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 6686,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Rekha"
+    ],
+    "3": [
+     "Chidi",
+     "Sami"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: divergent brainstorming then voting [Thinking]",
+   "description": "The team writes ten topic ideas silently, shares them together, and scores each on feasibility, interest and guide approval, which gives quieter members a fair say.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, critical path, groupthink planning, impulsive action, minimum viable version, negotiation",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6687,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Yusuf"
+    ],
+    "3": [
+     "Chandrika",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: one member does everything [Pitfall]",
+   "description": "The strongest coder takes over rather than explaining the tasks, and the others lose ownership. At the viva, the rest cannot explain their own project.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, impulsive action, minimum viable version"
+   ]
+  },
+  {
+   "sno": 6688,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Tenzin"
+    ],
+    "3": [
+     "Chaitanya",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: negotiating roles by strength and interest [Action]",
+   "description": "In a candid meeting, members state what they want to learn and what they do well, and the tasks are assigned so each has a visible part plus one shared review duty.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, impulsive action, minimum viable version",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6689,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Pranav"
+    ],
+    "3": [
+     "Aparna",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: buffer planning before the viva [Action]",
+   "description": "The team plans to finish coding two weeks before the deadline and leaves the last fortnight for testing, the report and a rehearsal, knowing that something will slip.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, critical path, groupthink planning, impulsive action, minimum viable version, negotiation"
+   ]
+  },
+  {
+   "sno": 6690,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Arohi",
+     "Tanvir"
+    ],
+    "3": [
+     "Lavanya",
+     "Nikita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Final-year project with a team",
+   "subtype": "Approach: root-cause analysis of a missed milestone [Revision]",
+   "description": "When a milestone slips twice, the team asks why repeatedly and finds that unclear requirements, not laziness, caused it. They write a one-page spec and agree on a definition of done.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, critical path, groupthink planning, impulsive action, minimum viable version"
+   ]
+  }
+ ]
+}

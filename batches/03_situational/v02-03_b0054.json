@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 848,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Thabo",
+     "Diego"
+    ],
+    "3": [
+     "Mohit",
+     "Irfan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "School × Obedience [Actor]",
+   "description": "We stand for the anthem because the teacher says so and I do it without thinking. Over time I learn it is a way of showing respect, not just a rule to fear.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, confusion, mockery, pride, respect",
+    "related mind states: admiration, fear"
+   ]
+  },
+  {
+   "sno": 849,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Rukmini",
+     "Aditi"
+    ],
+    "3": [
+     "Samir",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "Classmate × Mockery [Actor]",
+   "description": "I giggle during the anthem because friends do. It is easy to copy others; I learn that respect for shared symbols matters to many, and that I can save jokes for another time.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, confusion, pride, respect",
+    "related mind states: amusement, admiration"
+   ]
+  },
+  {
+   "sno": 850,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Gopika",
+     "Irfan"
+    ],
+    "3": [
+     "Aditi",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "Freedom fighter or soldier × Awe [Actor]",
+   "description": "I hear a story of a soldier or freedom fighter and feel awed at their courage. Admiration can inspire me to serve in my own small ways, like honesty and helping the community.",
+   "graph_context": [
+    "same situation, other stances at this age: confusion, mockery, pride, respect",
+    "related mind states: admiration, awe"
+   ]
+  },
+  {
+   "sno": 851,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Wasim",
+     "Imran"
+    ],
+    "3": [
+     "Noa",
+     "Bao"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "Classmate × Pride [Receiver]",
+   "description": "A classmate of another region or faith says he too loves the country. I see that loving one's land is not owned by any one group, and I welcome him as a fellow citizen.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, confusion, mockery, respect",
+    "related mind states: affection, pride"
+   ]
+  },
+  {
+   "sno": 852,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Anand"
+    ],
+    "3": [
+     "Bhupen",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "Society × Confusion [Actor]",
+   "description": "I hear elders argue angrily about the country and leaders. It confuses me. I can listen, ask calm questions, and understand that respect for the nation does not mean everyone must think alike.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, mockery, pride, respect",
+    "related mind states: admiration, confusion, calm"
+   ]
+  },
+  {
+   "sno": 853,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Ankita"
+    ],
+    "3": [
+     "Ganga",
+     "Zubin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "National anthem and flag",
+   "subtype": "Public place × Civic respect [Actor]",
+   "description": "I see someone litter near the flag or a monument and feel uneasy. Civic respect means caring for shared places too; I can pick it up or gently remind someone.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, confusion, mockery, pride",
+    "related mind states: admiration, anxiety"
+   ]
+  },
+  {
+   "sno": 854,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Nirmala",
+     "Abhinav"
+    ],
+    "3": [
+     "Mehak",
+     "Divyansh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Pocket money",
+   "subtype": "Parent × Gratitude [Actor]",
+   "description": "I receive weekly pocket money and feel grown up. Gratitude means remembering it comes from my parents' hard work, and thoughtful spending shows I value it.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, generosity, manipulation, pride, trust",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 855,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Chinmay"
+    ],
+    "3": [
+     "Tarun",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Pocket money",
+   "subtype": "Self × Impulse [Actor]",
+   "description": "I see a toy and spend my whole allowance in a minute, then feel regret. This is how children learn; waiting a day before buying teaches me to tell wanting from needing.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, generosity, gratitude, manipulation, pride, trust",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 856,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Anders",
+     "Mei"
+    ],
+    "3": [
+     "Vikas",
+     "Saurabh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Pocket money",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I saved for months and bought a cricket bat with my own money. The pride is deep. Saving teaches patience and shows me that effort builds what I want.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, generosity, gratitude, manipulation, trust",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 857,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Vikas",
+     "Kiran"
+    ],
+    "3": [
+     "Kofi",
+     "Jin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Pocket money",
+   "subtype": "Friend × Envy [Actor]",
+   "description": "My friend gets much more pocket money and buys many things. I feel a pang. It helps to remember that families differ, and to value what I have instead of comparing.",
+   "graph_context": [
+    "same situation, other stances at this age: generosity, gratitude, manipulation, pride, trust",
+    "related mind states: envy"
+   ]
+  }
+ ]
+}

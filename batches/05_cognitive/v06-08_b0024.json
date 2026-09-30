@@ -1,0 +1,312 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 3800,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Trisha",
+     "Ganga"
+    ],
+    "7": [
+     "Deepika",
+     "Manjula"
+    ],
+    "8": [
+     "Amandeep",
+     "Yogesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Source confusion",
+   "subtype": "Rumours as facts [Actor]",
+   "description": "A teenager repeats a claim as true because it feels familiar, not remembering that it came from a forwarded message. Repetition increases belief.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3801,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Kishore",
+     "Vasudha"
+    ],
+    "7": [
+     "Chaitanya",
+     "Kunal"
+    ],
+    "8": [
+     "Hemant",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Source confusion",
+   "subtype": "Forgotten origin of ideas [Actor]",
+   "description": "A student remembers a good idea and believes it was his own, when it came from a book or friend. Unintentional plagiarism can result from lost sources.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3802,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Bidisha",
+     "Harish"
+    ],
+    "7": [
+     "Lakshmi",
+     "Saurabh"
+    ],
+    "8": [
+     "Alka",
+     "Vandana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Source confusion",
+   "subtype": "Tracking where knowledge comes from [Response]",
+   "description": "A careful worker notes sources while reading and asks how she knows a claim, separating what she saw, was told and inferred.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3803,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Jeevan",
+     "Pradeep"
+    ],
+    "7": [
+     "Tejas",
+     "Francis"
+    ],
+    "8": [
+     "Asif",
+     "Uma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Flashbulb memory",
+   "subtype": "Vivid big moments [Actor]",
+   "description": "A child recalls exactly where he was on a big day such as a family loss or a cricket win, and feels the picture is perfectly clear and true.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3804,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Chinmay"
+    ],
+    "7": [
+     "Siddharth",
+     "Chetan"
+    ],
+    "8": [
+     "Javier",
+     "Paulo"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Flashbulb memory",
+   "subtype": "Strong emotion, strong confidence [Actor]",
+   "description": "A teenager vividly remembers where he was during a national event or a shock and is very sure, though details drift over time as with any memory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 3805,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Manjula"
+    ],
+    "7": [
+     "Sahil",
+     "Darshan"
+    ],
+    "8": [
+     "Lucia",
+     "Lars"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Flashbulb memory",
+   "subtype": "Confidence versus accuracy [Observer]",
+   "description": "Two friends recall a dramatic event differently and each is sure. They learn that emotional intensity increases confidence more than accuracy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3806,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Lalit",
+     "Kishore"
+    ],
+    "7": [
+     "Arohi",
+     "Chinmay"
+    ],
+    "8": [
+     "Simran",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Flashbulb memory",
+   "subtype": "Respecting intense memories [Response]",
+   "description": "A thoughtful adult accepts that vivid memories are meaningful and still checks details against records, and does not use them as unquestioned proof in disputes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3807,
+   "plan": {
+    "6": "R5",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rehana",
+     "Pema"
+    ],
+    "7": [
+     "Gautam",
+     "Santosh"
+    ],
+    "8": [
+     "Mina",
+     "Ines"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spacing and forgetting",
+   "subtype": "Cramming fades fast [Actor]",
+   "description": "A child who learns a poem all in one evening forgets it in days. Learning packed into one session vanishes faster than learning spread out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3808,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Vikas",
+     "Jyoti"
+    ],
+    "7": [
+     "Vasudha",
+     "Uma"
+    ],
+    "8": [
+     "Dilnaz",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spacing and forgetting",
+   "subtype": "Exam-night cramming [Actor]",
+   "description": "A teenager who crams before tests remembers enough to pass but loses it soon after. Short repeated sessions build stronger and longer memory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3809,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Seema",
+     "Sabina"
+    ],
+    "7": [
+     "Preeti",
+     "Akash"
+    ],
+    "8": [
+     "Nazia",
+     "Sonali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spacing and forgetting",
+   "subtype": "Testing yourself [Response]",
+   "description": "A student spreads study across days, recalls answers without looking, and revisits material just as it begins to fade. It feels harder and works better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

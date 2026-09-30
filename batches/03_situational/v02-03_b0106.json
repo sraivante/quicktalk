@@ -1,0 +1,270 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1368,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Parveen"
+    ],
+    "3": [
+     "Nikita",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend drifting away",
+   "subtype": "Friend × Asking a friend for money [Actor]",
+   "description": "You are short and need to borrow. Wise: ask clearly, say when you will repay, and repay. Immature: avoiding them or letting the debt sour the friendship.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, loneliness, loyalty"
+   ]
+  },
+  {
+   "sno": 1369,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Chaitanya"
+    ],
+    "3": [
+     "Arnab",
+     "Samir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Betrayal by gossip [Receiver]",
+   "description": "Your secret spread and you feel exposed and furious. Wise: confront them privately, decide what trust is left, and be more careful. Immature: leaking their secrets in return.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, forgiveness, mockery, rejection",
+    "paired view exists: Actor (S1370)",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 1370,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Varun"
+    ],
+    "3": [
+     "Nandini",
+     "Shalini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Betrayal [Actor]",
+   "description": "You shared a friend's confidence, maybe for attention. Wise: own it quickly, apologise without excuses, and accept their distance. Immature: minimising or blaming their reaction.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, contempt, forgiveness, mockery, rejection",
+    "paired view exists: Receiver (S1369)"
+   ]
+  },
+  {
+   "sno": 1371,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Shreya",
+     "Pradeep"
+    ],
+    "3": [
+     "Salma",
+     "Vinita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Forgiveness [Actor]",
+   "description": "You choose whether to forgive a friend who hurt you. Wise: forgiving can be for your peace, even if trust is not fully restored. Immature: pretending nothing happened.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, contempt, mockery, rejection",
+    "related mind states: calm, trust, hurt"
+   ]
+  },
+  {
+   "sno": 1372,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Zainab"
+    ],
+    "3": [
+     "Zeenat",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Being excluded [Receiver]",
+   "description": "You see photos of a gathering you were not invited to. Wise: feel the sting, ask directly if it matters, and remember it may not be malice. Immature: assuming the worst or retaliating.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, contempt, forgiveness, mockery"
+   ]
+  },
+  {
+   "sno": 1373,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Shankar"
+    ],
+    "3": [
+     "Pankaj",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Taking sides in a conflict [Actor]",
+   "description": "You are pressed to choose. Wise: state what you think is right without hurting either. Immature: gossiping to both to be liked.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, contempt, forgiveness, mockery, rejection",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1374,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Ojas",
+     "Samir"
+    ],
+    "3": [
+     "Uday",
+     "Ankita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Being used for notes, money or contacts [Receiver]",
+   "description": "You realise a friend only calls when they need something. Wise: help when you want, and set limits without bitterness. Harmful: giving more to buy affection.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, contempt, forgiveness, mockery, rejection",
+    "related mind states: affection, resentment"
+   ]
+  },
+  {
+   "sno": 1375,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Lucia",
+     "Olga"
+    ],
+    "3": [
+     "Chetan",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Contempt [Actor]",
+   "description": "You look down on someone in your circle for their background or English. Wise: see how the contempt hides insecurity and treat them as an equal. Harmful: mockery that isolates them.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, forgiveness, mockery, rejection",
+    "related mind states: contempt, loneliness, insecurity"
+   ]
+  },
+  {
+   "sno": 1376,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Urmila",
+     "Hemant"
+    ],
+    "3": [
+     "Sarita",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Mockery [Receiver]",
+   "description": "Friends tease you constantly for accent, clothes or being from a small town. Wise: tell them it hurts; if it continues, find kinder people. It is not your fault and is not a joke if you are hurt.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, contempt, forgiveness, rejection",
+    "paired view exists: Actor (S1377)",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1377,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Pallavi"
+    ],
+    "3": [
+     "Jomon",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend betrays trust",
+   "subtype": "Friend × Mockery [Actor]",
+   "description": "You laugh along at someone's expense to fit in. Wise: notice how it feels to be on the other side and stop or quietly refuse. Immature: calling it just banter.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, betrayal, contempt, forgiveness, rejection",
+    "paired view exists: Receiver (S1376)",
+    "related mind states: amusement"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5732,
+   "plan": {
+    "12": "R8+T1",
+    "13": "R9+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Bao",
+     "Lindiwe"
+    ],
+    "13": [
+     "Urmila",
+     "Vandana"
+    ],
+    "14": [
+     "Keerthana",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Privilege and fairness awareness",
+   "subtype": "Noticing unequal starting points [Actor]",
+   "description": "A child sees that a classmate walks far to school while they arrive by car, or that some friends have a quiet place to study. They start to ask why, and may feel guilty, curious or defensive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: guilt, curiosity"
+   ]
+  },
+  {
+   "sno": 5733,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Joseph",
+     "Jasleen"
+    ],
+    "13": [
+     "Tejas",
+     "Manjula"
+    ],
+    "14": [
+     "Kavitha",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Privilege and fairness awareness",
+   "subtype": "Defensive about advantage [Actor]",
+   "description": "A teenager told they had it easier feels attacked, and answers \"but I worked hard\". Hard work and unearned advantage can both be true, and the second does not cancel the first.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5734,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Madhuri",
+     "Mridul"
+    ],
+    "13": [
+     "Hiroshi",
+     "Zeynep"
+    ],
+    "14": [
+     "Shalini",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Privilege and fairness awareness",
+   "subtype": "Living with a disadvantage others do not see [Receiver]",
+   "description": "A student from a modest or under-resourced background sees peers with tutoring, connections and safety nets, and feels the race began at different lines. They may feel resentment, and also pride in how far they have come.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: pride, resentment, trust"
+   ]
+  },
+  {
+   "sno": 5735,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Alka",
+     "Jagdish"
+    ],
+    "13": [
+     "Vasudha",
+     "Nilesh"
+    ],
+    "14": [
+     "Jyoti",
+     "Pranav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Privilege and fairness awareness",
+   "subtype": "Using advantage responsibly [Response]",
+   "description": "A young adult recognises the head start from family, language or connections, and shares opportunities, recommends others fairly and listens to those with less. They neither wear guilt nor deny it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 5736,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Vasudha",
+     "Omkar"
+    ],
+    "13": [
+     "Pradeep",
+     "Nirmala"
+    ],
+    "14": [
+     "Disha",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social comparison",
+   "subtype": "Who is better than me? [Actor]",
+   "description": "A child checks classmates' marks, drawings or medals and feels proud or small accordingly. Comparing helps them learn where they stand, but constant ranking colours self-worth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 5737,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Arohi",
+     "Pooja"
+    ],
+    "13": [
+     "Sudha",
+     "Divyansh"
+    ],
+    "14": [
+     "Nikita",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social comparison",
+   "subtype": "Upward comparison on social media [Actor]",
+   "description": "A teenager scrolls through peers' polished photos and achievements and feels dull and behind, forgetting that they see only highlights. Comparing one's ordinary days to others' best moments breeds unhappiness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5738,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Saurabh",
+     "Rehana"
+    ],
+    "13": [
+     "Santosh",
+     "Rashmi"
+    ],
+    "14": [
+     "Thomas",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social comparison",
+   "subtype": "Comparison that motivates versus corrodes [Actor]",
+   "description": "A student inspired by a friend's internship works harder, while another compares and sinks into envy and self-criticism. The same comparison can push someone on or pull them down, depending on whether the goal seems reachable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 5739,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Vidya",
+     "Sonali"
+    ],
+    "13": [
+     "Simran",
+     "Sahil"
+    ],
+    "14": [
+     "Yusuf",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social comparison",
+   "subtype": "Feeling small at a friend's success [Receiver]",
+   "description": "A young adult hears a close friend has been promoted or married and feels happy and stung together. Admitting the mixed feelings honestly, rather than hiding them, leaves room for genuine congratulation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 5740,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Deepika",
+     "Harsha"
+    ],
+    "13": [
+     "Vera",
+     "Lindiwe"
+    ],
+    "14": [
+     "Ojas",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social comparison",
+   "subtype": "Comparing against your own past [Response]",
+   "description": "A young professional measures progress against where they were a year ago, mutes accounts that always leave them low, and chooses a few peers to learn from. It keeps the useful side of comparison and drops the hurtful side.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5741,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Jatin",
+     "Elizabeth"
+    ],
+    "13": [
+     "Vikas",
+     "Gurpreet"
+    ],
+    "14": [
+     "Disha",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-fulfilling prophecy",
+   "subtype": "Living up to a label [Receiver]",
+   "description": "A child repeatedly called lazy or slow starts to try less, and a child called clever takes on hard tasks. Others' beliefs about them become part of how they act.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

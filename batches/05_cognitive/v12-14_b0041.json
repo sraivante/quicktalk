@@ -1,0 +1,318 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3970,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Ira",
+     "Preeti"
+    ],
+    "13": [
+     "Vidya",
+     "Mohit"
+    ],
+    "14": [
+     "Minakshi",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Discounting the positive",
+   "subtype": "Friend who cannot take praise [Observer]",
+   "description": "A friend keeps deflecting thanks and recognition as being nothing; the other friend gently names how much effort it took and lets the words stay.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 3971,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R12"
+   },
+   "cast": {
+    "12": [
+     "Damini",
+     "Nandini"
+    ],
+    "13": [
+     "Simran",
+     "Himani"
+    ],
+    "14": [
+     "Varun",
+     "Naveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Discounting the positive",
+   "subtype": "Saying thank you [Response]",
+   "description": "An adult practises simply thanking someone for a compliment and keeps a private list of achievements; letting good things count supports steadier confidence than constant self-doubt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: gratitude, doubt"
+   ]
+  },
+  {
+   "sno": 3972,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Himani",
+     "Nilesh"
+    ],
+    "13": [
+     "Tenzin",
+     "Suraj"
+    ],
+    "14": [
+     "Pema",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Choosing the picked game and calling it best [Actor]",
+   "description": "A child who chose one toy over another insists the chosen one is far better and the other is boring; the mind adjusts opinion to match the choice and ease the tension.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3973,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Kalyani",
+     "Pranav"
+    ],
+    "13": [
+     "Imran",
+     "Ankita"
+    ],
+    "14": [
+     "Javier",
+     "Tomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Cheating then blaming an unfair teacher [Actor]",
+   "description": "A teenager who copied in an exam decides the teacher is strict and the paper was unfair; the story preserves the picture of being a good person while doing something that contradicts it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3974,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Sunaina",
+     "Chinmay"
+    ],
+    "13": [
+     "Sumit",
+     "Jaya"
+    ],
+    "14": [
+     "Avni",
+     "Varun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Defending a costly choice [Actor]",
+   "description": "A student who paid a large fee for a course that disappoints insists it is still excellent and refuses to consider leaving; the more that has been invested, the harder it is to admit doubt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: disappointment, doubt"
+   ]
+  },
+  {
+   "sno": 3975,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Sharmila",
+     "Nikita"
+    ],
+    "13": [
+     "Jaya",
+     "Aadhya"
+    ],
+    "14": [
+     "Amandeep",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Blamed to protect someone's self-image [Receiver]",
+   "description": "An employee is told they misunderstood after a manager changed instructions; the manager avoids feeling like a poor leader by making the other person wrong, and the receiver benefits from keeping records calmly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3976,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Tushar",
+     "Swati"
+    ],
+    "13": [
+     "Sabina",
+     "Sangeeta"
+    ],
+    "14": [
+     "Manoj",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Friend doubling down [Observer]",
+   "description": "A friend watches a relative defend a failing investment more fiercely after each loss; the observer sees the pattern and offers a way to change course without humiliation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: humiliation"
+   ]
+  },
+  {
+   "sno": 3977,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Omkar",
+     "Lakshmi"
+    ],
+    "13": [
+     "Suraj",
+     "Gargi"
+    ],
+    "14": [
+     "Afreen",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Cognitive dissonance and self-justification",
+   "subtype": "Saying I was wrong [Response]",
+   "description": "An adult who sees evidence against a long-held choice admits it was a mistake and states what will change; admitting error costs a little pride and saves much more later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3978,
+   "plan": {
+    "12": "R8+T1",
+    "13": "R9+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Selin",
+     "Siddiq"
+    ],
+    "13": [
+     "Ira",
+     "Tarun"
+    ],
+    "14": [
+     "Noor",
+     "Pallavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: euphemistic labelling",
+   "subtype": "Just joking or just borrowing [Actor]",
+   "description": "A child who takes a classmate's pencil case says they are just borrowing it, or calls cruel teasing a joke; softer words make the act feel less harmful and less of a personal choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 3979,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Farida",
+     "Mahima"
+    ],
+    "13": [
+     "Asif",
+     "Arohi"
+    ],
+    "14": [
+     "Baljeet",
+     "Nirmala"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: euphemistic labelling",
+   "subtype": "Calling harassment banter [Actor]",
+   "description": "A teenager labels repeated nasty comments about a peer as banter and says everyone jokes like that; the label hides how the target feels.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related concepts: labelling"
+   ]
+  }
+ ]
+}

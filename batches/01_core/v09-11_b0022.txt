@@ -1,0 +1,41 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 211, "plan": {"9": "R2", "10": "R3", "11": "R4"}, "cast": {"9": ["Ritu", "Sarita"], "10": ["Francis", "Akash"], "11": ["Uma", "Anand"]}, "age": "7–12", "topic": "Cultural", "subtopic": "Heritage", "subtype": "Epics, Folk Tales & Local History", "description": "Learning shared stories, their morals and the history of one's region."}
+{"sno": 212, "plan": {"9": "R5", "10": "R7", "11": "R8"}, "cast": {"9": ["Mohit", "Harsha"], "10": ["Parveen", "Bidisha"], "11": ["Jamal", "Hiroshi"]}, "age": "7–12", "topic": "Cultural", "subtopic": "Intercultural Respect", "subtype": "Respect for Other Faiths & Festivals", "description": "Learning about and respecting practices different from one's own.", "graph_context": ["related mind states: admiration"]}
+{"sno": 213, "plan": {"9": "R3", "10": "R4", "11": "R5"}, "cast": {"9": ["Kiran", "Francis"], "10": ["Leela", "Sumit"], "11": ["Mehak", "Kalyani"]}, "age": "7–12", "topic": "Spiritual", "subtopic": "Contemplative Practice", "subtype": "Prayer, Silence & Gratitude Habit", "description": "Participating in rituals and short reflection or gratitude practice.", "graph_context": ["related mind states: gratitude"]}
+{"sno": 214, "plan": {"9": "R1", "10": "R2", "11": "R3"}, "cast": {"9": ["Tenzin", "Rashmi"], "10": ["Kalyani", "Chandrika"], "11": ["Lalremsiami", "Santosh"]}, "age": "7–12", "topic": "Vocational", "subtopic": "Interest Discovery", "subtype": "Hobbies, Talents & Early Aspirations", "description": "Trying many activities and noticing what absorbs one's attention."}
+{"sno": 215, "plan": {"9": "R4", "10": "R5", "11": "R7"}, "cast": {"9": ["Deepak", "Jahnavi"], "10": ["Manoj", "Hafsa"], "11": ["Mahima", "Anjali"]}, "age": "7–12", "topic": "Environment", "subtopic": "Sustainability", "subtype": "Waste, Water & Energy Habits", "description": "Reducing waste, saving water and energy in daily life."}
+{"sno": 216, "plan": {"9": "R3", "10": "R4", "11": "R5"}, "cast": {"9": ["Bhupen", "Avni"], "10": ["Preeti", "Pema"], "11": ["Simran", "Ujjwal"]}, "age": "7–12", "topic": "Family", "subtopic": "Family Roles", "subtype": "Siblings & Grandparents", "description": "Managing sibling rivalry, caring for younger ones and learning from grandparents."}
+{"sno": 217, "plan": {"9": "R6", "10": "R7", "11": "R8"}, "cast": {"9": ["Chinmay", "Neelam"], "10": ["Leela", "Vidya"], "11": ["Beatriz", "Ines"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Learning Strategies", "subtype": "Deep Focus & Exam Strategy", "description": "Planning revision, resisting distraction and handling high-stakes exams."}
+{"sno": 218, "plan": {"9": "R15", "10": "R1", "11": "R2"}, "cast": {"9": ["Jaya", "Kashish"], "10": ["Hafsa", "Lokesh"], "11": ["Manoj", "Thomas"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Argumentation", "subtype": "Debate & Constructing Arguments", "description": "Building claims with evidence and answering counter-arguments fairly."}
+{"sno": 219, "plan": {"9": "R11", "10": "R12", "11": "R13"}, "cast": {"9": ["Abhinav", "Sahil"], "10": ["Darshan", "Mehak"], "11": ["Varun", "Gautam"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Quantitative Reasoning", "subtype": "Statistics & Probability Intuition", "description": "Reading averages, percentages and risk without being fooled by numbers.", "graph_context": ["related mind states: detachment"]}
+{"sno": 220, "plan": {"9": "R1", "10": "R2", "11": "R3"}, "cast": {"9": ["Farida", "Madhav"], "10": ["Neelam", "Hansa"], "11": ["Dhruv", "Hrithik"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Scientific Literacy", "subtype": "Evidence, Correlation vs. Causation", "description": "Judging claims by evidence quality rather than authority or repetition."}
+
+Return exactly 30 JSON Lines and nothing else.

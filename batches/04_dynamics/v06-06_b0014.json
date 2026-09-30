@@ -1,0 +1,232 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3038,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Binita",
+     "Bhavna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 5: A bystander stops the chain [Response]",
+   "description": "A classmate says \"I do not want to talk about this, it is her business\" and does not pass it on. Rumours need carriers, and even one child refusing to repeat them shortens the life of the story.",
+   "graph_context": [
+    "previous stage: The target finds out",
+    "next stage: Adult repair",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3039,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Elizabeth",
+     "Uma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 6: Adult repair [Response]",
+   "description": "The teacher talks with the class about how words hurt, without naming the girl, and offers her a trusted adult to talk to. The child learns that saying the truth calmly is stronger than whispering.",
+   "graph_context": [
+    "previous stage: A bystander stops the chain",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: calm, trust, hurt"
+   ]
+  },
+  {
+   "sno": 3040,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 1: The spark [Actor]",
+   "description": "A teenager sees two classmates arrive late together and guesses at a relationship. The wish to be the first with news, and to look connected, makes a guess feel like a fact worth sharing.",
+   "graph_context": [
+    "next stage: Amplification in chats",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3041,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Asif",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 2: Amplification in chats [Actor]",
+   "description": "The guess appears in a group chat with a laughing emoji, screenshots are made and details added. Online, the story moves faster than any correction and cannot be fully called back.",
+   "graph_context": [
+    "previous stage: The spark",
+    "next stage: The silent majority",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 3042,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Asif",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 3: The silent majority [Observer]",
+   "description": "Many read the chat and feel uneasy, but do not reply for fear of becoming the next target. Staying silent feels safe though it lets the rumour look like something everyone believes.",
+   "graph_context": [
+    "previous stage: Amplification in chats",
+    "next stage: The target's ordeal",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: fear, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 3043,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Shreya",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 4: The target's ordeal [Receiver]",
+   "description": "The teen is stared at, whispered about, and may face pressure from family, especially where reputation of girls is heavily policed. She feels isolated and may skip school, which is a warning to act.",
+   "graph_context": [
+    "previous stage: The silent majority",
+    "next stage: Correcting without feeding it",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3044,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Dolma",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 5: Correcting without feeding it [Response]",
+   "description": "A calm friend says \"That is not true, please delete it\" to those who spread it, and helps the target speak to a teacher or parent. Public denial by the target often fuels the fire, so support matters more than a big reply.",
+   "graph_context": [
+    "previous stage: The target's ordeal",
+    "next stage: Consequences and healing",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: calm",
+    "related concepts: denial"
+   ]
+  },
+  {
+   "sno": 3045,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Gurpreet",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Rumour and gossip spread",
+   "subtype": "Stage 6: Consequences and healing [Response]",
+   "description": "The school deals with the source under its rules and the group learns that forwarding is a choice with harm attached. The target recovers with support, and friends who stood by her become closer.",
+   "graph_context": [
+    "previous stage: Correcting without feeding it",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3046,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Jin",
+     "Nadia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 1: The bully picks a target [Actor]",
+   "description": "A child who feels powerless at home or wants status notices a quieter classmate who does not fight back. Picking the target is often about the bully's need for power and admiration, not about anything the target did.",
+   "graph_context": [
+    "next stage: Testing with small acts",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3047,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Karthik",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Bullying cycle",
+   "subtype": "Stage 2: Testing with small acts [Actor]",
+   "description": "He starts with a nickname, a nudge or hiding a bag, and watches for reaction and audience. If nobody stops him and others laugh, he learns that cruelty pays and moves to more.",
+   "graph_context": [
+    "previous stage: The bully picks a target",
+    "next stage: The target's confusion and shame",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: amusement"
+   ]
+  }
+ ]
+}

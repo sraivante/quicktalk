@@ -1,0 +1,318 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5162,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Gurleen",
+     "Yusuf"
+    ],
+    "4": [
+     "Wasim",
+     "Nazia"
+    ],
+    "5": [
+     "Yogesh",
+     "Anand"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Owning it quickly [Response]",
+   "description": "A mature young adult tells a professor or teammate about a mistake early, says what happened and what they will do about it. Early ownership usually earns respect and limits the damage.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5163,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Tariq",
+     "Rafael"
+    ],
+    "4": [
+     "Arohi",
+     "Aparna"
+    ],
+    "5": [
+     "Suraj",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Blame culture in a team [Receiver]",
+   "description": "A worker in a team that punishes errors starts hiding problems and covering tracks, and small issues grow unseen. Fear silences the very information a team needs to improve.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5164,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Zeenat"
+    ],
+    "4": [
+     "Binita",
+     "Zubin"
+    ],
+    "5": [
+     "Sangeeta",
+     "Sahil"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Blameless review of what happened [Response]",
+   "description": "A good team looks at a failure by asking what happened, what conditions allowed it and what would prevent it, without hunting for a culprit. Fixing the system and not the person yields lasting improvement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5165,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Lavanya"
+    ],
+    "4": [
+     "Karthik",
+     "Joseph"
+    ],
+    "5": [
+     "Vaibhav",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Writing one lesson and one change [Response]",
+   "description": "A reflective person ends a review with one lesson learned and one concrete change, such as a checklist item or an earlier check-in. Reflection that produces no changed action is only regret.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 5166,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Ada",
+     "Xin"
+    ],
+    "4": [
+     "Devika",
+     "Gurpreet"
+    ],
+    "5": [
+     "Chinmay",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Failing an exam and feeling finished [Actor]",
+   "description": "A teenager who fails a major exam feels the whole future has collapsed, especially under family and community expectations. The pain is real and the sense of permanence is exaggerated by youth and pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5167,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Ojas",
+     "Anirban"
+    ],
+    "4": [
+     "Bidisha",
+     "Manjula"
+    ],
+    "5": [
+     "Chaitanya",
+     "Vidya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Family reacting to a failure [Receiver]",
+   "description": "A student who failed hears anger, comparisons with cousins or heavy silence at home and feels more ashamed. Support first, discussion of next steps later, is what allows recovery; persistent hopelessness needs a counsellor's help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anger, shame, hope"
+   ]
+  },
+  {
+   "sno": 5168,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Nour",
+     "Ingrid"
+    ],
+    "4": [
+     "Elizabeth",
+     "Jasleen"
+    ],
+    "5": [
+     "Mahima",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Rejection from a placement or programme [Actor]",
+   "description": "A young adult turned down after long preparation feels envy, embarrassment and doubt about their ability. Rejection reflects fit, competition and timing as much as worth, though it rarely feels that way at first.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: embarrassment, doubt, envy"
+   ]
+  },
+  {
+   "sno": 5169,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Ritu",
+     "Jasleen"
+    ],
+    "4": [
+     "Damini",
+     "Zeenat"
+    ],
+    "5": [
+     "Manoj",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Rest, reframe, then a small next step [Response]",
+   "description": "A wise person allows a few days of feeling bad, separates what was in their control from what was not, and then takes one small action forward. Rebuilding proceeds by evidence of small wins rather than by resolutions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5170,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Aditi",
+     "Gopika"
+    ],
+    "4": [
+     "Swati",
+     "Chaitanya"
+    ],
+    "5": [
+     "Akash",
+     "Mehak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Business or project that failed [Actor]",
+   "description": "A young professional whose venture or project collapsed feels grief, shame and questions about their judgment. Taking time to grieve, then extracting concrete lessons, allows a rebuilding of confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: grief, shame"
+   ]
+  },
+  {
+   "sno": 5171,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Rafiq"
+    ],
+    "4": [
+     "Jagdish",
+     "Trisha"
+    ],
+    "5": [
+     "Shankar",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Recovering after failure",
+   "subtype": "Friend who is struggling after failure [Observer]",
+   "description": "A friend sees someone withdrawing after a failure and offers company and no quick advice. Listening and small practical help count more than pep talks, and lasting withdrawal deserves gentle encouragement toward professional support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

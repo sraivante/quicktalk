@@ -1,0 +1,218 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4679,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Minakshi",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in families",
+   "subtype": "Control disguised as duty [Receiver]",
+   "description": "A young person in a family that controls choices about study, friends or marriage with threats of shame or cutting ties feels torn between love and freedom. Care and control can exist together, which makes it confusing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: affection, shame, confusion"
+   ]
+  },
+  {
+   "sno": 4680,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Jagdish",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in families",
+   "subtype": "Conflict between obedience and self [Receiver]",
+   "description": "A young adult loved by their family still feels every choice may cost them approval, and starts hiding or performing. Naming the pattern is a first step, and respected elders or counsellors can sometimes help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 4681,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Ishita",
+     "Rekha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Coercive control in families",
+   "subtype": "Setting boundaries without cutting off [Response]",
+   "description": "An adult child speaks calmly about what they will decide for themselves and keeps affection and contact where safe. If threats or violence are involved, they seek outside help and safe housing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: affection, calm, trust"
+   ]
+  },
+  {
+   "sno": 4682,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Leila",
+     "Soo-ah"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Grooming",
+   "subtype": "Teaching body safety and no-secrets [Response]",
+   "description": "Adults teach young children that bodies are private, that no adult should ask for secrets from parents, and that they can always tell a trusted grown-up. Simple repeated rules protect better than fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4683,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Naveen",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Grooming",
+   "subtype": "Special attention that feels good [Receiver]",
+   "description": "A child given gifts, secret games or special treatment by an adult may feel important and not know anything is wrong. Grooming builds trust first so that later boundaries feel confusing to say no to.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17",
+    "related mind states: confusion, trust"
+   ]
+  },
+  {
+   "sno": 4684,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Grooming",
+   "subtype": "What a trusted adult does [Response]",
+   "description": "A parent or teacher who hears a child mention a secret, gifts or pressure stays calm, thanks the child for telling, believes them and acts to protect. Reactions of anger at the child can stop future telling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17",
+    "related mind states: gratitude, anger, calm, trust"
+   ]
+  },
+  {
+   "sno": 4685,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Parveen",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Grooming",
+   "subtype": "Secrecy and isolation from others [Receiver]",
+   "description": "A teenager is told that their bond is special and that others would not understand, and is asked to keep chats hidden. Any adult asking a young person to hide the relationship from parents is a red flag.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4686,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Alka",
+     "Nirmala"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Grooming",
+   "subtype": "Online friend who pushes boundaries [Receiver]",
+   "description": "A teen chatting with someone who slowly moves to private apps, personal questions, photos or meeting up may feel flattered and stuck. The teen is not to blame, and telling a trusted adult is always the right step.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4687,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Catfishing",
+   "subtype": "Hiding behind a false profile [Actor]",
+   "description": "A person invents a face and life online because of loneliness, insecurity or a wish to be admired. Some do it for money or harm, and the trust of the other person is being used regardless of the motive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: admiration, loneliness, trust, insecurity"
+   ]
+  },
+  {
+   "sno": 4688,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Madhuri",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Catfishing",
+   "subtype": "Falling for someone never met [Receiver]",
+   "description": "A person invests feelings in an online partner who avoids video calls and meeting, and feels grief and shame when the truth emerges. Being deceived is not a sign of stupidity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: grief, shame"
+   ]
+  }
+ ]
+}

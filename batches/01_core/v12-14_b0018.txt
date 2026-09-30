@@ -1,0 +1,38 @@
+STAGE: core
+Variant ids in this batch: 12, 13, 14 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R13+T1: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day. TWIST: Set it in a different season or festival period than a typical scene.
+R15+T1: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row. TWIST: Set it in a different season or festival period than a typical scene.
+R2+T1: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue. TWIST: Set it in a different season or festival period than a typical scene.
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 171, "plan": {"12": "R13+T1", "13": "R15+T1", "14": "R1+T1"}, "cast": {"12": ["Minakshi", "Farhan"], "13": ["Gopika", "Omkar"], "14": ["Vikas", "Gopika"]}, "age": "4–6", "topic": "Morality", "subtopic": "Honesty", "subtype": "Truth vs. Lie Distinction", "description": "Understanding that lying breaks trust; experimenting with lies and seeing consequences.", "graph_context": ["related mind states: trust"]}
+{"sno": 172, "plan": {"12": "R2+T1", "13": "R4+T1", "14": "R7+T1"}, "cast": {"12": ["Siddharth", "Nitin"], "13": ["Francis", "Asif"], "14": ["Hemant", "Jatin"]}, "age": "4–6", "topic": "Morality", "subtopic": "Repair", "subtype": "Apologizing & Making Amends", "description": "Repairing harm through saying sorry, helping or returning an item."}
+{"sno": 173, "plan": {"12": "R7+T1", "13": "R8+T1", "14": "R9+T1"}, "cast": {"12": ["Akash", "Kishore"], "13": ["Hana", "Felix"], "14": ["Anjali", "Shreya"]}, "age": "4–6", "topic": "Social", "subtopic": "Diversity Awareness", "subtype": "Noticing Differences Kindly", "description": "Noticing differences in appearance, language, ability and family type without hostility.", "graph_context": ["related mind states: hostility"]}
+{"sno": 174, "plan": {"12": "R8+T1", "13": "R9+T1", "14": "R12+T1"}, "cast": {"12": ["Kwame", "Tuan"], "13": ["Mridul", "Gargi"], "14": ["Vasudha", "Vidya"]}, "age": "4–6", "topic": "Safety", "subtopic": "Personal Safety", "subtype": "Home, Road & Stranger Safety", "description": "Knowing own name and parent contact, crossing roads with an adult, telling a trusted adult about unsafe touch.", "graph_context": ["related mind states: anger, trust"]}
+{"sno": 175, "plan": {"12": "R2+T1", "13": "R4+T1", "14": "R7+T1"}, "cast": {"12": ["Chandrika", "Nazia"], "13": ["Reena", "Simran"], "14": ["Bhavna", "Amandeep"]}, "age": "4–6", "topic": "Physical", "subtopic": "Health Habits", "subtype": "Eating, Sleep & Hygiene Independence", "description": "Brushing, washing, dressing oneself and accepting a variety of foods."}
+{"sno": 176, "plan": {"12": "R13+T1", "13": "R15+T1", "14": "R1+T1"}, "cast": {"12": ["Ramesh", "Gargi"], "13": ["Pema", "Leela"], "14": ["Jahnavi", "Manoj"]}, "age": "4–6", "topic": "Cultural", "subtopic": "Cultural Identity", "subtype": "Festivals, Folk Stories & Family Traditions", "description": "Participating in traditions and understanding \"this is how our family does it\"."}
+{"sno": 177, "plan": {"12": "R1+T1", "13": "R2+T1", "14": "R4+T1"}, "cast": {"12": ["Sarita", "Urmila"], "13": ["Ankita", "Irawati"], "14": ["Aadhya", "Deepika"]}, "age": "4–6", "topic": "Digital & Technology", "subtopic": "Screen Habits", "subtype": "Screen Limits & Real vs. Fantasy Content", "description": "Accepting screen boundaries and distinguishing cartoons and ads from reality."}
+{"sno": 178, "plan": {"12": "R15+T1", "13": "R1+T1", "14": "R2+T1"}, "cast": {"12": ["Lakshmi", "Ojas"], "13": ["Pooja", "Neelam"], "14": ["Gautam", "Anirban"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Executive Function", "subtype": "Following Multi-Step Routines", "description": "Completing a sequence like shoes, bag and water bottle with few reminders."}
+{"sno": 179, "plan": {"12": "R15+T1", "13": "R1+T1", "14": "R2+T1"}, "cast": {"12": ["Sudha", "Nazia"], "13": ["Jeevan", "Vishal"], "14": ["Binita", "Bhupen"]}, "age": "4–6", "topic": "Cognitive", "subtopic": "Time Concept", "subtype": "Yesterday, Today & Tomorrow", "description": "Understanding sequence of days and tolerating waiting."}
+{"sno": 180, "plan": {"12": "R2+T1", "13": "R4+T1", "14": "R7+T1"}, "cast": {"12": ["Lokesh", "Francis"], "13": ["Sunaina", "Shalini"], "14": ["Kalyani", "Yusuf"]}, "age": "4–6", "topic": "Social", "subtopic": "Friendship", "subtype": "First Chosen Friendships", "description": "Preferring particular playmates, missing them, and beginning loyalty."}
+
+Return exactly 30 JSON Lines and nothing else.

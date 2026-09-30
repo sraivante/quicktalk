@@ -1,0 +1,317 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4952,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Leela",
+     "Rehana"
+    ],
+    "4": [
+     "Nazia",
+     "Kiran"
+    ],
+    "5": [
+     "Aadhya",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Public behaviour, traffic and queues",
+   "subtype": "Crowd behaviour at events [Observer]",
+   "description": "A visitor sees crowds push at temples, stations and matches, and notices most people are patient while a few cause chaos. Personal calm, awareness of exits and helping the vulnerable are wise habits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4953,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Sahil",
+     "Mridul"
+    ],
+    "4": [
+     "Sachin",
+     "Sumit"
+    ],
+    "5": [
+     "Jyoti",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Ball in the neighbour's window [Actor]",
+   "description": "A child breaks a window while playing, hides in fear and then blames another child. Facing the neighbour with a parent and saying sorry teaches responsibility better than hiding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4954,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Daniel",
+     "Chidi"
+    ],
+    "4": [
+     "Avni",
+     "Rafiq"
+    ],
+    "5": [
+     "Nitin",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Noise complaints [Receiver]",
+   "description": "A teenager hears a neighbour complain about music or cricket outside, and feels unfairly targeted. Both sides have rights; polite compromise on time and volume ends most disputes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4955,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Rajni",
+     "Maria"
+    ],
+    "4": [
+     "Darshan",
+     "Tushar"
+    ],
+    "5": [
+     "Hemant",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Parking and shared space fights [Actor]",
+   "description": "A young adult argues over a parking spot or a shared stairway and feels that giving in means being weak. Calm, fair talk, or the housing society's rules, settles things without lasting bitterness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: calm, resentment"
+   ]
+  },
+  {
+   "sno": 4956,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Sachin"
+    ],
+    "4": [
+     "Hrithik",
+     "Himani"
+    ],
+    "5": [
+     "Ishita",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Resident association politics [Observer]",
+   "description": "A young resident notices that a few people dominate a housing society meeting and others stay silent. Showing up, asking for written rules and speaking fairly help such groups work for all.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4957,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Aparna",
+     "Trisha"
+    ],
+    "4": [
+     "Ishita",
+     "Yamini"
+    ],
+    "5": [
+     "Ayesha",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Gossip in a colony [Receiver]",
+   "description": "A young person finds neighbours discussing their late hours, friends or marriage plans. Gossip stings; a steady, polite and open manner usually starves it more than defensiveness does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4958,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Pallavi",
+     "Vikas"
+    ],
+    "4": [
+     "Yamini",
+     "Madhav"
+    ],
+    "5": [
+     "Uma",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Building good neighbourliness [Response]",
+   "description": "A young adult greets neighbours, shares festival sweets and offers help in emergencies. A reservoir of goodwill makes conflicts easier to resolve and life safer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust, determination"
+   ]
+  },
+  {
+   "sno": 4959,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Joseph",
+     "Gargi"
+    ],
+    "4": [
+     "Disha",
+     "Yogesh"
+    ],
+    "5": [
+     "Madhuri",
+     "Gurpreet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Neighbours and community disputes",
+   "subtype": "Disputes turning communal or casteist [Observer]",
+   "description": "An observer sees a small quarrel take on religious or caste colour as people take sides. Refusing to join the labelling, cooling talk and involving neutral elders help stop it spreading.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 4960,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Samir"
+    ],
+    "4": [
+     "Ganga",
+     "Aadhya"
+    ],
+    "5": [
+     "Madhav",
+     "Sarika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Social media culture and trends",
+   "subtype": "Chasing likes [Actor]",
+   "description": "A teenager posts and refreshes, feeling proud at likes and low at silence. Approval from strangers feels like worth, and adults can gently point out that numbers are not a measure of a person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anger, pride, detachment"
+   ]
+  },
+  {
+   "sno": 4961,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Devika",
+     "Damini"
+    ],
+    "4": [
+     "Amandeep",
+     "Simran"
+    ],
+    "5": [
+     "Rekha",
+     "Kavitha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Social media culture and trends",
+   "subtype": "Trend and challenge pressure [Actor]",
+   "description": "A teenager joins a viral dance or challenge to fit in, sometimes ignoring risk. Belonging is the real motive; a friend who says no thanks and stays friends shows that fitting in has options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: gratitude, nostalgia"
+   ]
+  }
+ ]
+}

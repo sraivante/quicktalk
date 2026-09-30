@@ -1,0 +1,26 @@
+STAGE: execution
+Variant ids in this batch: 6 (1 per row). Rows in this batch: 4. Expected records: 4.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows describe how people carry out intentions (planning, follow-through, money handling, feedback, mistakes, emergencies). The passage includes concrete ordered steps and a visible result or consequence. No professional advice; this is everyday competence. Safety-critical scenes show the safe choice and calling for help.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5192, "plan": {"6": "R11"}, "cast": {"6": ["Zeenat", "Madhuri"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Ordered to bend the rules [Receiver]", "description": "A junior employee asked by a superior to backdate, hide an error or skip a required check feels caught between loyalty, fear and conscience. Career risk is real, which is why many comply and later regret it.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: fear, regret"]}
+{"sno": 5193, "plan": {"6": "R9"}, "cast": {"6": ["Nitin", "Jahnavi"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Colleague who notices wrongdoing [Observer]", "description": "A coworker sees a questionable practice and stays silent, unsure whether it is their business and fearing the cost of speaking up. Silence is easier in the moment, and most people admit later that they wish they had asked a question.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: fear"]}
+{"sno": 5194, "plan": {"6": "R9"}, "cast": {"6": ["Tarun", "Harish"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Raising a concern safely [Response]", "description": "A wise person documents the facts, raises the issue first with the direct person or manager calmly, and uses official channels if ignored. Asking a question is often less confrontational than making an accusation and equally effective.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22", "related mind states: calm, trust"]}
+{"sno": 5195, "plan": {"6": "R3"}, "cast": {"6": ["Chandrika", "Shreya"]}, "age": "23–26", "topic": "Execution & Practical Skills", "subtopic": "Ethical execution under pressure", "subtype": "Honest about limits and errors [Response]", "description": "A person under pressure tells a client or manager plainly what cannot be done or what went wrong and offers a real alternative. Short-term discomfort is smaller than the damage when a concealment is discovered.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22"]}
+
+Return exactly 4 JSON Lines and nothing else.

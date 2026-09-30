@@ -1,0 +1,37 @@
+STAGE: core
+Variant ids in this batch: 6, 7, 8 (3 per row). Rows in this batch: 7. Expected records: 21.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 311, "plan": {"6": "R12", "7": "R13", "8": "R14"}, "cast": {"6": ["Lakshmi", "Ayesha"], "7": ["Aditi", "Anand"], "8": ["Gargi", "Tanvir"]}, "age": "23–26", "topic": "Environment", "subtopic": "Sustainable Living", "subtype": "Consumption, Energy & Carbon Choices", "description": "Aligning daily consumption and career choices with environmental impact."}
+{"sno": 312, "plan": {"6": "R11", "7": "R12", "8": "R13"}, "cast": {"6": ["Charu", "Vandana"], "7": ["Sunaina", "Arnab"], "8": ["Lakshmi", "Seema"]}, "age": "23–26", "topic": "Cultural", "subtopic": "Heritage Transmission", "subtype": "Passing On Language, Values & Rituals", "description": "Deciding what heritage to preserve and teach to the next generation."}
+{"sno": 313, "plan": {"6": "R13", "7": "R14", "8": "R15"}, "cast": {"6": ["Afreen", "Urmila"], "7": ["Kalyani", "Sonali"], "8": ["Parveen", "Anirban"]}, "age": "23–26", "topic": "Spiritual / Meaning", "subtopic": "Legacy & Mortality", "subtype": "Reflecting on Death, Legacy & Purpose", "description": "Facing mortality calmly and shaping work and relationships around what will outlast oneself.", "graph_context": ["related mind states: calm, dread"]}
+{"sno": 314, "plan": {"6": "R5", "7": "R6", "8": "R7"}, "cast": {"6": ["Deepika", "Eshaan"], "7": ["Indu", "Nirmala"], "8": ["Madhav", "Devika"]}, "age": "23–26", "topic": "Spiritual / Meaning", "subtopic": "Contemplative Practice", "subtype": "Sustained Practice, Silence & Wisdom Traditions", "description": "Building a lasting reflective practice through meditation, prayer or philosophy."}
+{"sno": 315, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Gopika", "Avni"], "7": ["Jatin", "Farida"], "8": ["Uday", "Anjali"]}, "age": "23–26", "topic": "Physical", "subtopic": "Preventive Health", "subtype": "Screening, Checkups & Chronic Risk Awareness", "description": "Tracking health markers, family risk and preventive care before problems arise."}
+{"sno": 316, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Afreen", "Tenzin"], "7": ["Suraj", "Aparna"], "8": ["Vinita", "Madhuri"]}, "age": "23–26", "topic": "Cultural", "subtopic": "Global Mobility", "subtype": "Migration, Relocation & Cultural Adaptation", "description": "Adapting to a new country or city while preserving identity and building belonging.", "graph_context": ["related mind states: nostalgia"]}
+{"sno": 317, "plan": {"6": "R13", "7": "R14", "8": "R15"}, "cast": {"6": ["Darshan", "Jagdish"], "7": ["Sunaina", "Joseph"], "8": ["Irawati", "Gurpreet"]}, "age": "23–26", "topic": "Individual Variation", "subtopic": "Neurodiversity", "subtype": "Lifelong Self-Management of Neurodivergence", "description": "Building workplace and life systems that fit one's own attention, sensory and energy patterns.", "graph_context": ["this subtopic also appears at ages: 13–17"]}
+
+Return exactly 21 JSON Lines and nothing else.

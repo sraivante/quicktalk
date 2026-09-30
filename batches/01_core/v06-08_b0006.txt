@@ -1,0 +1,40 @@
+STAGE: core
+Variant ids in this batch: 6, 7, 8 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 51, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Harish", "Yogesh"], "7": ["Afreen", "Payal"], "8": ["Zainab", "Pradeep"]}, "age": "7–12", "topic": "Critical Thinking", "subtopic": "Intellectual Virtues", "subtype": "Curiosity & Inquiry Disposition", "description": "Cultivating an intrinsic drive to ask deep questions and investigate topics beyond mandated school requirements.", "graph_context": ["related mind states: curiosity"]}
+{"sno": 52, "plan": {"6": "R9", "7": "R12", "8": "R13"}, "cast": {"6": ["Hafsa", "Jatin"], "7": ["Lalremsiami", "Tushar"], "8": ["Swati", "Uma"]}, "age": "7–12", "topic": "Social", "subtopic": "Complex Social Dynamics", "subtype": "Peer Group Formation", "description": "Establishing distinct friend groups (cliques) with shared interests and in-group boundaries.", "graph_context": ["related mind states: interest"]}
+{"sno": 53, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Tushar", "Sonali"], "7": ["Rukmini", "Shankar"], "8": ["Akash", "Hansa"]}, "age": "7–12", "topic": "Social", "subtopic": "Complex Social Dynamics", "subtype": "Deep Friendships", "description": "Moving from surface-level playmates to loyal friendships involving shared secrets."}
+{"sno": 54, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Shankar", "Bidisha"], "7": ["Arohi", "Zubin"], "8": ["Hemant", "Damini"]}, "age": "7–12", "topic": "Social", "subtopic": "Complex Social Dynamics", "subtype": "Social Conformity", "description": "Recognizing and adhering to unwritten social rules regarding behavior, dress, and trends."}
+{"sno": 55, "plan": {"6": "R13", "7": "R14", "8": "R15"}, "cast": {"6": ["Hemant", "Irawati"], "7": ["Tanvir", "Leela"], "8": ["Sumit", "Gurpreet"]}, "age": "7–12", "topic": "Social", "subtopic": "Complex Social Dynamics", "subtype": "Peer Conflict Resolution", "description": "Navigating arguments and power dynamics with decreasing reliance on adult intervention."}
+{"sno": 56, "plan": {"6": "R5", "7": "R7", "8": "R8"}, "cast": {"6": ["Reena", "Raghav"], "7": ["Yusuf", "Gurleen"], "8": ["Priscila", "Mina"]}, "age": "7–12", "topic": "Advanced Communication", "subtopic": "Interpersonal Literacy", "subtype": "Active Listening & Non-Verbal Decoding", "description": "Listening to peers without interrupting and decoding non-verbal cues (facial expressions, body posture)."}
+{"sno": 57, "plan": {"6": "R9", "7": "R12", "8": "R13"}, "cast": {"6": ["Pradeep", "Gautam"], "7": ["Tejas", "Trisha"], "8": ["Sahil", "Ojas"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Rule-Based Logic", "subtype": "Conservation", "description": "Understanding that a quantity stays the same even if its container changes shape."}
+{"sno": 58, "plan": {"6": "R8", "7": "R9", "8": "R12"}, "cast": {"6": ["Valentina", "Nour"], "7": ["Devika", "Naveen"], "8": ["Kalyani", "Ojas"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Rule-Based Logic", "subtype": "Reversibility", "description": "Realizing that actions or mathematical operations can be reversed to the original state."}
+{"sno": 59, "plan": {"6": "R12", "7": "R13", "8": "R14"}, "cast": {"6": ["Elizabeth", "Keerthana"], "7": ["Avni", "Kiran"], "8": ["Tanuja", "Anirban"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Rule-Based Logic", "subtype": "Classification", "description": "Organizing items into complex hierarchies, understanding sets and subsets."}
+{"sno": 60, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Minakshi", "Zainab"], "7": ["Naveen", "Sarika"], "8": ["Vijay", "Noor"]}, "age": "7–12", "topic": "Creativity", "subtopic": "Artistic Expression", "subtype": "Aesthetic Appreciation", "description": "Developing sensitivity to beauty in art, music, literature, and nature while experimenting with creative mediums.", "graph_context": ["this subtopic also appears at ages: 4–6"]}
+
+Return exactly 30 JSON Lines and nothing else.

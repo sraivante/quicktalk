@@ -1,0 +1,314 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5612,
+   "plan": {
+    "12": "R1+T1",
+    "13": "R2+T2",
+    "14": "R4+T2"
+   },
+   "cast": {
+    "12": [
+     "Anirban",
+     "Jeevan"
+    ],
+    "13": [
+     "Nikita",
+     "Sonali"
+    ],
+    "14": [
+     "Vasudha",
+     "Gurleen"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Reaching just past current skill [Actor]",
+   "description": "A toddler tries to fit a shape or stack blocks and fails alone, but succeeds when an adult steadies the tower or turns the piece slightly. The child beams as if the win were entirely their own.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5613,
+   "plan": {
+    "12": "R1+T1",
+    "13": "R2+T1",
+    "14": "R4+T1"
+   },
+   "cast": {
+    "12": [
+     "Tarun",
+     "Sarika"
+    ],
+    "13": [
+     "Chandrika",
+     "Pranav"
+    ],
+    "14": [
+     "Bhavna",
+     "Gautam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Wanting a hint, not the answer [Actor]",
+   "description": "A child stuck on a puzzle says \"don't tell me\" and accepts only a nudge, such as which corner to try. Wanting to own the win while still needing help is typical at this age.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 5614,
+   "plan": {
+    "12": "R5+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Deepika",
+     "Keerthana"
+    ],
+    "13": [
+     "Mohit",
+     "Tanuja"
+    ],
+    "14": [
+     "Sami",
+     "Leila"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Help that is too much or too little [Receiver]",
+   "description": "A student handed the full solution learns nothing and feels quietly small; one left alone with a task far beyond reach gives up. Growth happens where the task is hard but a guide is near.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5615,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Gargi",
+     "Sangeeta"
+    ],
+    "13": [
+     "Rukmini",
+     "Yusuf"
+    ],
+    "14": [
+     "Vishal",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Fading support as skill grows [Observer]",
+   "description": "A teacher or older sibling notices the learner now needs fewer prompts and steps back on purpose. Withdrawing help at the right moment builds confidence; withdrawing too early or never both stall growth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 5616,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Jasleen",
+     "Tejas"
+    ],
+    "13": [
+     "Lalit",
+     "Irawati"
+    ],
+    "14": [
+     "Pankaj",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Asking a mentor at the edge of competence [Response]",
+   "description": "A young adult facing an unfamiliar task, such as a first lab project or job, asks a senior for a framework instead of bluffing or waiting to be rescued, tries it alone, then returns with sharper questions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5617,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Zubin",
+     "Arnab"
+    ],
+    "13": [
+     "Anirban",
+     "Jatin"
+    ],
+    "14": [
+     "Vasudha",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zone of proximal development and scaffolding",
+   "subtype": "Scaffolding a newer colleague [Response]",
+   "description": "A junior professional coaching a new hire asks what they have already tried, offers one hint, and lets them finish, resisting the urge to take over for speed. The slower route builds a capable colleague.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5618,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Vidya",
+     "Samir"
+    ],
+    "13": [
+     "Vikas",
+     "Mridul"
+    ],
+    "14": [
+     "Aparna",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Borrowed future [Actor]",
+   "description": "A child announces they will be a doctor or engineer because the family expects it, and repeats it with pride. It is a role handed over, not yet explored, and it feels safe because nobody questions it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: pride, trust"
+   ]
+  },
+  {
+   "sno": 5619,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Baljeet",
+     "Nandini"
+    ],
+    "13": [
+     "Deepika",
+     "Arohi"
+    ],
+    "14": [
+     "Naveen",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Foreclosure under family or community pressure [Actor]",
+   "description": "A teenager accepts the stream, faith practice or career path chosen for them without exploring alternatives, feeling certain on the surface and a vague flatness underneath. Certainty came from obedience, not from testing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5620,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Arohi",
+     "Darshan"
+    ],
+    "13": [
+     "Nazia",
+     "Aparna"
+    ],
+    "14": [
+     "Eshaan",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Role confusion [Actor]",
+   "description": "A teenager tries different friend groups, styles and opinions within months and cannot say who they really are. It is unsettling, sometimes shows as irritability or withdrawal, and is a normal part of building a self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: confusion, detachment"
+   ]
+  },
+  {
+   "sno": 5621,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Pankaj",
+     "Ayesha"
+    ],
+    "13": [
+     "Himani",
+     "Asif"
+    ],
+    "14": [
+     "Beatriz",
+     "Clara"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Moratorium: exploring before committing [Actor]",
+   "description": "A college student changes majors, travels, tries clubs and delays big commitments while sorting out values. Done with reflection it leads to a chosen identity; done with pure drifting it can stall.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

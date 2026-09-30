@@ -1,0 +1,316 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5742,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Parul"
+    ],
+    "7": [
+     "Suraj",
+     "Indu"
+    ],
+    "8": [
+     "Sabina",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-fulfilling prophecy",
+   "subtype": "Expecting rejection and creating it [Actor]",
+   "description": "A teenager who assumes classmates dislike them stays silent and looks bored at gatherings, so others leave them alone, which seems to prove their belief. Expectation changes behaviour, and behaviour changes how others respond.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 5743,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Hafsa",
+     "Ramesh"
+    ],
+    "7": [
+     "Gurleen",
+     "Samir"
+    ],
+    "8": [
+     "Yogesh",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-fulfilling prophecy",
+   "subtype": "Teacher or boss expectations [Observer]",
+   "description": "A mentor notices that a junior who is trusted with challenging work rises to it, while one given only simple tasks stagnates. Expectations shape how much attention, feedback and opportunity someone receives.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5744,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Lalremsiami",
+     "Indu"
+    ],
+    "7": [
+     "Yamini",
+     "Ujjwal"
+    ],
+    "8": [
+     "Parul",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-fulfilling prophecy",
+   "subtype": "Predicting failure and drifting into it [Actor]",
+   "description": "A young adult who is convinced an interview will go badly prepares little, appears anxious and does poorly, taking it as confirmation. The fear helped produce the outcome.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 5745,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Keerthana",
+     "Lalit"
+    ],
+    "7": [
+     "Bidisha",
+     "Imran"
+    ],
+    "8": [
+     "Sangeeta",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-fulfilling prophecy",
+   "subtype": "Breaking the loop [Response]",
+   "description": "A person notices their forecast about a situation and acts against it in small ways, such as speaking first at a gathering or preparing well. They treat the results as new evidence, and hold others to high but fair expectations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5746,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Abhinav",
+     "Pradeep"
+    ],
+    "7": [
+     "Aditi",
+     "Dilnaz"
+    ],
+    "8": [
+     "Irawati",
+     "Sabina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Learned optimism",
+   "subtype": "Explaining a bad day [Actor]",
+   "description": "After failing a test, one child says \"I am stupid\" while another says \"I did not study that chapter\". The way they explain setbacks, as permanent or temporary, shapes whether they try again.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5747,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Devika"
+    ],
+    "7": [
+     "Rajni",
+     "Ankita"
+    ],
+    "8": [
+     "Devika",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Learned optimism",
+   "subtype": "Pessimistic habit of mind [Actor]",
+   "description": "A teenager who blames themselves for every setback, seeing it as permanent and affecting everything, gives up quickly. It feels like realism, but it is a learned way of interpreting events.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5748,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Gurpreet"
+    ],
+    "7": [
+     "Tanuja",
+     "Yogesh"
+    ],
+    "8": [
+     "Jasleen",
+     "Vinita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Learned optimism",
+   "subtype": "Disputing the inner critic [Response]",
+   "description": "A student who fails an exam asks what the actual evidence is, considers other explanations and identifies one change to make. This is not forced cheerfulness; it is checking the story against the facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 5749,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Kunal",
+     "Imran"
+    ],
+    "7": [
+     "Binita",
+     "Lavanya"
+    ],
+    "8": [
+     "Vandana",
+     "Bhavna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Learned optimism",
+   "subtype": "Naive positivity versus realistic hope [Observer]",
+   "description": "A colleague sees someone insist \"everything will be fine\" while ignoring real risks, and another who trusts that effort can change things and plans accordingly. Learned optimism is hope combined with preparation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 5750,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Manoj"
+    ],
+    "7": [
+     "Nitin",
+     "Alka"
+    ],
+    "8": [
+     "Gurleen",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Learned optimism",
+   "subtype": "Helping a discouraged friend [Response]",
+   "description": "A young adult listens to a friend's despair, does not dismiss it, then helps them separate what is fixed from what can change and identify one small next step. Belief in possibility is grown, not commanded.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5751,
+   "plan": {
+    "6": "R2",
+    "7": "R4+T1",
+    "8": "R7+T1"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Anirban"
+    ],
+    "7": [
+     "Kavitha",
+     "Avni"
+    ],
+    "8": [
+     "Manjula",
+     "Lakshmi"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Emotional contagion in groups",
+   "subtype": "Crying spreads [Actor]",
+   "description": "One toddler cries in a nursery and others begin to cry or look worried without knowing why. Emotions pass quickly between very young children.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness, anxiety"
+   ]
+  }
+ ]
+}

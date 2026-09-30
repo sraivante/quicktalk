@@ -1,0 +1,29 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3348,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Raghav",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Relocation adjustment",
+   "subtype": "Stage 2: Logistics and small frustrations [Observer]",
+   "description": "A local colleague sees a newcomer struggle with the flat, food and language and offers a lunch, a tip and a weekend invitation. Small local kindnesses shorten the hardest weeks more than grand welcomes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3068,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ayesha",
+     "Madhuri"
+    ],
+    "4": [
+     "Jyoti",
+     "Kavitha"
+    ],
+    "5": [
+     "Vera",
+     "Tomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 5: Respectful statement of position [Response]",
+   "description": "She says \"I know you want the best for me and I am grateful. This is the path I have chosen, and I would like your blessing but I will take responsibility either way.\" Gratitude and firmness together are often heard.",
+   "graph_context": [
+    "previous stage: Distance to avoid conflict",
+    "next stage: Parent redefines the role",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 3069,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Arnab",
+     "Rafiq"
+    ],
+    "4": [
+     "Lokesh",
+     "Nirmala"
+    ],
+    "5": [
+     "Rekha",
+     "Seema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Parent-teen conflict cycle",
+   "subtype": "Stage 6: Parent redefines the role [Response]",
+   "description": "The parent shifts from decision-maker to advisor and accepts that the child may err. A relationship of two adults grows, and often the parent learns to be proud of the child's independence.",
+   "graph_context": [
+    "previous stage: Respectful statement of position",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3070,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Lalit",
+     "Sunaina"
+    ],
+    "4": [
+     "Zubin",
+     "Elizabeth"
+    ],
+    "5": [
+     "Irfan",
+     "Sangeeta"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 1: A new claim on attention [Actor]",
+   "description": "A five-year-old sees his younger brother getting a parent's lap and a shiny toy. He feels a mix of love and hurt, and cannot say \"I feel left out\", so it shows as grabbing or hitting.",
+   "graph_context": [
+    "next stage: Provocation",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: affection, hurt"
+   ]
+  },
+  {
+   "sno": 3071,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kiran",
+     "Kishore"
+    ],
+    "4": [
+     "Amandeep",
+     "Gargi"
+    ],
+    "5": [
+     "Sahil",
+     "Bidisha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 2: Provocation [Actor]",
+   "description": "He knocks over his sister's blocks and watches to see whether a parent will look at him. Even negative attention is better than none, and he may not know why he did it.",
+   "graph_context": [
+    "previous stage: A new claim on attention",
+    "next stage: Retaliation and tears",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3072,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Chandrika"
+    ],
+    "4": [
+     "Yosef",
+     "Nadia"
+    ],
+    "5": [
+     "Chaitanya",
+     "Saurabh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 3: Retaliation and tears [Receiver]",
+   "description": "The sister screams and hits back, and the fight quickly becomes about who hit first. Both feel wronged, and neither can hold the other's point of view at this age.",
+   "graph_context": [
+    "previous stage: Provocation",
+    "next stage: Parent takes sides by accident",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3073,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Jomon",
+     "Farhan"
+    ],
+    "4": [
+     "Gurpreet",
+     "Seema"
+    ],
+    "5": [
+     "Yusuf",
+     "Harsha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 4: Parent takes sides by accident [Observer]",
+   "description": "The parent rushes to the crying child and scolds the older one, who feels blamed again. Repeated pattern of \"you are older, be sensible\" teaches that being older means less love and feeds the next round.",
+   "graph_context": [
+    "previous stage: Retaliation and tears",
+    "next stage: Separate, calm, listen to both",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: affection, sadness"
+   ]
+  },
+  {
+   "sno": 3074,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Omar",
+     "Emeka"
+    ],
+    "4": [
+     "Payal",
+     "Sabina"
+    ],
+    "5": [
+     "Jomon",
+     "Rashmi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 5: Separate, calm, listen to both [Response]",
+   "description": "The parent gets down to their level, lets each say what happened, and names feelings such as \"you wanted your tower\" and \"you felt scared\". Being heard cools most fights faster than judgement does.",
+   "graph_context": [
+    "previous stage: Parent takes sides by accident",
+    "next stage: One-on-one time and joint tasks",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 3075,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Sumit",
+     "Bhavna"
+    ],
+    "4": [
+     "Selin",
+     "Abebe"
+    ],
+    "5": [
+     "Devika",
+     "Lalit"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 6: One-on-one time and joint tasks [Response]",
+   "description": "Each child gets a short daily time with the parent alone, and they build something together. Rivalry eases when each is sure of their own place and finds that cooperation feels good.",
+   "graph_context": [
+    "previous stage: Separate, calm, listen to both",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 3076,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Yamini"
+    ],
+    "4": [
+     "Tanuja",
+     "Mridul"
+    ],
+    "5": [
+     "Irawati",
+     "Pranav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 1: Comparison [Actor]",
+   "description": "A ten-year-old hears relatives praising her brother's marks and starts to feel she is the less loved one. Comparison, even unintended, turns siblings into competitors for the same limited approval.",
+   "graph_context": [
+    "next stage: Fairness accounting",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 3077,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Samir",
+     "Kashish"
+    ],
+    "4": [
+     "Jaya",
+     "Indu"
+    ],
+    "5": [
+     "Kiran",
+     "Rafiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Sibling rivalry cycle",
+   "subtype": "Stage 2: Fairness accounting [Actor]",
+   "description": "Each child counts who got the bigger share, the later bedtime or the new phone, and demands exact equality. Underneath is not the object but a need to know they matter as much.",
+   "graph_context": [
+    "previous stage: Comparison",
+    "next stage: Teasing and tattling",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  }
+ ]
+}

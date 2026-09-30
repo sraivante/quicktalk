@@ -1,0 +1,190 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 201,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Chandrika",
+     "Tushar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Inclusion",
+   "subtype": "Including Outsiders & Different Abilities",
+   "description": "Making room for new, shy or differently abled classmates.",
+   "graph_context": [
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 202,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Maria",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Gender Respect",
+   "subtype": "Respectful Interaction Across Genders",
+   "description": "Practicing courtesy and boundaries without stereotyped roles or mockery.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 203,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Irfan",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Integrity",
+   "subtype": "Doing Right When Unobserved",
+   "description": "Being honest and admitting mistakes even without the chance of being caught."
+  },
+  {
+   "sno": 204,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Deepika",
+     "Sunaina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Justice",
+   "subtype": "Judging Fairness of Rules & Punishments",
+   "description": "Debating whether a consequence is proportionate and fair to all."
+  },
+  {
+   "sno": 205,
+   "plan": {
+    "15": "R12+T1"
+   },
+   "cast": {
+    "15": [
+     "Kishore",
+     "Arnab"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Puberty Education",
+   "subtype": "Body Changes, Menstruation & Hygiene",
+   "description": "Understanding early puberty, privacy and hygiene without shame or misinformation.",
+   "graph_context": [
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 206,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Arohi",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Sports & Discipline",
+   "subtype": "Skill Practice & Sportsmanship",
+   "description": "Building skill through repeated practice and losing gracefully."
+  },
+  {
+   "sno": 207,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Tenzin",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Physical",
+   "subtopic": "Nutrition",
+   "subtype": "Balanced Meals & Junk-Food Awareness",
+   "description": "Linking food choices to energy, growth and health."
+  },
+  {
+   "sno": 208,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Nandini",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Safety",
+   "subtopic": "Emergency Skills",
+   "subtype": "Basic First Aid & Emergency Contacts",
+   "description": "Handling small injuries and knowing whom and how to call in an emergency."
+  },
+  {
+   "sno": 209,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Aadhya",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Safety",
+   "subtopic": "Body Safety",
+   "subtype": "Body Boundaries & Reporting Abuse",
+   "description": "Knowing that no one may touch private areas, naming trusted adults and telling until believed.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 210,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Yamini",
+     "Abhinav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Financial Literacy",
+   "subtopic": "Saving & Earning",
+   "subtype": "Pocket Money, Wants vs. Needs",
+   "description": "Saving toward a goal and deciding between needs and impulse wants."
+  }
+ ]
+}

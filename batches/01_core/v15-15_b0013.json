@@ -1,0 +1,193 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 121,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Jagdish",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Physical Literacy",
+   "subtopic": "Health Stewardship",
+   "subtype": "Somatic Fitness & Ergonomics",
+   "description": "Building long-term physical endurance, ergonomic workplace habits, proper nutrition, and active self-care routines."
+  },
+  {
+   "sno": 122,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Vasudha",
+     "Bhupen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Systemic & Principled Ethics",
+   "description": "Evaluating laws vs. universal human rights, operating on core ethical tenets over social sanction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 123,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Ojas",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Generativity & Stewardship",
+   "description": "Mentoring younger peers, contributing to organizations, and building community stability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 124,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Wasim",
+     "Tushar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Multi-Criteria Evaluation",
+   "description": "Managing uncertainty and weighing competing trade-offs between short- and long-term values.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 125,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Shalini",
+     "Sudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Habits & Ethics",
+   "subtopic": "Workplace Conduct",
+   "subtype": "Professional Integrity & Work Ethics",
+   "description": "Demonstrating workplace punctuality, accountability, and professional courtesy vs. absenteeism, office politics, and dishonesty.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 126,
+   "plan": {
+    "15": "R2"
+   },
+   "cast": {
+    "15": [
+     "Minakshi",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Civic & Relational",
+   "subtopic": "Active Citizenship",
+   "subtype": "Civic Responsibility & Filial Duty",
+   "description": "Fulfilling legal duties (voting, taxes), honoring aging parents/relatives, and actively contributing to societal welfare."
+  },
+  {
+   "sno": 127,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Sami",
+     "Clara"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Adult Autonomy & Civic Duty",
+   "description": "Fulfilling financial and domestic obligations, supporting aging parents, adhering to workplace contracts, and active civic participation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 128,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Chaitanya",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Impulse Control",
+   "description": "Gaining the neurological ability to consistently pause and inhibit rash responses."
+  },
+  {
+   "sno": 129,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Pankaj",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Working Memory",
+   "description": "Successfully holding, managing, and manipulating highly complex information on the fly."
+  },
+  {
+   "sno": 130,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Lindiwe",
+     "Nadia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Cognitive Flexibility",
+   "description": "Seamlessly adapting reasoning and behavior when rules change or unexpected situations arise."
+  }
+ ]
+}

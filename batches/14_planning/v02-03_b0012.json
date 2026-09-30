@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5871,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Disha",
+     "Indu"
+    ],
+    "3": [
+     "Tejas",
+     "Nitin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: magical thinking [Pitfall]",
+   "description": "A child leaves the homework notebook out of the bag, believing the teacher will not ask for it if it isn't there. Hoping replaces doing.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, externalising on paper, if-then plan, mental simulation"
+   ]
+  },
+  {
+   "sno": 5872,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Dolma"
+    ],
+    "3": [
+     "Disha",
+     "Rekha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: make-believe rehearsal [Revision]",
+   "description": "After forgetting the water bottle, a child pretends to walk through the school day, saying \"Now I am thirsty, I need my bottle.\" The rehearsal shows what is missing.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, externalising on paper, if-then plan, magical thinking"
+   ]
+  },
+  {
+   "sno": 5873,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Darshan",
+     "Rehana"
+    ],
+    "3": [
+     "Minakshi",
+     "Parveen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: trial and error [Action]",
+   "description": "A child drags a chair to the cupboard to reach a jar of sweets, tries standing on it, and finds it still too short. Then a stool is added on top.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, magical thinking"
+   ]
+  },
+  {
+   "sno": 5874,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Sangeeta"
+    ],
+    "3": [
+     "Devika",
+     "Raghav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "A child says, \"Papa, can you get the jar down?\" and points to the shelf. Asking is quick and safe, and the child's own plan is only needed if nobody is home.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, magical thinking, trial and error",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5875,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Elizabeth"
+    ],
+    "3": [
+     "Gurpreet",
+     "Rehana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: copying a peer [Action]",
+   "description": "A child sees an older brother use a long stick to hook a kite off a shelf, and tries a broom handle in the same way. The tool idea was borrowed.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, magical thinking, trial and error"
+   ]
+  },
+  {
+   "sno": 5876,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Jyoti"
+    ],
+    "3": [
+     "Sumit",
+     "Dhruv"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: if-then rule [Thinking]",
+   "description": "A child has been told, \"If it is too high, ask a grown-up,\" and calls out for mother. The rule from earlier stops a risky climb.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, magical thinking, trial and error"
+   ]
+  },
+  {
+   "sno": 5877,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Liam",
+     "Mateo"
+    ],
+    "3": [
+     "Preeti",
+     "Keerthana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: magical thinking [Pitfall]",
+   "description": "A child stretches and stretches, believing that arms can grow long enough with effort. Wanting the jar overrides a plain look at the distance.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, trial and error"
+   ]
+  },
+  {
+   "sno": 5878,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Rafiq"
+    ],
+    "3": [
+     "Ishita",
+     "Kavitha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Reaching something high",
+   "subtype": "Approach: noticing wobble and stopping [Revision]",
+   "description": "A stacked stool starts to wobble, and the child steps down and calls for help. Feeling the danger changes the plan from climbing to asking.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, if-then plan, magical thinking, trial and error",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5879,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Omkar"
+    ],
+    "3": [
+     "Sarita",
+     "Deepika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: simple step list [Action]",
+   "description": "A child folds the paper in half, draws a cake on the front, writes the friend's name inside, and colours it last. The order makes the card come together.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, magical thinking, mental simulation, trial and error"
+   ]
+  },
+  {
+   "sno": 5880,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Salma",
+     "Harish"
+    ],
+    "3": [
+     "Gurleen",
+     "Tushar"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making a birthday card",
+   "subtype": "Approach: make-believe rehearsal [Thinking]",
+   "description": "A child imagines grandmother opening the card and smiling, and decides on her favourite flowers and colours. The imagined reaction chooses the drawing.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, magical thinking, trial and error"
+   ]
+  }
+ ]
+}

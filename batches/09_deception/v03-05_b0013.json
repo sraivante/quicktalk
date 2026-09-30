@@ -1,0 +1,317 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4709,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Tanvir",
+     "Lalit"
+    ],
+    "4": [
+     "Yamini",
+     "Madhav"
+    ],
+    "5": [
+     "Rehana",
+     "Harish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Peer-pressure tactics",
+   "subtype": "Why the pressurer pushes [Actor]",
+   "description": "A teenager pressing others to join often wants to feel less alone in their own risky choice or to feel powerful. Their pushing is about their own uncertainty, not the target's worth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 4710,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Manoj",
+     "Divyansh"
+    ],
+    "4": [
+     "Mridul",
+     "Farida"
+    ],
+    "5": [
+     "Jatin",
+     "Pradeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Peer-pressure tactics",
+   "subtype": "Saying no without a fight [Response]",
+   "description": "A teenager uses a short calm no, a joke, or an excuse and leaves, and keeps at least one friend who supports them. Having an ally makes a refusal much easier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4711,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Mehak",
+     "Sarita"
+    ],
+    "4": [
+     "Pradeep",
+     "Kishore"
+    ],
+    "5": [
+     "Anirban",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Sales tactics and urgency",
+   "subtype": "Only today and limited stock [Receiver]",
+   "description": "A shopper feels a rush at countdown timers, one left messages and only-today deals, and buys without needing the item. Scarcity triggers fear of loss, which is stronger than desire for gain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4712,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Darshan",
+     "Tanvir"
+    ],
+    "4": [
+     "Devika",
+     "Dhruv"
+    ],
+    "5": [
+     "Farhan",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Sales tactics and urgency",
+   "subtype": "Pressure in a pitch [Receiver]",
+   "description": "A person in a sales meeting or at a loan or insurance counter is pushed to sign now and given jargon they do not follow. Feeling rushed or embarrassed to ask is exactly the moment to slow down.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 4713,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Yash",
+     "Avni"
+    ],
+    "4": [
+     "Lakshmi",
+     "Ujjwal"
+    ],
+    "5": [
+     "Rukmini",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Sales tactics and urgency",
+   "subtype": "The seller's own script [Actor]",
+   "description": "A salesperson under targets uses urgency and friendliness because their pay and job depend on it. Some believe in the product and some bend the truth, so buyers judge behaviour and not warmth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4714,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Suraj",
+     "Vishal"
+    ],
+    "4": [
+     "Jahnavi",
+     "Tanuja"
+    ],
+    "5": [
+     "Vishal",
+     "Pema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Sales tactics and urgency",
+   "subtype": "Sleep on it and read it [Response]",
+   "description": "A wise buyer waits a day, asks for the terms in writing, compares alternatives and walks away from pressure. A good offer is still there tomorrow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4715,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kunal",
+     "Yamini"
+    ],
+    "4": [
+     "Arnab",
+     "Zubin"
+    ],
+    "5": [
+     "Zubin",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Advertising and influencer persuasion",
+   "subtype": "Wanting what ads show [Receiver]",
+   "description": "A child sees a cartoon or a cricketer sell snacks or toys and feels the item will bring fun or belonging. Young children cannot yet tell an ad from a story and rely on adults to explain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: playfulness, nostalgia"
+   ]
+  },
+  {
+   "sno": 4716,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Kwame",
+     "Hiroshi"
+    ],
+    "4": [
+     "Shankar",
+     "Keerthana"
+    ],
+    "5": [
+     "Shalini",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Advertising and influencer persuasion",
+   "subtype": "Trusting an influencer like a friend [Receiver]",
+   "description": "A teenager follows a creator who feels personal and buys what they recommend, not seeing it is paid. Feeling that someone is a friend lowers scrutiny of their sales messages.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4717,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Lokesh",
+     "Sahil"
+    ],
+    "4": [
+     "Rafiq",
+     "Wasim"
+    ],
+    "5": [
+     "Uday",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Advertising and influencer persuasion",
+   "subtype": "Comparing with polished lives [Receiver]",
+   "description": "A young adult sees edited photos and ads for perfect skin, bodies and lifestyles and feels behind. Persuasion works on insecurity, and the product is sold as the answer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: insecurity"
+   ]
+  },
+  {
+   "sno": 4718,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Nandini"
+    ],
+    "4": [
+     "Seema",
+     "Ayesha"
+    ],
+    "5": [
+     "Pablo",
+     "Freya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Advertising and influencer persuasion",
+   "subtype": "Asking who pays and what is left out [Response]",
+   "description": "An adult checks whether a post is sponsored, looks for independent reviews, and notices which needs the ad is trying to create. Seeing the mechanism keeps enjoyment without being steered.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

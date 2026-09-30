@@ -1,0 +1,313 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3710,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Nitin",
+     "Mahima"
+    ],
+    "10": [
+     "Lindiwe",
+     "Valentina"
+    ],
+    "11": [
+     "Vasudha",
+     "Nikita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Curse of knowledge",
+   "subtype": "Explaining to classmates [Actor]",
+   "description": "A teenager who understands a topic well explains it too quickly and with jargon, then thinks the listener is slow. Knowledge makes it hard to see the beginner's view.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3711,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Yash",
+     "Lakshmi"
+    ],
+    "10": [
+     "Valentina",
+     "Chidi"
+    ],
+    "11": [
+     "Sumit",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Curse of knowledge",
+   "subtype": "Teaching and presenting [Actor]",
+   "description": "A student presenter assumes the audience knows the acronyms and background, and loses them in the first minute. Expertise can blind a speaker to gaps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3712,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Sangeeta",
+     "Lalremsiami"
+    ],
+    "10": [
+     "Devika",
+     "Lakshmi"
+    ],
+    "11": [
+     "Arohi",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Curse of knowledge",
+   "subtype": "Explaining with a beginner's mind [Response]",
+   "description": "A skilled professional tests her explanation on someone outside the field, uses examples and plain words, and asks the listener to say it back.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3713,
+   "plan": {
+    "9": "R15+T1",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Madhav",
+     "Nitin"
+    ],
+    "10": [
+     "Vijay",
+     "Pranav"
+    ],
+    "11": [
+     "Mohit",
+     "Minakshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Negativity bias",
+   "subtype": "One scolding outweighs praise [Actor]",
+   "description": "A young child remembers the one time he was scolded more strongly than the many times he was praised. Painful moments feel heavier and stick longer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3714,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Simran",
+     "Joseph"
+    ],
+    "10": [
+     "Hana",
+     "Santiago"
+    ],
+    "11": [
+     "Chaitanya",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Negativity bias",
+   "subtype": "Remembering the one bad mark [Actor]",
+   "description": "A child forgets nine good comments and dwells on one unkind remark at school. Bad news grabs attention more than good.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3715,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Farida",
+     "Dhruv"
+    ],
+    "10": [
+     "Yamini",
+     "Tenzin"
+    ],
+    "11": [
+     "Farida",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Negativity bias",
+   "subtype": "Criticism outweighs compliments [Actor]",
+   "description": "A teenager replays one mocking comment for days and shrugs off warm praise from friends. The mind is tuned to threat, which can distort self-worth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3716,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Chandrika",
+     "Anjali"
+    ],
+    "10": [
+     "Lavanya",
+     "Sahil"
+    ],
+    "11": [
+     "Urmila",
+     "Ganga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Negativity bias",
+   "subtype": "Doomscrolling and worry [Actor]",
+   "description": "A young adult keeps checking bad news and negative posts and concludes the world is worse than it is. Distress rises while real information does not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3717,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Kunal",
+     "Maria"
+    ],
+    "10": [
+     "Arohi",
+     "Farhan"
+    ],
+    "11": [
+     "Anand",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Negativity bias",
+   "subtype": "Balancing the record [Response]",
+   "description": "A grounded person deliberately notes good events, counts wins alongside setbacks, and gives positive feedback as much weight as negative before deciding how things are.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3718,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Nilesh",
+     "Jyoti"
+    ],
+    "10": [
+     "Tejas",
+     "Zeenat"
+    ],
+    "11": [
+     "Akash",
+     "Disha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Recency effect",
+   "subtype": "Latest thing counts most [Actor]",
+   "description": "A child asked about his week mostly remembers what happened yesterday and judges a teacher by the last class. Recent events crowd out earlier ones.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3719,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Kamal",
+     "Naveen"
+    ],
+    "10": [
+     "Pranav",
+     "Rukmini"
+    ],
+    "11": [
+     "Jasleen",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Recency effect",
+   "subtype": "Last-minute impressions [Actor]",
+   "description": "A teenager judges a friend by the latest quarrel and forgets years of kindness. The most recent event feels like the truth about the person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

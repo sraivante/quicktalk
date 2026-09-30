@@ -1,0 +1,40 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 231, "plan": {"9": "R4", "10": "R5", "11": "R6"}, "cast": {"9": ["Sahil", "Uma"], "10": ["Yusuf", "Afreen"], "11": ["Uma", "Jasleen"]}, "age": "13–17", "topic": "Relationships", "subtopic": "Sexual Health & Consent", "subtype": "Consent, Boundaries & Sexual Health Literacy", "description": "Age-appropriate understanding of consent, contraception, infection prevention and respecting no.", "graph_context": ["related mind states: admiration"]}
+{"sno": 232, "plan": {"9": "R15", "10": "R1", "11": "R2"}, "cast": {"9": ["Pema", "Parul"], "10": ["Chaitanya", "Rashmi"], "11": ["Vidya", "Elizabeth"]}, "age": "13–17", "topic": "Relationships", "subtopic": "Relationship Quality", "subtype": "Healthy vs. Controlling Relationship Patterns", "description": "Distinguishing respect, trust and freedom from possessiveness, pressure and control.", "graph_context": ["related mind states: admiration, trust"]}
+{"sno": 233, "plan": {"9": "R15", "10": "R1", "11": "R2"}, "cast": {"9": ["Lavanya", "Nandini"], "10": ["Sangeeta", "Yogesh"], "11": ["Mridul", "Lavanya"]}, "age": "13–17", "topic": "Emotional", "subtopic": "Grief", "subtype": "First Encounters With Loss", "description": "Grieving a grandparent, pet or friend and finding ways to mourn.", "graph_context": ["related mind states: grief"]}
+{"sno": 234, "plan": {"9": "R4", "10": "R5", "11": "R6"}, "cast": {"9": ["Trisha", "Shalini"], "10": ["Gopika", "Santosh"], "11": ["Deepak", "Shreya"]}, "age": "13–17", "topic": "Emotional", "subtopic": "Solitude", "subtype": "Loneliness vs. Healthy Solitude", "description": "Telling being alone by choice from painful isolation and acting on it.", "graph_context": ["related mind states: loneliness, hurt"]}
+{"sno": 235, "plan": {"9": "R11", "10": "R12", "11": "R13"}, "cast": {"9": ["Rashmi", "Harish"], "10": ["Sahil", "Omkar"], "11": ["Anirban", "Naveen"]}, "age": "13–17", "topic": "Mental Health", "subtopic": "Mental Health Literacy", "subtype": "Recognizing Distress & Seeking Help", "description": "Recognizing persistent sadness, anxiety or withdrawal in self or friends and reaching out to trusted adults or professionals.", "graph_context": ["related mind states: sadness, anxiety, detachment, trust"]}
+{"sno": 236, "plan": {"9": "R14", "10": "R15", "11": "R1"}, "cast": {"9": ["Ojas", "Deepika"], "10": ["Harsha", "Baljeet"], "11": ["Kavitha", "Sabina"]}, "age": "13–17", "topic": "Physical", "subtopic": "Sleep & Recovery", "subtype": "Adolescent Sleep Regulation", "description": "Managing shifted body clock, late-night use and study load."}
+{"sno": 237, "plan": {"9": "R2", "10": "R3", "11": "R4"}, "cast": {"9": ["Jeevan", "Bhupen"], "10": ["Minakshi", "Rafiq"], "11": ["Anand", "Nandini"]}, "age": "13–17", "topic": "Health Risk", "subtopic": "Substance Risk", "subtype": "Tobacco, Vaping, Alcohol & Drug Refusal", "description": "Understanding risks and rehearsing refusal when offered by peers."}
+{"sno": 238, "plan": {"9": "R13", "10": "R14", "11": "R15"}, "cast": {"9": ["Tanvir", "Anirban"], "10": ["Chaitanya", "Hemant"], "11": ["Kiran", "Rajni"]}, "age": "13–17", "topic": "Vocational", "subtopic": "Career Exploration", "subtype": "Stream Choice, Aptitude & Family Input", "description": "Matching interests and strengths to streams and careers while weighing family expectations.", "graph_context": ["related mind states: interest"]}
+{"sno": 239, "plan": {"9": "R15", "10": "R1", "11": "R2"}, "cast": {"9": ["Hafsa", "Gargi"], "10": ["Hansa", "Santosh"], "11": ["Aditi", "Deepak"]}, "age": "13–17", "topic": "Financial Literacy", "subtopic": "Money Basics", "subtype": "Digital Payments, Fraud & Budgeting", "description": "Using UPI and cards safely, spotting fraud and keeping a simple budget.", "graph_context": ["related mind states: trust"]}
+{"sno": 240, "plan": {"9": "R12", "10": "R13", "11": "R14"}, "cast": {"9": ["Rajni", "Harish"], "10": ["Reena", "Kunal"], "11": ["Varun", "Bhupen"]}, "age": "13–17", "topic": "Civic & Relational", "subtopic": "Political Awareness", "subtype": "News, Elections & Political Claims", "description": "Reading news critically and understanding how governance and voting work."}
+
+Return exactly 30 JSON Lines and nothing else.

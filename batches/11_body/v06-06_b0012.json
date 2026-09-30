@@ -1,0 +1,216 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4229,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Reena",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Sugar highs and crashes [Actor]",
+   "description": "A child after sweets may seem hyper, then irritable and tired as energy drops. Balanced meals with protein and fibre, and treats in moderation, tend to keep moods steadier than banning or bribing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4230,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Arnab",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Skipping breakfast and crashing by noon [Actor]",
+   "description": "A teenager who skips breakfast to sleep longer or to look thin may feel foggy, moody and unable to concentrate before lunch. Regular, simple meals support learning and mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4231,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Naveen",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Food anxieties and body image [Observer]",
+   "description": "A parent or teacher notices a teenager becoming secretive, anxious or rigid about eating, and worries about the comments they hear about bodies. Gentle, private concern and a doctor's advice are better than public remarks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4232,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Jahnavi",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Hostel food and low energy [Actor]",
+   "description": "A young adult living on instant snacks, late-night food and little variety may feel tired, low and unmotivated. Small upgrades such as fruit, curd, dal or eggs, where suitable, help without demanding a perfect diet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4233,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Imran",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Eating as comfort [Actor]",
+   "description": "A person under stress may turn to food for soothing, followed by guilt that adds to the low mood. Recognising the feeling first, offering kindness to self and finding other comforts break the loop.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4234,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Peer pressure to try substances [Actor]",
+   "description": "A teenager offered a cigarette, vape or drink by friends feels the pull to belong against a sense of unease. Knowing that these can cloud judgment and hook the young brain makes a calm no easier to say.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4235,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Ritu",
+     "Uma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Energy drinks and jittery nerves [Actor]",
+   "description": "A teenager relying on energy drinks or excess caffeine to stay up for exams may feel shaky, anxious and unable to sleep, which then worsens the next day. Sleep, food and breaks are better fuel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4236,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Gopika",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Drinking lowers judgment [Actor]",
+   "description": "A young person who has been drinking at a party feels bolder, louder and less careful about risks, and may misread signals from others. Alcohol makes bad decisions feel reasonable at the time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4237,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Aditi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Friend noticing risky drunkenness [Observer]",
+   "description": "A friend sees someone slurring, stumbling or getting aggressive or very sleepy, and understands this person may be unsafe. Staying with them, getting them home safely and seeking help if unresponsive are the caring actions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: hostility, trust"
+   ]
+  },
+  {
+   "sno": 4238,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Baljeet",
+     "Ramesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Caffeine, nicotine, alcohol and other substances",
+   "subtype": "Family or friends affected by someone's use [Receiver]",
+   "description": "People close to a person whose substance use is growing may feel worry, anger, shame and exhaustion. They cannot control the other person, but they can set limits, protect themselves and seek support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anger, anxiety, shame, tiredness"
+   ]
+  }
+ ]
+}

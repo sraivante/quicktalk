@@ -1,0 +1,301 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 31,
+   "plan": {
+    "6": "R13",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Yamini",
+     "Urmila"
+    ],
+    "7": [
+     "Ramesh",
+     "Mohit"
+    ],
+    "8": [
+     "Kunal",
+     "Siddharth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Foundational Logic",
+   "subtype": "Early Numeracy",
+   "description": "Grasping the concept of counting, quantity, and identifying \"more\" versus \"less.\""
+  },
+  {
+   "sno": 32,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Ojas",
+     "Naveen"
+    ],
+    "7": [
+     "Ujjwal",
+     "Alka"
+    ],
+    "8": [
+     "Uma",
+     "Raghav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Creativity",
+   "subtopic": "Imaginative Play",
+   "subtype": "Divergent Thinking",
+   "description": "Inventing alternative uses for everyday objects and generating imaginative scenarios during play."
+  },
+  {
+   "sno": 33,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Javier",
+     "Jin"
+    ],
+    "7": [
+     "Madhuri",
+     "Deepika"
+    ],
+    "8": [
+     "Ramesh",
+     "Madhuri"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Physical Literacy",
+   "subtopic": "Body Boundaries",
+   "subtype": "Spatial Coordination",
+   "description": "Understanding personal physical space, maintaining balance during active games, and honoring bodily boundaries of peers."
+  },
+  {
+   "sno": 34,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Darshan",
+     "Sarika"
+    ],
+    "7": [
+     "Ines",
+     "Amara"
+    ],
+    "8": [
+     "Shreya",
+     "Seema"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Pride",
+   "description": "Feeling satisfaction and standing taller after personal achievements.",
+   "graph_context": [
+    "related mind states: pride, contentment"
+   ]
+  },
+  {
+   "sno": 35,
+   "plan": {
+    "6": "R4",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Dhruv",
+     "Vijay"
+    ],
+    "7": [
+     "Dilnaz",
+     "Ujjwal"
+    ],
+    "8": [
+     "Nour",
+     "Yuki"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Shame",
+   "description": "Feeling fundamentally bad about oneself when failing to meet external expectations.",
+   "graph_context": [
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 36,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Tarun"
+    ],
+    "7": [
+     "Lindiwe",
+     "Noa"
+    ],
+    "8": [
+     "Nazia",
+     "Kashish"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Guilt",
+   "description": "Recognizing one has done a specific wrong action and feeling remorse for it.",
+   "graph_context": [
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 37,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Priscila",
+     "Astrid"
+    ],
+    "7": [
+     "Kiran",
+     "Sachin"
+    ],
+    "8": [
+     "Ganga",
+     "Himani"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Embarrassment",
+   "description": "Feeling sudden self-consciousness when receiving unwanted or overwhelming attention.",
+   "graph_context": [
+    "related mind states: embarrassment, overwhelm"
+   ]
+  },
+  {
+   "sno": 38,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Nadia",
+     "Jamal"
+    ],
+    "7": [
+     "Raghav",
+     "Vinita"
+    ],
+    "8": [
+     "Bhavna",
+     "Tanuja"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Early Empathic Emotions",
+   "subtype": "Sympathy",
+   "description": "Feeling sorrow or concern upon seeing someone else's distress.",
+   "graph_context": [
+    "related mind states: sadness, empathy"
+   ]
+  },
+  {
+   "sno": 39,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Anders",
+     "Ines"
+    ],
+    "7": [
+     "Jasleen",
+     "Vinita"
+    ],
+    "8": [
+     "Samir",
+     "Pallavi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Early Empathic Emotions",
+   "subtype": "Concern",
+   "description": "Noticing another's pain and attempting rudimentary comfort.",
+   "graph_context": [
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 40,
+   "plan": {
+    "6": "R9",
+    "7": "R12",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Amandeep"
+    ],
+    "7": [
+     "Anirban",
+     "Tenzin"
+    ],
+    "8": [
+     "Rehana",
+     "Manjula"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Coping",
+   "subtopic": "Emotional Regulation",
+   "subtype": "Frustration Tolerance & Self-Soothing",
+   "description": "Recovering from minor disappointments or lost games without resorting to prolonged meltdowns.",
+   "graph_context": [
+    "related mind states: disappointment, anger"
+   ]
+  }
+ ]
+}

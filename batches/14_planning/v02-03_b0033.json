@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6081,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Binita",
+     "Mahima"
+    ],
+    "3": [
+     "Vasudha",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: learning from last year's trip and adjusting [Revision]",
+   "description": "A child recalls that last year she was thirsty because her small bottle finished by noon. This time she carries a bigger bottle and tells her friend to bring one too.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, mental simulation, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6082,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Seema"
+    ],
+    "3": [
+     "Shreya",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: staying put and waiting to be found [Thinking]",
+   "description": "A girl separated from her mother at a festival market remembers the rule that lost children should stop moving, reasoning that a parent will search back along the route where they were last together.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6083,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Pablo",
+     "Ulla"
+    ],
+    "3": [
+     "Jeevan",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: asking a safe helper such as a shopkeeper or uniformed person [Action]",
+   "description": "The child looks for a stall owner with a fixed shop or a policeman, states his name, parent's name and phone number clearly, and asks them to call or announce over the loudspeaker.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: detachment, trust"
+   ]
+  },
+  {
+   "sno": 6084,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Rafael",
+     "Kofi"
+    ],
+    "3": [
+     "Kiran",
+     "Deepak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: following the first friendly adult who offers to help [Pitfall]",
+   "description": "A boy panics and goes off with a kind stranger who says he knows where the mother is, and ends up farther from the meeting spot because he never checked whether the person was trustworthy.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 6085,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Sudha"
+    ],
+    "3": [
+     "Divyansh",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: mental rehearsal of a lost-child plan made beforehand [Thinking]",
+   "description": "Before entering the bazaar, the family asks the child what he would do if separated, and he practises saying the plan aloud: stop, look for a shop, tell the number, do not leave the area.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6086,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Imran"
+    ],
+    "3": [
+     "Darshan",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: retracing steps using landmarks [Thinking]",
+   "description": "A boy recalls the sweet shop and the blue gate near where he last held his father's hand, and reasons that heading calmly back to that landmark gives the best chance of meeting.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6087,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Uday",
+     "Aadhya"
+    ],
+    "3": [
+     "Siddharth",
+     "Leela"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: running in panic through the lanes [Pitfall]",
+   "description": "A child sprints in the direction he guesses his parents went, and because both sides are moving, they keep missing each other, while fear blocks him from remembering the phone number he knows.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: fear, detachment"
+   ]
+  },
+  {
+   "sno": 6088,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Astrid",
+     "Omar"
+    ],
+    "3": [
+     "Aparna",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: calming breathing before deciding [Action]",
+   "description": "Feeling tears rising, the girl stands against a shop wall, takes slow breaths and counts to ten, and then thinks clearly enough to choose a shopkeeper to approach.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 6089,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Kamal"
+    ],
+    "3": [
+     "Harish",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: switching from wandering to staying and asking [Revision]",
+   "description": "After walking two lanes and not finding his family, the boy realises moving is making things worse, stops beside a chai stall and asks the owner to phone his father.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6090,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Salma"
+    ],
+    "3": [
+     "Shankar",
+     "Sudha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: fixed meeting point agreed in advance [Action]",
+   "description": "Because the family agreed to meet at the temple gate if separated, the child walks straight there with the help of a shopkeeper's directions and finds his aunt waiting.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1648,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Nikita"
+    ],
+    "3": [
+     "Abhinav",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Moving to new culture",
+   "subtype": "Host culture × Contempt [Receiver]",
+   "description": "Someone makes a snide remark about my food or dress. I feel small and angry. Wise: answer calmly or walk away, seek allies, and stay proud of my background. Harmful: withdrawing into resentment.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, grief, guilt, loyalty, pride, rejection",
+    "related mind states: anger, contempt, pride, detachment"
+   ]
+  },
+  {
+   "sno": 1649,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Vaibhav"
+    ],
+    "3": [
+     "Darshan",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Life × Emptiness [Actor]",
+   "description": "I did what I was supposed to do, and now I wonder what it is all for. Wise: try small experiments, meet people, help someone, and let purpose emerge from action rather than being found. Harmful: numbing with scrolling.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, curiosity, envy, worship",
+    "related mind states: curiosity, detachment, awe"
+   ]
+  },
+  {
+   "sno": 1650,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Ankita",
+     "Rashmi"
+    ],
+    "3": [
+     "Francis",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Parent × Expectation [Receiver]",
+   "description": "My parents' dream for me is not mine, and I feel like a fraud pursuing it. Wise: tell them what I actually love, propose a path with a fallback, and accept their worry. Harmful: silent compliance or dramatic rebellion.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, curiosity, envy, worship",
+    "related mind states: affection, anxiety"
+   ]
+  },
+  {
+   "sno": 1651,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Kavitha"
+    ],
+    "3": [
+     "Nirmala",
+     "Sachin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Peer × Envy [Actor]",
+   "description": "My friends seem to know what they want, and I feel behind. Wise: most people are guessing; social media hides it. Try things and follow what holds my interest. Harmful: comparing my confusion to their highlights.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, curiosity, worship",
+    "related mind states: interest, confusion, envy"
+   ]
+  },
+  {
+   "sno": 1652,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Pema"
+    ],
+    "3": [
+     "Damini",
+     "Sunaina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Mentor × Curiosity [Actor]",
+   "description": "I ask an older person how she found her direction and she says she changed course three times. Wise: collect stories, not formulas; direction often forms while walking. Harmful: waiting for certainty.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, worship",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 1653,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Irfan"
+    ],
+    "3": [
+     "Tanuja",
+     "Minakshi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Faith or philosophy × Devotion [Actor]",
+   "description": "I turn to a book, tradition or practice to find meaning. Wise: let it challenge and comfort me, discuss with others. Harmful: adopting a ready-made answer that spares me from thinking.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, curiosity, envy"
+   ]
+  },
+  {
+   "sno": 1654,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Tushar"
+    ],
+    "3": [
+     "Sarika",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing sense of purpose",
+   "subtype": "Self × Contempt [Actor]",
+   "description": "I call myself lazy and directionless and think I have wasted my youth. Wise: stagnation is often exhaustion, fear or depression; be kind, take one tiny step, seek help if it persists. Harmful: harsh labels as a way to feel in control.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, envy, worship",
+    "related mind states: contempt, fear, tiredness"
+   ]
+  },
+  {
+   "sno": 1655,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Deepika"
+    ],
+    "3": [
+     "Tushar",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Self × Shame [Actor]",
+   "description": "After a serious mistake I hear a voice saying \"you are worthless\". Wise: separate what I did from who I am, own the harm, repair it, and speak to myself as I would to a friend. Harmful: hiding it or self-punishment.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, compassion, disillusionment, forgiveness, pride",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 1656,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Madhuri"
+    ],
+    "3": [
+     "Kalyani",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Self × Compassion [Actor]",
+   "description": "I learn to say \"I made a mistake, and I am still a person worth respect\". Wise: self-compassion makes accountability easier, not weaker. Harmful: using kindness to excuse repeating the harm.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, disillusionment, forgiveness, pride, shame",
+    "related mind states: admiration, empathy"
+   ]
+  },
+  {
+   "sno": 1657,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Camila",
+     "Clara"
+    ],
+    "3": [
+     "Salma",
+     "Jeevan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Self-hatred after mistake",
+   "subtype": "Person harmed × Forgiveness [Receiver]",
+   "description": "The person I hurt says she forgives me. I feel relief and do not feel worthy. Wise: accept it humbly, change behaviour, and do not demand more from her. Harmful: treating forgiveness as a reset with no effort.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, compassion, disillusionment, pride, shame",
+    "related mind states: relief, hurt"
+   ]
+  }
+ ]
+}

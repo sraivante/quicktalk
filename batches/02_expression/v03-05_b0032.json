@@ -1,0 +1,319 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2372,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Pooja",
+     "Bidisha"
+    ],
+    "4": [
+     "Minakshi",
+     "Ankita"
+    ],
+    "5": [
+     "Nazia",
+     "Ritu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Rising pitch for questions and doubt [Interpreting]",
+   "description": "A schoolchild hears a voice rise at the end as a question or uncertainty and fall as a statement. Sometimes a rising tone signals politeness or a regional habit rather than doubt, so context should be considered.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 2373,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Aditi",
+     "Deepika"
+    ],
+    "4": [
+     "Chinmay",
+     "Deepika"
+    ],
+    "5": [
+     "Aiko",
+     "Tuan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Nasal and raspy voice [Mismatch]",
+   "description": "A nasal or raspy voice in a child often reflects a cold, allergy or shouting, not mood. Peers who mock it may misread it; adults teach that voice quality is body state first and emotion second.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2374,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Chandrika",
+     "Payal"
+    ],
+    "4": [
+     "Lakshmi",
+     "Pranav"
+    ],
+    "5": [
+     "Keerthana",
+     "Lalremsiami"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Strained voice [Regulating]",
+   "description": "A school-age child holding back tears or anger often speaks in a tight, strained voice. Slow breathing and a drink of water can loosen it, while an adult should read the strain as effort to cope rather than defiance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, hostility, relief from stress"
+   ]
+  },
+  {
+   "sno": 2375,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Manoj",
+     "Hafsa"
+    ],
+    "4": [
+     "Sonali",
+     "Rehana"
+    ],
+    "5": [
+     "Shankar",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Clipped replies [Interpreting]",
+   "description": "A child giving clipped, short answers after a hard day may be tired, hurt or unwilling to talk yet. Adults do better to offer time and a low-pressure moment than to demand detail.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 2376,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Vera",
+     "Freya"
+    ],
+    "4": [
+     "Akash",
+     "Nitin"
+    ],
+    "5": [
+     "Tejas",
+     "Karthik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Emphatic speech [Expressing]",
+   "description": "A school-age child may stress words and slow down for emphatic speech to show importance, anger or pride. Adults read emphasis as what matters most to the child, not necessarily as rudeness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, pride"
+   ]
+  },
+  {
+   "sno": 2377,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Amandeep",
+     "Sonali"
+    ],
+    "4": [
+     "Manoj",
+     "Ujjwal"
+    ],
+    "5": [
+     "Lalit",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Hesitation before answering [Interpreting]",
+   "description": "A school-age child who hesitates before answering may be unsure, protecting someone, or worried about consequences. Hesitation is a cue, not proof of lying, so calm follow-up questions work better than accusation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 2378,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Rajni",
+     "Abhinav"
+    ],
+    "4": [
+     "Sarita",
+     "Jasleen"
+    ],
+    "5": [
+     "Suraj",
+     "Samir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Interruption and politeness rules [Regulating]",
+   "description": "A child learns to hold back interruptions, raise a hand and wait for a pause. Norms vary: in some families overlapping talk shows warmth and interest, in others it seems disrespectful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: affection, admiration, interest"
+   ]
+  },
+  {
+   "sno": 2379,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Karthik"
+    ],
+    "4": [
+     "Jaya",
+     "Madhuri"
+    ],
+    "5": [
+     "Elizabeth",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Musical vocal expression",
+   "subtype": "Singing, chanting and group songs [Expressing]",
+   "description": "A school-age child in assembly, prayer, bhajan or sports chants feels belonging and shared purpose. Group chanting can lift mood, and a child who declines to sing may be shy, not disrespectful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, shyness, nostalgia"
+   ]
+  },
+  {
+   "sno": 2380,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Shalini",
+     "Keerthana"
+    ],
+    "4": [
+     "Binita",
+     "Gurleen"
+    ],
+    "5": [
+     "Vasudha",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Musical vocal expression",
+   "subtype": "Vocal imitation as humour or mockery [Mismatch]",
+   "description": "A child imitating a teacher's or friend's voice may be affectionate play or unkind mimicry. The target's reaction and the relationship decide, so adults teach checking whether the other person is laughing too.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, affection, sadness"
+   ]
+  },
+  {
+   "sno": 2381,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Joseph",
+     "Seema"
+    ],
+    "4": [
+     "Gopika",
+     "Nilesh"
+    ],
+    "5": [
+     "Baljeet",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Acknowledging others [Interpreting]",
+   "description": "A school-age child reads a nod, a smile or being ignored as signs of friendliness or coolness. A missed hello may be inattention rather than snub, so checking twice before feeling hurt is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

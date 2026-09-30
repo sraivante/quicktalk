@@ -1,0 +1,259 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5861,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Dalia",
+     "Nadia"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Abhinav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting dressed for school",
+   "subtype": "Approach: make-believe rehearsal [Thinking]",
+   "description": "A child pretends the school uniform is a superhero costume and puts it on in \"power order,\" starting with the cape-like tie. The story gets the child dressed.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5862,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Vandana",
+     "Yusuf"
+    ],
+    "3": [
+     "Mehak",
+     "Siddharth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting dressed for school",
+   "subtype": "Approach: bargaining [Action]",
+   "description": "A child says, \"I will wear the sweater if I can choose my socks.\" Trading a small choice for a needed action moves the morning along.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, mental simulation, trial and error"
+   ]
+  },
+  {
+   "sno": 5863,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Farida",
+     "Jyoti"
+    ],
+    "3": [
+     "Abhinav",
+     "Farhan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting dressed for school",
+   "subtype": "Approach: trial and error [Revision]",
+   "description": "Buttons are done up one hole out, and the child sees the shirt hang crooked, undoes it and starts again from the bottom button. The mistake is spotted and fixed.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, mental simulation, negotiation"
+   ]
+  },
+  {
+   "sno": 5864,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Jaya"
+    ],
+    "3": [
+     "Alka",
+     "Ankita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting dressed for school",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "A child can do everything but the shoelaces, so mother is asked to tie them. Knowing which step is too hard, and asking for only that, is a small piece of planning.",
+   "graph_context": [
+    "same problem, other approaches: if-then plan, mental simulation, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5865,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Arnab"
+    ],
+    "3": [
+     "Gurleen",
+     "Rashmi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Getting dressed for school",
+   "subtype": "Approach: giving up [Pitfall]",
+   "description": "A child cannot find the second sock, climbs back into bed and says \"I'm not going.\" One missing item ends the whole plan for the morning.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, if-then plan, mental simulation, negotiation, trial and error"
+   ]
+  },
+  {
+   "sno": 5866,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Lakshmi"
+    ],
+    "3": [
+     "Lokesh",
+     "Gargi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: simple step list [Action]",
+   "description": "A child follows a picture list taped inside the cupboard: water bottle, lunch box, notebook, pencil box. Each item is put in and ticked.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, if-then plan, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5867,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Joseph"
+    ],
+    "3": [
+     "Zanele",
+     "Chen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: asking an adult [Action]",
+   "description": "A child asks mother, \"What do I need for tomorrow?\" and she reads the timetable aloud. The child then puts in the books she names.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, externalising on paper, if-then plan, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5868,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Deepak"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Payal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: if-then rule [Thinking]",
+   "description": "A child follows the rule, \"If it is PE day, shoes go in the bag.\" The rule links a fact about the day with an object to pack.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, externalising on paper, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5869,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Amandeep"
+    ],
+    "3": [
+     "Madhav",
+     "Leela"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: copying a peer [Action]",
+   "description": "A child sees an older brother pack the night before, and lines up the bag by the door the same way. The habit is borrowed, and it works.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, externalising on paper, if-then plan, magical thinking, mental simulation"
+   ]
+  },
+  {
+   "sno": 5870,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Charu"
+    ],
+    "3": [
+     "Beatriz",
+     "Paulo"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Packing a bag",
+   "subtype": "Approach: not checking [Pitfall]",
+   "description": "A child throws items in quickly and later finds the lunch box left on the table. Packing felt finished without any check against the list.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, externalising on paper, if-then plan, magical thinking, mental simulation"
+   ]
+  }
+ ]
+}

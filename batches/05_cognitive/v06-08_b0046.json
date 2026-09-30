@@ -1,0 +1,315 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 4020,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Uday",
+     "Pallavi"
+    ],
+    "7": [
+     "Kamal",
+     "Sangeeta"
+    ],
+    "8": [
+     "Madhav",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Competence and mastery",
+   "subtype": "Teacher noticing progress [Observer]",
+   "description": "A teacher points out specific improvements in a weak student's work and calibrates the next task to be hard but doable; visible progress rebuilds the wish to try.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4021,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Vikas"
+    ],
+    "7": [
+     "Keerthana",
+     "Bhavna"
+    ],
+    "8": [
+     "Ritu",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Competence and mastery",
+   "subtype": "Rebuilding through small wins [Response]",
+   "description": "A student who lost confidence in coding solves tiny problems daily and records each one; the growing list shows evidence of skill and motivates the next step.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4022,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Chaitanya",
+     "Binita"
+    ],
+    "7": [
+     "Anders",
+     "Hiroshi"
+    ],
+    "8": [
+     "Joseph",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Competence and mastery",
+   "subtype": "Stuck in a job that stopped stretching [Actor]",
+   "description": "An adult in a routine job feels restless and flat, though nothing is wrong; without challenge that grows skill, energy drops, and a new project or course can restore it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 4023,
+   "plan": {
+    "6": "R9",
+    "7": "R13",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Irawati",
+     "Chandrika"
+    ],
+    "7": [
+     "Aadhya",
+     "Harish"
+    ],
+    "8": [
+     "Nilesh",
+     "Sabina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Relatedness and belonging",
+   "subtype": "Working harder when someone is watching [Actor]",
+   "description": "A child builds their tower with more care when a parent sits nearby and shows it proudly; being seen and connected feeds effort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4024,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Amandeep",
+     "Jyoti"
+    ],
+    "7": [
+     "Nikita",
+     "Tushar"
+    ],
+    "8": [
+     "Pankaj",
+     "Hemant"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Relatedness and belonging",
+   "subtype": "Studying because friends do [Actor]",
+   "description": "A child joins a class group and works because the group matters and not because of the subject; belonging can be a real engine of persistence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 4025,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Himani",
+     "Leela"
+    ],
+    "7": [
+     "Chaitanya",
+     "Chetan"
+    ],
+    "8": [
+     "Vidya",
+     "Anand"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Relatedness and belonging",
+   "subtype": "Dropping a hobby to fit in [Actor]",
+   "description": "A teenager quits a beloved activity because the peer group finds it uncool; the need to belong can override interest, and the loss is often felt later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection, interest"
+   ]
+  },
+  {
+   "sno": 4026,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Mohit",
+     "Himani"
+    ],
+    "7": [
+     "Binita",
+     "Pooja"
+    ],
+    "8": [
+     "Payal",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Relatedness and belonging",
+   "subtype": "Lonely in a new city [Actor]",
+   "description": "A student in a strange city finds even easy tasks hard because of a lack of connection; motivation improves when even one small circle forms.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4027,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Ritu",
+     "Pradeep"
+    ],
+    "7": [
+     "Seema",
+     "Nandini"
+    ],
+    "8": [
+     "Yash",
+     "Bidisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Relatedness and belonging",
+   "subtype": "Team leader building connection [Response]",
+   "description": "A leader who knows each member's name and situation and shares purpose sees people stay longer and try harder; care changes performance more than slogans.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4028,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Devika",
+     "Madhuri"
+    ],
+    "7": [
+     "Chandrika",
+     "Vinita"
+    ],
+    "8": [
+     "Suraj",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Goal setting",
+   "subtype": "Vague wish versus specific target [Actor]",
+   "description": "A child who vows to do better at maths makes no progress until deciding to do five problems after tea; specific small goals are easier to start and to check.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4029,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Jatin",
+     "Rukmini"
+    ],
+    "7": [
+     "Madhuri",
+     "Akash"
+    ],
+    "8": [
+     "Mridul",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Goal setting",
+   "subtype": "Far-off goal, no path [Actor]",
+   "description": "A teenager dreams of becoming a doctor but has no plan for the next month; a distant goal inspires but needs nearer steps to guide daily action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 191, "plan": {"9": "R12", "10": "R13", "11": "R14"}, "cast": {"9": ["Elizabeth", "Ujjwal"], "10": ["Sumit", "Lalit"], "11": ["Gurleen", "Jeevan"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Online Safety", "subtype": "Privacy Basics & Reporting Discomfort", "description": "Not sharing personal details and telling a trusted adult about upsetting or pressuring online contact.", "graph_context": ["related mind states: trust"]}
+{"sno": 192, "plan": {"9": "R7", "10": "R8", "11": "R9"}, "cast": {"9": ["Imran", "Kiran"], "10": ["Paulo", "Lindiwe"], "11": ["Jahnavi", "Neelam"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Digital Literacy", "subtype": "Search, Ads vs. Facts & Source Awareness", "description": "Using search sensibly and noticing sponsored content and unreliable claims."}
+{"sno": 193, "plan": {"9": "R8", "10": "R9", "11": "R12"}, "cast": {"9": ["Elif", "Sami"], "10": ["Hansa", "Jagdish"], "11": ["Sangeeta", "Karthik"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Screen Balance", "subtype": "Games, Screens vs. Play & Sleep", "description": "Balancing gaming and video with outdoor play, homework and sleep."}
+{"sno": 194, "plan": {"9": "R3", "10": "R4", "11": "R5"}, "cast": {"9": ["Deepak", "Bhavna"], "10": ["Lokesh", "Ayesha"], "11": ["Ira", "Tanuja"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "AI Awareness", "subtype": "Machines Are Not People & Can Be Wrong", "description": "Understanding that chatbots and voice assistants are programs that make mistakes and do not truly feel."}
+{"sno": 195, "plan": {"9": "R1", "10": "R2", "11": "R3"}, "cast": {"9": ["Nilesh", "Yamini"], "10": ["Nazia", "Rashmi"], "11": ["Madhuri", "Baljeet"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Anger Management", "subtype": "Pausing Before Retaliation", "description": "Delaying a response to provocation and choosing words over blows."}
+{"sno": 196, "plan": {"9": "R7", "10": "R8", "11": "R9"}, "cast": {"9": ["Vishal", "Pooja"], "10": ["Soo-ah", "Tomas"], "11": ["Rukmini", "Shankar"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Anxiety", "subtype": "Exam & Performance Nervousness", "description": "Recognizing nervousness before tests or recitals and using calming routines.", "graph_context": ["related mind states: anxiety, calm"]}
+{"sno": 197, "plan": {"9": "R8", "10": "R9", "11": "R12"}, "cast": {"9": ["Sami", "Layla"], "10": ["Ira", "Deepak"], "11": ["Tenzin", "Aadhya"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Self-Worth", "subtype": "Early Body Image & Handling Teasing", "description": "Coping with comparisons of looks and hurtful comments while keeping self-respect.", "graph_context": ["related mind states: admiration, hurt"]}
+{"sno": 198, "plan": {"9": "R12", "10": "R13", "11": "R14"}, "cast": {"9": ["Amandeep", "Eshaan"], "10": ["Divyansh", "Reena"], "11": ["Irawati", "Yusuf"]}, "age": "7–12", "topic": "Social", "subtopic": "Bullying", "subtype": "Recognizing, Reporting & Not Joining In", "description": "Identifying bullying, seeking adult help and refusing to be a bystander who cheers it on."}
+{"sno": 199, "plan": {"9": "R2", "10": "R3", "11": "R4"}, "cast": {"9": ["Karthik", "Farhan"], "10": ["Bhavna", "Pranav"], "11": ["Ritu", "Kalyani"]}, "age": "7–12", "topic": "Social", "subtopic": "Peer Pressure", "subtype": "Refusing Dares & Unsafe Requests", "description": "Saying no to risky or unkind peer requests without losing the friendship.", "graph_context": ["related mind states: trust"]}
+{"sno": 200, "plan": {"9": "R8", "10": "R9", "11": "R12"}, "cast": {"9": ["Emil", "Sofia"], "10": ["Himani", "Neelam"], "11": ["Lalit", "Kishore"]}, "age": "7–12", "topic": "Social", "subtopic": "Teamwork", "subtype": "Roles in Group Tasks & Sharing Credit", "description": "Acting as leader, follower or contributor and giving credit fairly."}
+
+Return exactly 30 JSON Lines and nothing else.

@@ -1,0 +1,31 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 7. Expected records: 7.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 311, "plan": {"15": "R6"}, "cast": {"15": ["Jasleen", "Bhupen"]}, "age": "23–26", "topic": "Environment", "subtopic": "Sustainable Living", "subtype": "Consumption, Energy & Carbon Choices", "description": "Aligning daily consumption and career choices with environmental impact."}
+{"sno": 312, "plan": {"15": "R5"}, "cast": {"15": ["Disha", "Neelam"]}, "age": "23–26", "topic": "Cultural", "subtopic": "Heritage Transmission", "subtype": "Passing On Language, Values & Rituals", "description": "Deciding what heritage to preserve and teach to the next generation."}
+{"sno": 313, "plan": {"15": "R7"}, "cast": {"15": ["Uday", "Pallavi"]}, "age": "23–26", "topic": "Spiritual / Meaning", "subtopic": "Legacy & Mortality", "subtype": "Reflecting on Death, Legacy & Purpose", "description": "Facing mortality calmly and shaping work and relationships around what will outlast oneself.", "graph_context": ["related mind states: calm, dread"]}
+{"sno": 314, "plan": {"15": "R14"}, "cast": {"15": ["Keerthana", "Sudha"]}, "age": "23–26", "topic": "Spiritual / Meaning", "subtopic": "Contemplative Practice", "subtype": "Sustained Practice, Silence & Wisdom Traditions", "description": "Building a lasting reflective practice through meditation, prayer or philosophy."}
+{"sno": 315, "plan": {"15": "R11"}, "cast": {"15": ["Shreya", "Trisha"]}, "age": "23–26", "topic": "Physical", "subtopic": "Preventive Health", "subtype": "Screening, Checkups & Chronic Risk Awareness", "description": "Tracking health markers, family risk and preventive care before problems arise."}
+{"sno": 316, "plan": {"15": "R11"}, "cast": {"15": ["Ishita", "Jagdish"]}, "age": "23–26", "topic": "Cultural", "subtopic": "Global Mobility", "subtype": "Migration, Relocation & Cultural Adaptation", "description": "Adapting to a new country or city while preserving identity and building belonging.", "graph_context": ["related mind states: nostalgia"]}
+{"sno": 317, "plan": {"15": "R7"}, "cast": {"15": ["Vijay", "Siddharth"]}, "age": "23–26", "topic": "Individual Variation", "subtopic": "Neurodiversity", "subtype": "Lifelong Self-Management of Neurodivergence", "description": "Building workplace and life systems that fit one's own attention, sensory and energy patterns.", "graph_context": ["this subtopic also appears at ages: 13–17"]}
+
+Return exactly 7 JSON Lines and nothing else.

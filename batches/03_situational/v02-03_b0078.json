@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1088,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Anjali"
+    ],
+    "3": [
+     "Yash",
+     "Eshaan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money or illness trouble",
+   "subtype": "Friend × Pity [Receiver]",
+   "description": "Friends pity my situation and offer help. It is kind and stings my pride. Wise: accept what feels fair without shame and say when I do not want pity. Harmful: rejecting kindness.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, dependence, fear, gratitude, resentment, shame",
+    "related mind states: shame, pride"
+   ]
+  },
+  {
+   "sno": 1089,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Chaitanya"
+    ],
+    "3": [
+     "Emil",
+     "Yara"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Family money or illness trouble",
+   "subtype": "Friend × Compassion [Actor]",
+   "description": "A friend's family is struggling and I want to help. Wise: offer time, notes, and company without making them a charity case. Harmful: gossiping about their problems.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, fear, gratitude, pity, resentment, shame",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 1090,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Uma"
+    ],
+    "3": [
+     "Gurpreet",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Envy [Receiver]",
+   "description": "I am popular and sense envy behind compliments. Wise: stay kind and honest, do not assume all attention is friendship, and keep close a few real friends. Harmful: cruelty to stay on top.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, loneliness, manipulation, pride, worship",
+    "paired view exists: Actor (S1094)",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1091,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Baljeet"
+    ],
+    "3": [
+     "Swati",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Idolised [Receiver]",
+   "description": "Younger students idolise me. It feels good, but it distorts my view of myself. Wise: stay humble and remember I am mid-growth like them. Harmful: needing the audience.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, loneliness, manipulation, pride, worship"
+   ]
+  },
+  {
+   "sno": 1092,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Hemant"
+    ],
+    "3": [
+     "Yogesh",
+     "Rashmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Loneliness [Actor]",
+   "description": "I am an outcast and eat lunch alone. The ache is real. Wise: look for one interest group or activity, start small conversations, and tell an adult if it persists. Harmful: assuming I am unlovable.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, envy, manipulation, pride, worship",
+    "related mind states: interest, loneliness"
+   ]
+  },
+  {
+   "sno": 1093,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Ganga"
+    ],
+    "3": [
+     "Akash",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Contempt [Receiver]",
+   "description": "I am mocked as weird or poor or fat. It is unfair and not my fault. Wise: protect my self-respect, find spaces where I fit, and report harassment. Harmful: believing their story.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, envy, loneliness, manipulation, pride, worship",
+    "related mind states: admiration, contempt"
+   ]
+  },
+  {
+   "sno": 1094,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Binita",
+     "Madhuri"
+    ],
+    "3": [
+     "Sabina",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Envy [Actor]",
+   "description": "I envy popular classmates and study their lives online. Wise: notice curated images hide worries and focus on building my own strengths. Harmful: tearing them down to feel better.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, loneliness, manipulation, pride, worship",
+    "paired view exists: Receiver (S1090)",
+    "related mind states: anxiety, envy"
+   ]
+  },
+  {
+   "sno": 1095,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Shreya",
+     "Tanvir"
+    ],
+    "3": [
+     "Yosef",
+     "Rafael"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Pride [Actor]",
+   "description": "I am proud to be different and refuse to fit in. Wise: enjoy it while remaining open to others. Harmful: using superiority as armour against connection.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, envy, loneliness, manipulation, worship",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 1096,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Anirban"
+    ],
+    "3": [
+     "Eshaan",
+     "Manoj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Manipulation [Actor]",
+   "description": "I use charm and gossip to climb the social ladder. It works, and I feel hollow. Wise: recognise the cost to trust and choose honest ways to belong.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, envy, loneliness, pride, worship",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1097,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Charu",
+     "Rashmi"
+    ],
+    "3": [
+     "Santosh",
+     "Nikita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Popular or outcast status",
+   "subtype": "Classmates × Worship [Actor]",
+   "description": "I idolise a popular senior and copy their style and speech. Wise: borrow what inspires me while building my own voice. Harmful: dropping old friends or my values to earn their notice.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, contempt, envy, loneliness, manipulation, pride"
+   ]
+  }
+ ]
+}

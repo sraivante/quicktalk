@@ -1,0 +1,267 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6091,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Emil",
+     "Javier"
+    ],
+    "3": [
+     "Lalit",
+     "Irawati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Lost in a crowded market",
+   "subtype": "Approach: relying on the phone number memorised at home [Action]",
+   "description": "The child has practised his father's mobile number as a song, so at the information counter he can recite it correctly even while shaking, and the call goes through in a minute.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, mental simulation",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6092,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Sarika"
+    ],
+    "3": [
+     "Emeka",
+     "Oskar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: checking the rule that adults ask adults [Thinking]",
+   "description": "A boy is asked by a man to help find a lost puppy in his car, and thinks that grown-ups normally ask other grown-ups for help, so this request is odd and needs caution.",
+   "graph_context": [
+    "same problem, other approaches: analogy, avoidance and procrastination, commitment device, mental simulation"
+   ]
+  },
+  {
+   "sno": 6093,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Amandeep",
+     "Kashish"
+    ],
+    "3": [
+     "Yamini",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: saying no and walking to a trusted adult [Action]",
+   "description": "The girl refuses to go anywhere with the person, keeps a distance, moves toward the guard at the gate and tells him what was asked, then informs her parents at home.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6094,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Lakshmi",
+     "Tarun"
+    ],
+    "3": [
+     "Ishita",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: going along because refusing feels rude [Pitfall]",
+   "description": "A child who has been taught to always be polite to elders follows a stranger who says her mother is hurt, and only later realises that politeness should not override safety.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: anger, trust, hurt"
+   ]
+  },
+  {
+   "sno": 6095,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Yamini"
+    ],
+    "3": [
+     "Jahnavi",
+     "Saurabh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: noticing a mismatch in the story [Thinking]",
+   "description": "When a stranger claims to be a friend of her uncle but does not know his name or the family's code word, a girl notices the story does not fit and stays away.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6096,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Uday",
+     "Nazia"
+    ],
+    "3": [
+     "Vishal",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: family code word as a test [Action]",
+   "description": "The family has a secret word that only trusted pick-up people know, so when a man says her father sent him, the child asks for the word and leaves when he cannot give it.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6097,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Reena"
+    ],
+    "3": [
+     "Siddharth",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: helping in a safe way [Thinking]",
+   "description": "A boy asked for directions by a tourist answers loudly from where he stands, points the way, and does not get into the car or lead the person, helping without going near.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6098,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Akash"
+    ],
+    "3": [
+     "Joseph",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: tempted by a gift or sweet [Pitfall]",
+   "description": "A boy is offered chocolate and a video game if he comes to see something in a lane, and wanting the reward weakens his caution, until his friend reminds him of the school safety talk.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, commitment device, mental simulation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6099,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Rosa",
+     "Lucia"
+    ],
+    "3": [
+     "Alka",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: telling a parent even when unsure [Revision]",
+   "description": "After a stranger asked her to come along and she froze, a girl feels ashamed and hides it at first, then decides telling her mother is safer, and the family adds a plan to it.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, commitment device, mental simulation",
+    "related mind states: anger, shame, trust"
+   ]
+  },
+  {
+   "sno": 6100,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Pallavi",
+     "Maria"
+    ],
+    "3": [
+     "Rafiq",
+     "Jomon"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A stranger asks for help",
+   "subtype": "Approach: role-play practice of saying no loudly [Action]",
+   "description": "At school, children practise shouting a firm no and running to a teacher, so that when a real situation arrives the response is a rehearsed habit rather than a frozen moment.",
+   "graph_context": [
+    "same problem, other approaches: analogy, asking an adult, avoidance and procrastination, commitment device"
+   ]
+  }
+ ]
+}

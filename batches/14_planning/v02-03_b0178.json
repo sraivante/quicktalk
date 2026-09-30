@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7531,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Jeevan"
+    ],
+    "3": [
+     "Aditi",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mental simulation",
+   "subtype": "Approach: rehearses a speech in the mind and in front of a mirror [Action]",
+   "description": "A girl preparing a class talk imagines the room, practises the opening line in front of the mirror, and notices where she forgets the second point.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7532,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Usha"
+    ],
+    "3": [
+     "Kamal",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mental simulation",
+   "subtype": "Approach: imagines the route and timings of an event day [Thinking]",
+   "description": "A student walking through the interview day in his head, from bus to waiting room, realises he had not planned where to keep his file dry in the monsoon.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7533,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Yusuf"
+    ],
+    "3": [
+     "Ujjwal",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mental simulation",
+   "subtype": "Approach: imagines only the successful path and ignores obstacles [Pitfall]",
+   "description": "A student pictures a perfect presentation, applause and all, and never rehearses what to do if the projector fails. The simulation made him feel ready without preparing him.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 7534,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Himani",
+     "Sachin"
+    ],
+    "3": [
+     "Chaitanya",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mental simulation",
+   "subtype": "Approach: simulates both success and things going wrong and prepares a response [Revision]",
+   "description": "A presenter adds a run-through of a dead laptop and a tough question, and carries a printed copy of the slides and a short prepared answer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 7535,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Zeynep",
+     "Abebe"
+    ],
+    "3": [
+     "Afreen",
+     "Sudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Contingency planning",
+   "subtype": "Approach: asks what if for the main risks and writes a plan B [Thinking]",
+   "description": "A teenager organising a cricket match asks what if it rains and arranges an indoor game or a reserved date with the school, so the day is not lost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7536,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Sabina"
+    ],
+    "3": [
+     "Parul",
+     "Chandrika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Contingency planning",
+   "subtype": "Approach: prepares a backup for the likely thing that could go wrong [Action]",
+   "description": "A student travelling for an exam by train books a bus option as well, and notes the timings, in case the train is delayed by fog.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7537,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Bidisha"
+    ],
+    "3": [
+     "Ulla",
+     "Dalia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Contingency planning",
+   "subtype": "Approach: sets triggers for switching to plan B [Action]",
+   "description": "An event organiser decides that if fewer than sixty confirmations arrive by Friday, then she will move to the smaller hall, rather than deciding under pressure on the day.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7538,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Keerthana",
+     "Charu"
+    ],
+    "3": [
+     "Mehak",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Contingency planning",
+   "subtype": "Approach: plans for so many scenarios that the main plan is neglected [Pitfall]",
+   "description": "A project lead writes backup plans for twelve risks, many of them unlikely, and runs out of time to prepare the main path, which then falters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7539,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Deepak"
+    ],
+    "3": [
+     "Keerthana",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Contingency planning",
+   "subtype": "Approach: prunes the list to the few likely, costly risks and revisits after each phase [Revision]",
+   "description": "The lead keeps three contingencies with clear triggers and reviews them at each milestone, dropping any that no longer apply.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7540,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Rehana"
+    ],
+    "3": [
+     "Yusuf",
+     "Tarun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Slack and buffers",
+   "subtype": "Approach: leaves extra time before something starts [Action]",
+   "description": "A boy who takes twenty minutes to reach the bus stop leaves at thirty because last week a friend stopped him to talk and he nearly missed the bus.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

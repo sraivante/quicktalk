@@ -1,0 +1,319 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 3980,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Tanvir"
+    ],
+    "7": [
+     "Samir",
+     "Hemant"
+    ],
+    "8": [
+     "Gurleen",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: euphemistic labelling",
+   "subtype": "Hearing harm renamed [Receiver]",
+   "description": "A student who is repeatedly mocked in a group chat is told it is only ragging or fun; the receiver's real distress is dismissed by the label and deserves to be named plainly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: playfulness",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 3981,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Arohi"
+    ],
+    "7": [
+     "Eshaan",
+     "Kiran"
+    ],
+    "8": [
+     "Aditi",
+     "Yash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: euphemistic labelling",
+   "subtype": "Naming it plainly [Response]",
+   "description": "An adult hearing that a layoff is rightsizing or that pressure is motivation asks what actually happens to whom; plain words restore moral attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 3982,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Reena",
+     "Thomas"
+    ],
+    "7": [
+     "Beatriz",
+     "Noa"
+    ],
+    "8": [
+     "Zeenat",
+     "Vasudha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: displacing and diffusing responsibility",
+   "subtype": "Only following the group [Actor]",
+   "description": "A child who joins in excluding a classmate says everyone else was doing it; when many share the act, no one feels fully responsible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3983,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Yash",
+     "Aparna"
+    ],
+    "7": [
+     "Vandana",
+     "Vaibhav"
+    ],
+    "8": [
+     "Ojas",
+     "Sudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: displacing and diffusing responsibility",
+   "subtype": "Just doing what was asked [Actor]",
+   "description": "A teenager who spreads an embarrassing photo says the friend told them to send it; responsibility is placed on the authority or the group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 3984,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Devika",
+     "Ojas"
+    ],
+    "7": [
+     "Avni",
+     "Tenzin"
+    ],
+    "8": [
+     "Maria",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: displacing and diffusing responsibility",
+   "subtype": "Bystander watching the pile-on [Observer]",
+   "description": "A student sees a group humiliate someone online and thinks that surely someone else will speak up; diffusion of responsibility makes each bystander silent, and one calm voice often breaks it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: calm, humiliation"
+   ]
+  },
+  {
+   "sno": 3985,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Jyoti",
+     "Farida"
+    ],
+    "7": [
+     "Devika",
+     "Abhinav"
+    ],
+    "8": [
+     "Afreen",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: displacing and diffusing responsibility",
+   "subtype": "Owning the decision [Response]",
+   "description": "An employee ordered to hide a defect says they understand the instruction but remain accountable for their own actions, and raises it through proper channels; conscience does not transfer to a boss.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3986,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Rehana",
+     "Gurleen"
+    ],
+    "7": [
+     "Emeka",
+     "Daniel"
+    ],
+    "8": [
+     "Aparna",
+     "Mahima"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: dehumanising",
+   "subtype": "Those kids are animals [Actor]",
+   "description": "A child from one street calls children from a rival street dirty or wild and refuses to play; labelling others as less than human makes rough treatment seem acceptable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related concepts: labelling"
+   ]
+  },
+  {
+   "sno": 3987,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Lalremsiami",
+     "Rashmi"
+    ],
+    "7": [
+     "Jeevan",
+     "Minakshi"
+    ],
+    "8": [
+     "Lokesh",
+     "Akash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: dehumanising",
+   "subtype": "Mocking a group as not real people [Actor]",
+   "description": "A teenager repeats jokes that call an outsider group stupid animals; stripping people of individual faces makes cruelty easier and empathy harder.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 3988,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Hemant",
+     "Jyoti"
+    ],
+    "7": [
+     "Shalini",
+     "Bhavna"
+    ],
+    "8": [
+     "Lokesh",
+     "Tanuja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: dehumanising",
+   "subtype": "Being treated as a thing [Receiver]",
+   "description": "A migrant student is treated like a number or a burden and not addressed by name; feeling less than human is deeply painful, and staying connected to people who see them helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: detachment, hurt"
+   ]
+  },
+  {
+   "sno": 3989,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Ayesha",
+     "Jatin"
+    ],
+    "7": [
+     "Sudha",
+     "Leela"
+    ],
+    "8": [
+     "Jomon",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Moral disengagement: dehumanising",
+   "subtype": "Restoring the face [Response]",
+   "description": "An adult who hears a group described with contempt asks about one person in it, or listens to a real story from someone there; individual faces bring back empathy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: contempt, empathy"
+   ]
+  }
+ ]
+}

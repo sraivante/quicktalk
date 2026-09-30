@@ -1,0 +1,199 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 31,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Eshaan",
+     "Ritu"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Foundational Logic",
+   "subtype": "Early Numeracy",
+   "description": "Grasping the concept of counting, quantity, and identifying \"more\" versus \"less.\""
+  },
+  {
+   "sno": 32,
+   "plan": {
+    "15": "R12+T1"
+   },
+   "cast": {
+    "15": [
+     "Bhupen",
+     "Afreen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Creativity",
+   "subtopic": "Imaginative Play",
+   "subtype": "Divergent Thinking",
+   "description": "Inventing alternative uses for everyday objects and generating imaginative scenarios during play."
+  },
+  {
+   "sno": 33,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Clara",
+     "Pablo"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Physical Literacy",
+   "subtopic": "Body Boundaries",
+   "subtype": "Spatial Coordination",
+   "description": "Understanding personal physical space, maintaining balance during active games, and honoring bodily boundaries of peers."
+  },
+  {
+   "sno": 34,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Bhupen",
+     "Vasudha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Pride",
+   "description": "Feeling satisfaction and standing taller after personal achievements.",
+   "graph_context": [
+    "related mind states: pride, contentment"
+   ]
+  },
+  {
+   "sno": 35,
+   "plan": {
+    "15": "R4+T1"
+   },
+   "cast": {
+    "15": [
+     "Eshaan",
+     "Devika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Shame",
+   "description": "Feeling fundamentally bad about oneself when failing to meet external expectations.",
+   "graph_context": [
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 36,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Rehana",
+     "Mehak"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Guilt",
+   "description": "Recognizing one has done a specific wrong action and feeling remorse for it.",
+   "graph_context": [
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 37,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Ada",
+     "Bao"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Self-Conscious Emotions",
+   "subtype": "Embarrassment",
+   "description": "Feeling sudden self-consciousness when receiving unwanted or overwhelming attention.",
+   "graph_context": [
+    "related mind states: embarrassment, overwhelm"
+   ]
+  },
+  {
+   "sno": 38,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Rosa",
+     "Mei"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Early Empathic Emotions",
+   "subtype": "Sympathy",
+   "description": "Feeling sorrow or concern upon seeing someone else's distress.",
+   "graph_context": [
+    "related mind states: sadness, empathy"
+   ]
+  },
+  {
+   "sno": 39,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Kofi",
+     "Abebe"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Early Empathic Emotions",
+   "subtype": "Concern",
+   "description": "Noticing another's pain and attempting rudimentary comfort.",
+   "graph_context": [
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 40,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Binita",
+     "Sarita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Coping",
+   "subtopic": "Emotional Regulation",
+   "subtype": "Frustration Tolerance & Self-Soothing",
+   "description": "Recovering from minor disappointments or lost games without resorting to prolonged meltdowns.",
+   "graph_context": [
+    "related mind states: disappointment, anger"
+   ]
+  }
+ ]
+}

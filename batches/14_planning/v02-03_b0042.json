@@ -1,0 +1,260 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6171,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Farida"
+    ],
+    "3": [
+     "Kavitha",
+     "Hrithik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Taking care of a pet",
+   "subtype": "Approach: sharing pet duties fairly among siblings [Action]",
+   "description": "Two sisters take turns feeding and cleaning the hamster cage on alternate days and mark a calendar, which prevents arguments about whose responsibility it is.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, seeking advice"
+   ]
+  },
+  {
+   "sno": 6172,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Gargi"
+    ],
+    "3": [
+     "Sharmila",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: short daily practice at a fixed time [Action]",
+   "description": "A girl learning harmonium practises fifteen minutes right after evening snack, and this routine makes it easier than trying to choose a time every day.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, trial by imitation, working backward"
+   ]
+  },
+  {
+   "sno": 6173,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Zubin"
+    ],
+    "3": [
+     "Pablo",
+     "Layla"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: breaking a song into small parts [Thinking]",
+   "description": "A boy stuck on a tabla piece practises the first two beats slowly, then adds the next, thinking that a hard piece is only many small easy pieces joined together.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, time-boxing, trial by imitation, working backward"
+   ]
+  },
+  {
+   "sno": 6174,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Eshaan"
+    ],
+    "3": [
+     "Anirban",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: playing only the parts already known [Pitfall]",
+   "description": "A child keeps repeating the easy opening of a song because it sounds good, and so the difficult middle never improves, and the lesson feels the same each week.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6175,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Ritu"
+    ],
+    "3": [
+     "Vidya",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: using a teacher's feedback to correct errors [Revision]",
+   "description": "After the guitar teacher points out wrong finger placement, the girl slows down, watches her hand in a mirror, and fixes the chord that kept sounding muffled.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, time-boxing, working backward"
+   ]
+  },
+  {
+   "sno": 6176,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Charu"
+    ],
+    "3": [
+     "Raghav",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: rushing to play fast [Pitfall]",
+   "description": "A boy speeds through a keyboard piece to impress his family, makes many mistakes and builds wrong habits, and his teacher asks him to use a slow metronome instead.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, seeking advice, task decomposition, time-boxing, trial by imitation, working backward"
+   ]
+  },
+  {
+   "sno": 6177,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Reena"
+    ],
+    "3": [
+     "Himani",
+     "Anjali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: setting a goal for a school concert [Thinking]",
+   "description": "Working backward from the annual day in six weeks, a girl decides to know the song by week four and use the last two weeks for polishing and playing to family.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6178,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Tenzin"
+    ],
+    "3": [
+     "Bhupen",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: quitting after the first difficult stage [Pitfall]",
+   "description": "A boy stops flute practice when his lips hurt and the notes squeak, feeling he has no talent, without realising most beginners pass through this uncomfortable phase.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, seeking advice, task decomposition, time-boxing, trial by imitation, working backward",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6179,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Aparna",
+     "Jatin"
+    ],
+    "3": [
+     "Pema",
+     "Pallavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: recording practice to hear mistakes [Action]",
+   "description": "The child records herself on her mother's phone and listens back, noticing that the rhythm slows at the change of note, and works on that place specifically.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6180,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Pranav"
+    ],
+    "3": [
+     "Arohi",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning an instrument",
+   "subtype": "Approach: practising with a friend for motivation [Action]",
+   "description": "Two friends learning violin agree to practise together on Saturdays and play for each other, which makes them keep the schedule even when they feel lazy.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, seeking advice, task decomposition, time-boxing, trial by imitation"
+   ]
+  }
+ ]
+}

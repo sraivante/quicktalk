@@ -1,0 +1,319 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5306,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Tuan",
+     "Emeka"
+    ],
+    "4": [
+     "Raghav",
+     "Nilesh"
+    ],
+    "5": [
+     "Elizabeth",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Curiosity",
+   "subtype": "Curiosity about people [Response]",
+   "description": "A young adult asks a colleague or elder open questions about their path and listens without judging. Curiosity about others builds bonds and prevents stereotyping.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 5307,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Kashish",
+     "Manjula"
+    ],
+    "4": [
+     "Shankar",
+     "Rafiq"
+    ],
+    "5": [
+     "Sharmila",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Contentment versus complacency",
+   "subtype": "Happy with enough [Actor]",
+   "description": "A child is satisfied with a simple toy and a good afternoon and does not compare it with others. Contentment at this age is fragile against advertisements and peers' possessions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, contentment"
+   ]
+  },
+  {
+   "sno": 5308,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Charu",
+     "Suraj"
+    ],
+    "4": [
+     "Bhupen",
+     "Noor"
+    ],
+    "5": [
+     "Karthik",
+     "Tanvir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Contentment versus complacency",
+   "subtype": "Comparison erodes contentment [Actor]",
+   "description": "A teenager who was fine with their phone or marks feels lacking after seeing friends' posts. Constant comparison manufactures dissatisfaction from nothing that has actually changed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 5309,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Arnab",
+     "Lokesh"
+    ],
+    "4": [
+     "Yusuf",
+     "Shalini"
+    ],
+    "5": [
+     "Tanuja",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Contentment versus complacency",
+   "subtype": "Ambition mistaken for ingratitude [Receiver]",
+   "description": "A young person who wants a bigger life is told to be satisfied with what the family has. Wanting more can coexist with gratitude, and blanket contentment can be a way of silencing dreams.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: gratitude, contentment"
+   ]
+  },
+  {
+   "sno": 5310,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jatin",
+     "Preeti"
+    ],
+    "4": [
+     "Sonali",
+     "Tushar"
+    ],
+    "5": [
+     "Uma",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Contentment versus complacency",
+   "subtype": "Contentment with striving [Response]",
+   "description": "A young professional enjoys the present and still pursues improvement without frantic urgency. This balance comes from valuing the process and not just the next rung.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: contentment, resentment"
+   ]
+  },
+  {
+   "sno": 5311,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Pallavi",
+     "Kunal"
+    ],
+    "4": [
+     "Alka",
+     "Joseph"
+    ],
+    "5": [
+     "Lucia",
+     "Dalia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Contentment versus complacency",
+   "subtype": "Seeing complacency in a team [Observer]",
+   "description": "A colleague notices a comfortable group repeating old methods and dismissing change. Success can breed complacency, and gentle questions about what is being missed can wake it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5312,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Sarika"
+    ],
+    "4": [
+     "Sonali",
+     "Nilesh"
+    ],
+    "5": [
+     "Aditi",
+     "Gautam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Letting go",
+   "subtype": "Losing a beloved object [Actor]",
+   "description": "A child cries when a favourite toy breaks or a blanket is washed away. Letting go is first practised with things, and honouring the loss briefly beats saying it is only a toy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5313,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Binita",
+     "Usha"
+    ],
+    "4": [
+     "Baljeet",
+     "Kavitha"
+    ],
+    "5": [
+     "Jeevan",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Letting go",
+   "subtype": "Ending a friendship [Actor]",
+   "description": "A child who has drifted from a close friend feels sad and disloyal. Friendships shifting is a normal experience, and space to mourn it helps the child move on.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 5314,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Baljeet",
+     "Abhinav"
+    ],
+    "4": [
+     "Anand",
+     "Santosh"
+    ],
+    "5": [
+     "Aadhya",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Letting go",
+   "subtype": "Holding on to a grudge [Actor]",
+   "description": "A teenager replays an old betrayal and refuses to forgive, feeling that forgiving means the harm did not matter. Letting go is a release for oneself and does not require reconciliation or approval of the act.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5315,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Pranav",
+     "Gautam"
+    ],
+    "4": [
+     "Fatima",
+     "Bilal"
+    ],
+    "5": [
+     "Aditi",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Letting go",
+   "subtype": "Letting go of an imagined future [Response]",
+   "description": "A student who missed a dream course mourns the life they pictured, then slowly builds interest in the path actually available. Grieving the planned future is part of making room for a real one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief, interest"
+   ]
+  }
+ ]
+}

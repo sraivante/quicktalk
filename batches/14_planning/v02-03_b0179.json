@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7541,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Salma",
+     "Imran"
+    ],
+    "3": [
+     "Noa",
+     "Felix"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Slack and buffers",
+   "subtype": "Approach: adds buffer days before a deadline [Thinking]",
+   "description": "A student planning a project due on the fifteenth aims to finish by the tenth, knowing printing and unexpected illness often delay things.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7542,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Elizabeth"
+    ],
+    "3": [
+     "Jaya",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Slack and buffers",
+   "subtype": "Approach: keeps some money aside in a monthly budget for surprises [Action]",
+   "description": "A student living on an allowance sets aside a small portion for unplanned costs, such as a repair, so that one surprise does not empty the month.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 7543,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Afreen",
+     "Zainab"
+    ],
+    "3": [
+     "Imran",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Slack and buffers",
+   "subtype": "Approach: pads every task so heavily that work expands to fill it [Pitfall]",
+   "description": "A colleague adds a large buffer to every estimate, and the team relaxes and finishes at the last minute anyway. The padding never turned into saved time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 7544,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Uday"
+    ],
+    "3": [
+     "Pema",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Slack and buffers",
+   "subtype": "Approach: keeps one shared buffer at the end of the project [Revision]",
+   "description": "The team removes padding from tasks and holds a single buffer before the deadline, using it only when a real delay occurs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7545,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Sachin"
+    ],
+    "3": [
+     "Santosh",
+     "Nilesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Minimum viable version and iteration",
+   "subtype": "Approach: builds a simple version first and improves it [Action]",
+   "description": "A boy making a model house first builds a plain cardboard box with a roof, shows his teacher, and then adds windows and paint on later days.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 7546,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Simran"
+    ],
+    "3": [
+     "Nandini",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Minimum viable version and iteration",
+   "subtype": "Approach: releases a small first version and asks users for feedback [Action]",
+   "description": "A teenager building a quiz app for classmates ships ten questions first, watches which ones friends skip, then adds more of the popular topic.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7547,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Urmila",
+     "Vijay"
+    ],
+    "3": [
+     "Vasudha",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Minimum viable version and iteration",
+   "subtype": "Approach: decides the smallest useful version and defers extras [Thinking]",
+   "description": "A student team building a campus notes site decides that upload and search are enough for launch, and pushes ratings and profiles to a later list.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7548,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Gautam",
+     "Rukmini"
+    ],
+    "3": [
+     "Chetan",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Minimum viable version and iteration",
+   "subtype": "Approach: ships something too thin to be useful and learns little [Pitfall]",
+   "description": "A founder releases a version so bare that testers cannot try the core idea. Feedback is about missing basics, not about whether the idea has value.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7549,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Ojas"
+    ],
+    "3": [
+     "Aadhya",
+     "Ganga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Minimum viable version and iteration",
+   "subtype": "Approach: revises the minimum to include the core value and repeats short cycles [Revision]",
+   "description": "After weak feedback, she adds the one feature that made the idea worthwhile and runs two-week cycles, changing things based on what users actually do.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7550,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Farida"
+    ],
+    "3": [
+     "Ujjwal",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Experiments and measurement",
+   "subtype": "Approach: changes one variable and measures the result [Action]",
+   "description": "A student testing whether music helps study times himself doing the same sums with and without music across a week, and records the scores in a table.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 271,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Gopika",
+     "Ojas"
+    ],
+    "10": [
+     "Nirmala",
+     "Chetan"
+    ],
+    "11": [
+     "Chandrika",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Collaboration",
+   "subtype": "Remote & Hybrid Teamwork",
+   "description": "Communicating asynchronously and building trust with distant colleagues.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 272,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Ramesh",
+     "Arnab"
+    ],
+    "10": [
+     "Harish",
+     "Lavanya"
+    ],
+    "11": [
+     "Jahnavi",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Leadership",
+   "subtopic": "Team Leadership",
+   "subtype": "Leading Small Teams & Projects",
+   "description": "Setting direction, dividing work and handling underperformance kindly."
+  },
+  {
+   "sno": 273,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Anand",
+     "Sudha"
+    ],
+    "10": [
+     "Sarita",
+     "Alka"
+    ],
+    "11": [
+     "Kunal",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Credit & Debt",
+   "subtype": "Loans, Credit Scores & Debt Traps",
+   "description": "Understanding interest, EMIs, credit cards and how debt compounds.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 274,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Dolma",
+     "Siddharth"
+    ],
+    "10": [
+     "Jatin",
+     "Damini"
+    ],
+    "11": [
+     "Mahima",
+     "Vinita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Risk Cover",
+   "subtype": "Taxes & Insurance Basics",
+   "description": "Understanding income tax, health/life insurance and why cover matters early."
+  },
+  {
+   "sno": 275,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Sabina",
+     "Ujjwal"
+    ],
+    "10": [
+     "Keerthana",
+     "Lalit"
+    ],
+    "11": [
+     "Sachin",
+     "Farhan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Investing",
+   "subtype": "Compounding, SIPs & Risk Appetite",
+   "description": "Starting small investments, understanding diversification and avoiding get-rich-quick schemes."
+  },
+  {
+   "sno": 276,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Akash",
+     "Vishal"
+    ],
+    "10": [
+     "Neelam",
+     "Anirban"
+    ],
+    "11": [
+     "Omkar",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Civic & Relational",
+   "subtopic": "Legal Literacy",
+   "subtype": "Rights, Contracts & Cyber Law Basics",
+   "description": "Reading agreements and knowing basic rights, tenancy, workplace and cyber-law obligations."
+  },
+  {
+   "sno": 277,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Ayesha",
+     "Neelam"
+    ],
+    "10": [
+     "Seema",
+     "Disha"
+    ],
+    "11": [
+     "Jahnavi",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Health",
+   "subtopic": "Healthcare Navigation",
+   "subtype": "Choosing Doctors, Records & Insurance Claims",
+   "description": "Navigating healthcare systems, preventive checkups and medical decisions."
+  },
+  {
+   "sno": 278,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Kashish",
+     "Madhuri"
+    ],
+    "10": [
+     "Payal",
+     "Sabina"
+    ],
+    "11": [
+     "Uday",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Morality",
+   "subtopic": "Career Ethics",
+   "subtype": "Moral Dilemmas Under Financial Pressure",
+   "description": "Deciding when to refuse unethical work and how much career risk to bear."
+  },
+  {
+   "sno": 279,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Imran",
+     "Anand"
+    ],
+    "10": [
+     "Sachin",
+     "Noor"
+    ],
+    "11": [
+     "Tuan",
+     "Noa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cultural",
+   "subtopic": "Intercultural Competence",
+   "subtype": "Working & Living Across Cultures",
+   "description": "Adapting communication styles and respecting different work and social norms.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 280,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Chandrika",
+     "Hemant"
+    ],
+    "10": [
+     "Sahil",
+     "Amandeep"
+    ],
+    "11": [
+     "Kavitha",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Spiritual / Meaning",
+   "subtopic": "Purpose",
+   "subtype": "Meaning, Purpose & Life Direction",
+   "description": "Exploring what makes work and life worthwhile beyond salary and status."
+  }
+ ]
+}

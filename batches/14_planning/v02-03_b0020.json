@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5951,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Indu",
+     "Nazia"
+    ],
+    "3": [
+     "Trisha",
+     "Vijay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: dreaming up ideas and then choosing one [Thinking]",
+   "description": "A girl brainstorms a treasure hunt, a movie and a pizza party, then compares them for cost, space and fun. She picks the treasure hunt because it works in their small flat.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, contingency planning, copying without fit, mental simulation, resource and budget planning",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5952,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Vijay"
+    ],
+    "3": [
+     "Yusuf",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: writing a to-do list and dividing jobs at home [Action]",
+   "description": "A child lists cake, invitations, decorations and games, and asks siblings and parents to take a job each. He makes the invitations himself, because he is good at drawing.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, copying without fit, mental simulation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 5953,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Abhinav"
+    ],
+    "3": [
+     "Afreen",
+     "Deepak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: planning only the fun parts and ignoring food and time [Pitfall]",
+   "description": "A girl plans five games but forgets snacks and how long each takes. On the day, kids get hungry at 5 pm and the games run beyond the time when parents come to pick them up.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, copying without fit, mental simulation, resource and budget planning",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5954,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Afreen"
+    ],
+    "3": [
+     "Paulo",
+     "Noa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: preparing a plan B in case it rains [Thinking]",
+   "description": "A boy plans a party in the park and then asks what if it rains. He decides the living room can be cleared for indoor games so the celebration does not get cancelled.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, copying without fit, mental simulation, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 5955,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Bidisha"
+    ],
+    "3": [
+     "Vasudha",
+     "Jyoti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: imagining the party hour by hour in his head [Thinking]",
+   "description": "A girl walks through the party in her mind, arrival, games, cake, going home, and notices she has no plan for shy guests. She adds an easy team game where everybody has a role.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, copying without fit, resource and budget planning",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 5956,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Disha"
+    ],
+    "3": [
+     "Anand",
+     "Samir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: checking the budget with a parent and trimming [Revision]",
+   "description": "The costs of balloons, return gifts and cake exceed what a parent set aside. The child cuts return gifts to small pencil sets and makes decorations from coloured paper at home.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, copying without fit, mental simulation"
+   ]
+  },
+  {
+   "sno": 5957,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Irawati"
+    ],
+    "3": [
+     "Thomas",
+     "Tanvir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: insisting on copying a friend's grand party [Pitfall]",
+   "description": "A boy wants a bouncy castle and a magician because his classmate had them. His family cannot afford it, and he feels upset and disappointed until he thinks about what he himself enjoys.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, contingency planning, mental simulation, resource and budget planning",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 5958,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Jahnavi"
+    ],
+    "3": [
+     "Binita",
+     "Hrithik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a birthday party",
+   "subtype": "Approach: changing the game when guests look bored [Revision]",
+   "description": "During the party the quiet chair game is falling flat. The birthday girl notices restless friends and switches to a running game in the garden, so everyone has fun again.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, contingency planning, copying without fit, mental simulation, resource and budget planning",
+    "related mind states: playfulness, boredom"
+   ]
+  },
+  {
+   "sno": 5959,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Madhav"
+    ],
+    "3": [
+     "Sabina",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: calming down before deciding what to do [Thinking]",
+   "description": "After a fight over a borrowed pen, a girl feels hot with anger. She decides not to say anything then, sits with a book at lunch and thinks about it after she feels calmer.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 5960,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Jasleen"
+    ],
+    "3": [
+     "Siddharth",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Making up after friend fight",
+   "subtype": "Approach: working out what actually happened [Thinking]",
+   "description": "A boy thinks back over the quarrel and realises he laughed when his friend dropped his tiffin, and the friend thought he was being mocked. Seeing the friend's side changes what he wants to say.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, seeking advice",
+    "related mind states: amusement"
+   ]
+  }
+ ]
+}

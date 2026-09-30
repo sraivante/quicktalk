@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1338,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Ira"
+    ],
+    "3": [
+     "Nirmala",
+     "Nilesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Contact and boundaries [Actor]",
+   "description": "You want to text them at night. Wise: decide about contact consciously, mute if needed, and let time do its work. Immature: testing if they still care or using friends to keep tabs.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred"
+   ]
+  },
+  {
+   "sno": 1339,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Binita"
+    ],
+    "3": [
+     "Suraj",
+     "Sachin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Staying friends [Actor]",
+   "description": "You try friendship but one of you still hopes. Wise: honestly ask whether it hurts more than helps and give it distance first. Immature: staying close to keep a door open.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred",
+    "related mind states: hope, hurt"
+   ]
+  },
+  {
+   "sno": 1340,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Nazia",
+     "Vikas"
+    ],
+    "3": [
+     "Vishal",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Resentment [Actor]",
+   "description": "You replay how they wronged you and feel bitter. Wise: allow anger as information, then let it go for your own peace. Harmful: spreading their private matters or turning friends against them.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred",
+    "related mind states: anger, calm, resentment"
+   ]
+  },
+  {
+   "sno": 1341,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Sharmila"
+    ],
+    "3": [
+     "Hiroshi",
+     "Tariq"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Being stalked or harassed [Receiver]",
+   "description": "An ex keeps contacting you after you said no. Wise: say a clear final no, block, save evidence, and tell family, friends or authorities. It is not your fault and safety comes first.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1342,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Nandini"
+    ],
+    "3": [
+     "Raghav",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Obsession after breakup [Actor]",
+   "description": "You cannot stop watching their life and feel unable to move on. Wise: recognise this as pain, not love, and seek support such as a friend or counsellor. Harmful: showing up, monitoring or threatening.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred",
+    "related mind states: affection, hurt"
+   ]
+  },
+  {
+   "sno": 1343,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Afreen",
+     "Madhav"
+    ],
+    "3": [
+     "Sarita",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Sharing private images or messages [Receiver]",
+   "description": "Fear that an ex will leak private material. Wise: it is a crime and not your shame, so keep evidence and report to the cyber cell or a trusted adult. Harmful: bearing it alone.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, gratitude, grief, hatred, obsession",
+    "related mind states: fear, shame, trust"
+   ]
+  },
+  {
+   "sno": 1344,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Samir",
+     "Hrithik"
+    ],
+    "3": [
+     "Jasleen",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Family pressure after breakup [Receiver]",
+   "description": "Parents learn of the relationship and the breakup and judge you. Wise: seek compassion, tell only what you choose, and see this as learning, not disgrace. Immature: lying deeper or shutting down.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, generosity, gratitude, grief, hatred, obsession",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 1345,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Jagdish"
+    ],
+    "3": [
+     "Nour",
+     "Paulo"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Meeting again by chance [Actor]",
+   "description": "You bump into your ex at a friend's gathering. Wise: be polite, brief and calm; you owe neither a scene nor a friendship. Immature: performing happiness or sniping.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity, gratitude, grief, hatred",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 1346,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Sarita"
+    ],
+    "3": [
+     "Aadhya",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Relationship ends",
+   "subtype": "Ex-partner × Acceptance and growth [Actor]",
+   "description": "Months later you can think of them without hurt. Wise: take lessons about your patterns and needs, without rewriting the past as all bad or all good. Immature: swearing off love.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, generosity, gratitude, grief, hatred, obsession",
+    "related mind states: affection, hurt"
+   ]
+  },
+  {
+   "sno": 1347,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Anand"
+    ],
+    "3": [
+     "Minakshi",
+     "Vasudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy boundaries and consent",
+   "subtype": "Partner × Consent and respect [Actor]",
+   "description": "You want closeness and must ask and listen, not assume. Wise: consent is clear, freely given and can change; a hesitation or silence is not a yes. Harmful: pressure, guilt or persistence.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, coercion, generosity",
+    "related mind states: admiration, guilt"
+   ]
+  }
+ ]
+}

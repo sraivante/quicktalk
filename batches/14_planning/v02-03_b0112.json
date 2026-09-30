@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6871,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Santosh"
+    ],
+    "3": [
+     "Damini",
+     "Pankaj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: rebuild a schedule after a salary change [Revision]",
+   "description": "After a raise, the borrower recalculates the payoff date in a spreadsheet, increases the EMI slightly and sets a reminder to review every six months. Small planned revisions keep the loan on track.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, resource and budget planning, working backward"
+   ]
+  },
+  {
+   "sno": 6872,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nilesh",
+     "Saurabh"
+    ],
+    "3": [
+     "Sudha",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: pre-mortem on missing payments [Thinking]",
+   "description": "The borrower imagines defaulting in year two and lists causes such as job loss or a medical bill, then keeps a small reserve and a note of who to call at the bank. Foreseeing failure builds a cushion.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, prioritising, pros and cons, resource and budget planning, working backward"
+   ]
+  },
+  {
+   "sno": 6873,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Madhav"
+    ],
+    "3": [
+     "Suraj",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: set up auto-debit with a reminder [Action]",
+   "description": "The graduate links the EMI to auto-debit a day after salary credit and sets a balance alert. Automation avoids forgetting due dates, though the balance still needs watching.",
+   "graph_context": [
+    "same problem, other approaches: pre-mortem, prioritising, pros and cons, resource and budget planning, working backward"
+   ]
+  },
+  {
+   "sno": 6874,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Mridul"
+    ],
+    "3": [
+     "Ramesh",
+     "Imran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: inversion asking how the offer could be a trap [Thinking]",
+   "description": "A student offered a promised monthly return of 10 percent by a college senior asks what would have to be true for that to be real, and sees that no lawful investment guarantees it. Imagining the trap first reveals warning signs.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action"
+   ]
+  },
+  {
+   "sno": 6875,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Chinmay"
+    ],
+    "3": [
+     "Sudha",
+     "Seema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: check registration with the regulator before paying [Action]",
+   "description": "Before sending money, the person looks up whether the platform and the adviser are registered with SEBI or the relevant regulator, and reads reviews and complaints. A few minutes of checking replaces trust in a persuasive pitch.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, inversion",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6876,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Bhavna",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Hrithik",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: fear of missing out drives a quick decision [Pitfall]",
+   "description": "Seeing friends post screenshots of gains, a young worker rushes into a Telegram tip group and transfers savings within an hour. Social proof and urgency shut down checking, and the money cannot be recovered.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, inversion",
+    "related mind states: fear",
+    "related concepts: social proof"
+   ]
+  },
+  {
+   "sno": 6877,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Sumit"
+    ],
+    "3": [
+     "Deepak",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: slow down and sleep on any pressured offer [Thinking]",
+   "description": "The person adopts a rule of waiting 48 hours before any money moves for an investment. Time reduces the pull of urgency, and a genuine opportunity would still be there after the wait.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, inversion"
+   ]
+  },
+  {
+   "sno": 6878,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Jin",
+     "Jamal"
+    ],
+    "3": [
+     "Rehana",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: consult a trusted family member or a registered adviser [Action]",
+   "description": "The student shows the offer to an uncle who works in a bank and to a registered adviser. Both point out unrealistic returns and the absence of paperwork, and the student declines with confidence.",
+   "graph_context": [
+    "same problem, other approaches: cutting losses, impulsive action, inversion",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6879,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Nikita"
+    ],
+    "3": [
+     "Preeti",
+     "Ritu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: small test amount that grows into a big commitment [Pitfall]",
+   "description": "A first small payout from a fake app builds trust, so the person invests a larger sum and recruits friends. The early gain was bait, and the pattern of sunk cost keeps the person paying.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, inversion",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6880,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Imran",
+     "Sachin"
+    ],
+    "3": [
+     "Alejandro",
+     "Dalia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Avoiding a scam investment",
+   "subtype": "Approach: report and stop after noticing withdrawal blocks [Revision]",
+   "description": "When the app asks for a further fee to release money, the person sees the pattern, stops paying, saves the chats and screenshots, and files a complaint on the cybercrime portal and with the bank. Cutting losses early limits harm.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, inversion",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

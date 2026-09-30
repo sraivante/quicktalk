@@ -1,0 +1,213 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5336,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Madhuri"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Starting a conversation",
+   "subtype": "Reading availability [Observer]",
+   "description": "Someone notices another person wearing earphones, hurried or turned away and holds off on starting a chat. Reading cues avoids intrusion and improves the odds of a warm reply.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 5337,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Ramesh",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Starting a conversation",
+   "subtype": "Being approached [Receiver]",
+   "description": "A person sitting alone is greeted by a stranger and feels relief mixed with wariness. A warm reply and one question back rewards the effort of the person who took the risk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: anger, relief"
+   ]
+  },
+  {
+   "sno": 5338,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Uma",
+     "Baljeet"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Ending a conversation",
+   "subtype": "Abrupt leaving [Actor]",
+   "description": "A child simply runs off mid-sentence when something more interesting appears. Learning to say bye or I will go now is a small social skill that adults must model.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5339,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Tarun",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Ending a conversation",
+   "subtype": "Difficulty closing [Actor]",
+   "description": "A child keeps talking, unable to end a phone call with a grandparent. Ending politely needs a signal such as okay, I have to go, and a warm closing phrase.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5340,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Madhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Ending a conversation",
+   "subtype": "Graceful exit [Response]",
+   "description": "A student at a party says it was great talking, I am going to grab some food, and leaves warmly. A clear positive closing keeps the door open for next time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5341,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Yogesh",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Ending a conversation",
+   "subtype": "Sudden cut-off felt [Receiver]",
+   "description": "A person whose colleague ends a chat mid-thought with a glance at the phone feels dismissed. Closure shown with a promise to continue later softens the sting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22"
+   ]
+  },
+  {
+   "sno": 5342,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Irawati",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Ending a conversation",
+   "subtype": "Ending a long-winded talker [Response]",
+   "description": "A listener gently interrupts with a summary and a thanks, then names the next thing they must do. Kind, clear endings protect time without insulting the speaker.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 5343,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Elizabeth"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Storytelling and narrative identity",
+   "subtype": "Simple retelling [Actor]",
+   "description": "A toddler points at a picture and babbles the sequence of what happened at the park. Recounting begins as fragments, and adults who echo them build language and memory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5344,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Charu",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Storytelling and narrative identity",
+   "subtype": "Tall tales [Actor]",
+   "description": "A child tells an exaggerated story about a huge dog or a flying dream. Imagination and lying are still blurred, and adults can enjoy the story while keeping a gentle line on facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5345,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Aditi",
+     "Kashish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Storytelling and narrative identity",
+   "subtype": "Family stories shaping self [Receiver]",
+   "description": "A child hears repeatedly the story of how they were born, how the family struggled or what a grandfather did. Family narratives give a child a place and a sense of belonging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 23–26",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

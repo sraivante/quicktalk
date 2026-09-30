@@ -1,0 +1,200 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 61,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Vasudha",
+     "Sharmila"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Jealousy",
+   "description": "Fearing the loss of a friend, attention, or status to a peer rival.",
+   "graph_context": [
+    "related mind states: fear, jealousy"
+   ]
+  },
+  {
+   "sno": 62,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Maria",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Envy",
+   "description": "Desiring the traits, belongings, or social standing that another peer possesses.",
+   "graph_context": [
+    "related mind states: envy, nostalgia"
+   ]
+  },
+  {
+   "sno": 63,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Dolma",
+     "Irawati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Belonging",
+   "description": "Finding intense emotional security and validation in being accepted by a peer group.",
+   "graph_context": [
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 64,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Layla",
+     "Vera"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Inadequacy",
+   "description": "Feeling inferior when comparing one's own abilities or social standing to peers.",
+   "graph_context": [
+    "related mind states: insecurity"
+   ]
+  },
+  {
+   "sno": 65,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Ira",
+     "Tanvir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Indignation",
+   "description": "Reacting with emotional heat to perceived unfairness, cheating, or rule-breaking."
+  },
+  {
+   "sno": 66,
+   "plan": {
+    "15": "R5+T1"
+   },
+   "cast": {
+    "15": [
+     "Kunal",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Gratitude",
+   "description": "Recognizing and feeling thankful for others' intentional acts of kindness.",
+   "graph_context": [
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 67,
+   "plan": {
+    "15": "R5+T1"
+   },
+   "cast": {
+    "15": [
+     "Sabina",
+     "Mridul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Righteousness",
+   "description": "Feeling emotionally validated by upholding shared rules and group morality."
+  },
+  {
+   "sno": 68,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Bhavna",
+     "Charu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Coping",
+   "subtopic": "Perseverance",
+   "subtype": "Grit & Failure Recovery",
+   "description": "Maintaining steady effort toward long-term goals and bouncing back after poor test scores or sports losses.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 69,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Amandeep",
+     "Ira"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Humor",
+   "subtopic": "Social Wit",
+   "subtype": "Wit & Wordplay Comprehension",
+   "description": "Understanding puns, riddle logic, sarcasm, and lighthearted teasing without misinterpreting it as malice."
+  },
+  {
+   "sno": 70,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Tuan",
+     "Diego"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Conventional Morality",
+   "description": "Internalizing fairness, social order, and rule-following based on mutual trust and reciprocity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

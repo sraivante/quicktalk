@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 918,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Mridul"
+    ],
+    "3": [
+     "Harish",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing prejudice",
+   "subtype": "Teacher × Fairness [Receiver]",
+   "description": "A teacher treats all children equally regardless of background, and I notice. It makes me feel safe, and teaches me that fairness is a choice adults make.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, guilt, prejudice",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 919,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Pooja"
+    ],
+    "3": [
+     "Chinmay",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Witnessing prejudice",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I laughed at a joke about someone's caste or religion and later feel bad. That feeling is my conscience. I can apologise and avoid such jokes next time.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fairness, prejudice",
+    "related mind states: amusement, guilt"
+   ]
+  },
+  {
+   "sno": 920,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Damini",
+     "Deepak"
+    ],
+    "3": [
+     "Nirmala",
+     "Vasudha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Nature × Awe [Actor]",
+   "description": "I watch rain or a big tree and feel amazed. Wonder makes me want to protect nature, and simple things like planting a sapling connect me to it.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, fear, mockery, respect",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 921,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Anirban",
+     "Farhan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Animals × Compassion [Actor]",
+   "description": "I see a stray dog thirsty in the heat and put out water. Small kindness to animals grows my heart, and I learn to be careful and tell an adult first.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, fear, mockery, respect",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 922,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Nilesh"
+    ],
+    "3": [
+     "Tarun",
+     "Maria"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Family × Habit [Actor]",
+   "description": "We waste water and burn plastic at home, and I feel uneasy. I can suggest small changes politely, like a bucket for washing, without shaming my parents.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, compassion, fear, mockery, respect",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 923,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Pallavi"
+    ],
+    "3": [
+     "Lokesh",
+     "Chaitanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Classmate × Mockery [Receiver]",
+   "description": "Classmates laugh when I pick up litter. I feel embarrassed but I believe it matters. Doing the right thing even when laughed at shows quiet strength, and others may follow.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, compassion, fear, respect",
+    "related mind states: amusement, embarrassment"
+   ]
+  },
+  {
+   "sno": 924,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Nilesh"
+    ],
+    "3": [
+     "Ujjwal",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Self × Fear [Actor]",
+   "description": "I hear about climate change and become anxious about the future. That is understandable. I can talk to an adult and focus on small steps that are within my control.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, compassion, mockery, respect",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 925,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Karthik"
+    ],
+    "3": [
+     "Bidisha",
+     "Noor"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Farmer or worker × Respect [Actor]",
+   "description": "I learn how a farmer grows my food and how a sweeper keeps streets clean. Respect for those who work with their hands makes me waste less and thank them.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, compassion, fear, mockery",
+    "related mind states: gratitude, admiration, sadness"
+   ]
+  },
+  {
+   "sno": 926,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Nandini"
+    ],
+    "3": [
+     "Charu",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Caring for the environment",
+   "subtype": "Animal × Fear [Actor]",
+   "description": "I am scared of a big dog or a snake. Fear keeps me safe; I keep distance, ask adults and learn about animals so I do not react with cruelty.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, compassion, mockery, respect",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 927,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Zainab"
+    ],
+    "3": [
+     "Simran",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing a test",
+   "subtype": "Self × Shame [Actor]",
+   "description": "I failed and I feel like the whole class knows I am stupid. Shame makes me hide, but a failed test is information about what to practise, not a label on me.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, mockery",
+    "related mind states: shame"
+   ]
+  }
+ ]
+}

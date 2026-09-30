@@ -1,0 +1,289 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 211,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Ritu",
+     "Sarita"
+    ],
+    "10": [
+     "Francis",
+     "Akash"
+    ],
+    "11": [
+     "Uma",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cultural",
+   "subtopic": "Heritage",
+   "subtype": "Epics, Folk Tales & Local History",
+   "description": "Learning shared stories, their morals and the history of one's region."
+  },
+  {
+   "sno": 212,
+   "plan": {
+    "9": "R5",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Mohit",
+     "Harsha"
+    ],
+    "10": [
+     "Parveen",
+     "Bidisha"
+    ],
+    "11": [
+     "Jamal",
+     "Hiroshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cultural",
+   "subtopic": "Intercultural Respect",
+   "subtype": "Respect for Other Faiths & Festivals",
+   "description": "Learning about and respecting practices different from one's own.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 213,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Kiran",
+     "Francis"
+    ],
+    "10": [
+     "Leela",
+     "Sumit"
+    ],
+    "11": [
+     "Mehak",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Spiritual",
+   "subtopic": "Contemplative Practice",
+   "subtype": "Prayer, Silence & Gratitude Habit",
+   "description": "Participating in rituals and short reflection or gratitude practice.",
+   "graph_context": [
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 214,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Tenzin",
+     "Rashmi"
+    ],
+    "10": [
+     "Kalyani",
+     "Chandrika"
+    ],
+    "11": [
+     "Lalremsiami",
+     "Santosh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Vocational",
+   "subtopic": "Interest Discovery",
+   "subtype": "Hobbies, Talents & Early Aspirations",
+   "description": "Trying many activities and noticing what absorbs one's attention."
+  },
+  {
+   "sno": 215,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Deepak",
+     "Jahnavi"
+    ],
+    "10": [
+     "Manoj",
+     "Hafsa"
+    ],
+    "11": [
+     "Mahima",
+     "Anjali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Environment",
+   "subtopic": "Sustainability",
+   "subtype": "Waste, Water & Energy Habits",
+   "description": "Reducing waste, saving water and energy in daily life."
+  },
+  {
+   "sno": 216,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Bhupen",
+     "Avni"
+    ],
+    "10": [
+     "Preeti",
+     "Pema"
+    ],
+    "11": [
+     "Simran",
+     "Ujjwal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Family",
+   "subtopic": "Family Roles",
+   "subtype": "Siblings & Grandparents",
+   "description": "Managing sibling rivalry, caring for younger ones and learning from grandparents."
+  },
+  {
+   "sno": 217,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Chinmay",
+     "Neelam"
+    ],
+    "10": [
+     "Leela",
+     "Vidya"
+    ],
+    "11": [
+     "Beatriz",
+     "Ines"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Learning Strategies",
+   "subtype": "Deep Focus & Exam Strategy",
+   "description": "Planning revision, resisting distraction and handling high-stakes exams."
+  },
+  {
+   "sno": 218,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Jaya",
+     "Kashish"
+    ],
+    "10": [
+     "Hafsa",
+     "Lokesh"
+    ],
+    "11": [
+     "Manoj",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Argumentation",
+   "subtype": "Debate & Constructing Arguments",
+   "description": "Building claims with evidence and answering counter-arguments fairly."
+  },
+  {
+   "sno": 219,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Abhinav",
+     "Sahil"
+    ],
+    "10": [
+     "Darshan",
+     "Mehak"
+    ],
+    "11": [
+     "Varun",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Quantitative Reasoning",
+   "subtype": "Statistics & Probability Intuition",
+   "description": "Reading averages, percentages and risk without being fooled by numbers.",
+   "graph_context": [
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 220,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Farida",
+     "Madhav"
+    ],
+    "10": [
+     "Neelam",
+     "Hansa"
+    ],
+    "11": [
+     "Dhruv",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Scientific Literacy",
+   "subtype": "Evidence, Correlation vs. Causation",
+   "description": "Judging claims by evidence quality rather than authority or repetition."
+  }
+ ]
+}

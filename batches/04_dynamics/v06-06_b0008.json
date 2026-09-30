@@ -1,0 +1,232 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2978,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Jagdish",
+     "Nitin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 5: Fading without a fight [Receiver]",
+   "description": "The one left behind feels a dull ache and wonders what he did. Children rarely explain a drift, so the hurt one may assume rejection when the real cause is only busier days and new company.",
+   "graph_context": [
+    "previous stage: Changing interests and groups",
+    "next stage: Keeping kindness through change",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: curiosity, awe, hurt"
+   ]
+  },
+  {
+   "sno": 2979,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 6: Keeping kindness through change [Response]",
+   "description": "A parent helps the child say hello, invite the old friend to one game, and accept that friends can be different for different seasons. Loss is real, but it does not mean the friendship was false.",
+   "graph_context": [
+    "previous stage: Fading without a fight",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 2980,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Yamini",
+     "Sudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 1: New environment, open door [Actor]",
+   "description": "In a hostel or first job city, a young adult lonely and eager says yes to every invitation. Shared meals, late-night chats and mutual homesickness create quick intimacy that feels stronger than it yet is.",
+   "graph_context": [
+    "next stage: Deepening through disclosure",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: excitement, loneliness, nostalgia"
+   ]
+  },
+  {
+   "sno": 2981,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Hansa",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 2: Deepening through disclosure [Actor]",
+   "description": "They tell each other family troubles, fears about careers and old heartbreaks. Reciprocal self-disclosure is what makes a friendship real, and each is measuring whether the other responds with care.",
+   "graph_context": [
+    "previous stage: New environment, open door",
+    "next stage: Routine and a core group",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 2982,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Shreya",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 3: Routine and a core group [Observer]",
+   "description": "An outsider sees the group eating, studying and travelling together and taking it for granted. The comfort is real, but so is the unspoken pressure to stay in the group and not seek other friends.",
+   "graph_context": [
+    "previous stage: Deepening through disclosure",
+    "next stage: Divergence",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 2983,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Ganga",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 4: Divergence [Actor]",
+   "description": "One friend gets a placement in another city, another falls into a relationship, a third struggles with money. Calls turn into likes on posts, and both feel guilty for being the one who did not call.",
+   "graph_context": [
+    "previous stage: Routine and a core group",
+    "next stage: Fading and quiet grief",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 2984,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Mahima",
+     "Vinita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 5: Fading and quiet grief [Receiver]",
+   "description": "One realises months have passed since a real conversation and feels sadness with no single event to blame. Ordinary fading is easy to overlook, and it can hurt like a loss without permission to mourn.",
+   "graph_context": [
+    "previous stage: Divergence",
+    "next stage: Choosing what to keep",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: sadness, grief, hurt"
+   ]
+  },
+  {
+   "sno": 2985,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Alka",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 6: Choosing what to keep [Response]",
+   "description": "Instead of waiting for the old closeness, one sends a specific message like \"I was thinking of our Sunday chai. Can we talk this weekend?\" Some ties deserve effort; others can be let go with thanks.",
+   "graph_context": [
+    "previous stage: Fading and quiet grief",
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 2986,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Kashish",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship betrayal to reconciliation or ending",
+   "subtype": "Stage 1: Trust and a shared secret [Receiver]",
+   "description": "A teenager tells her closest friend about her crush and her family's money worries. Telling was an act of love and trust, and she feels lighter having been known.",
+   "graph_context": [
+    "next stage: The betrayal",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: affection, anxiety, trust"
+   ]
+  },
+  {
+   "sno": 2987,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Madhuri",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship betrayal to reconciliation or ending",
+   "subtype": "Stage 2: The betrayal [Actor]",
+   "description": "The friend, wanting to seem interesting to a new group, lets the secret slip. In the moment she tells herself it is not a big deal, and only later does she feel the weight of what she did.",
+   "graph_context": [
+    "previous stage: Trust and a shared secret",
+    "next stage: Discovery and shock",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

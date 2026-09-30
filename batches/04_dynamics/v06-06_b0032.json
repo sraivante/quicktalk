@@ -1,0 +1,228 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3218,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Hansa",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 2: Shame and global verdict [Actor]",
+   "description": "A teenager who failed an entrance test decides they are stupid and a burden to the family. One event becomes a verdict on the whole self, especially where marks carry family expectations.",
+   "graph_context": [
+    "next stage: Blame and hiding",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3219,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 3: Blame and hiding [Actor]",
+   "description": "The person blames the teacher, the paper or bad luck, or avoids telling parents and friends. Deflecting shields from pain in the short term and blocks any learning from what happened.",
+   "graph_context": [
+    "previous stage: Shame and global verdict",
+    "next stage: Facing family and peers",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3220,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Madhav",
+     "Harsha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 4: Facing family and peers [Observer]",
+   "description": "A cousin or teacher watches a teen return after a bad result and hears the family compare them with others. A quiet word that one result is not the person, and an offer to plan next steps, matters.",
+   "graph_context": [
+    "previous stage: Blame and hiding",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3221,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Ramesh",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 4: Facing family and peers [Receiver]",
+   "description": "After a failed exam or startup, others offer pity, advice or comparison with cousins. Support that carries no judgment, and just listens, helps the person get back to their feet.",
+   "graph_context": [
+    "next stage: Grieving the lost plan",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3222,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Kunal",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 5: Grieving the lost plan [Actor]",
+   "description": "The person mourns the future they had pictured, with sadness, envy of peers and doubts about direction. Allowing this grief, rather than rushing to a positive story, is part of moving on.",
+   "graph_context": [
+    "previous stage: Facing family and peers",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: sadness, grief, doubt, envy"
+   ]
+  },
+  {
+   "sno": 3223,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Zubin",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 6: Honest review [Response]",
+   "description": "After the first pain eases, the person asks what was in their control, what was luck and what to change. A fair look at causes, neither self-flagellation nor excuses, turns failure into information.",
+   "graph_context": [
+    "next stage: Small steps back",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3224,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Nitin",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 7: Small steps back [Response]",
+   "description": "The person tries again at a smaller scale, such as a retake, a side project or a new role, and collects small wins. Confidence returns through action, not by thinking one's way to it.",
+   "graph_context": [
+    "previous stage: Honest review",
+    "next stage: Story rewritten",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3225,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Shalini",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 8: Story rewritten [Response]",
+   "description": "Years later the failure is remembered as a hard chapter that taught resilience and clarified values. The person can speak of it plainly and can support others facing the same.",
+   "graph_context": [
+    "previous stage: Small steps back",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3226,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Yogesh",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Imposter feelings at a new job",
+   "subtype": "Stage 1: Arrival and anxiety [Actor]",
+   "description": "A fresh graduate joins a company and sees confident colleagues using unfamiliar terms. The excitement of being hired mixes with the worry that the selection was a mistake.",
+   "graph_context": [
+    "next stage: Overworking to hide gaps",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anxiety, excitement",
+    "related concepts: imposter feelings"
+   ]
+  },
+  {
+   "sno": 3227,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Imposter feelings at a new job",
+   "subtype": "Stage 2: Overworking to hide gaps [Actor]",
+   "description": "The new hire stays late, avoids asking questions and quietly studies at night to catch up. Not asking for help feels safer than exposing ignorance, but it slows learning.",
+   "graph_context": [
+    "previous stage: Arrival and anxiety",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust",
+    "related concepts: imposter feelings"
+   ]
+  }
+ ]
+}

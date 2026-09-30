@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1718,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Yogesh"
+    ],
+    "3": [
+     "Minakshi",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Sibling × Greed [Receiver]",
+   "description": "My sibling is pushing hard for a bigger share of family money or land and I feel angry and betrayed. I put agreements in writing, use a neutral elder or lawyer, and avoid cutting the relationship over one dispute if repair is possible.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, favouritism, grief, guilt, protectiveness, resentment",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1719,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Wasim",
+     "Pankaj"
+    ],
+    "3": [
+     "Shalini",
+     "Minakshi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Parent × Favouritism [Receiver]",
+   "description": "My parents openly favour a sibling in gifts, praise, or the will and I feel unseen and hurt. I say it calmly to them if safe, do not turn it into war with my sibling, and build my worth outside their approval.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, grief, guilt, protectiveness, resentment, rivalry",
+    "related mind states: calm, trust, hurt"
+   ]
+  },
+  {
+   "sno": 1720,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Kamal",
+     "Anjali"
+    ],
+    "3": [
+     "Chandrika",
+     "Bhavna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Sibling × Protectiveness [Actor]",
+   "description": "I feel protective of my younger sibling as they start their life and I want to steer them. I offer support and listen, and I accept that their choices are theirs; controlling them out of love is still control.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, favouritism, grief, guilt, resentment, rivalry",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1721,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Naveen",
+     "Nitin"
+    ],
+    "3": [
+     "Rajni",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Sibling × Affection [Receiver]",
+   "description": "My sibling turns to me for comfort and honesty as adults and I feel glad and needed. I show up, keep their confidences, and avoid the old roles of bossy elder or spoiled baby that we slid into as children.",
+   "graph_context": [
+    "same situation, other stances at this age: favouritism, grief, guilt, protectiveness, resentment, rivalry",
+    "related mind states: joy, affection"
+   ]
+  },
+  {
+   "sno": 1722,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Yusuf"
+    ],
+    "3": [
+     "Harish",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Sibling × Grief & shared loss [Actor]",
+   "description": "After our parent's death, my sibling and I grieve differently and misread each other as cold or dramatic. I ask how they are coping, share memories together, and settle assets only after the first wave of grief has passed.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, favouritism, guilt, protectiveness, resentment, rivalry",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 1723,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Gargi"
+    ],
+    "3": [
+     "Sudha",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Sibling and inheritance",
+   "subtype": "Sibling × Guilt [Actor]",
+   "description": "I took more than my share of family support and now feel guilty toward my sibling. I acknowledge it honestly and offer fair repair; ignoring it lets silent distance grow, and over-giving to erase guilt helps no one.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, favouritism, grief, protectiveness, resentment, rivalry",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1724,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Omkar"
+    ],
+    "3": [
+     "Jeevan",
+     "Kamal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Newborn × Overwhelm [Actor]",
+   "description": "I am exhausted, sleepless, and afraid I am failing my newborn. Feelings of doubt are common. I ask my partner and family for concrete help, lower my standards for the house, and seek support if the low mood does not lift.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: fear, doubt, tiredness, overwhelm"
+   ]
+  },
+  {
+   "sno": 1725,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Lavanya"
+    ],
+    "3": [
+     "Mateo",
+     "Jamal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Child × Protectiveness [Actor]",
+   "description": "I feel a fierce need to shield my baby from every harm. This love is natural; wisdom is to keep the child safe without letting my fear steal their freedom and confidence as they grow.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt",
+    "related mind states: affection, fear, trust"
+   ]
+  },
+  {
+   "sno": 1726,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Aparna"
+    ],
+    "3": [
+     "Yamini",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Spouse × Strained partnership [Actor]",
+   "description": "Since the baby arrived my partner and I bicker and feel like co-workers on a rota. I plan short moments to talk, split night duties fairly, and thank them out loud; we protect the relationship the child depends on.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1727,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Bhavna"
+    ],
+    "3": [
+     "Suraj",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Becoming a parent",
+   "subtype": "Own parents × Advice and interference [Receiver]",
+   "description": "My parents and in-laws give constant advice on feeding, sleep, and discipline and I feel judged. I thank them, take what helps, and make decisions with my partner; I do not stew silently or shout it out.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, fear, guilt, protectiveness",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

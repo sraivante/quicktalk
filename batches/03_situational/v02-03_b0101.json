@@ -1,0 +1,273 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1318,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Karthik"
+    ],
+    "3": [
+     "Gurleen",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Envy of success [Receiver]",
+   "description": "Your good news is met with coldness or jokes. Wise: notice it, talk kindly, and keep sharing wins with people who cheer. Harmful: hiding your success to protect their ego.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, insecurity, jealousy",
+    "paired view exists: Actor (S1317)",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1319,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Shreya"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Suspicion [Actor]",
+   "description": "A late reply, a like or a new friend sets off doubts. Wise: separate evidence from anxiety and ask calmly instead of spying. Harmful: checking their phone or messages secretly.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, insecurity, jealousy",
+    "paired view exists: Receiver (S1320)",
+    "related mind states: anxiety, doubt, calm"
+   ]
+  },
+  {
+   "sno": 1320,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Noor"
+    ],
+    "3": [
+     "Swati",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Suspicion [Receiver]",
+   "description": "You are accused of things you did not do. Wise: stay calm, state facts, and see whether the accusations ever end. Constant unfounded suspicion is a warning sign, not proof of your guilt.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, insecurity, jealousy",
+    "paired view exists: Actor (S1319)",
+    "related mind states: guilt, doubt, calm"
+   ]
+  },
+  {
+   "sno": 1321,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Sumit"
+    ],
+    "3": [
+     "Saurabh",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Jealousy about past [Actor]",
+   "description": "Their exes bother you more than they should. Wise: accept the past is not a threat and talk about the fear itself. Immature: interrogating details or bringing it up as a weapon in arguments.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity",
+    "paired view exists: Receiver (S1314)",
+    "related mind states: fear, jealousy"
+   ]
+  },
+  {
+   "sno": 1322,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Jyoti"
+    ],
+    "3": [
+     "Vasudha",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Ex's new partner × Jealousy [Actor]",
+   "description": "Seeing your ex with someone new stings hard. Wise: let the pain pass, mute or unfollow, and remember their happiness is not a verdict on you. Immature: comparing, contacting the new partner or posting to provoke.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity",
+    "related mind states: jealousy, hurt"
+   ]
+  },
+  {
+   "sno": 1323,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Emeka",
+     "Ada"
+    ],
+    "3": [
+     "Ujjwal",
+     "Tenzin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Friend of partner × Insecurity [Actor]",
+   "description": "Partner's close friend of the other gender makes you uneasy. Wise: get to know them and share the feeling without ordering a distance. Immature: ultimatums that force them to choose.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, jealousy",
+    "related mind states: anxiety, insecurity"
+   ]
+  },
+  {
+   "sno": 1324,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Jatin"
+    ],
+    "3": [
+     "Vasudha",
+     "Jyoti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Infidelity in relationship",
+   "subtype": "Partner × Betrayal by cheating [Receiver]",
+   "description": "Discovering a partner was unfaithful brings shock, shame, rage and doubt about yourself. Wise: take time before decisions, lean on friends, and remember their choice was theirs. Harmful: revenge or blaming yourself.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, guilt, worship",
+    "related mind states: anger, shame, doubt, surprise"
+   ]
+  },
+  {
+   "sno": 1325,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Nazia"
+    ],
+    "3": [
+     "Deepak",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Infidelity in relationship",
+   "subtype": "Partner × Cheating [Actor]",
+   "description": "You cross a line and feel thrill, then guilt and dread. Wise: admit the reason honestly, end the deception, and accept consequences. Immature: blaming the partner, lying more, or wanting forgiveness on demand.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, distrust, guilt, worship",
+    "related mind states: joy, fear, guilt"
+   ]
+  },
+  {
+   "sno": 1326,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Vandana"
+    ],
+    "3": [
+     "Swati",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Infidelity in relationship",
+   "subtype": "Partner × Forgiveness after betrayal [Receiver]",
+   "description": "You wonder if you can trust again. Wise: forgiveness is not forced or instant; it needs honesty, time and changed behaviour, and walking away is also valid. Immature: forgiving to avoid loneliness.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, guilt, worship",
+    "related mind states: curiosity, loneliness, awe, trust"
+   ]
+  },
+  {
+   "sno": 1327,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Aadhya"
+    ],
+    "3": [
+     "Jagdish",
+     "Bhupen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Infidelity in relationship",
+   "subtype": "Partner × Guilt after cheating [Actor]",
+   "description": "You are eaten by guilt and want to confess just to feel lighter. Wise: consider what confession actually serves and be ready for the fallout. Immature: turning your guilt into their burden to comfort you.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, distrust, worship",
+    "related mind states: guilt"
+   ]
+  }
+ ]
+}

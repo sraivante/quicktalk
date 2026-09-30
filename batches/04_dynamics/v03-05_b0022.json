@@ -1,0 +1,334 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3118,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Pallavi"
+    ],
+    "4": [
+     "Aparna",
+     "Pankaj"
+    ],
+    "5": [
+     "Sangeeta",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 1: Intern under pressure [Receiver]",
+   "description": "An intern is told by a senior to redo a report with little explanation. She feels criticised, unsure whether she failed or the senior is simply busy, and she is afraid to ask.",
+   "graph_context": [
+    "next stage: Misread signals",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3119,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Manjula",
+     "Pankaj"
+    ],
+    "4": [
+     "Omkar",
+     "Vasudha"
+    ],
+    "5": [
+     "Naveen",
+     "Nirmala"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 2: Misread signals [Actor]",
+   "description": "The senior takes her silence for lack of interest, and she takes his brisk tone for dislike. New workers often assume feedback is personal, and busy seniors often forget they need to explain.",
+   "graph_context": [
+    "previous stage: Intern under pressure",
+    "next stage: A public correction",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 3120,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Lalremsiami"
+    ],
+    "4": [
+     "Madhuri",
+     "Bidisha"
+    ],
+    "5": [
+     "Ayesha",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 3: A public correction [Receiver]",
+   "description": "In a team meeting the senior points out her error in front of others. She feels heat in her face and swallows her reply, then spends the evening rehearsing what she should have said.",
+   "graph_context": [
+    "previous stage: Misread signals",
+    "next stage: Choosing how to respond",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3121,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Mehak",
+     "Kalyani"
+    ],
+    "4": [
+     "Mahima",
+     "Manoj"
+    ],
+    "5": [
+     "Nandini",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 4: Choosing how to respond [Response]",
+   "description": "Rather than complaining to peers, she requests a short private talk: \"I want to do this well. Could you tell me what to improve, and could feedback be given privately when possible?\" Calm clarity is professional and often welcomed.",
+   "graph_context": [
+    "previous stage: A public correction",
+    "next stage: Senior reflects",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3122,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Mehak",
+     "Sangeeta"
+    ],
+    "4": [
+     "Sarika",
+     "Baljeet"
+    ],
+    "5": [
+     "Vidya",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 5: Senior reflects [Actor]",
+   "description": "He realises that he had assumed she knew the standard and had been careless with her dignity. A good senior acknowledges the way it was said without dropping the content of the correction.",
+   "graph_context": [
+    "previous stage: Choosing how to respond",
+    "next stage: Working norms and growth",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3123,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Hafsa",
+     "Hansa"
+    ],
+    "4": [
+     "Rehana",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Rukmini",
+     "Binita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 6: Working norms and growth [Response]",
+   "description": "They agree on a quick weekly check-in and written expectations. She learns that conflict at work can be raised respectfully, and that it grows trust more than swallowing resentment does.",
+   "graph_context": [
+    "previous stage: Senior reflects",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: admiration, resentment, trust"
+   ]
+  },
+  {
+   "sno": 3124,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Tuan",
+     "Ulla"
+    ],
+    "4": [
+     "Vijay",
+     "Reena"
+    ],
+    "5": [
+     "Chetan",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 1: Unclear roles and a slight [Actor]",
+   "description": "Two team members overlap on a project, and one is not credited in a presentation. He feels overlooked, and the other says it was a simple oversight.",
+   "graph_context": [
+    "next stage: Silent resentment",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3125,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Vishal",
+     "Zeenat"
+    ],
+    "4": [
+     "Kofi",
+     "Dalia"
+    ],
+    "5": [
+     "Gautam",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 2: Silent resentment [Actor]",
+   "description": "He says nothing in the meeting and complains to a colleague afterwards. Hidden resentment shows up in shorter emails, withheld information and a cooler tone that his colleague reads as hostility.",
+   "graph_context": [
+    "previous stage: Unclear roles and a slight",
+    "next stage: Triangulation",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: hostility, resentment"
+   ]
+  },
+  {
+   "sno": 3126,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Amandeep",
+     "Preeti"
+    ],
+    "4": [
+     "Harish",
+     "Bidisha"
+    ],
+    "5": [
+     "Leela",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 3: Triangulation [Observer]",
+   "description": "Other colleagues are drawn in and choose sides through lunch talk and chat groups. The manager senses tension in the team but is not told the actual cause, so guesses and rumours multiply.",
+   "graph_context": [
+    "previous stage: Silent resentment",
+    "next stage: Open clash",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3127,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Siddharth",
+     "Jahnavi"
+    ],
+    "4": [
+     "Zeenat",
+     "Bhupen"
+    ],
+    "5": [
+     "Jyoti",
+     "Shankar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 4: Open clash [Actor]",
+   "description": "A missed deadline becomes a heated exchange in a meeting, with blame on both sides. Public embarrassment hardens positions, and each feels the other has broken professional respect.",
+   "graph_context": [
+    "previous stage: Triangulation",
+    "next stage: Mediated conversation",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, embarrassment"
+   ]
+  }
+ ]
+}

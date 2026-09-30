@@ -1,0 +1,217 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4119,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Mohit"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Missed nap meltdown [Actor]",
+   "description": "A toddler who skipped a nap cannot regulate anything: small frustrations become screaming, clinging or collapsing on the floor. The child is not being naughty; the brain has run out of coping capacity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4120,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Siddharth",
+     "Kiran"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Sleepy child rubbing eyes and getting wild [Observer]",
+   "description": "A tired toddler often looks more hyper than drowsy, running, laughing too loudly, then crashing into tears. Adults who read this as misbehaviour miss the cue that bedtime or a nap is overdue.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: amusement, tiredness"
+   ]
+  },
+  {
+   "sno": 4121,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Harsha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Consistent sleep routine [Response]",
+   "description": "A predictable wind-down of bath, dim light, a song and the same cuddle tells a small body that sleep is safe. Calm repetition works better than scolding, bargaining or leaving the child to guess what comes next.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4122,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Vikas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Bedtime stalling and night fears [Actor]",
+   "description": "A young child asks for water, another story or one more hug because darkness and separation feel big at night. The stalling is often a bid for reassurance, not defiance, and short calm answers usually settle it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, hostility, fear, calm"
+   ]
+  },
+  {
+   "sno": 4123,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Binita",
+     "Saurabh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Parents worn down by broken nights [Receiver]",
+   "description": "When a child wakes repeatedly, parents lose patience, snap over small things and feel guilty afterwards. The irritation comes from their own sleep debt as much as from the child, and they need real rest, not just willpower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, guilt"
+   ]
+  },
+  {
+   "sno": 4124,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Mehak",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Tired child at school [Actor]",
+   "description": "A schoolchild with too little sleep struggles to focus, forgets instructions, becomes teary or argumentative and may be labelled lazy or careless. The mind is foggy, and effort alone cannot fix it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4125,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Harish",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Teacher noticing yawning and short temper [Observer]",
+   "description": "A teacher sees a normally cheerful child slumped, irritable and slow to start work. Asking gently about bedtime, homework load or noise at home is more useful than a punishment for inattention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 4126,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Disha",
+     "Anand"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Teen body clock shift [Actor]",
+   "description": "A teenager's body naturally turns sleepy later at night and wants to wake later, yet school starts early. The result is chronic tiredness, low mood, sharper temper and risky choices that look like attitude but partly come from sleep debt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4127,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Aditi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Parent fighting with a sleepy teen [Receiver]",
+   "description": "A parent who shouts at a teenager at dawn gets grunts and slammed doors in return. Understanding the biology, then negotiating screen cut-offs and a steady wake time, protects the relationship better than nagging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4128,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Ujjwal",
+     "Rafiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Exam-season all-nighters [Actor]",
+   "description": "A student stays up cramming, believing more hours awake means more learning. Poor sleep weakens memory and mood, so panic rises the next day. A calmer plan protects sleep before an exam rather than sacrificing it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

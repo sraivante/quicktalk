@@ -1,0 +1,298 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 241,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Ramesh",
+     "Vidya"
+    ],
+    "7": [
+     "Dalia",
+     "Thabo"
+    ],
+    "8": [
+     "Keerthana",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Ethics",
+   "subtopic": "Academic Honesty",
+   "subtype": "Plagiarism & Shortcut Temptation",
+   "description": "Resisting copying and AI-written submissions and understanding why originality matters."
+  },
+  {
+   "sno": 242,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Kavitha",
+     "Santosh"
+    ],
+    "7": [
+     "Hafsa",
+     "Jeevan"
+    ],
+    "8": [
+     "Kashish",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Leadership",
+   "subtopic": "Initiative",
+   "subtype": "Student Leadership & Organizing Others",
+   "description": "Taking charge of projects, motivating peers and taking blame when things fail."
+  },
+  {
+   "sno": 243,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Bhupen"
+    ],
+    "7": [
+     "Rosa",
+     "Yara"
+    ],
+    "8": [
+     "Sahil",
+     "Suraj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cultural",
+   "subtopic": "Identity Navigation",
+   "subtype": "Code-Switching & Heritage Pride",
+   "description": "Moving between home culture, school culture and online culture without shame.",
+   "graph_context": [
+    "related mind states: shame, pride"
+   ]
+  },
+  {
+   "sno": 244,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Kavitha",
+     "Hafsa"
+    ],
+    "7": [
+     "Parul",
+     "Sabina"
+    ],
+    "8": [
+     "Rehana",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cultural",
+   "subtopic": "Intercultural Competence",
+   "subtype": "Global Awareness & Migration Stories",
+   "description": "Understanding other societies, migration and prejudice through curiosity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 245,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Parveen",
+     "Sarita"
+    ],
+    "7": [
+     "Samir",
+     "Uday"
+    ],
+    "8": [
+     "Ritu",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Coping",
+   "subtopic": "Adversity",
+   "subtype": "Handling Failure, Result Disappointment & Family Crisis",
+   "description": "Coping with bad results, parental conflict or financial hardship without losing hope.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: disappointment, hope"
+   ]
+  },
+  {
+   "sno": 246,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Gautam",
+     "Sahil"
+    ],
+    "7": [
+     "Irawati",
+     "Bidisha"
+    ],
+    "8": [
+     "Maria",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Individual Variation",
+   "subtopic": "Neurodiversity",
+   "subtype": "Understanding One's Learning Style & Differences",
+   "description": "Recognizing personal strengths and needs, such as attention, dyslexia or sensory sensitivity, and asking for support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 247,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Uday",
+     "Santosh"
+    ],
+    "7": [
+     "Kalyani",
+     "Aditi"
+    ],
+    "8": [
+     "Rekha",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Environment",
+   "subtopic": "Climate Awareness",
+   "subtype": "Climate Literacy & Small Actions",
+   "description": "Understanding causes of climate change and taking realistic personal and group action."
+  },
+  {
+   "sno": 248,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Chetan",
+     "Sarita"
+    ],
+    "7": [
+     "Felix",
+     "Abebe"
+    ],
+    "8": [
+     "Jyoti",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Physical",
+   "subtopic": "Fitness & Body Care",
+   "subtype": "Exercise, Nutrition & Skin/Body Hygiene",
+   "description": "Building consistent fitness and eating habits."
+  },
+  {
+   "sno": 249,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Nazia"
+    ],
+    "7": [
+     "Yogesh",
+     "Bhavna"
+    ],
+    "8": [
+     "Yamini",
+     "Bhavna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Philosophy",
+   "subtopic": "Worldviews",
+   "subtype": "Introductory Logic, Ethics & Worldviews",
+   "description": "Comparing philosophies, religions and ethical systems reasonably."
+  },
+  {
+   "sno": 250,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Usha"
+    ],
+    "7": [
+     "Gurleen",
+     "Ishita"
+    ],
+    "8": [
+     "Lavanya",
+     "Harish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Habits & Ethics",
+   "subtopic": "Perseverance",
+   "subtype": "Long-Term Projects & Consistency",
+   "description": "Sustaining effort on multi-month goals despite boredom and setbacks.",
+   "graph_context": [
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  }
+ ]
+}

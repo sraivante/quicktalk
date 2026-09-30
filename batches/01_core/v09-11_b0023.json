@@ -1,0 +1,298 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 221,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Ritu",
+     "Afreen"
+    ],
+    "10": [
+     "Chinmay",
+     "Lalremsiami"
+    ],
+    "11": [
+     "Tarun",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Advanced Communication",
+   "subtopic": "Public Speaking",
+   "subtype": "Speaking Confidently to an Audience",
+   "description": "Structuring a talk, managing stage fear and holding an audience.",
+   "graph_context": [
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 222,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Soo-ah",
+     "Clara"
+    ],
+    "10": [
+     "Deepika",
+     "Ramesh"
+    ],
+    "11": [
+     "Nilesh",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Digital & Technology",
+   "subtopic": "Social Media Literacy",
+   "subtype": "Algorithmic Manipulation & Attention Traps",
+   "description": "Understanding how feeds, likes and recommendations are designed to keep users engaged.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 223,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Ritu",
+     "Ujjwal"
+    ],
+    "10": [
+     "Mahima",
+     "Leela"
+    ],
+    "11": [
+     "Simran",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Digital & Technology",
+   "subtopic": "Digital Identity",
+   "subtype": "Online Persona & Permanent Footprint",
+   "description": "Recognizing that posts, photos and comments persist and shape reputation."
+  },
+  {
+   "sno": 224,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Usha",
+     "Kamal"
+    ],
+    "10": [
+     "Sharmila",
+     "Disha"
+    ],
+    "11": [
+     "Sachin",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Literacy",
+   "subtype": "Using AI Tools Ethically & Verifying Outputs",
+   "description": "Using AI for learning without outsourcing thinking, and checking its claims and citations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 225,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Francis",
+     "Chandrika"
+    ],
+    "10": [
+     "Kavitha",
+     "Zainab"
+    ],
+    "11": [
+     "Ingrid",
+     "Rania"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Digital & Technology",
+   "subtopic": "Cyber Safety",
+   "subtype": "Scams, Grooming & Coercion Defense",
+   "description": "Recognizing manipulative online contact, blackmail attempts and fraud, and reporting to trusted adults.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 226,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Sarika",
+     "Vikas"
+    ],
+    "10": [
+     "Hansa",
+     "Akash"
+    ],
+    "11": [
+     "Hemant",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Digital & Technology",
+   "subtopic": "Self-Regulation",
+   "subtype": "Gaming, Scrolling & Sleep Displacement",
+   "description": "Noticing compulsive use and setting personal limits."
+  },
+  {
+   "sno": 227,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Rajni",
+     "Salma"
+    ],
+    "10": [
+     "Lakshmi",
+     "Saurabh"
+    ],
+    "11": [
+     "Siddharth",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Body Image",
+   "subtype": "Comparison, Self-Acceptance & Health",
+   "description": "Handling body changes and idealized images without harmful habits."
+  },
+  {
+   "sno": 228,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Naveen",
+     "Gurpreet"
+    ],
+    "10": [
+     "Parveen",
+     "Shreya"
+    ],
+    "11": [
+     "Nirmala",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Adolescent Mood",
+   "subtype": "Hormonal Mood Shifts & Irritability",
+   "description": "Understanding sudden moods and choosing how to act despite them."
+  },
+  {
+   "sno": 229,
+   "plan": {
+    "9": "R12",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Gurpreet",
+     "Kashish"
+    ],
+    "10": [
+     "Kishore",
+     "Gargi"
+    ],
+    "11": [
+     "Rafiq",
+     "Sarita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Family",
+   "subtopic": "Autonomy Negotiation",
+   "subtype": "Independence vs. Parental Authority",
+   "description": "Negotiating freedom, curfews and trust with parents respectfully.",
+   "graph_context": [
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 230,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Zubin",
+     "Madhuri"
+    ],
+    "10": [
+     "Rukmini",
+     "Shalini"
+    ],
+    "11": [
+     "Marek",
+     "Bao"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Academic Pressure",
+   "subtype": "Comparison, Rank Anxiety & Parental Expectations",
+   "description": "Coping with marks, rank and expectations without losing self-worth.",
+   "graph_context": [
+    "related mind states: anxiety"
+   ]
+  }
+ ]
+}

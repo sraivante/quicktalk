@@ -1,0 +1,190 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 81,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Aparna",
+     "Ayesha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Ideological Identity",
+   "description": "Exploring and committing to personal, political, or religious belief systems."
+  },
+  {
+   "sno": 82,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Mridul",
+     "Deepika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Vocational Identity",
+   "description": "Imagining future career paths and assessing personal strengths against possible jobs."
+  },
+  {
+   "sno": 83,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Amandeep",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Interpersonal Identity",
+   "description": "Deciding what kind of friend, partner, or family member one wants to be."
+  },
+  {
+   "sno": 84,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Kashish",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Clique Dynamics",
+   "description": "Navigating the strict boundaries of who belongs to which social group."
+  },
+  {
+   "sno": 85,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Simran",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Status Seeking",
+   "description": "Engaging in behaviors or adopting trends specifically to elevate social standing among peers.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 86,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Himani",
+     "Pankaj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Peer Influence",
+   "description": "Balancing the desire for individual authenticity with the intense pressure to conform."
+  },
+  {
+   "sno": 87,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Anirban",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Advanced Communication",
+   "subtopic": "Conflict & Feedback",
+   "subtype": "Diplomacy & Feedback Receptivity",
+   "description": "Receiving constructive criticism non-defensively and resolving peer conflicts diplomatically without hostility.",
+   "graph_context": [
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 88,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Lalremsiami",
+     "Shreya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Angst",
+   "description": "Feeling generalized anxiety, frustration, or dread about the world and one's place in it.",
+   "graph_context": [
+    "related mind states: anger, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 89,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Divyansh",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Passion",
+   "description": "Developing an intense drive and emotional investment in ideals, hobbies, or causes."
+  },
+  {
+   "sno": 90,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Jeevan",
+     "Alka"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Apathy",
+   "description": "Using emotional detachment or feigned lack of interest as a defense mechanism.",
+   "graph_context": [
+    "related mind states: interest, detachment"
+   ]
+  }
+ ]
+}

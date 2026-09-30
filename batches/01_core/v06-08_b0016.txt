@@ -1,0 +1,47 @@
+STAGE: core
+Variant ids in this batch: 6, 7, 8 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R13+T1: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day. TWIST: Set it in a different season or festival period than a typical scene.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R2+T1: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue. TWIST: Set it in a different season or festival period than a typical scene.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R7+T1: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop). TWIST: Set it in a different season or festival period than a typical scene.
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 151, "plan": {"6": "R1", "7": "R2", "8": "R3"}, "cast": {"6": ["Nilesh", "Rashmi"], "7": ["Pema", "Arohi"], "8": ["Sonali", "Pema"]}, "age": "23–26", "topic": "Habits & Ethics", "subtopic": "Professional Mastery", "subtype": "Sustainable Work Ethic & Integrity", "description": "Upholding high professional standards, ethical leadership, and mentorship vs. toxic workplace behaviors and burnout.", "graph_context": ["related mind states: determination"]}
+{"sno": 152, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Bidisha", "Sonali"], "7": ["Lindiwe", "Wei"], "8": ["Tanuja", "Kamal"]}, "age": "23–26", "topic": "Civic & Relational", "subtopic": "Institutional Leadership", "subtype": "Civic Stewardship & Cultural Heritage", "description": "Contributing to national progress, supporting stable governance, preserving cultural legacy, and guiding the next generation."}
+{"sno": 153, "plan": {"6": "R9", "7": "R10", "8": "R11"}, "cast": {"6": ["Asif", "Amandeep"], "7": ["Karthik", "Eshaan"], "8": ["Hemant", "Dilnaz"]}, "age": "23–26", "topic": "Responsibility", "subtopic": "Spheres of Responsibility", "subtype": "Intergenerational Stewardship", "description": "Exercising ethical leadership, caring for dependents/aging family, mentoring peers, and driving sustainable environmental and societal stewardship.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"]}
+{"sno": 154, "plan": {"6": "R1", "7": "R2", "8": "R4+T1"}, "cast": {"6": ["Manoj", "Mridul"], "7": ["Vidya", "Devika"], "8": ["Alka", "Nandini"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Attention & Memory", "subtype": "Joint Attention", "description": "Following a caregiver's gaze or pointing to share focus on an object, the base of shared learning."}
+{"sno": 155, "plan": {"6": "R4", "7": "R7", "8": "R8+T1"}, "cast": {"6": ["Francis", "Gurpreet"], "7": ["Ganga", "Swati"], "8": ["Vera", "Camila"]}, "age": "1–3", "topic": "Social", "subtopic": "Imitation", "subtype": "Deferred & Social Imitation", "description": "Copying gestures, sounds and household actions seen earlier, the root of cultural learning."}
+{"sno": 156, "plan": {"6": "R13", "7": "R1", "8": "R2+T1"}, "cast": {"6": ["Naveen", "Kalyani"], "7": ["Imran", "Dilnaz"], "8": ["Ritu", "Seema"]}, "age": "1–3", "topic": "Emotional", "subtopic": "Emotional Co-Regulation", "subtype": "Being Soothed by a Caregiver", "description": "Calming through touch, voice and rhythm before independent self-soothing exists.", "graph_context": ["related mind states: calm"]}
+{"sno": 157, "plan": {"6": "R2", "7": "R4", "8": "R7+T1"}, "cast": {"6": ["Ramesh", "Dhruv"], "7": ["Keerthana", "Leela"], "8": ["Mehak", "Sharmila"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Causality", "subtype": "Cause-and-Effect Exploration", "description": "Repeating actions like dropping or pressing to learn that behaviour produces outcomes."}
+{"sno": 158, "plan": {"6": "R12", "7": "R13", "8": "R1+T1"}, "cast": {"6": ["Jomon", "Lakshmi"], "7": ["Yusuf", "Yogesh"], "8": ["Raghav", "Saurabh"]}, "age": "1–3", "topic": "Cognitive", "subtopic": "Language Acquisition", "subtype": "Vocabulary Explosion & First Questions", "description": "Rapid word growth, naming objects and feelings, asking \"what is that?\"."}
+{"sno": 159, "plan": {"6": "R7", "7": "R8", "8": "R12+T1"}, "cast": {"6": ["Sachin", "Reena"], "7": ["Mina", "Wanjiru"], "8": ["Zainab", "Lalremsiami"]}, "age": "1–3", "topic": "Social", "subtopic": "Self-Concept", "subtype": "Self-Recognition & Ownership", "description": "Recognizing oneself in a mirror, saying \"me/mine\", first sense of a separate self."}
+{"sno": 160, "plan": {"6": "R8", "7": "R12", "8": "R13+T1"}, "cast": {"6": ["Paulo", "Jin"], "7": ["Joseph", "Tejas"], "8": ["Sudha", "Vidya"]}, "age": "1–3", "topic": "Habits & Ethics", "subtopic": "Early Routines", "subtype": "Toilet Training & Self-Feeding", "description": "Gaining voluntary bodily control and independent eating as first experiences of autonomy."}
+
+Return exactly 30 JSON Lines and nothing else.

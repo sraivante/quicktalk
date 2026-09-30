@@ -1,0 +1,317 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2652,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Gopika"
+    ],
+    "4": [
+     "Tenzin",
+     "Dilnaz"
+    ],
+    "5": [
+     "Kavitha",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Jaw tension and stress [Interpreting]",
+   "description": "A young adult grinds or clenches the jaw when stressed, sometimes unaware. Others may read anger, but it often reflects worry, so a kind check-in helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, anxiety"
+   ]
+  },
+  {
+   "sno": 2653,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Leela",
+     "Omkar"
+    ],
+    "4": [
+     "Pema",
+     "Hafsa"
+    ],
+    "5": [
+     "Trisha",
+     "Karthik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Deliberately expressionless in negotiation [Regulating]",
+   "description": "A young adult keeps the face neutral in a negotiation to avoid revealing eagerness. It is a legitimate tactic, though excessive coldness can damage trust, so warmth in words helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, excitement, trust"
+   ]
+  },
+  {
+   "sno": 2654,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Lokesh",
+     "Sarita"
+    ],
+    "4": [
+     "Abhinav",
+     "Bidisha"
+    ],
+    "5": [
+     "Joseph",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Expressionless face and neurodivergence [Mismatch]",
+   "description": "A young adult with a flat or limited facial expression may still feel strongly, including autistic people and those with certain conditions. Ask and listen to words rather than judging feeling from the face.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2655,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Vijay",
+     "Vandana"
+    ],
+    "4": [
+     "Farida",
+     "Rukmini"
+    ],
+    "5": [
+     "Uma",
+     "Rajni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Lifting the chin and lowering the head [Interpreting]",
+   "description": "A young adult reads a lifted chin as pride or challenge and a lowered head as deference or sadness, treating these as one clue among many.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness, pride"
+   ]
+  },
+  {
+   "sno": 2656,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Bhupen",
+     "Sumit"
+    ],
+    "4": [
+     "Siddiq",
+     "Mei"
+    ],
+    "5": [
+     "Bhupen",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Head movements",
+   "subtype": "Nodding cultures and politeness [Mismatch]",
+   "description": "A young adult learns that in some places nodding shows attention rather than agreement, and in some countries such as Bulgaria the meaning of nod and shake are reversed. Clarify with words in cross-cultural talks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2657,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Bidisha"
+    ],
+    "4": [
+     "Maria",
+     "Urmila"
+    ],
+    "5": [
+     "Irfan",
+     "Sudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Shoulders",
+   "subtype": "Raised shoulders as fear or cold [Interpreting]",
+   "description": "A young adult sees a person with raised shoulders and may guess fear or worry, though it may be just cold. Context and asking come first.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 2658,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Aiko",
+     "Thabo"
+    ],
+    "4": [
+     "Kunal",
+     "Trisha"
+    ],
+    "5": [
+     "Nitin",
+     "Baljeet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Shoulders",
+   "subtype": "Shrug across cultures [Mismatch]",
+   "description": "A young adult finds that a shrug carries different weight across cultures, from casual not sure to rude indifference. Words prevent misunderstanding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2659,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Rashmi",
+     "Hemant"
+    ],
+    "4": [
+     "Kavitha",
+     "Urmila"
+    ],
+    "5": [
+     "Anand",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Arm positions",
+   "subtype": "Arm positions in presentations [Regulating]",
+   "description": "A young adult presenting keeps open, relaxed arms and avoids stiff crossing, making the audience feel welcome. It is a skill, not a guarantee of confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm, resentment"
+   ]
+  },
+  {
+   "sno": 2660,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Lavanya"
+    ],
+    "4": [
+     "Ayesha",
+     "Tarun"
+    ],
+    "5": [
+     "Dilnaz",
+     "Usha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Arm positions",
+   "subtype": "Raised arms in celebration or surrender [Mismatch]",
+   "description": "A young adult raises the arms in triumph at a goal, or in surrender, or in stretching. Context, such as noise and setting, shows which.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 2661,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Sachin",
+     "Deepika"
+    ],
+    "4": [
+     "Jyoti",
+     "Farida"
+    ],
+    "5": [
+     "Parveen",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Clenched fists and tense hands in conflict [Interpreting]",
+   "description": "A young adult sees clenched fists in a heated exchange and treats it as a possible warning, choosing distance, calm words and help from others. Clenched hands can also mean effort or cold.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

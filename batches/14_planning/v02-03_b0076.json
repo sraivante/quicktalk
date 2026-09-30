@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6511,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Tanuja"
+    ],
+    "3": [
+     "Arnab",
+     "Tanvir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: staying calm and not replying in anger [Thinking]",
+   "description": "On seeing a private photo shared in a class group, a teen feels panic and rage, but decides that an angry reply would fuel it and that the first step is to gather help, not fight.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 6512,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Manjula"
+    ],
+    "3": [
+     "Harish",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: saving evidence before anything is deleted [Action]",
+   "description": "A student takes screenshots showing the messages, names and dates, saves links, and keeps them in a private folder so that adults, the school or police can act on real proof.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning"
+   ]
+  },
+  {
+   "sno": 6513,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Lokesh"
+    ],
+    "3": [
+     "Urmila",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: telling a trusted adult right away [Action]",
+   "description": "A teen tells her mother and class teacher what happened, even though she feels ashamed, and they plan next steps together rather than her carrying the problem alone.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: shame, trust"
+   ]
+  },
+  {
+   "sno": 6514,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Nandini"
+    ],
+    "3": [
+     "Ojas",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: using platform reporting and official complaint routes [Action]",
+   "description": "The family reports the images to the app for removal, files a complaint through the cybercrime portal, and the school follows its safety policy, since sharing such images of a minor is a serious offence.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6515,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Bidisha",
+     "Mahima"
+    ],
+    "3": [
+     "Clara",
+     "Yara"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: blaming the victim and hiding [Pitfall]",
+   "description": "A teen decides it is all her fault, deletes her accounts and avoids school, and the isolation cuts her off from the very people who could help stop the spread.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6516,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Leela"
+    ],
+    "3": [
+     "Imran",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: retaliating by leaking something back [Pitfall]",
+   "description": "A student angrily posts an embarrassing picture of the classmate he suspects, which turns him from victim into wrongdoer, gives the harasser a defence, and can be an offence itself.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 6517,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Zeenat"
+    ],
+    "3": [
+     "Vasudha",
+     "Vandana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: blocking, muting and tightening privacy settings [Action]",
+   "description": "A teen blocks the harassing accounts, limits who can message or tag her, changes passwords, and asks friends not to forward anything, reducing exposure while the complaint proceeds.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning"
+   ]
+  },
+  {
+   "sno": 6518,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Vasudha",
+     "Madhav"
+    ],
+    "3": [
+     "Jagdish",
+     "Eshaan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: getting emotional support alongside practical steps [Revision]",
+   "description": "Days later, still sleeping badly, a teen notices the stress is not fading, tells the school counsellor, and adds regular talks with a trusted cousin to the plan instead of only handling logistics.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6519,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Pema"
+    ],
+    "3": [
+     "Jatin",
+     "Harish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: root-cause thinking about how the image got out [Thinking]",
+   "description": "A student traces how the picture was shared, finds a trusted friend's phone was the source, and uses this to plan who should be informed and how future private data is kept safe.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, forward planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6520,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Tarun"
+    ],
+    "3": [
+     "Vidya",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a leaked photo or online harassment",
+   "subtype": "Approach: helping a friend who is being targeted [Action]",
+   "description": "A teen sees a classmate mocked in a group chat, does not join in or forward, privately checks on her, saves the messages and encourages her to talk to a teacher together.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device"
+   ]
+  }
+ ]
+}

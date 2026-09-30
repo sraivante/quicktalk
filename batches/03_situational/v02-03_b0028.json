@@ -1,0 +1,271 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 588,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Kalyani"
+    ],
+    "3": [
+     "Tushar",
+     "Pema"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a stranger",
+   "subtype": "Authority × Trust [Actor]",
+   "description": "I see a police officer and wonder if they are kind or scary. I feel curious. A wise parent teaches \"police are helpers, go to them if you are lost\". Using police as a threat to a child makes them fear help.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, fear, manipulation",
+    "this subtopic also appears at ages: 1–3",
+    "related mind states: fear, curiosity, awe, trust"
+   ]
+  },
+  {
+   "sno": 589,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Nazia"
+    ],
+    "3": [
+     "Lakshmi",
+     "Chinmay"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Meeting a stranger",
+   "subtype": "Relative × Coercion [Receiver]",
+   "description": "A visiting uncle says \"give me a kiss\" and my parent says I must. I feel uncomfortable. A wise parent respects a child's \"no\" to hugs and offers a wave or high five. My body belongs to me.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, manipulation, trust",
+    "this subtopic also appears at ages: 1–3",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 590,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ulla",
+     "Tuan"
+    ],
+    "3": [
+     "Nitin",
+     "Shalini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Safety rules",
+   "subtype": "Parent × Trust [Actor]",
+   "description": "I know I can tell Mummy anything, even a secret someone asked me to keep. I feel safe. A wise parent says \"no adult should ask you to keep a secret from us\". Trust to tell is my best protection.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, respect",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 591,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Yamini"
+    ],
+    "3": [
+     "Chandrika",
+     "Zeenat"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Safety rules",
+   "subtype": "Adult × Coercion [Receiver]",
+   "description": "An adult touches me in a way that feels wrong and says \"don't tell\". I feel frightened and confused. It is never my fault. Wise action: tell a trusted grown-up right away, and keep telling until someone helps.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, respect, trust",
+    "related mind states: fear, confusion, trust"
+   ]
+  },
+  {
+   "sno": 592,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Simran"
+    ],
+    "3": [
+     "Pranav",
+     "Naveen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Safety rules",
+   "subtype": "Parent × Respect [Actor]",
+   "description": "I hold my parent's hand crossing the road and stop at the red light. I feel proud when I follow the rule. Wise adults explain why in simple words and model the rule themselves.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, trust",
+    "related mind states: admiration, pride"
+   ]
+  },
+  {
+   "sno": 593,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Jaya"
+    ],
+    "3": [
+     "Gurleen",
+     "Chetan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Safety rules",
+   "subtype": "Self × Curiosity [Actor]",
+   "description": "I want to climb the wall, touch the hot pot or run ahead. My curiosity is strong and I do not judge danger well. Wise adults set clear firm safety limits and give safe ways to explore and be brave.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, respect, trust",
+    "related mind states: anger, curiosity, trust"
+   ]
+  },
+  {
+   "sno": 594,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Chen",
+     "Camila"
+    ],
+    "3": [
+     "Yash",
+     "Jasleen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Safety rules",
+   "subtype": "Trusted adult × Trust [Receiver]",
+   "description": "I know my name, my parents' phone number and which adults I can ask if lost. I feel prepared. Practicing simple safety plans as play makes a child confident instead of scared.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, respect",
+    "related mind states: fear, detachment, trust"
+   ]
+  },
+  {
+   "sno": 595,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Shankar"
+    ],
+    "3": [
+     "Dilnaz",
+     "Ujjwal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Handling money",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "At the shop I beg for a toy and my parent says no. I do not understand price yet. A wise parent explains \"we have money for the fruit today\" simply. Buying to stop a tantrum teaches me that crying pays.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, envy, fairness, pride",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 596,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Anirban"
+    ],
+    "3": [
+     "Suraj",
+     "Farhan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Handling money",
+   "subtype": "Shopkeeper × Curiosity [Actor]",
+   "description": "I hand over the coin and get change and feel very grown up. Money is a magic exchange to me. A wise parent lets me try, teaching that things cost and coins are worth different amounts.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, envy, fairness, pride",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 597,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Arohi",
+     "Abhinav"
+    ],
+    "3": [
+     "Sangeeta",
+     "Wasim"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Situational Awareness",
+   "subtopic": "Handling money",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I put coins in my piggy bank and count them. I feel proud and patient waiting to buy something I want. Saving a little teaches that waiting can bring more, an early lesson in delayed reward.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, curiosity, envy, fairness",
+    "related mind states: pride"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6721,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Kashish"
+    ],
+    "3": [
+     "Santosh",
+     "Hrithik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: first-principles reading of the core concept [Thinking]",
+   "description": "Before jumping into a framework, a student learns what problem it solves and its main building blocks, so later tutorials fit into a clear map.",
+   "graph_context": [
+    "same problem, other approaches: analogy, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6722,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kishore",
+     "Yamini"
+    ],
+    "3": [
+     "Aparna",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: building a small project immediately [Action]",
+   "description": "The student follows a short tutorial for one day, then builds a simple expense tracker with the new tool, and learns more from errors than from videos.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6723,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Alka"
+    ],
+    "3": [
+     "Minakshi",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: tutorial hell without building [Pitfall]",
+   "description": "The student watches course after course, nodding along, but cannot write anything from a blank file, since watching felt like learning but built no skill.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial and error"
+   ]
+  },
+  {
+   "sno": 6724,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Francis"
+    ],
+    "3": [
+     "Nazia",
+     "Deepak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: analogy to a known technology [Thinking]",
+   "description": "A student who knows Java compares a new language's classes, packages and errors to what they know, which speeds up the basics though some differences trip them later.",
+   "graph_context": [
+    "same problem, other approaches: first principles, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6725,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Aditi",
+     "Santosh"
+    ],
+    "3": [
+     "Sudha",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: time-boxed learning sprint with a deliverable [Action]",
+   "description": "The student gives themselves seven days to ship a small working app using the tool, with two hours daily, and a demo to a friend at the end as a commitment device.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6726,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Arohi",
+     "Tanvir"
+    ],
+    "3": [
+     "Pallavi",
+     "Parveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: asking an expert or senior at a stuck point [Action]",
+   "description": "After an hour blocked on one configuration error, the student posts a clear question with the error text and steps tried, and gets an answer from a senior in ten minutes.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6727,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Bidisha"
+    ],
+    "3": [
+     "Damini",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: reading only official documentation dogmatically [Pitfall]",
+   "description": "The student refuses videos, examples or forums, insisting on documentation alone, and loses days because the docs assume knowledge the student lacks.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6728,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Salma"
+    ],
+    "3": [
+     "Zeenat",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: teaching back to check understanding [Revision]",
+   "description": "The student explains the concept to a junior and discovers gaps at the second question, then goes back to fix that piece before moving on.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6729,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Kiran"
+    ],
+    "3": [
+     "Jaya",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: trial and error with version control [Action]",
+   "description": "The student experiments freely in a branch, commits often, and can undo a broken change, so mistakes cost little and exploration stays cheap.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6730,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Tushar"
+    ],
+    "3": [
+     "Sudha",
+     "Vidya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning a new technology fast",
+   "subtype": "Approach: adjusting scope after a slow start [Revision]",
+   "description": "On day four the student sees that the planned app is too big, drops two features, and keeps the core working, so the sprint ends with something running.",
+   "graph_context": [
+    "same problem, other approaches: analogy, first principles, seeking advice, time-boxing, trial and error, trial by imitation"
+   ]
+  }
+ ]
+}

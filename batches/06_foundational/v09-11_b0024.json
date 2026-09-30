@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5672,
+   "plan": {
+    "9": "R1+T1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Tanvir",
+     "Varun"
+    ],
+    "10": [
+     "Wasim",
+     "Sabina"
+    ],
+    "11": [
+     "Ayesha",
+     "Avni"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social identity theory",
+   "subtype": "Our team, our class [Actor]",
+   "description": "Children given coloured bibs quickly cheer for their colour and decide their team is best, even though they were assigned at random. Belonging feels good and rapidly creates a sense of \"us\" and \"them\".",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 5673,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Kashish",
+     "Aadhya"
+    ],
+    "10": [
+     "Jahnavi",
+     "Vijay"
+    ],
+    "11": [
+     "Mridul",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social identity theory",
+   "subtype": "Pride in the group and dislike of rivals [Actor]",
+   "description": "A child proudly supports their school house or cricket team and feels personally hurt when the rivals win. Group pride is warm but easily slips into mocking the other side.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: pride, hurt"
+   ]
+  },
+  {
+   "sno": 5674,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Kalyani",
+     "Suraj"
+    ],
+    "10": [
+     "Irfan",
+     "Mohit"
+    ],
+    "11": [
+     "Shalini",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social identity theory",
+   "subtype": "Self-worth borrowed from the group [Actor]",
+   "description": "A teenager's mood rises and falls with the fortunes of their school, region or fandom, and they defend it fiercely against criticism. Group membership is a source of esteem, and insults to the group feel like insults to them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5675,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Simran",
+     "Sachin"
+    ],
+    "10": [
+     "Nandini",
+     "Lavanya"
+    ],
+    "11": [
+     "Imran",
+     "Ritu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social identity theory",
+   "subtype": "Many identities, shifting saliency [Actor]",
+   "description": "A student feels like a Bihari in one setting, an engineer in another and a cricket fan in a third, and different identities come forward depending on who is present. Recognising this keeps any single label from taking over.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5676,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Tariq",
+     "Emeka"
+    ],
+    "10": [
+     "Ojas",
+     "Gautam"
+    ],
+    "11": [
+     "Damini",
+     "Farhan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Social identity theory",
+   "subtype": "Loosening the us-them line [Response]",
+   "description": "A young adult notices the pull to favour their group, seeks a wider shared identity such as the same city, same team or fellow parents, and treats outsiders fairly. Pride in belonging need not require contempt for others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: contempt, pride, nostalgia"
+   ]
+  },
+  {
+   "sno": 5677,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Elizabeth",
+     "Mridul"
+    ],
+    "10": [
+     "Himani",
+     "Sarita"
+    ],
+    "11": [
+     "Binita",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Relative deprivation",
+   "subtype": "Feeling poor next to a friend [Actor]",
+   "description": "A child who has enough at home feels sad on seeing a classmate's new bicycle and phone. The hurt comes from comparison, not from actual lack.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: sadness, hurt"
+   ]
+  },
+  {
+   "sno": 5678,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Madhav",
+     "Ritu"
+    ],
+    "10": [
+     "Rukmini",
+     "Hansa"
+    ],
+    "11": [
+     "Abebe",
+     "Rania"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Relative deprivation",
+   "subtype": "Comparing to those slightly ahead [Actor]",
+   "description": "A teenager compares their marks, clothes or family situation with peers who are a step ahead, and feels cheated even though their own situation is decent. Feeling deprived depends on who one looks at.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5679,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Baljeet",
+     "Vinita"
+    ],
+    "10": [
+     "Gurleen",
+     "Harsha"
+    ],
+    "11": [
+     "Sabina",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Relative deprivation",
+   "subtype": "Anger from unmet expectations [Actor]",
+   "description": "A graduate who expected a job like their seniors got, and did not, feels bitter and entitled to something being withheld. Frustration is sharper when a group seems to be getting what they believed they deserved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger, resentment"
+   ]
+  },
+  {
+   "sno": 5680,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Lalit",
+     "Kamal"
+    ],
+    "10": [
+     "Hansa",
+     "Suraj"
+    ],
+    "11": [
+     "Santosh",
+     "Sangeeta"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Relative deprivation",
+   "subtype": "Seeing others' grievance [Observer]",
+   "description": "A manager notices resentment in a team when one group gets raises or perks and another does not, even when everyone is paid fairly. Transparent criteria and honest explanation reduce the sense of being left behind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: grief, resentment"
+   ]
+  },
+  {
+   "sno": 5681,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Jeevan",
+     "Lalremsiami"
+    ],
+    "10": [
+     "Kashish",
+     "Uma"
+    ],
+    "11": [
+     "Himani",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Relative deprivation",
+   "subtype": "Widening the comparison [Response]",
+   "description": "A young adult who catches themselves fuming at a peer's promotion asks what they actually have and what they can control, and compares to their own past. They keep ambition without letting envy set the mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: envy"
+   ]
+  }
+ ]
+}

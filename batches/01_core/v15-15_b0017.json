@@ -1,0 +1,184 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 161,
+   "plan": {
+    "15": "R1+T2"
+   },
+   "cast": {
+    "15": [
+     "Seema",
+     "Chetan"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Morality",
+   "subtopic": "Early Conscience",
+   "subtype": "Understanding \"No\" & Basic Rules",
+   "description": "Responding to prohibitions and sensing that some actions are not allowed."
+  },
+  {
+   "sno": 162,
+   "plan": {
+    "15": "R4+T2"
+   },
+   "cast": {
+    "15": [
+     "Tejas",
+     "Anjali"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cultural",
+   "subtopic": "Cultural Immersion",
+   "subtype": "Mother Tongue, Songs & Family Rituals",
+   "description": "Absorbing language, lullabies, food and festivals as the base layer of identity."
+  },
+  {
+   "sno": 163,
+   "plan": {
+    "15": "R12+T2"
+   },
+   "cast": {
+    "15": [
+     "Jagdish",
+     "Ojas"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Emotional",
+   "subtopic": "Temperament",
+   "subtype": "Temperament & Sensory Sensitivity",
+   "description": "Individual baseline of reactivity, adaptability and sensory thresholds that shapes later behaviour."
+  },
+  {
+   "sno": 164,
+   "plan": {
+    "15": "R7+T2"
+   },
+   "cast": {
+    "15": [
+     "Lokesh",
+     "Aparna"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Digital & Technology",
+   "subtopic": "Early Screen Exposure",
+   "subtype": "Screens vs. Live Interaction",
+   "description": "Learning best through live human interaction; screens as limited, co-viewed exposure."
+  },
+  {
+   "sno": 165,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Nandini",
+     "Lakshmi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Language & Narrative",
+   "subtype": "Storytelling & Sequencing",
+   "description": "Retelling events with a beginning, middle and end; describing one's day in order."
+  },
+  {
+   "sno": 166,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Rajni",
+     "Seema"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Curiosity",
+   "subtype": "Persistent \"Why\" Questioning",
+   "description": "Asking repeated causal questions to understand how the world works."
+  },
+  {
+   "sno": 167,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Minakshi",
+     "Hemant"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Memory",
+   "subtype": "Rhymes, Prayers & Verbal Memorization",
+   "description": "Memorizing songs, poems and sayings, building recall and rhythm of language."
+  },
+  {
+   "sno": 168,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Rosa",
+     "Ulla"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Emotional Literacy",
+   "subtype": "Naming & Explaining Feelings",
+   "description": "Saying \"I am sad because…\" instead of only acting out the feeling.",
+   "graph_context": [
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 169,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Tanvir",
+     "Varun"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Emotional Regulation",
+   "subtype": "Calm-Down Strategies",
+   "description": "Using breathing, a hug or a quiet corner to settle anger or fear.",
+   "graph_context": [
+    "related mind states: affection, anger, fear, calm"
+   ]
+  },
+  {
+   "sno": 170,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Nirmala",
+     "Lavanya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Fairness",
+   "subtype": "Turn-Taking & Fair Play",
+   "description": "Accepting \"not my turn\" and the outcome of games without cheating."
+  }
+ ]
+}

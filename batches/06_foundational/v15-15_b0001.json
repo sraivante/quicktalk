@@ -1,0 +1,214 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 5442,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Pankaj",
+     "Mridul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Barnum effect",
+   "subtype": "Horoscope feels personal [Actor]",
+   "description": "A child reads a line like \"you are kind but sometimes shy\" in a magazine horoscope and is sure it describes them exactly, not noticing it would fit almost anyone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 5443,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Lavanya",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Barnum effect",
+   "subtype": "Online quiz result feels like being seen [Actor]",
+   "description": "A teenager takes a personality quiz, feels understood by flattering, general results, and shares them as proof of who they are; the wish to be understood makes vague words feel precise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5444,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Himani",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Barnum effect",
+   "subtype": "Reading or prediction that seems to know them [Receiver]",
+   "description": "A young adult hears a reader say \"you carry an old hurt you rarely mention\" and feels seen. The line fits most people, but its warmth builds trust that can then quietly steer choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, trust, hurt"
+   ]
+  },
+  {
+   "sno": 5445,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Gargi",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Barnum effect",
+   "subtype": "Testing the vague statement [Response]",
+   "description": "A young professional asks whether the opposite line would also fit and whether anything said is specific and checkable, then enjoys the reading as reflection without letting it decide a job or marriage.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5446,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Lakshmi",
+     "Samir"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "IKEA effect",
+   "subtype": "Loves the lopsided thing they made [Actor]",
+   "description": "A child treasures a wobbly clay pot they shaped themselves over a shop-bought one and insists it is the best; the effort put in makes the object feel more valuable to them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5447,
+   "plan": {
+    "15": "R4+T1"
+   },
+   "cast": {
+    "15": [
+     "Francis",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "IKEA effect",
+   "subtype": "Cannot see flaws in own project [Actor]",
+   "description": "A student resists a teacher's suggestions on a science model they spent days building; hours of effort make faults hard to see and criticism feel like an insult to the person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5448,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Sachin",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "IKEA effect",
+   "subtype": "Attached to self-built work [Observer]",
+   "description": "A team lead notices a developer clinging to a hand-written module that a standard library would replace better; the developer values it for the effort spent, not for how well it serves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5449,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Seema",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "IKEA effect",
+   "subtype": "Honouring effort without overpricing it [Response]",
+   "description": "An adult asks whether they would choose this work if starting fresh today, separating pride in the labour from the merit of the result, while still letting hand-made things be cherished.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 5450,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Vinita",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zeigarnik effect",
+   "subtype": "Unfinished puzzle keeps nagging [Actor]",
+   "description": "A child called away mid-puzzle keeps thinking about it and rushes back to finish, while finished tasks slip from mind; an open task holds attention more than a closed one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 5451,
+   "plan": {
+    "15": "R4+T1"
+   },
+   "cast": {
+    "15": [
+     "Abhinav",
+     "Imran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Zeigarnik effect",
+   "subtype": "Cliffhanger pulls them on [Actor]",
+   "description": "A teenager cannot stop thinking about a series that ended on a cliffhanger and watches one more episode; the open loop keeps the mind engaged and makes stopping hard.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger, interest"
+   ]
+  }
+ ]
+}

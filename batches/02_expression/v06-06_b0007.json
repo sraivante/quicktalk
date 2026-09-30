@@ -1,0 +1,215 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2122,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Amara",
+     "Kaito"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Delayed response in toddlers [Interpreting]",
+   "description": "A toddler who answers after a long delay is often processing, not ignoring. Adults who wait a few seconds after asking a question give a small child room to respond.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2123,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Sarita"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pauses and timing",
+   "subtype": "Interrupting and overlapping [Expressing]",
+   "description": "A toddler talks over others because turn-taking is not yet formed, not because of rudeness. Adults model brief pauses and say your turn, my turn to build the habit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2124,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Nikita",
+     "Neelam"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Musical vocal expression",
+   "subtype": "Lullaby singing and soothing [Interpreting]",
+   "description": "A toddler settles to a caregiver's lullaby because the slow rhythm, warm voice and closeness signal safety. The soothing effect comes more from the relationship and rhythm than from the tune itself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2125,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Uma"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Musical vocal expression",
+   "subtype": "Wordless melody and cooing [Expressing]",
+   "description": "A toddler hums, coos and sings wordless melodies while playing, showing contentment and self-soothing. Adults who echo the tune build connection and early language rhythm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 2126,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Farhan"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Separation and goodbye [Regulating]",
+   "description": "A toddler at drop-off may cry, cling or wave in turns as goodbye feelings mix. A short, predictable farewell ritual helps regulate distress better than sneaking away.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 2127,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Madhuri",
+     "Kunal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Waving and babbled hello [Expressing]",
+   "description": "A toddler waves, says bye-bye or babbles hello to show recognition and social interest. Shyness may lead to hiding instead, so adults do not force a greeting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness, interest"
+   ]
+  },
+  {
+   "sno": 2128,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Yusuf",
+     "Gautam"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Welcoming a familiar caregiver [Expressing]",
+   "description": "A toddler lights up, reaches or toddles toward a returning caregiver. This welcoming display shows secure attachment and joy, and predictable goodbyes and reunions strengthen it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, trust"
+   ]
+  },
+  {
+   "sno": 2129,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Trisha",
+     "Dolma"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Sharing information",
+   "subtype": "Naming and pointing [Expressing]",
+   "description": "A toddler points and names objects, sharing attention and information about what is interesting. Adults who respond by naming back build vocabulary and the sense that sharing matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 2130,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Yamini",
+     "Swati"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Asking and checking",
+   "subtype": "Questioning with tone and what-that [Expressing]",
+   "description": "A toddler asks what-that with rising tone or a pointing gesture, seeking names and attention. The question is often social as much as informational, so an answer plus a smile is enough.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2131,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Charu"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Recognition [Expressing]",
+   "description": "A toddler shows recognition of a familiar person with a smile, reaching or excited sounds. Absence of recognition around strangers can appear as staring or turning away.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, excitement"
+   ]
+  }
+ ]
+}

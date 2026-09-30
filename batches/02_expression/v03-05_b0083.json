@@ -1,0 +1,317 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2882,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Kavitha",
+     "Sharmila"
+    ],
+    "4": [
+     "Chandrika",
+     "Gurpreet"
+    ],
+    "5": [
+     "Arohi",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Digital expression",
+   "subtype": "Safety and consent in sharing images and voice [Regulating]",
+   "description": "A young adult asks before posting others' photos or voice notes and does not share private content without permission. Anyone can refuse, and pressure to send images or personal content should be reported to a trusted person or authority.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2883,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Nazia",
+     "Gurleen"
+    ],
+    "4": [
+     "Tushar",
+     "Thomas"
+    ],
+    "5": [
+     "Neelam",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Performing arts",
+   "subtype": "Storytelling at work and in public [Regulating]",
+   "description": "A young professional shapes a talk with pacing, pauses and anecdotes to move an audience, and moderates nerves through preparation. Persuasive delivery can inspire or mislead, so content still needs checking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2884,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Darshan"
+    ],
+    "4": [
+     "Amandeep",
+     "Arohi"
+    ],
+    "5": [
+     "Maria",
+     "Vidya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Craft and symbolic objects in rituals [Mismatch]",
+   "description": "A young adult uses rangoli, a wedding gift, a memorial photo or a lit diya to mark a meaning. The same object can be joyful in one setting and sombre in another, so cultural context defines it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 2885,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Rajni"
+    ],
+    "4": [
+     "Rekha",
+     "Maria"
+    ],
+    "5": [
+     "Anirban",
+     "Sonali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Digital design, emojis and stickers [Mismatch]",
+   "description": "A young professional picks stickers, GIFs and emojis to express tone in chats. The same image can be warm, sarcastic or passive-aggressive depending on the relationship and platform, so tone needs checking when stakes are high.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2886,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Amara",
+     "Zanele"
+    ],
+    "4": [
+     "Pranav",
+     "Usha"
+    ],
+    "5": [
+     "Eshaan",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Snap judgments from appearance [Mismatch]",
+   "description": "A person may guess wealth, religion, region or attitude from clothes, hair or accessories. Such guesses are often wrong and can be biased, so respectful curiosity is better than conclusions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, curiosity"
+   ]
+  },
+  {
+   "sno": 2887,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Sonali",
+     "Dilnaz"
+    ],
+    "4": [
+     "Chetan",
+     "Kavitha"
+    ],
+    "5": [
+     "Binita",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Uniforms, badges and professional identity [Interpreting]",
+   "description": "A young professional reads a lanyard, white coat, police or service uniform, or company badge as signalling role and authority. Verifying identity through proper channels matters, since anyone can wear a costume.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2888,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Baljeet",
+     "Harsha"
+    ],
+    "4": [
+     "Bao",
+     "Kwame"
+    ],
+    "5": [
+     "Omkar",
+     "Rekha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Applause and its many meanings [Mismatch]",
+   "description": "A young professional hears polite, enthusiastic, ironic or slow clapping. The same sound can mean approval, courtesy or mockery, so volume, timing and setting shape how it is read.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 2889,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Salma",
+     "Naveen"
+    ],
+    "4": [
+     "Pooja",
+     "Amandeep"
+    ],
+    "5": [
+     "Afreen",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Crowd tension and de-escalation [Regulating]",
+   "description": "A young adult in a tense crowd notices rising chants or pushing, signals that a group may escalate. The wise response is to stay calm, keep an exit, avoid provoking others and step away if safety is at risk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 2890,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Vandana",
+     "Rafiq"
+    ],
+    "4": [
+     "Ayesha",
+     "Reena"
+    ],
+    "5": [
+     "Vaibhav",
+     "Gautam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Collective and ritual expression",
+   "subtype": "Online collective expression [Expressing]",
+   "description": "A young adult joins hashtags, petitions, group chats or shared black-profile-picture moments to show solidarity. Digital unity is easy to join and quick to fade, and it works best paired with real support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2891,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Sumit",
+     "Himani"
+    ],
+    "4": [
+     "Seema",
+     "Ojas"
+    ],
+    "5": [
+     "Amara",
+     "Soo-ah"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pleasure and connection",
+   "subtype": "Affectionate and delighted at work and home [Regulating]",
+   "description": "A young adult shares affection and delight through tone, thanks and celebrating others' wins, while keeping professional limits at work. Warmth is best when it is welcome and consensual.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: joy, affection, gratitude"
+   ]
+  }
+ ]
+}

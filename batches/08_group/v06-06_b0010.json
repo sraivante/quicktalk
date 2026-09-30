@@ -1,0 +1,211 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3439,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Dolma",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Gossip networks",
+   "subtype": "Being the subject of office talk [Receiver]",
+   "description": "An employee finds out that colleagues speculate about their personal life or promotion. They feel exposed and may over-manage their image, wasting energy on impressions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3440,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Darshan",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Gossip networks",
+   "subtype": "Going directly to the person [Response]",
+   "description": "An adult with a concern about someone speaks to them directly and privately, not to third parties. Directness is harder in the moment but prevents the slow poison of talk behind the back.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3441,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Alejandro",
+     "Esther"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Who plays with whom [Actor]",
+   "description": "Young children begin declaring that someone cannot play or is their best friend. Early exclusion tests power and closeness, and adults can gently teach that everyone gets a turn.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3442,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Gurpreet",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Forming an exclusive group [Actor]",
+   "description": "A group of children names itself, makes rules and decides who is in. The thrill of being chosen is real, and it depends on someone else being left out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 3443,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rania",
+     "Ulla"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Outside the circle [Receiver]",
+   "description": "A child watches the popular group laughing and feels a sharp mix of longing and hurt. They may try harder to be noticed or pretend not to care.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, nostalgia, hurt"
+   ]
+  },
+  {
+   "sno": 3444,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Lokesh",
+     "Deepika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Including the left-out child [Response]",
+   "description": "A child or teacher invites a lone child into a game without fuss. A small, ordinary act of inclusion changes a school day for the one included.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3445,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Zainab",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Climbing the ladder [Actor]",
+   "description": "A teenager judges their standing by who sits with them, who tags them and what they wear. They may drop old friends who lower their status and feel a private ache about it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3446,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Sunaina",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Low status and quiet exclusion [Receiver]",
+   "description": "A teenager is not openly bullied but is never invited, tagged or waited for. Being ignored gradually convinces them that something is wrong with them personally.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3447,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Varun",
+     "Pranav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Queen bee or top-dog control [Observer]",
+   "description": "A peer watches the group's leader decide who is in favour this week, keeping everyone anxious and obedient. Fear of losing standing keeps the members loyal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 3448,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Cliques and status hierarchies",
+   "subtype": "Hierarchies by college, city and money [Observer]",
+   "description": "A student sees the pecking order shift to college brand, English fluency, wealth and connections. Status markers are less obvious than in school but no less sorted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

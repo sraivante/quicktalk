@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1068,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Siddharth"
+    ],
+    "3": [
+     "Alka",
+     "Samir"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Mixed respect [Actor]",
+   "description": "A strict teacher is unfair sometimes yet also taught me a lot. I feel respect and resentment together. Wise: hold both truths and speak to the unfair part specifically.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation",
+    "related mind states: admiration, resentment"
+   ]
+  },
+  {
+   "sno": 1069,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Vikas"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Fear [Receiver]",
+   "description": "A teacher threatens failing marks if I object. Wise: keep records, tell a parent, and use the school's grievance process; being afraid to speak is not weakness.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, forgiveness, gratitude, humiliation, resentment",
+    "paired view exists: Actor (S1064)",
+    "related mind states: grief, fear"
+   ]
+  },
+  {
+   "sno": 1070,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Nilesh"
+    ],
+    "3": [
+     "Uma",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher seems unfair",
+   "subtype": "Teacher × Forgiveness [Actor]",
+   "description": "Months later the teacher admits an error in my marks. I feel vindicated and tempted to gloat. Wise: accept it graciously, and keep the lesson about how to raise concerns.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, favouritism, fear, gratitude, humiliation, resentment"
+   ]
+  },
+  {
+   "sno": 1071,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Vikas"
+    ],
+    "3": [
+     "Yamini",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Coach × Worship [Actor]",
+   "description": "I follow my coach's every word and want their approval above all. Wise: learn from them and keep my own judgement, and notice when they cross a line. Harmful: silence about mistreatment.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, exploitation, fear, gratitude, rivalry"
+   ]
+  },
+  {
+   "sno": 1072,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Urmila"
+    ],
+    "3": [
+     "Mridul",
+     "Manoj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Coach × Fear [Receiver]",
+   "description": "A coach yells and shames players to win. I feel dread. Wise: distinguish tough training from abuse; talk to parents or a school official if it becomes humiliation or touching feels wrong.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, exploitation, gratitude, rivalry, worship",
+    "related mind states: fear, shame, humiliation"
+   ]
+  },
+  {
+   "sno": 1073,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Keerthana"
+    ],
+    "3": [
+     "Payal",
+     "Tenzin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Mentor × Exploitation [Receiver]",
+   "description": "A senior or mentor uses my work or time for their own gain while promising opportunities. Wise: notice the imbalance, ask clear questions, and seek other mentors. Harmful: hoping praise will come.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, fear, gratitude, rivalry, worship"
+   ]
+  },
+  {
+   "sno": 1074,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pallavi",
+     "Nilesh"
+    ],
+    "3": [
+     "Rafiq",
+     "Suraj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Mentor × Gratitude [Actor]",
+   "description": "A mentor gave time without asking anything back. Wise: thank them and pass it on later. Harmful: idealising them so much that I cannot disagree.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, exploitation, fear, rivalry, worship",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1075,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Avni",
+     "Mridul"
+    ],
+    "3": [
+     "Arnab",
+     "Eshaan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Coach × Rivalry [Actor]",
+   "description": "I resent the coach who benches me and think they prefer others. Wise: ask what to improve and keep training. Harmful: quitting angrily or talking behind their back.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, exploitation, fear, gratitude, worship",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 1076,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Binita"
+    ],
+    "3": [
+     "Gopika",
+     "Darshan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Coach or mentor guides me",
+   "subtype": "Mentee × Idolised [Receiver]",
+   "description": "A younger student idolises me and copies everything I do. Wise: be a good example, admit my flaws, and encourage them to think for themselves. Harmful: enjoying the worship.",
+   "graph_context": [
+    "same situation, other stances at this age: exploitation, fear, gratitude, rivalry, worship"
+   ]
+  },
+  {
+   "sno": 1077,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Damini"
+    ],
+    "3": [
+     "Darshan",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Peer pressure to fit in",
+   "subtype": "Friends × Peer pressure [Receiver]",
+   "description": "Friends push me to try something risky like smoking, vaping, or skipping class, calling me boring. Wise: say a light, steady no, and leave if needed. Real friends do not cost me my safety.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, loyalty, manipulation, protectiveness",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

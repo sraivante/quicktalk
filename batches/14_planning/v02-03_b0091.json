@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6661,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Nazia"
+    ],
+    "3": [
+     "Shankar",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: means-end analysis from company pattern to gap [Thinking]",
+   "description": "A student reviews the past three years of a target company's rounds, notes aptitude, coding and HR stages, and compares each stage with current ability to find the biggest gap.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, overplanning, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6662,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Nandini"
+    ],
+    "3": [
+     "Bidisha",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: time-boxed daily practice blocks [Action]",
+   "description": "Over six weeks, the student fixes ninety minutes for coding problems, forty for aptitude and thirty for speaking practice, and keeps a log of solved problems.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6663,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Priscila",
+     "Nour"
+    ],
+    "3": [
+     "Vandana",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: mental simulation of the interview room [Thinking]",
+   "description": "The student imagines walking in, being asked about a project, and stumbling on a follow-up, and then prepares a calm sentence for saying they are unsure but would reason it out.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, overplanning, pre-mortem, time-boxing",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6664,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Nikita"
+    ],
+    "3": [
+     "Pankaj",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: memorising answers word for word [Pitfall]",
+   "description": "A candidate scripts every HR answer from the internet, sounds rehearsed, and freezes when the interviewer changes the question slightly.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, overplanning, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6665,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Himani"
+    ],
+    "3": [
+     "Usha",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: mock interviews with a peer for feedback [Action]",
+   "description": "Two friends interview each other weekly, record answers on a phone, and note filler words and unclear explanations, and then fix one weakness per week.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6666,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Ojas"
+    ],
+    "3": [
+     "Salma",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: overplanning while skipping practice [Pitfall]",
+   "description": "A student builds an elaborate colour-coded prep calendar and spends days on it, but solves very few problems, so the polished plan replaces the actual work.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6667,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Deepak",
+     "Kishore"
+    ],
+    "3": [
+     "Salma",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: pre-mortem before the aptitude round [Thinking]",
+   "description": "The night before a test, a student imagines failing and lists likely causes: slow start, one hard question eating time, nervousness. Each cause gets a rule, such as skipping after two minutes.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, time-boxing",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6668,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Jagdish"
+    ],
+    "3": [
+     "Baljeet",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: learning from a rejection debrief [Revision]",
+   "description": "After failing the technical round, the student writes down each question missed, learns the underlying concept, and finds the next company's questions feel easier.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6669,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Ganga",
+     "Swati"
+    ],
+    "3": [
+     "Rukmini",
+     "Naveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: emotion-aware planning around nerves [Revision]",
+   "description": "Noticing that anxiety spikes on interview mornings, the student adds a short walk, light breakfast and reaching the venue early, and stops cramming in the last hour.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, pre-mortem, time-boxing",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6670,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Suraj"
+    ],
+    "3": [
+     "Vinita",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for placement interviews",
+   "subtype": "Approach: sleeping on an unclear question [Thinking]",
+   "description": "Stuck on a dynamic programming problem late at night, a student stops, sleeps, and sees the recurrence more clearly in the morning after the mind has sorted the pieces.",
+   "graph_context": [
+    "same problem, other approaches: means-end analysis, mental simulation, overplanning, pre-mortem, time-boxing"
+   ]
+  }
+ ]
+}

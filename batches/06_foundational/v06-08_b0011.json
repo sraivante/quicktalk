@@ -1,0 +1,317 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5542,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Irfan",
+     "Sahil"
+    ],
+    "7": [
+     "Afreen",
+     "Shreya"
+    ],
+    "8": [
+     "Chetan",
+     "Ayesha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Hiraeth for a home and language left behind [Actor]",
+   "description": "A college student in another city feels an ache for their mother tongue, town lanes and festivals, and for a home that in memory is more perfect than it ever was.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5543,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Varun",
+     "Kavitha"
+    ],
+    "7": [
+     "Indu",
+     "Sarika"
+    ],
+    "8": [
+     "Reena",
+     "Damini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Longing for a place that may no longer exist [Actor]",
+   "description": "A young professional working far from family visits the hometown and finds it changed; the longing is for a time as much as a place, and it cannot be fully satisfied.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: contentment, nostalgia"
+   ]
+  },
+  {
+   "sno": 5544,
+   "plan": {
+    "6": "R10",
+    "7": "R11",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Sangeeta"
+    ],
+    "7": [
+     "Charu",
+     "Damini"
+    ],
+    "8": [
+     "Gurpreet",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Parent at home yearning for the grown child [Observer]",
+   "description": "A young adult sees a parent pause at a photograph or keep the child's room ready; love now shows itself as waiting, and a call or a visit carries more than words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 5545,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Sudha",
+     "Nitin"
+    ],
+    "7": [
+     "Darshan",
+     "Lavanya"
+    ],
+    "8": [
+     "Thomas",
+     "Rekha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Carrying home while building a new one [Response]",
+   "description": "An adult keeps rituals, video calls and a festival meal alive, and also builds friendships where they live, letting longing warm them without pulling them out of the present.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: nostalgia, resentment"
+   ]
+  },
+  {
+   "sno": 5546,
+   "plan": {
+    "6": "R7",
+    "7": "R8+T1",
+    "8": "R13+T1"
+   },
+   "cast": {
+    "6": [
+     "Dolma",
+     "Harsha"
+    ],
+    "7": [
+     "Hana",
+     "Pablo"
+    ],
+    "8": [
+     "Indu",
+     "Anand"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Vicarious emotion",
+   "subtype": "Cries when another child cries [Actor]",
+   "description": "A toddler at nursery bursts into tears when another child does, without knowing why; feelings spread quickly between very young children.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5547,
+   "plan": {
+    "6": "R9",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Deepika",
+     "Sahil"
+    ],
+    "7": [
+     "Naveen",
+     "Gautam"
+    ],
+    "8": [
+     "Hansa",
+     "Manjula"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Vicarious emotion",
+   "subtype": "Embarrassed for a friend who is called out [Actor]",
+   "description": "A child squirms and looks down when a friend is scolded in class as if it were their own shame, feeling the friend's discomfort in their own body.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26",
+    "related mind states: shame, embarrassment"
+   ]
+  },
+  {
+   "sno": 5548,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Manjula",
+     "Jaya"
+    ],
+    "7": [
+     "Raghav",
+     "Francis"
+    ],
+    "8": [
+     "Farhan",
+     "Sharmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Vicarious emotion",
+   "subtype": "Thrill at a team's win or a character's fate [Actor]",
+   "description": "A teenager's heart pounds during a cricket final or a film's climax as if the outcome were their own; feeling with others and stories connects them and gives strong shared joy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 5549,
+   "plan": {
+    "6": "R3",
+    "7": "R4",
+    "8": "R5"
+   },
+   "cast": {
+    "6": [
+     "Aparna",
+     "Sunaina"
+    ],
+    "7": [
+     "Gopika",
+     "Vaibhav"
+    ],
+    "8": [
+     "Rehana",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Vicarious emotion",
+   "subtype": "Absorbing strangers' pain from the news feed [Actor]",
+   "description": "A young adult scrolls through distressing stories, feeling tense and low for hours, unsure why; the pain of others can soak in when there is nothing one can do.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 5550,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Amandeep",
+     "Arohi"
+    ],
+    "7": [
+     "Divyansh",
+     "Ritu"
+    ],
+    "8": [
+     "Baljeet",
+     "Dilnaz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Vicarious emotion",
+   "subtype": "Feeling with others without taking the feeling over [Response]",
+   "description": "An adult notes \"this is their feeling, not mine\", takes breaks from heavy content, and channels the feeling into a small act of help rather than carrying it silently.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5551,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Mohit",
+     "Gautam"
+    ],
+    "7": [
+     "Nirmala",
+     "Saurabh"
+    ],
+    "8": [
+     "Nitin",
+     "Salma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Empathic distress vs compassion",
+   "subtype": "Child freezes and cries at a friend's fall [Actor]",
+   "description": "A child sees a friend fall, cries loudly and cannot move; their own distress swamps them, so no help comes, though the caring feeling is real.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: overwhelm"
+   ]
+  }
+ ]
+}

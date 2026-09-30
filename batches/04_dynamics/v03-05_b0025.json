@@ -1,0 +1,330 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3148,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Keerthana",
+     "Siddharth"
+    ],
+    "4": [
+     "Maria",
+     "Joseph"
+    ],
+    "5": [
+     "Arnab",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 5: Bargaining and what-ifs [Actor]",
+   "description": "A young adult replays the last phone call and thinks if only they had visited sooner. Guilt gives an illusion of control over something that was never in their hands, and it can loop for months.",
+   "graph_context": [
+    "next stage: Waves and anniversaries",
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: guilt",
+    "related concepts: illusion of control"
+   ]
+  },
+  {
+   "sno": 3149,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Karthik",
+     "Thomas"
+    ],
+    "4": [
+     "Mahima",
+     "Lokesh"
+    ],
+    "5": [
+     "Reena",
+     "Noor"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 6: Waves and anniversaries [Actor]",
+   "description": "Months later, a festival, a smell or a song brings sudden tears in a lecture hall or office. Grief comes in waves rather than a straight line, and the surprise of a wave can feel like going backwards when it is not.",
+   "graph_context": [
+    "previous stage: Bargaining and what-ifs",
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief, surprise"
+   ]
+  },
+  {
+   "sno": 3150,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kishore",
+     "Parveen"
+    ],
+    "4": [
+     "Dhruv",
+     "Madhav"
+    ],
+    "5": [
+     "Mahima",
+     "Parveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 6: Waves and anniversaries [Response]",
+   "description": "A young adult learns to expect hard dates, plans them with a friend or ritual, and lets the tears come without judging them. Naming the wave as grief, not weakness, lets it pass faster.",
+   "graph_context": [
+    "previous stage: Bargaining and what-ifs",
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3151,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Leela",
+     "Deepika"
+    ],
+    "4": [
+     "Sunaina",
+     "Hemant"
+    ],
+    "5": [
+     "Shalini",
+     "Francis"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 7: Guilt, relief and mixed feelings [Actor]",
+   "description": "After a long illness ended in death, a caregiver feels grief alongside relief and then shame about the relief. Both are common and true at once, and hiding the shame keeps it heavy.",
+   "graph_context": [
+    "next stage: Integration and continuing bond",
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: grief, shame, guilt, relief"
+   ]
+  },
+  {
+   "sno": 3152,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Pankaj",
+     "Vidya"
+    ],
+    "4": [
+     "Ayesha",
+     "Trisha"
+    ],
+    "5": [
+     "Uday",
+     "Eshaan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 8: Integration and continuing bond [Response]",
+   "description": "Years on, the person is remembered with warmth as well as pain. The griever keeps a habit, recipe or value from them, carries on with life without betraying the memory, and seeks counselling if the pain stays frozen or disabling.",
+   "graph_context": [
+    "previous stage: Guilt, relief and mixed feelings",
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection, grief, hurt"
+   ]
+  },
+  {
+   "sno": 3153,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Joseph",
+     "Samir"
+    ],
+    "4": [
+     "Leela",
+     "Chinmay"
+    ],
+    "5": [
+     "Anirban",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Grief over months and years",
+   "subtype": "Stage 4: Others move on [Response]",
+   "description": "A friend of a mourner keeps saying the lost person's name, offers a meal or a walk months later and asks how they are today. Ongoing presence, not one big gesture, is what grief needs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3154,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Swati"
+    ],
+    "4": [
+     "Ritu",
+     "Parul"
+    ],
+    "5": [
+     "Ayesha",
+     "Rukmini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Burnout build-up and recovery",
+   "subtype": "Stage 1: Enthusiastic overcommitment [Actor]",
+   "description": "A high-achiever takes on board exams, coaching, debate and a part-time task, proud of being the reliable one. Energy is high, sleep is cut, and praise from others fuels the pace.",
+   "graph_context": [
+    "next stage: Running on fumes",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: excitement, pride"
+   ]
+  },
+  {
+   "sno": 3155,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Jasleen",
+     "Arnab"
+    ],
+    "4": [
+     "Pallavi",
+     "Ramesh"
+    ],
+    "5": [
+     "Pradeep",
+     "Mridul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Burnout build-up and recovery",
+   "subtype": "Stage 2: Running on fumes [Actor]",
+   "description": "The student starts to rely on caffeine and late nights, catches every cold and stops enjoying hobbies. Tiredness is read as laziness, so the answer is to push harder rather than rest.",
+   "graph_context": [
+    "previous stage: Enthusiastic overcommitment",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 3156,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Neelam",
+     "Karthik"
+    ],
+    "4": [
+     "Lalit",
+     "Chinmay"
+    ],
+    "5": [
+     "Sangeeta",
+     "Sachin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Burnout build-up and recovery",
+   "subtype": "Stage 3: Cynicism and detachment [Actor]",
+   "description": "An intern or final-year student begins to feel that the work is pointless and sneers at classmates who still care. Cynicism protects an exhausted mind from caring about things it can no longer afford to care about.",
+   "graph_context": [
+    "next stage: Inefficacy and errors",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: tiredness, detachment"
+   ]
+  },
+  {
+   "sno": 3157,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Preeti",
+     "Damini"
+    ],
+    "4": [
+     "Dilnaz",
+     "Simran"
+    ],
+    "5": [
+     "Aparna",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Burnout build-up and recovery",
+   "subtype": "Stage 4: Inefficacy and errors [Actor]",
+   "description": "Simple tasks take twice as long, mistakes multiply and the person feels like a fraud. The self-criticism deepens the exhaustion, which is why effort alone no longer fixes it.",
+   "graph_context": [
+    "previous stage: Cynicism and detachment",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: tiredness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6071,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Avni"
+    ],
+    "3": [
+     "Jomon",
+     "Anand"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: watching others and copying their arm strokes [Action]",
+   "description": "A boy watches an older swimmer's arm movement and copies it on the poolside. He tries it in the water with the coach watching, who fixes his elbow position.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6072,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Zainab"
+    ],
+    "3": [
+     "Neelam",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: practising only with a float and never without [Pitfall]",
+   "description": "A girl always holds a kickboard because it feels safe. After weeks she still cannot swim alone, since she never tried letting go even in the shallow water with the coach nearby.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning, trial by imitation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6073,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Francis",
+     "Raghav"
+    ],
+    "3": [
+     "Vikas",
+     "Sunaina"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: swimming only when a trained adult is watching [Thinking]",
+   "description": "A child understands that pools and rivers can be dangerous and decides never to go into water without a grown-up lifeguard. He treats this as part of the plan, not a limit.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6074,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Parveen",
+     "Vandana"
+    ],
+    "3": [
+     "Nandini",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: setting small distances as goals [Revision]",
+   "description": "Feeling slow, a girl decides to swim one width of the pool, then two. Each goal is small enough to reach, and she counts her progress in widths each week.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6075,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Ujjwal"
+    ],
+    "3": [
+     "Deepak",
+     "Rehana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: writing a list from the teacher's notice [Action]",
+   "description": "A boy reads the circular for the museum trip and lists lunch, water, cap, ID card and money. Using the notice as the source means he does not have to guess.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, mental simulation, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6076,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Hrithik"
+    ],
+    "3": [
+     "Zanele",
+     "Wanjiru"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: imagining the day from morning to evening [Thinking]",
+   "description": "A girl walks through the trip in her mind, the bus, walking in the sun, lunch, and the ride back. She adds a hat, tissues and a plastic bag for wrappers.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6077,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Nikita"
+    ],
+    "3": [
+     "Shankar",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: packing at the last minute in a hurry [Pitfall]",
+   "description": "A child begins packing at 6:30 am when the bus is due at 7. He forgets his permission slip and water bottle, and his mother has to run to the gate with them.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, mental simulation, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6078,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Harsha",
+     "Tanuja"
+    ],
+    "3": [
+     "Rafiq",
+     "Sarika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: keeping the bag light and taking only what is needed [Thinking]",
+   "description": "A boy remembers a heavy bag tired him last time. He decides to leave out toys and extra books, and picks a small bag that he can carry all day.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, pre-mortem",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 6079,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Samir"
+    ],
+    "3": [
+     "Ishita",
+     "Dolma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: packing the day before and checking twice [Action]",
+   "description": "A girl packs the evening before and checks the list again in the morning. The two checks catch the missing sun cap, and she goes with a calm mind.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, mental simulation, pre-mortem",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6080,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Yash",
+     "Yusuf"
+    ],
+    "3": [
+     "Hrithik",
+     "Salma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a school trip packing",
+   "subtype": "Approach: taking everything he might possibly need [Pitfall]",
+   "description": "A boy is so worried about what could go wrong that he packs three snacks, two jackets and a big torch. The bag is heavy and the teacher asks him to leave half at school.",
+   "graph_context": [
+    "same problem, other approaches: learning from past failure, mental simulation",
+    "related mind states: anxiety"
+   ]
+  }
+ ]
+}

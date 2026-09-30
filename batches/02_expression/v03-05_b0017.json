@@ -1,0 +1,320 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2222,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Pema",
+     "Vaibhav"
+    ],
+    "4": [
+     "Rukmini",
+     "Gautam"
+    ],
+    "5": [
+     "Divyansh",
+     "Uday"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Sitting beside a friend [Expressing]",
+   "description": "A preschooler chooses a seat next to a favourite playmate or a trusted teacher. Sitting close shows liking and comfort, while shifting away may show a quarrel; kids also change seats just for fun, so patterns matter more than one moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness, trust"
+   ]
+  },
+  {
+   "sno": 2223,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Asif",
+     "Indu"
+    ],
+    "4": [
+     "Chandrika",
+     "Imran"
+    ],
+    "5": [
+     "Sahil",
+     "Disha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Chortling and chuckling with delight [Expressing]",
+   "description": "A young child gives a low, pleased chortle when a game, a joke or a surprise works. It signals enjoyment and shared fun; children copy the laughter styles of adults around them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, amusement, playfulness, surprise"
+   ]
+  },
+  {
+   "sno": 2224,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Naveen",
+     "Gopika"
+    ],
+    "4": [
+     "Nandini",
+     "Pooja"
+    ],
+    "5": [
+     "Sofia",
+     "Santiago"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Giggling and silliness with peers [Expressing]",
+   "description": "A preschooler bursts into giggles during silly play, funny words or bathroom jokes. It shows joy and belonging and spreads quickly; a child sometimes laughs in a serious moment because of nerves rather than disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, amusement, playfulness, admiration"
+   ]
+  },
+  {
+   "sno": 2225,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Indu"
+    ],
+    "4": [
+     "Lokesh",
+     "Dhruv"
+    ],
+    "5": [
+     "Simran",
+     "Sarita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Suppressed laughter in class [Regulating]",
+   "description": "A child bites a lip, covers the mouth or looks down to hold back a giggle in a quiet moment. It shows awareness of rules and effort at self-control; a brief movement break or a whisper later helps release it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 2226,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Ankita",
+     "Harish"
+    ],
+    "4": [
+     "Jasleen",
+     "Zubin"
+    ],
+    "5": [
+     "Vandana",
+     "Afreen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Crying with tantrums and words [Expressing]",
+   "description": "A preschooler wails during a tantrum, then cries while explaining what went wrong. Strong feeling can outrun words at this age; staying calm, naming the emotion and setting a kind limit works better than punishing tears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, calm"
+   ]
+  },
+  {
+   "sno": 2227,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Gautam",
+     "Gargi"
+    ],
+    "4": [
+     "Anders",
+     "Gabriel"
+    ],
+    "5": [
+     "Imran",
+     "Farida"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Learning it is okay to cry [Regulating]",
+   "description": "A child who is told stop crying or be brave may learn to hide feelings, while one who hears it is okay to cry learns to handle sadness. Comfort followed by a talk about what happened builds emotional skills.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 2228,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Yash",
+     "Pooja"
+    ],
+    "4": [
+     "Ritu",
+     "Arohi"
+    ],
+    "5": [
+     "Sumit",
+     "Alka"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Vocal outbursts",
+   "subtype": "Cheering and squealing [Expressing]",
+   "description": "A preschooler cheers at a win, squeals at a surprise or whoops on a swing. It signals joy and excitement and is welcome in play, but reading the setting, for example a quiet hospital, is a skill still being learned.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, excitement, surprise"
+   ]
+  },
+  {
+   "sno": 2229,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Mohit",
+     "Chandrika"
+    ],
+    "4": [
+     "Sahil",
+     "Asif"
+    ],
+    "5": [
+     "Suraj",
+     "Elizabeth"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Vocal outbursts",
+   "subtype": "Learning indoor and outdoor voices [Regulating]",
+   "description": "A child learns to swap a yell for an indoor voice when reminded, and to scream only for fun or danger. Clear rules, praise for trying and a shared signal help self-control grow gradually.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness, anger"
+   ]
+  },
+  {
+   "sno": 2230,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Simran",
+     "Damini"
+    ],
+    "4": [
+     "Nkechi",
+     "Mina"
+    ],
+    "5": [
+     "Dilnaz",
+     "Uma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Other vocal sounds",
+   "subtype": "Gasping in surprise and awe [Expressing]",
+   "description": "A child gasps at a surprise, a magic trick or a fright. A gasp shows a quick intake of attention rather than a specific feeling, and the face and context tell whether it is joy or alarm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, surprise, awe"
+   ]
+  },
+  {
+   "sno": 2231,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Anand",
+     "Vijay"
+    ],
+    "4": [
+     "Gopika",
+     "Amandeep"
+    ],
+    "5": [
+     "Tanuja",
+     "Kamal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Other vocal sounds",
+   "subtype": "Humming and whistling while playing [Expressing]",
+   "description": "A preschooler hums or whistles while drawing or playing, showing contentment or focus. Humming can also soothe worry, so a sudden stop may show a change of mood; a child who hums a lot is usually simply happy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, anxiety, contentment"
+   ]
+  }
+ ]
+}

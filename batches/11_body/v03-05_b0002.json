@@ -1,0 +1,317 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4129,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Kalyani",
+     "Yusuf"
+    ],
+    "4": [
+     "Keerthana",
+     "Tanuja"
+    ],
+    "5": [
+     "Sarita",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "College sleep debt and mood swings [Actor]",
+   "description": "A young adult in a hostel runs on late nights, chai and skipped lectures, then feels flat, anxious or snappy without linking it to sleep. Small, regular sleep changes often lift mood more than any new motivation trick.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4130,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Pema"
+    ],
+    "4": [
+     "Charu",
+     "Uday"
+    ],
+    "5": [
+     "Madhuri",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Roommate living with a night owl [Receiver]",
+   "description": "A roommate whose sleep is disturbed by light, calls or noise grows resentful and passive-aggressive. Naming the problem early, with a specific request and a compromise, prevents a quiet feud from growing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hostility, resentment"
+   ]
+  },
+  {
+   "sno": 4131,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Gurpreet",
+     "Suraj"
+    ],
+    "4": [
+     "Shalini",
+     "Eshaan"
+    ],
+    "5": [
+     "Parveen",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Sleep sacrificed for early career [Actor]",
+   "description": "A young professional treats short sleep as proof of dedication, then notices poorer judgment, irritability in meetings and dependence on caffeine. Sleep loss quietly lowers the very performance the long hours were meant to raise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4132,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Sahil",
+     "Bhupen"
+    ],
+    "4": [
+     "Hansa",
+     "Divyansh"
+    ],
+    "5": [
+     "Afreen",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Colleague seeing a drained coworker [Observer]",
+   "description": "A colleague notices repeated small mistakes, flat humour and shortness in a usually sharp teammate. A private, kind check-in about workload and rest helps more than gossip or criticism of the errors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement, tiredness",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 4133,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jyoti",
+     "Sumit"
+    ],
+    "4": [
+     "Aditi",
+     "Vidya"
+    ],
+    "5": [
+     "Arnab",
+     "Afreen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Sleep and sleep loss",
+   "subtype": "Persistent insomnia and knowing when to seek help [Response]",
+   "description": "When poor sleep lasts weeks despite good habits, or comes with deep low mood or worry, a wise person speaks to a doctor rather than pushing through. Steady wake times and a dark, quiet room support any professional plan.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4134,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Bhupen",
+     "Keerthana"
+    ],
+    "4": [
+     "Priscila",
+     "Noa"
+    ],
+    "5": [
+     "Samir",
+     "Zeenat"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Hunger and hangry moods",
+   "subtype": "Hungry toddler crying [Actor]",
+   "description": "A toddler who is hungry cannot say so and shows it through crying, grabbing, throwing food or refusing everything. Feeding on a regular rhythm often ends the tantrum faster than any discipline.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 4135,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Trisha",
+     "Ganga"
+    ],
+    "4": [
+     "Ishita",
+     "Suraj"
+    ],
+    "5": [
+     "Aparna",
+     "Farida"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Hunger and hangry moods",
+   "subtype": "Preschooler falling apart before dinner [Actor]",
+   "description": "A young child late for a meal turns whiny, hits a sibling or bursts into tears over a broken biscuit. The mood is real but physical, and a small snack usually restores the child better than a lecture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4136,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Mohit",
+     "Arohi"
+    ],
+    "4": [
+     "Alka",
+     "Urmila"
+    ],
+    "5": [
+     "Sangeeta",
+     "Nikita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Hunger and hangry moods",
+   "subtype": "Skipped lunch and school irritability [Observer]",
+   "description": "A teacher notices a child who ate little at lunch becoming edgy, distractible and quick to quarrel. Recognising hunger as the cause avoids treating a physical need as bad behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4137,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Maria"
+    ],
+    "4": [
+     "Rajni",
+     "Gurpreet"
+    ],
+    "5": [
+     "Gargi",
+     "Chandrika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Hunger and hangry moods",
+   "subtype": "Teen growth spurt appetite and grumpiness [Actor]",
+   "description": "A growing teenager gets sharp and low when meals are late because the body is demanding fuel. Recognising the pattern lets the teen say I need to eat before we talk instead of blaming everyone around.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4138,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Eshaan",
+     "Kalyani"
+    ],
+    "4": [
+     "Parveen",
+     "Asif"
+    ],
+    "5": [
+     "Jomon",
+     "Deepika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Hunger and hangry moods",
+   "subtype": "Hangry argument between friends [Receiver]",
+   "description": "A friend snapped at over nothing after a long day without food may take it personally. Knowing hunger shortens tempers lets both people pause, eat first and revisit the real issue later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

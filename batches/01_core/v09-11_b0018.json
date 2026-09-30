@@ -1,0 +1,289 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 171,
+   "plan": {
+    "9": "R8",
+    "10": "R9+T1",
+    "11": "R12+T1"
+   },
+   "cast": {
+    "9": [
+     "Emeka",
+     "Sofia"
+    ],
+    "10": [
+     "Avni",
+     "Nazia"
+    ],
+    "11": [
+     "Vaibhav",
+     "Madhav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Morality",
+   "subtopic": "Honesty",
+   "subtype": "Truth vs. Lie Distinction",
+   "description": "Understanding that lying breaks trust; experimenting with lies and seeing consequences.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 172,
+   "plan": {
+    "9": "R13",
+    "10": "R15+T1",
+    "11": "R1+T1"
+   },
+   "cast": {
+    "9": [
+     "Dilnaz",
+     "Mridul"
+    ],
+    "10": [
+     "Eshaan",
+     "Hemant"
+    ],
+    "11": [
+     "Madhav",
+     "Eshaan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Morality",
+   "subtopic": "Repair",
+   "subtype": "Apologizing & Making Amends",
+   "description": "Repairing harm through saying sorry, helping or returning an item."
+  },
+  {
+   "sno": 173,
+   "plan": {
+    "9": "R1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Nazia",
+     "Farida"
+    ],
+    "10": [
+     "Tanvir",
+     "Gurpreet"
+    ],
+    "11": [
+     "Francis",
+     "Ritu"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Diversity Awareness",
+   "subtype": "Noticing Differences Kindly",
+   "description": "Noticing differences in appearance, language, ability and family type without hostility.",
+   "graph_context": [
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 174,
+   "plan": {
+    "9": "R2",
+    "10": "R4+T1",
+    "11": "R7+T1"
+   },
+   "cast": {
+    "9": [
+     "Akash",
+     "Indu"
+    ],
+    "10": [
+     "Deepak",
+     "Suraj"
+    ],
+    "11": [
+     "Shalini",
+     "Nilesh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Safety",
+   "subtopic": "Personal Safety",
+   "subtype": "Home, Road & Stranger Safety",
+   "description": "Knowing own name and parent contact, crossing roads with an adult, telling a trusted adult about unsafe touch.",
+   "graph_context": [
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 175,
+   "plan": {
+    "9": "R13",
+    "10": "R15+T1",
+    "11": "R1+T1"
+   },
+   "cast": {
+    "9": [
+     "Sachin",
+     "Arohi"
+    ],
+    "10": [
+     "Jahnavi",
+     "Rafiq"
+    ],
+    "11": [
+     "Pranav",
+     "Rashmi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Physical",
+   "subtopic": "Health Habits",
+   "subtype": "Eating, Sleep & Hygiene Independence",
+   "description": "Brushing, washing, dressing oneself and accepting a variety of foods."
+  },
+  {
+   "sno": 176,
+   "plan": {
+    "9": "R8",
+    "10": "R9+T1",
+    "11": "R12+T1"
+   },
+   "cast": {
+    "9": [
+     "Alejandro",
+     "Kaito"
+    ],
+    "10": [
+     "Mahima",
+     "Gargi"
+    ],
+    "11": [
+     "Divyansh",
+     "Sunaina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cultural",
+   "subtopic": "Cultural Identity",
+   "subtype": "Festivals, Folk Stories & Family Traditions",
+   "description": "Participating in traditions and understanding \"this is how our family does it\"."
+  },
+  {
+   "sno": 177,
+   "plan": {
+    "9": "R12",
+    "10": "R13+T1",
+    "11": "R15+T1"
+   },
+   "cast": {
+    "9": [
+     "Varun",
+     "Mridul"
+    ],
+    "10": [
+     "Asif",
+     "Hafsa"
+    ],
+    "11": [
+     "Dilnaz",
+     "Ishita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Digital & Technology",
+   "subtopic": "Screen Habits",
+   "subtype": "Screen Limits & Real vs. Fantasy Content",
+   "description": "Accepting screen boundaries and distinguishing cartoons and ads from reality."
+  },
+  {
+   "sno": 178,
+   "plan": {
+    "9": "R9",
+    "10": "R12+T1",
+    "11": "R13+T1"
+   },
+   "cast": {
+    "9": [
+     "Pooja",
+     "Gargi"
+    ],
+    "10": [
+     "Kishore",
+     "Elizabeth"
+    ],
+    "11": [
+     "Manoj",
+     "Amandeep"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Executive Function",
+   "subtype": "Following Multi-Step Routines",
+   "description": "Completing a sequence like shoes, bag and water bottle with few reminders."
+  },
+  {
+   "sno": 179,
+   "plan": {
+    "9": "R9",
+    "10": "R12+T1",
+    "11": "R13+T1"
+   },
+   "cast": {
+    "9": [
+     "Anjali",
+     "Vijay"
+    ],
+    "10": [
+     "Ayesha",
+     "Vikas"
+    ],
+    "11": [
+     "Arohi",
+     "Ayesha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive",
+   "subtopic": "Time Concept",
+   "subtype": "Yesterday, Today & Tomorrow",
+   "description": "Understanding sequence of days and tolerating waiting."
+  },
+  {
+   "sno": 180,
+   "plan": {
+    "9": "R13",
+    "10": "R15+T1",
+    "11": "R1+T1"
+   },
+   "cast": {
+    "9": [
+     "Tarun",
+     "Jatin"
+    ],
+    "10": [
+     "Harsha",
+     "Pema"
+    ],
+    "11": [
+     "Devika",
+     "Rekha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Social",
+   "subtopic": "Friendship",
+   "subtype": "First Chosen Friendships",
+   "description": "Preferring particular playmates, missing them, and beginning loyalty."
+  }
+ ]
+}

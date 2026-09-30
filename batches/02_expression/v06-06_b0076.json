@@ -1,0 +1,216 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2812,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Tejas",
+     "Akash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Caress in caregiving and comfort [Interpreting]",
+   "description": "A parent or carer strokes a child's back or an elder's hand to soothe. The receiver's comfort, not the giver's intention, decides whether it helps, so watch for relaxing breath or flinching.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 2813,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Chidi",
+     "Felix"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Comfort touch in grief and care [Interpreting]",
+   "description": "A young adult offers a hand on the shoulder or a hug to a grieving friend and watches for signs of acceptance. Touch can soothe but may not suit everyone; asking can I hug you respects choice and shows care.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: affection, admiration, grief"
+   ]
+  },
+  {
+   "sno": 2814,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Chetan",
+     "Kiran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Handshake and greeting in work life [Expressing]",
+   "description": "A young professional shakes hands, offers a namaste or a nod according to setting, gender norms and health needs. A firm, brief handshake conveys respect, but preferences differ, so following the other person's lead is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2815,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Francis",
+     "Sabina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Online distance and read receipts [Mismatch]",
+   "description": "A young adult reads a delayed reply, a muted camera or a left-on-read message as distance. Such digital signals may mean busyness, tech trouble or coldness, and a direct kind question beats silent assumption.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2816,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Workplace seating and status [Mismatch]",
+   "description": "A young professional reads who sits next to whom, who stands close to the boss and who keeps distance in meetings. Seating can reflect rank, habit or logistics; assuming a hidden meaning without evidence leads to misjudgment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2817,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Mridul",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Laughing in meetings and difficult talks [Regulating]",
+   "description": "A young professional uses a light laugh to ease tension, or holds one back in a solemn moment. A chuckle can build rapport, but laughing at a colleague's concern or a serious issue can seem dismissive.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 2818,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Bhavna",
+     "Varun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Laughter",
+   "subtype": "Laughing through hurt and gallows humour [Mismatch]",
+   "description": "A young adult laughs about stress, a mistake or a hard time as a coping tool. It can show resilience but sometimes hides pain; a friend who listens without assuming can tell which by gently asking how they really are.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 2819,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Sonali",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Bawling after overwhelming loss or relief [Regulating]",
+   "description": "An adult may bawl during grief, shock or after long tension. Allowing it in a safe place, then drinking water, breathing slowly and reaching for support helps the body settle; suppressing it can prolong the strain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: grief, surprise, relief, overwhelm"
+   ]
+  },
+  {
+   "sno": 2820,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Trisha",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Crying at work and social norms [Regulating]",
+   "description": "A young professional tears up after harsh feedback or stress and tries to compose themselves. Norms differ across workplaces, so stepping out briefly, breathing and returning with a plan is reasonable, and peers should respond with kindness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: sadness, relief from stress"
+   ]
+  },
+  {
+   "sno": 2821,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Javier",
+     "Chen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Supporting someone who is crying [Interpreting]",
+   "description": "A young adult offers a tissue, quiet presence or a listening ear to a crying friend and avoids rushing them or saying stop. Not every cry needs fixing; asking what would help respects their control and signals real care.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, sadness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2342,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Vishal"
+    ],
+    "4": [
+     "Zubin",
+     "Yusuf"
+    ],
+    "5": [
+     "Clara",
+     "Liam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Hand movements",
+   "subtype": "Wringing hands from worry [Interpreting]",
+   "description": "A school-age child sees a classmate wring the hands before a test and reads nervousness. Offering a friendly word helps, though the signal alone does not prove the cause.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2343,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Gurleen",
+     "Uday"
+    ],
+    "4": [
+     "Aparna",
+     "Rehana"
+    ],
+    "5": [
+     "Vandana",
+     "Bidisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Thumbs-up, OK-sign and V-sign [Mismatch]",
+   "description": "A school-age child uses thumbs-up, OK and V-sign, learning that they can be friendly in one place and rude in another, such as a backward V in Britain. Care with travel and new friends is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2344,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Kishore",
+     "Kashish"
+    ],
+    "4": [
+     "Harsha",
+     "Leela"
+    ],
+    "5": [
+     "Preeti",
+     "Lokesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conventional gestures",
+   "subtype": "Touching elders' feet [Expressing]",
+   "description": "A child in India touches an elder's feet as a sign of respect and to receive blessings. It is a cultural tradition, and a child can be taught that respect can also be shown in other ways and that a child is never forced into unwelcome touch.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2345,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Zeenat",
+     "Nikita"
+    ],
+    "4": [
+     "Karthik",
+     "Pallavi"
+    ],
+    "5": [
+     "Daniel",
+     "Wei"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Slow-down gesture [Interpreting]",
+   "description": "A child learns that palms pressing down gently means slow down or calm down. Coming from a teacher it can mean lower your voice; from a friend it may signal worry. Sensing whether it is kind or dismissive depends on the face and tone that come with it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 2346,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Nazia"
+    ],
+    "4": [
+     "Wei",
+     "Liam"
+    ],
+    "5": [
+     "Nilesh",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conversation regulation",
+   "subtype": "Time-out gesture and pausing a game [Expressing]",
+   "description": "A schoolchild forms a T with the hands to pause a game or a quarrel. It signals a need to reset, get help or clarify a rule; used honestly it lowers conflict, while using it to dodge losing tends to be spotted by peers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2347,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Tanvir",
+     "Rukmini"
+    ],
+    "4": [
+     "Gurleen",
+     "Deepika"
+    ],
+    "5": [
+     "Sunaina",
+     "Suraj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Reading a speaker's gestures for meaning [Interpreting]",
+   "description": "A pupil learns to watch a teacher's hands describing speed, height or direction to understand a science demo. Gestures clarify but can mislead if the picture is exaggerated; asking a follow-up question checks the meaning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2348,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Mehak",
+     "Gargi"
+    ],
+    "4": [
+     "Devika",
+     "Bidisha"
+    ],
+    "5": [
+     "Aadhya",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Tracing shapes and paths [Expressing]",
+   "description": "A schoolchild traces an imaginary map in the air to explain the way home or draws a circle to explain a ball's route. Such gestures show thought as well as speech and can help the child work out an idea, so letting them gesture aids explanation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2349,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Indu",
+     "Usha"
+    ],
+    "4": [
+     "Nirmala",
+     "Harsha"
+    ],
+    "5": [
+     "Kashish",
+     "Jaya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Kneeling and bowing in respect [Mismatch]",
+   "description": "A child in some settings learns to kneel, bow or stand when elders or teachers enter, for example touching feet or standing to greet. Meaning is respect in that culture, not weakness, and rules differ across families, faiths and schools.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2350,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Kunal",
+     "Lokesh"
+    ],
+    "4": [
+     "Lalit",
+     "Nandini"
+    ],
+    "5": [
+     "Pema",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Slouching and sitting up in class [Interpreting]",
+   "description": "A schoolchild learns that teachers read upright sitting as attention and slouching as boredom. Slouching may instead mean tiredness, low mood or a comfortable way of thinking, so posture is a clue, not proof of attitude.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: boredom, tiredness",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 2351,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Deepak",
+     "Nilesh"
+    ],
+    "4": [
+     "Sunaina",
+     "Thomas"
+    ],
+    "5": [
+     "Lakshmi",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Whole-body movement",
+   "subtype": "Pacing and fidgeting for energy or worry [Expressing]",
+   "description": "A schoolchild paces before a test or bounces a leg while waiting. It can signal nerves, excitement or need for movement, and a child with a lot of energy is not necessarily defiant; movement breaks often help focus.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hostility, anxiety, excitement"
+   ]
+  }
+ ]
+}

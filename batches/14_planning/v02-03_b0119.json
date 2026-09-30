@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6941,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Sabina"
+    ],
+    "3": [
+     "Jatin",
+     "Usha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: follow up and escalate when nothing happens [Revision]",
+   "description": "After weeks without a response, the auditor asks compliance for an acknowledgement and, if still ignored, considers an external regulator with advice from a lawyer. Persistence through lawful channels keeps the issue alive.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6942,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Hrithik"
+    ],
+    "3": [
+     "Tarun",
+     "Parveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: anonymous tip without evidence [Pitfall]",
+   "description": "The person sends a vague anonymous message with no dates or documents. Investigators cannot verify it and dismiss it, and the effort is wasted while the person remains anxious.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, seeking advice",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6943,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Pallavi",
+     "Ira"
+    ],
+    "3": [
+     "Pankaj",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: clarify own role and possible involvement [Thinking]",
+   "description": "The auditor asks whether signing off earlier reports makes them part of the issue and checks with legal advice on how to disclose it. Honest reflection avoids surprises later.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 6944,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Salma",
+     "Gurleen"
+    ],
+    "3": [
+     "Urmila",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: identify the underlying value behind the anger [Thinking]",
+   "description": "In a heated dinner debate over an election, the student asks what the uncle actually fears, such as safety for the family, and sees the difference behind the slogans. Looking for the value beneath a position opens room for dialogue.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising",
+    "related mind states: anger, fear, trust"
+   ]
+  },
+  {
+   "sno": 6945,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Nilesh"
+    ],
+    "3": [
+     "Chandrika",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: win the argument with facts and links [Pitfall]",
+   "description": "The student pulls up statistics and forwards articles to prove the uncle wrong. Each fact hardens resistance because the exchange became a contest of status rather than a conversation.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, prioritising"
+   ]
+  },
+  {
+   "sno": 6946,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Lalit",
+     "Jyoti"
+    ],
+    "3": [
+     "Akash",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: set a topic boundary before family gatherings [Action]",
+   "description": "Before the festival visit, the student agrees with a cousin to steer talk to other topics and to excuse themselves calmly if a debate begins. A prior agreement keeps the meeting warm.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6947,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Deepak"
+    ],
+    "3": [
+     "Deepak",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: ask open questions to understand first [Action]",
+   "description": "The student asks a grandfather what experiences shaped his view and listens without interrupting, then shares one personal view calmly. Curiosity lowers defensiveness and may make later disagreement easier.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, prioritising",
+    "related mind states: curiosity, calm"
+   ]
+  },
+  {
+   "sno": 6948,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Uday"
+    ],
+    "3": [
+     "Siddharth",
+     "Farhan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: stay silent and resent it [Pitfall]",
+   "description": "To avoid conflict, the young adult never speaks, but grows irritated and withdraws from family calls. Avoidance keeps the peace on the surface while the relationship quietly weakens.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, forward planning, prioritising",
+    "related mind states: anger, detachment, calm, resentment",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 6949,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Vijay",
+     "Nandini"
+    ],
+    "3": [
+     "Sumit",
+     "Vidya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: pause and take a break when emotions rise [Revision]",
+   "description": "Noticing a raised voice and a racing heart, the student says that the topic matters and suggests continuing after tea, then steps outside. Noticing the signs and pausing prevents a lasting quarrel.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning, prioritising"
+   ]
+  },
+  {
+   "sno": 6950,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Gargi",
+     "Nazia"
+    ],
+    "3": [
+     "Jeevan",
+     "Charu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Arguing politics with family",
+   "subtype": "Approach: agree to disagree and value the relationship over the topic [Thinking]",
+   "description": "The student decides that being close to family matters more than converting anyone, and accepts that some views will not change. Prioritising the relationship shapes what is worth saying.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, avoidance and procrastination, forward planning"
+   ]
+  }
+ ]
+}

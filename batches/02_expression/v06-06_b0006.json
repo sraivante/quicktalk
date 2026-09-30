@@ -1,0 +1,218 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2112,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Akash"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Crying",
+   "subtype": "Whimpering and seeking comfort [Expressing]",
+   "description": "A toddler whimpers, sobs or clings when separated from a parent or after a scare. It signals distress and wish for closeness; consistent soothing, not ignoring, helps the child learn to calm down.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2113,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Lindiwe",
+     "Zeynep"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Vocal outbursts",
+   "subtype": "Loud protest and no [Expressing]",
+   "description": "A toddler yells no or screams when denied something or feeling powerless. It shows a growing sense of self and limits of language; calm limits and choices reduce outbursts better than shouting back.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2114,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Ritu"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Vocal outbursts",
+   "subtype": "Screaming and shrieking in play or upset [Expressing]",
+   "description": "A toddler shrieks in excitement, squeals in delight or screams in frustration. The same loud sound can mean joy, anger or fear, so the caregiver reads the face, the setting and what just happened.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, anger, fear, excitement"
+   ]
+  },
+  {
+   "sno": 2115,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Sarita",
+     "Jahnavi"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Other vocal sounds",
+   "subtype": "Sighs, grunts and babble [Expressing]",
+   "description": "A toddler grunts with effort, sighs when tired and babbles or hums when content. These sounds show comfort, effort or need; a caregiver who echoes them warmly supports language growth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 2116,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Gurpreet",
+     "Jomon"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Short vocal reactions",
+   "subtype": "Uh-oh, ah and oh [Expressing]",
+   "description": "A toddler says uh-oh at a spill, ah at a taste or oh at a surprise, often before full sentences. These short sounds share reaction and attention; adults who respond with a calm name for the feeling build vocabulary.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: surprise, calm"
+   ]
+  },
+  {
+   "sno": 2117,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Lokesh",
+     "Madhuri"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "Baby talk and rising pitch from adults [Interpreting]",
+   "description": "A toddler responds to a caregiver's higher, sing-song, rising voice as warm and attentive and a low flat voice as serious. Voice shape guides feeling long before words do, so calm soft tones help settle the child.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: interest, calm"
+   ]
+  },
+  {
+   "sno": 2118,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Sudha",
+     "Chaitanya"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Loudness and pitch",
+   "subtype": "High pitch and loud cry [Expressing]",
+   "description": "A toddler uses a high, loud voice when excited or distressed and a low murmur when sleepy or content. Pitch and volume are among the first signals adults read; a sudden change from the usual can show pain or fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, fear, excitement, hurt"
+   ]
+  },
+  {
+   "sno": 2119,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rafael",
+     "Noa"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Breathy voice [Expressing]",
+   "description": "A toddler's breathy, whispery voice can come with awe, shyness or tiredness. Context decides: a hushed breathy voice near a sleeping baby is politeness, while the same voice with hiding may be shyness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shyness, tiredness, awe, relief from stress"
+   ]
+  },
+  {
+   "sno": 2120,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Ira"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Voice quality",
+   "subtype": "Trembling and choked crying voice [Expressing]",
+   "description": "A toddler's wobbling, choked voice before or during crying signals fear, distress or overwhelm. A caregiver who answers the voice quality early with calm and closeness can often prevent full meltdown.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, fear, calm, overwhelm"
+   ]
+  },
+  {
+   "sno": 2121,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Swati",
+     "Nirmala"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Pace and rhythm",
+   "subtype": "Fast and slow toddler speech [Expressing]",
+   "description": "A toddler babbles fast when excited and slows or stops when tired or unsure. Rhythmic repetition of syllables often signals play and comfort rather than meaning in words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: excitement, tiredness"
+   ]
+  }
+ ]
+}

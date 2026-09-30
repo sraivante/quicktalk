@@ -1,0 +1,238 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3188,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Kunal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 2: Delay with good excuses [Actor]",
+   "description": "A teenager tells themself they work better under pressure, or that they will start after one video. Excuses feel reasonable in the moment, and the delay is really about avoiding an unpleasant feeling, not about time.",
+   "graph_context": [
+    "next stage: Relief then guilt",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3189,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Nitin",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 3: Relief then guilt [Actor]",
+   "description": "Putting the task off gives an immediate lift, followed by a background hum of guilt. The relief rewards the avoiding, so the pattern strengthens each time it works.",
+   "graph_context": [
+    "previous stage: Delay with good excuses",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: guilt, relief",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3190,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Rajni",
+     "Vikas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 4: Panic and last-minute sprint [Actor]",
+   "description": "With the deadline near, fear finally gives energy and the assignment is done overnight. It often works well enough to teach the wrong lesson that delaying is fine, while the cost of stress and quality is ignored.",
+   "graph_context": [
+    "next stage: Self-blame loop",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3191,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Nirmala",
+     "Varun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 5: Self-blame loop [Actor]",
+   "description": "After the deadline, the person calls themself lazy and vows to change, then repeats the pattern. Harsh self-talk adds the very discomfort that makes the next task feel harder to face.",
+   "graph_context": [
+    "previous stage: Panic and last-minute sprint",
+    "next stage: Making the start easier",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3192,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Ayesha",
+     "Leela"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 6: Making the start easier [Response]",
+   "description": "A student sets a short timer, works in a library or with a friend, and writes just a messy first paragraph. Lowering the bar for starting removes the dread, and momentum usually does the rest.",
+   "graph_context": [
+    "previous stage: Self-blame loop",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3193,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Bidisha",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 5: Self-blame loop [Observer]",
+   "description": "A manager sees a capable employee miss soft deadlines and hand in strong work at the last moment. Asking what makes the task hard, rather than judging character, often reveals fear, unclear scope or overload.",
+   "graph_context": [
+    "next stage: Naming the real feeling",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3194,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Jyoti",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 6: Naming the real feeling [Response]",
+   "description": "The person asks what exactly feels uncomfortable, whether it is fear of being judged, unclear steps or boredom. Naming the feeling separates it from the task and points to a fix such as clarifying or asking for help.",
+   "graph_context": [
+    "previous stage: Self-blame loop",
+    "next stage: Tiny start and self-compassion",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear, boredom",
+    "related concepts: procrastination, boredom"
+   ]
+  },
+  {
+   "sno": 3195,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Nilesh",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Procrastination cycle",
+   "subtype": "Stage 7: Tiny start and self-compassion [Response]",
+   "description": "The person commits to five minutes, sets up the workspace the night before and forgives past delays. Starting small breaks the dread, and kindness to oneself makes it easier to face the next task.",
+   "graph_context": [
+    "previous stage: Naming the real feeling",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear, empathy",
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 3196,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 1: High standards and praise [Actor]",
+   "description": "A teenager is praised for flawless work and neat notebooks, and learns that love and safety come with being perfect. The standard feels like a strength at first, and hides the fear underneath.",
+   "graph_context": [
+    "next stage: Fear of mistakes",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: affection, fear, trust",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3197,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Vidya",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 2: Fear of mistakes [Actor]",
+   "description": "The student erases and rewrites, avoids answering unless certain and feels sick over a small error. Every task now carries a threat to their worth, not just a chance to learn.",
+   "graph_context": [
+    "previous stage: High standards and praise",
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: fear",
+    "related concepts: perfectionism"
+   ]
+  }
+ ]
+}

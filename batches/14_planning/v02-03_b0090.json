@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6651,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Jeevan"
+    ],
+    "3": [
+     "Kunal",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: working backward from a target role and its listed skills [Thinking]",
+   "description": "A final-year student picks three job postings for junior backend roles, lists the skills they repeat, and works backward to see which gaps matter most before graduation.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, if-then plan, satisficing"
+   ]
+  },
+  {
+   "sno": 6652,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Kavitha",
+     "Gurleen"
+    ],
+    "3": [
+     "Imran",
+     "Disha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: task decomposition into a weekly application routine [Action]",
+   "description": "The student sets a weekly quota of eight tailored applications, two referral messages and one mock interview, tracked in a spreadsheet, so the search becomes small daily tasks.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, if-then plan, satisficing"
+   ]
+  },
+  {
+   "sno": 6653,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Yash",
+     "Aparna"
+    ],
+    "3": [
+     "Mehak",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: mass applying with one generic resume [Pitfall]",
+   "description": "Sending the same resume to hundreds of portals feels productive, but replies stay near zero because nothing signals fit, and the student starts blaming the market instead of the resume.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, if-then plan, satisficing"
+   ]
+  },
+  {
+   "sno": 6654,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Avni"
+    ],
+    "3": [
+     "Ritu",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: experiment and measure on resume versions [Revision]",
+   "description": "After two silent weeks, the student tries two resume versions, tracks which gets callbacks, and finds that the one leading with projects outperforms the one leading with marks.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, if-then plan, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 6655,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Zubin"
+    ],
+    "3": [
+     "Pema",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: seeking advice from seniors who were recently hired [Thinking]",
+   "description": "A student asks three seniors placed last year how they got in, and learns that a small-company internship route and referrals mattered more than the big-portal route they assumed.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, if-then plan, satisficing"
+   ]
+  },
+  {
+   "sno": 6656,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Jahnavi"
+    ],
+    "3": [
+     "Vasudha",
+     "Usha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: copying a friend's path without fit [Pitfall]",
+   "description": "Because a roommate got into a service company through a certain coaching course, a student pays for the same course, although their own strength is design and the roles differ.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, cutting losses, experiment and measure, if-then plan, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 6657,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Harsha"
+    ],
+    "3": [
+     "Saurabh",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: satisficing on the first acceptable offer [Thinking]",
+   "description": "Facing rent pressure and a family expecting income, a graduate decides that any stable role with learning and on-time pay is good enough, and stops searching after the second offer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, if-then plan, seeking advice",
+    "related mind states: contentment"
+   ]
+  },
+  {
+   "sno": 6658,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Joseph"
+    ],
+    "3": [
+     "Lakshmi",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: avoidance through endless upskilling [Pitfall]",
+   "description": "A student keeps taking one more course before applying, telling themselves they are not ready, while fear of rejection quietly drives the delay for months.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, cutting losses, experiment and measure, if-then plan, satisficing, seeking advice",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6659,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Rekha"
+    ],
+    "3": [
+     "Sachin",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: implementation intentions for outreach [Action]",
+   "description": "The student writes an if-then rule: if it is 8 pm on a weekday, then send two messages to alumni before dinner. The rule removes daily debate about whether to start.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, cutting losses, experiment and measure, satisficing, seeking advice"
+   ]
+  },
+  {
+   "sno": 6660,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Vidya"
+    ],
+    "3": [
+     "Indu",
+     "Trisha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Landing a first job",
+   "subtype": "Approach: cutting losses on a low-yield channel [Revision]",
+   "description": "After thirty applications on one portal with no replies, the student drops it and shifts the same time to alumni referrals and a college placement cell contact.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, experiment and measure, if-then plan, satisficing, seeking advice"
+   ]
+  }
+ ]
+}

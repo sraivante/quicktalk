@@ -1,0 +1,132 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2902,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Santosh",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Paling and health versus emotion [Mismatch]",
+   "description": "A young adult notices a colleague suddenly pale or shaking. It may be fear, low blood sugar, illness or shock, so checking on safety and health comes before judging emotions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear, surprise, trust"
+   ]
+  },
+  {
+   "sno": 2903,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Binita",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Deliberate display in professional life [Regulating]",
+   "description": "A young professional chooses a warm or composed expression on purpose in a meeting or client call. Deliberate display is a normal social skill, provided it does not turn into constant suppression.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2904,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Divyansh",
+     "Pallavi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Literal, figurative and posed communication at work [Interpreting]",
+   "description": "A young professional reads emails and remarks that may be literal, figurative, posed or sarcastic. Checking intent and avoiding assumptions prevents needless conflict.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2905,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Abhinav",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Cultural masking and politeness [Mismatch]",
+   "description": "A young adult in some settings smiles or stays calm to save face or show respect while feeling upset, which may be read as agreement. Direct gentle clarification avoids misunderstandings.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 2906,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Kashish",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Laughing while embarrassed at work [Regulating]",
+   "description": "A young professional laughs after a mistake in a meeting, mixing embarrassment and hope of easing tension. Owning the error briefly and moving on shows steadier handling than laughing it off.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: amusement, embarrassment, hope"
+   ]
+  },
+  {
+   "sno": 2907,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Ganga",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Smiling while crying, tears of joy [Interpreting]",
+   "description": "A young adult at a wedding or a reunion cries and smiles at once, feeling joy, relief and loss together. Mixed displays are ordinary, and a listener can simply ask or share the moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: joy, sadness, relief"
+   ]
+  }
+ ]
+}

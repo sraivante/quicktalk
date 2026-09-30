@@ -1,0 +1,320 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5622,
+   "plan": {
+    "12": "R10",
+    "13": "R11",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Jeevan",
+     "Irfan"
+    ],
+    "13": [
+     "Sharmila",
+     "Vinita"
+    ],
+    "14": [
+     "Vaibhav",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Being judged for exploring [Receiver]",
+   "description": "A young adult who questions the family career or belief is called ungrateful or lost. They feel guilt and loneliness while trying to honestly ask what is theirs and what was inherited.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: gratitude, guilt, loneliness"
+   ]
+  },
+  {
+   "sno": 5623,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Avni",
+     "Vandana"
+    ],
+    "13": [
+     "Karthik",
+     "Hansa"
+    ],
+    "14": [
+     "Jatin",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Identity foreclosure, moratorium and role confusion",
+   "subtype": "Waking from a foreclosed identity [Response]",
+   "description": "A young professional who realises they followed someone else's script neither blames the family nor burns everything down. They test small changes, keep the parts they truly endorse, and explain their choices with respect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5624,
+   "plan": {
+    "12": "R7+T1",
+    "13": "R8+T2",
+    "14": "R13+T2"
+   },
+   "cast": {
+    "12": [
+     "Tanuja",
+     "Mehak"
+    ],
+    "13": [
+     "Thabo",
+     "Hiroshi"
+    ],
+    "14": [
+     "Lavanya",
+     "Gautam"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Early closeness as a base [Actor]",
+   "description": "A toddler who has been reliably comforted seeks hugs, shares food and shows toys to a trusted adult. This early trust is the ground on which later adult closeness is built.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 5625,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Sarika",
+     "Sunaina"
+    ],
+    "13": [
+     "Lokesh",
+     "Pema"
+    ],
+    "14": [
+     "Vasudha",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Best-friend closeness [Actor]",
+   "description": "A child picks one best friend, shares secrets and feels devastated by a betrayal. Learning to be vulnerable with a single peer is early practice for adult intimacy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5626,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Darshan",
+     "Farida"
+    ],
+    "13": [
+     "Binita",
+     "Shreya"
+    ],
+    "14": [
+     "Anirban",
+     "Dhruv"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Fear of being known [Actor]",
+   "description": "A teenager shows a polished self online and to peers and hides doubts, afraid closeness means rejection. They feel surrounded yet alone, and only a few real disclosures begin to change that.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 18–22, 23–26",
+    "related mind states: fear, doubt"
+   ]
+  },
+  {
+   "sno": 5627,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Damini",
+     "Eshaan"
+    ],
+    "13": [
+     "Sarita",
+     "Mehak"
+    ],
+    "14": [
+     "Pooja",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Merging versus keeping a self [Actor]",
+   "description": "A young adult in a first serious relationship drops friends and interests to be close, or keeps everyone at arm's length to stay safe. Real intimacy needs a self that can stay whole while being close.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26",
+    "related mind states: interest, trust"
+   ]
+  },
+  {
+   "sno": 5628,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Jomon",
+     "Shalini"
+    ],
+    "13": [
+     "Hrithik",
+     "Harsha"
+    ],
+    "14": [
+     "Varun",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Choosing depth over a crowd [Response]",
+   "description": "A young adult who feels lonely despite many contacts invests in fewer people: making regular calls, being honest about struggles and tolerating awkward repair after conflict. Isolation eases through vulnerability, not numbers.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: embarrassment, detachment, loneliness"
+   ]
+  },
+  {
+   "sno": 5629,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Rafiq",
+     "Sarita"
+    ],
+    "13": [
+     "Lakshmi",
+     "Pema"
+    ],
+    "14": [
+     "Tariq",
+     "Kofi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Intimacy vs isolation",
+   "subtype": "Noticing a lonely friend [Observer]",
+   "description": "A colleague notices someone who always deflects personal questions and turns down invitations. Without forcing confidences, they keep offering low-pressure company such as tea or a walk, and let trust build at that person's pace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22",
+    "related mind states: loneliness, trust"
+   ]
+  },
+  {
+   "sno": 5630,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Saurabh",
+     "Leela"
+    ],
+    "13": [
+     "Hansa",
+     "Deepak"
+    ],
+    "14": [
+     "Karthik",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Integrity vs despair (as foreseen by the young)",
+   "subtype": "Imagining old age [Actor]",
+   "description": "A teenager watches a grandparent who seems content and another who is bitter, and wonders which path they will take. They do not yet grasp how choices accumulate, but the contrast plants a lasting question.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: curiosity, awe, resentment"
+   ]
+  },
+  {
+   "sno": 5631,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Rukmini",
+     "Jyoti"
+    ],
+    "13": [
+     "Harish",
+     "Damini"
+    ],
+    "14": [
+     "Tenzin",
+     "Pooja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Integrity vs despair (as foreseen by the young)",
+   "subtype": "Fear of a wasted life [Actor]",
+   "description": "A student imagines being sixty with regrets: a safe job never questioned, words left unsaid to parents. The fear can push them toward paralysing perfectionism or toward acting more honestly now.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear, trust, regret",
+    "related concepts: perfectionism"
+   ]
+  }
+ ]
+}

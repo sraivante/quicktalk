@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3930,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Harish",
+     "Lakshmi"
+    ],
+    "10": [
+     "Abhinav",
+     "Mohit"
+    ],
+    "11": [
+     "Jagdish",
+     "Nirmala"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "All-or-nothing thinking",
+   "subtype": "Finding the middle [Response]",
+   "description": "An adult who caught themselves calling the whole project a failure rates it on a scale and lists what worked and what did not; grey answers make room for learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3931,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Simran",
+     "Kashish"
+    ],
+    "10": [
+     "Madhuri",
+     "Sabina"
+    ],
+    "11": [
+     "Aparna",
+     "Lokesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Catastrophising",
+   "subtype": "One wrong answer means being sent away [Actor]",
+   "description": "A child who forgot homework imagines being scolded, beaten, expelled and shamed forever; the mind leaps from a small event to the worst possible ending.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 3932,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Kashish",
+     "Nirmala"
+    ],
+    "10": [
+     "Kunal",
+     "Pranav"
+    ],
+    "11": [
+     "Ritu",
+     "Jatin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Catastrophising",
+   "subtype": "Panicking over an unanswered message [Actor]",
+   "description": "A teenager whose friend has not replied concludes the friendship is over and everyone hates them; each imagined step feels certain when it is only fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3933,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Tanuja",
+     "Deepika"
+    ],
+    "10": [
+     "Baljeet",
+     "Imran"
+    ],
+    "11": [
+     "Tenzin",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Catastrophising",
+   "subtype": "Placement worry spiral [Actor]",
+   "description": "A final-year student who failed one interview pictures never being employed, letting the family down and living in shame; the chain feels like logic but skips all the steps in between.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anxiety, shame"
+   ]
+  },
+  {
+   "sno": 3934,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Tomas",
+     "Zanele"
+    ],
+    "10": [
+     "Hafsa",
+     "Vijay"
+    ],
+    "11": [
+     "Gautam",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Catastrophising",
+   "subtype": "Watching someone spiral [Observer]",
+   "description": "A colleague sees a peer treat a minor error in a report as career ending and asks what is the worst realistic outcome and how likely; steady questions shrink the imagined disaster.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3935,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Yash",
+     "Jyoti"
+    ],
+    "10": [
+     "Simran",
+     "Jatin"
+    ],
+    "11": [
+     "Yogesh",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Catastrophising",
+   "subtype": "Asking what would I do if [Response]",
+   "description": "An adult writes the feared outcome and then what they could do about it and how likely it actually is; naming a plan turns helpless dread into manageable options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3936,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Shalini",
+     "Kavitha"
+    ],
+    "10": [
+     "Gargi",
+     "Akash"
+    ],
+    "11": [
+     "Disha",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mind reading",
+   "subtype": "Assuming the teacher dislikes them [Actor]",
+   "description": "A child who was not chosen for the play decides the teacher thinks they are useless; the child states the belief as fact without evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3937,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Rajni",
+     "Tanvir"
+    ],
+    "10": [
+     "Vinita",
+     "Gurleen"
+    ],
+    "11": [
+     "Afreen",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mind reading",
+   "subtype": "Certain that classmates are laughing [Actor]",
+   "description": "A teenager sees two classmates whispering and knows they are mocking their clothes; without checking, imagined thoughts are treated as words spoken aloud.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 3938,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Urmila",
+     "Shalini"
+    ],
+    "10": [
+     "Wasim",
+     "Devika"
+    ],
+    "11": [
+     "Dilnaz",
+     "Karthik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mind reading",
+   "subtype": "Being assumed to be angry [Receiver]",
+   "description": "A friend who was tired and quiet is told by another that they clearly hate the plan; the receiver feels misread and can gently say what they are actually feeling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger, tiredness"
+   ]
+  },
+  {
+   "sno": 3939,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Dhruv",
+     "Jasleen"
+    ],
+    "10": [
+     "Yusuf",
+     "Sangeeta"
+    ],
+    "11": [
+     "Ingrid",
+     "Alejandro"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mind reading",
+   "subtype": "Checking the story [Response]",
+   "description": "An adult who is sure a colleague is annoyed asks directly whether something is wrong instead of guessing; a two-minute question replaces hours of made-up dialogue.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 3580,
+   "plan": {
+    "15": "R2"
+   },
+   "cast": {
+    "15": [
+     "Aparna",
+     "Elizabeth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Anchoring",
+   "subtype": "Resetting the reference point [Response]",
+   "description": "A wise decider asks what she would judge if she had never seen the first figure, then gathers two or three independent comparisons before deciding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3581,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Pankaj",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Availability heuristic",
+   "subtype": "Vivid story looms large [Actor]",
+   "description": "After hearing one scary story about a dog bite, a child decides all dogs are dangerous. The most memorable case feels like the most common one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3582,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Paulo",
+     "Mateo"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Availability heuristic",
+   "subtype": "News and reels shaping risk [Actor]",
+   "description": "A teenager who keeps seeing viral accident clips believes travel or the city is far riskier than it is. Frequency of exposure is mistaken for frequency in real life.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3583,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Minakshi",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Availability heuristic",
+   "subtype": "Overrating rare dangers [Actor]",
+   "description": "A student fears flying or a rare illness after dramatic coverage but rides a scooter without a helmet. Memorable dangers crowd out common ones.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 3584,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Harish",
+     "Farhan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Availability heuristic",
+   "subtype": "Parents and worry [Observer]",
+   "description": "A new parent sees relatives panic over a kidnapping rumour forwarded on WhatsApp while ignoring the everyday risks at home. He asks what the actual numbers say.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, detachment"
+   ]
+  },
+  {
+   "sno": 3585,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Manjula",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Availability heuristic",
+   "subtype": "Checking the base numbers [Response]",
+   "description": "A mature person pauses when a story feels vivid, asks how often it truly happens, and looks up reliable figures before changing her habits or fears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: fear, detachment"
+   ]
+  },
+  {
+   "sno": 3586,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Farhan",
+     "Vandana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Representativeness heuristic",
+   "subtype": "Judging by look or type [Actor]",
+   "description": "A child assumes the quiet boy with glasses must be the topper and the loud boy must be weak. Appearance stands in for real evidence about ability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3587,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Sonali",
+     "Aparna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Representativeness heuristic",
+   "subtype": "Stereotype shortcuts [Actor]",
+   "description": "A teenager decides who is good at maths, sports or trouble from how someone looks or speaks, and is surprised when reality disagrees. The match to a type feels like proof.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 3588,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Arohi",
+     "Shankar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Representativeness heuristic",
+   "subtype": "Founder or leader look [Actor]",
+   "description": "A student assumes a confident, fluent speaker will run a good project and overlooks a quieter but more reliable teammate. Style is mistaken for competence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3589,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Baljeet",
+     "Vidya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Representativeness heuristic",
+   "subtype": "Spotting stereotype judgments [Observer]",
+   "description": "A manager notices a panel favouring candidates who look like earlier successes. He proposes structured scoring so individuals are judged on actual evidence and not on resemblance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

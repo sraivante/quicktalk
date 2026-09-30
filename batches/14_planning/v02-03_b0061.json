@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6361,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Farhan"
+    ],
+    "3": [
+     "Asif",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: divergent brainstorming then voting [Thinking]",
+   "description": "The committee lists thirty theme ideas without judging, then narrows to three by discussion and votes, so everyone contributes before the group converges on a workable choice.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, delegation, mental simulation, overplanning, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6362,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Samir"
+    ],
+    "3": [
+     "Mohit",
+     "Gurpreet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: delegating with clear owners [Action]",
+   "description": "Tasks are split into decoration, music, food and invitations, each assigned to one named person with a date, so nothing depends on everyone thinking someone else will do it.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, mental simulation, overplanning, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6363,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Pema"
+    ],
+    "3": [
+     "Rekha",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: last-minute leaving everything to the day [Pitfall]",
+   "description": "Assuming things will work out, the organisers wait until the final day to arrange sound and seating. Equipment problems and missing chairs cause chaos and disappoint the guests.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, delegation, mental simulation, overplanning, pre-mortem",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 6364,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Charu"
+    ],
+    "3": [
+     "Hafsa",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: pre-mortem for the event [Thinking]",
+   "description": "The team imagines the event has gone badly and lists causes, such as rain, no microphone, or too few volunteers, then plans a tent, a backup speaker and extra helpers.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, delegation, mental simulation, overplanning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6365,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Bhupen",
+     "Sonali"
+    ],
+    "3": [
+     "Neelam",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: considering safety and permissions [Action]",
+   "description": "The organisers ask the teacher and parents for permission, agree on an end time, keep the venue supervised, arrange safe travel home and avoid anything that could put guests at risk.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, delegation, mental simulation, overplanning, pre-mortem",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6366,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Hansa"
+    ],
+    "3": [
+     "Ritu",
+     "Vasudha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: overplanning and perfectionism [Pitfall]",
+   "description": "The head organiser redesigns the decoration plan six times and rewrites schedules, wearing out the team. The extra polish adds little, and volunteers lose interest before the day arrives.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, delegation, mental simulation, pre-mortem, resource and budget planning",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6367,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Minakshi"
+    ],
+    "3": [
+     "Kamal",
+     "Deepika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: rehearsal and run-through [Action]",
+   "description": "A day before, the group walks through the whole programme with timing, tests the speakers and practises transitions, catching issues such as a missing cable while fixing is still easy.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, buffer and slack, delegation, overplanning, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6368,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Rashmi"
+    ],
+    "3": [
+     "Trisha",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a party or event",
+   "subtype": "Approach: adapting when things go wrong on the day [Revision]",
+   "description": "When the chief guest is late, the organiser moves the performance forward and adjusts the order, keeping the audience engaged. Later the team notes a buffer would have helped.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, delegation, mental simulation, overplanning, pre-mortem, resource and budget planning",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6369,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Manoj"
+    ],
+    "3": [
+     "Siddharth",
+     "Nikita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: identifying what voters actually need [Thinking]",
+   "description": "A candidate for school captain asks classmates about canteen queues, sports equipment and library hours, and forms a platform on concrete issues instead of general promises of change.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6370,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Yamini"
+    ],
+    "3": [
+     "Reena",
+     "Dhruv"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Running for school election",
+   "subtype": "Approach: building a small campaign team [Action]",
+   "description": "The candidate recruits friends from different classes to handle posters, class visits and speeches, and meets daily for ten minutes to check progress and reach different groups of voters.",
+   "graph_context": [
+    "same problem, other approaches: analogy, emotion-aware planning, mental simulation"
+   ]
+  }
+ ]
+}

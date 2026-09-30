@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6251,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Tanuja"
+    ],
+    "3": [
+     "Zeenat",
+     "Chetan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: starting small and building up [Thinking]",
+   "description": "A girl beginning drawing decides on ten minutes a day, thinking a small habit that continues is better than a big plan that stops after three days.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, overplanning, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6252,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Keerthana",
+     "Vandana"
+    ],
+    "3": [
+     "Eshaan",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: overplanning and never starting [Pitfall]",
+   "description": "A child spends a week making a colourful timetable and buying supplies for painting, but does no actual painting, mistaking planning for progress.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, time-boxing, trial by imitation",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6253,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Vidya"
+    ],
+    "3": [
+     "Sahil",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: tracking progress with a chart [Action]",
+   "description": "A boy learning to skate marks a star on the calendar for each practice day, and seeing the growing row of stars keeps him going through weeks when it feels slow.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, overplanning, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6254,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Vishal"
+    ],
+    "3": [
+     "Aditi",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: dropping the routine when exams come [Revision]",
+   "description": "With exams coming, a girl reduces her painting time to Sunday only, planning to return at full pace afterwards, adapting the routine to her main priority rather than quitting.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, impulsive action, overplanning, time-boxing, trial by imitation",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 6255,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Parveen"
+    ],
+    "3": [
+     "Baljeet",
+     "Ojas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: trying several hobbies and never settling [Pitfall]",
+   "description": "A child begins football, guitar and coding in one month, and having too little time for each, makes little progress in any, and becomes discouraged.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, overplanning, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6256,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Bhavna",
+     "Mehak"
+    ],
+    "3": [
+     "Parveen",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: pairing the hobby with an existing habit [Thinking]",
+   "description": "A girl decides to read her story book right after brushing teeth at night, attaching the new habit to something she already does daily so it is easier to remember.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, overplanning, time-boxing, trial by imitation",
+    "possibly related concept (heuristic): Implementation intentions"
+   ]
+  },
+  {
+   "sno": 6257,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Nilesh"
+    ],
+    "3": [
+     "Tenzin",
+     "Madhuri"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: setting a mini goal to show family [Action]",
+   "description": "A boy learning magic tricks decides to perform three tricks for cousins on Diwali, and the deadline gives shape to his weekly practice.",
+   "graph_context": [
+    "same problem, other approaches: forward planning, impulsive action, overplanning, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6258,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Neelam"
+    ],
+    "3": [
+     "Kofi",
+     "Beatriz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: choosing a hobby by what he enjoys not what is popular [Thinking]",
+   "description": "A child asks himself what he likes doing even when nobody watches, and picks bird watching over cricket, although his friends prefer cricket, since the hobby has to be his own.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, overplanning, time-boxing"
+   ]
+  },
+  {
+   "sno": 6259,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Avni"
+    ],
+    "3": [
+     "Nirmala",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a hobby routine",
+   "subtype": "Approach: adjusting when the schedule feels like a burden [Revision]",
+   "description": "A girl finds daily practice makes the hobby feel like a chore, so she changes it to four days a week and lets the other days be free play.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, forward planning, impulsive action, overplanning, time-boxing, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6260,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Nazia"
+    ],
+    "3": [
+     "Manoj",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Preparing for board exams",
+   "subtype": "Approach: working backward from exam dates and syllabus weight [Thinking]",
+   "description": "A Class 10 student counts backward from the March exam date, lists chapters by marks weightage, and sees that Science and Maths need the most hours, so those get the early mornings.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, buffer and slack, copying without fit, if-then plan, planning fallacy"
+   ]
+  }
+ ]
+}

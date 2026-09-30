@@ -1,0 +1,216 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2542,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Swati",
+     "Hrithik"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Asking and checking",
+   "subtype": "Rhetorical questions and sarcasm [Mismatch]",
+   "description": "A teenager who asks rhetorical questions like do you even care may be hurt, angry, sarcastic or making a point. Answering the feeling behind it works better than answering the literal words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 2543,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Tejas",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Hedging and false certainty [Mismatch]",
+   "description": "A teenager may sound very certain to fit in, or hedge with maybe or I guess to avoid being wrong. Tone can hide real doubt, so a friend can ask what the teen would need to be sure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 2544,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Surprise that is masked [Regulating]",
+   "description": "A teenager may hide surprise or confusion with a poker face or a joke in front of peers. A private check later helps sort out whether they really understood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: confusion, surprise"
+   ]
+  },
+  {
+   "sno": 2545,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Deepika",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Challenging and disputing [Expressing]",
+   "description": "A teenager challenges rules and disputes ideas to build independence and identity. It is normally a sign of growth, and adults can listen for the request underneath the challenge.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2546,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Jatin",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Head wobble and mixed signals [Mismatch]",
+   "description": "In India a head wobble can mean yes, okay, I hear you or maybe, depending on context and tone. Listeners check with a clarifying question rather than assuming agreement or refusal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2547,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Vandana",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Demanding [Mismatch]",
+   "description": "A teenager who demands may be frustrated, scared, or copying a tone heard elsewhere. Adults respond to the need under the demand and restate the request politely without giving in to the tone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 2548,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Inviting and appealing [Expressing]",
+   "description": "A teenager invites friends or appeals to a parent for later curfew with reasons. Appeals with respectful tone and evidence more often succeed than pressure and threats.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2549,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Jomon",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Advice versus lecturing [Interpreting]",
+   "description": "A teenager may hear advice from a parent as a lecture or control even when meant as care. Brief, respectful suggestions and asking what help is wanted improve how it lands.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2550,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Trisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Peer recommendations and influence [Mismatch]",
+   "description": "A teenager weighs recommendations from friends and influencers about trends, products and risks. Advice that carries pressure to do something unsafe or secret is a reason to consult a trusted adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2551,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Jeevan",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Authorizing and consent online [Interpreting]",
+   "description": "A teenager learns that saying yes once does not authorize everything, and that consent to share a picture or location can be withdrawn. Anyone who pressures or threatens is unsafe and should be reported.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: detachment, trust"
+   ]
+  }
+ ]
+}

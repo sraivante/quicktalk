@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5722,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Himani",
+     "Anand"
+    ],
+    "13": [
+     "Devika",
+     "Sabina"
+    ],
+    "14": [
+     "Mahima",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Microaggressions (respectful, balanced treatment)",
+   "subtype": "Small remarks that sting [Receiver]",
+   "description": "A teenager repeatedly asked \"where are you really from?\", or told they speak good English or are surprisingly smart for their background, feels singled out. Each comment is small, and the repetition adds up to feeling like an outsider.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 5723,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Noor",
+     "Naveen"
+    ],
+    "13": [
+     "Parveen",
+     "Nitin"
+    ],
+    "14": [
+     "Vijay",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Microaggressions (respectful, balanced treatment)",
+   "subtype": "Meaning well and still hurting [Actor]",
+   "description": "A student makes a joke or a compliment based on a group stereotype, sincerely thinking it is friendly. They are shocked to learn it hurt, because the intent was kind but the effect was not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: surprise, hurt"
+   ]
+  },
+  {
+   "sno": 5724,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Varun",
+     "Gurleen"
+    ],
+    "13": [
+     "Imran",
+     "Jeevan"
+    ],
+    "14": [
+     "Aditi",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Microaggressions (respectful, balanced treatment)",
+   "subtype": "Deciding whether to speak up [Receiver]",
+   "description": "A young adult hears a remark that feels demeaning and weighs the cost of speaking, wondering if they are overreacting, and whether it is worth the friction. Either choice is legitimate; carrying it silently can be tiring.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 5725,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Zeenat",
+     "Ramesh"
+    ],
+    "13": [
+     "Preeti",
+     "Uma"
+    ],
+    "14": [
+     "Chandrika",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Microaggressions (respectful, balanced treatment)",
+   "subtype": "Being told about an unintended slight [Actor]",
+   "description": "A person is quietly told that their comment came across badly. They feel defensive, embarrassed and misjudged, and do better by listening, apologising for the effect and adjusting without demanding comfort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 5726,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Nilesh",
+     "Harish"
+    ],
+    "13": [
+     "Yosef",
+     "Alejandro"
+    ],
+    "14": [
+     "Swati",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Microaggressions (respectful, balanced treatment)",
+   "subtype": "Naming it without assuming malice [Response]",
+   "description": "A young professional calmly says \"I know you meant well, and here is how that came across\", or asks what the person meant. This keeps the relationship intact while making the pattern visible, and also allows for real misunderstandings.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 5727,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Parveen",
+     "Irawati"
+    ],
+    "13": [
+     "Aparna",
+     "Asif"
+    ],
+    "14": [
+     "Seema",
+     "Farida"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Allyship and how to help a targeted person",
+   "subtype": "Standing next to the target [Observer]",
+   "description": "A student sees a classmate being mocked and sits with them or walks them out, without lecturing the bully. A quiet act of solidarity tells the target they are not alone and often lowers the temperature.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5728,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Kunal",
+     "Leela"
+    ],
+    "13": [
+     "Urmila",
+     "Thomas"
+    ],
+    "14": [
+     "Pallavi",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Allyship and how to help a targeted person",
+   "subtype": "Asking before rescuing [Response]",
+   "description": "A peer who witnesses harassment checks privately with the target about what they want, such as reporting, confronting or just company, instead of taking over. Help should return control to the person affected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5729,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Sahil",
+     "Ayesha"
+    ],
+    "13": [
+     "Rashmi",
+     "Tarun"
+    ],
+    "14": [
+     "Sarika",
+     "Divyansh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Allyship and how to help a targeted person",
+   "subtype": "Being helped clumsily [Receiver]",
+   "description": "A person who was targeted gets a well-meaning defender who makes a scene, speaks for them or makes it about themselves. They feel grateful yet smaller, and prefer support that follows their lead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 5730,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Nirmala",
+     "Vinita"
+    ],
+    "13": [
+     "Darshan",
+     "Jagdish"
+    ],
+    "14": [
+     "Pradeep",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Allyship and how to help a targeted person",
+   "subtype": "Speaking up in rooms the target is not in [Response]",
+   "description": "A colleague hears a discriminatory joke or unfair comment about someone absent and calmly challenges it, or supports them in a meeting by crediting their idea. Allyship shows in consistent small acts, not a label.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 5731,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Farhan",
+     "Akash"
+    ],
+    "13": [
+     "Yogesh",
+     "Yamini"
+    ],
+    "14": [
+     "Uma",
+     "Leela"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Allyship and how to help a targeted person",
+   "subtype": "Self-serving allyship [Actor]",
+   "description": "A person announces support for a cause mainly to be seen as good and loses interest when it costs something. Real allyship listens, stays through discomfort and accepts correction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

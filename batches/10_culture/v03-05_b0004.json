@@ -1,0 +1,317 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4802,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Arnab",
+     "Lavanya"
+    ],
+    "4": [
+     "Sharmila",
+     "Manjula"
+    ],
+    "5": [
+     "Ira",
+     "Nilesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Best behaviour for guests [Actor]",
+   "description": "A child is told to sit properly, stay quiet and let guests eat first, and may resent missing a favourite dish. The child learns that home has a public face and a private one.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 4803,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Avni"
+    ],
+    "4": [
+     "Sarita",
+     "Kishore"
+    ],
+    "5": [
+     "Lokesh",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Being the host at home [Receiver]",
+   "description": "A teenager is pulled from study to serve tea for unexpected relatives while a sibling is left alone. Honouring guests is real, but fairness in who serves, especially between daughters and sons, matters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4804,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Farhan",
+     "Gautam"
+    ],
+    "4": [
+     "Sarita",
+     "Nirmala"
+    ],
+    "5": [
+     "Sarika",
+     "Tenzin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Overstaying and dropping in [Observer]",
+   "description": "A host smiles while wondering how long a relative will stay without warning. Indian norms make it hard to say no; gentle honest talk about timing protects both hospitality and the relationship.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 4805,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Lavanya",
+     "Manoj"
+    ],
+    "4": [
+     "Disha",
+     "Manjula"
+    ],
+    "5": [
+     "Pema",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Visiting well [Response]",
+   "description": "A young adult brings a small gift, offers help in the kitchen, and leaves before the host is tired. Being a good guest is as much a skill as being a good host.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4806,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Soo-ah",
+     "Nadia"
+    ],
+    "4": [
+     "Gopika",
+     "Mohit"
+    ],
+    "5": [
+     "Parul",
+     "Francis"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Hospitality that hides strain [Actor]",
+   "description": "A host spends beyond means to impress visitors so as not to look poor. Generosity mixed with fear of judgement can become debt; warm simple welcome is still real hospitality.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4807,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Parveen"
+    ],
+    "4": [
+     "Damini",
+     "Zainab"
+    ],
+    "5": [
+     "Sumit",
+     "Ritu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Hospitality across cultures [Observer]",
+   "description": "A young person sees that some cultures expect a host to insist and a guest to refuse twice, while others take a first no as final. Knowing the local rule avoids both offence and awkwardness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 4808,
+   "plan": {
+    "3": "R13",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Lakshmi",
+     "Kamal"
+    ],
+    "4": [
+     "Uma",
+     "Chaitanya"
+    ],
+    "5": [
+     "Nikita",
+     "Nirmala"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Culture & Society",
+   "subtopic": "Food, purity and sharing norms",
+   "subtype": "Eating by hand and sharing [Actor]",
+   "description": "A toddler grabs food, feeds others from their own hand and expects bites from everyone's plate. Sharing food is bonding in this stage, with no sense yet of clean or unclean.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4809,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Ira",
+     "Hemant"
+    ],
+    "4": [
+     "Pankaj",
+     "Kavitha"
+    ],
+    "5": [
+     "Nandini",
+     "Yusuf"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Culture & Society",
+   "subtopic": "Food, purity and sharing norms",
+   "subtype": "Learning what is jootha [Actor]",
+   "description": "A child is told not to drink from another's glass or offer half-bitten food to deities, and starts sensing that some foods and touches are set apart. The child follows the rule before understanding it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4810,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Gargi",
+     "Abhinav"
+    ],
+    "4": [
+     "Jyoti",
+     "Farida"
+    ],
+    "5": [
+     "Vandana",
+     "Mahima"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Food, purity and sharing norms",
+   "subtype": "Vegetarian and non-vegetarian homes [Observer]",
+   "description": "A child notices that a friend's home has different kitchen rules, such as no eggs or separate utensils. Curiosity is natural; asking kindly rather than mocking keeps friendships open.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 4811,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Tarun",
+     "Rashmi"
+    ],
+    "4": [
+     "Sunaina",
+     "Pallavi"
+    ],
+    "5": [
+     "Zubin",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Food, purity and sharing norms",
+   "subtype": "Tiffin shame or pride [Actor]",
+   "description": "A teenager feels embarrassed by a smelly or unusual lunch, or proud of a home dish that friends beg to share. Food is identity, and how peers respond can teach either shame or pride.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: shame, embarrassment, pride"
+   ]
+  }
+ ]
+}

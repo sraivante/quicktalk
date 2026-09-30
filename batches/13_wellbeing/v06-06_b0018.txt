@@ -1,0 +1,39 @@
+STAGE: wellbeing
+Variant ids in this batch: 6 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows cover positive or reflective states (flow, awe, hope, humility, patience) and conversation skills. For conversation rows include actual spoken or texted lines, short and natural, with the effect on the other person. The application answer offers a small, specific, kind alternative. Avoid saccharine or preachy tone. Texts and chats in these scenes may carry a fitting emoji or two.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5366, "plan": {"6": "R4"}, "cast": {"6": ["Sangeeta", "Ira"]}, "age": "18–22", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Asking good questions", "subtype": "Open versus closed [Response]", "description": "A young adult asks a friend how did that feel, not did you like it, and gets a fuller answer. Open, curious questions invite stories, while leading ones invite agreement.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 23–26", "related mind states: curiosity"]}
+{"sno": 5367, "plan": {"6": "R3"}, "cast": {"6": ["Vinita", "Nirmala"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Asking good questions", "subtype": "Questions that interrogate [Receiver]", "description": "A person is fired quick questions why did you do that, what were you thinking and feels attacked. The same content asked with softer tone and genuine curiosity brings better answers.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22", "related mind states: curiosity"]}
+{"sno": 5368, "plan": {"6": "R15"}, "cast": {"6": ["Charu", "Tejas"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Asking good questions", "subtype": "Asking what is missing [Response]", "description": "A thoughtful colleague asks what would make this fail, or what am I not seeing. Such questions surface hidden risks and show respect for other viewpoints.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22", "related mind states: admiration"]}
+{"sno": 5369, "plan": {"6": "R13"}, "cast": {"6": ["Tanuja", "Vijay"]}, "age": "1–3", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Validating feelings versus fixing", "subtype": "Comfort by presence [Receiver]", "description": "A crying toddler quiets when held and spoken to softly, regardless of what was wrong. Before language, feeling accepted is the entire comfort needed.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26", "related mind states: sadness"]}
+{"sno": 5370, "plan": {"6": "R9"}, "cast": {"6": ["Minakshi", "Tarun"]}, "age": "4–6", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Validating feelings versus fixing", "subtype": "Naming the feeling [Response]", "description": "A parent says you are sad because your friend left, and the child nods and calms. Naming a feeling helps a small child sort it and feel understood.", "graph_context": ["this subtopic also appears at ages: 1–3, 7–12, 13–17, 23–26", "related mind states: sadness, calm"]}
+{"sno": 5371, "plan": {"6": "R8"}, "cast": {"6": ["Alejandro", "Chidi"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Validating feelings versus fixing", "subtype": "Dismissed with minimising [Receiver]", "description": "A child crying over a lost match is told it is just a game, stop crying. The child learns to hide feelings, not that they are small.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17, 23–26", "related mind states: sadness"]}
+{"sno": 5372, "plan": {"6": "R10"}, "cast": {"6": ["Darshan", "Sabina"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Validating feelings versus fixing", "subtype": "Wanting to be heard, not advised [Receiver]", "description": "A teenager vents about a teacher and gets a list of solutions, so they stop sharing. Often the request is to be heard first, and advice is welcome only if asked.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 23–26"]}
+{"sno": 5373, "plan": {"6": "R14"}, "cast": {"6": ["Salma", "Binita"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Validating feelings versus fixing", "subtype": "Both and [Response]", "description": "A person says that sounds really hard, and then asks would you like ideas or just company. Validation first and asking permission to problem-solve respects both feeling and agency.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17", "related mind states: admiration"]}
+{"sno": 5374, "plan": {"6": "R7"}, "cast": {"6": ["Maria", "Farida"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Arguing productively", "subtype": "Winning versus understanding [Actor]", "description": "Children arguing over a game push louder and repeat the same claim. Learning to state what the other person said before answering starts to change the pattern.", "graph_context": ["this subtopic also appears at ages: 13–17, 18–22, 23–26"]}
+{"sno": 5375, "plan": {"6": "R1"}, "cast": {"6": ["Pema", "Sabina"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Arguing productively", "subtype": "Escalating through absolutes [Actor]", "description": "A teenager in a quarrel says you always or you never and drags in old grievances. Absolutes provoke defence, and specific present issues keep the argument solvable.", "graph_context": ["this subtopic also appears at ages: 7–12, 18–22, 23–26", "related mind states: grief, resentment"]}
+
+Return exactly 10 JSON Lines and nothing else.

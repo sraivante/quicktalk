@@ -1,0 +1,289 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 51,
+   "plan": {
+    "12": "R9",
+    "13": "R12+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Aadhya",
+     "Naveen"
+    ],
+    "13": [
+     "Afreen",
+     "Lokesh"
+    ],
+    "14": [
+     "Dhruv",
+     "Trisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Critical Thinking",
+   "subtopic": "Intellectual Virtues",
+   "subtype": "Curiosity & Inquiry Disposition",
+   "description": "Cultivating an intrinsic drive to ask deep questions and investigate topics beyond mandated school requirements.",
+   "graph_context": [
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 52,
+   "plan": {
+    "12": "R2",
+    "13": "R3+T1",
+    "14": "R4+T1"
+   },
+   "cast": {
+    "12": [
+     "Rukmini",
+     "Leela"
+    ],
+    "13": [
+     "Kiran",
+     "Gargi"
+    ],
+    "14": [
+     "Varun",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Complex Social Dynamics",
+   "subtype": "Peer Group Formation",
+   "description": "Establishing distinct friend groups (cliques) with shared interests and in-group boundaries.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 53,
+   "plan": {
+    "12": "R9",
+    "13": "R12+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Jasleen",
+     "Gargi"
+    ],
+    "13": [
+     "Francis",
+     "Thomas"
+    ],
+    "14": [
+     "Zainab",
+     "Vaibhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Complex Social Dynamics",
+   "subtype": "Deep Friendships",
+   "description": "Moving from surface-level playmates to loyal friendships involving shared secrets."
+  },
+  {
+   "sno": 54,
+   "plan": {
+    "12": "R9",
+    "13": "R12+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Vishal",
+     "Hemant"
+    ],
+    "13": [
+     "Ujjwal",
+     "Thomas"
+    ],
+    "14": [
+     "Rehana",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Complex Social Dynamics",
+   "subtype": "Social Conformity",
+   "description": "Recognizing and adhering to unwritten social rules regarding behavior, dress, and trends."
+  },
+  {
+   "sno": 55,
+   "plan": {
+    "12": "R4",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Zeenat",
+     "Naveen"
+    ],
+    "13": [
+     "Ganga",
+     "Ishita"
+    ],
+    "14": [
+     "Zeenat",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Complex Social Dynamics",
+   "subtype": "Peer Conflict Resolution",
+   "description": "Navigating arguments and power dynamics with decreasing reliance on adult intervention."
+  },
+  {
+   "sno": 56,
+   "plan": {
+    "12": "R14",
+    "13": "R15+T1",
+    "14": "R1+T1"
+   },
+   "cast": {
+    "12": [
+     "Preeti",
+     "Devika"
+    ],
+    "13": [
+     "Pankaj",
+     "Ojas"
+    ],
+    "14": [
+     "Lalremsiami",
+     "Jeevan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Advanced Communication",
+   "subtopic": "Interpersonal Literacy",
+   "subtype": "Active Listening & Non-Verbal Decoding",
+   "description": "Listening to peers without interrupting and decoding non-verbal cues (facial expressions, body posture)."
+  },
+  {
+   "sno": 57,
+   "plan": {
+    "12": "R2",
+    "13": "R3+T1",
+    "14": "R4+T1"
+   },
+   "cast": {
+    "12": [
+     "Chaitanya",
+     "Disha"
+    ],
+    "13": [
+     "Kishore",
+     "Dolma"
+    ],
+    "14": [
+     "Noor",
+     "Dhruv"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Rule-Based Logic",
+   "subtype": "Conservation",
+   "description": "Understanding that a quantity stays the same even if its container changes shape."
+  },
+  {
+   "sno": 58,
+   "plan": {
+    "12": "R1",
+    "13": "R2+T1",
+    "14": "R3+T1"
+   },
+   "cast": {
+    "12": [
+     "Jahnavi",
+     "Yash"
+    ],
+    "13": [
+     "Amandeep",
+     "Damini"
+    ],
+    "14": [
+     "Ramesh",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Rule-Based Logic",
+   "subtype": "Reversibility",
+   "description": "Realizing that actions or mathematical operations can be reversed to the original state."
+  },
+  {
+   "sno": 59,
+   "plan": {
+    "12": "R3",
+    "13": "R4+T1",
+    "14": "R5+T1"
+   },
+   "cast": {
+    "12": [
+     "Samir",
+     "Chinmay"
+    ],
+    "13": [
+     "Vinita",
+     "Ujjwal"
+    ],
+    "14": [
+     "Wasim",
+     "Sudha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Rule-Based Logic",
+   "subtype": "Classification",
+   "description": "Organizing items into complex hierarchies, understanding sets and subsets."
+  },
+  {
+   "sno": 60,
+   "plan": {
+    "12": "R9",
+    "13": "R12+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Jomon",
+     "Shreya"
+    ],
+    "13": [
+     "Hemant",
+     "Binita"
+    ],
+    "14": [
+     "Usha",
+     "Reena"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Creativity",
+   "subtopic": "Artistic Expression",
+   "subtype": "Aesthetic Appreciation",
+   "description": "Developing sensitivity to beauty in art, music, literature, and nature while experimenting with creative mediums.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6"
+   ]
+  }
+ ]
+}

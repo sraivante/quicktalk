@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6691,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Ujjwal",
+     "Leela"
+    ],
+    "3": [
+     "Rashmi",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: divergent brainstorming of problems seen daily [Thinking]",
+   "description": "A student lists irritations from hostel life, such as laundry delays and mess complaints, and picks the one that classmates mention most often as a candidate problem.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, minimum viable version, pre-mortem, rigid persistence, sleeping on it",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6692,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Keerthana",
+     "Amandeep"
+    ],
+    "3": [
+     "Sabina",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: talking to twenty potential users first [Action]",
+   "description": "Before building anything, the student interviews twenty hostel residents about how they handle laundry and what they pay, and learns that pricing matters more than an app.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, minimum viable version, pre-mortem, rigid persistence"
+   ]
+  },
+  {
+   "sno": 6693,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Lalit",
+     "Arnab"
+    ],
+    "3": [
+     "Tanuja",
+     "Ishita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: minimum viable version with a manual service [Action]",
+   "description": "Rather than coding an app, the founders run a WhatsApp pickup service for one hostel block for two weeks to see if anyone will actually pay.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, pre-mortem, rigid persistence, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6694,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Kishore"
+    ],
+    "3": [
+     "Uday",
+     "Devika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: falling in love with the idea [Pitfall]",
+   "description": "The founder hears only encouraging feedback from friends, ignores polite doubts, and spends savings on a logo and website before checking whether strangers want the product.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, minimum viable version, pre-mortem, rigid persistence",
+    "related mind states: affection, anger, doubt"
+   ]
+  },
+  {
+   "sno": 6695,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Mehak",
+     "Saurabh"
+    ],
+    "3": [
+     "Ritu",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: pre-mortem on the venture [Thinking]",
+   "description": "The founding team imagines the venture failing after a year and lists reasons: exams, a cofounder leaving, no repeat customers. They then set rules for each risk.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, minimum viable version, rigid persistence, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6696,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Aditi"
+    ],
+    "3": [
+     "Deepak",
+     "Shalini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: experiment and measure with a small pilot [Action]",
+   "description": "The team sets a target of thirty repeat orders in a month, counts them honestly, and treats missing the target as information rather than an insult.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, pre-mortem, rigid persistence, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6697,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Zeenat"
+    ],
+    "3": [
+     "Bhavna",
+     "Lavanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: analogy to an existing business model [Thinking]",
+   "description": "A student compares a tiffin-sharing idea to a successful local mess service and asks which parts, such as trust and daily routine, could carry over to a campus.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, brainstorming, minimum viable version, pre-mortem, rigid persistence, sleeping on it",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6698,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Anand"
+    ],
+    "3": [
+     "Zubin",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: rigid persistence despite weak signals [Pitfall]",
+   "description": "After six months of few customers, the founder keeps adding features and refuses to change the plan, believing quitting means failure, while grades and savings suffer.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, minimum viable version, pre-mortem, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6699,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Pema"
+    ],
+    "3": [
+     "Suraj",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: adaptive replanning and pivot [Revision]",
+   "description": "Noticing that customers use the service mainly for exam-week printouts, the founders narrow the idea to a notes-and-printing service and see orders grow.",
+   "graph_context": [
+    "same problem, other approaches: analogy, brainstorming, minimum viable version, pre-mortem, rigid persistence, sleeping on it"
+   ]
+  },
+  {
+   "sno": 6700,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Ritu"
+    ],
+    "3": [
+     "Wasim",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Startup idea in college",
+   "subtype": "Approach: seeking a mentor and campus incubator advice [Action]",
+   "description": "The founders present the idea to an incubator mentor, learn about legal registration and cost basics, and understand that they need paid pilots before any investor talk.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, analogy, brainstorming, minimum viable version, pre-mortem, rigid persistence",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

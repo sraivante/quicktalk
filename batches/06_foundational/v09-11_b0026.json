@@ -1,0 +1,316 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5692,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Jomon",
+     "Ramesh"
+    ],
+    "10": [
+     "Shankar",
+     "Chandrika"
+    ],
+    "11": [
+     "Pallavi",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Milgram-style obedience",
+   "subtype": "Following a grown-up's order to hurt [Actor]",
+   "description": "A child told firmly by a teacher or older cousin to exclude or scold another child does it, feeling uneasy but reasoning that the adult must know best. Responsibility seems to shift onto the person giving orders.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anxiety, hurt"
+   ]
+  },
+  {
+   "sno": 5693,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Pankaj",
+     "Tushar"
+    ],
+    "10": [
+     "Disha",
+     "Vaibhav"
+    ],
+    "11": [
+     "Darshan",
+     "Jeevan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Milgram-style obedience",
+   "subtype": "Inside the obedient person's head [Actor]",
+   "description": "A teenager told by a coach or senior to do something that harms another feels tension and doubt, but the calm authority, small first step and \"just continue\" make stopping seem harder than going on. Many comply while visibly distressed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: doubt, calm"
+   ]
+  },
+  {
+   "sno": 5694,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Devika",
+     "Sahil"
+    ],
+    "10": [
+     "Akash",
+     "Rehana"
+    ],
+    "11": [
+     "Leela",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Milgram-style obedience",
+   "subtype": "Ordinary people, harmful orders [Observer]",
+   "description": "A student reads about experiments where most ordinary participants kept obeying an authority despite a stranger's cries of pain. They realise obedience does not need cruelty, and that they too could be the one who complies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 5695,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Karthik",
+     "Ojas"
+    ],
+    "10": [
+     "Zainab",
+     "Payal"
+    ],
+    "11": [
+     "Salma",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Milgram-style obedience",
+   "subtype": "Being harmed on orders [Receiver]",
+   "description": "A junior who is targeted by a group carrying out a superior's instruction, such as ragging or a punitive policy, feels they are being treated as a thing not a person. Those doing it often insist they had no choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5696,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Harish",
+     "Anand"
+    ],
+    "10": [
+     "Siddharth",
+     "Arnab"
+    ],
+    "11": [
+     "Nilesh",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Milgram-style obedience",
+   "subtype": "Refusing with respect [Response]",
+   "description": "A young professional asked to do something clearly harmful stops at the first doubt, states the concern calmly, asks for it in writing or a second opinion, and declines if needed. Early refusal is easier than late; one dissenter helps others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration, doubt, calm"
+   ]
+  },
+  {
+   "sno": 5697,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Swati",
+     "Chandrika"
+    ],
+    "10": [
+     "Mohit",
+     "Mridul"
+    ],
+    "11": [
+     "Irfan",
+     "Manoj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Stanford-prison-style role adoption",
+   "subtype": "Playing a role until it takes over [Actor]",
+   "description": "A teenager given the role of prefect or gang lookout begins to act tougher than they are, and in time the behaviour feels natural. The costume of the role slowly changes what they think is acceptable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5698,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Zainab",
+     "Mridul"
+    ],
+    "10": [
+     "Kashish",
+     "Chaitanya"
+    ],
+    "11": [
+     "Ingrid",
+     "Yosef"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Stanford-prison-style role adoption",
+   "subtype": "Guard-like behaviour with the weak [Actor]",
+   "description": "Seniors in a hostel or student volunteers enforce rules harshly on juniors because the role licenses it, and they come to believe the juniors deserve it. Roles, uniforms and few checks can bring out cruelty in ordinary people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5699,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Jatin",
+     "Chetan"
+    ],
+    "10": [
+     "Lakshmi",
+     "Sarita"
+    ],
+    "11": [
+     "Gurpreet",
+     "Jatin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Stanford-prison-style role adoption",
+   "subtype": "Being cast as the lower role [Receiver]",
+   "description": "A person placed in a subordinate role, such as a fresher, trainee or detainee, may become passive, withdrawn or resentful and start to see themselves as they are being treated. The role shapes even self-image.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: detachment, resentment"
+   ]
+  },
+  {
+   "sno": 5700,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Kishore",
+     "Jaya"
+    ],
+    "10": [
+     "Tanvir",
+     "Jyoti"
+    ],
+    "11": [
+     "Lalit",
+     "Harish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Stanford-prison-style role adoption",
+   "subtype": "Seeing the role, not the person [Observer]",
+   "description": "A peer sees a friend in a supervising job become unusually harsh and remarks that this is not how he is at home. Recognising that setting and role can distort behaviour helps them raise concern without hostility.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 5701,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Kavitha",
+     "Leela"
+    ],
+    "10": [
+     "Indu",
+     "Eshaan"
+    ],
+    "11": [
+     "Sharmila",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Stanford-prison-style role adoption",
+   "subtype": "Stepping out of the role [Response]",
+   "description": "A young supervisor pauses to ask whether they would treat someone this way outside of work, seeks oversight and asks subordinates for honest input. Clear limits, transparency and reminders of shared humanity protect against role drift.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

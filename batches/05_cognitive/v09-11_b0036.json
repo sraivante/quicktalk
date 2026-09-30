@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3920,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Urmila",
+     "Divyansh"
+    ],
+    "10": [
+     "Zainab",
+     "Vikas"
+    ],
+    "11": [
+     "Kiran",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Compartmentalisation",
+   "subtype": "Scheduling time to open the box [Response]",
+   "description": "An adult who sets aside work worries for the workday deliberately schedules a time to feel and address them; the boxes are useful tools when they have doors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3921,
+   "plan": {
+    "9": "R8+T1",
+    "10": "R9+T1",
+    "11": "R13+T1"
+   },
+   "cast": {
+    "9": [
+     "Thabo",
+     "Mateo"
+    ],
+    "10": [
+     "Lalremsiami",
+     "Yogesh"
+    ],
+    "11": [
+     "Gargi",
+     "Ishita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Hiding behind a parent at a party [Actor]",
+   "description": "A child clings to a parent's leg and refuses to greet anyone; staying away from the scary thing feels like relief, and gentle nearness helps more than pushing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 3922,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Bidisha",
+     "Siddharth"
+    ],
+    "10": [
+     "Swati",
+     "Varun"
+    ],
+    "11": [
+     "Mridul",
+     "Jyoti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Not looking at the difficult homework [Actor]",
+   "description": "A child leaves the hardest subject untouched, cleans their desk and asks for water; the discomfort of not knowing is escaped, which strengthens the wish to escape next time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3923,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Hansa",
+     "Jatin"
+    ],
+    "10": [
+     "Yamini",
+     "Ojas"
+    ],
+    "11": [
+     "Tejas",
+     "Parul"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Leaving messages unopened [Actor]",
+   "description": "A teenager does not read a friend's upset message for days because any answer feels hard; the delay makes the eventual conversation bigger and the guilt heavier.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3924,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Varun",
+     "Dolma"
+    ],
+    "10": [
+     "Pankaj",
+     "Tanuja"
+    ],
+    "11": [
+     "Sami",
+     "Nkechi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Dodging a hard talk with a friend [Actor]",
+   "description": "A young adult who felt hurt by a friend just goes quiet, joins fewer plans and hopes it will fade; short-term relief costs the friendship a chance to be repaired.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hope, relief, hurt"
+   ]
+  },
+  {
+   "sno": 3925,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Kishore",
+     "Neelam"
+    ],
+    "10": [
+     "Diego",
+     "Kaito"
+    ],
+    "11": [
+     "Nilesh",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Noticing a friend retreat [Observer]",
+   "description": "A friend sees a normally lively person start skipping classes and dodging conversations about a failed subject; the friend offers company and a small concrete first step instead of lectures.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3926,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Sachin",
+     "Binita"
+    ],
+    "10": [
+     "Pema",
+     "Maria"
+    ],
+    "11": [
+     "Tenzin",
+     "Yash"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Avoidance",
+   "subtype": "Approaching the fear in small steps [Response]",
+   "description": "An adult who avoids phone calls to officials makes one short call a day beginning with the easiest; small steps show that the feared thing is bearable and shrink the dread.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3927,
+   "plan": {
+    "9": "R5",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Anirban",
+     "Yogesh"
+    ],
+    "10": [
+     "Baljeet",
+     "Ramesh"
+    ],
+    "11": [
+     "Rania",
+     "Emil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "All-or-nothing thinking",
+   "subtype": "One mistake ruins everything [Actor]",
+   "description": "A child who spelled one word wrong on a test declares the whole test a disaster and says they are stupid; anything short of perfect is filed as total failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3928,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Kunal",
+     "Tanvir"
+    ],
+    "10": [
+     "Jeevan",
+     "Nirmala"
+    ],
+    "11": [
+     "Nandini",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "All-or-nothing thinking",
+   "subtype": "Skipping practice after a bad day [Actor]",
+   "description": "A teenager who missed one workout decides the whole fitness plan is over and quits; the thinking has only two boxes, perfect or pointless.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3929,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Zainab",
+     "Vasudha"
+    ],
+    "10": [
+     "Vandana",
+     "Kiran"
+    ],
+    "11": [
+     "Charu",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "All-or-nothing thinking",
+   "subtype": "Hearing black-and-white judgements [Receiver]",
+   "description": "A student whose flatmate says they never help and always mess up feels unfairly painted and defensive; absolutes invite arguments about the words instead of the problem.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

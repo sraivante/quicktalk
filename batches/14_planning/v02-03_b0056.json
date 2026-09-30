@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6311,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Trisha"
+    ],
+    "3": [
+     "Varun",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: venting in the group chat [Pitfall]",
+   "description": "Hurt and angry, the student posts vague complaints in a shared chat. It draws sympathy for a moment but spreads the conflict, embarrasses the friend and makes an honest talk much harder.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: anger, embarrassment, empathy, hurt"
+   ]
+  },
+  {
+   "sno": 6312,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Avni",
+     "Abhinav"
+    ],
+    "3": [
+     "Divyansh",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: silent treatment and avoidance [Pitfall]",
+   "description": "The student stops replying and sits elsewhere, hoping the problem disappears. The friend reads it as rejection, guesses the cause wrongly, and the distance hardens over several weeks.",
+   "graph_context": [
+    "same problem, other approaches: negotiation, seeking advice"
+   ]
+  },
+  {
+   "sno": 6313,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Zeenat"
+    ],
+    "3": [
+     "Fatima",
+     "Diego"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: perspective-taking about the friend's motives [Thinking]",
+   "description": "The student considers that the friend may have told others out of worry or carelessness rather than malice, and this shifts her plan from punishment to asking, while still stating the boundary.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6314,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Santosh"
+    ],
+    "3": [
+     "Disha",
+     "Madhuri"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: win-win repair plan [Action]",
+   "description": "Both agree on a clear rule that private things stay private, the friend apologises to the affected person, and they plan a shared weekend activity to rebuild ease, so both needs are met.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, seeking advice"
+   ]
+  },
+  {
+   "sno": 6315,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Baljeet"
+    ],
+    "3": [
+     "Yamini",
+     "Ankita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: seeking advice from an older sibling [Action]",
+   "description": "The student explains the situation to her elder brother, who has been through similar fights, and gets a reality check that helps her see her own part in the misunderstanding.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation"
+   ]
+  },
+  {
+   "sno": 6316,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Kavitha"
+    ],
+    "3": [
+     "Suraj",
+     "Hansa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: revenge planning [Pitfall]",
+   "description": "The student plans to leave the friend out of a birthday party to hurt back. It feels satisfying in imagination, but it would prove the friend's fear right and cost a friendship worth keeping.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: fear, contentment, hurt"
+   ]
+  },
+  {
+   "sno": 6317,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Rukmini"
+    ],
+    "3": [
+     "Asif",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: noticing the first talk failed and trying a different way [Revision]",
+   "description": "When the face-to-face talk turns into shouting, the student sends a short calm message the next day suggesting a walk, showing that a change of setting and tone can reopen the discussion.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6318,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Nandini"
+    ],
+    "3": [
+     "Karthik",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: accepting that the friendship is changing [Revision]",
+   "description": "After repeated broken promises, the student sees that trust has not returned. He keeps a polite connection, invests in other friends and lets the closeness settle at a lower level without blame.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6319,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Seema",
+     "Zainab"
+    ],
+    "3": [
+     "Keerthana",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: mental rehearsal of a low-pressure invitation [Thinking]",
+   "description": "The student imagines asking a classmate to join a group study session or a school event, picks words that are easy to decline, and prepares a calm reply for either answer.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, seeking advice, trial by imitation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6320,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Anand",
+     "Gurleen"
+    ],
+    "3": [
+     "Kiran",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking a crush out respectfully",
+   "subtype": "Approach: building a friendly connection first [Action]",
+   "description": "Over a few weeks the student chats about shared interests in class projects and clubs, watching whether the other person seems comfortable, before suggesting a casual activity in a group.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, mental simulation, seeking advice",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

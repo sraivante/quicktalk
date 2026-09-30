@@ -1,0 +1,302 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 61,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Darshan",
+     "Vinita"
+    ],
+    "7": [
+     "Anjali",
+     "Thomas"
+    ],
+    "8": [
+     "Sumit",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Jealousy",
+   "description": "Fearing the loss of a friend, attention, or status to a peer rival.",
+   "graph_context": [
+    "related mind states: fear, jealousy"
+   ]
+  },
+  {
+   "sno": 62,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Vaibhav"
+    ],
+    "7": [
+     "Siddharth",
+     "Thomas"
+    ],
+    "8": [
+     "Jyoti",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Envy",
+   "description": "Desiring the traits, belongings, or social standing that another peer possesses.",
+   "graph_context": [
+    "related mind states: envy, nostalgia"
+   ]
+  },
+  {
+   "sno": 63,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Raghav",
+     "Nilesh"
+    ],
+    "7": [
+     "Asif",
+     "Joseph"
+    ],
+    "8": [
+     "Rukmini",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Belonging",
+   "description": "Finding intense emotional security and validation in being accepted by a peer group.",
+   "graph_context": [
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 64,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Disha",
+     "Afreen"
+    ],
+    "7": [
+     "Payal",
+     "Ankita"
+    ],
+    "8": [
+     "Abhinav",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Social/Relational Emotions",
+   "subtype": "Inadequacy",
+   "description": "Feeling inferior when comparing one's own abilities or social standing to peers.",
+   "graph_context": [
+    "related mind states: insecurity"
+   ]
+  },
+  {
+   "sno": 65,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Madhav"
+    ],
+    "7": [
+     "Naveen",
+     "Shankar"
+    ],
+    "8": [
+     "Sachin",
+     "Urmila"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Indignation",
+   "description": "Reacting with emotional heat to perceived unfairness, cheating, or rule-breaking."
+  },
+  {
+   "sno": 66,
+   "plan": {
+    "6": "R9",
+    "7": "R12",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Tejas"
+    ],
+    "7": [
+     "Shreya",
+     "Irfan"
+    ],
+    "8": [
+     "Jeevan",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Gratitude",
+   "description": "Recognizing and feeling thankful for others' intentional acts of kindness.",
+   "graph_context": [
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 67,
+   "plan": {
+    "6": "R9",
+    "7": "R12",
+    "8": "R13"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Urmila"
+    ],
+    "7": [
+     "Hemant",
+     "Trisha"
+    ],
+    "8": [
+     "Uma",
+     "Hrithik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Moral Emotions",
+   "subtype": "Righteousness",
+   "description": "Feeling emotionally validated by upholding shared rules and group morality."
+  },
+  {
+   "sno": 68,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Gopika",
+     "Trisha"
+    ],
+    "7": [
+     "Chetan",
+     "Pallavi"
+    ],
+    "8": [
+     "Tenzin",
+     "Omkar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Coping",
+   "subtopic": "Perseverance",
+   "subtype": "Grit & Failure Recovery",
+   "description": "Maintaining steady effort toward long-term goals and bouncing back after poor test scores or sports losses.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 69,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Gargi"
+    ],
+    "7": [
+     "Swati",
+     "Siddharth"
+    ],
+    "8": [
+     "Disha",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Humor",
+   "subtopic": "Social Wit",
+   "subtype": "Wit & Wordplay Comprehension",
+   "description": "Understanding puns, riddle logic, sarcasm, and lighthearted teasing without misinterpreting it as malice."
+  },
+  {
+   "sno": 70,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Bidisha",
+     "Parul"
+    ],
+    "7": [
+     "Hrithik",
+     "Farida"
+    ],
+    "8": [
+     "Arohi",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Conventional Morality",
+   "description": "Internalizing fairness, social order, and rule-following based on mutual trust and reciprocity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

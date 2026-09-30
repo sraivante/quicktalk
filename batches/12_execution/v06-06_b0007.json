@@ -1,0 +1,213 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5052,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Repeating what is already easy [Actor]",
+   "description": "A child playing a musical instrument or sport keeps repeating the piece already mastered because it feels good. Enjoyable repetition feels like practice but builds little; growth lives in the difficult parts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5053,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Sharmila",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Hours versus focused effort [Actor]",
+   "description": "A teenager logs long practice hours while half-attending, then wonders why there is no improvement. Time spent matters less than concentrated work on a specific weakness with immediate correction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 5054,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Teacher or coach noticing shortcuts [Observer]",
+   "description": "A coach sees a student skip the boring fundamentals to play flashy material and knows the gaps will show later. Good teachers hold the standard gently, explaining how basics make the fun parts possible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 5055,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Arnab",
+     "Darshan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Working at the edge of ability [Actor]",
+   "description": "A committed learner picks tasks just beyond current skill and accepts frequent failure as the price of growth. The discomfort of not quite managing it is a sign that learning is actually happening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5056,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Mohit",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Small specific goals with feedback [Response]",
+   "description": "A wise learner sets a narrow target for each session, records or reviews the result and fixes one thing at a time. Specificity plus honest feedback is what separates deliberate practice from mere repetition.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5057,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Thomas",
+     "Sangeeta"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Learning a craft by deliberate practice",
+   "subtype": "Plateau and patience [Actor]",
+   "description": "A practising professional or artist sees no visible progress for weeks and feels tempted to quit or switch hobbies. Plateaus are normal; skill often consolidates unseen before showing a jump.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5058,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Dilnaz",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Feedback loops and iteration",
+   "subtype": "Hurt by correction [Actor]",
+   "description": "A child whose drawing or answer is corrected feels the whole self is judged and crumples or argues. Separating the work from the worth of the worker is an ability that develops slowly with kind repetition.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5059,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Alejandro",
+     "Noa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Feedback loops and iteration",
+   "subtype": "Defensiveness when critiqued [Actor]",
+   "description": "A teenager hears feedback as an attack and lists excuses before absorbing a word. Later, in private, the useful part is often quietly used, which shows the reaction was about pride, not disagreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 5060,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Darshan",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Feedback loops and iteration",
+   "subtype": "Seeking early rough feedback [Actor]",
+   "description": "A student shows a rough draft to a mentor early despite the embarrassment, and saves days of building in the wrong direction. Early feedback feels exposing but is the cheapest kind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 5061,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Ulla",
+     "Camila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Feedback loops and iteration",
+   "subtype": "Quick cycles of try, check, adjust [Response]",
+   "description": "A capable maker builds a small version, tests it, learns what is wrong and revises, repeating many times. Short loops turn mistakes into cheap information rather than costly disasters.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

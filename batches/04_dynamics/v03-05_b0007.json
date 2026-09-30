@@ -1,0 +1,336 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2968,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Ulla",
+     "Layla"
+    ],
+    "4": [
+     "Farhan",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Jahnavi",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 1: Betrayal revealed [Receiver]",
+   "description": "A husband learns his wife hid a large loan she took to support her brother. He feels shock, a burning sense of being made a fool, and a sudden doubt about what else has been hidden.",
+   "graph_context": [
+    "next stage: Shame and justification",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: doubt, surprise"
+   ]
+  },
+  {
+   "sno": 2969,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Shreya",
+     "Salma"
+    ],
+    "4": [
+     "Salma",
+     "Tenzin"
+    ],
+    "5": [
+     "Preeti",
+     "Tenzin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 2: Shame and justification [Actor]",
+   "description": "The wife feels torn between loyalty to her family and fear of his anger, and hid it because she expected judgement. She now defends herself with \"you would never have agreed\", which adds to his hurt.",
+   "graph_context": [
+    "previous stage: Betrayal revealed",
+    "next stage: Hypervigilance",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: anger, fear, shame, hurt"
+   ]
+  },
+  {
+   "sno": 2970,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Preeti",
+     "Aditi"
+    ],
+    "4": [
+     "Harsha",
+     "Eshaan"
+    ],
+    "5": [
+     "Uday",
+     "Nilesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 3: Hypervigilance [Receiver]",
+   "description": "He checks accounts and reads her face for signs of more secrets. It is the mind trying to prevent another shock, but it wears him out and makes her feel watched rather than forgiven.",
+   "graph_context": [
+    "previous stage: Shame and justification",
+    "next stage: Full disclosure and accountability",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 2971,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Aparna",
+     "Ayesha"
+    ],
+    "4": [
+     "Wei",
+     "Aiko"
+    ],
+    "5": [
+     "Rekha",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 4: Full disclosure and accountability [Response]",
+   "description": "She tells everything without being asked twice and says plainly that hiding it was the wrong. Rebuilding cannot begin while new facts keep surfacing, so a single complete account matters more than a perfect one.",
+   "graph_context": [
+    "previous stage: Hypervigilance",
+    "next stage: Transparent routines",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 2972,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Pradeep",
+     "Pooja"
+    ],
+    "4": [
+     "Xin",
+     "Yosef"
+    ],
+    "5": [
+     "Rajni",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 5: Transparent routines [Response]",
+   "description": "They set up shared visibility on money and agree how to decide about family help in future. The hurt partner gets safety and the other gets a way to prove change, and both accept it is temporary and mutual.",
+   "graph_context": [
+    "previous stage: Full disclosure and accountability",
+    "next stage: Gradual, uneven healing",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2973,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Ritu",
+     "Jeevan"
+    ],
+    "4": [
+     "Kiran",
+     "Mahima"
+    ],
+    "5": [
+     "Avni",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Broken trust and rebuilding",
+   "subtype": "Stage 6: Gradual, uneven healing [Observer]",
+   "description": "A friend notes that trust returns in fits, with good weeks and bad days when the memory flares. Patience with the setbacks matters, and if the hurt will not ease, a counsellor can help both talk without reopening the wound.",
+   "graph_context": [
+    "previous stage: Transparent routines",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2974,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Baljeet",
+     "Aditi"
+    ],
+    "4": [
+     "Nandini",
+     "Minakshi"
+    ],
+    "5": [
+     "Felix",
+     "Nour"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 1: Proximity and shared interest [Actor]",
+   "description": "Two children seated together discover they both like cricket cards and start trading. Friendship at this age grows from sharing a bench, a game or a joke, more than from deep knowledge of each other.",
+   "graph_context": [
+    "next stage: Testing safety",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 2975,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Jagdish",
+     "Tarun"
+    ],
+    "4": [
+     "Elif",
+     "Liam"
+    ],
+    "5": [
+     "Madhuri",
+     "Sahil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 2: Testing safety [Actor]",
+   "description": "The children share a small secret or a snack and watch how the other reacts. Being laughed at would end it; being kept safe invites more, so each small act of trust is quietly checked.",
+   "graph_context": [
+    "previous stage: Proximity and shared interest",
+    "next stage: Becoming best friends",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: amusement, trust"
+   ]
+  },
+  {
+   "sno": 2976,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Nadia",
+     "Camila"
+    ],
+    "4": [
+     "Alka",
+     "Wasim"
+    ],
+    "5": [
+     "Hansa",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 3: Becoming best friends [Actor]",
+   "description": "They walk home together, invent codes and say \"you are my best friend\". There is joy and also possessiveness, with the first hurt when one plays with someone else at recess.",
+   "graph_context": [
+    "previous stage: Testing safety",
+    "next stage: Changing interests and groups",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: joy, hurt"
+   ]
+  },
+  {
+   "sno": 2977,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Naveen"
+    ],
+    "4": [
+     "Tanuja",
+     "Baljeet"
+    ],
+    "5": [
+     "Ganga",
+     "Usha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Friendship formation and fading",
+   "subtype": "Stage 4: Changing interests and groups [Observer]",
+   "description": "A teacher notices one child joining the football group while the other stays with the art crowd. Neither did anything wrong; time and new activities pull them into different circles.",
+   "graph_context": [
+    "previous stage: Becoming best friends",
+    "next stage: Fading without a fight",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

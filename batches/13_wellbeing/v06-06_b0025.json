@@ -1,0 +1,134 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5436,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Simran",
+     "Kamal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Interruption and airtime",
+   "subtype": "Reclaiming the floor [Response]",
+   "description": "A young professional says I would like to finish my point, then continues calmly. A steady, non-angry reclaiming holds the floor without a fight.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 5437,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Tenzin",
+     "Arnab"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Silence as communication",
+   "subtype": "Silence with a caregiver [Actor]",
+   "description": "A toddler sits quietly on a parent's lap watching the world, content. Shared silence at this age communicates safety, not absence of connection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5438,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Silence as communication",
+   "subtype": "Silent treatment [Receiver]",
+   "description": "A child ignored by a parent or a friend after a mistake feels intense distress, as being cut off is felt as danger. Silence used to punish teaches fear, not understanding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 5439,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Silence as communication",
+   "subtype": "Silence as refusal [Actor]",
+   "description": "A teenager who says nothing when questioned may be defending privacy or hiding hurt. Pressing harder rarely works, while offering to talk later with no conditions often does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5440,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Kishore",
+     "Sonali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Silence as communication",
+   "subtype": "Silence in negotiation and meetings [Observer]",
+   "description": "A person waits after a proposal instead of rushing to fill the gap and finds the other side reveals more. Silence can give thinking room, but used aggressively it becomes pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 5441,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Selin",
+     "Ines"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Silence as communication",
+   "subtype": "Sitting in silence with pain [Response]",
+   "description": "A person stays beside a suffering friend without speaking, offering presence only. Not rushing to fill the quiet shows that the friend's feelings can be borne.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: hurt"
+   ]
+  }
+ ]
+}

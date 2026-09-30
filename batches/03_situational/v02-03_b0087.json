@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1178,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Anand"
+    ],
+    "3": [
+     "Afreen",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Joining a protest or cause",
+   "subtype": "Political opponent × Argument [Actor]",
+   "description": "Peers challenge my activism as pointless. Wise: answer with facts and patience, accept that change is slow, and act where I can make a real difference.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, exploitation, fear, protectiveness"
+   ]
+  },
+  {
+   "sno": 1179,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Aditi",
+     "Neelam"
+    ],
+    "3": [
+     "Jagdish",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Influencer × Envy [Actor]",
+   "description": "I follow a rich influencer and feel my own life is dull. Wise: remember the feed is edited and paid; take inspiration for skills, not for comparing lifestyles.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, exploitation, hatred, loyalty, worship",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 1180,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Gargi"
+    ],
+    "3": [
+     "Marek",
+     "Freya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Celebrity × Parasocial attachment [Actor]",
+   "description": "I feel close to a star as though they know me and cry at their news. Wise: enjoy the comfort while remembering they do not know me; keep real friendships alive.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, loyalty",
+    "paired view exists: Receiver (S1181)",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 1181,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Rashmi"
+    ],
+    "3": [
+     "Mohit",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Celebrity × Parasocial attachment [Receiver]",
+   "description": "A fan writes to me as if we are best friends. As a public figure I must keep kindness and boundaries. Wise: appreciate warmth, not feed dependency.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, loyalty",
+    "paired view exists: Actor (S1180)",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1182,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Mridul"
+    ],
+    "3": [
+     "Rafiq",
+     "Harish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Idol × Loyalty [Actor]",
+   "description": "When my idol is criticised I defend them fiercely, even when the criticism is fair. Wise: loyalty to a person should not switch off my own judgment.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, worship"
+   ]
+  },
+  {
+   "sno": 1183,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Jyoti"
+    ],
+    "3": [
+     "Reena",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Fan group × Hatred [Actor]",
+   "description": "Fans of rival stars abuse each other online and I join in. Wise: notice how it feels good to belong and hurts real people; step out when it turns cruel.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, loyalty, worship",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1184,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Seema"
+    ],
+    "3": [
+     "Eshaan",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Influencer × Exploitation [Receiver]",
+   "description": "A creator sells expensive courses or betting apps to young fans. Recognise it: trust built on likes can be monetised. Check claims and never spend what isn't mine.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, hatred, loyalty, worship",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1185,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Nitin"
+    ],
+    "3": [
+     "Suraj",
+     "Vikas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Idol × Inspiration [Actor]",
+   "description": "I admire an athlete for the years of discipline behind the success. Wise: copy the habits, not the image; use admiration as fuel for my own work.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, loyalty",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1186,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Kavitha"
+    ],
+    "3": [
+     "Ojas",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Admiring a celebrity or leader",
+   "subtype": "Leader × Awe [Actor]",
+   "description": "A charismatic leader's speech thrills me. Wise: enjoy the inspiration, then ask what they actually do, who benefits and what they hide.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, envy, exploitation, hatred, loyalty, worship",
+    "related mind states: joy, awe"
+   ]
+  },
+  {
+   "sno": 1187,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Farida",
+     "Anjali"
+    ],
+    "3": [
+     "Vaibhav",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Scrolling social media comparison",
+   "subtype": "Peers × Envy [Actor]",
+   "description": "I see friends' holidays, looks and parties and feel left out. Wise: remember they post highlights; limit scrolling time, and message a friend instead.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, fear, insecurity, manipulation, pride",
+    "related mind states: envy"
+   ]
+  }
+ ]
+}

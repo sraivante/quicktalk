@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6931,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Yusuf"
+    ],
+    "3": [
+     "Shreya",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Refusing an unethical boss demand",
+   "subtype": "Approach: weigh job security against integrity in a values list [Thinking]",
+   "description": "The employee lists what is at stake on each side: salary and loan payments, reputation, legal risk, self-respect. Seeing the whole picture leads to refusing while preparing a backup in the job market.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation",
+    "related mind states: admiration, determination"
+   ]
+  },
+  {
+   "sno": 6932,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Lavanya"
+    ],
+    "3": [
+     "Charu",
+     "Tenzin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Refusing an unethical boss demand",
+   "subtype": "Approach: seek a witness or written instruction [Action]",
+   "description": "The employee replies to the boss by email summarising the request and asking for confirmation in writing, which often makes the manager reconsider. Written trails clarify who is responsible.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6933,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Kavitha",
+     "Joseph"
+    ],
+    "3": [
+     "Harish",
+     "Charu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Refusing an unethical boss demand",
+   "subtype": "Approach: prepare an exit plan if the culture will not change [Revision]",
+   "description": "After repeated pressure, the employee updates the CV, contacts former classmates and searches for roles with better ethics. Refusal may not fix the workplace, so options are widened.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, impulsive action, mental simulation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6934,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Shreya",
+     "Aadhya"
+    ],
+    "3": [
+     "Noor",
+     "Varun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: gather facts before judging [Thinking]",
+   "description": "A junior auditor notices invoices repeatedly paid to a vendor with no delivery record. Before concluding anything, the auditor asks what other explanations exist and what evidence would separate error from wrongdoing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, seeking advice"
+   ]
+  },
+  {
+   "sno": 6935,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Kamal",
+     "Sonali"
+    ],
+    "3": [
+     "Tanuja",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: check the company whistleblower policy and legal protection [Action]",
+   "description": "The auditor reads the internal policy and the general protections available in law, and considers who receives a report and how confidentiality is kept. Knowing the channels avoids acting in a way that exposes the person needlessly.",
+   "graph_context": [
+    "same problem, other approaches: pre-mortem, seeking advice"
+   ]
+  },
+  {
+   "sno": 6936,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Abhinav"
+    ],
+    "3": [
+     "Avni",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: confront the colleague in anger [Pitfall]",
+   "description": "Upset by what was found, the person accuses the colleague in an open office. The colleague deletes files and the team turns hostile, and the chance of a calm, documented process is lost.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, seeking advice",
+    "related mind states: anger, hostility, calm"
+   ]
+  },
+  {
+   "sno": 6937,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Sofia",
+     "Chen"
+    ],
+    "3": [
+     "Salma",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: consult a mentor or lawyer for confidential guidance [Action]",
+   "description": "The auditor asks a trusted senior mentor outside the reporting line and an advocate known through college about the options and risks. Advice helps weigh consequences without leaking the matter widely.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6938,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Naveen",
+     "Tushar"
+    ],
+    "3": [
+     "Akash",
+     "Vasudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: do nothing because it is not my job [Pitfall]",
+   "description": "The person tells themselves that others must already know and that raising it would harm a career. Diffusion of responsibility spreads through the team, and the problem grows.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, seeking advice"
+   ]
+  },
+  {
+   "sno": 6939,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Vijay"
+    ],
+    "3": [
+     "Ayesha",
+     "Dilnaz"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: pre-mortem on retaliation and support [Thinking]",
+   "description": "The auditor imagines the report going badly, with isolation or a bad review, and plans for it: keep copies of appraisal records, know HR contacts and keep savings for a few months. Foreseeing costs lets the person act with eyes open.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, seeking advice",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 6940,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Nikita"
+    ],
+    "3": [
+     "Akash",
+     "Ujjwal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Deciding whether to whistleblow",
+   "subtype": "Approach: file a factual written report through the proper channel [Action]",
+   "description": "The auditor submits a concise report with dates, amounts and document references to the compliance officer, avoiding accusations and opinions. A factual tone lets investigators check the claim independently.",
+   "graph_context": [
+    "same problem, other approaches: pre-mortem, seeking advice"
+   ]
+  }
+ ]
+}

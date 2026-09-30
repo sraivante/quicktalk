@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6811,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Ujjwal"
+    ],
+    "3": [
+     "Kashish",
+     "Gurpreet"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: working backward from the audience's need [Thinking]",
+   "description": "The student asks what the panel needs to decide and builds the talk around that single message, instead of showing everything that was done.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, time-boxing"
+   ]
+  },
+  {
+   "sno": 6812,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Imran",
+     "Sarika"
+    ],
+    "3": [
+     "Kalyani",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: storyboarding slides on paper [Action]",
+   "description": "Before opening slides, the student sketches each slide on paper as a problem, method, result and next step, and cuts every slide that does not serve the story.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, pre-mortem, time-boxing, working backward"
+   ]
+  },
+  {
+   "sno": 6813,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Hrithik",
+     "Reena"
+    ],
+    "3": [
+     "Tanuja",
+     "Imran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: rehearsing aloud with a timer [Action]",
+   "description": "The student runs the talk three times aloud, once before a friend, and trims to fit ten minutes, noticing that the middle section runs long.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, working backward"
+   ]
+  },
+  {
+   "sno": 6814,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Lakshmi"
+    ],
+    "3": [
+     "Rafiq",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: putting all text on slides and reading it out [Pitfall]",
+   "description": "Scared of forgetting, the student fills slides with paragraphs and reads them, and the audience loses interest since they can read faster than the speaker talks.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, time-boxing, working backward",
+    "related mind states: fear, interest"
+   ]
+  },
+  {
+   "sno": 6815,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Mehak",
+     "Vijay"
+    ],
+    "3": [
+     "Yash",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: pre-mortem on what could go wrong [Thinking]",
+   "description": "The student imagines the projector failing, a hard question or a blank moment, and prepares a printed copy, a short answer to the likely question and a breathing pause.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, time-boxing, working backward",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 6816,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Bhavna",
+     "Kashish"
+    ],
+    "3": [
+     "Shalini",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: mental simulation of the room [Thinking]",
+   "description": "The night before, the student pictures the hall, the first minute and the opening sentence, which reduces the fear of the unknown and helps the first minute feel familiar.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, pre-mortem, time-boxing, working backward",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6817,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Ramesh"
+    ],
+    "3": [
+     "Binita",
+     "Disha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: winging it because of confidence in the topic [Pitfall]",
+   "description": "Knowing the project well, the student skips rehearsal, rambles past the time limit, and is cut off before reaching the main result.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, pre-mortem, time-boxing, working backward"
+   ]
+  },
+  {
+   "sno": 6818,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Pooja"
+    ],
+    "3": [
+     "Farhan",
+     "Ramesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: anticipating questions with a friend [Action]",
+   "description": "A friend acts as a tough examiner and asks five questions, and the student writes short answers and notes which questions need more reading.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, time-boxing, working backward"
+   ]
+  },
+  {
+   "sno": 6819,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Chetan"
+    ],
+    "3": [
+     "Manoj",
+     "Tarun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: emotion-aware handling of nerves [Revision]",
+   "description": "Feeling a shaky voice after the first slide, the student slows down, pauses, takes a sip of water and continues, having planned that nerves would be normal.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, time-boxing, working backward"
+   ]
+  },
+  {
+   "sno": 6820,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Ayesha",
+     "Raghav"
+    ],
+    "3": [
+     "Jahnavi",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Giving a big presentation",
+   "subtype": "Approach: reviewing feedback and adjusting for next time [Revision]",
+   "description": "After the talk, the student asks two listeners what was unclear, learns that the result was buried, and moves it earlier in the next presentation.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper, mental simulation, pre-mortem, time-boxing, working backward",
+    "related mind states: resentment"
+   ]
+  }
+ ]
+}

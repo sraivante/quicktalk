@@ -1,0 +1,319 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 5532,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Payal",
+     "Chandrika"
+    ],
+    "10": [
+     "Parveen",
+     "Jasleen"
+    ],
+    "11": [
+     "Mehak",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Compersion",
+   "subtype": "Happy for the friend chosen instead of self [Actor]",
+   "description": "A teenager not picked for the team is truly glad for the best friend who was, and grieves a little too; mixed feelings are allowed and both are real.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: joy, grief"
+   ]
+  },
+  {
+   "sno": 5533,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Rosa",
+     "Liam"
+    ],
+    "10": [
+     "Uma",
+     "Jasleen"
+    ],
+    "11": [
+     "Alka",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Compersion",
+   "subtype": "Delight in a partner's or friend's joy [Actor]",
+   "description": "A young adult beams at a partner's success, even when it takes time away from them; joy in another's happiness is a sign of secure love, not lack of self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: joy, affection, trust"
+   ]
+  },
+  {
+   "sno": 5534,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Neelam",
+     "Karthik"
+    ],
+    "10": [
+     "Hiroshi",
+     "Liam"
+    ],
+    "11": [
+     "Salma",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Compersion",
+   "subtype": "Person whose success is celebrated feels safe [Receiver]",
+   "description": "A colleague who shares good news and gets sincere gladness feels safe to be ambitious and open, and is likelier to return the same generosity later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: joy, trust"
+   ]
+  },
+  {
+   "sno": 5535,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Tushar",
+     "Ujjwal"
+    ],
+    "10": [
+     "Akash",
+     "Sonali"
+    ],
+    "11": [
+     "Saurabh",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ennui",
+   "subtype": "Restless boredom on a long afternoon [Actor]",
+   "description": "A child sighs \"I am bored\" through a holiday afternoon, then after a while invents a game; boredom is often the doorway to imagination when nobody hurries to fill it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 5536,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Akash",
+     "Irfan"
+    ],
+    "10": [
+     "Disha",
+     "Hafsa"
+    ],
+    "11": [
+     "Mridul",
+     "Asif"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ennui",
+   "subtype": "Restless emptiness with nothing to want [Actor]",
+   "description": "A teenager with friends and games feels flat, everything seems pointless, and nothing tempts; the mind wants meaning, not just entertainment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 5537,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Oskar",
+     "Mateo"
+    ],
+    "10": [
+     "Rajni",
+     "Ujjwal"
+    ],
+    "11": [
+     "Lakshmi",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ennui",
+   "subtype": "Life feels flat after a big goal is reached [Actor]",
+   "description": "A young adult who got into their dream college finds themselves oddly hollow; a long-chased goal removed the direction it gave, leaving a quiet weariness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5538,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Charu",
+     "Ramesh"
+    ],
+    "10": [
+     "Irawati",
+     "Minakshi"
+    ],
+    "11": [
+     "Rajni",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ennui",
+   "subtype": "Routine job dulls everything [Actor]",
+   "description": "A young professional moves through the same commute and tasks, not sad but grey and tired of the sameness, and drifts toward numbing habits instead of change.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: sadness, tiredness, detachment"
+   ]
+  },
+  {
+   "sno": 5539,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Noor",
+     "Vasudha"
+    ],
+    "10": [
+     "Ritu",
+     "Vandana"
+    ],
+    "11": [
+     "Swati",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Ennui",
+   "subtype": "Answering ennui with meaning and, if heavy, with help [Response]",
+   "description": "An adult tries a new skill, a service role or a change of pattern to make life richer; if the flatness becomes heavy and lasting, they talk to a doctor or counsellor rather than waiting it out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5540,
+   "plan": {
+    "9": "R2+T1",
+    "10": "R4+T1",
+    "11": "R7+T1"
+   },
+   "cast": {
+    "9": [
+     "Darshan",
+     "Irfan"
+    ],
+    "10": [
+     "Anand",
+     "Pradeep"
+    ],
+    "11": [
+     "Yusuf",
+     "Wasim"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Missing a parent at school [Actor]",
+   "description": "A child holds a small keepsake from home and watches the school gate at midday, aching for a parent; longing shows in going quiet, not always in tears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 5541,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Zainab",
+     "Reena"
+    ],
+    "10": [
+     "Jin",
+     "Noa"
+    ],
+    "11": [
+     "Kashish",
+     "Avni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Yearning and longing",
+   "subtype": "Homesick in a hostel [Actor]",
+   "description": "A teenager away at a residential school lies awake missing home food, sounds and the family's routines, and hides it from roommates for fear of seeming childish.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26",
+    "related mind states: fear, nostalgia"
+   ]
+  }
+ ]
+}

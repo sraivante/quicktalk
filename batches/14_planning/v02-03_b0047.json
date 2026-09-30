@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6221,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Eshaan"
+    ],
+    "3": [
+     "Ishita",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Gaming versus homework",
+   "subtype": "Approach: asking a parent to hold the device [Action]",
+   "description": "Since he finds it hard to stop, a boy asks his mother to keep the tablet during study hours, using her help as an outside commitment device he chose himself.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, negotiation, prioritising, time-boxing"
+   ]
+  },
+  {
+   "sno": 6222,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Urmila"
+    ],
+    "3": [
+     "Wei",
+     "Hana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: owning up straight away [Action]",
+   "description": "After breaking a neighbour's window with a cricket ball, a boy goes to the door with his father, admits it and offers to help pay, and is surprised to find the neighbour is kind.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, trial by imitation",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 6223,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Kamal"
+    ],
+    "3": [
+     "Indu",
+     "Lalremsiami"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: imagining the consequences of each choice [Thinking]",
+   "description": "A girl who spilled ink on the sofa thinks that a lie may be found and make her parents angrier, while the truth costs a scolding now but keeps their trust.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, trial by imitation",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6224,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Elizabeth"
+    ],
+    "3": [
+     "Mei",
+     "Soo-ah"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: blaming a sibling or the dog [Pitfall]",
+   "description": "A child says his little sister broke the vase to escape punishment, and then feels awful watching her get scolded, and the lie needs more lies to hold it up.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation"
+   ]
+  },
+  {
+   "sno": 6225,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Mahima"
+    ],
+    "3": [
+     "Bhupen",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: hiding the evidence [Pitfall]",
+   "description": "A boy who tore a library book tucks it behind other books hoping no one notices, but carrying the secret makes him anxious until the librarian finds it and asks him.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, trial by imitation",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6226,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Kiran"
+    ],
+    "3": [
+     "Sarita",
+     "Parul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: preparing the words before confessing [Thinking]",
+   "description": "A girl who lost her friend's pencil box rehearses what to say, first admitting it, then saying sorry, then offering to replace it from her pocket money.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6227,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Kamal"
+    ],
+    "3": [
+     "Madhuri",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: confessing late after first lying [Revision]",
+   "description": "After telling his mother he had finished homework, a boy feels bad through the evening, goes to her before bed and tells the truth, and she appreciates it although she still asks him to complete the work.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6228,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Dilnaz"
+    ],
+    "3": [
+     "Shreya",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: fixing the harm along with the apology [Action]",
+   "description": "Having spoilt a classmate's drawing, a girl says sorry and also redraws it neatly, understanding that repair matters more than words alone.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6229,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Raghav"
+    ],
+    "3": [
+     "Farhan",
+     "Usha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: telling a partial truth [Pitfall]",
+   "description": "A boy says he was at the park but leaves out that he went past the road he was told to avoid, believing this is fine, but the half-truth still hides the risk from his parents.",
+   "graph_context": [
+    "same problem, other approaches: mental simulation, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6230,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Ankita"
+    ],
+    "3": [
+     "Thomas",
+     "Gopika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Telling the truth after a mistake",
+   "subtype": "Approach: asking a trusted elder for help in confessing [Action]",
+   "description": "Afraid of his father's anger about a low mark, a boy first tells his older sister, who goes with him and helps him explain and plan to improve.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, mental simulation, trial by imitation",
+    "related mind states: anger, fear, trust"
+   ]
+  }
+ ]
+}

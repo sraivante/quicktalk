@@ -1,0 +1,318 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 4090,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Ankita",
+     "Usha"
+    ],
+    "10": [
+     "Abebe",
+     "Jana"
+    ],
+    "11": [
+     "Imran",
+     "Manoj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Yet as a bridge [Response]",
+   "description": "An adult replaces the thought that they cannot do this with the thought that they cannot do it yet and asks what to try next; the word acknowledges the present without closing the future, though effort needs good strategy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 4091,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Joseph",
+     "Minakshi"
+    ],
+    "10": [
+     "Yash",
+     "Zubin"
+    ],
+    "11": [
+     "Simran",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Growth talk without support [Observer]",
+   "description": "A manager notices that slogans about growth do not help when there is no time, feedback or safety to learn; mindset works best in environments that make learning possible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4092,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Vikas",
+     "Raghav"
+    ],
+    "10": [
+     "Yogesh",
+     "Usha"
+    ],
+    "11": [
+     "Yamini",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Imposter feelings",
+   "subtype": "Feeling like a fraud in a top college [Actor]",
+   "description": "A student admitted to a prestigious institute believes they got in by luck and that everyone will soon find out; success is discounted while comparison with others is harsh.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4093,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Rashmi",
+     "Tushar"
+    ],
+    "10": [
+     "Mahima",
+     "Baljeet"
+    ],
+    "11": [
+     "Yusuf",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Imposter feelings",
+   "subtype": "First-generation graduate in unfamiliar spaces [Actor]",
+   "description": "A student whose family has no experience of college feels out of place and doubts they belong even with good marks; the feeling reflects unfamiliar codes and not a lack of ability, and community helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 4094,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Thomas",
+     "Chinmay"
+    ],
+    "10": [
+     "Sarika",
+     "Hafsa"
+    ],
+    "11": [
+     "Pranav",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Imposter feelings",
+   "subtype": "Working overly hard to avoid exposure [Actor]",
+   "description": "A new employee stays late and over-prepares because they fear being seen as unqualified; the cycle of effort and relief keeps the belief alive since success is credited to overwork.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear, relief"
+   ]
+  },
+  {
+   "sno": 4095,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Kaito",
+     "Ines"
+    ],
+    "10": [
+     "Gautam",
+     "Chetan"
+    ],
+    "11": [
+     "Tanuja",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Imposter feelings",
+   "subtype": "Colleague who hides doubt [Observer]",
+   "description": "A team member notices a quietly accomplished colleague never speaks in meetings and turns down promotions; the observer says specifically what value the person brings.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 4096,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Bidisha",
+     "Minakshi"
+    ],
+    "10": [
+     "Ishita",
+     "Raghav"
+    ],
+    "11": [
+     "Jaya",
+     "Ganga"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Imposter feelings",
+   "subtype": "Sharing the secret [Response]",
+   "description": "An adult who tells a mentor or friend about feeling like a fraud learns that many capable people feel the same; hearing it normalised reduces shame and improves perspective.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4097,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Irfan",
+     "Harsha"
+    ],
+    "10": [
+     "Rosa",
+     "Alejandro"
+    ],
+    "11": [
+     "Chandrika",
+     "Rajni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Parent who expects top marks [Receiver]",
+   "description": "A child whose parents respond only to marks feels loved for performance and hides mistakes; the harm is less the standard than the sense that love depends on meeting it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4098,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Kiran",
+     "Amandeep"
+    ],
+    "10": [
+     "Vidya",
+     "Shankar"
+    ],
+    "11": [
+     "Ishita",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Erasing until the paper tears [Actor]",
+   "description": "A teenager rewrites the same page repeatedly because it is not perfect and hands in nothing; the standard is set so high that finishing feels like failing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4099,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Charu",
+     "Seema"
+    ],
+    "10": [
+     "Manjula",
+     "Swati"
+    ],
+    "11": [
+     "Hrithik",
+     "Zainab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Perfection as protection [Actor]",
+   "description": "A student who has always been praised for flawless work fears that any mistake will reveal they are ordinary; the striving is fuelled by fear more than by love of the work.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, fear"
+   ]
+  }
+ ]
+}

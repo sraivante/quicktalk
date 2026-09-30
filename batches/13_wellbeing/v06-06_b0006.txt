@@ -1,0 +1,38 @@
+STAGE: wellbeing
+Variant ids in this batch: 6 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows cover positive or reflective states (flow, awe, hope, humility, patience) and conversation skills. For conversation rows include actual spoken or texted lines, short and natural, with the effect on the other person. The application answer offers a small, specific, kind alternative. Avoid saccharine or preachy tone. Texts and chats in these scenes may carry a fitting emoji or two.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 5246, "plan": {"6": "R13"}, "cast": {"6": ["Ayesha", "Vidya"]}, "age": "4–6", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Waiting for a turn [Actor]", "description": "A child squirms and grabs while waiting for a swing or a sweet. Patience at this age is a muscle just starting, helped by counting, songs and short waits.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 23–26"]}
+{"sno": 5247, "plan": {"6": "R14"}, "cast": {"6": ["Tarun", "Tushar"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Delayed reward [Actor]", "description": "A child chooses to save pocket money for a bigger toy instead of spending it. Choosing later over now grows with practice and with trust that promised rewards actually arrive.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 23–26", "related mind states: trust"]}
+{"sno": 5248, "plan": {"6": "R4"}, "cast": {"6": ["Kashish", "Sangeeta"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Impatience with slow learners [Actor]", "description": "A quick child sighs at a slower classmate's struggle. Patience with others needs seeing that pace differs, and it is learned mostly by watching adults deal with slowness kindly.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 23–26"]}
+{"sno": 5249, "plan": {"6": "R7"}, "cast": {"6": ["Gurpreet", "Kavitha"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Impatience with life stage [Actor]", "description": "A teenager wants independence, results and adult status immediately and resents waiting. Long timelines feel unbearable at this age, and small milestones make them tolerable.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 23–26", "related mind states: resentment"]}
+{"sno": 5250, "plan": {"6": "R6"}, "cast": {"6": ["Baljeet", "Kunal"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Patience with elders [Response]", "description": "A young adult explaining a phone app to a parent for the third time keeps a steady tone. Patience is a form of respect returning what was once received in childhood.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17", "related mind states: admiration"]}
+{"sno": 5251, "plan": {"6": "R11"}, "cast": {"6": ["Anjali", "Gargi"]}, "age": "23–26", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Patience", "subtype": "Passivity disguised as patience [Observer]", "description": "A person waits and waits for a promotion or apology, calling it patience while avoiding a needed conversation. Real patience is active and has a limit.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17"]}
+{"sno": 5252, "plan": {"6": "R1"}, "cast": {"6": ["Harsha", "Jatin"]}, "age": "4–6", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Humility", "subtype": "Losing gracefully [Actor]", "description": "A child loses a game, feels the sting, but shakes hands or asks for a rematch. Humility begins as tolerating defeat without collapsing or blaming.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 5253, "plan": {"6": "R2"}, "cast": {"6": ["Payal", "Avni"]}, "age": "7–12", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Humility", "subtype": "Saying I was wrong [Actor]", "description": "A child admits an error to a friend and finds the friendship survives. Discovering that being wrong is survivable is what makes humility possible.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"]}
+{"sno": 5254, "plan": {"6": "R4"}, "cast": {"6": ["Anand", "Deepak"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Humility", "subtype": "Humility versus self-erasure [Actor]", "description": "A teenager confuses humility with hiding achievements and denying talent. True humility sees strengths and limits accurately, without inflating or shrinking.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26", "related mind states: confusion"]}
+{"sno": 5255, "plan": {"6": "R9"}, "cast": {"6": ["Sunaina", "Lokesh"]}, "age": "13–17", "topic": "Wellbeing, Wisdom & Conversation", "subtopic": "Humility", "subtype": "Arrogance as armour [Observer]", "description": "A peer who boasts loudly and never concedes may be guarding a fragile sense of worth. Confident people can afford to say they do not know.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"]}
+
+Return exactly 10 JSON Lines and nothing else.

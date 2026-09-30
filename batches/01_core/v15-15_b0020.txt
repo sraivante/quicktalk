@@ -1,0 +1,35 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R15+T1: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row. TWIST: Set it in a different season or festival period than a typical scene.
+R3+T1: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short). TWIST: Set it in a different season or festival period than a typical scene.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 191, "plan": {"15": "R3+T1"}, "cast": {"15": ["Dolma", "Hafsa"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Online Safety", "subtype": "Privacy Basics & Reporting Discomfort", "description": "Not sharing personal details and telling a trusted adult about upsetting or pressuring online contact.", "graph_context": ["related mind states: trust"]}
+{"sno": 192, "plan": {"15": "R15+T1"}, "cast": {"15": ["Uma", "Simran"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Digital Literacy", "subtype": "Search, Ads vs. Facts & Source Awareness", "description": "Using search sensibly and noticing sponsored content and unreliable claims."}
+{"sno": 193, "plan": {"15": "R1+T1"}, "cast": {"15": ["Thomas", "Gurleen"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "Screen Balance", "subtype": "Games, Screens vs. Play & Sleep", "description": "Balancing gaming and video with outdoor play, homework and sleep."}
+{"sno": 194, "plan": {"15": "R12+T1"}, "cast": {"15": ["Farida", "Kiran"]}, "age": "7–12", "topic": "Digital & Technology", "subtopic": "AI Awareness", "subtype": "Machines Are Not People & Can Be Wrong", "description": "Understanding that chatbots and voice assistants are programs that make mistakes and do not truly feel."}
+{"sno": 195, "plan": {"15": "R8+T1"}, "cast": {"15": ["Rafael", "Xin"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Anger Management", "subtype": "Pausing Before Retaliation", "description": "Delaying a response to provocation and choosing words over blows."}
+{"sno": 196, "plan": {"15": "R15+T1"}, "cast": {"15": ["Yusuf", "Tushar"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Anxiety", "subtype": "Exam & Performance Nervousness", "description": "Recognizing nervousness before tests or recitals and using calming routines.", "graph_context": ["related mind states: anxiety, calm"]}
+{"sno": 197, "plan": {"15": "R1+T1"}, "cast": {"15": ["Usha", "Abhinav"]}, "age": "7–12", "topic": "Emotional", "subtopic": "Self-Worth", "subtype": "Early Body Image & Handling Teasing", "description": "Coping with comparisons of looks and hurtful comments while keeping self-respect.", "graph_context": ["related mind states: admiration, hurt"]}
+{"sno": 198, "plan": {"15": "R3+T1"}, "cast": {"15": ["Shreya", "Usha"]}, "age": "7–12", "topic": "Social", "subtopic": "Bullying", "subtype": "Recognizing, Reporting & Not Joining In", "description": "Identifying bullying, seeking adult help and refusing to be a bystander who cheers it on."}
+{"sno": 199, "plan": {"15": "R9+T1"}, "cast": {"15": ["Tarun", "Gargi"]}, "age": "7–12", "topic": "Social", "subtopic": "Peer Pressure", "subtype": "Refusing Dares & Unsafe Requests", "description": "Saying no to risky or unkind peer requests without losing the friendship.", "graph_context": ["related mind states: trust"]}
+{"sno": 200, "plan": {"15": "R1+T1"}, "cast": {"15": ["Bhavna", "Nazia"]}, "age": "7–12", "topic": "Social", "subtopic": "Teamwork", "subtype": "Roles in Group Tasks & Sharing Credit", "description": "Acting as leader, follower or contributor and giving credit fairly."}
+
+Return exactly 10 JSON Lines and nothing else.

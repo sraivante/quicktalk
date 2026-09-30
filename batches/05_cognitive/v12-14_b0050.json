@@ -1,0 +1,319 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 4060,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Ujjwal",
+     "Trisha"
+    ],
+    "13": [
+     "Dolma",
+     "Jaya"
+    ],
+    "14": [
+     "Kofi",
+     "Selin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Task hard to start [Actor]",
+   "description": "An adult postpones an important email for days because they dread the response; the task is small but the feeling attached to it is large.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4061,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Parveen",
+     "Mahima"
+    ],
+    "13": [
+     "Saurabh",
+     "Lokesh"
+    ],
+    "14": [
+     "Farida",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Procrastination",
+   "subtype": "Self-compassion and a tiny start [Response]",
+   "description": "An adult who forgives themselves for delay and commits to five minutes of work is more likely to continue than one who berates themselves; guilt feeds avoidance and kindness supports return.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: guilt, empathy",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 4062,
+   "plan": {
+    "12": "R5+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Ramesh",
+     "Akash"
+    ],
+    "13": [
+     "Sunaina",
+     "Aparna"
+    ],
+    "14": [
+     "Abebe",
+     "Rosa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Cue and routine at bedtime [Actor]",
+   "description": "A child who brushes teeth, hears a story and sleeps at the same time finds the steps follow automatically; repeated context makes actions easy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4063,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Parveen",
+     "Mridul"
+    ],
+    "13": [
+     "Ishita",
+     "Kamal"
+    ],
+    "14": [
+     "Seema",
+     "Raghav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Reaching for the phone when bored [Actor]",
+   "description": "A teenager picks up the phone at every pause and scrolls without deciding to; the cue of boredom, the action of scrolling and the small reward of novelty have become a loop.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 4064,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Damini",
+     "Sumit"
+    ],
+    "13": [
+     "Vinita",
+     "Keerthana"
+    ],
+    "14": [
+     "Tanvir",
+     "Rashmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Parent seeing the pattern [Observer]",
+   "description": "A parent notices that the after-school phone habit begins the moment the teenager sits on the sofa and helps them change the setting instead of nagging; environment often outweighs willpower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4065,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Lalremsiami",
+     "Saurabh"
+    ],
+    "13": [
+     "Santosh",
+     "Reena"
+    ],
+    "14": [
+     "Simran",
+     "Farhan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Trigger, craving, reward [Actor]",
+   "description": "A student who feels stressed grabs snacks or starts scrolling, feels brief relief and repeats it; noticing the loop's parts shows where to change it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 4066,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Arohi",
+     "Simran"
+    ],
+    "13": [
+     "Kavitha",
+     "Vishal"
+    ],
+    "14": [
+     "Yusuf",
+     "Lalit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Making it easy to start [Response]",
+   "description": "A student lays out running shoes by the bed and sets a small target such as ten minutes; lowering friction and starting tiny helps a new habit survive its first weeks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4067,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Ramesh",
+     "Dilnaz"
+    ],
+    "13": [
+     "Sumit",
+     "Ayesha"
+    ],
+    "14": [
+     "Chinmay",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Habit loops",
+   "subtype": "Replacing rather than removing [Response]",
+   "description": "An adult who wants to stop stress scrolling keeps the same cue but swaps in a short walk or breathing and tracks the result; a habit changes more easily when the need it meets is still served.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: relief from stress"
+   ]
+  },
+  {
+   "sno": 4068,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R15+T1",
+    "14": "R1+T1"
+   },
+   "cast": {
+    "12": [
+     "Jyoti",
+     "Anjali"
+    ],
+    "13": [
+     "Yogesh",
+     "Arnab"
+    ],
+    "14": [
+     "Uday",
+     "Pallavi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Boredom",
+   "subtype": "Restless and asking what to do [Actor]",
+   "description": "A child declares boredom after ten minutes and wants a screen; boredom is uncomfortable but can also be the doorway to imagination when adults give time and simple materials.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 4069,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Rashmi",
+     "Jatin"
+    ],
+    "13": [
+     "Ayesha",
+     "Thomas"
+    ],
+    "14": [
+     "Hemant",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Boredom",
+   "subtype": "Bored by a class that is too easy or too hard [Actor]",
+   "description": "A teenager doodles and looks out of the window because the lesson is far below or beyond them; boredom often signals a mismatch and not laziness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 23–26",
+    "related mind states: boredom"
+   ]
+  }
+ ]
+}

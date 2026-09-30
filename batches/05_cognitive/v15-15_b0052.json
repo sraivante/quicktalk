@@ -1,0 +1,213 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 4080,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Chetan",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Personal agency",
+   "subtype": "Owning a change [Actor]",
+   "description": "A student who decides to fix sleep and study schedules and records the progress feels increased confidence; visible results teach that they are the author of some outcomes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 4081,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Sarika",
+     "Lalit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Locus of control",
+   "subtype": "Everything is luck or teacher's mood [Actor]",
+   "description": "A child with an external locus says the teacher gave low marks and never links results with preparation; belief that outcomes come from outside reduces effort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4082,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Jaya",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Locus of control",
+   "subtype": "Everything is my fault [Actor]",
+   "description": "A teenager with a strongly internal view blames themselves for family conflict or a friend's bad choices; too much perceived control turns into guilt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4083,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Yamini",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Locus of control",
+   "subtype": "Balanced view of luck and effort [Response]",
+   "description": "A student recognises that both effort and chance shaped a result, such as a good school or a hard exam paper, and acts on the parts they can influence; balance avoids both blame and helplessness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4084,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Sangeeta",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Locus of control",
+   "subtype": "Fate and karma in conversation [Observer]",
+   "description": "A person from a culture where fate and karma are central notices that they can trust destiny and still work hard; beliefs in larger forces need not cancel personal responsibility.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4085,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Zeenat",
+     "Darshan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Locus of control",
+   "subtype": "Blaming others for repeated setbacks [Actor]",
+   "description": "An adult who says the boss, the market and luck are always against them never examines their own share; a fully external view protects pride but blocks learning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4086,
+   "plan": {
+    "15": "R4+T1"
+   },
+   "cast": {
+    "15": [
+     "Preeti",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Praise for being smart [Receiver]",
+   "description": "A child who is repeatedly told they are so clever begins to avoid hard problems in order to keep that label; praise of traits can make risk feel dangerous.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4087,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Tarun",
+     "Manjula"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Praise for strategies [Response]",
+   "description": "A teacher who points out that the child kept trying different methods and it paid off teaches that ability grows with effort; specific process praise supports challenge seeking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4088,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Yash",
+     "Gopika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Believing talent is fixed [Actor]",
+   "description": "A teenager who is weak at drawing says they are just not creative and stops; the belief turns a current level into a permanent limit.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4089,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Karthik",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Growth vs fixed mindset",
+   "subtype": "Envy of talented peers [Actor]",
+   "description": "A student who sees a peer excel decides the gap is destiny and feels threatened rather than inspired; a fixed view makes others' success feel like personal loss.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: envy"
+   ]
+  }
+ ]
+}

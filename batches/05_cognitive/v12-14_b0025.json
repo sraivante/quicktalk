@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3810,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Dhruv",
+     "Alka"
+    ],
+    "13": [
+     "Binita",
+     "Zainab"
+    ],
+    "14": [
+     "Deepak",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spacing and forgetting",
+   "subtype": "Forgetting is normal [Response]",
+   "description": "A working adult keeps notes, reviews key skills at intervals, and treats forgetting as the mind's ordinary filtering rather than a sign of failing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3811,
+   "plan": {
+    "12": "R7+T1",
+    "13": "R8+T1",
+    "14": "R9+T1"
+   },
+   "cast": {
+    "12": [
+     "Devika",
+     "Gautam"
+    ],
+    "13": [
+     "Abebe",
+     "Fatima"
+    ],
+    "14": [
+     "Gopika",
+     "Hrithik"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Nostalgia and rosy retrospection",
+   "subtype": "Old days were best [Actor]",
+   "description": "A child who has moved schools remembers the old class as perfect and forgets the quarrels. Distance smooths rough edges of the past.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3812,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Elizabeth",
+     "Akash"
+    ],
+    "13": [
+     "Anjali",
+     "Disha"
+    ],
+    "14": [
+     "Rania",
+     "Siddiq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Nostalgia and rosy retrospection",
+   "subtype": "Missing childhood [Actor]",
+   "description": "A teenager feeling pressure remembers early childhood as carefree and longs for it, forgetting its fears and limits. Comfort and loss colour the picture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3813,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Vijay",
+     "Pooja"
+    ],
+    "13": [
+     "Farhan",
+     "Sahil"
+    ],
+    "14": [
+     "Lokesh",
+     "Deepak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Nostalgia and rosy retrospection",
+   "subtype": "Missing school or home [Actor]",
+   "description": "A student in a hostel far from home idealises home life and old friends, and may feel homesick with love mixed with a bit of avoidance of present challenges.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, nostalgia, resentment",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 3814,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Anjali",
+     "Nitin"
+    ],
+    "13": [
+     "Abhinav",
+     "Sudha"
+    ],
+    "14": [
+     "Ramesh",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Nostalgia and rosy retrospection",
+   "subtype": "Golden-age thinking [Observer]",
+   "description": "A young professional hears elders praise the old days and notes the warm memory is real even if the past was harder than described. Listening kindly without arguing keeps bonds strong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3815,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Sabina",
+     "Baljeet"
+    ],
+    "13": [
+     "Nandini",
+     "Vijay"
+    ],
+    "14": [
+     "Pallavi",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Nostalgia and rosy retrospection",
+   "subtype": "Warm memory, honest picture [Response]",
+   "description": "A wise person enjoys nostalgia as comfort and a source of values, and reminds herself of what was also hard, so the past does not make the present seem poor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: nostalgia, resentment"
+   ]
+  },
+  {
+   "sno": 3816,
+   "plan": {
+    "12": "R3+T1",
+    "13": "R4+T1",
+    "14": "R5+T1"
+   },
+   "cast": {
+    "12": [
+     "Eshaan",
+     "Shalini"
+    ],
+    "13": [
+     "Nilesh",
+     "Rukmini"
+    ],
+    "14": [
+     "Aadhya",
+     "Zubin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mood-congruent thinking",
+   "subtype": "Sad mind, sad thoughts [Actor]",
+   "description": "A child feeling upset remembers only bad things about the week and expects tomorrow to be bad too. Feelings pick what the mind recalls.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 3817,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Swati",
+     "Urmila"
+    ],
+    "13": [
+     "Dilnaz",
+     "Damini"
+    ],
+    "14": [
+     "Shreya",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mood-congruent thinking",
+   "subtype": "Low mood colours everything [Actor]",
+   "description": "A teenager in a low mood reads neutral messages as rejection and recalls only failures. Judgment feels like fact, though the mood is shaping it. Persistent low mood deserves caring adult attention and professional help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3818,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Wasim",
+     "Karthik"
+    ],
+    "13": [
+     "Arnab",
+     "Noor"
+    ],
+    "14": [
+     "Sonali",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mood-congruent thinking",
+   "subtype": "Happy mood, rosy risk [Actor]",
+   "description": "A young adult in a great mood underestimates risks and says yes to too much. Joy, like sadness, tilts the thoughts that come to mind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: joy, sadness"
+   ]
+  },
+  {
+   "sno": 3819,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Leela",
+     "Charu"
+    ],
+    "13": [
+     "Nazia",
+     "Kamal"
+    ],
+    "14": [
+     "Ganga",
+     "Anirban"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mood-congruent thinking",
+   "subtype": "Delaying big decisions [Response]",
+   "description": "A wise person notices her mood, postpones major choices and messages during anger or despair, and returns when calm to see whether the view has changed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anger, calm"
+   ]
+  }
+ ]
+}

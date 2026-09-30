@@ -1,0 +1,215 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 3670,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Nilesh",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "In-group favouritism",
+   "subtype": "Cliques and outsiders [Receiver]",
+   "description": "A teenager left outside a clique sees its members excuse each other while judging him harshly. Being the outsider shows how unfair loyalty can feel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3671,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Kishore",
+     "Sarita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "In-group favouritism",
+   "subtype": "Hostels, regions and communities [Observer]",
+   "description": "A student notices that jobs, help and trust flow toward people from the same region or college. Naming the pattern is the first step toward being fair to everyone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3672,
+   "plan": {
+    "15": "R2"
+   },
+   "cast": {
+    "15": [
+     "Nikita",
+     "Ishita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "In-group favouritism",
+   "subtype": "Fairness across groups [Response]",
+   "description": "A wise colleague uses clear criteria, seeks out people unlike herself, and checks whether she would make the same call if the person belonged to her own group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3673,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Kishore",
+     "Jatin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Just-world belief",
+   "subtype": "Good people get good things [Actor]",
+   "description": "A child believes the kid who got punished must have done something bad, because fairness feels like the rule of the world. Unlucky events seem deserved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3674,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Hrithik",
+     "Varun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Just-world belief",
+   "subtype": "Blaming the unlucky [Actor]",
+   "description": "A teenager says a classmate who was bullied or robbed must have provoked it. Blaming the victim protects the comfort of believing he is safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3675,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Chinmay",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Just-world belief",
+   "subtype": "Hearing blame directed at oneself [Receiver]",
+   "description": "A student who suffers illness, failure or harassment meets people who say he must have done something to deserve it. It adds shame to pain and pushes him into silence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: shame, hurt"
+   ]
+  },
+  {
+   "sno": 3676,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Ankita",
+     "Sangeeta"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Just-world belief",
+   "subtype": "Compassion without blame [Response]",
+   "description": "A mature person accepts that bad things happen to good people, supports the sufferer, and still works for fairness where she can.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 3677,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Keerthana",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spotlight effect",
+   "subtype": "Everyone is watching me [Actor]",
+   "description": "A child who stumbles or gives a wrong answer believes the whole class saw and will remember. Most others were busy with their own worries.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3678,
+   "plan": {
+    "15": "R11+T1"
+   },
+   "cast": {
+    "15": [
+     "Madhav",
+     "Pranav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spotlight effect",
+   "subtype": "Appearance worries [Actor]",
+   "description": "A teenager with a pimple or an unfashionable bag is sure everyone stares and judges, and avoids school events. The audience is far smaller than imagined.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3679,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Wasim",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Spotlight effect",
+   "subtype": "Speaking up in class or interviews [Actor]",
+   "description": "A student stays quiet fearing a small slip will be remembered for weeks, while classmates barely notice or forget by evening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

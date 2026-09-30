@@ -1,0 +1,184 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 131,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Lavanya",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Critical Thinking",
+   "subtopic": "Intellectual Mastery",
+   "subtype": "Intellectual Rigor & Epistemic Agility",
+   "description": "Combining deep domain expertise with the willingness to unlearn and adapt when foundational paradigms shift."
+  },
+  {
+   "sno": 132,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Elif",
+     "Jana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Workplace Communication",
+   "description": "Mastering professional tone, email etiquette, and effective meeting participation."
+  },
+  {
+   "sno": 133,
+   "plan": {
+    "15": "R2"
+   },
+   "cast": {
+    "15": [
+     "Pema",
+     "Sabina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Navigating Office Politics",
+   "description": "Understanding unwritten organizational rules, hierarchies, and professional dynamics."
+  },
+  {
+   "sno": 134,
+   "plan": {
+    "15": "R13"
+   },
+   "cast": {
+    "15": [
+     "Tejas",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Career / Life Skills",
+   "subtopic": "Professional Adaptability",
+   "subtype": "Work-Life Integration",
+   "description": "Establishing boundaries to prevent burnout while transitioning from student life to full-time work."
+  },
+  {
+   "sno": 135,
+   "plan": {
+    "15": "R11"
+   },
+   "cast": {
+    "15": [
+     "Shreya",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Strategic Planning",
+   "description": "Mapping out multi-year goals and breaking them down into actionable, sequential steps."
+  },
+  {
+   "sno": 136,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Chen",
+     "Felix"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Risk Assessment",
+   "description": "Accurately evaluating the true probability and potential impact of future events before acting."
+  },
+  {
+   "sno": 137,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Tanuja",
+     "Kashish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Long-Term Consequences",
+   "subtype": "Delayed Gratification",
+   "description": "Willingly sacrificing short-term comfort or resources for the sake of a larger long-term gain."
+  },
+  {
+   "sno": 138,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Farhan",
+     "Sumit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Creativity",
+   "subtopic": "Strategic Innovation",
+   "subtype": "Applied Innovation & Systemic Design",
+   "description": "Transforming novel ideas into scalable, real-world operational models, artistic contributions, or technical systems."
+  },
+  {
+   "sno": 139,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Xin",
+     "Tariq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Awe",
+   "description": "Experiencing profound wonder at the vastness of the world, nature, or life itself.",
+   "graph_context": [
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 140,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Indu",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Existential Emotions",
+   "subtype": "Contentment",
+   "description": "Finding sustainable, quiet satisfaction with one's current reality and life choices.",
+   "graph_context": [
+    "related mind states: contentment"
+   ]
+  }
+ ]
+}

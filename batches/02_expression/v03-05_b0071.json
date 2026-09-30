@@ -1,0 +1,319 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2762,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Vishal"
+    ],
+    "4": [
+     "Aditi",
+     "Mridul"
+    ],
+    "5": [
+     "Farida",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Hopeful and apprehensive about the future [Regulating]",
+   "description": "A young adult facing exams, placements or a move feels hope and dread. Planning, talking to mentors and small steps convert vague dread into manageable action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, anxiety, hope"
+   ]
+  },
+  {
+   "sno": 2763,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Binita",
+     "Salma"
+    ],
+    "4": [
+     "Rashmi",
+     "Irawati"
+    ],
+    "5": [
+     "Wasim",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Expectation and evaluation",
+   "subtype": "Proud and triumphant with humility [Regulating]",
+   "description": "A young adult celebrating a success acknowledges help and effort, and avoids putting others down. Shared pride strengthens bonds, and public boasting can create distance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 2764,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Vera",
+     "Clara"
+    ],
+    "4": [
+     "Shalini",
+     "Bhavna"
+    ],
+    "5": [
+     "Shalini",
+     "Hemant"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Bored and tired in study life [Expressing]",
+   "description": "A young adult in a dull lecture or overloaded semester shows yawns, doodling and phone use. Boredom, tiredness and poor sleep overlap, and structure, breaks and rest help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: boredom, tiredness",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 2765,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Indu"
+    ],
+    "4": [
+     "Thomas",
+     "Yusuf"
+    ],
+    "5": [
+     "Farida",
+     "Reena"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Low engagement or restraint",
+   "subtype": "Restrained in formal settings [Regulating]",
+   "description": "A young adult keeps reactions muted in interviews, family gatherings or with elders. Restraint shows respect in many cultures, yet constant suppression can be tiring.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2766,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Manoj",
+     "Sarika"
+    ],
+    "4": [
+     "Raghav",
+     "Pankaj"
+    ],
+    "5": [
+     "Aparna",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Bodily signs are not lie detectors [Interpreting]",
+   "description": "A young adult sees someone sweat, blush or tremble in a questioning situation and wonders about guilt. These reactions occur in innocent people as well, so they must never be treated as proof.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: guilt, curiosity, awe"
+   ]
+  },
+  {
+   "sno": 2767,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Vishal"
+    ],
+    "4": [
+     "Kishore",
+     "Jyoti"
+    ],
+    "5": [
+     "Gurleen",
+     "Mohit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Trembling and sweating before high-stakes events [Regulating]",
+   "description": "A young adult before viva, interview or speech feels shaky hands and damp palms from nerves. Preparation, grounding and reframing arousal as readiness help, and persistent panic deserves professional support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2768,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Hansa",
+     "Wasim"
+    ],
+    "4": [
+     "Tejas",
+     "Ankita"
+    ],
+    "5": [
+     "Yusuf",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Direct versus indirect communication across cultures [Mismatch]",
+   "description": "A young adult meets people who state needs plainly and others who hint through politeness or silence. Neither is better, and adaptable listeners ask clarifying questions kindly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2769,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Rafiq",
+     "Harsha"
+    ],
+    "4": [
+     "Varun",
+     "Sarita"
+    ],
+    "5": [
+     "Arnab",
+     "Naveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Sustained displays and emotional load [Regulating]",
+   "description": "A young adult carrying stress for weeks shows it in tired face, short answers or constant irritability. Long-lasting displays call for rest, support and sometimes professional help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 2770,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Himani"
+    ],
+    "4": [
+     "Tarun",
+     "Sachin"
+    ],
+    "5": [
+     "Rajni",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Expressionless while excited or anxious [Mismatch]",
+   "description": "A young adult keeps a flat face on results day or during a proposal, feeling great excitement or fear inside. A blank face shows control rather than absence of feeling, so others should not assume indifference.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, anxiety, excitement"
+   ]
+  },
+  {
+   "sno": 2771,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Sarika",
+     "Uday"
+    ],
+    "4": [
+     "Imran",
+     "Zainab"
+    ],
+    "5": [
+     "Neelam",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Speaking politely while angry in formal settings [Regulating]",
+   "description": "A young adult in an interview, service dispute or family setting stays courteous while frustrated. Composure is useful, though the anger needs a healthy outlet, and a calm firm request protects boundaries.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, calm"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5142,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Jahnavi",
+     "Ayesha"
+    ],
+    "4": [
+     "Sachin",
+     "Wasim"
+    ],
+    "5": [
+     "Vishal",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Teaching or explaining to others",
+   "subtype": "Explaining too fast with jargon [Actor]",
+   "description": "A teenager helping a friend with a topic skips steps that seem obvious and uses class shorthand, and the friend nods without understanding. Experts forget what it was like not to know.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5143,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Bhavna",
+     "Omkar"
+    ],
+    "4": [
+     "Ayesha",
+     "Karthik"
+    ],
+    "5": [
+     "Sunaina",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Teaching or explaining to others",
+   "subtype": "Tutoring and learning by teaching [Actor]",
+   "description": "A student who tutors a junior finds gaps in their own understanding as questions arrive. Teaching is a strong way to learn because it demands clear, tested explanations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5144,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Samir",
+     "Chinmay"
+    ],
+    "4": [
+     "Sabina",
+     "Arohi"
+    ],
+    "5": [
+     "Gurpreet",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Teaching or explaining to others",
+   "subtype": "Learner feeling stupid [Receiver]",
+   "description": "A person taught by an impatient expert feels slow and stops asking questions, pretending to follow. Contempt in a tone closes the learner's mind faster than any difficult content.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: contempt"
+   ]
+  },
+  {
+   "sno": 5145,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Naveen",
+     "Arohi"
+    ],
+    "4": [
+     "Jeevan",
+     "Anjali"
+    ],
+    "5": [
+     "Uma",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Teaching or explaining to others",
+   "subtype": "Checking understanding [Response]",
+   "description": "A good explainer starts from what the learner already knows, gives one example, and asks them to explain it back in their own words. Nodding is not understanding; a small task shows whether it landed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5146,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Darshan",
+     "Chinmay"
+    ],
+    "4": [
+     "Zubin",
+     "Disha"
+    ],
+    "5": [
+     "Ivan",
+     "Priscila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Teaching or explaining to others",
+   "subtype": "Parent or elder teaching a skill [Observer]",
+   "description": "An observer sees an elder let a young person struggle a little before stepping in, rather than snatching the task. Guided struggle builds skill and confidence better than being shown everything.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5147,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Pema",
+     "Akash"
+    ],
+    "4": [
+     "Mohit",
+     "Dilnaz"
+    ],
+    "5": [
+     "Sharmila",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Group project where parts do not fit [Observer]",
+   "description": "A student group finds at the end that each member built a piece on different assumptions and the parts do not join. Early agreement on the interface and one integration check would have caught it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 5148,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Zeynep",
+     "Kaito"
+    ],
+    "4": [
+     "Ojas",
+     "Amandeep"
+    ],
+    "5": [
+     "Kiran",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Assuming the other person knows [Actor]",
+   "description": "A worker leaving a task passes it on with a brief note, assuming the successor knows the background and reasons. Much of what is known lives in the head, and it silently disappears at handoff.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5149,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Madhav",
+     "Sudha"
+    ],
+    "4": [
+     "Rukmini",
+     "Harsha"
+    ],
+    "5": [
+     "Seema",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Inheriting half-known work [Receiver]",
+   "description": "A colleague taking over an unfinished task finds missing context, unclear decisions and unknown risks, and must reconstruct or guess. Time is lost and mistakes creep in through no fault of their own.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5150,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Mohit",
+     "Parveen"
+    ],
+    "4": [
+     "Thomas",
+     "Pema"
+    ],
+    "5": [
+     "Damini",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Blame at the seam [Observer]",
+   "description": "Observers notice that when something falls between two teams, each assumes it belongs to the other and nobody owns the gap. Most failures cluster at handoffs where responsibility is unclear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 5151,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Eshaan",
+     "Wasim"
+    ],
+    "4": [
+     "Noor",
+     "Minakshi"
+    ],
+    "5": [
+     "Reena",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Written handoff with state, risks and contacts [Response]",
+   "description": "A careful person writes what is done, what is pending, what could go wrong, where things are kept and who to ask. A short call to walk through it confirms understanding and shows respect for the receiver.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

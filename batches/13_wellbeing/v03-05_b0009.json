@@ -1,0 +1,325 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5276,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Camila",
+     "Ivan"
+    ],
+    "4": [
+     "Eshaan",
+     "Avni"
+    ],
+    "5": [
+     "Sonali",
+     "Devika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Meaning-making",
+   "subtype": "Meaning through commitment [Actor]",
+   "description": "A young adult finds purpose not in a sudden vision but by committing to a craft, a person or a cause and staying long enough to feel it matter. Meaning often follows action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5277,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Parveen",
+     "Tarun"
+    ],
+    "4": [
+     "Karthik",
+     "Ayesha"
+    ],
+    "5": [
+     "Mateo",
+     "Mina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Meaning-making",
+   "subtype": "Making sense of suffering [Response]",
+   "description": "After loss, illness or failure, a person slowly builds a story in which the pain teaches or changes something. Forced silver linings feel false, but meaning found in one's own time can heal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5278,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Nilesh",
+     "Chetan"
+    ],
+    "4": [
+     "Zubin",
+     "Ayesha"
+    ],
+    "5": [
+     "Manjula",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Meaning-making",
+   "subtype": "Others' meaning respected [Observer]",
+   "description": "A person sees a friend find purpose in a path they themselves would not choose, such as devotion, farming or family. Respecting different sources of meaning avoids the urge to correct.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5279,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Yusuf",
+     "Lokesh"
+    ],
+    "4": [
+     "Pankaj",
+     "Tushar"
+    ],
+    "5": [
+     "Wasim",
+     "Sumit"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Silly sounds and surprise [Actor]",
+   "description": "A child giggles at funny faces, wrong words and sudden surprises. Early humour is about incongruity and safety, and laughing together bonds a child to a caregiver.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: amusement, playfulness, surprise, trust",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5280,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Lakshmi",
+     "Rekha"
+    ],
+    "4": [
+     "Ojas",
+     "Sarika"
+    ],
+    "5": [
+     "Tejas",
+     "Devika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Joke telling and toilet humour [Actor]",
+   "description": "A child repeats the same joke ten times and finds bodily humour hilarious. Testing jokes teaches timing and audience, and groans from listeners are useful feedback.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5281,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Indu",
+     "Jahnavi"
+    ],
+    "4": [
+     "Aadhya",
+     "Uma"
+    ],
+    "5": [
+     "Parul",
+     "Raghav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Laughed at, not with [Receiver]",
+   "description": "A child whose mistake becomes the class joke smiles outwardly while shrinking inside. Laughing along can be a survival tactic, not a sign the joke was harmless.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: amusement",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5282,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Bhupen",
+     "Lalremsiami"
+    ],
+    "4": [
+     "Ramesh",
+     "Ritu"
+    ],
+    "5": [
+     "Mahima",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Humour as belonging [Actor]",
+   "description": "A teenager uses sarcasm, memes and inside jokes to bond with peers. Shared humour signals who is in the group, and it can also be used to exclude others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: amusement, nostalgia",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5283,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Chaitanya"
+    ],
+    "4": [
+     "Sumit",
+     "Yusuf"
+    ],
+    "5": [
+     "Pankaj",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Humour under stress [Response]",
+   "description": "A team facing a crisis uses a well-timed joke to release tension and then returns to work. Humour helps when it includes everyone and lands after the problem is respected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: amusement, admiration",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5284,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Jatin"
+    ],
+    "4": [
+     "Mohit",
+     "Yamini"
+    ],
+    "5": [
+     "Shankar",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Sense of humour",
+   "subtype": "Reading whether it is the time [Observer]",
+   "description": "A person notices that a joke at a funeral or during someone's fresh failure would wound and holds it. Timing and audience matter more than the joke itself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: hurt",
+    "related concepts: humour"
+   ]
+  },
+  {
+   "sno": 5285,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Wasim",
+     "Madhav"
+    ],
+    "4": [
+     "Nkechi",
+     "Jin"
+    ],
+    "5": [
+     "Asif",
+     "Ojas"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Shame after a mistake [Actor]",
+   "description": "A child who spilled milk hides and says I am bad. Young children treat errors as identity, and an adult saying you made a mistake, you are not a mistake gives a first template of self-forgiveness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  }
+ ]
+}

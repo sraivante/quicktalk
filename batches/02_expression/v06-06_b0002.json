@@ -1,0 +1,218 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2072,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Swati",
+     "Yash"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Following with the eyes and joint attention [Expressing]",
+   "description": "A toddler tracks a caregiver with the eyes and looks where a parent points, sharing attention on an object. Steady following shows interest and trust, and early lack of it may be worth discussing with a paediatrician.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: interest, trust"
+   ]
+  },
+  {
+   "sno": 2073,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sunaina",
+     "Irfan"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Looking away when overwhelmed [Regulating]",
+   "description": "A toddler turns the eyes away from an overwhelming, loud or intense interaction to calm down. It is a self-soothing break, not rejection, and adults can lower the intensity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, overwhelm"
+   ]
+  },
+  {
+   "sno": 2074,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Vishal",
+     "Yamini"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Puffed cheeks and cheek raising in play [Expressing]",
+   "description": "A toddler puffs the cheeks in imitation games or raises the cheeks in a big smile, showing fun and copying skills. These playful movements show growing control of the face.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2075,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Chinmay",
+     "Disha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Wrinkled nose at smells and tastes [Expressing]",
+   "description": "A toddler wrinkles the nose at a bad smell or unfamiliar food, a reflex-like sign of disgust or dislike. Adults can respect it without forcing food and try again later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: admiration, disgust"
+   ]
+  },
+  {
+   "sno": 2076,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Dhruv"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Puckering and lip stretching [Expressing]",
+   "description": "A toddler puckers the lips for a kiss, sucks them in when concentrating or stretches them in a squeal of excitement. These are exploratory and social, with meaning shifting by context.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 2077,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Zeenat",
+     "Nirmala"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Trembling lip before crying [Expressing]",
+   "description": "A toddler's lower lip trembles or turns down before crying, signalling sadness, hurt or overwhelm. A soothing voice and closeness usually help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, overwhelm, hurt"
+   ]
+  },
+  {
+   "sno": 2078,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Trisha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Dropped jaw and open mouth [Expressing]",
+   "description": "A toddler stares with the jaw dropped in wonder or while concentrating, and drools while teething. It shows attention or discomfort, not disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: admiration, curiosity, awe"
+   ]
+  },
+  {
+   "sno": 2079,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Aditi",
+     "Bidisha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Sticking out the tongue in play and taste [Expressing]",
+   "description": "A toddler sticks out the tongue while imitating, tasting or being silly, meaning play or mild disgust. It is not rude at this age, and adults can copy it playfully.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: playfulness, disgust"
+   ]
+  },
+  {
+   "sno": 2080,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Sharmila",
+     "Samir"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Blank look when overwhelmed [Expressing]",
+   "description": "A toddler goes blank or still when overwhelmed, tired or in a new place, a shutdown rather than calm. Gentle closeness and reducing stimulation help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: tiredness, calm, overwhelm"
+   ]
+  },
+  {
+   "sno": 2081,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Gurpreet"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Facial stillness",
+   "subtype": "Relaxed face in sleep and comfort [Expressing]",
+   "description": "A toddler's relaxed face while feeding or drifting to sleep shows comfort and safety. A very still, unresponsive face while awake is worth a caregiver's attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  }
+ ]
+}

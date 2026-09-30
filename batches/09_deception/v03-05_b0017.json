@@ -1,0 +1,315 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4749,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Lakshmi",
+     "Rehana"
+    ],
+    "4": [
+     "Swati",
+     "Tushar"
+    ],
+    "5": [
+     "Nirmala",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Whistleblowing ethics",
+   "subtype": "Costs of speaking up [Receiver]",
+   "description": "A person who reports wrongdoing may face isolation, retaliation or being called disloyal even when right. Support from friends, advice on legal protections and careful records help.",
+   "graph_context": [
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4750,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Clara",
+     "Amara"
+    ],
+    "4": [
+     "Sarita",
+     "Nilesh"
+    ],
+    "5": [
+     "Sarika",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Whistleblowing ethics",
+   "subtype": "Colleagues who stay silent [Observer]",
+   "description": "A team sees a coworker raise a problem and privately agrees, but fears saying so. Quiet backing, and standing beside the person, matters more than they think.",
+   "graph_context": [
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4751,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Preeti"
+    ],
+    "4": [
+     "Chaitanya",
+     "Seema"
+    ],
+    "5": [
+     "Suraj",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Whistleblowing ethics",
+   "subtype": "Using proper channels with care [Response]",
+   "description": "A person collects facts, uses internal or official reporting routes, seeks legal or trusted advice, and speaks about the issue and not about people's characters. Accuracy protects both truth and the reporter.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4752,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Nikita"
+    ],
+    "4": [
+     "Gautam",
+     "Saurabh"
+    ],
+    "5": [
+     "Hrithik",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Forgiving a liar",
+   "subtype": "Deciding what forgiveness means [Receiver]",
+   "description": "A person who was lied to considers letting go of resentment without pretending nothing happened. Forgiveness releases the grip of anger, and it does not require restored trust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anger, resentment, trust"
+   ]
+  },
+  {
+   "sno": 4753,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Kamal"
+    ],
+    "4": [
+     "Amandeep",
+     "Manoj"
+    ],
+    "5": [
+     "Ganga",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Forgiving a liar",
+   "subtype": "Anger and love together [Receiver]",
+   "description": "A person who loves someone that lied feels betrayed and still wants the relationship, swinging between the two. Both feelings are real, and there is no deadline to resolve them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection, anger, determination"
+   ]
+  },
+  {
+   "sno": 4754,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Nitin",
+     "Deepak"
+    ],
+    "4": [
+     "Hafsa",
+     "Minakshi"
+    ],
+    "5": [
+     "Preeti",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Forgiving a liar",
+   "subtype": "Forgiving without reopening the door [Response]",
+   "description": "A wise person forgives for their own peace, and still keeps distance or new limits if the pattern continues. Trust follows behaviour over time, not apology alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4755,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Zainab",
+     "Gopika"
+    ],
+    "4": [
+     "Sudha",
+     "Varun"
+    ],
+    "5": [
+     "Gopika",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Rebuilding trust",
+   "subtype": "Owning it fully [Actor]",
+   "description": "A person who lied says exactly what they did, without excuses or blaming the other, and accepts that the other may need time. A vague sorry that asks for quick forgiveness repeats the harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4756,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Tarun",
+     "Tenzin"
+    ],
+    "4": [
+     "Gurleen",
+     "Parul"
+    ],
+    "5": [
+     "Ritu",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Rebuilding trust",
+   "subtype": "Consistency over months [Actor]",
+   "description": "The person who broke trust shows change through small reliable acts, openness about their whereabouts when asked, and patience with checking. Trust returns slowly, and rushing it is a demand.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4757,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Anand"
+    ],
+    "4": [
+     "Jana",
+     "Omar"
+    ],
+    "5": [
+     "Binita",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Rebuilding trust",
+   "subtype": "Waiting for evidence [Receiver]",
+   "description": "The hurt person notices they still scan for signs of lying and feels tired of it. Watching for proof is a natural stage, and it can ease as honest behaviour repeats.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 4758,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Tanuja"
+    ],
+    "4": [
+     "Dhruv",
+     "Gurpreet"
+    ],
+    "5": [
+     "Harsha",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Rebuilding trust",
+   "subtype": "Agreeing what repair looks like [Response]",
+   "description": "Both people talk about what is needed, such as honesty on specific things, and check in regularly, with a counsellor if helpful. If the lying continues, ending the relationship is a fair choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  }
+ ]
+}

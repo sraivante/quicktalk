@@ -1,0 +1,317 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3539,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Imran"
+    ],
+    "4": [
+     "Leela",
+     "Sudha"
+    ],
+    "5": [
+     "Rukmini",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Rival fan wars [Actor]",
+   "description": "Teenage fans of rival stars trade insults online and feel united against the other side. Being part of a war is thrilling, and it can slide from banter into cruelty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 3540,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Anirban",
+     "Yash"
+    ],
+    "4": [
+     "Seema",
+     "Thomas"
+    ],
+    "5": [
+     "Hansa",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Handling a disappointing idol [Response]",
+   "description": "A teenager learns that an admired person has done something wrong and works through disappointment. They keep what was good in the work without excusing the behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: admiration, disappointment"
+   ]
+  },
+  {
+   "sno": 3541,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Indu",
+     "Pema"
+    ],
+    "4": [
+     "Priscila",
+     "Jamal"
+    ],
+    "5": [
+     "Aparna",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Idealising a public figure [Actor]",
+   "description": "A young adult defends a star or leader whatever they do, since criticising them feels like criticising oneself. Parasocial closeness feels real while the figure does not know they exist.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3542,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Parul",
+     "Sarita"
+    ],
+    "4": [
+     "Akash",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Gurleen",
+     "Damini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Fan community as support [Receiver]",
+   "description": "A young adult finds friends, creative outlets and comfort in a fan community during a lonely time. Healthy fandom gives connection without demanding hatred of others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3543,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Aparna"
+    ],
+    "4": [
+     "Yash",
+     "Jatin"
+    ],
+    "5": [
+     "Sarika",
+     "Uday"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Fan behaviour crossing into harassment [Observer]",
+   "description": "An adult sees fans abusing critics or a rival's family online. They recognise how group identity can permit cruelty and choose not to join.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3544,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Ramesh",
+     "Ankita"
+    ],
+    "4": [
+     "Kalyani",
+     "Chetan"
+    ],
+    "5": [
+     "Pankaj",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Fandom and tribal identity",
+   "subtype": "Loving without losing judgement [Response]",
+   "description": "A mature fan enjoys their team or artist deeply while admitting faults and treating rival fans as people. Loyalty and honesty can live together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3545,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Sachin"
+    ],
+    "4": [
+     "Chandrika",
+     "Chetan"
+    ],
+    "5": [
+     "Trisha",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Helping together at school or in a colony [Actor]",
+   "description": "A child joins a clean-up or charity drive with friends and feels proud that together they made a difference. Small collective acts teach that ordinary people can change things.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3546,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Varun"
+    ],
+    "4": [
+     "Farida",
+     "Hafsa"
+    ],
+    "5": [
+     "Charu",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "First cause a teenager cares about [Actor]",
+   "description": "A teenager joins a campaign about the environment, school rules or a local issue. They feel passion and belonging, and can also feel certain that everyone who disagrees is wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 3547,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Swati"
+    ],
+    "4": [
+     "Charu",
+     "Chandrika"
+    ],
+    "5": [
+     "Sharmila",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Joining a protest [Actor]",
+   "description": "A young adult joins a peaceful protest out of conviction and feels fear, pride and solidarity at once. They weigh risk to safety, studies and family against the cause.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, pride, calm, trust"
+   ]
+  },
+  {
+   "sno": 3548,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Uma",
+     "Sarita"
+    ],
+    "4": [
+     "Anders",
+     "Selin"
+    ],
+    "5": [
+     "Harsha",
+     "Sarika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective action, protest and volunteering",
+   "subtype": "Family fear about activism [Receiver]",
+   "description": "A young adult finds parents anxious about their involvement in protest or politics. The parents' fear is about safety and reputation, and calm conversations about risk help more than defiance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hostility, fear, anxiety, calm"
+   ]
+  }
+ ]
+}

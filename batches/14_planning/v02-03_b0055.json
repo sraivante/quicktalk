@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6301,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Vidya",
+     "Ishita"
+    ],
+    "3": [
+     "Ritu",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: trying to relearn everything from scratch [Pitfall]",
+   "description": "A student starts again from Chapter 1 of every book. By week three only half the syllabus has been touched, and the final chapters, often heavily weighted, are hurried or skipped.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6302,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Jasleen"
+    ],
+    "3": [
+     "Karthik",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: active recall with mock tests [Action]",
+   "description": "Every alternate day, the student writes a full timed paper and checks answers against the marking scheme. The scores show which topics slip and make revision targeted rather than comforting.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, first principles, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6303,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Ivan",
+     "Mina"
+    ],
+    "3": [
+     "Sachin",
+     "Zeenat"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: pre-mortem before the plan starts [Thinking]",
+   "description": "The student imagines it is exam day and revision has failed, then lists likely reasons: phone, a sick week, skipped sleep. Each reason gets a protective step in the plan before it begins.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, first principles, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6304,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Devika",
+     "Harsha"
+    ],
+    "3": [
+     "Dolma",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: panic-driven all-nighters [Pitfall]",
+   "description": "Anxiety after a bad mock leads the student to study through the night. Memory and mood suffer the next day, and two nights of poor sleep erase the extra hours gained.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, externalising on paper, first principles, pre-mortem, resource and budget planning",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6305,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Rafiq"
+    ],
+    "3": [
+     "Emil",
+     "Rafael"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: one-page summary sheets [Action]",
+   "description": "For each chapter the student condenses key formulas, dates and diagrams onto one page, and reads these in the final week. Making the sheet forces choices about what is essential.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, first principles, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6306,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Farhan"
+    ],
+    "3": [
+     "Seema",
+     "Abhinav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: contingency planning for illness or power cuts [Thinking]",
+   "description": "Knowing summer power cuts and viral fevers are common, the student keeps printed notes and a spare study slot on Sundays, so one disruption does not derail the schedule.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper, first principles, pre-mortem, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6307,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Avni"
+    ],
+    "3": [
+     "Aparna",
+     "Preeti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: mid-month check and cutting low-yield topics [Revision]",
+   "description": "At the halfway point the student sees she is behind by four chapters. She drops rarely asked topics with the teacher's agreement and reallocates hours to areas that appear in every past paper.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, emotion-aware planning, externalising on paper, first principles, pre-mortem"
+   ]
+  },
+  {
+   "sno": 6308,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Hemant"
+    ],
+    "3": [
+     "Dhruv",
+     "Tarun"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning last-month revision",
+   "subtype": "Approach: study group used as social avoidance [Pitfall]",
+   "description": "Meeting friends to study becomes mostly chatting and snacks. It feels productive because everyone is present, but little revision happens, and the student realises it only after a poor mock.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, emotion-aware planning, externalising on paper, first principles, pre-mortem, resource and budget planning",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 6309,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Uday"
+    ],
+    "3": [
+     "Sachin",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: reflecting before responding [Thinking]",
+   "description": "After a friend shares a secret with others, the student waits a night, writes down what hurt and what outcome is wanted, and realises the goal is to be heard and trusted again, not to win.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 6310,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Chaitanya"
+    ],
+    "3": [
+     "Gautam",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Conflict with a best friend",
+   "subtype": "Approach: private conversation with I-statements [Action]",
+   "description": "The student asks to talk one-to-one after school and says how it felt when the secret spread, then asks what happened. Naming feelings without accusing keeps the friend from becoming defensive.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, negotiation, seeking advice"
+   ]
+  }
+ ]
+}

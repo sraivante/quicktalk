@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 798,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Gautam"
+    ],
+    "3": [
+     "Devika",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being left out of a party",
+   "subtype": "Classmate × Hurt [Receiver]",
+   "description": "Everyone was invited to a birthday except me and I heard about it later. It hurts a lot. I let myself feel it, tell someone, and do something nice for myself. It may be about numbers, not me.",
+   "graph_context": [
+    "related mind states: detachment, hurt"
+   ]
+  },
+  {
+   "sno": 799,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Himani",
+     "Dhruv"
+    ],
+    "3": [
+     "Parveen",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Teacher × Fear [Actor]",
+   "description": "My stomach drops when I think the teacher will find out I broke the rule. Fear makes me want to hide it, but owning up early usually costs less than being caught lying later.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, guilt, loyalty, pride, resentment, respect",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 800,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Avni"
+    ],
+    "3": [
+     "Sumit",
+     "Jatin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Teacher × Guilt [Actor]",
+   "description": "I keep replaying what I did, and it feels heavy. Guilt is useful when it leads me to say sorry and fix things, and unhelpful when it makes me sit alone with it for days.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, loyalty, pride, resentment, respect",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 801,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Ankita",
+     "Ishita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Teacher × Resentment [Actor]",
+   "description": "The rule seems silly and I feel angry at the teacher for enforcing it. A wiser move is to ask why the rule exists, or politely suggest a change, instead of quietly breaking it.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, loyalty, pride, respect",
+    "related mind states: playfulness, anger, resentment"
+   ]
+  },
+  {
+   "sno": 802,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Ankita"
+    ],
+    "3": [
+     "Nikita",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Teacher × Respect [Receiver]",
+   "description": "When I admit a mistake, the teacher stays calm and talks about what to do next. I feel relieved, and I learn that being honest earns trust even when I have done wrong.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, loyalty, pride, resentment",
+    "related mind states: admiration, relief, calm, trust"
+   ]
+  },
+  {
+   "sno": 803,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Asif",
+     "Pankaj"
+    ],
+    "3": [
+     "Bao",
+     "Dalia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Friend × Loyalty [Actor]",
+   "description": "My friend broke the rule and I want to cover for him. Real loyalty means urging him to own up and standing beside him, not lying so nobody gets in trouble.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, pride, resentment, respect"
+   ]
+  },
+  {
+   "sno": 804,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Zeenat"
+    ],
+    "3": [
+     "Tushar",
+     "Damini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Classmate × Contempt [Actor]",
+   "description": "I feel superior because I never break rules, and I look down on those who do. Following rules matters, but scorn makes me lonely; kindness and firmness can sit together.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, loyalty, pride, resentment, respect",
+    "related mind states: contempt, loneliness"
+   ]
+  },
+  {
+   "sno": 805,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Aparna"
+    ],
+    "3": [
+     "Jatin",
+     "Ganga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Prefect or monitor × Pride [Actor]",
+   "description": "I enjoy being trusted to watch others, and it feels grand. A good monitor stays fair to friends and strangers alike and remembers that power is a duty, not a chance to boss.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, loyalty, resentment, respect",
+    "related mind states: anger, pride, trust"
+   ]
+  },
+  {
+   "sno": 806,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Eshaan"
+    ],
+    "3": [
+     "Aditi",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Breaking a school rule",
+   "subtype": "Classmate × Resentment [Receiver]",
+   "description": "Classmates call me a tale-bearer because I told the teacher about something harmful. I feel hurt and left out, yet speaking up about real danger is still right; I can seek a trusted adult for support.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, loyalty, pride, respect",
+    "related mind states: anger, resentment, trust, hurt"
+   ]
+  },
+  {
+   "sno": 807,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Chandrika"
+    ],
+    "3": [
+     "Simran",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Punished unfairly",
+   "subtype": "Teacher × Anger [Actor]",
+   "description": "I am blamed for something I did not do, and my chest burns. It is fair to feel angry; a mature step is to calmly say what really happened later, not shout or sulk.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, guilt, humiliation, trust",
+    "related mind states: anger, calm"
+   ]
+  }
+ ]
+}

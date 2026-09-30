@@ -1,0 +1,326 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3208,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Wasim"
+    ],
+    "4": [
+     "Jasleen",
+     "Deepika"
+    ],
+    "5": [
+     "Rehana",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 3: The plateau [Observer]",
+   "description": "A parent watching a teen practise the same piece with no visible progress offers the option to quit or pushes with rewards. Acknowledging the boredom and pointing to earlier progress helps the teen keep going.",
+   "graph_context": [
+    "previous stage: The gap between taste and ability",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 3209,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Salma",
+     "Hemant"
+    ],
+    "4": [
+     "Kavitha",
+     "Jomon"
+    ],
+    "5": [
+     "Ayesha",
+     "Tanuja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 4: Frustration and quitting urge [Actor]",
+   "description": "The learner feels irritated, compares themself with fast learners and thinks of dropping the skill. This is the point where many stop, and the hardest to see past in the moment.",
+   "graph_context": [
+    "next stage: Changing how to practise",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3210,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Vijay",
+     "Zainab"
+    ],
+    "4": [
+     "Tejas",
+     "Hrithik"
+    ],
+    "5": [
+     "Ojas",
+     "Reena"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 4: Frustration and quitting urge [Observer]",
+   "description": "A mentor watches a student sink into frustration and nearly quit. Reminding them of how far they have come, and adjusting the practice rather than simply urging more effort, keeps them in the game.",
+   "graph_context": [
+    "next stage: Changing how to practise",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3211,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Karthik"
+    ],
+    "4": [
+     "Imran",
+     "Tushar"
+    ],
+    "5": [
+     "Kamal",
+     "Nikita"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 5: Changing how to practise [Response]",
+   "description": "The learner isolates the weak part, slows down, seeks feedback from someone better and practises with full attention. Deliberate, targeted practice moves a plateau more than extra hours of the same.",
+   "graph_context": [
+    "previous stage: Frustration and quitting urge",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3212,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Sunaina"
+    ],
+    "4": [
+     "Hrithik",
+     "Ayesha"
+    ],
+    "5": [
+     "Parveen",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 6: The breakthrough [Actor]",
+   "description": "After weeks, pieces suddenly click, the piece plays smoothly or the concept makes sense. The jump feels sudden but rests on the quiet consolidation of the plateau.",
+   "graph_context": [
+    "next stage: Confidence and a new edge",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3213,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Kamal",
+     "Irawati"
+    ],
+    "4": [
+     "Joseph",
+     "Keerthana"
+    ],
+    "5": [
+     "Bidisha",
+     "Karthik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 7: Confidence and a new edge [Actor]",
+   "description": "Success brings pride and a hunger for the next level, and with it a fresh humility about how much remains. The person now trusts that struggle and plateau lead somewhere.",
+   "graph_context": [
+    "previous stage: The breakthrough",
+    "next stage: Teaching and maintenance",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride, trust"
+   ]
+  },
+  {
+   "sno": 3214,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Kiran",
+     "Anand"
+    ],
+    "4": [
+     "Minakshi",
+     "Swati"
+    ],
+    "5": [
+     "Sangeeta",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 8: Teaching and maintenance [Response]",
+   "description": "The learner helps a beginner and finds their own gaps, and keeps a light regular practice to hold the skill. Passing it on turns effort into understanding and keeps humility alive.",
+   "graph_context": [
+    "previous stage: Confidence and a new edge",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3215,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Rajni",
+     "Neelam"
+    ],
+    "4": [
+     "Jahnavi",
+     "Rehana"
+    ],
+    "5": [
+     "Divyansh",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 2: The gap between taste and ability [Response]",
+   "description": "An adult learner accepts that the awkward stage is part of learning and keeps a record of early attempts. Looking back later shows progress that day-to-day practice hides.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 3216,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Keerthana",
+     "Alka"
+    ],
+    "4": [
+     "Pradeep",
+     "Urmila"
+    ],
+    "5": [
+     "Mohit",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 1: The sting [Actor]",
+   "description": "A child loses a race, fails a test or is dropped from the team, and feels heat in the face and tears. The pain is real, and the first instinct is to hide or blame the referee.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3217,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Swati",
+     "Harsha"
+    ],
+    "4": [
+     "Aadhya",
+     "Uday"
+    ],
+    "5": [
+     "Soo-ah",
+     "Chen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Failure to recovery",
+   "subtype": "Stage 6: Honest review [Response]",
+   "description": "A parent asks a child who lost a match what they learned and what they enjoyed, before mentioning the score. Small children learn to face failure by seeing adults treat it as ordinary and workable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

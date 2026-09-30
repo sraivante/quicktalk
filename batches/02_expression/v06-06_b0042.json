@@ -1,0 +1,216 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2472,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Binita",
+     "Chaitanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Faces shaped for peers and cameras [Regulating]",
+   "description": "A teenager curates a face for peers and photos, such as a practiced smirk or pout, which may show belonging or self-consciousness more than the feeling underneath. A private mood can differ from the public face.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: embarrassment, nostalgia"
+   ]
+  },
+  {
+   "sno": 2473,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Snarl or scowl as a warning sign [Interpreting]",
+   "description": "A teenager who sees a peer's scowl or snarl aimed at them reads possible anger or threat, and may step back, stay calm and involve an adult if it escalates. Reading danger early is protection, not weakness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 2474,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Omkar",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Asymmetric smile and smirk [Interpreting]",
+   "description": "A teenager reads an asymmetric smile as possible teasing, doubt or private amusement, but it may also just be habit or shyness. Context and relationship decide whether it is warm or mocking.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: amusement, shyness, doubt"
+   ]
+  },
+  {
+   "sno": 2475,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Himani",
+     "Pradeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Masking sadness with a smile [Regulating]",
+   "description": "A teenager keeps a slight smile at school while feeling low, to avoid questions. Trusted adults can notice a smile that does not reach the eyes or fits poorly with other cues, and offer a gentle open door without pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: sadness, trust"
+   ]
+  },
+  {
+   "sno": 2476,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Sahil",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Controlling a frown at a parent or teacher [Regulating]",
+   "description": "A teenager tries to smooth a frowning brow when disagreeing with an adult to avoid conflict, though the forehead may still tense. Naming the disagreement in words is clearer than relying on the face.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2477,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Pallavi",
+     "Mehak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Eyebrows in teasing and flirt-free banter [Expressing]",
+   "description": "A teenager raises the eyebrows or one eyebrow in banter to signal a joke, mock disbelief or a challenge. Friends read it through tone, and it can sting if the target is unsure it is playful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 2478,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Urmila",
+     "Sangeeta"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Eye-strain and late-night tiredness [Interpreting]",
+   "description": "A teenager with heavy, half-closed eyes after late screen time may look bored or rude in class, but is often simply tired. Adults can ask about sleep before assuming disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, boredom, tiredness"
+   ]
+  },
+  {
+   "sno": 2479,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Sumit",
+     "Omkar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Winking and eyelid flutter in social play [Mismatch]",
+   "description": "A teenager winks to share a joke or fluttering eyelids to tease, but a wink can be misread as flirting or mockery. Clear context and consent to the joke keep it kind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2480,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Usha",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Averting gaze as avoidance or respect [Interpreting]",
+   "description": "A teenager reads a peer's averted gaze cautiously: it may mean shyness, guilt, social anxiety, autism-related comfort, or cultural politeness. Asking gently beats assuming dishonesty or disinterest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, anxiety, guilt, shyness"
+   ]
+  },
+  {
+   "sno": 2481,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Sonali",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Prolonged stares as unsafe signals [Interpreting]",
+   "description": "A teenager who is stared at persistently by someone makes them uneasy is right to trust that discomfort, move toward other people and tell a trusted adult. Unwanted staring is not the teenager's fault.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anxiety, trust"
+   ]
+  }
+ ]
+}

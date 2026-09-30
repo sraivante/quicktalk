@@ -1,0 +1,332 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3008,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Sahil",
+     "Yash"
+    ],
+    "4": [
+     "Gopika",
+     "Gurpreet"
+    ],
+    "5": [
+     "Hemant",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 5: The honest conversation [Response]",
+   "description": "They discuss what commitment means: where to live, family, children, careers and each other's parents. Concrete talk replaces vague reassurance, and disagreement found now is cheaper than after a wedding.",
+   "graph_context": [
+    "previous stage: Fear of loss of freedom",
+    "next stage: Choosing each other, with eyes open",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3009,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Anand"
+    ],
+    "4": [
+     "Thomas",
+     "Vishal"
+    ],
+    "5": [
+     "Arohi",
+     "Lakshmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Romantic attraction to commitment",
+   "subtype": "Stage 6: Choosing each other, with eyes open [Response]",
+   "description": "The couple commits knowing the other's flaws and trusting their way of resolving trouble. A steady bond built on respect tends to hold better than one built on intensity.",
+   "graph_context": [
+    "previous stage: The honest conversation",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 3010,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Pradeep"
+    ],
+    "4": [
+     "Shankar",
+     "Sunaina"
+    ],
+    "5": [
+     "Vishal",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 1: Fresh and consuming [Actor]",
+   "description": "In a first relationship, two teenagers talk for hours and feel that the other is the centre of the world. Everything else, including friends and studies, is at risk of fading into the background.",
+   "graph_context": [
+    "next stage: Small cracks",
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 3011,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Farida",
+     "Kishore"
+    ],
+    "4": [
+     "Devika",
+     "Aadhya"
+    ],
+    "5": [
+     "Jamal",
+     "Lindiwe"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 2: Small cracks [Actor]",
+   "description": "Replies become slower, one is annoyed by the other's need for constant contact, and the other by a growing distance. Neither says so, because saying it might make it real.",
+   "graph_context": [
+    "previous stage: Fresh and consuming",
+    "next stage: Avoidance and mixed signals",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3012,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Madhav"
+    ],
+    "4": [
+     "Joseph",
+     "Sumit"
+    ],
+    "5": [
+     "Aparna",
+     "Tanuja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 3: Avoidance and mixed signals [Actor]",
+   "description": "One starts to feel bored or trapped and hints instead of saying it. The other senses a change, becomes clingier, and each new sign of need pushes the first further away.",
+   "graph_context": [
+    "previous stage: Small cracks",
+    "next stage: The decision",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 3013,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Vaibhav",
+     "Sumit"
+    ],
+    "4": [
+     "Deepika",
+     "Damini"
+    ],
+    "5": [
+     "Deepika",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 4: The decision [Actor]",
+   "description": "One privately decides it is over but delays, afraid of hurting the other and of the fuss among friends. Delay feels kind, but often adds pain, since the other keeps hoping.",
+   "graph_context": [
+    "previous stage: Avoidance and mixed signals",
+    "next stage: A clear, kind ending",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: fear, hurt"
+   ]
+  },
+  {
+   "sno": 3014,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Nazia"
+    ],
+    "4": [
+     "Kishore",
+     "Gautam"
+    ],
+    "5": [
+     "Imran",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 5: A clear, kind ending [Response]",
+   "description": "The one ending says it face to face or by call, briefly and without insults or false hope: \"I do not feel the same, and I do not want to mislead you\". Clarity is a form of respect.",
+   "graph_context": [
+    "previous stage: The decision",
+    "next stage: Grief and the after",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: admiration, hope"
+   ]
+  },
+  {
+   "sno": 3015,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Tanvir",
+     "Leela"
+    ],
+    "4": [
+     "Ulla",
+     "Xin"
+    ],
+    "5": [
+     "Urmila",
+     "Sachin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 6: Grief and the after [Receiver]",
+   "description": "The one left feels rejection, a hollow chest and the urge to check social media all day. Lean on friends and family, avoid retaliatory posts, and remember that pain of this size is real and does ease.",
+   "graph_context": [
+    "previous stage: A clear, kind ending",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: grief, hurt"
+   ]
+  },
+  {
+   "sno": 3016,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Joseph",
+     "Afreen"
+    ],
+    "4": [
+     "Chetan",
+     "Samir"
+    ],
+    "5": [
+     "Sahil",
+     "Manjula"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 1: Comfortable years [Actor]",
+   "description": "A couple together for several years live in easy routine. Comfort is real, and it also lets each stop asking about the other's inner life, so small changes go unspoken.",
+   "graph_context": [
+    "next stage: Diverging paths",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 3017,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Vidya",
+     "Lalit"
+    ],
+    "4": [
+     "Gautam",
+     "Indu"
+    ],
+    "5": [
+     "Pema",
+     "Urmila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A relationship's slow drift and breakup",
+   "subtype": "Stage 2: Diverging paths [Actor]",
+   "description": "One is pulled toward a career move or a different way of life while the other wants stability near family. The talks about the future become polite and short, with big questions left for later.",
+   "graph_context": [
+    "previous stage: Comfortable years",
+    "next stage: Emotional distance",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  }
+ ]
+}

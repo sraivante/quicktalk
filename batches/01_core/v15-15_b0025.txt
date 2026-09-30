@@ -1,0 +1,35 @@
+STAGE: core
+Variant ids in this batch: 15 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 241, "plan": {"15": "R1"}, "cast": {"15": ["Gautam", "Kishore"]}, "age": "13–17", "topic": "Ethics", "subtopic": "Academic Honesty", "subtype": "Plagiarism & Shortcut Temptation", "description": "Resisting copying and AI-written submissions and understanding why originality matters."}
+{"sno": 242, "plan": {"15": "R12"}, "cast": {"15": ["Neelam", "Leela"]}, "age": "13–17", "topic": "Leadership", "subtopic": "Initiative", "subtype": "Student Leadership & Organizing Others", "description": "Taking charge of projects, motivating peers and taking blame when things fail."}
+{"sno": 243, "plan": {"15": "R1"}, "cast": {"15": ["Sarika", "Bhupen"]}, "age": "13–17", "topic": "Cultural", "subtopic": "Identity Navigation", "subtype": "Code-Switching & Heritage Pride", "description": "Moving between home culture, school culture and online culture without shame.", "graph_context": ["related mind states: shame, pride"]}
+{"sno": 244, "plan": {"15": "R13"}, "cast": {"15": ["Vidya", "Gautam"]}, "age": "13–17", "topic": "Cultural", "subtopic": "Intercultural Competence", "subtype": "Global Awareness & Migration Stories", "description": "Understanding other societies, migration and prejudice through curiosity.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: curiosity"]}
+{"sno": 245, "plan": {"15": "R11"}, "cast": {"15": ["Keerthana", "Mohit"]}, "age": "13–17", "topic": "Coping", "subtopic": "Adversity", "subtype": "Handling Failure, Result Disappointment & Family Crisis", "description": "Coping with bad results, parental conflict or financial hardship without losing hope.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: disappointment, hope"]}
+{"sno": 246, "plan": {"15": "R13"}, "cast": {"15": ["Thomas", "Mridul"]}, "age": "13–17", "topic": "Individual Variation", "subtopic": "Neurodiversity", "subtype": "Understanding One's Learning Style & Differences", "description": "Recognizing personal strengths and needs, such as attention, dyslexia or sensory sensitivity, and asking for support.", "graph_context": ["this subtopic also appears at ages: 23–26"]}
+{"sno": 247, "plan": {"15": "R7"}, "cast": {"15": ["Gargi", "Yusuf"]}, "age": "13–17", "topic": "Environment", "subtopic": "Climate Awareness", "subtype": "Climate Literacy & Small Actions", "description": "Understanding causes of climate change and taking realistic personal and group action."}
+{"sno": 248, "plan": {"15": "R1"}, "cast": {"15": ["Farida", "Siddharth"]}, "age": "13–17", "topic": "Physical", "subtopic": "Fitness & Body Care", "subtype": "Exercise, Nutrition & Skin/Body Hygiene", "description": "Building consistent fitness and eating habits."}
+{"sno": 249, "plan": {"15": "R14"}, "cast": {"15": ["Usha", "Shalini"]}, "age": "13–17", "topic": "Philosophy", "subtopic": "Worldviews", "subtype": "Introductory Logic, Ethics & Worldviews", "description": "Comparing philosophies, religions and ethical systems reasonably."}
+{"sno": 250, "plan": {"15": "R11"}, "cast": {"15": ["Chinmay", "Manjula"]}, "age": "13–17", "topic": "Habits & Ethics", "subtopic": "Perseverance", "subtype": "Long-Term Projects & Consistency", "description": "Sustaining effort on multi-month goals despite boredom and setbacks.", "graph_context": ["related mind states: boredom", "related concepts: boredom"]}
+
+Return exactly 10 JSON Lines and nothing else.

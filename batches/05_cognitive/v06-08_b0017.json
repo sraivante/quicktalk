@@ -1,0 +1,314 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 3730,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Aditi",
+     "Suraj"
+    ],
+    "7": [
+     "Rajni",
+     "Shreya"
+    ],
+    "8": [
+     "Shankar",
+     "Deepika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hyperbolic discounting",
+   "subtype": "One sweet now, not two later [Actor]",
+   "description": "A young child cannot wait for a bigger treat and grabs the smaller one at once. The future is hard to picture and the present is loud.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3731,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Suraj",
+     "Kunal"
+    ],
+    "7": [
+     "Darshan",
+     "Chinmay"
+    ],
+    "8": [
+     "Tushar",
+     "Ganga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hyperbolic discounting",
+   "subtype": "Sooner smaller rewards [Actor]",
+   "description": "A child takes ten rupees today over twenty tomorrow. He may choose patience if the wait is far away but breaks when the reward is near.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3732,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Hansa",
+     "Asif"
+    ],
+    "7": [
+     "Rashmi",
+     "Shreya"
+    ],
+    "8": [
+     "Zainab",
+     "Himani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hyperbolic discounting",
+   "subtype": "Games now, exams later [Actor]",
+   "description": "A teenager prefers an hour of gaming now over a better grade in months. Distant benefits feel weak while immediate pleasure feels vivid.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3733,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Tushar",
+     "Tanvir"
+    ],
+    "7": [
+     "Irfan",
+     "Tanuja"
+    ],
+    "8": [
+     "Pema",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hyperbolic discounting",
+   "subtype": "Spending versus saving [Actor]",
+   "description": "A student spends his stipend at once, knowing he will want the savings later. He plans to be disciplined next month, and next month repeats the choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3734,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Harish"
+    ],
+    "7": [
+     "Sangeeta",
+     "Baljeet"
+    ],
+    "8": [
+     "Lindiwe",
+     "Camila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hyperbolic discounting",
+   "subtype": "Locking in the future self [Response]",
+   "description": "A wise saver sets up automatic transfers, removes temptations, and makes future rewards concrete so that her present self helps her future self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3735,
+   "plan": {
+    "6": "R7",
+    "7": "R8+T1",
+    "8": "R13+T1"
+   },
+   "cast": {
+    "6": [
+     "Chinmay",
+     "Bhupen"
+    ],
+    "7": [
+     "Tariq",
+     "Liam"
+    ],
+    "8": [
+     "Usha",
+     "Divyansh"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Present bias",
+   "subtype": "Wanting it right now [Actor]",
+   "description": "A toddler screams for the biscuit at this moment and cannot be comforted by a promise for later. The present is the only time that feels real.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3736,
+   "plan": {
+    "6": "R4",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Bhavna"
+    ],
+    "7": [
+     "Abhinav",
+     "Kiran"
+    ],
+    "8": [
+     "Ivan",
+     "Rafael"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Present bias",
+   "subtype": "Learning to wait [Actor]",
+   "description": "A preschooler can wait a little for a treat when distracted by a game or a song, though he struggles when staring at it. Waiting skills grow with practice and support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3737,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Bhupen",
+     "Arnab"
+    ],
+    "7": [
+     "Madhav",
+     "Gopika"
+    ],
+    "8": [
+     "Emeka",
+     "Lindiwe"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Present bias",
+   "subtype": "Procrastination [Actor]",
+   "description": "A teenager promises to study tomorrow and scrolls tonight, sure his future self will feel more like working. Tomorrow is always the better time to be disciplined.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 23–26"
+   ]
+  },
+  {
+   "sno": 3738,
+   "plan": {
+    "6": "R10",
+    "7": "R11",
+    "8": "R12"
+   },
+   "cast": {
+    "6": [
+     "Dilnaz",
+     "Gurpreet"
+    ],
+    "7": [
+     "Preeti",
+     "Sangeeta"
+    ],
+    "8": [
+     "Salma",
+     "Himani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Present bias",
+   "subtype": "Habits and health [Response]",
+   "description": "A young professional makes small commitments with a friend or a schedule, and rewards herself now for actions that help later, so that good habits survive the pull of the moment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17"
+   ]
+  },
+  {
+   "sno": 3739,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Elizabeth"
+    ],
+    "7": [
+     "Tenzin",
+     "Arnab"
+    ],
+    "8": [
+     "Asif",
+     "Hafsa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Decision fatigue",
+   "subtype": "Tired minds choose badly [Actor]",
+   "description": "A child after a long school day picks the easiest option or refuses to choose, and melts down over small decisions in the evening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  }
+ ]
+}

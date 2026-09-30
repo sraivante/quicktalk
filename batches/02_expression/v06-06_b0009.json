@@ -1,0 +1,217 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2142,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sarika",
+     "Sudha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Toddler seeks and gives comfort [Expressing]",
+   "description": "A toddler reaches up, clings, or holds out a blanket to be comforted, and may pat a crying peer. Comfort-seeking signals distress, fear or tiredness; the patting is imitation of care more than full empathy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, fear, tiredness, empathy"
+   ]
+  },
+  {
+   "sno": 2143,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Bidisha",
+     "Ujjwal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Prompted apology and repair gestures [Expressing]",
+   "description": "A toddler who grabbed a toy may offer it back or give a hug after an adult prompts \"sorry\". The action shows early reparation more than understanding of fault.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2144,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Zeenat"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Likes and dislikes as strong assertions [Expressing]",
+   "description": "A toddler shows likes and dislikes by grabbing, refusing food or saying \"mine\" and \"no\". Firm refusal expresses growing independence and preference rather than defiance alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2145,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Rehana",
+     "Kamal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Toddler cries, points and single words [Expressing]",
+   "description": "A toddler signals hunger, thirst, tiredness or pain with crying, pointing, reaching, pushing away and words like \"more\" or \"no\". The same cry can mean several needs, so adults check food, sleep, comfort and health in turn.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness, tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 2146,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Asif"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Toddler protest and dissatisfaction [Expressing]",
+   "description": "A toddler shows displeasure by whining, throwing objects, saying \"no\" or going limp. It usually signals frustration, tiredness or blocked wishes, and it improves with limits set calmly plus a nameable feeling.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, tiredness, calm, contentment"
+   ]
+  },
+  {
+   "sno": 2147,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Daniel",
+     "Ingrid"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Toddler grabbing, hitting and biting [Expressing]",
+   "description": "A toddler who lacks words may grab, hit or bite when frustrated, tired or overwhelmed. It signals a strong feeling, not malice; adults can step in, name the feeling and show a safer action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, tiredness, overwhelm, trust"
+   ]
+  },
+  {
+   "sno": 2148,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Santosh",
+     "Manjula"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Toddler sharing feelings and experiences [Expressing]",
+   "description": "A toddler shows a bruise, says \"scared\" or points out something that happened. Early disclosure is brief and concrete; adults who respond calmly encourage later confiding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 2149,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Tuan",
+     "Alejandro"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Peekaboo and silly faces [Expressing]",
+   "description": "A toddler laughs at peekaboo, funny sounds and surprises, and repeats the game. Laughter signals delight in predictability and surprise; it depends on a safe, familiar partner.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, amusement, playfulness, surprise"
+   ]
+  },
+  {
+   "sno": 2150,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Zanele",
+     "Marek"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Indirect or figurative expression",
+   "subtype": "Literal understanding and early pretend [Interpreting]",
+   "description": "A toddler understands words literally and treats a banana as a phone in pretend play. Figurative language such as \"hop like a bunny\" is enjoyed as play, but idioms mean nothing yet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2151,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Liam",
+     "Amara"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Expression & Mind State",
+   "subtopic": "Spiritual and ceremonial expression",
+   "subtype": "Imitating family rituals [Expressing]",
+   "description": "A toddler folds hands, rings a bell, claps in a song or copies a bow, following family practice. The child expresses belonging and imitation rather than belief.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

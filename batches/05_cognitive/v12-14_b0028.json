@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3840,
+   "plan": {
+    "12": "R13+T1",
+    "13": "R1+T2",
+    "14": "R2+T2"
+   },
+   "cast": {
+    "12": [
+     "Pradeep",
+     "Jyoti"
+    ],
+    "13": [
+     "Lokesh",
+     "Rehana"
+    ],
+    "14": [
+     "Sahil",
+     "Devika"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "My view is the only view [Actor]",
+   "description": "A toddler hides his face and believes no one can see him, or shows a picture facing himself. He cannot yet imagine that others see differently.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 3841,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Hrithik",
+     "Jaya"
+    ],
+    "13": [
+     "Abhinav",
+     "Yogesh"
+    ],
+    "14": [
+     "Diego",
+     "Freya"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "Cannot see your side [Actor]",
+   "description": "A preschooler assumes his parents know what he saw at school and gives puzzling half-stories. He also thinks everyone shares his feelings and wants.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 3842,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Rashmi",
+     "Ritu"
+    ],
+    "13": [
+     "Himani",
+     "Tushar"
+    ],
+    "14": [
+     "Alejandro",
+     "Pablo"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "Gradual perspective taking [Response]",
+   "description": "A caregiver asks what the other child might feel, uses pictures and pretend play, and models saying how others see things, so empathy and viewpoint-taking grow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 3843,
+   "plan": {
+    "12": "R5+T1",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Baljeet",
+     "Zainab"
+    ],
+    "13": [
+     "Divyansh",
+     "Elizabeth"
+    ],
+    "14": [
+     "Alejandro",
+     "Sofia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "Dawning of other minds [Actor]",
+   "description": "An older child begins to understand that friends may believe or want different things, but still struggles when his own strong feelings are involved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17"
+   ]
+  },
+  {
+   "sno": 3844,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Naveen",
+     "Harish"
+    ],
+    "13": [
+     "Tarun",
+     "Varun"
+    ],
+    "14": [
+     "Baljeet",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "Adolescent egocentrism [Actor]",
+   "description": "A teenager feels that his experiences are unique, that nobody has felt this before, and that everyone is watching him. It gradually softens as he meets more people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12"
+   ]
+  },
+  {
+   "sno": 3845,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Zeenat",
+     "Rekha"
+    ],
+    "13": [
+     "Gurpreet",
+     "Avni"
+    ],
+    "14": [
+     "Siddharth",
+     "Pallavi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Egocentrism in children",
+   "subtype": "Patience with the teen's view [Observer]",
+   "description": "A parent or teacher recognises that a teenager's self-focus is a normal stage, listens without dismissing the feelings, and gently widens the viewpoint over time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12"
+   ]
+  },
+  {
+   "sno": 3846,
+   "plan": {
+    "12": "R2+T1",
+    "13": "R4+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Jagdish",
+     "Anjali"
+    ],
+    "13": [
+     "Pranav",
+     "Salma"
+    ],
+    "14": [
+     "Ayesha",
+     "Vishal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Denial",
+   "subtype": "Refusing a broken thing [Actor]",
+   "description": "A child insists the cracked cup was never cracked and that they did not spill anything, as if the fact will vanish if unsaid; fear of being in trouble outweighs the wish to be accurate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3847,
+   "plan": {
+    "12": "R7+T1",
+    "13": "R8+T1",
+    "14": "R9+T1"
+   },
+   "cast": {
+    "12": [
+     "Zubin",
+     "Lavanya"
+    ],
+    "13": [
+     "Ines",
+     "Omar"
+    ],
+    "14": [
+     "Deepak",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Denial",
+   "subtype": "Refusing worrying family news [Actor]",
+   "description": "A child whose parent has lost a job keeps saying everything is fine and stops asking questions; not knowing feels safer than facing the worry, though tension leaks out as poor sleep and short temper.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 3848,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Vandana",
+     "Ritu"
+    ],
+    "13": [
+     "Gargi",
+     "Minakshi"
+    ],
+    "14": [
+     "Salma",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Denial",
+   "subtype": "Facing a bad result in small doses [Response]",
+   "description": "A teenager who denied a poor result learns to say the fact aloud to one trusted person first and then plan; denial softened the shock, but acceptance in small doses lets action begin.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: surprise, trust"
+   ]
+  },
+  {
+   "sno": 3849,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Harish",
+     "Afreen"
+    ],
+    "13": [
+     "Pradeep",
+     "Reena"
+    ],
+    "14": [
+     "Eshaan",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Denial",
+   "subtype": "Ignoring warning signs [Actor]",
+   "description": "A student sees falling marks and unpaid fees yet says it will sort itself out and skips the counsellor's email; dread is managed by not looking until a deadline forces the issue.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

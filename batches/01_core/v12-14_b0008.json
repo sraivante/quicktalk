@@ -1,0 +1,303 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 71,
+   "plan": {
+    "12": "R8",
+    "13": "R9+T1",
+    "14": "R12+T1"
+   },
+   "cast": {
+    "12": [
+     "Pablo",
+     "Jana"
+    ],
+    "13": [
+     "Preeti",
+     "Lavanya"
+    ],
+    "14": [
+     "Sonali",
+     "Pankaj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Group & Community Care",
+   "description": "Taking active responsibility for helping peers, caring for animals, or serving group roles.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 72,
+   "plan": {
+    "12": "R8",
+    "13": "R9+T1",
+    "14": "R12+T1"
+   },
+   "cast": {
+    "12": [
+     "Lars",
+     "Alejandro"
+    ],
+    "13": [
+     "Mridul",
+     "Madhav"
+    ],
+    "14": [
+     "Mridul",
+     "Lakshmi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Rule-Based Problem Solving",
+   "description": "Using structured logic, step-by-step choices, and standard rules to resolve daily dilemmas.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 73,
+   "plan": {
+    "12": "R12",
+    "13": "R13+T1",
+    "14": "R14+T1"
+   },
+   "cast": {
+    "12": [
+     "Pooja",
+     "Nitin"
+    ],
+    "13": [
+     "Sharmila",
+     "Minakshi"
+    ],
+    "14": [
+     "Pallavi",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Habits & Ethics",
+   "subtopic": "Academic Discipline",
+   "subtype": "Study & Work Ethics",
+   "description": "Building diligent study routines, punctuality, and academic honesty vs. procrastination, slacking off, and cheating.",
+   "graph_context": [
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 74,
+   "plan": {
+    "12": "R15",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Dhruv",
+     "Ritu"
+    ],
+    "13": [
+     "Ramesh",
+     "Vaibhav"
+    ],
+    "14": [
+     "Pallavi",
+     "Abhinav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Financial Literacy",
+   "subtopic": "Resource Management",
+   "subtype": "Thrift & Value Awareness",
+   "description": "Grasping money as exchanged value, practicing saving, avoiding wasteful consumption, and respecting resource limits.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 75,
+   "plan": {
+    "12": "R3",
+    "13": "R4+T1",
+    "14": "R5+T1"
+   },
+   "cast": {
+    "12": [
+     "Irawati",
+     "Jasleen"
+    ],
+    "13": [
+     "Deepika",
+     "Noor"
+    ],
+    "14": [
+     "Sunaina",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Civic & Relational",
+   "subtopic": "Civic Identity",
+   "subtype": "Patriotism & Institutional Respect",
+   "description": "Honoring national symbols (flag, anthem), respecting school/civil rules, and valuing extended family and government institutions.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 76,
+   "plan": {
+    "12": "R3",
+    "13": "R4+T1",
+    "14": "R5+T1"
+   },
+   "cast": {
+    "12": [
+     "Mohit",
+     "Irawati"
+    ],
+    "13": [
+     "Siddharth",
+     "Gopika"
+    ],
+    "14": [
+     "Omkar",
+     "Chetan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Community & Environment",
+   "description": "Taking personal ownership of homework/chores, respecting community spaces, caring for animals, and practicing respectful digital behavior.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 77,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Abhinav",
+     "Seema"
+    ],
+    "13": [
+     "Indu",
+     "Francis"
+    ],
+    "14": [
+     "Santosh",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Metacognition",
+   "description": "Developing the ability to think about one's own thinking, analyze flaws, and self-reflect."
+  },
+  {
+   "sno": 78,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Anjali",
+     "Gurleen"
+    ],
+    "13": [
+     "Sarita",
+     "Aditi"
+    ],
+    "14": [
+     "Anand",
+     "Kavitha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Hypothetical Reasoning",
+   "description": "Asking \"what if\" questions and playing out complex scenarios that have not happened."
+  },
+  {
+   "sno": 79,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Sharmila",
+     "Divyansh"
+    ],
+    "13": [
+     "Keerthana",
+     "Rashmi"
+    ],
+    "14": [
+     "Jasleen",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Systems Thinking",
+   "description": "Understanding how multiple separate variables interact within a larger system."
+  },
+  {
+   "sno": 80,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Lavanya",
+     "Ishita"
+    ],
+    "13": [
+     "Sunaina",
+     "Neelam"
+    ],
+    "14": [
+     "Irfan",
+     "Sahil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Critical Thinking",
+   "subtopic": "Metacognitive Virtues",
+   "subtype": "Intellectual Humility & Bias Awareness",
+   "description": "Recognizing personal cognitive biases, logical fallacies, emotional reasoning, and the limits of one's knowledge.",
+   "graph_context": [
+    "related concepts: emotional reasoning"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4792,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Kavitha",
+     "Lalremsiami"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Copying gestures [Actor]",
+   "description": "A toddler is guided by a parent to fold hands or bend toward a grandparent's feet and does it as a game. The child feels the smiles and blessing in return and links the gesture to warmth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4793,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Francis",
+     "Uma"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Namaste and blessings [Actor]",
+   "description": "A child greets guests with folded hands and receives a pat or a blessing. Learning the form is easy; the feeling of being welcomed by a bigger circle grows from these small exchanges.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4794,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Ujjwal",
+     "Indu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Feeling forced to bow [Receiver]",
+   "description": "A child is told to touch the feet of every relative at a wedding, including people barely known. Some children feel embarrassed or uneasy; explaining that the gesture is voluntary respect helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, anxiety, embarrassment"
+   ]
+  },
+  {
+   "sno": 4795,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Yash",
+     "Ayesha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Meaningful or empty gesture [Actor]",
+   "description": "A teenager asks whether touching feet is real respect or habit and sometimes does it hurriedly. Doing it with attention to the person makes it real; doing it for show empties it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4796,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Anand",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Unwelcome touch and consent [Receiver]",
+   "description": "A teenager feels uncomfortable when a relative hugs too long or asks for forced kisses under the label of greeting. Greetings such as namaste, a handshake or a wave are legitimate choices, and discomfort deserves to be believed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4797,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Devika",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Greeting in mixed settings [Actor]",
+   "description": "A young adult chooses between touching feet, a handshake or a namaste depending on age, gender, faith and comfort of the person. Reading the other person's cue is more polite than one fixed rule.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4798,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Sahil",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Elders who accept or decline [Observer]",
+   "description": "An elder notices a young person bend and either blesses warmly or gently says there is no need. Both are kindness; what matters is that the young person feels seen rather than tested.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4799,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Hrithik",
+     "Devika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Touching elders' feet and greetings",
+   "subtype": "Honouring without hierarchy [Response]",
+   "description": "A young adult respects elders through care, time and listening, even where the feet-touching custom is not practised. Respect shown by actions is understood across cultures and faiths.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4800,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Fatima",
+     "Diego"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Guests bring attention [Actor]",
+   "description": "A toddler is lifted, fed sweets and cooed over by visiting relatives. The child learns that visitors mean a lively, happy house, and may cling or hide if strangers pinch cheeks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, anger"
+   ]
+  },
+  {
+   "sno": 4801,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Madhav",
+     "Ishita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Culture & Society",
+   "subtopic": "Hospitality and guest norms",
+   "subtype": "Guest is like a god [Actor]",
+   "description": "A child is told atithi devo bhava and offers water to guests or hands them snacks. The child learns service as love, along with the expectation that the best portion goes to the visitor first.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

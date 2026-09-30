@@ -1,0 +1,316 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2712,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Ada",
+     "Hana"
+    ],
+    "4": [
+     "Chinmay",
+     "Disha"
+    ],
+    "5": [
+     "Sahil",
+     "Gopika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Refusing family expectations [Mismatch]",
+   "description": "A young adult may refuse or set limits on family expectations about career, marriage or visits, which can feel disrespectful in some families. Calm, warm explanation and time often help more than confrontation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 2713,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Mehak",
+     "Avni"
+    ],
+    "4": [
+     "Sharmila",
+     "Arohi"
+    ],
+    "5": [
+     "Payal",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Making commitments to study, work and partners [Expressing]",
+   "description": "A young adult makes commitments that have real cost, such as a lease, a course or a relationship. Clear terms and checking capacity before saying yes prevent broken promises.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2714,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Sarita",
+     "Anand"
+    ],
+    "4": [
+     "Kavitha",
+     "Samir"
+    ],
+    "5": [
+     "Anand",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Closeness, care and loyalty [Expressing]",
+   "description": "A young adult shows care with listening, time, help and follow-through rather than only words. Loyalty is healthiest when it allows honesty, and it should not require silence about harm.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2715,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Freya",
+     "Beatriz"
+    ],
+    "4": [
+     "Deepika",
+     "Gargi"
+    ],
+    "5": [
+     "Tenzin",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Congratulating with warmth and fit [Expressing]",
+   "description": "A young adult congratulates a friend on an exam result or job offer, matching enthusiasm to the friend's mood. Overdone cheer can feel performative, while a brief specific note of pride often feels sincere.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, excitement, pride"
+   ]
+  },
+  {
+   "sno": 2716,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Swati",
+     "Mridul"
+    ],
+    "4": [
+     "Devika",
+     "Arohi"
+    ],
+    "5": [
+     "Anjali",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Expressing respect to teachers and mentors [Expressing]",
+   "description": "A student thanks a mentor with a note, a small gift or a timely acknowledgement in a project. Norms differ; some cultures expect formal gestures such as standing or gift-giving, others value plain words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 2717,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Hemant",
+     "Madhuri"
+    ],
+    "4": [
+     "Indu",
+     "Saurabh"
+    ],
+    "5": [
+     "Himani",
+     "Tushar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Condolences and sympathy [Expressing]",
+   "description": "A young adult offers condolences with a short sincere message, presence or practical help after a loss. Clichés can grate; simple words like \"I am so sorry, I am here\" and follow-up later usually help more.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: empathy"
+   ]
+  },
+  {
+   "sno": 2718,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Pranav",
+     "Zainab"
+    ],
+    "4": [
+     "Jahnavi",
+     "Darshan"
+    ],
+    "5": [
+     "Harish",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Cultural forms of consolation [Mismatch]",
+   "description": "Comfort differs across cultures: some communities bring food and visit in groups after a death, others give privacy and few words. The same gesture may read as warm or intrusive, so follow the family's lead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2719,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Mridul",
+     "Ankita"
+    ],
+    "4": [
+     "Nirmala",
+     "Swati"
+    ],
+    "5": [
+     "Rafiq",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Apology across cultures and hierarchies [Mismatch]",
+   "description": "Apology norms vary: some settings expect explicit words of regret, others show repair through actions, gifts or a return to routine. A bow, a folded-hands gesture or a shared meal can carry regret without saying so.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: regret"
+   ]
+  },
+  {
+   "sno": 2720,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Kashish"
+    ],
+    "4": [
+     "Tarun",
+     "Pema"
+    ],
+    "5": [
+     "Vandana",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Repairing a friendship rupture [Expressing]",
+   "description": "A young adult reaches out after a fallout, names their part, listens to the other side and does not demand instant forgiveness. Timing matters; some people need days before they can talk.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2721,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Kiran",
+     "Pankaj"
+    ],
+    "4": [
+     "Shalini",
+     "Akash"
+    ],
+    "5": [
+     "Rukmini",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Assertive statement of needs [Expressing]",
+   "description": "A young adult uses \"I\" statements such as \"I need some time alone tonight\" or \"I prefer not to\". Clear, calm, specific needs are easier to honour than hints, and cannot be assumed to be guessed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

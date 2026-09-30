@@ -1,0 +1,289 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 1,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R12+T1"
+   },
+   "cast": {
+    "6": [
+     "Jomon",
+     "Irfan"
+    ],
+    "7": [
+     "Noa",
+     "Dalia"
+    ],
+    "8": [
+     "Harsha",
+     "Tanuja"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Physical",
+   "subtopic": "Motor Control",
+   "subtype": "Gross Motor Skills",
+   "description": "Developing large muscle coordination for standing, walking, climbing, and running."
+  },
+  {
+   "sno": 2,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R4+T1"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Saurabh"
+    ],
+    "7": [
+     "Jatin",
+     "Karthik"
+    ],
+    "8": [
+     "Jaya",
+     "Sonali"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Physical",
+   "subtopic": "Motor Control",
+   "subtype": "Fine Motor Skills",
+   "description": "Refining small muscle movements like a pincer grasp, holding a spoon, or stacking blocks."
+  },
+  {
+   "sno": 3,
+   "plan": {
+    "6": "R8",
+    "7": "R12",
+    "8": "R13+T1"
+   },
+   "cast": {
+    "6": [
+     "Elif",
+     "Liam"
+    ],
+    "7": [
+     "Hansa",
+     "Afreen"
+    ],
+    "8": [
+     "Rajni",
+     "Tejas"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Physical",
+   "subtopic": "Motor Control",
+   "subtype": "Balance & Posture",
+   "description": "Gaining core strength to maintain stability while shifting weight and catching oneself."
+  },
+  {
+   "sno": 4,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R4+T1"
+   },
+   "cast": {
+    "6": [
+     "Keerthana",
+     "Saurabh"
+    ],
+    "7": [
+     "Vikas",
+     "Vandana"
+    ],
+    "8": [
+     "Mehak",
+     "Payal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Physical / Somatic",
+   "subtopic": "Body Awareness",
+   "subtype": "Interoception & Bodily Signals",
+   "description": "Recognizing internal physical signals like hunger, fatigue, elimination needs, and physical discomfort.",
+   "graph_context": [
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 5,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R4+T1"
+   },
+   "cast": {
+    "6": [
+     "Mehak",
+     "Manoj"
+    ],
+    "7": [
+     "Deepak",
+     "Sunaina"
+    ],
+    "8": [
+     "Farida",
+     "Parveen"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Language Acquisition",
+   "subtype": "Receptive Language",
+   "description": "Comprehending spoken words and following simple instructions before being able to speak."
+  },
+  {
+   "sno": 6,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R12+T1"
+   },
+   "cast": {
+    "6": [
+     "Hansa",
+     "Nirmala"
+    ],
+    "7": [
+     "Lucia",
+     "Kaito"
+    ],
+    "8": [
+     "Kunal",
+     "Raghav"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Language Acquisition",
+   "subtype": "Expressive Language",
+   "description": "Moving from babbling to forming functional words and short sentences to communicate needs."
+  },
+  {
+   "sno": 7,
+   "plan": {
+    "6": "R4",
+    "7": "R7",
+    "8": "R8+T1"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Tejas"
+    ],
+    "7": [
+     "Ankita",
+     "Rekha"
+    ],
+    "8": [
+     "Felix",
+     "Esther"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Object Permanence",
+   "subtype": "Visual Tracking",
+   "description": "Following moving objects with the eyes and anticipating where they will reappear."
+  },
+  {
+   "sno": 8,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R4+T1"
+   },
+   "cast": {
+    "6": [
+     "Bhavna",
+     "Harsha"
+    ],
+    "7": [
+     "Jasleen",
+     "Ujjwal"
+    ],
+    "8": [
+     "Akash",
+     "Sachin"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive",
+   "subtopic": "Object Permanence",
+   "subtype": "Hidden Object Recovery",
+   "description": "Understanding that an object covered by a blanket still exists and searching for it."
+  },
+  {
+   "sno": 9,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R4+T1"
+   },
+   "cast": {
+    "6": [
+     "Harish",
+     "Ganga"
+    ],
+    "7": [
+     "Elizabeth",
+     "Chinmay"
+    ],
+    "8": [
+     "Yusuf",
+     "Eshaan"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Emotional",
+   "subtopic": "Primary Emotions",
+   "subtype": "Joy",
+   "description": "Experiencing delight and positive reactions to playful stimuli.",
+   "graph_context": [
+    "related mind states: joy, playfulness"
+   ]
+  },
+  {
+   "sno": 10,
+   "plan": {
+    "6": "R8",
+    "7": "R12",
+    "8": "R13+T1"
+   },
+   "cast": {
+    "6": [
+     "Ines",
+     "Hiroshi"
+    ],
+    "7": [
+     "Bhavna",
+     "Kiran"
+    ],
+    "8": [
+     "Tenzin",
+     "Imran"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Emotional",
+   "subtopic": "Primary Emotions",
+   "subtype": "Anger",
+   "description": "Expressing frustration when needs are not met or movement is restricted.",
+   "graph_context": [
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

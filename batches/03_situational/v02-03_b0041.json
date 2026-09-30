@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 718,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Anand"
+    ],
+    "3": [
+     "Aadhya",
+     "Ujjwal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Gossip about a classmate",
+   "subtype": "Classmate × Rumour truth [Receiver]",
+   "description": "A rumour about me holds a grain of truth and I feel shame. I can say yes, that happened, it is private, and stop the talk. Owning it calmly takes away much of its power.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, curiosity, fear, guilt, humiliation, loyalty",
+    "related mind states: shame, calm"
+   ]
+  },
+  {
+   "sno": 719,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Simran",
+     "Siddharth"
+    ],
+    "3": [
+     "Zubin",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Opponent × Disappointment [Actor]",
+   "description": "We lost the final and I am crushed. Disappointment shows I cared. Wise: cry if I need to, then congratulate the winners and think about what to practise. Throwing the bat or blaming the umpire only shows hurt pride.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, fear, resentment",
+    "related mind states: sadness, disappointment, pride, hurt"
+   ]
+  },
+  {
+   "sno": 720,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Disha"
+    ],
+    "3": [
+     "Aadhya",
+     "Rashmi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Opponent × Bitterness [Actor]",
+   "description": "The other team won unfairly, I think, and I cannot let go. Sometimes decisions are unfair. Wise: speak to the coach politely, then move on. Refusing to shake hands leaves me bitter and them unchanged.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, fear",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 721,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Pema"
+    ],
+    "3": [
+     "Zeenat",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Opponent × Sportsmanship [Actor]",
+   "description": "I lose and still shake hands and say well played. It feels hard, but it earns respect from everyone. Wins and losses pass, and character remains.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, fear, resentment",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 722,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Suraj"
+    ],
+    "3": [
+     "Vasudha",
+     "Shalini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Coach × Fear [Receiver]",
+   "description": "My coach is angry after the loss and I feel scared and small. A good coach corrects the game, not the child. I listen for useful points and let go of the harsh tone. If it feels abusive, I tell a parent.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, resentment",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 723,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Swati"
+    ],
+    "3": [
+     "Sumit",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Parent × Pressure [Receiver]",
+   "description": "My father says you should have won, and I feel I disappointed him. Some parents transfer their dreams to a child. I can tell him I did my best and need his support, not more pressure.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, fear, resentment",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 724,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Rukmini"
+    ],
+    "3": [
+     "Chandrika",
+     "Kamal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Teammate × Blame [Actor]",
+   "description": "I blame the slower teammate for our loss. Blame gives quick relief but breaks the team. Wise: look at what everyone, including me, could improve, and encourage her rather than shame her.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, compassion, disillusionment, fear, resentment",
+    "related mind states: shame, relief"
+   ]
+  },
+  {
+   "sno": 725,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Damini",
+     "Yusuf"
+    ],
+    "3": [
+     "Lavanya",
+     "Suraj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Losing a match",
+   "subtype": "Teammate × Compassion [Receiver]",
+   "description": "I dropped the catch and the team lost. I feel terrible, and a friend says everyone drops one. Her kindness lets me try again. Being harshly blamed would make me fear playing.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, disillusionment, fear, resentment",
+    "related mind states: fear, empathy"
+   ]
+  },
+  {
+   "sno": 726,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Seema"
+    ],
+    "3": [
+     "Bao",
+     "Ines"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Winning a match",
+   "subtype": "Opponent × Pride [Actor]",
+   "description": "I won and feel wonderful. Pride in effort is healthy. Wise: thank the team, be kind to the losers, and remember they feel bad. Gloating and mocking makes winning small.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy",
+    "related mind states: gratitude, curiosity, pride, awe"
+   ]
+  },
+  {
+   "sno": 727,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Kalyani"
+    ],
+    "3": [
+     "Jyoti",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Winning a match",
+   "subtype": "Rival × Contempt [Actor]",
+   "description": "After beating my rival, I show off and rub it in. It feels sweet for a moment but costs respect. The mature response is to be gracious, because next time I may lose.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, pride",
+    "related mind states: admiration, contempt"
+   ]
+  }
+ ]
+}

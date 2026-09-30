@@ -1,0 +1,329 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3278,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Imran",
+     "Vinita"
+    ],
+    "4": [
+     "Jagdish",
+     "Lavanya"
+    ],
+    "5": [
+     "Jasleen",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 1: Feeling left out [Response]",
+   "description": "A teen who is left out finds one activity or small group built around a shared interest rather than trying to win over the popular crowd. Belonging comes more easily around doing something together.",
+   "graph_context": [
+    "next stage: Protective pulling back",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: interest, nostalgia"
+   ]
+  },
+  {
+   "sno": 3279,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Abhinav"
+    ],
+    "4": [
+     "Neelam",
+     "Urmila"
+    ],
+    "5": [
+     "Elizabeth",
+     "Vikas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 4: Screens as substitute [Actor]",
+   "description": "A student far from home spends nights scrolling and watching others' apparent lives. Screens numb the ache for a time but rarely give the warmth of real contact, and comparison deepens it.",
+   "graph_context": [
+    "next stage: Deepening isolation and low mood",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: affection, detachment"
+   ]
+  },
+  {
+   "sno": 3280,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Himani",
+     "Tarun"
+    ],
+    "4": [
+     "Jahnavi",
+     "Keerthana"
+    ],
+    "5": [
+     "Arohi",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 5: Deepening isolation and low mood [Actor]",
+   "description": "Sleep, appetite and energy shift, and the person feels a burden and stays away from even those who care. The longer the silence, the harder reaching out feels.",
+   "graph_context": [
+    "previous stage: Screens as substitute",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3281,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Mina",
+     "Kaito"
+    ],
+    "4": [
+     "Tenzin",
+     "Karthik"
+    ],
+    "5": [
+     "Shreya",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 5: Deepening isolation and low mood [Observer]",
+   "description": "A friend or hostel mate sees that someone has stopped coming out. A simple, low-pressure invitation and a steady return are better than a lecture, and persistent low mood merits a doctor or counsellor.",
+   "graph_context": [
+    "previous stage: Screens as substitute",
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 3282,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Sonali",
+     "Alka"
+    ],
+    "4": [
+     "Charu",
+     "Manoj"
+    ],
+    "5": [
+     "Jahnavi",
+     "Ira"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 6: One small reach [Response]",
+   "description": "The person sends a message, joins a class or says yes to a plain invitation. A small step with low stakes rebuilds the belief that contact is possible.",
+   "graph_context": [
+    "next stage: Building a few real ties",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3283,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Seema"
+    ],
+    "4": [
+     "Clara",
+     "Ivan"
+    ],
+    "5": [
+     "Sharmila",
+     "Dolma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 7: Building a few real ties [Response]",
+   "description": "Regular, modest contact such as a weekly game, a shared chore or a walk gradually grows into friendship. A few consistent bonds count more than many casual ones.",
+   "graph_context": [
+    "previous stage: One small reach",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3284,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Preeti",
+     "Manoj"
+    ],
+    "4": [
+     "Asif",
+     "Mridul"
+    ],
+    "5": [
+     "Amara",
+     "Jin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Loneliness and withdrawal spiral",
+   "subtype": "Stage 4: Screens as substitute [Response]",
+   "description": "The person sets a window for online time and pairs it with one offline plan, such as a call or a walk. Screens are kept as a tool, not a replacement for company.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3285,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Rashmi",
+     "Aadhya"
+    ],
+    "4": [
+     "Nitin",
+     "Darshan"
+    ],
+    "5": [
+     "Tenzin",
+     "Madhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Anxiety avoidance loop",
+   "subtype": "Stage 1: Trigger and alarm [Actor]",
+   "description": "A child faces a test, a dog or a new class, and the stomach knots and the heart thumps. The body's alarm feels like proof that something is truly dangerous.",
+   "graph_context": [
+    "next stage: Avoiding for relief",
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 3286,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Ramesh",
+     "Irawati"
+    ],
+    "4": [
+     "Devika",
+     "Sonali"
+    ],
+    "5": [
+     "Harsha",
+     "Tarun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Anxiety avoidance loop",
+   "subtype": "Stage 2: Avoiding for relief [Actor]",
+   "description": "The child complains of a stomach ache and stays home, and the fear drops at once. Relief teaches the brain that avoidance is the safe move, so next time the fear starts earlier.",
+   "graph_context": [
+    "previous stage: Trigger and alarm",
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear, relief, trust",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 3287,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Yamini"
+    ],
+    "4": [
+     "Tushar",
+     "Parveen"
+    ],
+    "5": [
+     "Mei",
+     "Tariq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Anxiety avoidance loop",
+   "subtype": "Stage 3: Avoidance widens [Actor]",
+   "description": "A teenager who avoided one presentation begins to dodge group chats, outings and answering the phone. The circle of safe activities shrinks and the world feels more threatening.",
+   "graph_context": [
+    "next stage: Reassurance seeking",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: resentment, trust",
+    "related concepts: avoidance"
+   ]
+  }
+ ]
+}

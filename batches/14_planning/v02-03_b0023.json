@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5981,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Suraj"
+    ],
+    "3": [
+     "Jaya",
+     "Irfan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: arguing on and on with no decision [Pitfall]",
+   "description": "The group spends the whole period arguing over the title and colours. The bell rings with nothing made, and the teacher reminds them that the deadline is Friday.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice"
+   ]
+  },
+  {
+   "sno": 5982,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Charu"
+    ],
+    "3": [
+     "Vinita",
+     "Yogesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: setting a time limit for deciding [Action]",
+   "description": "A girl suggests they decide the topic in five minutes, and if they cannot, they will toss a coin. Having a limit stops the endless talk and gets them started.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice"
+   ]
+  },
+  {
+   "sno": 5983,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Tanvir"
+    ],
+    "3": [
+     "Wasim",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: one member doing everything alone [Pitfall]",
+   "description": "Annoyed by delays, a boy decides to finish the whole project by himself at night. The project looks good but he is exhausted, the others feel left out, and the teacher notices.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice",
+    "related mind states: anger, tiredness"
+   ]
+  },
+  {
+   "sno": 5984,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Sudha"
+    ],
+    "3": [
+     "Reena",
+     "Raghav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: asking the teacher to settle a stuck point [Revision]",
+   "description": "After two days of no agreement, the group notices they are stuck and goes to the teacher. She helps them pick a plan and reminds them to take turns speaking.",
+   "graph_context": [
+    "same problem, other approaches: commitment device"
+   ]
+  },
+  {
+   "sno": 5985,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Gurpreet"
+    ],
+    "3": [
+     "Suraj",
+     "Tanuja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Settling group project disagreement",
+   "subtype": "Approach: checking in halfway and reassigning slow tasks [Revision]",
+   "description": "Midway, the group sees that Aman's writing part is not done because he was ill. Others share his paragraphs and he takes an easier job, so the project is finished on time.",
+   "graph_context": [
+    "same problem, other approaches: commitment device, seeking advice"
+   ]
+  },
+  {
+   "sno": 5986,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Yogesh"
+    ],
+    "3": [
+     "Lalit",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving for a toy",
+   "subtype": "Approach: dividing the price by weekly pocket money [Thinking]",
+   "description": "A boy wants a Rs 600 remote-control car and gets Rs 50 a week. He divides and works out twelve weeks, and decides to keep going because the number seems reachable.",
+   "graph_context": [
+    "same problem, other approaches: critical path, seeking advice, task decomposition",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 5987,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Rekha"
+    ],
+    "3": [
+     "Noor",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving for a toy",
+   "subtype": "Approach: putting coins in a jar and marking a chart [Action]",
+   "description": "A girl keeps a labelled piggy bank and draws a thermometer chart, colouring a bit each week. Seeing the colour rise keeps her motivated to leave the coins alone.",
+   "graph_context": [
+    "same problem, other approaches: critical path, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 5988,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Mehak"
+    ],
+    "3": [
+     "Lavanya",
+     "Parul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving for a toy",
+   "subtype": "Approach: spending on snacks and forgetting the goal [Pitfall]",
+   "description": "A child gets money each week but buys chips and stickers at the shop near school. After a month the jar is nearly empty because small spends were never counted.",
+   "graph_context": [
+    "same problem, other approaches: critical path, seeking advice, task decomposition"
+   ]
+  },
+  {
+   "sno": 5989,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Sharmila"
+    ],
+    "3": [
+     "Tejas",
+     "Irfan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving for a toy",
+   "subtype": "Approach: earning extra by doing jobs at home [Action]",
+   "description": "A boy asks his parents whether he can earn Rs 10 for washing the family car on Sundays. The extra income shortens his wait from twelve weeks to eight.",
+   "graph_context": [
+    "same problem, other approaches: critical path, task decomposition"
+   ]
+  },
+  {
+   "sno": 5990,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sabina",
+     "Ira"
+    ],
+    "3": [
+     "Sudha",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving for a toy",
+   "subtype": "Approach: comparing shops and cheaper choices [Thinking]",
+   "description": "A girl learns the same toy is Rs 100 cheaper at another shop and that a smaller set costs less. She weighs whether the extra pieces are worth waiting longer.",
+   "graph_context": [
+    "same problem, other approaches: critical path, seeking advice, task decomposition"
+   ]
+  }
+ ]
+}

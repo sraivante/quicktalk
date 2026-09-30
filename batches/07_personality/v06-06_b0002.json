@@ -1,0 +1,216 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4329,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Uma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Low-structure free spirit [Actor]",
+   "description": "A child forgets bottles, loses worksheets and works in bursts when interest strikes. Feels bad about reminders and is not lazy; simple routines and visual checklists help more than scolding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 4330,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Camila",
+     "Zeynep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Planner under exam pressure [Actor]",
+   "description": "A teenager makes timetables, colour-codes notes and feels guilty on any unplanned day. Discipline is a real strength, but rigid plans can turn into self-punishment when life interrupts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4331,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Ishita",
+     "Jasleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Balancing effort and rest [Response]",
+   "description": "A wise teenager keeps a plan but builds slack into it, treating a missed day as information rather than failure. Consistency counts more than perfection, and sleep is part of the plan.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4332,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Tushar",
+     "Sonali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Flexible, spontaneous style [Actor]",
+   "description": "A young adult prefers to decide late, keep options open and adapt as things unfold. Works well in changing situations, yet deadlines and shared commitments need deliberate anchors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4333,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Lavanya",
+     "Indu"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Living with a very careful partner or roommate [Receiver]",
+   "description": "A person living with a highly orderly housemate feels safe about bills and chores, and also watched and corrected. Says plainly what is a preference and what is a real need to avoid quiet resentment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment, trust"
+   ]
+  },
+  {
+   "sno": 4334,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Conscientiousness",
+   "subtype": "Reliable colleague seen by others [Observer]",
+   "description": "A team notices the person who always delivers on time, remembers details and quietly fixes gaps. They are trusted, but may be over-relied on and unthanked until they burn out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: gratitude, trust"
+   ]
+  },
+  {
+   "sno": 4335,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Santosh",
+     "Vishal"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Extraversion and introversion",
+   "subtype": "Social toddler [Actor]",
+   "description": "A toddler waves at strangers, seeks people to play beside and gets loud with excitement. Energy rises around others and dips when alone; adults still teach gentle limits.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, excitement"
+   ]
+  },
+  {
+   "sno": 4336,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Ojas",
+     "Uday"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Extraversion and introversion",
+   "subtype": "Parent of an extravert and an introvert [Receiver]",
+   "description": "A parent of two very different children feels pulled between constant chatter and long quiet. Each child needs a different kind of attention; neither is wrong, and forcing sameness hurts both.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4337,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Tenzin",
+     "Swati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Extraversion and introversion",
+   "subtype": "Talkative energiser [Actor]",
+   "description": "A child makes friends easily, leads games and feels restless during silent seat work. Gains energy from company, and can miss quiet cues from friends who need space.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 4338,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Vidya",
+     "Chinmay"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Extraversion and introversion",
+   "subtype": "Quiet observer [Actor]",
+   "description": "A child watches a new group before joining, prefers one or two close friends and feels drained after a busy party. Recovery comes from solitude, not from being unhappy or unfriendly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy, sadness, tiredness"
+   ]
+  }
+ ]
+}

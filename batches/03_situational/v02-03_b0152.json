@@ -1,0 +1,271 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1828,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Charu",
+     "Kavitha"
+    ],
+    "3": [
+     "Nazia",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Colleague conflict",
+   "subtype": "Colleague × Contempt [Actor]",
+   "description": "I look down on a slower colleague and roll my eyes in meetings. I see that contempt says more about my stress and pride than their worth, and I choose to help or set clear expectations instead of mocking.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, rivalry",
+    "related mind states: contempt, pride"
+   ]
+  },
+  {
+   "sno": 1829,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Uma"
+    ],
+    "3": [
+     "Pankaj",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Colleague conflict",
+   "subtype": "Colleague × Harassment [Receiver]",
+   "description": "A colleague makes remarks or contact that make me uncomfortable and I doubt whether it is serious. It is, and it is not my fault. I say a clear no, note dates and details, and use HR, a committee, or a trusted senior.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, gratitude, rivalry",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 1830,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Fatima",
+     "Soo-ah"
+    ],
+    "3": [
+     "Sarika",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Colleague conflict",
+   "subtype": "Colleague × Gratitude [Receiver]",
+   "description": "A colleague covered for me during a family emergency and I feel indebted. I thank them sincerely and return the favour at the right time; a workplace of mutual help is worth more than any single task.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, rivalry",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 1831,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Kiran"
+    ],
+    "3": [
+     "Yogesh",
+     "Harsha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Neighbour × Anger [Actor]",
+   "description": "My neighbour's noise, parking, or garbage keeps annoying me and my irritation has built up. I speak to them calmly before it explodes, propose a specific fix, and use society rules only if talking fails.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, distrust, indifference, trust",
+    "paired view exists: Receiver (S1832)",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 1832,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Gopika"
+    ],
+    "3": [
+     "Jyoti",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Neighbour × Anger [Receiver]",
+   "description": "A neighbour is shouting at me over a small matter and I feel my own temper rising. I stay calm, listen, offer to resolve it later, and avoid an audience; involving elders or the society committee helps if it escalates.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, distrust, indifference, trust",
+    "paired view exists: Actor (S1831)",
+    "related mind states: anger, calm, determination"
+   ]
+  },
+  {
+   "sno": 1833,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Chetan",
+     "Omkar"
+    ],
+    "3": [
+     "Yogesh",
+     "Bhavna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Neighbour × Trust [Actor]",
+   "description": "My neighbour helps with parcels, emergencies, and my ageing parent, and I feel grateful. I return the kindness, respect their privacy, and see that good neighbours are quiet safety nets in a busy city.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, distrust, indifference",
+    "related mind states: gratitude, admiration, trust"
+   ]
+  },
+  {
+   "sno": 1834,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Mehak"
+    ],
+    "3": [
+     "Mehak",
+     "Mahima"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Neighbour × Suspicion [Receiver]",
+   "description": "My neighbours are curious or judgmental about my visitors, job, or marriage and I feel watched. I stay courteous, keep boundaries without hostility, and do not let gossip decide how I live.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, indifference, trust",
+    "related mind states: hostility, curiosity, doubt"
+   ]
+  },
+  {
+   "sno": 1835,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Aditi"
+    ],
+    "3": [
+     "Simran",
+     "Disha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Neighbour × Indifference [Actor]",
+   "description": "I barely know the people next door and prefer to stay private. Privacy is fine, but a small greeting and shared contact numbers build safety and belonging when something goes wrong.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, anger, distrust, trust",
+    "related mind states: detachment, nostalgia, trust"
+   ]
+  },
+  {
+   "sno": 1836,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Chandrika"
+    ],
+    "3": [
+     "Nikita",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Neighbour dispute",
+   "subtype": "Community × Belonging [Actor]",
+   "description": "I join festivals and residents' meetings and feel part of something larger than my own flat. I contribute my time and skills, and respect differences of faith and background; belonging is built by showing up.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, distrust, indifference, trust",
+    "related mind states: admiration, nostalgia"
+   ]
+  },
+  {
+   "sno": 1837,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Rehana"
+    ],
+    "3": [
+     "Salma",
+     "Anjali"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated by juniors",
+   "subtype": "Junior × Worship [Receiver]",
+   "description": "A junior treats every word of mine as gospel and I feel flattered and slightly uncomfortable. I share my mistakes, encourage them to think for themselves, and avoid using their admiration to gain control.",
+   "graph_context": [
+    "same situation, other stances at this age: dependence, disillusionment, envy, hatred, manipulation, respect",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

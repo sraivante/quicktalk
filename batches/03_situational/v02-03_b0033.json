@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 638,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Chinmay"
+    ],
+    "3": [
+     "Lucia",
+     "Tuan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Best friend's new friend",
+   "subtype": "Rival × Manipulation [Receiver]",
+   "description": "Another girl whispers that my best friend now finds me boring, hoping to split us. Wise: check directly with my friend rather than trust the whisperer. Believing everything I hear lets others steer my friendships.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, comfort, fear, guilt, insecurity, jealousy",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 639,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Chinmay"
+    ],
+    "3": [
+     "Anders",
+     "Emeka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Fear [Actor]",
+   "description": "I dread the bus and my stomach hurts on school mornings. Fear is a sensible signal, not weakness. Wise: tell a trusted adult and note what happens. Hiding it because of shame keeps the bully in charge.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, hatred, loneliness, loyalty, mockery",
+    "related mind states: fear, shame, trust, hurt"
+   ]
+  },
+  {
+   "sno": 640,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Darshan"
+    ],
+    "3": [
+     "Avni",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Shame [Actor]",
+   "description": "I feel there must be something wrong with me for being picked on. It is not my fault; bullies pick targets because of their own needs. Telling a parent or teacher lifts the weight I carry alone.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, hatred, loneliness, loyalty",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 641,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Sabina"
+    ],
+    "3": [
+     "Lalit",
+     "Bhavna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Anger [Actor]",
+   "description": "I want to hit back so he stops. Anger is understandable, but fighting can get me punished and hurt. Wise: walk away, stay near friends, report it. Plotting revenge keeps me tied to him.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, hatred, loneliness, loyalty, mockery",
+    "related mind states: anger, hurt"
+   ]
+  },
+  {
+   "sno": 642,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Francis",
+     "Hafsa"
+    ],
+    "3": [
+     "Nitin",
+     "Pallavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Contempt [Receiver]",
+   "description": "A bigger boy calls me names and laughs whenever I speak. He wants a reaction and an audience. I do not owe him one; I keep my dignity, move away and tell an adult. His words are not the truth about me.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, hatred, loneliness, loyalty, mockery",
+    "related mind states: amusement, contempt"
+   ]
+  },
+  {
+   "sno": 643,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Avni"
+    ],
+    "3": [
+     "Yamini",
+     "Disha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Teacher × Trust [Actor]",
+   "description": "I am scared but I tell my class teacher what has been happening. A good teacher listens, believes me and acts without making me look like a snitch. Telling is not tale-telling when someone is being hurt.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, hatred, loneliness, loyalty",
+    "related mind states: fear, trust, hurt"
+   ]
+  },
+  {
+   "sno": 644,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Gurpreet"
+    ],
+    "3": [
+     "Pooja",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Parent × Protectiveness [Receiver]",
+   "description": "My father wants to storm into school after I confess. Wise parents listen first, thank me for telling, and plan together with the school. Being told just fight back or stop being sensitive teaches me to stay silent.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, hatred, loneliness, loyalty",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 645,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Nandini"
+    ],
+    "3": [
+     "Yamini",
+     "Aditi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Friend × Loyalty [Receiver]",
+   "description": "A friend stands next to me when the bully arrives and walks to class with me. Small loyalty makes me feel less alone. I thank her and we agree to stay together and report it.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, hatred, loneliness, mockery",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 646,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Mahima"
+    ],
+    "3": [
+     "Vishal",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Understanding [Actor]",
+   "description": "I wonder why he is so mean and guess maybe he is hurt at home. Understanding a reason is not the same as excusing it. I can feel some pity and still keep away and ask adults for help.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, hatred, loneliness, loyalty",
+    "related mind states: curiosity, awe, hurt"
+   ]
+  },
+  {
+   "sno": 647,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Tejas",
+     "Bidisha"
+    ],
+    "3": [
+     "Naveen",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Being bullied at school",
+   "subtype": "Bully × Hatred [Actor]",
+   "description": "I hate him so much that I think about it all day. Hatred is a heavy load that hurts me more. Wise: talk to someone, keep busy with things I love, and let adults handle him. Revenge fantasies are natural but not a plan.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, contempt, fear, loneliness, loyalty, mockery",
+    "related mind states: affection, hurt"
+   ]
+  }
+ ]
+}

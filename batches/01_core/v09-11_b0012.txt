@@ -1,0 +1,40 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 111, "plan": {"9": "R6", "10": "R7", "11": "R8"}, "cast": {"9": ["Gopika", "Kunal"], "10": ["Farida", "Trisha"], "11": ["Selin", "Mateo"]}, "age": "18–22", "topic": "Critical Thinking", "subtopic": "Media Literacy", "subtype": "Open-Minded Information Filtering", "description": "Identifying propaganda, emotional manipulation, and misinformation while evaluating opposing worldviews fairly."}
+{"sno": 112, "plan": {"9": "R14", "10": "R15", "11": "R1"}, "cast": {"9": ["Madhav", "Zubin"], "10": ["Sumit", "Siddharth"], "11": ["Chandrika", "Chetan"]}, "age": "18–22", "topic": "Advanced Communication", "subtopic": "Professional Relations", "subtype": "Negotiation & Contract Diplomacy", "description": "Advocating for personal interests and finding mutually beneficial compromises in personal, professional, or contractual settings.", "graph_context": ["related mind states: interest"]}
+{"sno": 113, "plan": {"9": "R3", "10": "R4", "11": "R5"}, "cast": {"9": ["Ankita", "Sachin"], "10": ["Pradeep", "Varun"], "11": ["Elizabeth", "Tushar"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Transitional Emotions", "subtype": "Ambivalence", "description": "Holding conflicting feelings simultaneously (excitement for independence alongside fear).", "graph_context": ["related mind states: fear, excitement"]}
+{"sno": 114, "plan": {"9": "R4", "10": "R5", "11": "R6"}, "cast": {"9": ["Akash", "Yogesh"], "10": ["Deepika", "Omkar"], "11": ["Ujjwal", "Arohi"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Transitional Emotions", "subtype": "Nostalgia", "description": "Experiencing a bittersweet longing for the simplicity and safety of childhood.", "graph_context": ["related mind states: nostalgia, resentment, trust"]}
+{"sno": 115, "plan": {"9": "R6", "10": "R7", "11": "R8"}, "cast": {"9": ["Parul", "Bhavna"], "10": ["Kishore", "Parul"], "11": ["Jin", "Emeka"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Transitional Emotions", "subtype": "Anticipation", "description": "Feeling forward-looking energy and eagerness regarding adult possibilities.", "graph_context": ["related mind states: excitement"]}
+{"sno": 116, "plan": {"9": "R14", "10": "R15", "11": "R1"}, "cast": {"9": ["Alka", "Naveen"], "10": ["Jahnavi", "Ojas"], "11": ["Arohi", "Amandeep"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Transitional Emotions", "subtype": "Overwhelm", "description": "Feeling paralyzed or flooded by the sudden influx of permanent adult responsibilities.", "graph_context": ["related mind states: overwhelm"]}
+{"sno": 117, "plan": {"9": "R2", "10": "R3", "11": "R4"}, "cast": {"9": ["Lakshmi", "Irfan"], "10": ["Indu", "Anand"], "11": ["Kavitha", "Abhinav"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Resilience & Grief", "subtype": "Sorrow", "description": "Processing deeper, more complex real-world losses (long-term relationships, idealized futures).", "graph_context": ["related mind states: sadness"]}
+{"sno": 118, "plan": {"9": "R14", "10": "R15", "11": "R1"}, "cast": {"9": ["Afreen", "Rajni"], "10": ["Yusuf", "Kavitha"], "11": ["Mehak", "Rashmi"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Resilience & Grief", "subtype": "Acceptance", "description": "Acknowledging difficult realities and shifting circumstances without fighting them."}
+{"sno": 119, "plan": {"9": "R13", "10": "R14", "11": "R15"}, "cast": {"9": ["Santosh", "Vasudha"], "10": ["Siddharth", "Harish"], "11": ["Uma", "Arnab"]}, "age": "18–22", "topic": "Emotional", "subtopic": "Resilience & Grief", "subtype": "Determination", "description": "Building the emotional fortitude and grit to try again after significant setbacks.", "graph_context": ["related mind states: determination"]}
+{"sno": 120, "plan": {"9": "R14", "10": "R15", "11": "R1"}, "cast": {"9": ["Gautam", "Trisha"], "10": ["Omkar", "Joseph"], "11": ["Chetan", "Gautam"]}, "age": "18–22", "topic": "Humor & Play", "subtopic": "Psychological Balance", "subtype": "Adult Playfulness & Leisure Balance", "description": "Maintaining capacity for lighthearted play, hobbies, and humor as essential counterweights to adult stress and burnout.", "graph_context": ["related mind states: amusement, playfulness"]}
+
+Return exactly 30 JSON Lines and nothing else.

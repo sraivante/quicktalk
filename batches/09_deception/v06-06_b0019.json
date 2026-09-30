@@ -1,0 +1,70 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4769,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Mateo",
+     "Noa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Integrity when it costs",
+   "subtype": "Doing right without an audience [Actor]",
+   "description": "An adult returns extra change, admits an error nobody would find, or declines a favour that bends rules. The reward is mostly internal, and it builds a reputation for being trusted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4770,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Tarun",
+     "Payal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Integrity when it costs",
+   "subtype": "Honouring a colleague who pays the price [Observer]",
+   "description": "A team sees someone lose a deal or promotion for refusing to lie. Recognising and supporting them keeps honesty from becoming a lonely choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4771,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Madhav",
+     "Gargi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Integrity when it costs",
+   "subtype": "Weighing real dilemmas [Response]",
+   "description": "Sometimes honesty conflicts with another duty, such as protecting a person from harm. A wise person considers who is affected, chooses the least deceptive path, and accepts responsibility for the choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

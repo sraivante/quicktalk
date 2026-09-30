@@ -1,0 +1,263 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6491,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Sarika",
+     "Asif"
+    ],
+    "3": [
+     "Tushar",
+     "Kashish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: defining a minimum viable version first [Thinking]",
+   "description": "A group of students planning a school notes-sharing site decides that version one is just a page with uploaded PDFs sorted by subject, leaving accounts and ratings for later.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, pre-mortem, task decomposition, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6492,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Vaibhav"
+    ],
+    "3": [
+     "Tejas",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: task decomposition and dividing roles [Action]",
+   "description": "Three teens split a website project into design, content and coding, write who does what and by when on a shared sheet, and meet twice weekly for ten minutes to check progress.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, minimum viable version, pre-mortem, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6493,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Madhav",
+     "Ritu"
+    ],
+    "3": [
+     "Dhruv",
+     "Jatin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: using free tools within constraints [Thinking]",
+   "description": "With no money and no card, a teen chooses a free site builder and free hosting, accepts fewer features, and spends effort on content quality, which turns the limit into a design rule.",
+   "graph_context": [
+    "same problem, other approaches: delegation, forward planning, minimum viable version, pre-mortem, task decomposition, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6494,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Samir",
+     "Saurabh"
+    ],
+    "3": [
+     "Karthik",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: testing with real users early [Action]",
+   "description": "A student shows a rough version of his local-recipe blog to five relatives, watches where they get confused navigating, and fixes the menu before adding anything new.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, minimum viable version, pre-mortem, task decomposition",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 6495,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Nirmala",
+     "Parul"
+    ],
+    "3": [
+     "Vidya",
+     "Akash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: overbuilding features before anyone uses it [Pitfall]",
+   "description": "A teen adds chat, badges and a dark mode to her app before sharing it, runs out of exam-free weeks, and launches nothing, while classmates only wanted a simple timetable page.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, minimum viable version, pre-mortem, task decomposition, trial by imitation"
+   ]
+  },
+  {
+   "sno": 6496,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Harsha"
+    ],
+    "3": [
+     "Dhruv",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: pre-mortem on why the project might die [Thinking]",
+   "description": "Before starting, the team imagines the project abandoned in two months and lists reasons: exams, one person doing all work, loss of interest. They then add exam breaks and shared ownership.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, minimum viable version, task decomposition, trial by imitation",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6497,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Mahima",
+     "Manjula"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Gurpreet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: protecting privacy and safety while building [Action]",
+   "description": "A teen making a class website with classmates' photos asks each for permission, uses first names only, and shows the plan to a teacher so no one is exposed to strangers online.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, minimum viable version, pre-mortem, task decomposition",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 6498,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Farhan",
+     "Samir"
+    ],
+    "3": [
+     "Rashmi",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: assuming visitors will just arrive [Pitfall]",
+   "description": "After finishing a small online store idea, a student waits for traffic and none comes, because no plan existed for telling classmates, neighbours or local groups about it.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, minimum viable version, pre-mortem, task decomposition"
+   ]
+  },
+  {
+   "sno": 6499,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Leela"
+    ],
+    "3": [
+     "Pallavi",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: iterating from feedback and usage numbers [Revision]",
+   "description": "A teen notices from simple visit counts that no one opens the third page, asks why, learns it is hard to find, moves it to the homepage, and checks that visits rise.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, delegation, forward planning, pre-mortem, task decomposition, trial by imitation",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6500,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Jeevan"
+    ],
+    "3": [
+     "Ujjwal",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building a small online project",
+   "subtype": "Approach: deciding when to stop or hand over [Revision]",
+   "description": "As board exams approach, a student decides to freeze features, writes short notes for a junior to maintain the site, and pauses it honestly rather than letting it silently go stale.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking, forward planning, minimum viable version, pre-mortem, task decomposition, trial by imitation"
+   ]
+  }
+ ]
+}

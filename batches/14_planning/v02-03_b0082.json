@@ -1,0 +1,260 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6571,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Himani"
+    ],
+    "3": [
+     "Francis",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: setting a goal with an amount and date [Thinking]",
+   "description": "A teen wants a secondhand bicycle costing 4,000 rupees in six months, divides it into a weekly saving figure, and finds it is more realistic than he thought.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6572,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Pradeep"
+    ],
+    "3": [
+     "Vandana",
+     "Ujjwal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: paying yourself first [Action]",
+   "description": "On the day the allowance arrives, a student moves a fixed portion into a separate envelope or savings account before spending anything, so saving does not depend on leftover money.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6573,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Payal",
+     "Neelam"
+    ],
+    "3": [
+     "Seema",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: tracking spending and finding leaks [Action]",
+   "description": "A teen writes down every purchase for a month, discovers that snacks and mobile top-ups take a third of her money, and trims those two areas by choice.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6574,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Abhinav"
+    ],
+    "3": [
+     "Sonali",
+     "Kalyani"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: earning extra through small honest work [Action]",
+   "description": "A student offers to tutor younger neighbours for a small fee after checking with parents, and directs part of the earnings to the same goal, which speeds it up.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6575,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Harish"
+    ],
+    "3": [
+     "Ira",
+     "Damini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: spending impulsively at the first temptation [Pitfall]",
+   "description": "A teen with saved money sees a sale online and buys a pair of shoes on impulse, then finds that the bicycle goal is set back by two months.",
+   "graph_context": [
+    "same problem, other approaches: values-first planning"
+   ]
+  },
+  {
+   "sno": 6576,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Minakshi"
+    ],
+    "3": [
+     "Gautam",
+     "Binita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: following friends' spending habits [Pitfall]",
+   "description": "A student buys expensive treats to match classmates at the canteen, feeling left out otherwise, and finds at month end that little remains for what he actually wanted.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6577,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Irawati"
+    ],
+    "3": [
+     "Kiran",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: making saving visible with a chart [Action]",
+   "description": "A teen draws a savings thermometer on her wall and colours it in each week, and seeing it fill keeps the effort going through weeks when spending feels more fun.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 6578,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Vijay",
+     "Sarika"
+    ],
+    "3": [
+     "Arnab",
+     "Divyansh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: falling for easy-money schemes online [Pitfall]",
+   "description": "A teen sees an online promise to double savings in a week through a game app, imagines quick success, and nearly sends money before a parent explains that such offers are usually frauds.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6579,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Joseph"
+    ],
+    "3": [
+     "Vijay",
+     "Farhan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: adjusting the goal after a shortfall [Revision]",
+   "description": "After a month with unexpected school expenses, a student extends the target date by four weeks and lowers the weekly amount rather than abandoning the plan altogether.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action, values-first planning"
+   ]
+  },
+  {
+   "sno": 6580,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Dilnaz",
+     "Thomas"
+    ],
+    "3": [
+     "Madhuri",
+     "Nirmala"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Saving from allowance",
+   "subtype": "Approach: splitting money into save, spend and give [Thinking]",
+   "description": "A teen decides that half goes to the goal, a third to spending and the rest to family gifts or charity, which balances her wants and values so the plan feels fair.",
+   "graph_context": [
+    "same problem, other approaches: impulsive action"
+   ]
+  }
+ ]
+}

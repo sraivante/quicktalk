@@ -1,0 +1,271 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 778,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Vidya"
+    ],
+    "3": [
+     "Harsha",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Group leader × Power [Actor]",
+   "description": "I decide who is in and who is out, and I love the power. It feels safe but I hurt people. Wise leaders include others and see that ruling by fear leaves friends who do not care for me.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, betrayal, envy, rejection",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: affection, fear, trust, hurt"
+   ]
+  },
+  {
+   "sno": 779,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Kalyani"
+    ],
+    "3": [
+     "Urmila",
+     "Bhupen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Group × Conformity [Actor]",
+   "description": "I go along with mean things because I fear being kicked out of the group. Belonging built on fear is fragile. Wise: quietly refuse one thing and see who still stands by me.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, betrayal, envy, rejection",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: fear, nostalgia"
+   ]
+  },
+  {
+   "sno": 780,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Madhuri"
+    ],
+    "3": [
+     "Ingrid",
+     "Tomas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Group × Acceptance [Actor]",
+   "description": "I stop chasing the popular group and enjoy the two friends who like me. Smaller friendship circles can be deeper. Acceptance is not defeat; it frees energy for real bonds.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, envy, rejection",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 781,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Zainab"
+    ],
+    "3": [
+     "Afreen",
+     "Avni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Former friend × Betrayal [Receiver]",
+   "description": "My friend joined the clique and dropped me. I feel betrayed and angry. I let myself feel it, tell someone and avoid revenge. Perhaps she feels torn too. I can leave the door open and protect myself.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, envy, rejection",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 782,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Sahil"
+    ],
+    "3": [
+     "Jyoti",
+     "Uday"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Empathy [Actor]",
+   "description": "I notice my teacher looks tired and worried today. Seeing teachers as people makes me kinder and calmer in class. I can help pick up books or be quiet. Kids who notice feelings grow wise.",
+   "graph_context": [
+    "same situation, other stances at this age: disillusionment, favouritism, fear, gratitude, humiliation",
+    "related mind states: anxiety, tiredness, calm, empathy"
+   ]
+  },
+  {
+   "sno": 783,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Harish"
+    ],
+    "3": [
+     "Ira",
+     "Salma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Disappointment [Actor]",
+   "description": "My favourite teacher was unfair to me once, and I am shocked. Adults can make mistakes. I can politely tell her how I felt. Cutting her off forever or mocking her is not needed.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, favouritism, fear, gratitude, humiliation",
+    "related mind states: disappointment, surprise"
+   ]
+  },
+  {
+   "sno": 784,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Thomas"
+    ],
+    "3": [
+     "Bidisha",
+     "Nirmala"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Favouritism [Receiver]",
+   "description": "The teacher seems to like some kids more, and I feel invisible. It may be real or not. I do my best, ask for help, and speak to her or a parent if unfair. Sulking helps nobody.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, fear, gratitude, humiliation"
+   ]
+  },
+  {
+   "sno": 785,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Ujjwal"
+    ],
+    "3": [
+     "Sonali",
+     "Reena"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Fear [Actor]",
+   "description": "I am scared of my strict teacher and my hands shake. Fear of getting it wrong blocks learning. I can ask a question after class and see her softer side. Many strict teachers care.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, favouritism, gratitude, humiliation",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 786,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Aditi"
+    ],
+    "3": [
+     "Vijay",
+     "Aparna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Gratitude [Receiver]",
+   "description": "Teacher stayed late to help me understand fractions and I feel cared for. I say thank you and try harder. Feeling supported grows confidence more than any scolding.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, favouritism, fear, humiliation",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 787,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Yamini"
+    ],
+    "3": [
+     "Aditi",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher as a person",
+   "subtype": "Teacher × Humiliation [Receiver]",
+   "description": "The teacher mocked me in front of the class and I wanted to vanish. That was wrong of her. I tell my parents so they can raise it with the school. Adults should correct, not shame.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, disillusionment, favouritism, fear, gratitude",
+    "related mind states: shame, humiliation"
+   ]
+  }
+ ]
+}

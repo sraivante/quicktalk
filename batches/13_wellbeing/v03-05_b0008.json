@@ -1,0 +1,317 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5266,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Anjali",
+     "Mehak"
+    ],
+    "4": [
+     "Madhuri",
+     "Pooja"
+    ],
+    "5": [
+     "Shalini",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Generosity",
+   "subtype": "Generosity with strings [Receiver]",
+   "description": "A student receives help and slowly feels obliged and watched. Gifts that carry hidden expectation create discomfort, while clean gifts allow the receiver to keep dignity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5267,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jatin",
+     "Uma"
+    ],
+    "4": [
+     "Reena",
+     "Jasleen"
+    ],
+    "5": [
+     "Sarita",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Generosity",
+   "subtype": "Receiving graciously [Response]",
+   "description": "A person who accepts help with a simple thank you, without excessive apology or self-belittling, lets the giver feel useful. Receiving is also a form of generosity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 5268,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Sudha",
+     "Manjula"
+    ],
+    "4": [
+     "Kalyani",
+     "Dhruv"
+    ],
+    "5": [
+     "Suraj",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Generosity",
+   "subtype": "Generous within limits [Response]",
+   "description": "A young earner supports family and friends but sets a sustainable boundary so that giving does not become resentment or ruin. Sustainable generosity includes the giver's own needs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5269,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Anjali",
+     "Vaibhav"
+    ],
+    "4": [
+     "Saurabh",
+     "Mohit"
+    ],
+    "5": [
+     "Zanele",
+     "Rafael"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Kindness fatigue",
+   "subtype": "Overloaded helper [Actor]",
+   "description": "A teenager everyone turns to for notes, comfort and favours starts feeling drained and quietly resentful. Being the reliable one becomes a role that is hard to step out of.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: tiredness, resentment"
+   ]
+  },
+  {
+   "sno": 5270,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Mridul",
+     "Tenzin"
+    ],
+    "4": [
+     "Pallavi",
+     "Manoj"
+    ],
+    "5": [
+     "Pranav",
+     "Ojas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Kindness fatigue",
+   "subtype": "Guilt about saying no [Actor]",
+   "description": "A student who has been listening to friends' problems all week feels selfish declining another call. Guilt often signals a long habit of over-giving, not actual wrongdoing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 5271,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Divyansh",
+     "Lalit"
+    ],
+    "4": [
+     "Aparna",
+     "Tanvir"
+    ],
+    "5": [
+     "Kishore",
+     "Leela"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Kindness fatigue",
+   "subtype": "Family expectation of endless giving [Receiver]",
+   "description": "A daughter or eldest son who is expected to sacrifice for everyone feels unseen when tired. Cultural duty can be sincere and still cost more than one person can pay.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 5272,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Gabriel",
+     "Yuki"
+    ],
+    "4": [
+     "Pallavi",
+     "Jatin"
+    ],
+    "5": [
+     "Sudha",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Kindness fatigue",
+   "subtype": "Noticing a depleted helper [Observer]",
+   "description": "A friend sees a usual giver becoming curt and withdrawn and offers to help them for a change. Caring for the carer is often overlooked until they break.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 5273,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Amandeep"
+    ],
+    "4": [
+     "Gurleen",
+     "Charu"
+    ],
+    "5": [
+     "Yogesh",
+     "Afreen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Kindness fatigue",
+   "subtype": "Refilling [Response]",
+   "description": "A person who gives a lot schedules rest, shares the load and says a clear no to some requests. Keeping kindness sustainable protects both the giver and those depending on them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5274,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Alka",
+     "Chandrika"
+    ],
+    "4": [
+     "Sumit",
+     "Arnab"
+    ],
+    "5": [
+     "Bhavna",
+     "Ritu"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Meaning-making",
+   "subtype": "Why questions [Actor]",
+   "description": "A child asks why people die, why they are here and what happens next. These questions are early meaning-making, and honest simple answers respect them better than deflection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 5275,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Keerthana",
+     "Ujjwal"
+    ],
+    "4": [
+     "Daniel",
+     "Thabo"
+    ],
+    "5": [
+     "Sangeeta",
+     "Ira"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Meaning-making",
+   "subtype": "Search for what matters [Actor]",
+   "description": "A teenager experiments with causes, faiths, aesthetics and friend groups, trying to find what feels worth living for. The search looks chaotic from outside but is serious work inside.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

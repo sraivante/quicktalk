@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 948,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Ritu",
+     "Gurleen"
+    ],
+    "3": [
+     "Seema",
+     "Ayesha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Self × Insecurity [Actor]",
+   "description": "I believe I am not good at anything special. At this age, talents unfold slowly; trying different things and enjoying them is more valuable than being the best.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, envy, jealousy, pride",
+    "related mind states: insecurity"
+   ]
+  },
+  {
+   "sno": 949,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Naveen"
+    ],
+    "3": [
+     "Sudha",
+     "Salma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Talent and comparison",
+   "subtype": "Teacher × Encouragement [Receiver]",
+   "description": "My teacher notices a small skill in me that I never saw. I feel seen and surprised. One honest encouragement can open a path, and I can keep practising.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, comparison, envy, insecurity, jealousy, pride",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 950,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Hemant",
+     "Parul"
+    ],
+    "3": [
+     "Bidisha",
+     "Rashmi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Classmate × Mockery [Receiver]",
+   "description": "A classmate teases me about my weight, height or skin colour. It cuts deeply. Their words reflect their unkindness, not my worth; I can tell a trusted adult and seek kind friends.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, comparison, pride, shame",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 951,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Jatin"
+    ],
+    "3": [
+     "Yuki",
+     "Lindiwe"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Self × Shame [Actor]",
+   "description": "I look in the mirror and dislike how I look. Many children feel this. I can focus on what my body can do, like run and play, and talk to an adult I trust about how I feel.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, comparison, mockery, pride",
+    "related mind states: shame, trust"
+   ]
+  },
+  {
+   "sno": 952,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Minakshi",
+     "Damini"
+    ],
+    "3": [
+     "Jeevan",
+     "Jatin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Media × Comparison [Receiver]",
+   "description": "Films and ads show only fair, slim, perfect people. I begin to feel I am not good enough. I remember that images are edited and that real people come in every shape and shade.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, mockery, pride, shame"
+   ]
+  },
+  {
+   "sno": 953,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Ankita",
+     "Siddharth"
+    ],
+    "3": [
+     "Damini",
+     "Usha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Parent × Love [Receiver]",
+   "description": "My parent says I am beautiful just as I am, though I do not believe it. Even so, it plants a seed. Being loved unconditionally helps me build a steady view of myself.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, comparison, mockery, pride, shame",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 954,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Nazia"
+    ],
+    "3": [
+     "Emil",
+     "Noa"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Friend × Acceptance [Receiver]",
+   "description": "A friend does not care how I look and only wants to play. I feel relaxed with him. Friends like this remind me that worth is in who I am, not how I appear.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, comparison, mockery, pride, shame",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 955,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Irawati"
+    ],
+    "3": [
+     "Zeenat",
+     "Pema"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Body and self-image",
+   "subtype": "Self × Pride [Actor]",
+   "description": "I feel strong and happy after winning a race. Feeling proud of my body for what it can do is healthy, and I can respect other bodies that are different from mine.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, affection, comparison, mockery, shame",
+    "related mind states: joy, admiration, pride"
+   ]
+  },
+  {
+   "sno": 956,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Sonali"
+    ],
+    "3": [
+     "Sunaina",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Honesty when unobserved",
+   "subtype": "Self × Integrity [Actor]",
+   "description": "Nobody is watching and I could take an extra sweet or skip my chore. Doing right anyway builds a self I can trust, and that inner steadiness is worth more than getting away with it.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, temptation, trust",
+    "related mind states: trust, determination"
+   ]
+  },
+  {
+   "sno": 957,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Aadhya",
+     "Anand"
+    ],
+    "3": [
+     "Suraj",
+     "Gargi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Honesty when unobserved",
+   "subtype": "Self × Temptation [Actor]",
+   "description": "The teacher leaves the room and the answer key lies open. My heart beats fast. Deciding beforehand not to look, and walking away, helps more than fighting the urge in the moment.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, honesty, trust"
+   ]
+  }
+ ]
+}

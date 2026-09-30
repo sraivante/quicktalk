@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2262,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Vishal"
+    ],
+    "4": [
+     "Vasudha",
+     "Samir"
+    ],
+    "5": [
+     "Ramesh",
+     "Asif"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Closeness and loyalty to friends [Expressing]",
+   "description": "A young child says you are my best friend or excludes others to stay close. Adults teach that closeness can include others and that loyalty does not mean hurting someone else.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2263,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Deepak",
+     "Lalit"
+    ],
+    "4": [
+     "Uma",
+     "Yogesh"
+    ],
+    "5": [
+     "Hafsa",
+     "Ankita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Affection and connection",
+   "subtype": "Saying I love you and drawing [Expressing]",
+   "description": "A preschooler says I love you, draws a picture for a caregiver or gives gifts to show love. Words may come easily and mean strong feelings in the moment, not fixed promises.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2264,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Manoj",
+     "Charu"
+    ],
+    "4": [
+     "Dhruv",
+     "Usha"
+    ],
+    "5": [
+     "Esther",
+     "Alejandro"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Praising and admiring a friend [Expressing]",
+   "description": "A preschooler says \"You draw so good!\" or copies a friend's game as admiration. Praise is usually honest but tied to the moment; it can flip to rivalry when the child feels left out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2265,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Disha",
+     "Divyansh"
+    ],
+    "4": [
+     "Vishal",
+     "Preeti"
+    ],
+    "5": [
+     "Wasim",
+     "Gopika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appreciation and recognition",
+   "subtype": "Reading praise from adults [Interpreting]",
+   "description": "A young child reads praise mainly by tone and smile and may not separate effort from ability. \"Good job\" said flatly can feel empty, while specific words about what was done land better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2266,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Vikas",
+     "Chetan"
+    ],
+    "4": [
+     "Damini",
+     "Bhavna"
+    ],
+    "5": [
+     "Sachin",
+     "Damini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Accepting comfort from a trusted adult [Regulating]",
+   "description": "A young child uses hugs, a lap, and calm words to settle after a fright. Being helped to name the feeling (\"You were scared\") supports later self-soothing, whereas \"Stop crying\" teaches hiding it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, sadness, fear, calm"
+   ]
+  },
+  {
+   "sno": 2267,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Tejas",
+     "Irawati"
+    ],
+    "4": [
+     "Lokesh",
+     "Santosh"
+    ],
+    "5": [
+     "Nitin",
+     "Uday"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Simple reassurance from a child [Expressing]",
+   "description": "A preschooler says \"Don't cry, I'm here\" or shares a toy with a sad friend. The comfort is sincere but concrete, and the child may not yet know when a person wants space rather than help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 2268,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Seema"
+    ],
+    "4": [
+     "Sunaina",
+     "Wasim"
+    ],
+    "5": [
+     "Deepak",
+     "Vandana"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Reading whether an apology is meant [Interpreting]",
+   "description": "A young child judges sincerity by tone, eye contact and whether the other child stops the behaviour. Children this age may accept any \"sorry\" at face value and need adults to help check whether repair happened.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2269,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Lalremsiami",
+     "Ishita"
+    ],
+    "4": [
+     "Gopika",
+     "Divyansh"
+    ],
+    "5": [
+     "Hafsa",
+     "Gargi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Saying sorry without full understanding [Expressing]",
+   "description": "A preschooler says \"sorry\" quickly to end a conflict. Learning what the word means, who was hurt and how to fix it matters more than a forced ritual apology.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2270,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Uday",
+     "Lavanya"
+    ],
+    "4": [
+     "Farhan",
+     "Raghav"
+    ],
+    "5": [
+     "Lavanya",
+     "Minakshi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Naming wants and physical states [Expressing]",
+   "description": "A preschooler says \"I'm hungry\", \"my tummy hurts\" or \"I'm sleepy\", often mixing feelings and body sensations. Adults can ask where it hurts and take pain reports seriously, while noticing tiredness can appear as irritability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 2271,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Nitin",
+     "Uma"
+    ],
+    "4": [
+     "Jasleen",
+     "Yamini"
+    ],
+    "5": [
+     "Omkar",
+     "Rafiq"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Reading a child's unmet need behind behaviour [Interpreting]",
+   "description": "An adult reading a cranky or clingy child considers hunger, tiredness, discomfort, overstimulation or worry. Guessing is provisional; asking simple choices helps confirm what the child needs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, tiredness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1688,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Yamini"
+    ],
+    "3": [
+     "Vaibhav",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Coercion [Receiver]",
+   "description": "My partner controls all the money and gives me an allowance or demands I hand over my salary. This is a warning sign of financial control. I seek shared access to accounts, talk with trusted family or a counsellor, and protect my independence.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, deceit, dependence, indebtedness, resentment",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1689,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Yash",
+     "Sabina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Indebtedness [Actor]",
+   "description": "I feel I owe my partner because they backed my career or paid for my studies. Gratitude is healthy; I show it through respect and reciprocity, not by giving up my voice or letting the debt become a leash.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, deceit, dependence, resentment",
+    "related mind states: gratitude, admiration"
+   ]
+  },
+  {
+   "sno": 1690,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Nitin"
+    ],
+    "3": [
+     "Abhinav",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Money disagreement with partner",
+   "subtype": "Spouse × Dependence [Receiver]",
+   "description": "My partner depends on me financially and I feel both protective and burdened. I talk openly about shared goals and their route to independence, without shaming them or using money as leverage.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, deceit, indebtedness, resentment"
+   ]
+  },
+  {
+   "sno": 1691,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Yash",
+     "Francis"
+    ],
+    "3": [
+     "Naveen",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Consent & respect [Actor]",
+   "description": "I want closeness with my partner but they are tired or unsure. Real intimacy means asking, listening to a no without sulking, and understanding that willingness must be free; pressure or guilt-tripping is not love.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, trust",
+    "paired view exists: Receiver (S1692)",
+    "related mind states: affection, admiration, guilt, tiredness"
+   ]
+  },
+  {
+   "sno": 1692,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Saurabh",
+     "Francis"
+    ],
+    "3": [
+     "Ganga",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Consent & respect [Receiver]",
+   "description": "I am not in the mood or not ready and I fear disappointing my partner. My comfort matters equally; I can say no kindly and clearly, and a caring partner respects it. Repeated pressure is a warning sign to speak to someone trusted.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, trust",
+    "paired view exists: Actor (S1691)",
+    "related mind states: admiration, disappointment, fear, trust"
+   ]
+  },
+  {
+   "sno": 1693,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Chaitanya"
+    ],
+    "3": [
+     "Payal",
+     "Gautam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Emotional distance [Actor]",
+   "description": "I withdraw from my partner after work stress and cannot say why. I name that I am overwhelmed, not that they did something wrong, and offer a small time to reconnect; unspoken withdrawal is felt as rejection.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, respect, trust",
+    "paired view exists: Receiver (S1694)",
+    "related mind states: detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 1694,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Sangeeta"
+    ],
+    "3": [
+     "Gautam",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Emotional distance [Receiver]",
+   "description": "My partner feels far away and I feel lonely and rejected. I say what I miss without accusing, ask what is happening for them, and invite small rituals of connection, not push for constant reassurance.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, respect, trust",
+    "paired view exists: Actor (S1693)",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 1695,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Anand"
+    ],
+    "3": [
+     "Vandana",
+     "Jeevan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Vulnerability & trust [Actor]",
+   "description": "I want to share a deep fear or past shame with my partner but dread judgment. Trust grows in small disclosures met with kindness; I share at a pace I choose and notice whether they hold it with care.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, respect",
+    "paired view exists: Receiver (S1696)",
+    "related mind states: fear, shame, trust"
+   ]
+  },
+  {
+   "sno": 1696,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Arohi"
+    ],
+    "3": [
+     "Pallavi",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Partner × Vulnerability & trust [Receiver]",
+   "description": "My partner has confided something painful and I feel honoured and unsure what to say. I listen without fixing, judging, or repeating it to others; keeping their confidence is what makes further openness safe.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, respect",
+    "paired view exists: Actor (S1695)",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 1697,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Shreya"
+    ],
+    "3": [
+     "Chidi",
+     "Wei"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Intimacy and emotional boundaries",
+   "subtype": "Ex × Emotional boundary with partner [Actor]",
+   "description": "I still chat with an ex and my partner is uneasy. I ask honestly what the contact gives me and what it costs them, and choose transparency or distance; hiding it or calling their feelings silly damages trust.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, respect, trust",
+    "related mind states: playfulness, anxiety, trust"
+   ]
+  }
+ ]
+}

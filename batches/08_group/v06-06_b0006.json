@@ -1,0 +1,213 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3399,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Minakshi",
+     "Swati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Overloaded high performer [Receiver]",
+   "description": "A dependable colleague is given extra work because they will always deliver, while others coast. They feel used, but often also proud of being needed, a mixed state.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 3400,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Jaya",
+     "Jomon"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Manager noticing uneven effort [Observer]",
+   "description": "A manager sees one person doing heavy lifting and another barely contributing. Ignoring it rewards loafing and burns out the reliable, so it needs a fair, private conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3401,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Sachin",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Social loafing and free riders",
+   "subtype": "Redefining fair contribution [Response]",
+   "description": "A team agrees openly what fair effort looks like and tracks it simply. Fairness discussed early avoids a slow-burning resentment later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3402,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Anjali",
+     "Rekha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Us versus them in play [Actor]",
+   "description": "Children given different coloured bands or groups quickly favour their own side and dismiss the other. The bias forms even when the groups mean nothing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3403,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Favouring own class or house [Actor]",
+   "description": "A child cheers only for their own house, section or street, and downplays rivals. Belonging is exciting, and the other side becomes a little less human.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: excitement, nostalgia"
+   ]
+  },
+  {
+   "sno": 3404,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Yash",
+     "Lavanya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Left out for being from elsewhere [Receiver]",
+   "description": "A new child from another city, language or community finds the groups already formed. They feel watchful and a bit invisible, and often wait for one kind gesture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3405,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Thomas",
+     "Saurabh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Stereotyping the other group [Actor]",
+   "description": "A teenager describes people from another school, neighbourhood or community with sweeping labels. The group's approval rewards the joke, so the label spreads without being examined.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 3406,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Rafiq",
+     "Shreya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Excluded on identity grounds [Receiver]",
+   "description": "A teenager is left out because of their religion, caste, class, language or looks. They feel a mix of anger, shame and a wish to hide their identity to be accepted.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger, shame"
+   ]
+  },
+  {
+   "sno": 3407,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Vijay",
+     "Manoj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Meeting the individual behind the label [Response]",
+   "description": "A teenager gets to know a person from a disliked group through shared work or sport. Cooperation toward a common goal is the strongest known way to soften group bias.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3408,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Mohit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "In-group and out-group bias",
+   "subtype": "Seeing own faults as exceptions [Actor]",
+   "description": "A young adult sees a bad act by their own group as an individual mistake but a similar act by another group as typical. The double standard feels natural and goes unnoticed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  }
+ ]
+}

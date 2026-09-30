@@ -1,0 +1,334 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3128,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Ojas"
+    ],
+    "4": [
+     "Irfan",
+     "Shalini"
+    ],
+    "5": [
+     "Parveen",
+     "Vikas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 5: Mediated conversation [Response]",
+   "description": "The manager sees them separately, then together, asking each for facts, impact and what they need. Focusing on the work problem and the future, not on character, allows real listening.",
+   "graph_context": [
+    "previous stage: Open clash",
+    "next stage: Clear agreements and follow-through",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3129,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Zainab"
+    ],
+    "4": [
+     "Maria",
+     "Anand"
+    ],
+    "5": [
+     "Parveen",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Workplace conflict arc",
+   "subtype": "Stage 6: Clear agreements and follow-through [Response]",
+   "description": "They agree on who owns what, how credit is shared and how to raise concerns early. Both check in after a month, and the conflict serves as a lesson in speaking up sooner.",
+   "graph_context": [
+    "previous stage: Mediated conversation",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3130,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Jyoti",
+     "Deepika"
+    ],
+    "4": [
+     "Nikita",
+     "Jeevan"
+    ],
+    "5": [
+     "Sabina",
+     "Nandini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 1: An ambiguous message [Actor]",
+   "description": "A teenager sends \"fine, whatever\" after a friend cancels plans, meaning only mild disappointment. Without tone of voice or face, short words are easy to read as anger.",
+   "graph_context": [
+    "next stage: The receiver fills the gap",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: disappointment, anger"
+   ]
+  },
+  {
+   "sno": 3131,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Madhav"
+    ],
+    "4": [
+     "Shreya",
+     "Bhavna"
+    ],
+    "5": [
+     "Pallavi",
+     "Devika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 2: The receiver fills the gap [Receiver]",
+   "description": "The friend reads coldness and thinks \"she is furious at me.\" Uncertainty is uncomfortable, so the mind supplies the worst explanation and treats it as fact.",
+   "graph_context": [
+    "previous stage: An ambiguous message",
+    "next stage: A defensive reply",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3132,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Nirmala"
+    ],
+    "4": [
+     "Deepak",
+     "Usha"
+    ],
+    "5": [
+     "Chinmay",
+     "Baljeet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 3: A defensive reply [Receiver]",
+   "description": "He sends a curt \"ok, sorry I have a life too\", which sounds like an attack. The first sender now feels truly hurt, and the misreading gets a real reason to exist.",
+   "graph_context": [
+    "previous stage: The receiver fills the gap",
+    "next stage: Screenshots and outside opinions",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3133,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Zainab"
+    ],
+    "4": [
+     "Ankita",
+     "Vijay"
+    ],
+    "5": [
+     "Farida",
+     "Rekha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 4: Screenshots and outside opinions [Observer]",
+   "description": "Each shows the chat to friends who say \"that is rude\" and take sides. Advice from people who only hear one version firms up the conflict and adds new grievances.",
+   "graph_context": [
+    "previous stage: A defensive reply",
+    "next stage: Moving to voice",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3134,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Karthik",
+     "Kamal"
+    ],
+    "4": [
+     "Urmila",
+     "Anand"
+    ],
+    "5": [
+     "Jahnavi",
+     "Sunaina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 5: Moving to voice [Response]",
+   "description": "One says \"Can I call you? I think we misunderstood each other.\" Hearing a tone of voice usually dissolves half of the hurt within minutes, and laughter often follows.",
+   "graph_context": [
+    "previous stage: Screenshots and outside opinions",
+    "next stage: A habit for next time",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 3135,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Jasleen",
+     "Sumit"
+    ],
+    "4": [
+     "Nazia",
+     "Deepak"
+    ],
+    "5": [
+     "Mehak",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 6: A habit for next time [Response]",
+   "description": "They agree to ask \"what did you mean?\" before reacting and to call when something feels off. They learn that a text is only words on a screen, and that a pause is better than a quick reply when hurt.",
+   "graph_context": [
+    "previous stage: Moving to voice",
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3136,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Hemant",
+     "Eshaan"
+    ],
+    "4": [
+     "Vasudha",
+     "Afreen"
+    ],
+    "5": [
+     "Disha",
+     "Vidya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 1: A terse message in a busy hour [Actor]",
+   "description": "A husband, in a meeting, texts \"will be late, don't wait\" and forgets to add that a friend is unwell. His wife receives it, already tired from her own day, as one more sign of being unimportant.",
+   "graph_context": [
+    "next stage: Interpretation through old hurts",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 3137,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Siddharth"
+    ],
+    "4": [
+     "Hansa",
+     "Keerthana"
+    ],
+    "5": [
+     "Jahnavi",
+     "Reena"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "A misunderstanding snowballing over text",
+   "subtype": "Stage 2: Interpretation through old hurts [Receiver]",
+   "description": "She recalls other late nights and reads the text as a pattern. Old grievances colour a neutral message, and the actual sentence matters less than the story she attaches to it.",
+   "graph_context": [
+    "previous stage: A terse message in a busy hour",
+    "next stage: A cold reply, a colder one",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: grief, hurt"
+   ]
+  }
+ ]
+}

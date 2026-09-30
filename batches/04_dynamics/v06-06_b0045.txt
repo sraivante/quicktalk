@@ -1,0 +1,21 @@
+STAGE: dynamics
+Variant ids in this batch: 6 (1 per row). Rows in this batch: 1. Expected records: 1.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+
+STAGE INSTRUCTIONS
+Rows are one STAGE of a longer arc (see "Stage k: name" in the subtype). The passage must make the stage recognisable by its cues and hint at what came before, without narrating the whole arc. The application question asks what turning point or intervention is available at this stage. The perspective question asks what the other person in the arc is experiencing now. For addiction, extremism, scams, grief, burnout and self-harm-adjacent arcs, focus on recognition and support, no methods.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3348, "plan": {"6": "R6"}, "cast": {"6": ["Raghav", "Rashmi"]}, "age": "23–26", "topic": "Interaction Dynamics", "subtopic": "Relocation adjustment", "subtype": "Stage 2: Logistics and small frustrations [Observer]", "description": "A local colleague sees a newcomer struggle with the flat, food and language and offers a lunch, a tip and a weekend invitation. Small local kindnesses shorten the hardest weeks more than grand welcomes.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: anger"]}
+
+Return exactly 1 JSON Lines and nothing else.

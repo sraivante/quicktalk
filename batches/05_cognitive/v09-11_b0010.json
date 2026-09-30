@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3660,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Minakshi",
+     "Ayesha"
+    ],
+    "10": [
+     "Mei",
+     "Felix"
+    ],
+    "11": [
+     "Vidya",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Bandwagon effect",
+   "subtype": "Trends and peer choices [Actor]",
+   "description": "A teenager follows a trend, a stream of study or a risky challenge because many peers do, and feels anxious about standing out.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3661,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Rajni",
+     "Siddharth"
+    ],
+    "10": [
+     "Jatin",
+     "Salma"
+    ],
+    "11": [
+     "Lalit",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Bandwagon effect",
+   "subtype": "Herd decisions [Actor]",
+   "description": "A young adult invests, votes for or joins something because it is popular and assumes many people cannot be wrong. Popularity is treated as evidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3662,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Irawati",
+     "Trisha"
+    ],
+    "10": [
+     "Elizabeth",
+     "Trisha"
+    ],
+    "11": [
+     "Kalyani",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Bandwagon effect",
+   "subtype": "Independent yet connected [Response]",
+   "description": "A mature person asks why she wants it and what she would choose if nobody knew, then joins the crowd or leaves it deliberately.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3663,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Tenzin",
+     "Omkar"
+    ],
+    "10": [
+     "Amandeep",
+     "Rukmini"
+    ],
+    "11": [
+     "Gautam",
+     "Uday"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Authority bias",
+   "subtype": "Teacher or elder is always right [Actor]",
+   "description": "A child accepts anything a teacher or elder says, even when a fact contradicts it, and feels afraid to question. Respect and fear are blended together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: admiration, fear"
+   ]
+  },
+  {
+   "sno": 3664,
+   "plan": {
+    "9": "R11",
+    "10": "R13",
+    "11": "R14"
+   },
+   "cast": {
+    "9": [
+     "Santosh",
+     "Pranav"
+    ],
+    "10": [
+     "Tanuja",
+     "Pranav"
+    ],
+    "11": [
+     "Vasudha",
+     "Irfan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Authority bias",
+   "subtype": "Questioning and obeying [Actor]",
+   "description": "A teenager weighs whether to trust a parent, coach or influencer who sounds sure. Learning that titles do not guarantee truth begins here, awkwardly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: embarrassment, trust"
+   ]
+  },
+  {
+   "sno": 3665,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Gopika",
+     "Raghav"
+    ],
+    "10": [
+     "Mahima",
+     "Yusuf"
+    ],
+    "11": [
+     "Neelam",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Authority bias",
+   "subtype": "Following the senior's instruction [Actor]",
+   "description": "A young trainee follows a senior's unsafe or unethical instruction because refusing feels disrespectful. Culture of hierarchy can make polite objection feel impossible.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 3666,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Arohi",
+     "Jyoti"
+    ],
+    "10": [
+     "Daniel",
+     "Noa"
+    ],
+    "11": [
+     "Pradeep",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Authority bias",
+   "subtype": "Respectful challenge [Response]",
+   "description": "A confident professional asks how a claim was reached, offers evidence politely, and separates respect for the person from agreeing with the idea.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 3667,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Siddharth",
+     "Francis"
+    ],
+    "10": [
+     "Vikas",
+     "Lakshmi"
+    ],
+    "11": [
+     "Kaito",
+     "Beatriz"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Authority bias",
+   "subtype": "Subordinates silent [Observer]",
+   "description": "A leader notices staff never disagree in meetings and realises his title mutes them. He invites dissent early and thanks people who bring bad news.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: gratitude"
+   ]
+  },
+  {
+   "sno": 3668,
+   "plan": {
+    "9": "R15+T1",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Lokesh",
+     "Ganga"
+    ],
+    "10": [
+     "Thomas",
+     "Vijay"
+    ],
+    "11": [
+     "Pema",
+     "Noor"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "In-group favouritism",
+   "subtype": "My friends are the good ones [Actor]",
+   "description": "A child shares more with his own group and says the other class is bad. Even arbitrary teams quickly feel like us and them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3669,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Siddiq",
+     "Amara"
+    ],
+    "10": [
+     "Nitin",
+     "Lalit"
+    ],
+    "11": [
+     "Karthik",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "In-group favouritism",
+   "subtype": "Teams and houses [Actor]",
+   "description": "A schoolchild cheers his own house unfairly and excuses its fouls while calling the same acts cheating from others. Belonging feels good and bends fairness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: nostalgia"
+   ]
+  }
+ ]
+}

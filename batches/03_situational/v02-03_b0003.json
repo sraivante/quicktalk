@@ -1,0 +1,264 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 338,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Mahima"
+    ],
+    "3": [
+     "Afreen",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Rule dispute in a game",
+   "subtype": "Friend × Argument",
+   "description": "Both claim to be right; a mature approach is to state own view, hear the other, and agree on a rule or ask a fair referee rather than quitting or cheating."
+  },
+  {
+   "sno": 339,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Liam",
+     "Siddiq"
+    ],
+    "3": [
+     "Hafsa",
+     "Harsha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Rule dispute in a game",
+   "subtype": "Friend × Compromise",
+   "description": "Gives in on a small point to keep the game going and the friendship warm; understands that friendship matters more than winning.",
+   "graph_context": [
+    "same situation, other stances at this age: argument"
+   ]
+  },
+  {
+   "sno": 340,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Ankita"
+    ],
+    "3": [
+     "Francis",
+     "Nirmala"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Rule dispute in a game",
+   "subtype": "Rival × Hostility",
+   "description": "Sees the winner as an enemy and taunts; learning to separate the game from the person prevents grudges.",
+   "graph_context": [
+    "same situation, other stances at this age: argument",
+    "related mind states: hostility, resentment"
+   ]
+  },
+  {
+   "sno": 341,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Ujjwal",
+     "Anjali"
+    ],
+    "3": [
+     "Irfan",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Classmate wins the prize",
+   "subtype": "Best friend × Envy",
+   "description": "Feels a sting of jealousy and pride at the same time; a healthy response is to congratulate and use it as a signal to practice more.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration",
+    "related mind states: pride, envy, jealousy"
+   ]
+  },
+  {
+   "sno": 342,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Joseph",
+     "Salma"
+    ],
+    "3": [
+     "Sabina",
+     "Swati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Classmate wins the prize",
+   "subtype": "Rival × Envy & resentment",
+   "description": "Believes the win was unfair and spreads gossip; learns that resentment hurts the holder more than the winner.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration",
+    "related mind states: envy, resentment, hurt"
+   ]
+  },
+  {
+   "sno": 343,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Chen",
+     "Beatriz"
+    ],
+    "3": [
+     "Rukmini",
+     "Eshaan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Classmate wins the prize",
+   "subtype": "Classmate × Admiration",
+   "description": "Studies how the winner practised and asks for tips, converting admiration into a role model.",
+   "graph_context": [
+    "same situation, other stances at this age: envy",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 344,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sudha",
+     "Kiran"
+    ],
+    "3": [
+     "Vaibhav",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher gives feedback",
+   "subtype": "Teacher × Respect & admiration",
+   "description": "Treats feedback as guidance, asks a follow-up question and applies it; respect includes honest disagreement, not blind obedience.",
+   "graph_context": [
+    "same situation, other stances at this age: resentment",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 345,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Vaibhav"
+    ],
+    "3": [
+     "Afreen",
+     "Manjula"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Teacher gives feedback",
+   "subtype": "Teacher × Resentment",
+   "description": "Believes the teacher dislikes them and stops trying; learning to separate the feedback from the person keeps progress alive.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 346,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Urmila"
+    ],
+    "3": [
+     "Preeti",
+     "Kiran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Elder gives advice",
+   "subtype": "Grandparent × Respect",
+   "description": "Listens without interrupting, values lived experience and still asks \"why?\" politely; respect and curiosity coexist.",
+   "graph_context": [
+    "same situation, other stances at this age: anger",
+    "related mind states: admiration, curiosity"
+   ]
+  },
+  {
+   "sno": 347,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Neelam"
+    ],
+    "3": [
+     "Rafiq",
+     "Tarun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Elder gives advice",
+   "subtype": "Parent × Irritation",
+   "description": "Feels lectured and rolls eyes; learns to say \"I heard you, let me try my way\" rather than sulking or shouting.",
+   "graph_context": [
+    "same situation, other stances at this age: respect",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

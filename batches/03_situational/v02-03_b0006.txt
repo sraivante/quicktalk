@@ -1,0 +1,40 @@
+STAGE: situational
+Variant ids in this batch: 2, 3 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are one cell of a situation x counterpart x stance grid. Subtype reads "Counterpart × Stance [Actor|Receiver]" (older rows without a tag are the Actor view). Show that exact counterpart and stance in the situation named by the subtopic. Mixed feelings are welcome. Hatred, contempt, obsession, manipulation and coercion rows teach recognition, understanding of what drives them, protection and de-escalation; never give tactics. The perspective question should ask how the counterpart sees the moment.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 368, "plan": {"2": "R8", "3": "R9"}, "cast": {"2": ["Emil", "Xin"], "3": ["Rukmini", "Rekha"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Friend betrays a secret", "subtype": "Best friend × Grief", "description": "Mourns the loss of the friendship; naming the grief helps rather than pretending not to care.", "graph_context": ["same situation, other stances at this age: betrayal, deceit, disillusionment, forgiveness, hatred, shame", "related mind states: grief"]}
+{"sno": 369, "plan": {"2": "R2", "3": "R3"}, "cast": {"2": ["Ayesha", "Santosh"], "3": ["Kavitha", "Ira"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Teacher seems unfair", "subtype": "Teacher × Dissent", "description": "Raises the concern politely with evidence, or goes through a proper channel; disrespect and silence both fail.", "graph_context": ["same situation, other stances at this age: admiration, favouritism, fear, forgiveness, gratitude, humiliation", "related mind states: admiration"]}
+{"sno": 370, "plan": {"2": "R6", "3": "R7"}, "cast": {"2": ["Dilnaz", "Leela"], "3": ["Sharmila", "Sangeeta"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Admiring a celebrity or leader", "subtype": "Idol × Worship", "description": "Treats the idol as flawless and defends every act; healthy admiration keeps the ability to disagree and see the person as human.", "graph_context": ["same situation, other stances at this age: awe, disillusionment, envy, exploitation, hatred, loyalty", "related mind states: admiration"]}
+{"sno": 371, "plan": {"2": "R5", "3": "R6"}, "cast": {"2": ["Zeenat", "Dolma"], "3": ["Neelam", "Wasim"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Admiring a celebrity or leader", "subtype": "Idol × Disillusionment", "description": "Feels crushed when the idol turns out to be flawed; learns to keep the ideas and drop the idolisation.", "graph_context": ["same situation, other stances at this age: awe, envy, exploitation, hatred, loyalty, worship"]}
+{"sno": 372, "plan": {"2": "R9", "3": "R10"}, "cast": {"2": ["Sachin", "Usha"], "3": ["Neelam", "Jyoti"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Competing for a place", "subtype": "Rival × Competition", "description": "Trains harder and treats the rival as a benchmark, competing without sabotaging or spreading rumours.", "graph_context": ["same situation, other stances at this age: hatred"]}
+{"sno": 373, "plan": {"2": "R7", "3": "R8"}, "cast": {"2": ["Jeevan", "Zeenat"], "3": ["Leila", "Nkechi"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Competing for a place", "subtype": "Rival × Hatred & sabotage", "description": "Fixates on defeating the rival, losing sleep and focus; recognises that obsession drains energy from own growth.", "graph_context": ["same situation, other stances at this age: rivalry"]}
+{"sno": 374, "plan": {"2": "R7", "3": "R8"}, "cast": {"2": ["Farhan", "Avni"], "3": ["Javier", "Jamal"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Group chat argument", "subtype": "Peer group × Public shaming", "description": "Sees a pile-on against one person; choices are to join, stay silent or defend, and courage means at least messaging the target privately.", "graph_context": ["same situation, other stances at this age: anger, fear, mockery"]}
+{"sno": 375, "plan": {"2": "R3", "3": "R4"}, "cast": {"2": ["Manjula", "Sabina"], "3": ["Hrithik", "Preeti"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Group chat argument", "subtype": "Online stranger × Provocation", "description": "Gets baited into a heated reply; learns not to feed trolls, to mute or block, and to sleep before responding.", "graph_context": ["same situation, other stances at this age: anger, fear, mockery", "related mind states: anger"]}
+{"sno": 376, "plan": {"2": "R9", "3": "R10"}, "cast": {"2": ["Deepika", "Hrithik"], "3": ["Anirban", "Kishore"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Questioning family faith", "subtype": "God × Doubt", "description": "Asks hard questions about religion and feels guilty; doubt is a normal part of building conviction, and honest questioning can lead to deeper faith or reasoned change.", "graph_context": ["same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection", "related mind states: guilt, doubt"]}
+{"sno": 377, "plan": {"2": "R12", "3": "R13"}, "cast": {"2": ["Aditi", "Ankita"], "3": ["Mahima", "Aparna"]}, "age": "13–17", "topic": "Situational Awareness", "subtopic": "Questioning family faith", "subtype": "God × Devotion", "description": "Deepens practice through prayer, meditation or service and feels steadied by it; devotion works best when it makes one kinder, not more contemptuous of others.", "graph_context": ["same situation, other stances at this age: acceptance, affection, anger, argument, fear, rejection", "related mind states: contempt"]}
+
+Return exactly 20 JSON Lines and nothing else.

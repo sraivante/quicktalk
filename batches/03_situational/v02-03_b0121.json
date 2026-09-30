@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1518,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Pradeep"
+    ],
+    "3": [
+     "Vandana",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Negotiating salary or offer",
+   "subtype": "Recruiter × Manipulation [Receiver]",
+   "description": "The recruiter says \"we have many candidates, sign today\". I feel rushed and pressured. Wise: real offers survive a day; ask for the terms in writing and time to read them before deciding.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, pride, rivalry, trust"
+   ]
+  },
+  {
+   "sno": 1519,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Lavanya"
+    ],
+    "3": [
+     "Sarita",
+     "Darshan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Negotiating salary or offer",
+   "subtype": "Employer × Pride [Actor]",
+   "description": "I am tempted to inflate my previous salary to bargain harder. Wise: honesty is safer since verification is common, and I can anchor on the market value of my skills instead. Harmful: a lie that can void the offer later.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, manipulation, rivalry, trust",
+    "related mind states: pride, trust"
+   ]
+  },
+  {
+   "sno": 1520,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Urmila"
+    ],
+    "3": [
+     "Darshan",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Negotiating salary or offer",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "Asking for money makes me feel greedy, as if I was taught that good people never ask. Wise: negotiation is a normal, respectful conversation; asking is not a moral failing. Harmful: silent resentment later.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, manipulation, pride, rivalry, trust",
+    "related mind states: admiration, guilt, resentment"
+   ]
+  },
+  {
+   "sno": 1521,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Shankar"
+    ],
+    "3": [
+     "Avni",
+     "Dilnaz"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Negotiating salary or offer",
+   "subtype": "Employer × Trust [Receiver]",
+   "description": "The manager is candid about the budget and offers learning and a review in six months. I feel respected. Wise: weigh the whole package, get the review promise written, and thank them. Harmful: treating a friendly tone as a guarantee.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, manipulation, pride, rivalry",
+    "related mind states: gratitude, admiration, trust"
+   ]
+  },
+  {
+   "sno": 1522,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Yogesh"
+    ],
+    "3": [
+     "Karthik",
+     "Elizabeth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Negotiating salary or offer",
+   "subtype": "Friend × Rivalry [Actor]",
+   "description": "My friend got a higher package for the same role, and I compare and stew. Wise: numbers hide bonuses and roles; use it as data for my own negotiation, not for friendship damage. Harmful: coldness or sulking.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, guilt, manipulation, pride, trust",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 1523,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Francis",
+     "Harsha"
+    ],
+    "3": [
+     "Ojas",
+     "Uday"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Asked to cut corners",
+   "subtype": "Boss × Coercion [Receiver]",
+   "description": "My boss tells me to backdate a document \"just this once\" because everyone does. My heart races. Wise: say I am not comfortable, offer a proper alternative, and keep a record. Harmful: complying and calling it obedience.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, fear, guilt, loyalty, manipulation"
+   ]
+  },
+  {
+   "sno": 1524,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Yogesh",
+     "Preeti"
+    ],
+    "3": [
+     "Jomon",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Asked to cut corners",
+   "subtype": "Colleague × Loyalty [Actor]",
+   "description": "A friendly colleague asks me to keep quiet about his shortcut. Loyalty and honesty collide. Wise: urge him to fix it first, and be clear that I cannot lie for him. Harmful: joining the silence until it becomes my problem.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, guilt, manipulation"
+   ]
+  },
+  {
+   "sno": 1525,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Vasudha"
+    ],
+    "3": [
+     "Dhruv",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Asked to cut corners",
+   "subtype": "Boss × Fear [Actor]",
+   "description": "I fear that refusing will cost my probation and my family's income. The fear is real. Wise: check what protection exists, refuse in a calm way, and weigh consequences honestly. Harmful: pretending I had no choice.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, guilt, loyalty, manipulation",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 1526,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Divyansh"
+    ],
+    "3": [
+     "Sarita",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Asked to cut corners",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I copied a result to meet a deadline and cannot sleep. Guilt is a signal. Wise: correct it, admit it early to the right person, and learn from the pressure that led there. Harmful: burying it and hoping nobody checks.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, loyalty, manipulation",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 1527,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Ganga"
+    ],
+    "3": [
+     "Divyansh",
+     "Neelam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Asked to cut corners",
+   "subtype": "Client × Manipulation [Receiver]",
+   "description": "A client hints at a gift if I speed up his file \"quietly\". I feel flattered and unsafe. Wise: refuse clearly, report per policy, and treat small favours as the start of a larger hold on me.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, contempt, fear, guilt, loyalty",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

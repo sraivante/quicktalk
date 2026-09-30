@@ -1,0 +1,195 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 4110,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Tarun",
+     "Mohit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Worry",
+   "subtype": "Worry time and action steps [Response]",
+   "description": "An adult sets a fifteen-minute window to write worries, marks which are solvable and acts on one and lets the rest go to the window; the split separates useful planning from endless spinning.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4111,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Damini",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Bouncing back with support [Response]",
+   "description": "A child who lost a game cries, is comforted and then tries again; resilience begins with a warm relationship that makes hard feelings safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4112,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Bhavna",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Naming feelings [Response]",
+   "description": "A teenager who says they are disappointed and embarrassed instead of claiming to be fine gets through the moment more quickly; putting words to feelings settles the mind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: disappointment, embarrassment"
+   ]
+  },
+  {
+   "sno": 4113,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Gargi",
+     "Sangeeta"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Reaching for a trusted person [Response]",
+   "description": "A teenager who is struggling tells a friend, cousin or teacher and does not hide it; connection is one of the most reliable protectors during hard times.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4114,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Chetan",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Reframing without denying [Response]",
+   "description": "A student who failed a paper acknowledges the disappointment, then asks what it tells them about preparation; the reframe keeps honesty and opens options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 4115,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Nirmala",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Sleep, movement and routine [Response]",
+   "description": "A young adult under stress keeps sleep, meals and a walk steady even when motivation is low; body basics support coping, and severe or lasting distress calls for a doctor or counsellor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4116,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Alka",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Problem solving one piece at a time [Response]",
+   "description": "An adult facing a job loss lists tasks, picks the first and does it; breaking a huge threat into steps restores a sense of control.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4117,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Elizabeth",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Meaning and perspective in hardship [Response]",
+   "description": "An adult who has lost a loved one finds comfort in ritual, faith or community, or in helping others; making sense of suffering does not remove it but can make it bearable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4118,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Samir",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Resilience skills",
+   "subtype": "Recognising the limit and asking for help [Response]",
+   "description": "An adult who realises they are not coping tells their family and seeks a qualified professional; asking for help is a skill and a sign of good judgement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 4100,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Farhan",
+     "Tanuja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Good enough and then improve [Response]",
+   "description": "A student sets a time limit, submits a solid version and notes what to improve next time; aiming for excellence with flexibility keeps the gains of high standards without the paralysis.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4101,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Vidya",
+     "Mohit"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Perfectionism at work [Actor]",
+   "description": "An adult polishes every report and delays delivery, while colleagues take the credit for speed; high standards help, but rigid ones cost time, rest and relationships.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4102,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Shreya",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Perfectionism",
+   "subtype": "Seeing the strain [Observer]",
+   "description": "A friend notices someone cancel plans and lose sleep over tiny flaws in their work and offers to review it as a good enough draft; company can make imperfection feel survivable.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4103,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Aparna",
+     "Damini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rumination",
+   "subtype": "Replaying a social mistake [Actor]",
+   "description": "A teenager who said something awkward at a party replays it for days and imagines everyone still thinking of it; repetition feels like problem solving but deepens the sting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 4104,
+   "plan": {
+    "15": "R5+T1"
+   },
+   "cast": {
+    "15": [
+     "Jasleen",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rumination",
+   "subtype": "Why did this happen loop [Actor]",
+   "description": "A student who failed a paper asks over and over why it happened and what it says about them without arriving at any plan; thinking about causes without action keeps the mood low.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4105,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Salma",
+     "Sarika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rumination",
+   "subtype": "Friend joining the loop [Observer]",
+   "description": "A friend who keeps rehashing a disappointment with the same person notices the talk gives no relief; the friend gently asks what small step might help now.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: disappointment, relief"
+   ]
+  },
+  {
+   "sno": 4106,
+   "plan": {
+    "15": "R7"
+   },
+   "cast": {
+    "15": [
+     "Alka",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Rumination",
+   "subtype": "Breaking the loop [Response]",
+   "description": "An adult who notices they are ruminating writes the thought down, sets a short time for it and then does something absorbing such as walking or cooking; if it becomes constant or dark, professional help is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4107,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Jana",
+     "Esther"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Worry",
+   "subtype": "Night-time what ifs [Actor]",
+   "description": "A child lying in bed wonders what if they fail or something happens to their mother; worry tries to prepare for danger but mostly manufactures alarms, and a calm routine and reassurance help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger, anxiety, curiosity, calm"
+   ]
+  },
+  {
+   "sno": 4108,
+   "plan": {
+    "15": "R10+T1"
+   },
+   "cast": {
+    "15": [
+     "Gurleen",
+     "Jagdish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Worry",
+   "subtype": "Worrying about exams and future [Actor]",
+   "description": "A teenager thinks of every possible way an exam could go wrong and can barely start studying; worry feels like responsibility, though it often replaces action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 4109,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Disha",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Worry",
+   "subtype": "Worry that spreads to family [Receiver]",
+   "description": "A younger sibling of an anxious student picks up the tension and starts checking things too; anxious households pass on vigilance, and clear routines and honest talk lighten it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  }
+ ]
+}

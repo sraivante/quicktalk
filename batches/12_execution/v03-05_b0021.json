@@ -1,0 +1,133 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5192,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Ulla",
+     "Oskar"
+    ],
+    "4": [
+     "Ayesha",
+     "Vikas"
+    ],
+    "5": [
+     "Saurabh",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Ordered to bend the rules [Receiver]",
+   "description": "A junior employee asked by a superior to backdate, hide an error or skip a required check feels caught between loyalty, fear and conscience. Career risk is real, which is why many comply and later regret it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, regret"
+   ]
+  },
+  {
+   "sno": 5193,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Imran",
+     "Jeevan"
+    ],
+    "4": [
+     "Zainab",
+     "Jagdish"
+    ],
+    "5": [
+     "Chidi",
+     "Elif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Colleague who notices wrongdoing [Observer]",
+   "description": "A coworker sees a questionable practice and stays silent, unsure whether it is their business and fearing the cost of speaking up. Silence is easier in the moment, and most people admit later that they wish they had asked a question.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5194,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Tenzin"
+    ],
+    "4": [
+     "Zeenat",
+     "Anjali"
+    ],
+    "5": [
+     "Kofi",
+     "Wanjiru"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Raising a concern safely [Response]",
+   "description": "A wise person documents the facts, raises the issue first with the direct person or manager calmly, and uses official channels if ignored. Asking a question is often less confrontational than making an accusation and equally effective.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 5195,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Dilnaz",
+     "Aparna"
+    ],
+    "4": [
+     "Seema",
+     "Santosh"
+    ],
+    "5": [
+     "Salma",
+     "Arohi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Ethical execution under pressure",
+   "subtype": "Honest about limits and errors [Response]",
+   "description": "A person under pressure tells a client or manager plainly what cannot be done or what went wrong and offers a real alternative. Short-term discomfort is smaller than the damage when a concealment is discovered.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

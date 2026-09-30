@@ -1,0 +1,45 @@
+STAGE: core
+Variant ids in this batch: 9, 10, 11 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R1+T1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office). TWIST: Set it in a different season or festival period than a typical scene.
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R12+T1: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure. TWIST: Set it in a different season or festival period than a typical scene.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R15+T1: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row. TWIST: Set it in a different season or festival period than a typical scene.
+R2+T1: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue. TWIST: Set it in a different season or festival period than a typical scene.
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R4+T1: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next). TWIST: Set it in a different season or festival period than a typical scene.
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R8+T1: Third-person narrative set outside India (any country), ordinary everyday detail. TWIST: Set it in a different season or festival period than a typical scene.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+R9+T1: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre. TWIST: Set it in a different season or festival period than a typical scene.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 41, "plan": {"9": "R8", "10": "R9+T1", "11": "R12+T1"}, "cast": {"9": ["Santiago", "Layla"], "10": ["Sarita", "Kiran"], "11": ["Shankar", "Thomas"]}, "age": "4–6", "topic": "Humor", "subtopic": "Early Humor", "subtype": "Playfulness & Absurdity", "description": "Appreciating simple jokes, silly word sounds, physical slapstick, and incongruous situations.", "graph_context": ["related mind states: playfulness"]}
+{"sno": 42, "plan": {"9": "R7", "10": "R8+T1", "11": "R9+T1"}, "cast": {"9": ["Kunal", "Manjula"], "10": ["Lindiwe", "Aiko"], "11": ["Zainab", "Jatin"]}, "age": "4–6", "topic": "Morality", "subtopic": "Moral Reasoning", "subtype": "Pre-Conventional Morality", "description": "Obeying rules primarily to earn immediate concrete rewards or avoid physical punishment.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 43, "plan": {"9": "R15", "10": "R1+T1", "11": "R2+T1"}, "cast": {"9": ["Simran", "Chaitanya"], "10": ["Pallavi", "Ira"], "11": ["Abhinav", "Jagdish"]}, "age": "4–6", "topic": "Social / Mission", "subtopic": "Prosocial Care", "subtype": "Resource Sharing", "description": "Sharing limited resources (toys, treats) even when it conflicts with personal pleasure.", "graph_context": ["this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 44, "plan": {"9": "R1", "10": "R2+T1", "11": "R4+T1"}, "cast": {"9": ["Parveen", "Irawati"], "10": ["Aadhya", "Himani"], "11": ["Jeevan", "Kavitha"]}, "age": "4–6", "topic": "Behavior", "subtopic": "Intelligent Decision-Making", "subtype": "Early Self-Regulation", "description": "Resisting immediate impulses or temptations to secure a larger, delayed reward.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26", "related mind states: trust"]}
+{"sno": 45, "plan": {"9": "R7", "10": "R8+T1", "11": "R9+T1"}, "cast": {"9": ["Salma", "Dilnaz"], "10": ["Abebe", "Hiroshi"], "11": ["Lakshmi", "Kashish"]}, "age": "4–6", "topic": "Habits & Ethics", "subtopic": "Classroom Conduct", "subtype": "School Readiness Habits", "description": "Adopting classroom etiquette (sitting still, taking turns, raising hands) vs. disruptive outbursts and refusal to cooperate."}
+{"sno": 46, "plan": {"9": "R1", "10": "R2+T1", "11": "R4+T1"}, "cast": {"9": ["Devika", "Noor"], "10": ["Manoj", "Noor"], "11": ["Raghav", "Karthik"]}, "age": "4–6", "topic": "Civic & Relational", "subtopic": "Relational Respect", "subtype": "Teacher & Elder Deference", "description": "Showing polite deferential behavior toward teachers, elders, and relatives through greetings, listening, and respectful tone.", "graph_context": ["related mind states: admiration"]}
+{"sno": 47, "plan": {"9": "R13", "10": "R15+T1", "11": "R1+T1"}, "cast": {"9": ["Arohi", "Sarita"], "10": ["Binita", "Hemant"], "11": ["Jeevan", "Kamal"]}, "age": "4–6", "topic": "Responsibility", "subtopic": "Spheres of Responsibility", "subtype": "Family & Early School", "description": "Assisting with age-appropriate domestic chores, respecting shared classroom property, and maintaining basic environmental cleanliness.", "graph_context": ["this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26", "related mind states: admiration"]}
+{"sno": 48, "plan": {"9": "R4", "10": "R5", "11": "R7"}, "cast": {"9": ["Anjali", "Gurpreet"], "10": ["Trisha", "Lakshmi"], "11": ["Sahil", "Maria"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Academic Fundamentals", "subtype": "Literacy", "description": "Decoding letters into sounds, achieving reading fluency, and reading comprehension."}
+{"sno": 49, "plan": {"9": "R9", "10": "R12", "11": "R13"}, "cast": {"9": ["Madhav", "Sonali"], "10": ["Hrithik", "Ishita"], "11": ["Santosh", "Suraj"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Academic Fundamentals", "subtype": "Arithmetic", "description": "Moving beyond counting to understand addition, subtraction, multiplication, and fractions."}
+{"sno": 50, "plan": {"9": "R9", "10": "R12", "11": "R13"}, "cast": {"9": ["Kishore", "Kunal"], "10": ["Leela", "Akash"], "11": ["Kamal", "Rekha"]}, "age": "7–12", "topic": "Cognitive", "subtopic": "Academic Fundamentals", "subtype": "Information Processing", "description": "Developing a longer attention span and working memory to follow multi-step instructions."}
+
+Return exactly 30 JSON Lines and nothing else.

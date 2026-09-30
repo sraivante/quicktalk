@@ -1,0 +1,215 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2702,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Sharing information",
+   "subtype": "Balanced reporting and stating facts [Interpreting]",
+   "description": "A young adult reading a report or news item separates stated facts from opinion and asks about source and sample. Tone can mask bias, so double-checking claims is wiser than trusting confident delivery.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2703,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Vinita",
+     "Yogesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Asking and checking",
+   "subtype": "Probing and open questions [Regulating]",
+   "description": "A young adult in interviews or research uses open questions and follow-ups to learn, avoiding loaded or leading questions. A wise probe stays curious rather than accusatory.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 2704,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Afreen",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Expectation and intellectual humility [Regulating]",
+   "description": "A young adult states expectations as predictions and notes the evidence, such as I expect X because of Y. Humility about limits builds credibility, while unearned certainty invites errors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2705,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Bhavna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Disputing without attacking [Regulating]",
+   "description": "A young adult disputes a claim by focusing on evidence, using phrases such as the data suggests otherwise. Attacking the person instead of the claim is a common pitfall that escalates conflict.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2706,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Vaibhav",
+     "Tarun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Polite agreement that means no [Mismatch]",
+   "description": "In many cultures people avoid a blunt no and say maybe, we will see or yes, but. A young adult reads tone, delay and lack of follow-up and asks a clear yes or no question.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2707,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Lavanya",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Pressuring requests and coercion [Interpreting]",
+   "description": "A young adult learns to spot requests that carry pressure, guilt or threats, such as if you loved me you would. A real request leaves room to say no, and unsafe pressure should be shared with a trusted person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, guilt, trust"
+   ]
+  },
+  {
+   "sno": 2708,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Manoj",
+     "Shreya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Requesting help and support [Regulating]",
+   "description": "A young adult requests help from a mentor, friend or counselor by being specific about the need and timeframe. Vague requests such as can you help me with something invite confusion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2709,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sumit",
+     "Hafsa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Directing and instructing others [Expressing]",
+   "description": "A young adult leading a team or lab gives clear directions with the reason and expected result. Commanding without explanation may achieve compliance but weaken trust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2710,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Madhav",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Warnings and cautions online [Interpreting]",
+   "description": "A young adult reading warnings about scams, health claims or safety checks the source before acting or sharing. Panic messages that push urgency and secrecy are a warning sign in themselves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2711,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Asking someone to stop [Expressing]",
+   "description": "A young adult asks someone to stop teasing, texting or touching by saying stop, clearly and without apology. If the person does not stop, leaving and seeking help from a trusted person or authority is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

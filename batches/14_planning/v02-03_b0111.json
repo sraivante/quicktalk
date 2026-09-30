@@ -1,0 +1,267 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6861,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Arohi"
+    ],
+    "3": [
+     "Vikas",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Budgeting a first salary",
+   "subtype": "Approach: negotiate shared costs with flatmates [Action]",
+   "description": "The employee proposes splitting groceries and internet with flatmates and buying staples in bulk from a wholesale market. Sharing costs stretches the same salary further without lowering quality of life.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, planning fallacy, resource and budget planning, values-first planning",
+    "related concepts: splitting"
+   ]
+  },
+  {
+   "sno": 6862,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Dolma",
+     "Karthik"
+    ],
+    "3": [
+     "Jyoti",
+     "Lokesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Budgeting a first salary",
+   "subtype": "Approach: reward budget for small treats [Revision]",
+   "description": "After a strict month ended in a binge purchase, the person adds a small fun allowance to the plan. Allowing planned enjoyment makes the budget easier to keep.",
+   "graph_context": [
+    "same problem, other approaches: buffer and slack, negotiation, planning fallacy, values-first planning",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 6863,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Chaitanya"
+    ],
+    "3": [
+     "Jomon",
+     "Vandana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: working backward from the loan end date [Thinking]",
+   "description": "A graduate with a Rs 6 lakh education loan takes the bank's repayment period and works backward to the monthly amount needed, then checks it against the expected salary. The goal date sets the size of each step.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 6864,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Pema",
+     "Anirban"
+    ],
+    "3": [
+     "Avni",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: list loan terms and interest rate before deciding [Action]",
+   "description": "The borrower collects the sanction letter, notes the interest rate, moratorium end, EMI and any prepayment charges, and asks the bank to explain anything unclear. Knowing exact terms comes before choosing any strategy.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, resource and budget planning, working backward",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6865,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Simran"
+    ],
+    "3": [
+     "Anjali",
+     "Kiran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: prioritise highest-interest debt first [Thinking]",
+   "description": "With an education loan and a credit card balance, the graduate compares rates and decides to clear the card first since it costs far more. Ranking debts by cost shows where each rupee saves the most.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, pros and cons, resource and budget planning, working backward",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6866,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Vijay",
+     "Hafsa"
+    ],
+    "3": [
+     "Vidya",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: ignore the letters until the first EMI is overdue [Pitfall]",
+   "description": "Anxious about the size of the loan, the graduate avoids opening bank messages during the moratorium. The first EMI is missed, a late fee is added and the credit record suffers. Avoidance turns a manageable task into a bigger problem.",
+   "graph_context": [
+    "same problem, other approaches: pre-mortem, prioritising, pros and cons, resource and budget planning, working backward",
+    "related mind states: anxiety",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 6867,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Santosh",
+     "Pankaj"
+    ],
+    "3": [
+     "Shalini",
+     "Samir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: talk to the bank about restructuring before missing a payment [Revision]",
+   "description": "When a job start is delayed, the borrower meets the bank branch early, explains the situation and asks about options such as a longer tenure. Acting before default keeps choices open and shows good faith.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, resource and budget planning, working backward"
+   ]
+  },
+  {
+   "sno": 6868,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Jahnavi"
+    ],
+    "3": [
+     "Irawati",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: allocate windfalls to prepayment with a fixed rule [Action]",
+   "description": "The borrower decides that half of every bonus goes to a part-prepayment of principal and half stays as savings. A clear if-then rule avoids repeated debate and steadily shortens the loan.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, working backward"
+   ]
+  },
+  {
+   "sno": 6869,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Jatin",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: minimise the EMI only, ignoring total interest [Pitfall]",
+   "description": "A borrower stretches the tenure to the maximum so the monthly payment feels small. The lower EMI eases the present, but total interest paid grows a lot, which the person only notices years later.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, pros and cons, resource and budget planning, working backward",
+    "related mind states: interest, resentment"
+   ]
+  },
+  {
+   "sno": 6870,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Tarun"
+    ],
+    "3": [
+     "Shalini",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning education loan repayment",
+   "subtype": "Approach: compare tax benefit and prepayment trade-offs with a pros-and-cons list [Thinking]",
+   "description": "The graduate lists interest tax deduction against the cost of carrying debt, then asks a senior colleague and a fee-only adviser how they weigh it. The comparison is general reasoning, with the final choice checked against personal numbers.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, pre-mortem, prioritising, resource and budget planning, working backward",
+    "related mind states: interest, detachment"
+   ]
+  }
+ ]
+}

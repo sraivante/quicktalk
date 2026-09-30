@@ -1,0 +1,315 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2382,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Parul"
+    ],
+    "4": [
+     "Mehak",
+     "Samir"
+    ],
+    "5": [
+     "Jyoti",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Handshake, high-five and hug greetings [Regulating]",
+   "description": "A child chooses among handshake, high-five, hug or wave depending on comfort. A child has the right to decline a hug or kiss from anyone and can offer a wave or fist bump instead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2383,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ujjwal",
+     "Salma"
+    ],
+    "4": [
+     "Uday",
+     "Nitin"
+    ],
+    "5": [
+     "Rosa",
+     "Zeynep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Greeting and farewell",
+   "subtype": "Welcoming a guest or new classmate [Expressing]",
+   "description": "A child says hello, offers a seat, shares a snack or shows the new student around. Warm welcoming teaches inclusion, and shy children can still welcome with a smile or wave.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 2384,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Madhuri",
+     "Harsha"
+    ],
+    "4": [
+     "Irawati",
+     "Naveen"
+    ],
+    "5": [
+     "Thomas",
+     "Sarika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Sharing information",
+   "subtype": "Explaining and defining [Expressing]",
+   "description": "A school-age child explains rules of a game or defines a word to show understanding. Clear explanation grows with practice, and asking why or how encourages depth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2385,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Tenzin",
+     "Hafsa"
+    ],
+    "4": [
+     "Clara",
+     "Anders"
+    ],
+    "5": [
+     "Vishal",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Sharing information",
+   "subtype": "Summarizing and clarifying [Regulating]",
+   "description": "A child learns to summarize a story in a few lines and clarify a muddled point. Adults model choosing key points and admitting when something was not clear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2386,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Yogesh"
+    ],
+    "4": [
+     "Tariq",
+     "Thabo"
+    ],
+    "5": [
+     "Lavanya",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Asking and checking",
+   "subtype": "Checking understanding [Interpreting]",
+   "description": "A school-age child asks did I do it right or repeats an instruction back to check. Adults treat it as effort to learn, not as lack of confidence, and answer with specifics.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2387,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kalyani",
+     "Abhinav"
+    ],
+    "4": [
+     "Lalremsiami",
+     "Sangeeta"
+    ],
+    "5": [
+     "Pankaj",
+     "Dhruv"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Asking and checking",
+   "subtype": "Inquiring about feelings [Expressing]",
+   "description": "A child asks a friend are you okay when noticing sad or quiet behaviour. Kind inquiry shows care, and the friend may or may not want to answer yet.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 2388,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Dolma",
+     "Harish"
+    ],
+    "4": [
+     "Charu",
+     "Sunaina"
+    ],
+    "5": [
+     "Yogesh",
+     "Ganga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Doubt and suspicion [Interpreting]",
+   "description": "A school-age child voices doubt, saying I think you are joking, or suspicion when a story does not add up. Suspicion is a cue to check facts, not a verdict about character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 2389,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Tejas",
+     "Binita"
+    ],
+    "4": [
+     "Harsha",
+     "Kavitha"
+    ],
+    "5": [
+     "Siddharth",
+     "Naveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Knowledge and uncertainty",
+   "subtype": "Understanding and lack of knowledge [Regulating]",
+   "description": "A child who says I get it or I am not sure learns to match confidence to knowledge. Admitting a gap and asking for help are strengths a supportive teacher rewards.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2390,
+   "plan": {
+    "3": "R5",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Irfan",
+     "Disha"
+    ],
+    "4": [
+     "Ritu",
+     "Sarika"
+    ],
+    "5": [
+     "Dalia",
+     "Mei"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Conceding and qualifying [Expressing]",
+   "description": "A child may concede a point with okay, you are right or qualify with yes, but. Adults praise conceding gracefully and help the child not treat it as losing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2391,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Lalremsiami",
+     "Jaya"
+    ],
+    "4": [
+     "Kiran",
+     "Sachin"
+    ],
+    "5": [
+     "Salma",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Disagreeing respectfully [Regulating]",
+   "description": "A school-age child learns to say I see it differently instead of shouting or sulking. Modelling I disagree, and here is why shows disagreement is not rejection of the person.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2672,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Tariq",
+     "Kaito"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Whole-body movement",
+   "subtype": "Celebration and crowd movement [Interpreting]",
+   "description": "A young adult reads jumping, hugging or dancing in a crowd at a match or festival as shared joy. In crowds movement can turn from cheering to unsafe pushing, so watching for shifts in mood and having an exit plan is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: joy, affection, trust"
+   ]
+  },
+  {
+   "sno": 2673,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Sachin",
+     "Eshaan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Withdrawal or protection",
+   "subtype": "Ducking and defensive reflex in danger [Regulating]",
+   "description": "A young adult drops low, covers the head or moves away in a road, crowd or fight risk. Trained safety responses, such as leaving early, protect better than bravado; de-escalating and getting help beat trying to win.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 2674,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Devika",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Withdrawal or protection",
+   "subtype": "Recognising fear in others [Interpreting]",
+   "description": "A young adult notices a friend flinching, backing off or covering up near a partner, boss or stranger. These cues suggest discomfort but are not proof; checking privately, listening and offering help or resources respects the friend's choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, anger, fear"
+   ]
+  },
+  {
+   "sno": 2675,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Nirmala"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Covering the mouth and cultural norms [Mismatch]",
+   "description": "A young adult covers the mouth when laughing, yawning or coughing, which shows manners in many places but shyness in others. It can also signal surprise or embarrassment, so meaning depends on the cultural setting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: amusement, embarrassment, shyness, surprise"
+   ]
+  },
+  {
+   "sno": 2676,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Minakshi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Fidgeting and stimming as regulation [Regulating]",
+   "description": "A young adult clicks a pen, bounces a leg or uses stimming movements to focus or calm. For many neurodivergent people, stimming is a valid form of regulation; others should not read it as rudeness or lack of attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2677,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Jatin",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Caress as tender affection [Expressing]",
+   "description": "A gentle stroke of the hand or hair between partners or close family conveys tenderness. It is welcome only with clear consent and context; if the other person stiffens or pulls away, stop and check in.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2678,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Pushing away and physical boundaries [Regulating]",
+   "description": "A young adult uses a firm no, a raised palm or a step away to set a boundary, or a light push to get free from unwanted touch. Others must stop at once; if ignored, leaving and seeking help or reporting is appropriate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2679,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Kunal",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Touch-based expression",
+   "subtype": "Touch norms across cultures and settings [Mismatch]",
+   "description": "A young adult finds that handshakes, shoulder pats, hugs, or touching elders' feet mean respect or warmth in one setting and intrusion in another. Watching local custom and asking how someone prefers to greet avoids discomfort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: affection, admiration"
+   ]
+  },
+  {
+   "sno": 2680,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Baljeet",
+     "Swati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Distance norms across cultures [Mismatch]",
+   "description": "A young adult travelling finds that comfortable conversation distance, queue spacing and seating vary across countries and communities. Stepping back may be misread as coldness, and stepping in as pushiness, so both should be read gently.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2681,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Arnab",
+     "Manoj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Position and distance",
+   "subtype": "Turning toward and away in conversation [Interpreting]",
+   "description": "A young adult notes that a listener turning the body toward them usually signals engagement and turning away may signal need to leave, distraction or discomfort. It is a soft cue only; asking is more reliable than guessing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

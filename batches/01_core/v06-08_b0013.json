@@ -1,0 +1,295 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 121,
+   "plan": {
+    "6": "R12",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Pradeep",
+     "Manjula"
+    ],
+    "7": [
+     "Ganga",
+     "Jatin"
+    ],
+    "8": [
+     "Ritu",
+     "Ayesha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Physical Literacy",
+   "subtopic": "Health Stewardship",
+   "subtype": "Somatic Fitness & Ergonomics",
+   "description": "Building long-term physical endurance, ergonomic workplace habits, proper nutrition, and active self-care routines."
+  },
+  {
+   "sno": 122,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Vidya",
+     "Pallavi"
+    ],
+    "7": [
+     "Deepika",
+     "Sunaina"
+    ],
+    "8": [
+     "Ujjwal",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Morality",
+   "subtopic": "Moral Reasoning",
+   "subtype": "Systemic & Principled Ethics",
+   "description": "Evaluating laws vs. universal human rights, operating on core ethical tenets over social sanction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 123,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Rajni",
+     "Shankar"
+    ],
+    "7": [
+     "Jasleen",
+     "Yash"
+    ],
+    "8": [
+     "Kunal",
+     "Seema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Generativity & Stewardship",
+   "description": "Mentoring younger peers, contributing to organizations, and building community stability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 124,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Manjula"
+    ],
+    "7": [
+     "Bidisha",
+     "Abhinav"
+    ],
+    "8": [
+     "Asif",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Multi-Criteria Evaluation",
+   "description": "Managing uncertainty and weighing competing trade-offs between short- and long-term values.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 125,
+   "plan": {
+    "6": "R2",
+    "7": "R3",
+    "8": "R4"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Chaitanya"
+    ],
+    "7": [
+     "Mridul",
+     "Pallavi"
+    ],
+    "8": [
+     "Wasim",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Habits & Ethics",
+   "subtopic": "Workplace Conduct",
+   "subtype": "Professional Integrity & Work Ethics",
+   "description": "Demonstrating workplace punctuality, accountability, and professional courtesy vs. absenteeism, office politics, and dishonesty.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 126,
+   "plan": {
+    "6": "R8",
+    "7": "R9",
+    "8": "R10"
+   },
+   "cast": {
+    "6": [
+     "Mei",
+     "Emil"
+    ],
+    "7": [
+     "Sumit",
+     "Manoj"
+    ],
+    "8": [
+     "Nazia",
+     "Gargi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Civic & Relational",
+   "subtopic": "Active Citizenship",
+   "subtype": "Civic Responsibility & Filial Duty",
+   "description": "Fulfilling legal duties (voting, taxes), honoring aging parents/relatives, and actively contributing to societal welfare."
+  },
+  {
+   "sno": 127,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Suraj",
+     "Jatin"
+    ],
+    "7": [
+     "Baljeet",
+     "Ujjwal"
+    ],
+    "8": [
+     "Sangeeta",
+     "Nandini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Adult Autonomy & Civic Duty",
+   "description": "Fulfilling financial and domestic obligations, supporting aging parents, adhering to workplace contracts, and active civic participation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 128,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Damini",
+     "Ishita"
+    ],
+    "7": [
+     "Urmila",
+     "Tanvir"
+    ],
+    "8": [
+     "Harish",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Impulse Control",
+   "description": "Gaining the neurological ability to consistently pause and inhibit rash responses."
+  },
+  {
+   "sno": 129,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Lalit"
+    ],
+    "7": [
+     "Salma",
+     "Tenzin"
+    ],
+    "8": [
+     "Bhavna",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Working Memory",
+   "description": "Successfully holding, managing, and manipulating highly complex information on the fly."
+  },
+  {
+   "sno": 130,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Ankita",
+     "Asif"
+    ],
+    "7": [
+     "Yogesh",
+     "Sangeeta"
+    ],
+    "8": [
+     "Ishita",
+     "Avni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Biological / Cognitive",
+   "subtopic": "Prefrontal Maturation",
+   "subtype": "Cognitive Flexibility",
+   "description": "Seamlessly adapting reasoning and behavior when rules change or unexpected situations arise."
+  }
+ ]
+}

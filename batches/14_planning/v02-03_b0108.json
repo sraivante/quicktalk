@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6831,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Reena"
+    ],
+    "3": [
+     "Dhruv",
+     "Tushar"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: starting with the junior's actual goal [Thinking]",
+   "description": "A final-year student asks the junior what they want, such as a first internship, and tailors advice to that goal rather than repeating what worked for themselves.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6832,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Jaya"
+    ],
+    "3": [
+     "Sarika",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: breaking learning into small steps [Action]",
+   "description": "The mentor turns learn programming into a weekly plan of one concept, one exercise and one small program, and reviews the work with the junior every Saturday.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, seeking advice"
+   ]
+  },
+  {
+   "sno": 6833,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Kalyani"
+    ],
+    "3": [
+     "Neelam",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: giving the answer straight away [Pitfall]",
+   "description": "Wanting to be helpful, the mentor solves every problem for the junior, who becomes dependent and cannot work through a problem alone.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6834,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Dolma"
+    ],
+    "3": [
+     "Hrithik",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: asking guiding questions [Action]",
+   "description": "When the junior is stuck, the mentor asks what they have tried and what the error says, and gives a hint only after the junior has made an attempt.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6835,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Elif",
+     "Rafael"
+    ],
+    "3": [
+     "Naveen",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: analogy to own early struggles [Thinking]",
+   "description": "The mentor recalls failing the first coding round, shares it honestly, and uses it to show that the junior's fear is common and can be worked through.",
+   "graph_context": [
+    "same problem, other approaches: forward planning, seeking advice, task decomposition",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 6836,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Rehana",
+     "Keerthana"
+    ],
+    "3": [
+     "Beatriz",
+     "Camila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: pushing own path as the only path [Pitfall]",
+   "description": "The mentor insists that only their route through competitive coding is right, though the junior enjoys design, and the junior loses interest in the mentoring.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 6837,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Sahil"
+    ],
+    "3": [
+     "Jeevan",
+     "Gautam"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: agreeing on a simple check-in routine [Action]",
+   "description": "The two fix a short Sunday call and a shared notes file listing goals, next steps and doubts, so the mentoring does not fade after the first enthusiasm.",
+   "graph_context": [
+    "same problem, other approaches: analogy, seeking advice, task decomposition",
+    "related mind states: doubt, excitement"
+   ]
+  },
+  {
+   "sno": 6838,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Santiago",
+     "Noa"
+    ],
+    "3": [
+     "Zainab",
+     "Amandeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: honest feedback with kindness [Action]",
+   "description": "The mentor tells the junior that a resume lacks results, shows one improved example, and praises real strengths, avoiding both false flattery and harsh criticism.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6839,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Asif"
+    ],
+    "3": [
+     "Lars",
+     "Kwame"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: recognising own limits and referring on [Revision]",
+   "description": "When the junior asks about a field the mentor does not know, the mentor says so, and introduces a senior from that field instead of pretending.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  },
+  {
+   "sno": 6840,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Omkar",
+     "Uma"
+    ],
+    "3": [
+     "Jahnavi",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Mentoring a junior",
+   "subtype": "Approach: adjusting the approach after low progress [Revision]",
+   "description": "Seeing that the junior misses tasks, the mentor asks why, learns that the weekly plan clashes with exams, and lightens the plan for two weeks.",
+   "graph_context": [
+    "same problem, other approaches: analogy, forward planning, task decomposition"
+   ]
+  }
+ ]
+}

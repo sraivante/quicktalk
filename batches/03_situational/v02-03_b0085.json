@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1158,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Bhavna",
+     "Shalini"
+    ],
+    "3": [
+     "Lokesh",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Online preacher × Admiration [Actor]",
+   "description": "A charismatic speaker online makes life feel clear and meaningful, and I watch every video. Wise: enjoy what helps, but compare it with other sources and note what it asks of me.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, argument, disillusionment, manipulation, protectiveness, worship",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 1159,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Wanjiru",
+     "Xin"
+    ],
+    "3": [
+     "Mridul",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Online preacher × Devotion [Actor]",
+   "description": "I start believing this preacher has all the answers and see others as lost. Harmful: a single voice takes over my thinking. Wise: stay curious, keep diverse friends, and check claims.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, admiration, argument, disillusionment, manipulation, protectiveness",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 1160,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Karthik",
+     "Sahil"
+    ],
+    "3": [
+     "Joseph",
+     "Jaya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Online preacher × Manipulation [Receiver]",
+   "description": "A preacher uses guilt, fear and us-versus-them to make me donate or cut off family. Recognise it: real guidance does not demand secrecy, money or isolation. Talk to a trusted adult.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, admiration, argument, disillusionment, protectiveness, worship",
+    "related mind states: fear, guilt, loneliness, trust"
+   ]
+  },
+  {
+   "sno": 1161,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Seema",
+     "Dhruv"
+    ],
+    "3": [
+     "Rehana",
+     "Usha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "I argue with my parent about a preacher they trust and I doubt. Wise: ask what they find helpful, share specific concerns, and avoid ridiculing them.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, admiration, disillusionment, manipulation, protectiveness, worship",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 1162,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Thabo",
+     "Emil"
+    ],
+    "3": [
+     "Imran",
+     "Manjula"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Online preacher × Disillusionment [Actor]",
+   "description": "I discover that the preacher I admired lives against his own words and earns from followers. I feel foolish and angry. Wise: keep the teachings that were true, and not blame myself for hope.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, admiration, argument, manipulation, protectiveness, worship",
+    "related mind states: admiration, anger, hope"
+   ]
+  },
+  {
+   "sno": 1163,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Sarika",
+     "Thomas"
+    ],
+    "3": [
+     "Ganga",
+     "Ishita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Friend × Protective concern [Actor]",
+   "description": "A friend is pulled into an extreme online group and changes. Wise: stay their friend, ask questions with warmth, avoid mocking, and involve a trusted adult if they are cut off or at risk.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, admiration, argument, disillusionment, manipulation, worship",
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 1164,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Siddharth"
+    ],
+    "3": [
+     "Nitin",
+     "Shankar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Following an online preacher",
+   "subtype": "Online preacher × Belonging [Receiver]",
+   "description": "Their community welcomes me warmly when I feel unseen at home. The warmth is real, yet warmth alone is not proof of truth. Wise: also build offline friendships.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, disillusionment, manipulation, protectiveness, worship",
+    "related mind states: affection, nostalgia"
+   ]
+  },
+  {
+   "sno": 1165,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Anand",
+     "Nandini"
+    ],
+    "3": [
+     "Sumit",
+     "Shreya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Political opponent × Anger [Actor]",
+   "description": "Someone mocks the leader or cause I support and I flare up. Wise: pause, ask what they mean, and separate a person from their view. Harmful: insulting or trolling.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, confusion, contempt, hatred, manipulation",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1166,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Siddiq",
+     "Beatriz"
+    ],
+    "3": [
+     "Sachin",
+     "Gautam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Political opponent × Contempt [Actor]",
+   "description": "I start to see the other side as stupid or evil. It feels good and makes me lonely. Wise: notice the stereotype, meet one real person from that side, and hold my view with humility.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, argument, confusion, hatred, manipulation",
+    "related mind states: contempt, loneliness"
+   ]
+  },
+  {
+   "sno": 1167,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Usha"
+    ],
+    "3": [
+     "Kalyani",
+     "Dolma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Political or ideological argument",
+   "subtype": "Political opponent × Hatred [Receiver]",
+   "description": "I am abused online for my opinion or my religion. Wise: do not reply in kind, block, save proof, tell a trusted adult, and remember that disagreement is not permission for cruelty.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, argument, confusion, contempt, manipulation",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2948,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Vaibhav",
+     "Bidisha"
+    ],
+    "4": [
+     "Vijay",
+     "Tenzin"
+    ],
+    "5": [
+     "Tanuja",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 5: The breaking of the ice [Response]",
+   "description": "One says \"I go quiet when I am overwhelmed. It is not that I do not care. Can I take a short break and then come back to this?\" Explaining silence turns it from a weapon into a signal.",
+   "graph_context": [
+    "previous stage: Mutual freeze",
+    "next stage: New rules for conflict",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 2949,
+   "plan": {
+    "3": "R11",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Ritu",
+     "Manjula"
+    ],
+    "4": [
+     "Darshan",
+     "Pooja"
+    ],
+    "5": [
+     "Indu",
+     "Vasudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Silent treatment",
+   "subtype": "Stage 6: New rules for conflict [Response]",
+   "description": "They agree that pauses are allowed if they have a return time and that no one is ever left guessing. If silence is continual and controlling, seeking a counsellor is a sound next step.",
+   "graph_context": [
+    "previous stage: The breaking of the ice",
+    "this subtopic also appears at ages: 13–17"
+   ]
+  },
+  {
+   "sno": 2950,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Tuan",
+     "Yosef"
+    ],
+    "4": [
+     "Shalini",
+     "Madhuri"
+    ],
+    "5": [
+     "Nilesh",
+     "Payal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 1: The harm happens [Actor]",
+   "description": "A child grabs a friend's toy and the friend cries. The child feels a flicker of wanting and then confusion at the crying, and may freeze, laugh nervously or say \"I did not do it\".",
+   "graph_context": [
+    "next stage: Notice the other's feelings",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: amusement, sadness, anxiety, confusion"
+   ]
+  },
+  {
+   "sno": 2951,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Jeevan"
+    ],
+    "4": [
+     "Ganga",
+     "Kalyani"
+    ],
+    "5": [
+     "Harsha",
+     "Sachin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 2: Notice the other's feelings [Response]",
+   "description": "The teacher crouches down and points to what is visible: \"Look, Aman is sad, his face is wet.\" She helps the child link his action to his friend's tears, which is empathy being built.",
+   "graph_context": [
+    "previous stage: The harm happens",
+    "next stage: Defensiveness",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness, empathy"
+   ]
+  },
+  {
+   "sno": 2952,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Hemant",
+     "Ishita"
+    ],
+    "4": [
+     "Rafael",
+     "Lucia"
+    ],
+    "5": [
+     "Jomon",
+     "Manoj"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 3: Defensiveness [Actor]",
+   "description": "The child says \"He was slow!\" or \"He started it.\" At this age it is a way to avoid the uncomfortable feeling of being bad, not real lying; calm, non-shaming words let the feeling pass faster.",
+   "graph_context": [
+    "previous stage: Notice the other's feelings",
+    "next stage: Forced sorry versus felt sorry",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2953,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Ivan",
+     "Xin"
+    ],
+    "4": [
+     "Jyoti",
+     "Seema"
+    ],
+    "5": [
+     "Ujjwal",
+     "Yamini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 4: Forced sorry versus felt sorry [Observer]",
+   "description": "A parent who insists on an immediate \"say sorry\" gets a mumbled word with no feeling. Children learn what an apology means from adults who model it, and from being asked what could make the friend feel better.",
+   "graph_context": [
+    "previous stage: Defensiveness",
+    "next stage: A repair action",
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 2954,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kashish",
+     "Baljeet"
+    ],
+    "4": [
+     "Hafsa",
+     "Tushar"
+    ],
+    "5": [
+     "Vijay",
+     "Pooja"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 5: A repair action [Response]",
+   "description": "The child offers the toy back, gives a hug if the friend wants one, or draws a picture. Fixing something concrete makes sense to a young mind more than words, and it feels good for both.",
+   "graph_context": [
+    "previous stage: Forced sorry versus felt sorry",
+    "next stage: Friendship resumes",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 2955,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Rekha",
+     "Gargi"
+    ],
+    "4": [
+     "Noor",
+     "Arnab"
+    ],
+    "5": [
+     "Tejas",
+     "Jasleen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 6: Friendship resumes [Receiver]",
+   "description": "The hurt child accepts and returns to play, often within minutes. Young children forgive quickly when repair is real, and this teaches that a mistake does not end a friendship.",
+   "graph_context": [
+    "previous stage: A repair action",
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 2956,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Baljeet",
+     "Kishore"
+    ],
+    "4": [
+     "Jeevan",
+     "Uday"
+    ],
+    "5": [
+     "Divyansh",
+     "Sudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 1: Realising the harm [Actor]",
+   "description": "A young adult cancelled on a friend's birthday for a better invitation, and a day later sees the friend's cold reply. A pang of guilt follows, mixed with a wish to defend what he did.",
+   "graph_context": [
+    "next stage: Temptation to excuse",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 2957,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Omkar",
+     "Shankar"
+    ],
+    "4": [
+     "Pradeep",
+     "Jaya"
+    ],
+    "5": [
+     "Tushar",
+     "Aadhya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Apology and repair cycle",
+   "subtype": "Stage 2: Temptation to excuse [Actor]",
+   "description": "He drafts a message that begins \"I am sorry if you felt...\" and blames traffic or workload. The urge is to be forgiven without feeling the discomfort of being wrong, which usually makes things worse.",
+   "graph_context": [
+    "previous stage: Realising the harm",
+    "next stage: The friend's hurt and guard",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  }
+ ]
+}

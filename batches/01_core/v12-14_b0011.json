@@ -1,0 +1,286 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 101,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Gurleen",
+     "Elizabeth"
+    ],
+    "13": [
+     "Sarita",
+     "Neelam"
+    ],
+    "14": [
+     "Deepika",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Habits & Ethics",
+   "subtopic": "Lifestyle & Digital Ethics",
+   "subtype": "Personal Discipline & Health Habits",
+   "description": "Cultivating personal time management and digital hygiene vs. addiction to screens, substance risks, and slacking off."
+  },
+  {
+   "sno": 102,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Elizabeth",
+     "Pradeep"
+    ],
+    "13": [
+     "Joseph",
+     "Nazia"
+    ],
+    "14": [
+     "Aditi",
+     "Pankaj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Civic & Relational",
+   "subtopic": "Civic Duty",
+   "subtype": "Civic Consciousness & Family Honor",
+   "description": "Fulfilling civic duties, understanding country laws, maintaining family honor, and respecting societal governance.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 103,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Rukmini",
+     "Joseph"
+    ],
+    "13": [
+     "Chetan",
+     "Vikas"
+    ],
+    "14": [
+     "Yusuf",
+     "Maria"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Wider Society & Digital",
+   "description": "Managing personal health and reputation, rejecting peer bullying, fulfilling family and academic duties, and practicing online cyber ethics.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 104,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Sharmila",
+     "Bidisha"
+    ],
+    "13": [
+     "Nilesh",
+     "Minakshi"
+    ],
+    "14": [
+     "Noor",
+     "Uma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Life Skills",
+   "subtopic": "Self-Reliance",
+   "subtype": "Financial Management",
+   "description": "Budgeting, paying bills, and managing personal expenses without parental oversight."
+  },
+  {
+   "sno": 105,
+   "plan": {
+    "12": "R14",
+    "13": "R15",
+    "14": "R1"
+   },
+   "cast": {
+    "12": [
+     "Sonali",
+     "Dilnaz"
+    ],
+    "13": [
+     "Rajni",
+     "Zeenat"
+    ],
+    "14": [
+     "Gargi",
+     "Simran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Life Skills",
+   "subtopic": "Self-Reliance",
+   "subtype": "Domestic Independence",
+   "description": "Handling cooking, cleaning, laundry, and daily maintenance independently."
+  },
+  {
+   "sno": 106,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Hafsa",
+     "Darshan"
+    ],
+    "13": [
+     "Divyansh",
+     "Uday"
+    ],
+    "14": [
+     "Baljeet",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Life Skills",
+   "subtopic": "Self-Reliance",
+   "subtype": "Time Management",
+   "description": "Structuring unstructured time effectively without school bells or parents dictating schedules."
+  },
+  {
+   "sno": 107,
+   "plan": {
+    "12": "R1",
+    "13": "R2",
+    "14": "R3"
+   },
+   "cast": {
+    "12": [
+     "Imran",
+     "Ganga"
+    ],
+    "13": [
+     "Kavitha",
+     "Jyoti"
+    ],
+    "14": [
+     "Lokesh",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Education / Career",
+   "subtopic": "Specialization",
+   "subtype": "Academic/Vocational Focus",
+   "description": "Committing to a specific college major, trade, or specialized career path."
+  },
+  {
+   "sno": 108,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Salma",
+     "Vikas"
+    ],
+    "13": [
+     "Kashish",
+     "Pooja"
+    ],
+    "14": [
+     "Irfan",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Education / Career",
+   "subtopic": "Specialization",
+   "subtype": "Skill Acquisition",
+   "description": "Moving from general education to mastering specific, marketable professional skills."
+  },
+  {
+   "sno": 109,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Darshan",
+     "Ritu"
+    ],
+    "13": [
+     "Kiran",
+     "Aditi"
+    ],
+    "14": [
+     "Bhavna",
+     "Vijay"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Education / Career",
+   "subtopic": "Specialization",
+   "subtype": "Early Networking",
+   "description": "Building initial professional relationships, finding mentors, and securing internships."
+  },
+  {
+   "sno": 110,
+   "plan": {
+    "12": "R8",
+    "13": "R9",
+    "14": "R10"
+   },
+   "cast": {
+    "12": [
+     "Soo-ah",
+     "Esther"
+    ],
+    "13": [
+     "Gargi",
+     "Hansa"
+    ],
+    "14": [
+     "Pradeep",
+     "Tanuja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Creativity",
+   "subtopic": "Innovation",
+   "subtype": "Creative Problem Solving & Ideation",
+   "description": "Synthesis of concepts across different disciplines to generate original projects, products, or theories."
+  }
+ ]
+}

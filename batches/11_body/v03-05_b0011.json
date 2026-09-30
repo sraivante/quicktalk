@@ -1,0 +1,316 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4219,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Aparna",
+     "Rehana"
+    ],
+    "4": [
+     "Sumit",
+     "Shreya"
+    ],
+    "5": [
+     "Shalini",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Regular movement during a low patch [Actor]",
+   "description": "A young adult feeling flat or stressed finds that even a short daily walk lifts energy and thinking slightly. It works best as a gentle habit, not a punishment or an all-or-nothing plan.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4220,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Alka",
+     "Lavanya"
+    ],
+    "4": [
+     "Jasleen",
+     "Deepak"
+    ],
+    "5": [
+     "Indu",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Overtraining and using exercise to escape [Actor]",
+   "description": "A person who exercises compulsively to cope with worry, guilt or body image may feel worse when they miss a session. Exercise should support life; if it starts ruling it, honest reflection or professional advice helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, guilt"
+   ]
+  },
+  {
+   "sno": 4221,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Joseph"
+    ],
+    "4": [
+     "Lavanya",
+     "Arnab"
+    ],
+    "5": [
+     "Vidya",
+     "Baljeet"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Exercise and mood",
+   "subtype": "Building a sustainable routine [Response]",
+   "description": "A young professional picks activity they enjoy, fits it into the day at a realistic level and treats rest days as part of training. Steady enjoyment lasts longer than heroic bursts that end in guilt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 4222,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Payal",
+     "Kalyani"
+    ],
+    "4": [
+     "Jin",
+     "Tariq"
+    ],
+    "5": [
+     "Jeevan",
+     "Rafiq"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Toddler daytime rhythm [Actor]",
+   "description": "A toddler with regular outdoor time, meals and naps is generally calmer and sleeps better. A predictable day gives the young mind a sense of safety and fewer reasons to fight transitions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4223,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Pema"
+    ],
+    "4": [
+     "Urmila",
+     "Varun"
+    ],
+    "5": [
+     "Lindiwe",
+     "Camila"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Child cooped indoors on rainy days [Observer]",
+   "description": "Parents notice a child kept inside for days becoming restless, loud and quarrelsome. Active indoor play, a short walk in the drizzle or a window seat with light can ease the mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 4224,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Paulo",
+     "Ines"
+    ],
+    "4": [
+     "Deepika",
+     "Aparna"
+    ],
+    "5": [
+     "Damini",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Holiday routine collapse [Actor]",
+   "description": "A schoolchild in holidays with late nights, screens and no fixed times feels grumpy and out of sorts, then dreads restarting school. Keeping simple anchors, such as wake time and outdoor play, smooths the return.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 4225,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Jyoti",
+     "Ayesha"
+    ],
+    "4": [
+     "Leela",
+     "Manoj"
+    ],
+    "5": [
+     "Nikita",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Teen living in a dim room [Actor]",
+   "description": "A teenager who stays in a dark room with curtains drawn may find mood dropping and days blurring together. Morning light and a set wake time gently reset the body clock and lift energy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4226,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Gurpreet",
+     "Pranav"
+    ],
+    "4": [
+     "Farida",
+     "Bhavna"
+    ],
+    "5": [
+     "Nilesh",
+     "Ira"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Routine anchors for independent life [Response]",
+   "description": "A young adult living away from home builds anchors such as a regular wake time, a morning walk, meals at similar times and one fixed social activity. These small anchors steady mood when everything else is new.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4227,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Gargi"
+    ],
+    "4": [
+     "Pooja",
+     "Harsha"
+    ],
+    "5": [
+     "Joseph",
+     "Parul"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Sunlight and routine",
+   "subtype": "Seasonal low mood [Actor]",
+   "description": "A person may notice energy and mood dip during dark, gloomy months and lift with brighter days. Getting outside, keeping routines and seeing a doctor if the low mood is heavy and lasting are sensible steps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4228,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Zeenat",
+     "Mridul"
+    ],
+    "4": [
+     "Sangeeta",
+     "Mehak"
+    ],
+    "5": [
+     "Ojas",
+     "Sangeeta"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Nutrition and mood in general terms",
+   "subtype": "Picky eater and mealtime battles [Actor]",
+   "description": "A young child refuses many foods, testing independence and reacting to texture. Pressure and bribes turn meals into conflict; calm repeated offering, without fuss, usually widens taste over time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  }
+ ]
+}

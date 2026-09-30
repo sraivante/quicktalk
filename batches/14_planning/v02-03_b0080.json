@@ -1,0 +1,268 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6551,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Pallavi"
+    ],
+    "3": [
+     "Binita",
+     "Ira"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: safety first and quick triage [Thinking]",
+   "description": "When floodwater enters the street, a teen decides that people come before belongings, checks who is home, and moves grandparents and the younger sibling to the upper floor before anything else.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation",
+    "related mind states: overwhelm, nostalgia, trust"
+   ]
+  },
+  {
+   "sno": 6552,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Manoj",
+     "Baljeet"
+    ],
+    "3": [
+     "Jomon",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: following a practised emergency plan [Action]",
+   "description": "Using the family plan from school drills, a teen takes the emergency bag with documents and torch, switches off the mains as adults instruct, and goes to the agreed meeting point.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6553,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Ramesh",
+     "Pooja"
+    ],
+    "3": [
+     "Vijay",
+     "Ojas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: calling for help and giving clear information [Action]",
+   "description": "After a road accident near school, a student calls the emergency number, states the exact place, how many are hurt and what happened, and stays on the line as asked while keeping himself out of danger.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation",
+    "related mind states: anger, detachment, hurt"
+   ]
+  },
+  {
+   "sno": 6554,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Thomas",
+     "Jatin"
+    ],
+    "3": [
+     "Kamal",
+     "Aadhya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: basic first aid within trained limits [Action]",
+   "description": "A teen who completed a school first aid course applies pressure to a bleeding cut and keeps the injured person calm and still until adults or medical help arrive, and avoids moving someone with a possible neck injury.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, forward planning, mental simulation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6555,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Jaya",
+     "Charu"
+    ],
+    "3": [
+     "Urmila",
+     "Rajni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: freezing or denying the danger [Pitfall]",
+   "description": "At the first tremor, a teen keeps scrolling her phone thinking it is nothing and loses precious seconds, since she had never rehearsed what to do and no action came to mind.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6556,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Damini",
+     "Mehak"
+    ],
+    "3": [
+     "Jatin",
+     "Aadhya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: heroic risk-taking [Pitfall]",
+   "description": "A teen wades into fast floodwater to rescue a pet, ignoring how strong the current is, and creates a second emergency, when calling adults and rescue workers would have been safer.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation",
+    "related mind states: overwhelm, trust"
+   ]
+  },
+  {
+   "sno": 6557,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Chandrika",
+     "Francis"
+    ],
+    "3": [
+     "Dolma",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: spreading unverified messages [Pitfall]",
+   "description": "After a cyclone warning, a student forwards a viral message with wrong evacuation routes, which confuses neighbours, and later learns to check official sources before sharing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, mental simulation",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 6558,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Damini"
+    ],
+    "3": [
+     "Tenzin",
+     "Madhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: contingency planning for communication [Thinking]",
+   "description": "A family agrees that if phone networks fail, they will meet at the community hall and contact one relative in another city, and the teen writes key numbers on paper.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, forward planning, mental simulation",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6559,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Thomas"
+    ],
+    "3": [
+     "Bhavna",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: adjusting when the plan meets reality [Revision]",
+   "description": "When the planned route is blocked by debris, a teen calmly takes an alternate way suggested by local volunteers, then updates the family group and the meeting point.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 6560,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Sachin"
+    ],
+    "3": [
+     "Sahil",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Responding to a natural disaster or accident",
+   "subtype": "Approach: helping in recovery through organised channels [Action]",
+   "description": "After the flood, a teen joins the school's relief drive under teacher supervision, sorting donations and updating lists, rather than travelling alone to unsafe areas.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, forward planning, mental simulation",
+    "related mind states: relief, overwhelm, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 3499,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Tushar",
+     "Yusuf"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Speaking up in a hierarchy [Response]",
+   "description": "A young employee raises an issue with facts, in private, framed around the shared goal. They pick their moment and accept that some cultures will not change quickly.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3500,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Sharmila",
+     "Salma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Deciding to leave a culture [Response]",
+   "description": "An employee who finds the values of a workplace impossible to live with weighs their options and plans a calm exit. Staying and shrinking is a slower loss than leaving with dignity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 3501,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Ritu",
+     "Pankaj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Building a fair reputation [Response]",
+   "description": "A colleague who keeps commitments, credits others and avoids gossip gains quiet influence. Reputation built on reliability outlasts favours built on manoeuvring.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3502,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Trisha",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Sharing a loss in class or family [Receiver]",
+   "description": "A child sees adults crying at a death in the family or school. They absorb how grief is shown, and being included in simple, honest ways helps more than being shielded.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: sadness, grief"
+   ]
+  },
+  {
+   "sno": 3503,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Jyoti"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Joy of festival and team victory [Actor]",
+   "description": "A child in a Diwali, Eid, Christmas or match-winning crowd feels a joy that is bigger than their own. Shared celebration creates a sense of being part of something.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 3504,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Emil",
+     "Leila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Grief of a whole school [Receiver]",
+   "description": "A school loses a classmate and everyone feels shock, guilt and awkwardness at once. Teenagers grieve differently, some crying, some joking, some silent, and none of it is wrong.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: sadness, grief, embarrassment, guilt"
+   ]
+  },
+  {
+   "sno": 3505,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Tenzin",
+     "Avni"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Celebration that leaves someone out [Receiver]",
+   "description": "A teenager who is grieving or excluded watches others celebrate and feels doubly alone. Communal joy can sharpen personal sorrow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: joy, sadness, grief"
+   ]
+  },
+  {
+   "sno": 3506,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Kiran",
+     "Nirmala"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Public mourning and shared symbols [Actor]",
+   "description": "A young adult takes part in a vigil, memorial or funeral rites and finds comfort in doing the same acts as others. Ritual gives shape to feelings that have no words.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3507,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Irawati",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Noticing a friend not joining in [Observer]",
+   "description": "A friend sees someone quiet in the middle of a celebration. A soft check-in, without pushing them to feel happy, shows care and respects their pace.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: joy, admiration"
+   ]
+  },
+  {
+   "sno": 3508,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Sachin",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Collective grief and celebration",
+   "subtype": "Grieving in a family with different styles [Actor]",
+   "description": "A family member grieves quietly while another wants to talk and another keeps busy with tasks. Each thinks the other is not grieving properly, and understanding different styles reduces hurt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: grief, hurt"
+   ]
+  }
+ ]
+}

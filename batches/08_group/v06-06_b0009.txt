@@ -1,0 +1,38 @@
+STAGE: group
+Variant ids in this batch: 6 (1 per row). Rows in this batch: 10. Expected records: 10.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R10: A letter or an email written by the protagonist to someone, in a natural voice.
+R11: An interview-style or spoken monologue: the protagonist tells the story aloud to a friend, podcast host or interviewer.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are group and multi-party phenomena. The passage must show at least three people or a crowd, and make the group dynamic visible (who follows, who dissents, who is silent). The perspective question asks about a different member's experience. Protect targets in scapegoating, mob and cover-up rows: focus on recognition and safe action, no incitement.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 3429, "plan": {"6": "R4"}, "cast": {"6": ["Zainab", "Eshaan"]}, "age": "23–26", "topic": "Group Behaviour", "subtopic": "Mob and crowd behaviour (stampede, riot, online pile-on)", "subtype": "Rumour triggering violence [Observer]", "description": "An observer sees a rumour, often on messaging apps, turn a crowd angry at an innocent person. Verified facts arrive late while the outrage is already in motion.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22", "related mind states: anger"]}
+{"sno": 3430, "plan": {"6": "R11"}, "cast": {"6": ["Tanvir", "Zeenat"]}, "age": "23–26", "topic": "Group Behaviour", "subtopic": "Mob and crowd behaviour (stampede, riot, online pile-on)", "subtype": "Supporting a pile-on victim [Response]", "description": "A friend messages the target privately, helps them stop reading comments and, if needed, reports abuse. Steady human contact matters more than public defence.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22"]}
+{"sno": 3431, "plan": {"6": "R8"}, "cast": {"6": ["Dalia", "Yuki"]}, "age": "4–6", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Telling tales about others [Actor]", "description": "A young child announces who did what, mostly to get adult approval or to test rules. It is closer to reporting than malice, but it shows they already sense information is social currency.", "graph_context": ["this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"]}
+{"sno": 3432, "plan": {"6": "R5"}, "cast": {"6": ["Naveen", "Hansa"]}, "age": "7–12", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Sharing secrets to gain closeness [Actor]", "description": "A child shares another's secret to feel special and closer to a friend. Passing on private news feels like a gift of trust, without seeing the betrayal to the one it concerns.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26", "related mind states: trust"]}
+{"sno": 3433, "plan": {"6": "R1"}, "cast": {"6": ["Indu", "Kavitha"]}, "age": "13–17", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Gossip as bonding and ranking [Actor]", "description": "A teenager talks about a peer's crush or mistake to bond with the group and gain status. The pleasure is real, and so is the nervous thought that they might be the next topic.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26", "related mind states: anxiety"]}
+{"sno": 3434, "plan": {"6": "R10"}, "cast": {"6": ["Uday", "Baljeet"]}, "age": "13–17", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Rumour about oneself [Receiver]", "description": "A teenager learns that a false story about them is spreading. They feel hot shame, fear of every glance and a wish to disappear, and often cannot tell who started it.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26", "related mind states: fear, shame"]}
+{"sno": 3435, "plan": {"6": "R13"}, "cast": {"6": ["Rashmi", "Nirmala"]}, "age": "13–17", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Refusing to pass it on [Response]", "description": "A teenager says I did not hear that, or changes the subject, when a rumour is offered. Stopping the chain costs a little popularity but builds a reputation as safe to confide in.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26", "related mind states: trust"]}
+{"sno": 3436, "plan": {"6": "R3"}, "cast": {"6": ["Zubin", "Shreya"]}, "age": "18–22", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Hearing gossip about a friend [Observer]", "description": "A student is told something unflattering about a friend. They feel curiosity and loyalty pulling in different directions, and choosing to check with the friend keeps trust intact.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26", "related mind states: curiosity, trust"]}
+{"sno": 3437, "plan": {"6": "R10"}, "cast": {"6": ["Wasim", "Asif"]}, "age": "18–22", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Gossip that warns or informs [Actor]", "description": "Some talk about others carries useful information, such as which professor is fair or which person is unreliable. The line between useful caution and cruel entertainment is intent and accuracy.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"]}
+{"sno": 3438, "plan": {"6": "R9"}, "cast": {"6": ["Saurabh", "Vishal"]}, "age": "23–26", "topic": "Group Behaviour", "subtopic": "Gossip networks", "subtype": "Workplace grapevine [Observer]", "description": "A young professional sees news travel through the pantry and messaging groups before official announcements. Those with good grapevine access feel powerful, and those outside feel anxious.", "graph_context": ["this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22", "related mind states: anxiety"]}
+
+Return exactly 10 JSON Lines and nothing else.

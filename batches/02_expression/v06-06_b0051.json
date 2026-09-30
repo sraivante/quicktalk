@@ -1,0 +1,213 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2562,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Siddiq",
+     "Nour"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Support and comfort",
+   "subtype": "Reassurance versus dismissal [Mismatch]",
+   "description": "Words like \"It will be fine\" can comfort one person and feel dismissive to another, depending on tone and timing. Teenagers may hear hollow cheer as not being taken seriously.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2563,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Lakshmi",
+     "Yogesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Face-saving apologies [Regulating]",
+   "description": "A teenager may find it hard to apologise because it feels like losing status, so may joke, send a meme or act as if nothing happened. Repair is usually stronger with a short plain acknowledgement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2564,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Gurpreet"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Apology and relationship repair",
+   "subtype": "Non-apologies [Mismatch]",
+   "description": "Phrases like \"I'm sorry you feel that way\" or \"Sorry, but you also...\" can sound like blame shifting. Teenagers can learn to spot conditional apologies and to give ones without excuses.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2565,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Afreen",
+     "Elizabeth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Consent-linked preferences [Expressing]",
+   "description": "A teenager states likes and dislikes about touch, photos, sharing and closeness, and expects a \"no\" to be respected. Everyone has the right to refuse; adults and peers should stop and a trusted adult should be told if a refusal is ignored.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 2566,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Nandini",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Hiding needs to avoid burdening others [Regulating]",
+   "description": "A teenager may say \"I'm fine\" while tired, hungry, overwhelmed or unwell, fearing to seem needy. Learning to state needs plainly, and adults noticing withdrawal, helps prevent small problems becoming large.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear, tiredness, detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 2567,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Imran",
+     "Suraj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Needing privacy and space [Expressing]",
+   "description": "A teenager asks for a closed door, quiet time or less questioning, sometimes bluntly. The need for space is often about autonomy and processing, not rejection; brief agreed check-ins balance respect and care.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2568,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Joseph",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Constructive versus destructive criticism [Regulating]",
+   "description": "A teenager learns to criticise the act or plan rather than the person, and to accept feedback without collapsing or attacking. \"That part is unclear\" is more usable than \"You are useless\".",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2569,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Pablo",
+     "Emil"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Protesting and disapproving [Expressing]",
+   "description": "A teenager objects to rules, expresses disapproval with eye-rolls, sighs, silence or arguments, or joins a peaceful protest. Underneath can be a wish for respect and voice; respectful channels are more effective than escalation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration, calm"
+   ]
+  },
+  {
+   "sno": 2570,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Thomas",
+     "Lalit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "De-escalating a heated argument [Regulating]",
+   "description": "A teenager learns to lower voice, pause, step away and say \"Let's talk later\" when anger rises. Cooling down is not weakness, and it prevents words or acts that cannot be taken back.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2571,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Manjula",
+     "Nazia"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Insults, taunts and challenges among peers [Interpreting]",
+   "description": "A teenager meets insults and dares in person and online, sometimes as banter and sometimes as an attack to provoke a reaction. Reading tone, history and audience helps; not answering and saving evidence are protective moves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

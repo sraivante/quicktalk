@@ -1,0 +1,266 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 878,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Mahima"
+    ],
+    "3": [
+     "Rekha",
+     "Yusuf"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Asking an AI assistant",
+   "subtype": "AI assistant × Loneliness [Actor]",
+   "description": "When I feel lonely, the AI chatbot is easy to talk to and never gets tired. That comfort is fine sometimes, but I also need real friends and family; I can tell a trusted person how I feel.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, curiosity, dependence, fear, honesty, trust",
+    "related mind states: tiredness, loneliness, trust"
+   ]
+  },
+  {
+   "sno": 879,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Zanele",
+     "Tuan"
+    ],
+    "3": [
+     "Indu",
+     "Vikas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Asking an AI assistant",
+   "subtype": "Teacher × Honesty [Actor]",
+   "description": "My teacher asks if I used an AI for my project. I feel tempted to say no. Honestly saying how I used it, and what I did myself, keeps trust and lets her guide me.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, curiosity, dependence, fear, loneliness, trust",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 880,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Zainab",
+     "Jagdish"
+    ],
+    "3": [
+     "Gopika",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Asking an AI assistant",
+   "subtype": "Parent × Worry [Receiver]",
+   "description": "My parent worries about me chatting with AI and asks to see. I feel watched, but sharing openly helps them trust me. I can explain what I use it for and agree on some rules.",
+   "graph_context": [
+    "same situation, other stances at this age: awe, curiosity, dependence, honesty, loneliness, trust",
+    "related mind states: anxiety, trust"
+   ]
+  },
+  {
+   "sno": 881,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Madhav"
+    ],
+    "3": [
+     "Ankita",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Asking an AI assistant",
+   "subtype": "AI assistant × Awe [Actor]",
+   "description": "The AI writes a poem in seconds and I think it is magic. Wonder is lovely; I also remember it is a tool made by people, and my own imagination is what makes stories mine.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, dependence, fear, honesty, loneliness, trust",
+    "related mind states: affection, curiosity, awe"
+   ]
+  },
+  {
+   "sno": 882,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Minakshi",
+     "Naveen"
+    ],
+    "3": [
+     "Gautam",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Advertiser × Desire [Receiver]",
+   "description": "An ad shows a cool toy and I suddenly need it. Ads are made to create wanting. I can pause and ask myself if I still want it tomorrow, or if it was just the ad.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, coercion, gratitude"
+   ]
+  },
+  {
+   "sno": 883,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Deepika",
+     "Dolma"
+    ],
+    "3": [
+     "Imran",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Advertiser × Persuasion [Receiver]",
+   "description": "A cartoon or celebrity says this snack makes you strong, and I believe it. I learn that ads sell things, so I can ask a parent whether it really is good for me.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, coercion, gratitude"
+   ]
+  },
+  {
+   "sno": 884,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Wasim",
+     "Aditi"
+    ],
+    "3": [
+     "Jeevan",
+     "Vinita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Friend × Peer pressure [Receiver]",
+   "description": "All my friends have the new branded shoes and I feel left out. Wanting to fit in is human. I can ask myself whether friendship depends on shoes, and talk to my parents honestly.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, gratitude"
+   ]
+  },
+  {
+   "sno": 885,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Nikita"
+    ],
+    "3": [
+     "Sarita",
+     "Mohit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Parent × Argument [Actor]",
+   "description": "I beg my parents for something I saw in an ad and they refuse. I feel angry and it seems unfair. Understanding their limits and offering to save for it myself shows growing maturity.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, coercion, gratitude",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 886,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Alka",
+     "Deepak"
+    ],
+    "3": [
+     "Jyoti",
+     "Keerthana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Influencer × Admiration [Actor]",
+   "description": "I love watching a YouTuber who seems to have a perfect life. Admiration can inspire me, but I remember that videos are edited and nobody's real life is only fun.",
+   "graph_context": [
+    "same situation, other stances at this age: argument, coercion, gratitude",
+    "related mind states: playfulness, affection, admiration"
+   ]
+  },
+  {
+   "sno": 887,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Deepika"
+    ],
+    "3": [
+     "Vaibhav",
+     "Kavitha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Ads and buying pressure",
+   "subtype": "Parent × Gratitude [Actor]",
+   "description": "My parent buys me something after I waited patiently. It feels extra special. Learning to wait makes me value things and understand the effort behind them.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, argument, coercion",
+    "related mind states: gratitude"
+   ]
+  }
+ ]
+}

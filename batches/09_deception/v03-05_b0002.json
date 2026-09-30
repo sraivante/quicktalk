@@ -1,0 +1,315 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4599,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Kavitha"
+    ],
+    "4": [
+     "Anjali",
+     "Gargi"
+    ],
+    "5": [
+     "Vasudha",
+     "Asif"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lies of omission",
+   "subtype": "Not saying the whole thing [Actor]",
+   "description": "A child tells a parent they finished homework but leaves out that it is only half done. They feel the words are true enough, and are still learning that misleading by silence counts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4600,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Yamini",
+     "Anirban"
+    ],
+    "4": [
+     "Lokesh",
+     "Amandeep"
+    ],
+    "5": [
+     "Jagdish",
+     "Indu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lies of omission",
+   "subtype": "Leaving out the key part [Actor]",
+   "description": "A teenager tells a parent they were at a friend's house but skips the party that followed. Every sentence is true, and the person still feels technically honest while the listener is misled.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4601,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Uday",
+     "Aparna"
+    ],
+    "4": [
+     "Preeti",
+     "Nirmala"
+    ],
+    "5": [
+     "Pema",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lies of omission",
+   "subtype": "Discovering what was left out [Receiver]",
+   "description": "A person finds out a friend or partner knew something important and stayed silent. The hurt is often as sharp as for a direct lie, because they were denied the chance to decide with full information.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4602,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ojas",
+     "Bhupen"
+    ],
+    "4": [
+     "Sabina",
+     "Akash"
+    ],
+    "5": [
+     "Yosef",
+     "Freya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lies of omission",
+   "subtype": "Selling a partial picture [Actor]",
+   "description": "A person describing a job, a flat or a match for marriage mentions only the strengths and hopes nobody asks about the rest. The silence is a choice to shape belief, and it counts as deception.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 4603,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Charu",
+     "Rekha"
+    ],
+    "4": [
+     "Pankaj",
+     "Gopika"
+    ],
+    "5": [
+     "Yamini",
+     "Samir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Lies of omission",
+   "subtype": "Volunteering what matters [Response]",
+   "description": "A wise adult asks what the other person would want to know before deciding and says it plainly, even when it costs. Full honesty is not telling everything, only not hiding what changes their choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4604,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Parveen",
+     "Mridul"
+    ],
+    "4": [
+     "Noor",
+     "Chaitanya"
+    ],
+    "5": [
+     "Mohit",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Exaggeration",
+   "subtype": "Making a story bigger [Actor]",
+   "description": "A child says they saw a hundred dogs or scored the winning goal to make the tale exciting and win attention. It is often play and a wish to matter, not a plan to fool anyone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 4605,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Rafiq",
+     "Arnab"
+    ],
+    "4": [
+     "Asif",
+     "Madhav"
+    ],
+    "5": [
+     "Sonali",
+     "Aparna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Exaggeration",
+   "subtype": "Inflating to impress peers [Actor]",
+   "description": "A teenager stretches a story about a fight, a crush or marks to keep status in the group. The stretch grows each retelling, and the person has to keep remembering the new version.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 4606,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Vinita",
+     "Siddharth"
+    ],
+    "4": [
+     "Francis",
+     "Deepak"
+    ],
+    "5": [
+     "Leela",
+     "Mahima"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Exaggeration",
+   "subtype": "Being on the receiving end of inflated claims [Receiver]",
+   "description": "A teenager who believes a friend's grand stories later finds they were stretched, and feels foolish and less trusting. A habit of exaggeration slowly lowers the value of everything the person says.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4607,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Vidya",
+     "Ankita"
+    ],
+    "4": [
+     "Lalremsiami",
+     "Sonali"
+    ],
+    "5": [
+     "Rekha",
+     "Seema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Exaggeration",
+   "subtype": "Padding a resume or pitch [Actor]",
+   "description": "A young professional turns assisted work into led work, telling themselves everyone does it. It feels like harmless polish until interview questions expose what they cannot actually do.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 4608,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Leela",
+     "Dolma"
+    ],
+    "4": [
+     "Parul",
+     "Pooja"
+    ],
+    "5": [
+     "Uday",
+     "Siddharth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Boasting",
+   "subtype": "Seeking admiration [Actor]",
+   "description": "A child brags about a toy, a rank or a famous relative because being seen as worthy feels urgent. Loud boasting usually points to a fear of being ordinary or overlooked.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: admiration, fear"
+   ]
+  }
+ ]
+}

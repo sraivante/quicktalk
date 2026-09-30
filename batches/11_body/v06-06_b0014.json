@@ -1,0 +1,216 @@
+{
+ "stage": "body",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4249,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Dhruv",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Teen hunched over a phone [Observer]",
+   "description": "A parent sees a teenager curled over a device for hours with a stiff neck and tired mood. Breaks, stretching and screens raised to eye level ease the body and often the temper.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4250,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Tanvir",
+     "Yamini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Body language and self-consciousness [Actor]",
+   "description": "A teenager who feels awkward about a growing body may slump or hide behind bags and hair. Kind reassurance and enjoyment of movement help them feel at home in themselves.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: embarrassment"
+   ]
+  },
+  {
+   "sno": 4251,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Elif",
+     "Rania"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Long study sessions and body aches [Actor]",
+   "description": "A student sitting for hours feels back, neck and shoulder pain that adds to fatigue and irritability. Short walks, stretching and changes of position ease both body and mood.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: tiredness, hurt"
+   ]
+  },
+  {
+   "sno": 4252,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Gopika",
+     "Usha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Desk-bound worker feeling stiff and low [Actor]",
+   "description": "A professional at a desk all day gets tight shoulders, headaches and sluggish thoughts, and blames stress alone. Small movement breaks and adjusting the workspace lift energy without big changes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4253,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Anirban",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Body & Mind",
+   "subtopic": "Posture and mood",
+   "subtype": "Using the body to steady the mind [Response]",
+   "description": "A person before a hard conversation drops the shoulders, plants feet and lengthens the exhale, feeling more grounded. Posture does not fix problems, but it helps thinking stay calm and clear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4254,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Maria",
+     "Nirmala"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Body & Mind",
+   "subtopic": "Chronic illness and disability living",
+   "subtype": "Toddler with a long-term condition [Actor]",
+   "description": "A toddler with a chronic condition or disability lives in a body that needs extra care and may face many appointments. The child needs play, comfort and normal expectations along with medical support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4255,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Imran",
+     "Jeevan"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Body & Mind",
+   "subtopic": "Chronic illness and disability living",
+   "subtype": "Child noticing being different [Actor]",
+   "description": "A young child with a disability or long-term illness begins to notice that others run faster or eat differently, and may ask why. Honest simple answers and pride in what they can do protect self-worth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4256,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Kalyani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Chronic illness and disability living",
+   "subtype": "Classmates curious or careless [Observer]",
+   "description": "Other children may stare, ask blunt questions or leave a disabled peer out of play. Adults who model respectful curiosity and inclusion teach that difference is not a flaw.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration, curiosity"
+   ]
+  },
+  {
+   "sno": 4257,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Pema"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Body & Mind",
+   "subtopic": "Chronic illness and disability living",
+   "subtype": "Missing school and friends because of illness [Actor]",
+   "description": "A child with frequent hospital visits misses lessons and social moments, and feels left behind or lonely. Teachers and friends who keep in touch and adapt work help the child stay connected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 4258,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Gurleen",
+     "Bhupen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Body & Mind",
+   "subtopic": "Chronic illness and disability living",
+   "subtype": "Wanting to be treated as normal [Actor]",
+   "description": "A teenager with a long-term condition may hide symptoms, skip treatment or refuse help to avoid standing out. Independence and dignity matter, and support that respects choice works better than control.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

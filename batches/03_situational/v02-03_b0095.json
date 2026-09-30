@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1258,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Amandeep",
+     "Arnab"
+    ],
+    "3": [
+     "Tarun",
+     "Payal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Grandparent × Grief [Actor]",
+   "description": "My grandparent has died and I feel numb, then suddenly weep. Wise: grief comes in waves; talk about them, join family rituals, and let myself feel without rushing.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, indifference",
+    "related mind states: sadness, grief, detachment"
+   ]
+  },
+  {
+   "sno": 1259,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Kiran",
+     "Vijay"
+    ],
+    "3": [
+     "Tejas",
+     "Nitin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Friend × Grief [Actor]",
+   "description": "A classmate has died in an accident. I feel shaken and fear my own mortality. Wise: seek company, talk to a counsellor if it lingers, and honour them with small acts.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, indifference",
+    "related mind states: grief, fear, dread"
+   ]
+  },
+  {
+   "sno": 1260,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Charu",
+     "Aditi"
+    ],
+    "3": [
+     "Beatriz",
+     "Valentina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Parent × Grief [Receiver]",
+   "description": "My parent is so lost in mourning that they seem absent. I feel doubly alone. Wise: name my own need, reach for another trusted adult, and remember their absence is grief, not lack of love.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, indifference",
+    "related mind states: affection, grief, trust"
+   ]
+  },
+  {
+   "sno": 1261,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Chandrika"
+    ],
+    "3": [
+     "Hrithik",
+     "Amandeep"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Pet × Grief [Actor]",
+   "description": "My pet has died and people say it's just an animal. It hurts as real. Wise: love is real whichever the object; mark the loss with a small ritual.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, guilt, indifference",
+    "related mind states: affection, grief, hurt"
+   ]
+  },
+  {
+   "sno": 1262,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Tushar",
+     "Gurleen"
+    ],
+    "3": [
+     "Santosh",
+     "Pankaj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "God × Anger [Actor]",
+   "description": "After the death I am angry with God or the universe. Wise: anger is part of grief and can be voiced; some find comfort in faith and some in people, and both are fine.",
+   "graph_context": [
+    "same situation, other stances at this age: grief, guilt, indifference",
+    "related mind states: grief, anger"
+   ]
+  },
+  {
+   "sno": 1263,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Anand"
+    ],
+    "3": [
+     "Vaibhav",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Friend × Support [Receiver]",
+   "description": "A friend sits with me without giving advice. It helps more than anything. Wise: I can say what I need, whether space, company or distraction.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, grief, guilt, indifference"
+   ]
+  },
+  {
+   "sno": 1264,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Jomon"
+    ],
+    "3": [
+     "Chaitanya",
+     "Siddharth"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Self × Guilt [Actor]",
+   "description": "I feel guilty for not saying goodbye or for a quarrel before the loss. Wise: guilt is a form of love; forgive myself and write the unsaid words in a letter.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, grief, indifference",
+    "related mind states: affection, guilt"
+   ]
+  },
+  {
+   "sno": 1265,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Vandana"
+    ],
+    "3": [
+     "Diego",
+     "Ada"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Grief after a loss",
+   "subtype": "Peer × Indifference [Receiver]",
+   "description": "Classmates go on as normal and say nothing about my loss. Wise: people often don't know what to say; tell one or two what would help.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, grief, guilt"
+   ]
+  },
+  {
+   "sno": 1266,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Dhruv"
+    ],
+    "3": [
+     "Nilesh",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Peer × Mockery [Receiver]",
+   "description": "I fail in front of everyone like a missed goal or a stage freeze, and they laugh. Wise: shame fades faster than I expect; laugh at it if I can, and try again.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, disillusionment, loyalty, shame",
+    "related mind states: amusement, shame"
+   ]
+  },
+  {
+   "sno": 1267,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Arnab"
+    ],
+    "3": [
+     "Kunal",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Failing publicly",
+   "subtype": "Self × Shame [Actor]",
+   "description": "I replay the failure at night and cringe. Wise: tell a friend, since sharing shrinks it; treat the memory as data and not as a verdict.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, contempt, disillusionment, loyalty, mockery",
+    "related mind states: shame"
+   ]
+  }
+ ]
+}

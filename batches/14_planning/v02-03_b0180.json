@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7551,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Mohit",
+     "Ishita"
+    ],
+    "3": [
+     "Suraj",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Experiments and measurement",
+   "subtype": "Approach: forms a hypothesis, sets a measure and runs a small test [Thinking]",
+   "description": "A student running a campus club guesses that posters outperform WhatsApp for turnout, sends each in different weeks, and counts how many attend.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7552,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Minakshi"
+    ],
+    "3": [
+     "Naveen",
+     "Siddharth"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Experiments and measurement",
+   "subtype": "Approach: draws firm conclusions from too few results [Pitfall]",
+   "description": "A student tries a new study method for two days, sees a small improvement, and declares it works. Two data points cannot separate the method from luck.",
+   "graph_context": [
+    "same problem, other approaches: experiment and measure",
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7553,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Shalini"
+    ],
+    "3": [
+     "Alka",
+     "Vijay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Experiments and measurement",
+   "subtype": "Approach: runs a pilot with a small group before a full rollout [Action]",
+   "description": "A young manager tests a new shift schedule with one team for a month, tracking absences and handover errors, before applying it to the whole floor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7554,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Rajni",
+     "Jyoti"
+    ],
+    "3": [
+     "Sangeeta",
+     "Parveen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Experiments and measurement",
+   "subtype": "Approach: extends the trial and adds a comparison group after doubting the result [Revision]",
+   "description": "Doubting her early result, she continues for four weeks, keeps a control period, and finds the gain was smaller than first thought but still real.",
+   "graph_context": [
+    "same problem, other approaches: minimum viable version",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 7555,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Selin",
+     "Yara"
+    ],
+    "3": [
+     "Zeenat",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Externalising thought on paper",
+   "subtype": "Approach: draws a picture of the problem to think through it [Action]",
+   "description": "A girl solving a word problem about sharing sweets draws circles for children and dots for sweets, and sees the answer as the leftover dots.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7556,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Chaitanya",
+     "Yogesh"
+    ],
+    "3": [
+     "Sachin",
+     "Pema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Externalising thought on paper",
+   "subtype": "Approach: writes a list to free up working memory [Action]",
+   "description": "A student with many tasks before exams writes them all down. Seeing the list on paper lowers worry and lets him sort them into today and later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 7557,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Zubin",
+     "Neelam"
+    ],
+    "3": [
+     "Zubin",
+     "Noor"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Externalising thought on paper",
+   "subtype": "Approach: sketches a mind map to see how parts connect [Thinking]",
+   "description": "A student planning a thesis draws boxes and arrows for chapters, sources and questions, and notices that two chapters depend on the same data.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7558,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Hansa",
+     "Minakshi"
+    ],
+    "3": [
+     "Jasleen",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Externalising thought on paper",
+   "subtype": "Approach: keeps writing notes without acting on them [Pitfall]",
+   "description": "A young professional fills notebooks with plans and diagrams but never starts. The writing feels like progress while the first concrete step remains undone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7559,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Hansa"
+    ],
+    "3": [
+     "Noor",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Externalising thought on paper",
+   "subtype": "Approach: reviews the page and circles one next action [Revision]",
+   "description": "She looks over her plans, circles the single step that can be done tomorrow, and puts a time beside it so the notes turn into work.",
+   "graph_context": [
+    "same problem, other approaches: externalising on paper",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7560,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Nikita"
+    ],
+    "3": [
+     "Baljeet",
+     "Bhavna"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Delegating",
+   "subtype": "Approach: gives a part of the task to someone who can do it [Action]",
+   "description": "A boy organising a class quiz asks a friend who writes neatly to make the score chart, while he prepares the questions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

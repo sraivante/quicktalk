@@ -1,0 +1,40 @@
+STAGE: core
+Variant ids in this batch: 6, 7, 8 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R6: A chat or text-message exchange (short lines), with a few narrator words only if needed; emojis may appear as real people use them.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 241, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Ramesh", "Vidya"], "7": ["Dalia", "Thabo"], "8": ["Keerthana", "Chaitanya"]}, "age": "13–17", "topic": "Ethics", "subtopic": "Academic Honesty", "subtype": "Plagiarism & Shortcut Temptation", "description": "Resisting copying and AI-written submissions and understanding why originality matters."}
+{"sno": 242, "plan": {"6": "R3", "7": "R4", "8": "R5"}, "cast": {"6": ["Kavitha", "Santosh"], "7": ["Hafsa", "Jeevan"], "8": ["Kashish", "Amandeep"]}, "age": "13–17", "topic": "Leadership", "subtopic": "Initiative", "subtype": "Student Leadership & Organizing Others", "description": "Taking charge of projects, motivating peers and taking blame when things fail."}
+{"sno": 243, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Usha", "Bhupen"], "7": ["Rosa", "Yara"], "8": ["Sahil", "Suraj"]}, "age": "13–17", "topic": "Cultural", "subtopic": "Identity Navigation", "subtype": "Code-Switching & Heritage Pride", "description": "Moving between home culture, school culture and online culture without shame.", "graph_context": ["related mind states: shame, pride"]}
+{"sno": 244, "plan": {"6": "R4", "7": "R5", "8": "R6"}, "cast": {"6": ["Kavitha", "Hafsa"], "7": ["Parul", "Sabina"], "8": ["Rehana", "Elizabeth"]}, "age": "13–17", "topic": "Cultural", "subtopic": "Intercultural Competence", "subtype": "Global Awareness & Migration Stories", "description": "Understanding other societies, migration and prejudice through curiosity.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: curiosity"]}
+{"sno": 245, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Parveen", "Sarita"], "7": ["Samir", "Uday"], "8": ["Ritu", "Gopika"]}, "age": "13–17", "topic": "Coping", "subtopic": "Adversity", "subtype": "Handling Failure, Result Disappointment & Family Crisis", "description": "Coping with bad results, parental conflict or financial hardship without losing hope.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: disappointment, hope"]}
+{"sno": 246, "plan": {"6": "R4", "7": "R5", "8": "R6"}, "cast": {"6": ["Gautam", "Sahil"], "7": ["Irawati", "Bidisha"], "8": ["Maria", "Naveen"]}, "age": "13–17", "topic": "Individual Variation", "subtopic": "Neurodiversity", "subtype": "Understanding One's Learning Style & Differences", "description": "Recognizing personal strengths and needs, such as attention, dyslexia or sensory sensitivity, and asking for support.", "graph_context": ["this subtopic also appears at ages: 23–26"]}
+{"sno": 247, "plan": {"6": "R13", "7": "R14", "8": "R15"}, "cast": {"6": ["Uday", "Santosh"], "7": ["Kalyani", "Aditi"], "8": ["Rekha", "Naveen"]}, "age": "13–17", "topic": "Environment", "subtopic": "Climate Awareness", "subtype": "Climate Literacy & Small Actions", "description": "Understanding causes of climate change and taking realistic personal and group action."}
+{"sno": 248, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Chetan", "Sarita"], "7": ["Felix", "Abebe"], "8": ["Jyoti", "Bidisha"]}, "age": "13–17", "topic": "Physical", "subtopic": "Fitness & Body Care", "subtype": "Exercise, Nutrition & Skin/Body Hygiene", "description": "Building consistent fitness and eating habits."}
+{"sno": 249, "plan": {"6": "R5", "7": "R6", "8": "R7"}, "cast": {"6": ["Farhan", "Nazia"], "7": ["Yogesh", "Bhavna"], "8": ["Yamini", "Bhavna"]}, "age": "13–17", "topic": "Philosophy", "subtopic": "Worldviews", "subtype": "Introductory Logic, Ethics & Worldviews", "description": "Comparing philosophies, religions and ethical systems reasonably."}
+{"sno": 250, "plan": {"6": "R2", "7": "R3", "8": "R4"}, "cast": {"6": ["Pradeep", "Usha"], "7": ["Gurleen", "Ishita"], "8": ["Lavanya", "Harish"]}, "age": "13–17", "topic": "Habits & Ethics", "subtopic": "Perseverance", "subtype": "Long-Term Projects & Consistency", "description": "Sustaining effort on multi-month goals despite boredom and setbacks.", "graph_context": ["related mind states: boredom", "related concepts: boredom"]}
+
+Return exactly 30 JSON Lines and nothing else.

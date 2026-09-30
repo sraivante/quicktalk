@@ -1,0 +1,260 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7171,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sharmila",
+     "Madhav"
+    ],
+    "3": [
+     "Dilnaz",
+     "Kiran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: mapping needs, resources and who can help [Thinking]",
+   "description": "A daughter lists her father's medical visits, daily support needs, siblings' availability and costs. The map shows that weekday mornings are the real gap.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning"
+   ]
+  },
+  {
+   "sno": 7172,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Chaitanya"
+    ],
+    "3": [
+     "Francis",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: family meeting to share responsibilities [Action]",
+   "description": "She calls her brother and aunt, states the tasks and time needed, and asks each to take a part: he handles finances and hospital visits, she handles daily calls and medicines organisation.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7173,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Santosh",
+     "Omkar"
+    ],
+    "3": [
+     "Sabina",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: arranging paid help and a routine [Action]",
+   "description": "They hire a trained attendant for daytime, set a fixed schedule for meals and doctor visits, and use a shared calendar. This reduces daily emergencies during work hours.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7174,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Sudha"
+    ],
+    "3": [
+     "Karthik",
+     "Kavitha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: talking to the manager about flexible hours [Action]",
+   "description": "He explains his situation to his manager and proposes working from home two days a week with a defined output. The clear proposal is accepted, protecting both care and job.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7175,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Pooja",
+     "Kalyani"
+    ],
+    "3": [
+     "Rehana",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: doing everything alone out of duty [Pitfall]",
+   "description": "Believing it is her responsibility, a daughter manages all care after work. Within months she is exhausted, makes errors at work and becomes short-tempered with her parents.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning, resource and budget planning",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 7176,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Pankaj",
+     "Jyoti"
+    ],
+    "3": [
+     "Kiran",
+     "Usha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: reacting to each crisis as it comes [Pitfall]",
+   "description": "Without a plan, every fall or hospital visit means rushing out of the office. Repeated last-minute leaves damage his reputation and leave the family with no backup.",
+   "graph_context": [
+    "same problem, other approaches: critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7177,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Sachin"
+    ],
+    "3": [
+     "Maria",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: contingency plan for emergencies [Thinking]",
+   "description": "The family lists nearby hospitals, emergency contacts, medical records in one folder and a neighbour with a spare key. When a fall happens, the response takes minutes not hours.",
+   "graph_context": [
+    "same problem, other approaches: critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7178,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Damini"
+    ],
+    "3": [
+     "Usha",
+     "Nilesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: building in rest and respite for the caregiver [Thinking]",
+   "description": "Recognising her own energy matters, she schedules a weekly evening off and asks the brother to cover it. Sustainable care is planned like a long journey, not a sprint.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7179,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Naveen",
+     "Santosh"
+    ],
+    "3": [
+     "Madhuri",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: reviewing arrangements as health needs change [Revision]",
+   "description": "After the father's condition worsens, the family reviews and shifts from a daytime attendant to a professional care option, discussing it with the parents and their doctor.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, critical path, forward planning, resource and budget planning"
+   ]
+  },
+  {
+   "sno": 7180,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Zeenat",
+     "Swati"
+    ],
+    "3": [
+     "Jasleen",
+     "Kamal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Caring for ageing parents while working",
+   "subtype": "Approach: involving the parents in decisions about their care [Thinking]",
+   "description": "Rather than deciding for them, she asks her mother what help she would accept. The mother prefers a morning helper to moving in, and the plan fits her wishes and independence.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, forward planning, resource and budget planning"
+   ]
+  }
+ ]
+}

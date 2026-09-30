@@ -1,0 +1,313 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3590,
+   "plan": {
+    "9": "R5",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Bhupen",
+     "Keerthana"
+    ],
+    "10": [
+     "Chetan",
+     "Imran"
+    ],
+    "11": [
+     "Javier",
+     "Diego"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overconfidence",
+   "subtype": "Sure of an answer [Actor]",
+   "description": "A child is certain he knows the answer or can win the race and is stunned when wrong. His confidence is louder than his knowledge.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3591,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Baljeet",
+     "Preeti"
+    ],
+    "10": [
+     "Divyansh",
+     "Madhuri"
+    ],
+    "11": [
+     "Gurpreet",
+     "Vidya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overconfidence",
+   "subtype": "Exam and skill self-rating [Actor]",
+   "description": "A teenager says the syllabus is easy and skips revision, or thinks he can drive well after two tries. Ease of recognising material is mistaken for ability to recall it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3592,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Preeti",
+     "Kamal"
+    ],
+    "10": [
+     "Hemant",
+     "Disha"
+    ],
+    "11": [
+     "Valentina",
+     "Felix"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overconfidence",
+   "subtype": "Certainty about the future [Actor]",
+   "description": "A young adult is very sure a plan, relationship or investment will work out and leaves no margin for error. Being wrong hurts more because doubt was never allowed in.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: doubt, hurt"
+   ]
+  },
+  {
+   "sno": 3593,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Pema",
+     "Sunaina"
+    ],
+    "10": [
+     "Baljeet",
+     "Karthik"
+    ],
+    "11": [
+     "Zubin",
+     "Lakshmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overconfidence",
+   "subtype": "Working with a certain colleague [Observer]",
+   "description": "A team sees a peer promise fast delivery with total assurance. Wise leads ask for a range and a worst case rather than punishing or blindly trusting the certainty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3594,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Gargi",
+     "Omkar"
+    ],
+    "10": [
+     "Yamini",
+     "Reena"
+    ],
+    "11": [
+     "Yara",
+     "Priscila"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Overconfidence",
+   "subtype": "Calibrating confidence [Response]",
+   "description": "A grounded professional writes down predictions with percentages, checks them later, and learns where her sure feelings were reliable and where they were not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3595,
+   "plan": {
+    "9": "R1",
+    "10": "R2",
+    "11": "R3"
+   },
+   "cast": {
+    "9": [
+     "Ramesh",
+     "Tenzin"
+    ],
+    "10": [
+     "Naveen",
+     "Uday"
+    ],
+    "11": [
+     "Jeevan",
+     "Zainab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Dunning-Kruger effect",
+   "subtype": "Knowing little, feeling expert [Actor]",
+   "description": "A teenager after a few videos on a subject believes he understands it better than his teacher. He does not yet know enough to see what he is missing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3596,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Sabina",
+     "Reena"
+    ],
+    "10": [
+     "Tushar",
+     "Chetan"
+    ],
+    "11": [
+     "Akash",
+     "Thomas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Dunning-Kruger effect",
+   "subtype": "Early peak of confidence [Actor]",
+   "description": "A student who has just learned a framework feels like an expert until harder problems appear, and confidence drops before real skill grows. The dip is normal and useful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3597,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Lalremsiami",
+     "Mahima"
+    ],
+    "10": [
+     "Rehana",
+     "Charu"
+    ],
+    "11": [
+     "Kashish",
+     "Sudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Dunning-Kruger effect",
+   "subtype": "Experts underrating themselves [Actor]",
+   "description": "A skilled young engineer assumes what is easy for her is easy for everyone and doubts her ability. Real skill can bring more awareness of gaps and less bragging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: doubt"
+   ]
+  },
+  {
+   "sno": 3598,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Arnab",
+     "Binita"
+    ],
+    "10": [
+     "Zeenat",
+     "Vandana"
+    ],
+    "11": [
+     "Nikita",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Dunning-Kruger effect",
+   "subtype": "Feedback for the unaware [Response]",
+   "description": "A mentor gives specific examples and asks the newcomer to explain a task step by step so gaps show for themselves. Blunt ridicule only hardens the false confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3599,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Farhan",
+     "Ankita"
+    ],
+    "10": [
+     "Kamal",
+     "Anjali"
+    ],
+    "11": [
+     "Ojas",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Hindsight bias",
+   "subtype": "I knew it all along [Actor]",
+   "description": "After the match ends a child says he knew that team would lose. The mind quietly rewrites earlier uncertainty into a neat, predictable story.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

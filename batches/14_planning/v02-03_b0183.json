@@ -1,0 +1,264 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7581,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Binita"
+    ],
+    "3": [
+     "Jomon",
+     "Elizabeth"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Values-first planning",
+   "subtype": "Approach: picks the plan that fits what matters most to them [Thinking]",
+   "description": "A boy invited to two parties chooses his grandmother's birthday because being with family matters more to him than the cricket match.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7582,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Vishal",
+     "Anjali"
+    ],
+    "3": [
+     "Chinmay",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Values-first planning",
+   "subtype": "Approach: names what matters before choosing a path [Thinking]",
+   "description": "A student choosing between coaching for a rank and a music course lists what he values, creativity and independence, and chooses accordingly with parents' input.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7583,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Jaya"
+    ],
+    "3": [
+     "Aadhya",
+     "Madhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Values-first planning",
+   "subtype": "Approach: checks each option against a short list of personal values [Action]",
+   "description": "A student weighing internships writes honesty, learning and family time as values, then rejects an offer with long unpaid hours that would erode them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 7584,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Ira",
+     "Nitin"
+    ],
+    "3": [
+     "Chandrika",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Values-first planning",
+   "subtype": "Approach: follows a stated value without checking real constraints [Pitfall]",
+   "description": "A young professional wanting to serve rural communities quits her job with no savings or plan. The value was sound but the plan ignored her family obligations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7585,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Zubin"
+    ],
+    "3": [
+     "Deepika",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Values-first planning",
+   "subtype": "Approach: keeps the value and rebuilds the route in stages [Revision]",
+   "description": "She returns to work part time, saves for a year, and volunteers on weekends with a rural health group before deciding on a bigger shift.",
+   "graph_context": [
+    "same problem, other approaches: constraint-based thinking",
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 7586,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Akash",
+     "Irawati"
+    ],
+    "3": [
+     "Eshaan",
+     "Nilesh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Emotion-aware planning",
+   "subtype": "Approach: goes to a calm spot when upset before trying again [Action]",
+   "description": "A child frustrated with a puzzle pushes it away, goes to sit with his mother for a while, and returns to try again once he is calmer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, confusion, calm"
+   ]
+  },
+  {
+   "sno": 7587,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Lavanya",
+     "Sangeeta"
+    ],
+    "3": [
+     "Rajni",
+     "Varun"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Emotion-aware planning",
+   "subtype": "Approach: picks an easier task when tired or upset [Thinking]",
+   "description": "A girl who is worried before a test does a favourite drawing for ten minutes first to calm down, then begins revision.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety, tiredness, calm"
+   ]
+  },
+  {
+   "sno": 7588,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sumit",
+     "Aparna"
+    ],
+    "3": [
+     "Rafiq",
+     "Hemant"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Emotion-aware planning",
+   "subtype": "Approach: schedules hard work at the times of day when energy is highest [Action]",
+   "description": "A teenager notices he thinks best in the early morning, so he does maths then and keeps evenings for lighter revision and reading.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 7589,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Irfan",
+     "Sonali"
+    ],
+    "3": [
+     "Tanvir",
+     "Alka"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Emotion-aware planning",
+   "subtype": "Approach: makes big decisions while angry or anxious [Pitfall]",
+   "description": "After a poor result, a student decides in a rage to drop his branch. A week later, calmer, he sees the choice was driven by shame more than by facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, anxiety, shame, calm"
+   ]
+  },
+  {
+   "sno": 7590,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Tanuja",
+     "Rashmi"
+    ],
+    "3": [
+     "Trisha",
+     "Pooja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Emotion-aware planning",
+   "subtype": "Approach: names the feeling, waits, and then plans [Revision]",
+   "description": "Feeling overwhelmed by a deadline, she says I feel anxious, takes a walk, and returns to sort tasks into a short list, which lowers the pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety, overwhelm"
+   ]
+  }
+ ]
+}

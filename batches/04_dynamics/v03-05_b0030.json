@@ -1,0 +1,333 @@
+{
+ "stage": "dynamics",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3198,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Varun"
+    ],
+    "4": [
+     "Chinmay",
+     "Ojas"
+    ],
+    "5": [
+     "Francis",
+     "Pooja"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 3: Endless preparation [Actor]",
+   "description": "A young adult researches a project for weeks, refining an outline that is never good enough to begin. Preparing feels productive but is a way of postponing the risk of being judged.",
+   "graph_context": [
+    "next stage: Paralysis and avoidance",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3199,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Asif",
+     "Sangeeta"
+    ],
+    "4": [
+     "Sofia",
+     "Lucia"
+    ],
+    "5": [
+     "Uday",
+     "Sabina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 4: Paralysis and avoidance [Actor]",
+   "description": "Deadlines pass without a submission or a job application because nothing seems ready. Doing nothing feels safer than doing something imperfect, though it guarantees the failure the person fears.",
+   "graph_context": [
+    "previous stage: Endless preparation",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear, trust",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3200,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Bhavna",
+     "Gautam"
+    ],
+    "4": [
+     "Chetan",
+     "Minakshi"
+    ],
+    "5": [
+     "Damini",
+     "Pema"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 4: Paralysis and avoidance [Observer]",
+   "description": "A teacher or friend sees strong ability going unused and the person turning down chances. Praising effort and progress, not only results, and showing one's own flawed drafts helps loosen the grip.",
+   "graph_context": [
+    "previous stage: Endless preparation",
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3201,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Rajni",
+     "Varun"
+    ],
+    "4": [
+     "Vidya",
+     "Pema"
+    ],
+    "5": [
+     "Chetan",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 1: High standards and praise [Observer]",
+   "description": "A teacher notes a student who never turns in drafts and cries over a small mark. Praising the effort, letting the student see teachers' own mistakes and allowing messy first tries reduce the fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3202,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Madhuri"
+    ],
+    "4": [
+     "Nkechi",
+     "Alejandro"
+    ],
+    "5": [
+     "Bidisha",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 5: The crash of comparison [Actor]",
+   "description": "Seeing peers ship imperfect work and succeed brings envy and confusion, along with shame at being stuck. The person starts to see that the rules they held were their own, not the world's.",
+   "graph_context": [
+    "next stage: Good enough experiments",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: shame, confusion, envy",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3203,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Dolma",
+     "Tenzin"
+    ],
+    "4": [
+     "Yamini",
+     "Uma"
+    ],
+    "5": [
+     "Nitin",
+     "Preeti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 6: Good enough experiments [Response]",
+   "description": "The person sets a time limit, sends a rough draft to a trusted person and notes that nothing terrible happened. Small controlled exposure to imperfection slowly retrains the fear response.",
+   "graph_context": [
+    "previous stage: The crash of comparison",
+    "next stage: Excellence without fear",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, trust",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3204,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Eshaan",
+     "Yash"
+    ],
+    "4": [
+     "Samir",
+     "Thomas"
+    ],
+    "5": [
+     "Rekha",
+     "Sudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Perfectionism and paralysis",
+   "subtype": "Stage 7: Excellence without fear [Response]",
+   "description": "Standards remain but are held lightly, valuing learning over flawlessness and separating self-worth from output. The person finishes things, accepts feedback and, if fear stays intense, seeks a counsellor.",
+   "graph_context": [
+    "previous stage: Good enough experiments",
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 3205,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Shreya"
+    ],
+    "4": [
+     "Leela",
+     "Yusuf"
+    ],
+    "5": [
+     "Reena",
+     "Manoj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 1: Excited beginner [Actor]",
+   "description": "A child begins tabla, chess or coding and sees quick early gains. Everything is new and every step is a win, so motivation is easy and expectations quietly rise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 3206,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Vaibhav",
+     "Kishore"
+    ],
+    "4": [
+     "Pradeep",
+     "Chinmay"
+    ],
+    "5": [
+     "Sachin",
+     "Noor"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 2: The gap between taste and ability [Actor]",
+   "description": "A teenager learning guitar or maths hears what good sounds like and sees their own work fall short. The frustration comes from having good taste before skill, and it is a sign of growth, not lack of talent.",
+   "graph_context": [
+    "next stage: The plateau",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3207,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Anand",
+     "Vandana"
+    ],
+    "4": [
+     "Nazia",
+     "Trisha"
+    ],
+    "5": [
+     "Nadia",
+     "Ivan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Interaction Dynamics",
+   "subtopic": "Learning a hard skill",
+   "subtype": "Stage 3: The plateau [Actor]",
+   "description": "Weeks of practice show no visible progress and the person suspects they have hit their limit. Improvement is happening under the surface, but the mind reads no visible change as no change.",
+   "graph_context": [
+    "previous stage: The gap between taste and ability",
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1478,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Eshaan",
+     "Tejas"
+    ],
+    "3": [
+     "Dhruv",
+     "Disha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Person × Rivalry [Actor]",
+   "description": "A classmate is a constant rival. Wise: let them push your standard while staying decent. Immature: sabotage.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, hatred, shame"
+   ]
+  },
+  {
+   "sno": 1479,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Kashish"
+    ],
+    "3": [
+     "Sabina",
+     "Hrithik"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Being idolised or hated",
+   "subtype": "Person × Rumours about you [Receiver]",
+   "description": "False stories spread. Wise: address key people calmly, do not chase every whisper, and let your behaviour speak. Harmful: fighting fire with fire.",
+   "graph_context": [
+    "same situation, other stances at this age: admiration, hatred, rivalry, shame",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 1480,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Vinita",
+     "Pradeep"
+    ],
+    "3": [
+     "Asif",
+     "Tarun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Self × Loneliness [Actor]",
+   "description": "In a new city with no one to talk to, evenings feel heavy. Wise: create routines, join a club or gym, and accept it takes months. Immature: scrolling home lives or withdrawing.",
+   "graph_context": [
+    "same situation, other stances at this age: shame",
+    "related mind states: detachment, loneliness"
+   ]
+  },
+  {
+   "sno": 1481,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Jahnavi",
+     "Jeevan"
+    ],
+    "3": [
+     "Leela",
+     "Asif"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Self × Homesickness [Actor]",
+   "description": "You miss family food and language. Wise: call home, but also build small anchors in the new place. Immature: living only for the next trip home.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness, shame",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 1482,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Rashmi",
+     "Ramesh"
+    ],
+    "3": [
+     "Varun",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Stranger × Reaching out [Actor]",
+   "description": "You want to talk to a neighbour or classmate and fear awkwardness. Wise: small repeated contact builds friendship. Immature: waiting to be invited.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness, shame",
+    "related mind states: anger, fear, embarrassment"
+   ]
+  },
+  {
+   "sno": 1483,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Yogesh",
+     "Francis"
+    ],
+    "3": [
+     "Jahnavi",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Landlord or neighbour × Feeling unsafe or cheated [Receiver]",
+   "description": "New city and unclear rules leave you vulnerable. Wise: get agreements in writing, keep contacts of trusted people, and ask seniors. Harmful: hiding problems from family.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness, shame",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1484,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Kalyani",
+     "Simran"
+    ],
+    "3": [
+     "Nitin",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Online friends × Digital company [Actor]",
+   "description": "You rely on gaming or online friends. Wise: value them and still seek some in-person connections. Immature: replacing all real contact.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness, shame"
+   ]
+  },
+  {
+   "sno": 1485,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Mei",
+     "Yara"
+    ],
+    "3": [
+     "Neelam",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Self × Shame about being lonely [Actor]",
+   "description": "You think everyone else has friends. Wise: many others feel the same; one honest conversation helps. Harmful: pretending to be fine.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness",
+    "related mind states: shame, loneliness"
+   ]
+  },
+  {
+   "sno": 1486,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Neelam"
+    ],
+    "3": [
+     "Vishal",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Colleague or classmate × Invitation [Receiver]",
+   "description": "Someone invites you to lunch or a plan. Wise: say yes even when tired; most friendships start there. Immature: declining out of shyness repeatedly.",
+   "graph_context": [
+    "same situation, other stances at this age: loneliness, shame",
+    "related mind states: shyness, tiredness"
+   ]
+  },
+  {
+   "sno": 1487,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Sami",
+     "Layla"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Loneliness in a new city",
+   "subtype": "Self × Low mood from isolation [Actor]",
+   "description": "Weeks alone drain your energy and sleep. Wise: notice the pattern, reach out to family, friends or a campus counsellor. Harmful: assuming nothing will help.",
+   "graph_context": [
+    "same situation, other stances at this age: shame",
+    "related mind states: loneliness"
+   ]
+  }
+ ]
+}

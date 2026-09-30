@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7321,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Uma"
+    ],
+    "3": [
+     "Saurabh",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: buying a policy only for tax saving [Pitfall]",
+   "description": "Late in March, the person buys a low-cover savings plan on an agent's push because of tax benefits, and later finds it gives little protection for the premium paid.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7322,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Anjali"
+    ],
+    "3": [
+     "Pranav",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: identifying dependants and gaps [Thinking]",
+   "description": "Since parents depend on the person's income, the person considers term life cover and separate health cover for parents, mapping who would suffer if income stopped.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7323,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Rukmini",
+     "Raghav"
+    ],
+    "3": [
+     "Sarika",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: raiding the fund for a gadget [Pitfall]",
+   "description": "A sale tempts the person to use emergency savings for a new phone, promising to refill it soon. The refill is forgotten and the safety cushion quietly disappears.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7324,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Arohi"
+    ],
+    "3": [
+     "Naveen",
+     "Trisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: rule for what counts as emergency [Action]",
+   "description": "The person writes a short if-then rule: only medical bills, job loss or urgent home repair allow withdrawal, so that sales and trips do not drain the fund.",
+   "graph_context": [
+    "same problem, other approaches: checklist, task decomposition",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 7325,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Gargi",
+     "Seema"
+    ],
+    "3": [
+     "Shankar",
+     "Sachin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: reviewing cover yearly [Revision]",
+   "description": "After a job change and a marriage, the person checks policy amounts and nominees, updating cover so that it matches new responsibilities rather than staying frozen from the first purchase.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7326,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Yogesh"
+    ],
+    "3": [
+     "Shankar",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Building insurance and an emergency fund",
+   "subtype": "Approach: layered fund with liquid and near-liquid parts [Action]",
+   "description": "Part of the reserve sits in a savings account for instant use and part in a liquid fund, so that small needs are quick while the rest earns slightly more.",
+   "graph_context": [
+    "same problem, other approaches: checklist, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7327,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Leela",
+     "Gargi"
+    ],
+    "3": [
+     "Gautam",
+     "Yogesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: safety first then triage [Thinking]",
+   "description": "When floodwater enters a rented flat, the person ranks needs: people and documents first, then medicines, phone and power bank, and only later furniture and electronics.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it",
+    "related mind states: overwhelm, trust"
+   ]
+  },
+  {
+   "sno": 7328,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Kashish",
+     "Zeenat"
+    ],
+    "3": [
+     "Anirban",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: following official alerts and evacuation guidance [Action]",
+   "description": "The person watches local authority alerts, moves family to a designated relief shelter or relatives on higher ground, and avoids risky attempts to save belongings from rising water.",
+   "graph_context": [
+    "same problem, other approaches: contingency planning, resource and budget planning, sleeping on it",
+    "related mind states: relief, nostalgia"
+   ]
+  },
+  {
+   "sno": 7329,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Vandana"
+    ],
+    "3": [
+     "Hrithik",
+     "Saurabh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: photographing damage for insurance and aid [Action]",
+   "description": "After the water recedes, the person takes dated photos, keeps repair bills, and informs the landlord and insurer promptly, so claims and any government relief can be supported with records.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning, sleeping on it",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 7330,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Imran"
+    ],
+    "3": [
+     "Gurpreet",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Facing a natural disaster at home",
+   "subtype": "Approach: ignoring warnings and hoping it passes [Pitfall]",
+   "description": "Having seen mild floods before, the person dismisses the alert and delays leaving. Roads close overnight, and rescue becomes harder and riskier for the whole family.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, contingency planning, resource and budget planning",
+    "related mind states: overwhelm"
+   ]
+  }
+ ]
+}

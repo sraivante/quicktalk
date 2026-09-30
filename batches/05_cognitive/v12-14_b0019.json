@@ -1,0 +1,316 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3750,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Hansa",
+     "Ayesha"
+    ],
+    "13": [
+     "Hansa",
+     "Farhan"
+    ],
+    "14": [
+     "Avni",
+     "Shankar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Regret aversion",
+   "subtype": "Deciding with a regret check [Response]",
+   "description": "A wise person asks which choice she will respect in ten years, accepts that some regret is normal, and commits fully once she chooses.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: admiration, regret"
+   ]
+  },
+  {
+   "sno": 3751,
+   "plan": {
+    "12": "R4+T1",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Yusuf",
+     "Vikas"
+    ],
+    "13": [
+     "Kamal",
+     "Deepak"
+    ],
+    "14": [
+     "Ira",
+     "Manjula"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Omission bias",
+   "subtype": "Not doing feels innocent [Actor]",
+   "description": "A child feels less guilty for letting a wrong happen than for causing it. Harm by inaction seems milder than the same harm by action.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 3752,
+   "plan": {
+    "12": "R6",
+    "13": "R7",
+    "14": "R8"
+   },
+   "cast": {
+    "12": [
+     "Shankar",
+     "Devika"
+    ],
+    "13": [
+     "Rehana",
+     "Madhav"
+    ],
+    "14": [
+     "Hana",
+     "Tariq"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Omission bias",
+   "subtype": "Watching and staying silent [Actor]",
+   "description": "A teenager who sees a classmate being teased stays silent, feeling less responsible than the teaser. Doing nothing feels safer than intervening, but the harm still occurs.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3753,
+   "plan": {
+    "12": "R8",
+    "13": "R9",
+    "14": "R10"
+   },
+   "cast": {
+    "12": [
+     "Emeka",
+     "Lars"
+    ],
+    "13": [
+     "Lakshmi",
+     "Arnab"
+    ],
+    "14": [
+     "Kamal",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Omission bias",
+   "subtype": "Health and choices [Actor]",
+   "description": "A young adult avoids a recommended vaccine or check-up because a rare side effect feels worse than a larger risk from the disease. Action feels more blameworthy than inaction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3754,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Pallavi",
+     "Swati"
+    ],
+    "13": [
+     "Pooja",
+     "Aditi"
+    ],
+    "14": [
+     "Nandini",
+     "Asif"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Omission bias",
+   "subtype": "Owning inaction [Response]",
+   "description": "A mature person asks what she would think if she had caused the outcome directly, accepts that not acting is also a choice, and speaks up or seeks qualified advice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3755,
+   "plan": {
+    "12": "R9",
+    "13": "R10",
+    "14": "R11"
+   },
+   "cast": {
+    "12": [
+     "Chinmay",
+     "Thomas"
+    ],
+    "13": [
+     "Vandana",
+     "Bhupen"
+    ],
+    "14": [
+     "Payal",
+     "Sumit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Zero-risk bias",
+   "subtype": "Wanting perfect safety [Actor]",
+   "description": "A teenager prefers removing a small risk entirely over greatly cutting a larger one, because getting to zero feels comforting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3756,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Gurleen",
+     "Yogesh"
+    ],
+    "13": [
+     "Himani",
+     "Imran"
+    ],
+    "14": [
+     "Suraj",
+     "Chaitanya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Zero-risk bias",
+   "subtype": "Certain over better [Actor]",
+   "description": "A student accepts a low but sure return over a much better one, or fixates on eliminating one small fear while ignoring a bigger danger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 3757,
+   "plan": {
+    "12": "R12",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Harish",
+     "Sahil"
+    ],
+    "13": [
+     "Ritu",
+     "Deepak"
+    ],
+    "14": [
+     "Hafsa",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Zero-risk bias",
+   "subtype": "Comparing total risk [Response]",
+   "description": "A careful planner asks how much overall risk is reduced by each option and does not fixate on the comfort of a perfect zero.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3758,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Rafiq",
+     "Aadhya"
+    ],
+    "13": [
+     "Gopika",
+     "Sangeeta"
+    ],
+    "14": [
+     "Mohit",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Zero-risk bias",
+   "subtype": "Parents and safety [Observer]",
+   "description": "A young parent notices relatives over-protect from one rare risk while overlooking common ones, and helps choose measures by total benefit with kindness toward the fear.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 3759,
+   "plan": {
+    "12": "R8+T1",
+    "13": "R13+T2",
+    "14": "R1+T2"
+   },
+   "cast": {
+    "12": [
+     "Emeka",
+     "Selin"
+    ],
+    "13": [
+     "Samir",
+     "Tanvir"
+    ],
+    "14": [
+     "Pankaj",
+     "Divyansh"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reactance",
+   "subtype": "No means yes [Actor]",
+   "description": "A toddler told not to touch something reaches for it at once. Being restricted makes the forbidden thing more attractive and he asserts his own will.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26"
+   ]
+  }
+ ]
+}

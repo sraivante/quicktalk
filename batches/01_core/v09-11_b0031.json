@@ -1,0 +1,283 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 301,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Vishal",
+     "Ujjwal"
+    ],
+    "10": [
+     "Yash",
+     "Asif"
+    ],
+    "11": [
+     "Jyoti",
+     "Irfan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Mental Health",
+   "subtopic": "Professional Support",
+   "subtype": "Therapy, Counselling & Peer Support",
+   "description": "Treating psychological care as ordinary maintenance and choosing appropriate help."
+  },
+  {
+   "sno": 302,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Wasim",
+     "Pema"
+    ],
+    "10": [
+     "Parveen",
+     "Avni"
+    ],
+    "11": [
+     "Pradeep",
+     "Lakshmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Identity",
+   "subtopic": "Integrated Self",
+   "subtype": "Aligning Values, Work & Relationships",
+   "description": "Reconciling roles, values and family duty into a coherent identity."
+  },
+  {
+   "sno": 303,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Omkar",
+     "Jyoti"
+    ],
+    "10": [
+     "Sangeeta",
+     "Kishore"
+    ],
+    "11": [
+     "Ramesh",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive",
+   "subtopic": "Judgment",
+   "subtype": "Decision-Making Under Uncertainty",
+   "description": "Making good decisions with incomplete information, updating beliefs and accepting outcome variance."
+  },
+  {
+   "sno": 304,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Aadhya",
+     "Lakshmi"
+    ],
+    "10": [
+     "Chandrika",
+     "Shreya"
+    ],
+    "11": [
+     "Wasim",
+     "Deepika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Emotional",
+   "subtopic": "Emotional Mastery",
+   "subtype": "Managing Anger, Envy & Ego at Work",
+   "description": "Handling status threats and rivalry professionally.",
+   "graph_context": [
+    "related mind states: anger, envy"
+   ]
+  },
+  {
+   "sno": 305,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Nadia",
+     "Bao"
+    ],
+    "10": [
+     "Suraj",
+     "Yash"
+    ],
+    "11": [
+     "Samir",
+     "Divyansh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Collaboration",
+   "subtype": "Human-AI Teamwork & Responsible Deployment",
+   "description": "Delegating to AI while retaining accountability, verifying results and preventing skill atrophy."
+  },
+  {
+   "sno": 306,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Seema",
+     "Rekha"
+    ],
+    "10": [
+     "Rekha",
+     "Shankar"
+    ],
+    "11": [
+     "Kavitha",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Digital & Technology",
+   "subtopic": "Information Integrity",
+   "subtype": "Deepfakes, Misinformation & Verification",
+   "description": "Detecting synthetic media and disinformation and verifying before sharing."
+  },
+  {
+   "sno": 307,
+   "plan": {
+    "9": "R15",
+    "10": "R1",
+    "11": "R2"
+   },
+   "cast": {
+    "9": [
+     "Ujjwal",
+     "Tenzin"
+    ],
+    "10": [
+     "Pooja",
+     "Darshan"
+    ],
+    "11": [
+     "Gurleen",
+     "Sunaina"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Digital & Technology",
+   "subtopic": "Attention Sovereignty",
+   "subtype": "Deliberate Technology Use & Digital Minimalism",
+   "description": "Choosing tools and information diets consciously rather than by default."
+  },
+  {
+   "sno": 308,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Rehana",
+     "Madhuri"
+    ],
+    "10": [
+     "Dolma",
+     "Shreya"
+    ],
+    "11": [
+     "Alejandro",
+     "Yara"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Financial Literacy",
+   "subtopic": "Long-Term Planning",
+   "subtype": "Home Purchase, Insurance & Retirement Basics",
+   "description": "Comparing renting vs. buying, adequate insurance and starting retirement saving."
+  },
+  {
+   "sno": 309,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Mridul",
+     "Kashish"
+    ],
+    "10": [
+     "Siddharth",
+     "Hrithik"
+    ],
+    "11": [
+     "Soo-ah",
+     "Wei"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Financial Literacy",
+   "subtopic": "Consumption Discipline",
+   "subtype": "Avoiding Lifestyle Inflation & Status Spending",
+   "description": "Keeping expenses below income growth and separating needs from image."
+  },
+  {
+   "sno": 310,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Keerthana",
+     "Tarun"
+    ],
+    "10": [
+     "Bidisha",
+     "Thomas"
+    ],
+    "11": [
+     "Chandrika",
+     "Francis"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Civic & Relational",
+   "subtopic": "Civic Engagement",
+   "subtype": "Policy Understanding & Constructive Participation",
+   "description": "Understanding public policy trade-offs and participating in local governance."
+  }
+ ]
+}

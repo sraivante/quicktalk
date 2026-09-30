@@ -1,0 +1,213 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5172,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Kashish",
+     "Dilnaz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "Big bursts then collapse [Actor]",
+   "description": "A teenager studies fourteen hours in a rush after weeks of nothing, then burns out and skips the next week. Intensity feels heroic but is hard to repeat, and the pattern leaves knowledge patchy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5173,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Rashmi",
+     "Jyoti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "New year style resolutions [Actor]",
+   "description": "A young adult starts an ambitious fitness or study routine with great energy and quits after the first missed day. All-or-nothing thinking turns one lapse into a reason to abandon everything.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related concepts: all-or-nothing thinking"
+   ]
+  },
+  {
+   "sno": 5174,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Tenzin",
+     "Nirmala"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "Seasonal sprints with recovery [Response]",
+   "description": "A thoughtful person accepts that exams or launches need intense phases, but plans rest and easier weeks around them. Alternating effort and recovery is sustainable; permanent sprinting is not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5175,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Shankar",
+     "Chinmay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "Small daily habits compounding [Actor]",
+   "description": "A steady worker practises a skill for thirty minutes every day and after a year is far ahead of those who binge occasionally. The results are invisible for a long time, which is why many quit early.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5176,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Vaibhav",
+     "Aditi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "Colleague who is reliable rather than brilliant [Observer]",
+   "description": "A team notices that the quiet person delivering steadily each week is trusted more than the star who vanishes and reappears. Reliability builds a reputation that occasional brilliance cannot.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5177,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Kamal",
+     "Hrithik"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Consistency versus intensity",
+   "subtype": "Never missing twice [Response]",
+   "description": "A wise habit-builder allows a missed day but refuses to miss two in a row, and keeps a minimum version of the habit for bad days. Lowering the floor keeps the chain alive through illness and travel.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5178,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Sangeeta",
+     "Afreen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Sleep sacrificed for work [Actor]",
+   "description": "A teenager preparing for a competitive exam cuts sleep and breaks to gain hours, and finds concentration and memory falling. The lost hours are partly repaid in poor performance, though the sacrifice feels virtuous.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5179,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Wei",
+     "Tariq"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Early signs of exhaustion [Actor]",
+   "description": "A student feels cynical about work, tired despite resting and less caring about things that once mattered. These signs mean the load is unsustainable, not that the person is weak or ungrateful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: gratitude, tiredness"
+   ]
+  },
+  {
+   "sno": 5180,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Kavitha",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Always-on work culture [Receiver]",
+   "description": "An employee in a team that expects replies late at night and on weekends gradually loses rest and interest. The pressure rarely comes as a single order; it accumulates through unspoken expectations.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 5181,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Gautam",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Burnout prevention in execution",
+   "subtype": "Colleague quietly running on empty [Observer]",
+   "description": "A coworker notices someone becoming unusually irritable, making careless errors and withdrawing from conversation. A private, caring check-in works better than a public remark, and persistent distress calls for professional help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: detachment"
+   ]
+  }
+ ]
+}

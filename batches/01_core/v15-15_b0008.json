@@ -1,0 +1,201 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 71,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Parveen",
+     "Trisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social / Mission",
+   "subtopic": "Prosocial Care",
+   "subtype": "Group & Community Care",
+   "description": "Taking active responsibility for helping peers, caring for animals, or serving group roles.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 72,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Jahnavi",
+     "Amandeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Behavior",
+   "subtopic": "Intelligent Decision-Making",
+   "subtype": "Rule-Based Problem Solving",
+   "description": "Using structured logic, step-by-step choices, and standard rules to resolve daily dilemmas.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 73,
+   "plan": {
+    "15": "R15+T1"
+   },
+   "cast": {
+    "15": [
+     "Vikas",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Habits & Ethics",
+   "subtopic": "Academic Discipline",
+   "subtype": "Study & Work Ethics",
+   "description": "Building diligent study routines, punctuality, and academic honesty vs. procrastination, slacking off, and cheating.",
+   "graph_context": [
+    "related concepts: procrastination"
+   ]
+  },
+  {
+   "sno": 74,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Zainab",
+     "Sahil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Financial Literacy",
+   "subtopic": "Resource Management",
+   "subtype": "Thrift & Value Awareness",
+   "description": "Grasping money as exchanged value, practicing saving, avoiding wasteful consumption, and respecting resource limits.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 75,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Alka",
+     "Joseph"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Civic & Relational",
+   "subtopic": "Civic Identity",
+   "subtype": "Patriotism & Institutional Respect",
+   "description": "Honoring national symbols (flag, anthem), respecting school/civil rules, and valuing extended family and government institutions.",
+   "graph_context": [
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 76,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Alka",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Responsibility",
+   "subtopic": "Spheres of Responsibility",
+   "subtype": "Community & Environment",
+   "description": "Taking personal ownership of homework/chores, respecting community spaces, caring for animals, and practicing respectful digital behavior.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 77,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Aadhya",
+     "Sabina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Metacognition",
+   "description": "Developing the ability to think about one's own thinking, analyze flaws, and self-reflect."
+  },
+  {
+   "sno": 78,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Chidi",
+     "Beatriz"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Hypothetical Reasoning",
+   "description": "Asking \"what if\" questions and playing out complex scenarios that have not happened."
+  },
+  {
+   "sno": 79,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Gargi",
+     "Kashish"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive",
+   "subtopic": "Abstract Thinking",
+   "subtype": "Systems Thinking",
+   "description": "Understanding how multiple separate variables interact within a larger system."
+  },
+  {
+   "sno": 80,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Ankita",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Critical Thinking",
+   "subtopic": "Metacognitive Virtues",
+   "subtype": "Intellectual Humility & Bias Awareness",
+   "description": "Recognizing personal cognitive biases, logical fallacies, emotional reasoning, and the limits of one's knowledge.",
+   "graph_context": [
+    "related concepts: emotional reasoning"
+   ]
+  }
+ ]
+}

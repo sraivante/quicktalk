@@ -1,0 +1,262 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7051,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Vasudha"
+    ],
+    "3": [
+     "Shalini",
+     "Salma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: rebuild belonging through healthy communities [Revision]",
+   "description": "After leaving, the person joins a sports club and a study circle and speaks to a counsellor about shame. Filling the need for connection lowers the risk of a repeat.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning",
+    "related mind states: shame, nostalgia"
+   ]
+  },
+  {
+   "sno": 7052,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Sarika",
+     "Deepika"
+    ],
+    "3": [
+     "Pankaj",
+     "Vasudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: seek advice from a counsellor or former members [Action]",
+   "description": "The person reads accounts of ex-members and talks to a counsellor about the group's methods. Outside experience clarifies what is going on and reduces self-blame.",
+   "graph_context": [
+    "same problem, other approaches: sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7053,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Lokesh",
+     "Uday"
+    ],
+    "3": [
+     "Devika",
+     "Farida"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Resisting a high-control group",
+   "subtype": "Approach: pre-commit to a decision rule about sign-ups [Thinking]",
+   "description": "The student decides never to sign, pay or move house on the day of a meeting, and to sleep on any request. A simple rule guards against pressure in the moment.",
+   "graph_context": [
+    "same problem, other approaches: seeking advice, sleeping on it, values-first planning"
+   ]
+  },
+  {
+   "sno": 7054,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Raghav"
+    ],
+    "3": [
+     "Chinmay",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: task decomposition into milestones and owners [Thinking]",
+   "description": "A 24-year-old engineer made lead of a billing module splits it into five deliverables, estimates each with the team, and notes which risky piece needs the earliest start.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version"
+   ]
+  },
+  {
+   "sno": 7055,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Tarun",
+     "Mridul"
+    ],
+    "3": [
+     "Chandrika",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: working backward from the client demo date [Action]",
+   "description": "The new lead fixes the demo date, marks integration testing two weeks before it, then places design and coding deadlines behind that. The team sees a shared calendar on day one.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version"
+   ]
+  },
+  {
+   "sno": 7056,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Ujjwal"
+    ],
+    "3": [
+     "Pema",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: delegation matched to strengths [Action]",
+   "description": "The lead asks each member what they enjoy and are good at, gives the database work to the quiet backend person, and keeps weekly ten-minute check-ins instead of watching every commit.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, minimum viable version, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7057,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Olga",
+     "Selin"
+    ],
+    "3": [
+     "Gopika",
+     "Neelam"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: seeking advice from a senior mentor [Thinking]",
+   "description": "Unsure how to run planning meetings, the new lead asks a senior manager for an hour. She learns to write decisions down and to ask for estimates privately first, then adapts this to her team.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version"
+   ]
+  },
+  {
+   "sno": 7058,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Chinmay",
+     "Gopika"
+    ],
+    "3": [
+     "Nilesh",
+     "Pema"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: minimum viable release then iteration [Thinking]",
+   "description": "Instead of building every feature, the lead ships a bare login and report screen in three weeks, gets user feedback, and lets that feedback decide what the second sprint contains.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7059,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Himani",
+     "Sachin"
+    ],
+    "3": [
+     "Wasim",
+     "Jaya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: pre-mortem with the whole team [Thinking]",
+   "description": "Before kickoff the lead asks everyone to imagine the project failed in six months and write why. Unclear requirements and one key person leaving top the list, so both get early safeguards.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7060,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Uday",
+     "Divyansh"
+    ],
+    "3": [
+     "Chaitanya",
+     "Gurleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: doing the hardest tasks personally to be safe [Pitfall]",
+   "description": "Fearing mistakes, the new lead keeps every difficult module for himself. He works late, teammates sit underused, and the deadline slips because he becomes the single bottleneck.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, delegation, minimum viable version, pre-mortem",
+    "related mind states: fear, trust"
+   ]
+  }
+ ]
+}

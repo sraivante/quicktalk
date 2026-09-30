@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6201,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Disha"
+    ],
+    "3": [
+     "Saurabh",
+     "Mridul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Asking parents for something",
+   "subtype": "Approach: being ready to compromise [Thinking]",
+   "description": "Wanting a two thousand rupee game console, a boy accepts that a cheaper option or waiting for his birthday could work, choosing part of what he wants over nothing.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, mental simulation"
+   ]
+  },
+  {
+   "sno": 6202,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Swati",
+     "Yogesh"
+    ],
+    "3": [
+     "Javier",
+     "Sofia"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: switching to an indoor activity [Revision]",
+   "description": "When rain cancels the cricket match, the children decide to play carrom and ludo indoors, and treat it as a different fun day rather than a lost one.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: playfulness"
+   ]
+  },
+  {
+   "sno": 6203,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Mei",
+     "Yara"
+    ],
+    "3": [
+     "Mahima",
+     "Rukmini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: thinking of what is still possible [Thinking]",
+   "description": "During a night power cut, a girl notes she cannot use the tablet but can read by candle light, tell stories or play antakshari with her family.",
+   "graph_context": [
+    "same problem, other approaches: commitment device"
+   ]
+  },
+  {
+   "sno": 6204,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Jatin",
+     "Vandana"
+    ],
+    "3": [
+     "Hemant",
+     "Anirban"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: sulking and blaming [Pitfall]",
+   "description": "A boy whose picnic is rained off sits angry and says everything is spoiled, so he misses the chance to enjoy the cosy day the family attempts to arrange.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6205,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Mahima"
+    ],
+    "3": [
+     "Madhav",
+     "Mehak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: preparing a torch and candles in advance [Action]",
+   "description": "Since power cuts happen in summer, a child keeps a torch, matches and a hand fan in a known place, and can help the family quickly when lights go out.",
+   "graph_context": [
+    "same problem, other approaches: commitment device"
+   ]
+  },
+  {
+   "sno": 6206,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Kiran",
+     "Parveen"
+    ],
+    "3": [
+     "Kavitha",
+     "Noor"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: making a back-up plan for outdoor events [Thinking]",
+   "description": "Planning a birthday in the garden, a girl suggests that if it rains they will move to the hall and keeps the games ready for both places.",
+   "graph_context": [
+    "same problem, other approaches: commitment device"
+   ]
+  },
+  {
+   "sno": 6207,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Jomon",
+     "Divyansh"
+    ],
+    "3": [
+     "Zubin",
+     "Minakshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: finishing homework before the battery dies [Action]",
+   "description": "When the weather forecast warns of a storm, a boy completes the online task early and prints notes, so an outage does not leave him stranded before the deadline."
+  },
+  {
+   "sno": 6208,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Varun"
+    ],
+    "3": [
+     "Leela",
+     "Avni"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: safety thinking during a storm [Thinking]",
+   "description": "A girl remembers to stay away from electric wires and wet switches, unplug the television and keep away from windows during lightning, following the rules taught at school.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6209,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Arnab",
+     "Raghav"
+    ],
+    "3": [
+     "Nandini",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: turning the problem into a game [Revision]",
+   "description": "Facing a long evening without electricity, the siblings invent shadow puppets with the torch and make up a story, changing frustration into a memory.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6210,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Sonali",
+     "Pankaj"
+    ],
+    "3": [
+     "Ayesha",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "A power cut or rain spoils plans",
+   "subtype": "Approach: waiting passively for things to return to normal [Pitfall]",
+   "description": "A child sits still doing nothing until the lights return, feeling bored and complaining, without trying any of the many alternative activities available.",
+   "graph_context": [
+    "same problem, other approaches: commitment device",
+    "related mind states: boredom"
+   ]
+  }
+ ]
+}

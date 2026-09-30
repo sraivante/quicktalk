@@ -1,0 +1,216 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5376,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Aparna",
+     "Madhuri"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Arguing productively",
+   "subtype": "Conceding a point [Response]",
+   "description": "A young adult says that is a fair point and adjusts their position. Yielding to a good argument builds credibility and shows that the goal is truth, not ego.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5377,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Chen",
+     "Zanele"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Arguing productively",
+   "subtype": "Cooling down and returning [Response]",
+   "description": "Partners or colleagues in a heated dispute agree to take twenty minutes and come back. A planned pause is not avoidance if it ends with a return to the matter.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 5378,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Rashmi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Arguing productively",
+   "subtype": "Stonewalling as withdrawal [Receiver]",
+   "description": "A person whose partner goes silent, arms crossed, during a disagreement feels shut out and escalates. The silent one is often overwhelmed and needs a break, and both need a way to say so.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: detachment, overwhelm"
+   ]
+  },
+  {
+   "sno": 5379,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Pranav",
+     "Pankaj"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Texting tone and misunderstandings",
+   "subtype": "Literal reading [Receiver]",
+   "description": "A child reads a short okay from a friend as anger. Without voice and face, short messages get interpreted through the reader's own fears.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger, fear"
+   ]
+  },
+  {
+   "sno": 5380,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Zainab",
+     "Arohi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Texting tone and misunderstandings",
+   "subtype": "Punctuation as mood [Receiver]",
+   "description": "A teenager notices a full stop after a reply or a missing emoji and worries a friend is upset. Tone in text is guessed, and guesses lean negative when anxious.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5381,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Lavanya",
+     "Mehak"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Texting tone and misunderstandings",
+   "subtype": "Checking before assuming [Response]",
+   "description": "A young adult asks are you upset with me or is it my imagination, instead of building a story from a delayed reply. Asking a direct, gentle question stops anxious spirals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5382,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Thomas",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Texting tone and misunderstandings",
+   "subtype": "Too serious for text [Response]",
+   "description": "A person recognises a sensitive matter is escalating over messages and calls or meets in person. Voice and face carry warmth that text cannot.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 5383,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Kiran",
+     "Vaibhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Texting tone and misunderstandings",
+   "subtype": "Read receipts and response anxiety [Receiver]",
+   "description": "A person sees a message read but not answered and starts spinning explanations. Delays usually mean busyness, and giving others the benefit of doubt saves needless pain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: anxiety, doubt, hurt"
+   ]
+  },
+  {
+   "sno": 5384,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Elizabeth",
+     "Imran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Voice notes",
+   "subtype": "Casual intimacy [Actor]",
+   "description": "A teenager sends long voice notes to close friends, laughing and rambling. Voice notes feel more personal than text and carry emotion, but assume the friend has time and privacy.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 5385,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Salma",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Voice notes",
+   "subtype": "Voice note burden [Receiver]",
+   "description": "A student receives a five-minute voice note in a lecture or on a train and cannot listen. Receivers often want a text summary, and senders may not realise the demand on their time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  }
+ ]
+}

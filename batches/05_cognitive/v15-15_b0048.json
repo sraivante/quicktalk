@@ -1,0 +1,216 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 4040,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Sharmila",
+     "Zeenat"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Need for approval",
+   "subtype": "Building inner approval [Response]",
+   "description": "An adult asks whether the choice would make them proud even if nobody clapped and notes their own values before seeking reactions; inner steadiness does not remove the wish for approval but lowers its grip.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 4041,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Nirmala",
+     "Bidisha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Tired after a hard effort [Actor]",
+   "description": "A child who worked at difficult sums for an hour finds it harder to resist snacks and picks fights; mental fatigue seems to reduce patience, though the science of a single fuel tank is contested.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 4042,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Chaitanya",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Skeptic of the fuel tank idea [Observer]",
+   "description": "A psychology student learns that large replications failed to confirm strong depletion effects and that beliefs about tiredness may matter; tiredness and low motivation are real, but the mechanism is uncertain.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: doubt, tiredness"
+   ]
+  },
+  {
+   "sno": 4043,
+   "plan": {
+    "15": "R9+T1"
+   },
+   "cast": {
+    "15": [
+     "Lakshmi",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Decision fatigue at day's end [Actor]",
+   "description": "An adult who made many choices at work orders takeaway and skips the workout; whether the cause is depletion, boredom or shifting priorities, doing hard things earlier and lowering friction helps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: boredom, tiredness",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 4044,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Darshan",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ego depletion debate",
+   "subtype": "Planning around energy [Response]",
+   "description": "An adult places the most important task at their best time of day and reduces evening choices by preparing ahead; respecting limits is smarter than blaming character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4045,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Mei",
+     "Fatima"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Waiting for the second sweet [Actor]",
+   "description": "A child sits on their hands and looks away from a sweet to earn two; distraction and thinking of something else help more than raw willpower.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 4046,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Jasleen",
+     "Tushar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Trust and waiting [Actor]",
+   "description": "A child who has learned that adults often break promises grabs the reward at once; the choice is reasonable when the future is unreliable and not a sign of weak character.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4047,
+   "plan": {
+    "15": "R3+T1"
+   },
+   "cast": {
+    "15": [
+     "Gautam",
+     "Chetan"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Choosing study over the game [Actor]",
+   "description": "A teenager mutes the game notifications and puts the phone in another room before revising; changing the environment beats gritting teeth.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22",
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 4048,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Gopika",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Delay of gratification",
+   "subtype": "Caregiver modelling patience [Response]",
+   "description": "A parent or teacher who keeps small promises and shows how to wait through singing or counting builds a child's ability to defer; reliability teaches that waiting pays.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 4049,
+   "plan": {
+    "15": "R2+T1"
+   },
+   "cast": {
+    "15": [
+     "Ankita",
+     "Jomon"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Implementation intentions",
+   "subtype": "If-then plan for a temptation [Actor]",
+   "description": "A teenager decides that if it is after dinner then they open the maths book before the phone; a specific cue and action reduces reliance on in-the-moment choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  }
+ ]
+}

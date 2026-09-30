@@ -1,0 +1,293 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 181,
+   "plan": {
+    "9": "R15",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Ira",
+     "Aadhya"
+    ],
+    "10": [
+     "Seema",
+     "Himani"
+    ],
+    "11": [
+     "Sahil",
+     "Binita"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Emotional",
+   "subtopic": "Fear & Imagination",
+   "subtype": "Fear of Dark & Imagined Monsters",
+   "description": "Separating imagination from reality and accepting comfort.",
+   "graph_context": [
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 182,
+   "plan": {
+    "9": "R13",
+    "10": "R15+T1",
+    "11": "R1+T1"
+   },
+   "cast": {
+    "9": [
+     "Nilesh",
+     "Ankita"
+    ],
+    "10": [
+     "Binita",
+     "Saurabh"
+    ],
+    "11": [
+     "Francis",
+     "Gautam"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Creativity",
+   "subtopic": "Artistic Expression",
+   "subtype": "Drawing, Singing & Movement",
+   "description": "Expressing ideas through crayon, rhythm and dance without fear of judgment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 183,
+   "plan": {
+    "9": "R15",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Salma",
+     "Irawati"
+    ],
+    "10": [
+     "Kunal",
+     "Ujjwal"
+    ],
+    "11": [
+     "Thomas",
+     "Karthik"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Ethics",
+   "subtopic": "Care for Nature",
+   "subtype": "Kindness to Plants & Animals",
+   "description": "Watering plants, feeding birds and not hurting insects.",
+   "graph_context": [
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 184,
+   "plan": {
+    "9": "R1",
+    "10": "R2+T1",
+    "11": "R4+T1"
+   },
+   "cast": {
+    "9": [
+     "Pema",
+     "Shalini"
+    ],
+    "10": [
+     "Bhavna",
+     "Manoj"
+    ],
+    "11": [
+     "Zeenat",
+     "Swati"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Financial Literacy",
+   "subtopic": "Money Concepts",
+   "subtype": "Ownership, Cost & Exchange",
+   "description": "Understanding that things cost money and belong to someone."
+  },
+  {
+   "sno": 185,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Kofi",
+     "Bao"
+    ],
+    "10": [
+     "Madhav",
+     "Harish"
+    ],
+    "11": [
+     "Chandrika",
+     "Deepika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Learning Skills",
+   "subtype": "Note-Taking & Memorization Techniques",
+   "description": "Using summaries, repetition, mnemonics and spaced review to retain material."
+  },
+  {
+   "sno": 186,
+   "plan": {
+    "9": "R5",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Anjali",
+     "Kavitha"
+    ],
+    "10": [
+     "Gautam",
+     "Sarita"
+    ],
+    "11": [
+     "Aiko",
+     "Xin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Learning Mindset",
+   "subtype": "Growth Mindset",
+   "description": "Believing ability grows with effort; replacing \"I can't\" with \"not yet\"."
+  },
+  {
+   "sno": 187,
+   "plan": {
+    "9": "R9",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Vijay",
+     "Ishita"
+    ],
+    "10": [
+     "Rukmini",
+     "Alka"
+    ],
+    "11": [
+     "Bhupen",
+     "Neelam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Reasoning",
+   "subtype": "Deductive Puzzles & Cause-Effect Chains",
+   "description": "Solving riddles, sequences and simple logic problems step by step.",
+   "graph_context": [
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 188,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Madhav",
+     "Lokesh"
+    ],
+    "10": [
+     "Liam",
+     "Nadia"
+    ],
+    "11": [
+     "Lokesh",
+     "Jahnavi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Written Expression",
+   "subtype": "Paragraph Writing & Opinion with Reasons",
+   "description": "Writing organized paragraphs and supporting an opinion with reasons."
+  },
+  {
+   "sno": 189,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Hansa",
+     "Damini"
+    ],
+    "10": [
+     "Yash",
+     "Asif"
+    ],
+    "11": [
+     "Devika",
+     "Ganga"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Multilingualism",
+   "subtype": "Switching Between Home, National & Global Languages",
+   "description": "Using different languages appropriately across family, school and wider settings."
+  },
+  {
+   "sno": 190,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Marek",
+     "Tariq"
+    ],
+    "10": [
+     "Ritu",
+     "Keerthana"
+    ],
+    "11": [
+     "Arohi",
+     "Vaibhav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive",
+   "subtopic": "Scientific Thinking",
+   "subtype": "Prediction, Observation & Simple Experiments",
+   "description": "Forming a guess, testing it, and noticing what actually happened."
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 768,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Xin",
+     "Santiago"
+    ],
+    "3": [
+     "Neelam",
+     "Chandrika"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent or sibling ill",
+   "subtype": "Parent × Worry [Actor]",
+   "description": "My mother is unwell and I worry about her all day at school. Worry shows love. Wise: ask what I can help with, keep my routine and tell my teacher. I am not responsible for curing her.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, jealousy",
+    "related mind states: affection, anxiety"
+   ]
+  },
+  {
+   "sno": 769,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Bhavna"
+    ],
+    "3": [
+     "Raghav",
+     "Harish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent or sibling ill",
+   "subtype": "Sibling × Jealousy [Actor]",
+   "description": "My sick brother gets all the attention and I feel jealous, then guilty. Both feelings are normal. I can ask for a little time with my parents and still care for my brother. Feeling this does not make me bad.",
+   "graph_context": [
+    "same situation, other stances at this age: compassion, fear",
+    "related mind states: guilt, jealousy"
+   ]
+  },
+  {
+   "sno": 770,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Aparna",
+     "Ritu"
+    ],
+    "3": [
+     "Hana",
+     "Emil"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Parent or sibling ill",
+   "subtype": "Sibling × Compassion [Actor]",
+   "description": "My younger sister is in the hospital and I draw pictures for her. Small acts connect us. I am allowed to be sad and also to play. Feeling guilty when I am happy helps nobody.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, jealousy",
+    "related mind states: joy, sadness, guilt, empathy"
+   ]
+  },
+  {
+   "sno": 771,
+   "plan": {
+    "2": "R9",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Gurpreet"
+    ],
+    "3": [
+     "Mridul",
+     "Sonali"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cousins visit",
+   "subtype": "Cousin × Excitement [Actor]",
+   "description": "My cousins are visiting and I cannot wait to play. Shared family time gives belonging. Wise: share my toys and include everyone. Ordering people around ruins the fun.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, protectiveness, rejection, rivalry",
+    "related mind states: playfulness, excitement, nostalgia"
+   ]
+  },
+  {
+   "sno": 772,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Nitin",
+     "Sarita"
+    ],
+    "3": [
+     "Eshaan",
+     "Ankita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cousins visit",
+   "subtype": "Cousin × Comparison [Receiver]",
+   "description": "Relatives compare my marks with my cousin's and I feel small. Comparison hurts. I can tell my parents I feel bad and remember I am not a rank. My cousin may feel judged too.",
+   "graph_context": [
+    "same situation, other stances at this age: protectiveness, rejection, rivalry",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 773,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Nikita",
+     "Pankaj"
+    ],
+    "3": [
+     "Jasleen",
+     "Darshan"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cousins visit",
+   "subtype": "Cousin × Rivalry [Actor]",
+   "description": "I want to show my cousin that I am better at cricket and at studies. Friendly competition can push me. If I need her to lose, something is off. I aim to enjoy and learn from her strengths.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, protectiveness, rejection"
+   ]
+  },
+  {
+   "sno": 774,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Imran",
+     "Amandeep"
+    ],
+    "3": [
+     "Pallavi",
+     "Sangeeta"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cousins visit",
+   "subtype": "Cousin × Exclusion [Receiver]",
+   "description": "Two older cousins play together and leave me out. It stings. I can ask to join, suggest a game, or play with another cousin. If they still exclude me, I tell an elder without being dramatic.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, protectiveness, rivalry"
+   ]
+  },
+  {
+   "sno": 775,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Ganga"
+    ],
+    "3": [
+     "Hemant",
+     "Himani"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Cousins visit",
+   "subtype": "Cousin × Protectiveness [Actor]",
+   "description": "My small cousin is being teased by neighbourhood kids and I step in. Family loyalty feels strong. Wise: stand beside him, speak calmly and get an adult if it grows. Fighting is a last resort.",
+   "graph_context": [
+    "same situation, other stances at this age: comparison, rejection, rivalry",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 776,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Bhavna"
+    ],
+    "3": [
+     "Bidisha",
+     "Shreya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Group × Rejection [Receiver]",
+   "description": "A group of girls says there is no place for me at their table. It hurts deeply. This says more about them than me. I find one kind classmate, join a club, and tell a trusted adult if it continues.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, betrayal, envy",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 777,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Usha",
+     "Reena"
+    ],
+    "3": [
+     "Ayesha",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Situational Awareness",
+   "subtopic": "Clique excludes me",
+   "subtype": "Group × Envy [Actor]",
+   "description": "I envy the popular group and want to be one of them. Wanting belonging is normal. But if they ask me to be cruel or change myself, the price is too high. Real friends like me as I am.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, betrayal, rejection",
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: envy, nostalgia"
+   ]
+  }
+ ]
+}

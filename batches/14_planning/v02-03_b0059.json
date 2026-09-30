@@ -1,0 +1,266 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6341,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Ritu"
+    ],
+    "3": [
+     "Trisha",
+     "Kavitha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: demanding and arguing [Pitfall]",
+   "description": "The teen shouts that everyone else is allowed and that parents are too strict. The argument turns into a power struggle, parents dig in and the request for freedom is refused outright.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6342,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Divyansh"
+    ],
+    "3": [
+     "Simran",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: building trust through track record [Action]",
+   "description": "For several weeks the teen returns on time, keeps parents informed and completes chores. Later, this record becomes the evidence in asking for a later curfew without needing to argue.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6343,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Vasudha"
+    ],
+    "3": [
+     "Deepak",
+     "Urmila"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: going behind parents' backs [Pitfall]",
+   "description": "The teen tells a lie about a study session and goes to a mall. When discovered, trust drops sharply and later requests are met with suspicion and tighter rules.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning",
+    "related mind states: doubt, trust"
+   ]
+  },
+  {
+   "sno": 6344,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Suraj",
+     "Sahil"
+    ],
+    "3": [
+     "Pranav",
+     "Uday"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: choosing timing and mood for the talk [Thinking]",
+   "description": "The teen avoids raising it when the father is tired or after a bad school result, and picks a calm Sunday afternoon, since the same request can land very differently at different times.",
+   "graph_context": [
+    "same problem, other approaches: negotiation, values-first planning",
+    "related mind states: tiredness, calm"
+   ]
+  },
+  {
+   "sno": 6345,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Sahil"
+    ],
+    "3": [
+     "Anjali",
+     "Vijay"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: involving a trusted relative as mediator [Action]",
+   "description": "When talks stall, the teen asks a respected aunt to hear both sides. Parents listen more easily to an adult they trust, and a middle path on timing and transport is found.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 6346,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Amandeep",
+     "Chandrika"
+    ],
+    "3": [
+     "Sachin",
+     "Mehak"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: cultural and family duty considered in the plan [Thinking]",
+   "description": "The teen accepts that family events and elder care matter, offers to keep those commitments fixed, and asks for freedom in the remaining time, which shows respect for family values while asserting independence.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 6347,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Sofia",
+     "Javier"
+    ],
+    "3": [
+     "Raghav",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: reviewing after a broken agreement [Revision]",
+   "description": "After coming home late once, the teen owns up, explains the reason without excuses and proposes a stricter check-in for two weeks, showing that trust can be repaired rather than lost.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 6348,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Tanvir",
+     "Hafsa"
+    ],
+    "3": [
+     "Urmila",
+     "Asif"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Negotiating more freedom with parents",
+   "subtype": "Approach: accepting a partial win [Revision]",
+   "description": "Parents agree to an earlier hour than requested. The teen accepts it, sets a review date, and notes that gradual gains, kept steadily, tend to expand privileges more than an all-or-nothing demand.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, negotiation, values-first planning"
+   ]
+  },
+  {
+   "sno": 6349,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Sofia",
+     "Diego"
+    ],
+    "3": [
+     "Rehana",
+     "Thomas"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family financial squeeze",
+   "subtype": "Approach: understanding the situation openly [Thinking]",
+   "description": "After noticing tension at home, the teen gently asks what has changed and learns that the father's income has dropped, which turns vague worry into a clear problem with specific limits.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, lateral thinking, prioritising, resource and budget planning",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 6350,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Tariq",
+     "Diego"
+    ],
+    "3": [
+     "Ira",
+     "Jasleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling a family financial squeeze",
+   "subtype": "Approach: reducing own spending and needs [Action]",
+   "description": "The teen skips a paid school trip, reuses last year's books from a senior, cuts snacks and phone recharges, and tells parents, easing pressure without being asked or making a show of it.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, commitment device, lateral thinking, prioritising, resource and budget planning"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5216,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Darshan",
+     "Madhuri"
+    ],
+    "4": [
+     "Jatin",
+     "Lalremsiami"
+    ],
+    "5": [
+     "Akash",
+     "Swati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Sleep debt and mood [Actor]",
+   "description": "A teenager staying up late to study or scroll finds themselves irritable, foggy and emotionally reactive. Poor sleep magnifies every problem, and it is often mistaken for a personality flaw.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5217,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Pradeep"
+    ],
+    "4": [
+     "Tenzin",
+     "Samir"
+    ],
+    "5": [
+     "Usha",
+     "Yash"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Rest during exam pressure [Response]",
+   "description": "A wise student in exam season keeps sleep, a walk and a meal on schedule. Steady rest often improves recall more than the extra hour of panicked study.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 23–26"
+   ]
+  },
+  {
+   "sno": 5218,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Sarika",
+     "Deepika"
+    ],
+    "4": [
+     "Chinmay",
+     "Gargi"
+    ],
+    "5": [
+     "Chetan",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Rest",
+   "subtype": "Rest as ongoing practice [Response]",
+   "description": "A young worker builds weekly rest into life: a real day off, unhurried meals, time without messages. Rest done regularly is prevention, not a reward earned after collapse.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 5219,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Vijay",
+     "Sabina"
+    ],
+    "4": [
+     "Reena",
+     "Payal"
+    ],
+    "5": [
+     "Salma",
+     "Abhinav"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Enjoying own company [Actor]",
+   "description": "A child happily reads or draws alone in a corner and feels content. Wanting solitude is not sadness, and forced socialising can feel like an intrusion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 5220,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Ankita",
+     "Tanvir"
+    ],
+    "4": [
+     "Ramesh",
+     "Sarika"
+    ],
+    "5": [
+     "Lavanya",
+     "Rafiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Solitude misread as problem [Observer]",
+   "description": "Adults worry when a quiet child prefers being alone and push them into groups. Checking for real distress is wise, but preference for solitude is often just temperament.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 5221,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Harish",
+     "Akash"
+    ],
+    "4": [
+     "Rehana",
+     "Vishal"
+    ],
+    "5": [
+     "Elizabeth",
+     "Kamal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Alone versus lonely [Actor]",
+   "description": "A teenager alone in their room may be recharging or may be aching for connection. The same closed door can mean either, and the person themselves is not always sure which.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 5222,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Sachin"
+    ],
+    "4": [
+     "Tanuja",
+     "Kashish"
+    ],
+    "5": [
+     "Trisha",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Privacy need [Receiver]",
+   "description": "A teenager who shuts the door and wants no questions is building an inner life. Respecting solitude while staying quietly available preserves trust better than surveillance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 23–26",
+    "related mind states: admiration, trust"
+   ]
+  },
+  {
+   "sno": 5223,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Arnab"
+    ],
+    "4": [
+     "Amandeep",
+     "Nikita"
+    ],
+    "5": [
+     "Mridul",
+     "Alka"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Solitude in a busy life [Response]",
+   "description": "A young professional schedules quiet time without a device, on a terrace or a morning walk. Solitude used deliberately sorts thoughts and sharpens decisions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 5224,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Gargi",
+     "Keerthana"
+    ],
+    "4": [
+     "Saurabh",
+     "Irawati"
+    ],
+    "5": [
+     "Urmila",
+     "Sahil"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Solitude",
+   "subtype": "Solitude turning to isolation [Observer]",
+   "description": "A friend notices someone slowly declining every invitation and replying less. Gentle, low-pressure reaching out matters, since withdrawal often grows quietly when nobody checks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17",
+    "related mind states: detachment, loneliness"
+   ]
+  },
+  {
+   "sno": 5225,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Manjula",
+     "Sudha"
+    ],
+    "4": [
+     "Sonali",
+     "Himani"
+    ],
+    "5": [
+     "Dhruv",
+     "Hrithik"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Awe",
+   "subtype": "Wonder at the natural world [Actor]",
+   "description": "A child stares wide-eyed at a rainbow, an ant colony or thunder and asks endless questions. Awe at this age is simple, bodily and contagious, and adults who share the gaze deepen it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: curiosity, awe"
+   ]
+  }
+ ]
+}

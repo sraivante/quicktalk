@@ -1,0 +1,318 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5522,
+   "plan": {
+    "6": "R9",
+    "7": "R13",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Tanuja",
+     "Darshan"
+    ],
+    "7": [
+     "Eshaan",
+     "Zeenat"
+    ],
+    "8": [
+     "Urmila",
+     "Nitin"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pareidolia and apophenia",
+   "subtype": "Shapes in clouds and shadows [Actor]",
+   "description": "A child sees a dragon in the clouds and a monster in the shadows on the wall at night, and both delight and fear rise from the same pattern-finding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22, 23–26",
+    "related mind states: joy, fear"
+   ]
+  },
+  {
+   "sno": 5523,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Aadhya",
+     "Aditi"
+    ],
+    "7": [
+     "Zainab",
+     "Sarita"
+    ],
+    "8": [
+     "Minakshi",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pareidolia and apophenia",
+   "subtype": "Lucky shirt, lucky pen [Actor]",
+   "description": "A teenager wears the same shirt to every match after one win and reads a link between the shirt and results, since coincidence looks like cause.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5524,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Vikas",
+     "Irawati"
+    ],
+    "7": [
+     "Keerthana",
+     "Rukmini"
+    ],
+    "8": [
+     "Jagdish",
+     "Jasleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pareidolia and apophenia",
+   "subtype": "Seeing hidden plans in coincidences [Actor]",
+   "description": "A young adult links unrelated events into a secret pattern, feeling special for having noticed it; chance streaks and true patterns look alike unless tested.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5525,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Charu",
+     "Tanvir"
+    ],
+    "7": [
+     "Rosa",
+     "Wanjiru"
+    ],
+    "8": [
+     "Jagdish",
+     "Keerthana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Pareidolia and apophenia",
+   "subtype": "Testing the pattern before believing it [Response]",
+   "description": "An adult asks how the pattern would look if it were pure chance, checks it on new data, and seeks a doctor or counsellor if pattern-hunting begins to feel overwhelming or frightening.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22",
+    "related mind states: fear, overwhelm"
+   ]
+  },
+  {
+   "sno": 5526,
+   "plan": {
+    "6": "R15",
+    "7": "R1",
+    "8": "R2"
+   },
+   "cast": {
+    "6": [
+     "Zainab",
+     "Sangeeta"
+    ],
+    "7": [
+     "Rashmi",
+     "Himani"
+    ],
+    "8": [
+     "Sabina",
+     "Aparna"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schadenfreude",
+   "subtype": "Glee when the sibling is scolded [Actor]",
+   "description": "A child smirks when a sibling gets told off and then looks away, guilty; the pleasure comes from feeling the score has evened and their own place is safer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: guilt, trust"
+   ]
+  },
+  {
+   "sno": 5527,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Sahil",
+     "Jyoti"
+    ],
+    "7": [
+     "Tenzin",
+     "Anjali"
+    ],
+    "8": [
+     "Dilnaz",
+     "Vishal"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schadenfreude",
+   "subtype": "Rival's failure feels good and bad [Actor]",
+   "description": "A teenager feels a flash of joy when a boastful rival fails an audition and then feels ashamed of it; envy and fairness pull in opposite directions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26",
+    "related mind states: joy, shame, envy"
+   ]
+  },
+  {
+   "sno": 5528,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Madhuri"
+    ],
+    "7": [
+     "Deepak",
+     "Bidisha"
+    ],
+    "8": [
+     "Bao",
+     "Hana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schadenfreude",
+   "subtype": "Friend notices glee at another's downfall [Observer]",
+   "description": "A friend sees a classmate secretly enjoy a top student's slip, and stays quiet or gently asks what the envy is about instead of joining in.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 5529,
+   "plan": {
+    "6": "R6",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Sabina",
+     "Ganga"
+    ],
+    "7": [
+     "Indu",
+     "Sunaina"
+    ],
+    "8": [
+     "Oskar",
+     "Kaito"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schadenfreude",
+   "subtype": "Person whose failure is enjoyed [Receiver]",
+   "description": "A colleague whose project failed senses smiles behind polite words and feels lonely and small; being enjoyed by others in defeat leaves a deep sting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: loneliness"
+   ]
+  },
+  {
+   "sno": 5530,
+   "plan": {
+    "6": "R13",
+    "7": "R14",
+    "8": "R15"
+   },
+   "cast": {
+    "6": [
+     "Gurleen",
+     "Vikas"
+    ],
+    "7": [
+     "Salma",
+     "Kishore"
+    ],
+    "8": [
+     "Lavanya",
+     "Joseph"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schadenfreude",
+   "subtype": "Noticing the pleasure without acting on it [Response]",
+   "description": "An adult admits the flash of glee, does not broadcast it, and asks what the envy points to in their own life, keeping kindness for the person who fell.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22",
+    "related mind states: envy"
+   ]
+  },
+  {
+   "sno": 5531,
+   "plan": {
+    "6": "R5",
+    "7": "R7",
+    "8": "R8"
+   },
+   "cast": {
+    "6": [
+     "Nilesh",
+     "Rafiq"
+    ],
+    "7": [
+     "Tanvir",
+     "Jeevan"
+    ],
+    "8": [
+     "Beatriz",
+     "Emeka"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Compersion",
+   "subtype": "Joy at a friend's win [Actor]",
+   "description": "A child claps loudly when a friend wins the prize and feels warmth rather than jealousy, though a little pang sits beneath; happiness for another can sit beside a wish for oneself.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: joy, affection, jealousy"
+   ]
+  }
+ ]
+}

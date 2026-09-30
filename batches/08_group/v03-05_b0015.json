@@ -1,0 +1,316 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3489,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Noa",
+     "Mei"
+    ],
+    "4": [
+     "Bhavna",
+     "Francis"
+    ],
+    "5": [
+     "Ishita",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Competitive versus cooperative climate [Observer]",
+   "description": "A student notices that a class ranking pits friends against each other, while group work builds mutual help. The climate decides whether classmates share notes or hide them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3490,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Rania",
+     "Aiko"
+    ],
+    "4": [
+     "Damini",
+     "Yamini"
+    ],
+    "5": [
+     "Yogesh",
+     "Rehana"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Repairing after a harsh incident [Response]",
+   "description": "After a humiliating moment, a teacher speaks privately with the student and addresses the class norm without shaming anyone. Repair after a rupture strengthens the climate more than pretending nothing happened.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: humiliation"
+   ]
+  },
+  {
+   "sno": 3491,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Aadhya",
+     "Samir"
+    ],
+    "4": [
+     "Amandeep",
+     "Akash"
+    ],
+    "5": [
+     "Baljeet",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Speaking up in a large lecture [Actor]",
+   "description": "A college student holds back questions in a big hall for fear of seeming ignorant. They often find that others had the same question and are grateful when someone asks it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: gratitude, fear"
+   ]
+  },
+  {
+   "sno": 3492,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Shankar"
+    ],
+    "4": [
+     "Gautam",
+     "Tanvir"
+    ],
+    "5": [
+     "Raghav",
+     "Tushar"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Classroom climate",
+   "subtype": "Training or class culture as a young teacher [Actor]",
+   "description": "A young teacher or trainer sets the room's tone through how they respond to the first mistake and the first interruption. Consistency and fairness matter more than being liked.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3493,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Mahima"
+    ],
+    "4": [
+     "Nilesh",
+     "Reena"
+    ],
+    "5": [
+     "Minakshi",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Learning unwritten rules [Actor]",
+   "description": "A new graduate discovers that the real rules of the office, such as who to copy on emails and when to speak, are unwritten. They watch closely and feel anxious about missteps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3494,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Uma",
+     "Hemant"
+    ],
+    "4": [
+     "Gurpreet",
+     "Asif"
+    ],
+    "5": [
+     "Sangeeta",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Internship in a rigid hierarchy [Receiver]",
+   "description": "An intern is spoken to sharply and given menial work, and is unsure whether it is normal or unfair. They feel small and tempted to please, and a trusted mentor helps them tell the difference.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3495,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Samir",
+     "Ramesh"
+    ],
+    "4": [
+     "Nirmala",
+     "Bhavna"
+    ],
+    "5": [
+     "Joseph",
+     "Maria"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Credit-taking by a senior [Receiver]",
+   "description": "A junior finds their work presented as a senior's idea. They feel anger and helplessness, and calmly documenting contributions and speaking early is safer than a public confrontation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger, calm, resentment, trust"
+   ]
+  },
+  {
+   "sno": 3496,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Bidisha",
+     "Nazia"
+    ],
+    "4": [
+     "Rashmi",
+     "Rukmini"
+    ],
+    "5": [
+     "Wasim",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Playing politics for advantage [Actor]",
+   "description": "An ambitious employee builds alliances and shapes impressions to rise. Some networking is normal, and it turns harmful when it involves undermining others or hiding facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3497,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Farhan",
+     "Sumit"
+    ],
+    "4": [
+     "Mei",
+     "Jamal"
+    ],
+    "5": [
+     "Urmila",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Staying neutral and getting squeezed [Actor]",
+   "description": "An employee tries to stay out of rival camps and is pressed by both. Neutrality feels principled and can leave them without protection, so they need clear, quiet allies.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 3498,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Reena",
+     "Jaya"
+    ],
+    "4": [
+     "Gurpreet",
+     "Bidisha"
+    ],
+    "5": [
+     "Chetan",
+     "Dhruv"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Workplace culture and politics",
+   "subtype": "Toxic culture normalised [Observer]",
+   "description": "A newcomer sees long hours, fear of the boss and blame as ordinary, since everyone else accepts them. Seeing it fresh helps, and blending in slowly removes that clarity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: fear"
+   ]
+  }
+ ]
+}

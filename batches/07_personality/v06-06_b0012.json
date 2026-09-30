@@ -1,0 +1,222 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4429,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Avni",
+     "Irawati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Tears over mistakes [Actor]",
+   "description": "A child erases and rewrites until the paper tears, refuses to hand in work that is not perfect and cries at small errors. Feels that any flaw means failure, and needs to hear that mistakes are how learning works.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4430,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Hemant",
+     "Yash"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Parent of a perfectionist [Receiver]",
+   "description": "A parent sees a child stressed by tiny errors and is torn between pride and worry. Shares their own mistakes and shows that being good enough is fine, without shaming the child's high standards.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anxiety, pride",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4431,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Ujjwal",
+     "Arohi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "High standards turning into fear [Actor]",
+   "description": "A teenager studies late, procrastinates from dread of not doing it well enough and feels empty after a good result. Standards move higher each time, and joy disappears from effort.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: joy, fear",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4432,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Madhav",
+     "Kishore"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Peer seeing the pressure [Observer]",
+   "description": "A classmate notices the topper who cannot enjoy results and gets anxious over a single mark. Being kind, not hating on their success, and inviting them to relax can lessen the isolation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: anxiety, calm, loneliness",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4433,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Arohi",
+     "Keerthana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Paralysis and all-or-nothing [Actor]",
+   "description": "A young adult delays starting a project or applying for jobs because the result may not be flawless. Either everything is perfect or it is worthless, so little gets finished.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4434,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Vandana",
+     "Tarun"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Aiming for good enough [Response]",
+   "description": "A wise person sets a time limit, finishes a rough version first and asks what would happen if the work were ninety percent as good. Practising small imperfection builds tolerance, and persistent anxiety warrants support.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anxiety",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4435,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Devika",
+     "Hafsa"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Perfectionism",
+   "subtype": "Perfectionism in work and relationships [Actor]",
+   "description": "A professional rechecks everything, struggles to delegate and criticises themselves and others harshly. Excellence is valued, but burnout and strained relationships show the cost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related concepts: perfectionism"
+   ]
+  },
+  {
+   "sno": 4436,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Selin",
+     "Hana"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Need for control",
+   "subtype": "Rigid rules in games [Actor]",
+   "description": "A child insists on fixed rules, own way of playing and is upset when others change things. Control gives safety when the world feels uncertain, and calm predictable structure helps loosen it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4437,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Divyansh",
+     "Bidisha"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Need for control",
+   "subtype": "Controlling friends or plans [Actor]",
+   "description": "A teenager takes charge of every plan, corrects how others do things and feels anxious when not leading. Fear of things going wrong drives the need, and it can make friends feel unheard.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 4438,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Layla",
+     "Valentina"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Need for control",
+   "subtype": "Anxiety-driven micromanaging [Actor]",
+   "description": "A young adult checks group work, tells a partner what to do and struggles when outcomes are uncertain. Beneath the bossy surface is fear of losing safety; practising trust in small ways reduces it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: fear, anxiety, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 5901,
+   "plan": {
+    "2": "R2",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Lalremsiami"
+    ],
+    "3": [
+     "Gautam",
+     "Mehak"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: trial and error [Pitfall]",
+   "description": "A child looks in the same cupboard four times, each time hoping the shoe will be there. Without a record of what has been checked, the search goes round in circles.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, copying without fit, magical thinking, mental simulation",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 5902,
+   "plan": {
+    "2": "R13",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Kamal",
+     "Lakshmi"
+    ],
+    "3": [
+     "Ujjwal",
+     "Sumit"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: copying a peer [Revision]",
+   "description": "A friend says, \"Check the last place you played,\" and the child goes to the balcony where the shoe lies. The hint changes the search from random to reasoned.",
+   "graph_context": [
+    "same problem, other approaches: asking an adult, magical thinking, mental simulation, trial and error",
+    "this subtopic also appears at ages: 7–12"
+   ]
+  },
+  {
+   "sno": 5903,
+   "plan": {
+    "2": "R5",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Sangeeta",
+     "Afreen"
+    ],
+    "3": [
+     "Neelam",
+     "Deepak"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: retracing the steps of the day [Thinking]",
+   "description": "A girl loses her water bottle and thinks back to where she had it last. She remembers drinking at PT class, goes back to the ground, and finds it on the bench.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 5904,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Yusuf",
+     "Ankita"
+    ],
+    "3": [
+     "Jomon",
+     "Sumit"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: searching the same place again and again [Pitfall]",
+   "description": "A boy checks his school bag five times for a missing eraser. He feels sure it must be there, while he has not looked in his pencil case or pocket, and loses time and patience.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 5905,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Hiroshi",
+     "Leila"
+    ],
+    "3": [
+     "Varun",
+     "Ujjwal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: searching one place at a time in order [Action]",
+   "description": "A child makes a plan to check the bag, then the classroom desk, then the bus and finally the lost and found box. Going in order stops him from wandering around in a panic.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 5906,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Parul",
+     "Hrithik"
+    ],
+    "3": [
+     "Jyoti",
+     "Lakshmi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: asking friends and teachers if they have seen it [Action]",
+   "description": "A girl who lost her geometry box asks her deskmate and the class teacher, and puts up a note by the door. Someone saw it near the library, and it was there.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 5907,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Nazia"
+    ],
+    "3": [
+     "Lalit",
+     "Shankar"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: panicking and blaming others [Pitfall]",
+   "description": "A boy cannot find his pencil and quickly accuses his neighbour of taking it. Later he finds it under his notebook, and feels ashamed for having accused a friend without proof.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 5908,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Jagdish",
+     "Farhan"
+    ],
+    "3": [
+     "Akash",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: staying calm and thinking where he usually puts it [Thinking]",
+   "description": "A child takes a deep breath and thinks about where he normally keeps his house key. He checks the hook and the shoe rack, and finds it inside his shoe.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, externalising on paper",
+    "this subtopic also appears at ages: 4–6",
+    "related mind states: calm, relief from stress"
+   ]
+  },
+  {
+   "sno": 5909,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Leela",
+     "Gargi"
+    ],
+    "3": [
+     "Preeti",
+     "Rafiq"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: deciding a place for each item to avoid losing [Revision]",
+   "description": "After losing three pencils in a week, a girl decides her pencil case always stays in the front pocket. She notices that most losses come from putting things down casually.",
+   "graph_context": [
+    "same problem, other approaches: emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  },
+  {
+   "sno": 5910,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Kunal",
+     "Irawati"
+    ],
+    "3": [
+     "Jeevan",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Finding a lost item",
+   "subtype": "Approach: reporting to the school lost and found [Action]",
+   "description": "A boy loses his sweater and goes to the office to check the lost and found box. He describes it and the name written inside, and the peon returns it to him.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, emotion-aware planning, externalising on paper",
+    "this subtopic also appears at ages: 4–6"
+   ]
+  }
+ ]
+}

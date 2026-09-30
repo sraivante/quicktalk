@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 3890,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Darshan",
+     "Ganga"
+    ],
+    "13": [
+     "Manoj",
+     "Tenzin"
+    ],
+    "14": [
+     "Gurleen",
+     "Bidisha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Sublimation",
+   "subtype": "Grief into caring work [Actor]",
+   "description": "An adult who lost a parent to a long illness volunteers at a hospice or trains as a nurse; the loss becomes purpose, though the grief itself still needs its own space.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 3891,
+   "plan": {
+    "12": "R15+T1",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Sarika",
+     "Ramesh"
+    ],
+    "13": [
+     "Sharmila",
+     "Sumit"
+    ],
+    "14": [
+     "Lavanya",
+     "Sharmila"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Humour",
+   "subtype": "Class clown covering embarrassment [Actor]",
+   "description": "A child who stumbles while reading makes a silly face and gets the class laughing with them; the joke keeps control of the moment, though constant clowning can hide worry.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: amusement, playfulness, anxiety, embarrassment"
+   ]
+  },
+  {
+   "sno": 3892,
+   "plan": {
+    "12": "R3",
+    "13": "R4",
+    "14": "R5"
+   },
+   "cast": {
+    "12": [
+     "Sabina",
+     "Joseph"
+    ],
+    "13": [
+     "Kavitha",
+     "Preeti"
+    ],
+    "14": [
+     "Payal",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Humour",
+   "subtype": "Self-deprecating joke before teasing [Actor]",
+   "description": "A teenager mocks their own braces or marks before anyone else can; it wins acceptance but repeated self-mockery can teach others to see them as a target.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3893,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Jahnavi",
+     "Noor"
+    ],
+    "13": [
+     "Himani",
+     "Pradeep"
+    ],
+    "14": [
+     "Yogesh",
+     "Vishal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Humour",
+   "subtype": "Laughing at a shared disaster [Response]",
+   "description": "A group of students whose project crashed laugh at the absurdity and then get to work; humour gives distance from pain without denying it, and then lets planning start.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: amusement, hurt"
+   ]
+  },
+  {
+   "sno": 3894,
+   "plan": {
+    "12": "R11",
+    "13": "R12",
+    "14": "R13"
+   },
+   "cast": {
+    "12": [
+     "Devika",
+     "Himani"
+    ],
+    "13": [
+     "Kunal",
+     "Vinita"
+    ],
+    "14": [
+     "Alka",
+     "Rajni"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Humour",
+   "subtype": "Noticing pain behind the jokes [Observer]",
+   "description": "A friend notices that the funniest person in the group never answers a serious question and always changes the topic with a quip; the friend privately checks in when the joking stops.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3895,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Pema",
+     "Urmila"
+    ],
+    "13": [
+     "Vijay",
+     "Nandini"
+    ],
+    "14": [
+     "Irfan",
+     "Tarun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Humour",
+   "subtype": "Joke used to dodge a real conversation [Receiver]",
+   "description": "A partner trying to talk about money keeps hearing witty deflections and feels dismissed; light humour is healthy, but it fails when it blocks the very topic that needs attention.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: amusement"
+   ]
+  },
+  {
+   "sno": 3896,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Vidya",
+     "Jeevan"
+    ],
+    "13": [
+     "Zubin",
+     "Bhavna"
+    ],
+    "14": [
+     "Swati",
+     "Mohit"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Splitting",
+   "subtype": "Friend all good then all bad [Actor]",
+   "description": "A teenager describes a friend as perfect one week and as a total traitor the next after a small slight; strong feelings make it hard to hold both good and disappointing sides together.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 3897,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Thomas",
+     "Farhan"
+    ],
+    "13": [
+     "Gargi",
+     "Darshan"
+    ],
+    "14": [
+     "Sabina",
+     "Arnab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Splitting",
+   "subtype": "Idealising then devaluing a mentor [Actor]",
+   "description": "A student who worshipped a professor turns bitter and dismissive after one harsh comment; the pedestal was too high to survive an ordinary flaw.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 3898,
+   "plan": {
+    "12": "R5",
+    "13": "R6",
+    "14": "R7"
+   },
+   "cast": {
+    "12": [
+     "Jatin",
+     "Kishore"
+    ],
+    "13": [
+     "Francis",
+     "Sahil"
+    ],
+    "14": [
+     "Chetan",
+     "Shalini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Splitting",
+   "subtype": "Being idealised then dropped [Receiver]",
+   "description": "A friend who was praised as the only one who understood is suddenly cast as useless after a missed call; they feel bewildered and need to keep steady boundaries without reacting in kind.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3899,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Farhan",
+     "Sangeeta"
+    ],
+    "13": [
+     "Nkechi",
+     "Dalia"
+    ],
+    "14": [
+     "Elizabeth",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Splitting",
+   "subtype": "Team seeing heroes and villains [Observer]",
+   "description": "A manager notices a team member sorting colleagues into saints and enemies with each conflict; the manager asks for specifics of what happened and stays fair to all.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  }
+ ]
+}

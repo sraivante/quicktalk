@@ -1,0 +1,319 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2252,
+   "plan": {
+    "3": "R2",
+    "4": "R4",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Uday"
+    ],
+    "4": [
+     "Irawati",
+     "Neelam"
+    ],
+    "5": [
+     "Tanuja",
+     "Madhav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Accepting and confirming [Expressing]",
+   "description": "A young child confirms with yes, okay or a nod and accepts a rule when it is clear and fair. Reasons given calmly help a child accept limits rather than merely obey.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2253,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Chaitanya",
+     "Tarun"
+    ],
+    "4": [
+     "Divyansh",
+     "Swati"
+    ],
+    "5": [
+     "Amandeep",
+     "Rajni"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Agreement and disagreement",
+   "subtype": "Denying and rejecting [Expressing]",
+   "description": "A preschooler denies a mistake with no, I did not or rejects food or clothes. It may be fear of getting in trouble, so calm adults separate the child from the mistake.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 2254,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Hrithik",
+     "Chinmay"
+    ],
+    "4": [
+     "Rehana",
+     "Saurabh"
+    ],
+    "5": [
+     "Dolma",
+     "Sunaina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Asking and saying please [Expressing]",
+   "description": "A preschooler learns polite asking with please and thank you, though whining and demanding still appear when frustrated. Adults respond best to the polite form and gently coach the rest.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: gratitude, anger"
+   ]
+  },
+  {
+   "sno": 2255,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Dhruv",
+     "Mridul"
+    ],
+    "4": [
+     "Yusuf",
+     "Rukmini"
+    ],
+    "5": [
+     "Naveen",
+     "Aparna"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Requests",
+   "subtype": "Pleading and begging [Expressing]",
+   "description": "A young child pleads or begs with a wobbling voice, showing strong wants or fear. Consistent calm limits teach that pleading does not change a firm decision.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: fear, calm"
+   ]
+  },
+  {
+   "sno": 2256,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Aditi",
+     "Shalini"
+    ],
+    "4": [
+     "Shalini",
+     "Minakshi"
+    ],
+    "5": [
+     "Anand",
+     "Nazia"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Cautioning and warning [Interpreting]",
+   "description": "A child hears watch out or careful as a signal to stop and look. Adults keep warnings for real danger so the words keep their power.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2257,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Sabina",
+     "Kamal"
+    ],
+    "4": [
+     "Hafsa",
+     "Usha"
+    ],
+    "5": [
+     "Sahil",
+     "Nazia"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Guidance and direction",
+   "subtype": "Instructions and reminders [Interpreting]",
+   "description": "A preschooler follows short one-step instructions and needs reminders that are calm and repeated. Long lists or a scolding tone reduce cooperation, so a child benefits from being shown as well.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 2258,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Arnab",
+     "Vishal"
+    ],
+    "4": [
+     "Hrithik",
+     "Aditi"
+    ],
+    "5": [
+     "Suraj",
+     "Lalremsiami"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Asking permission and being allowed [Interpreting]",
+   "description": "A young child learns that allowed and forbidden depend on the person, place and safety, such as yes to a hug from a parent and no to a stranger. Simple clear rules and explaining why help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, anger, trust"
+   ]
+  },
+  {
+   "sno": 2259,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Lalit",
+     "Ankita"
+    ],
+    "4": [
+     "Uma",
+     "Tejas"
+    ],
+    "5": [
+     "Pooja",
+     "Gurleen"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Permission and boundaries",
+   "subtype": "Body boundaries and stop [Expressing]",
+   "description": "A preschooler learns to say stop, I do not like that, and to tell a trusted adult if someone will not stop. Adults respond calmly and take every such report seriously.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 2260,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Wasim"
+    ],
+    "4": [
+     "Kunal",
+     "Salma"
+    ],
+    "5": [
+     "Neelam",
+     "Aparna"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Promising and its limits [Expressing]",
+   "description": "A preschooler promises I will be good with sincere intention but limited ability to keep it. Adults treat the promise as a hope and help the child plan how to keep it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 2261,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Afreen",
+     "Vidya"
+    ],
+    "4": [
+     "Simran",
+     "Kunal"
+    ],
+    "5": [
+     "Bhavna",
+     "Usha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Commitment and intention",
+   "subtype": "Volunteering and helping [Expressing]",
+   "description": "A young child volunteers with me, I can help, wanting to feel capable and included. Giving small real tasks builds a sense of responsibility.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  }
+ ]
+}

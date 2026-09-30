@@ -1,0 +1,39 @@
+STAGE: situational
+Variant ids in this batch: 2, 3 (2 per row). Rows in this batch: 10. Expected records: 20.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are one cell of a situation x counterpart x stance grid. Subtype reads "Counterpart × Stance [Actor|Receiver]" (older rows without a tag are the Actor view). Show that exact counterpart and stance in the situation named by the subtopic. Mixed feelings are welcome. Hatred, contempt, obsession, manipulation and coercion rows teach recognition, understanding of what drives them, protection and de-escalation; never give tactics. The perspective question should ask how the counterpart sees the moment.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 348, "plan": {"2": "R15", "3": "R1"}, "cast": {"2": ["Ishita", "Raghav"], "3": ["Tejas", "Sarika"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Witnessing cheating in an exam", "subtype": "Friend × Loyalty vs honesty", "description": "Feels torn between protecting a friend and fairness; options are to urge the friend to stop, tell a teacher, or refuse to help, and a mature child weighs the harm to others.", "graph_context": ["same situation, other stances at this age: anger"]}
+{"sno": 349, "plan": {"2": "R3", "3": "R4"}, "cast": {"2": ["Lavanya", "Darshan"], "3": ["Urmila", "Rajni"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Witnessing cheating in an exam", "subtype": "Stranger × Indignation", "description": "Feels anger at unfairness and reports it when safe; needs guidance not to become a self-righteous informer over small things.", "graph_context": ["same situation, other stances at this age: loyalty", "related mind states: anger, trust"]}
+{"sno": 350, "plan": {"2": "R9", "3": "R12"}, "cast": {"2": ["Sudha", "Uday"], "3": ["Rekha", "Jahnavi"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Being teased by peers", "subtype": "Peers × Hurt", "description": "Feels shame at teasing and withdraws; learns to answer calmly, walk away and seek support instead of fighting.", "graph_context": ["same situation, other stances at this age: compassion, hatred", "related mind states: shame, detachment, calm, hurt"]}
+{"sno": 351, "plan": {"2": "R13", "3": "R14"}, "cast": {"2": ["Yash", "Nitin"], "3": ["Aadhya", "Hafsa"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Being teased by peers", "subtype": "Bully × Hatred", "description": "Wants revenge and imagines hurting the bully; a healthy path is to acknowledge the anger, tell an adult, and avoid retaliating.", "graph_context": ["same situation, other stances at this age: compassion, hurt", "related mind states: anger, hurt"]}
+{"sno": 352, "plan": {"2": "R15", "3": "R1"}, "cast": {"2": ["Minakshi", "Lalremsiami"], "3": ["Kiran", "Madhav"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Being teased by peers", "subtype": "Bully × Empathy", "description": "Realizes that a bully may be hurting at home; understanding explains behaviour but does not excuse it or remove the need for boundaries.", "graph_context": ["same situation, other stances at this age: hatred, hurt", "related mind states: empathy, hurt"]}
+{"sno": 353, "plan": {"2": "R14", "3": "R15"}, "cast": {"2": ["Bidisha", "Gargi"], "3": ["Ganga", "Ojas"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Sibling rivalry", "subtype": "Sibling × Rivalry & protection", "description": "Fights over attention and things at home but defends the sibling outside; learns that conflict and loyalty can coexist."}
+{"sno": 354, "plan": {"2": "R5", "3": "R7"}, "cast": {"2": ["Nitin", "Maria"], "3": ["Zeenat", "Gurleen"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Festival or prayer", "subtype": "God × Worship & awe", "description": "Feels devotion, wonder and belonging while participating; faith is absorbed through stories, music and ritual before argument.", "graph_context": ["same situation, other stances at this age: acceptance, gratitude, rejection, respect, trust", "related mind states: curiosity, awe, nostalgia"]}
+{"sno": 355, "plan": {"2": "R12", "3": "R13"}, "cast": {"2": ["Trisha", "Neelam"], "3": ["Lalremsiami", "Ishita"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Festival or prayer", "subtype": "God × Bargaining", "description": "Prays for exam marks in exchange for promises; transactional faith is normal at this age and can mature toward gratitude.", "graph_context": ["same situation, other stances at this age: acceptance, gratitude, rejection, respect, trust, worship", "related mind states: gratitude"]}
+{"sno": 356, "plan": {"2": "R13", "3": "R14"}, "cast": {"2": ["Chinmay", "Dhruv"], "3": ["Nirmala", "Tushar"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Festival or prayer", "subtype": "Other faith × Curiosity & respect", "description": "Attends a friend's festival, asks questions and respects rituals different from home; prejudice starts where curiosity ends.", "graph_context": ["same situation, other stances at this age: acceptance, gratitude, rejection, trust, worship", "related mind states: admiration, curiosity"]}
+{"sno": 357, "plan": {"2": "R3", "3": "R4"}, "cast": {"2": ["Farhan", "Eshaan"], "3": ["Pema", "Varun"]}, "age": "7–12", "topic": "Situational Awareness", "subtopic": "Getting lost or in danger", "subtype": "Trusted adult × Reliance", "description": "Stays calm, approaches a safe person such as a shopkeeper or police officer, and repeats the parent's number.", "graph_context": ["related mind states: detachment, calm, trust"]}
+
+Return exactly 20 JSON Lines and nothing else.

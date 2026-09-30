@@ -1,0 +1,315 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 5662,
+   "plan": {
+    "12": "R8+T1",
+    "13": "R9+T1",
+    "14": "R13+T1"
+   },
+   "cast": {
+    "12": [
+     "Elif",
+     "Tariq"
+    ],
+    "13": [
+     "Ritu",
+     "Charu"
+    ],
+    "14": [
+     "Jagdish",
+     "Yamini"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tragedy of the commons",
+   "subtype": "Shared toys and treats [Actor]",
+   "description": "Children given a shared bowl of sweets each grab a lot quickly, since if they wait, the others will take it. It is early experience of how each person's small gain drains what the group shares.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5663,
+   "plan": {
+    "12": "R15+T1",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Pallavi",
+     "Pradeep"
+    ],
+    "13": [
+     "Vandana",
+     "Tanuja"
+    ],
+    "14": [
+     "Farida",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tragedy of the commons",
+   "subtype": "Wasting what belongs to all [Actor]",
+   "description": "A child leaves the school tap running, litters the shared ground or hogs the common cricket bat, thinking one person's share does not matter. Everyone thinks the same, and the resource is spoiled.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5664,
+   "plan": {
+    "12": "R15",
+    "13": "R1",
+    "14": "R2"
+   },
+   "cast": {
+    "12": [
+     "Eshaan",
+     "Binita"
+    ],
+    "13": [
+     "Tushar",
+     "Dolma"
+    ],
+    "14": [
+     "Yash",
+     "Tushar"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tragedy of the commons",
+   "subtype": "Free riding on a group [Observer]",
+   "description": "A student sees classmates leave group-project work to the same two diligent members. He recognises that when nobody is accountable, careful people carry the load and eventually resent it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5665,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Ujjwal",
+     "Ramesh"
+    ],
+    "13": [
+     "Mridul",
+     "Naveen"
+    ],
+    "14": [
+     "Reena",
+     "Arohi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tragedy of the commons",
+   "subtype": "Seeing it in shared living [Actor]",
+   "description": "Hostel or flat mates leave a shared kitchen dirty, each assuming someone else will clean. The mess grows and everyone suffers, and each person feels their own contribution was too small to matter.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5666,
+   "plan": {
+    "12": "R2",
+    "13": "R3",
+    "14": "R4"
+   },
+   "cast": {
+    "12": [
+     "Rajni",
+     "Yash"
+    ],
+    "13": [
+     "Yogesh",
+     "Charu"
+    ],
+    "14": [
+     "Raghav",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Tragedy of the commons",
+   "subtype": "Setting rules everyone can live with [Response]",
+   "description": "A young adult proposes a fair rota, clear limits and shared monitoring for a common resource, and models the behaviour first. Communities protect shared things through trust, visible fairness and agreed consequences.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5667,
+   "plan": {
+    "12": "R3+T1",
+    "13": "R4+T1",
+    "14": "R5+T1"
+   },
+   "cast": {
+    "12": [
+     "Himani",
+     "Vishal"
+    ],
+    "13": [
+     "Omkar",
+     "Sharmila"
+    ],
+    "14": [
+     "Chaitanya",
+     "Salma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Foundational Concepts",
+   "subtopic": "Prisoner's dilemma and cooperation vs defection",
+   "subtype": "Share or cheat in a game [Actor]",
+   "description": "A child playing a trading game can cooperate for a fair outcome or cheat for a bigger short-term prize, and worries the friend will cheat first. The fear of being the sucker often drives the cheating.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 5668,
+   "plan": {
+    "12": "R7",
+    "13": "R8",
+    "14": "R9"
+   },
+   "cast": {
+    "12": [
+     "Aditi",
+     "Noor"
+    ],
+    "13": [
+     "Elif",
+     "Layla"
+    ],
+    "14": [
+     "Kamal",
+     "Seema"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Prisoner's dilemma and cooperation vs defection",
+   "subtype": "Temptation to defect [Actor]",
+   "description": "Two teenagers preparing a joint presentation are tempted to shirk, thinking the other will cover for them. Each does what is best individually, so both do worse than if they had cooperated.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: resentment"
+   ]
+  },
+  {
+   "sno": 5669,
+   "plan": {
+    "12": "R4",
+    "13": "R5",
+    "14": "R6"
+   },
+   "cast": {
+    "12": [
+     "Asif",
+     "Swati"
+    ],
+    "13": [
+     "Santosh",
+     "Sabina"
+    ],
+    "14": [
+     "Mohit",
+     "Mahima"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Prisoner's dilemma and cooperation vs defection",
+   "subtype": "Getting burned by a defector [Receiver]",
+   "description": "A student who shared notes freely finds a peer who never reciprocated and used them to rank higher. They feel foolish and angry and may swear off sharing, though blanket distrust costs them future partners.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 5670,
+   "plan": {
+    "12": "R11",
+    "13": "R13",
+    "14": "R14"
+   },
+   "cast": {
+    "12": [
+     "Santosh",
+     "Elizabeth"
+    ],
+    "13": [
+     "Pankaj",
+     "Sangeeta"
+    ],
+    "14": [
+     "Usha",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Prisoner's dilemma and cooperation vs defection",
+   "subtype": "Cooperation that grows over repeated rounds [Actor]",
+   "description": "Colleagues who work together for years learn that reliable cooperation pays and that one betrayal is remembered. Because they will meet again, keeping promises becomes the practical and the moral choice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5671,
+   "plan": {
+    "12": "R13",
+    "13": "R14",
+    "14": "R15"
+   },
+   "cast": {
+    "12": [
+     "Harsha",
+     "Mehak"
+    ],
+    "13": [
+     "Darshan",
+     "Jyoti"
+    ],
+    "14": [
+     "Rehana",
+     "Vasudha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Prisoner's dilemma and cooperation vs defection",
+   "subtype": "Cooperate first, respond fairly [Response]",
+   "description": "A young professional starts by cooperating, returns kindness with kindness, calls out defection plainly and forgives when the other side corrects. This avoids both naive exploitation and endless mutual punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

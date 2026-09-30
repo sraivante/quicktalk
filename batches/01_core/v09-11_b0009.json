@@ -1,0 +1,292 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 81,
+   "plan": {
+    "9": "R14",
+    "10": "R15",
+    "11": "R1"
+   },
+   "cast": {
+    "9": [
+     "Uday",
+     "Kunal"
+    ],
+    "10": [
+     "Saurabh",
+     "Zeenat"
+    ],
+    "11": [
+     "Indu",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Ideological Identity",
+   "description": "Exploring and committing to personal, political, or religious belief systems."
+  },
+  {
+   "sno": 82,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Bilal",
+     "Soo-ah"
+    ],
+    "10": [
+     "Jaya",
+     "Tanuja"
+    ],
+    "11": [
+     "Yash",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Vocational Identity",
+   "description": "Imagining future career paths and assessing personal strengths against possible jobs."
+  },
+  {
+   "sno": 83,
+   "plan": {
+    "9": "R10",
+    "10": "R11",
+    "11": "R12"
+   },
+   "cast": {
+    "9": [
+     "Vaibhav",
+     "Zainab"
+    ],
+    "10": [
+     "Urmila",
+     "Shreya"
+    ],
+    "11": [
+     "Vishal",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Identity",
+   "subtopic": "Identity Formation",
+   "subtype": "Interpersonal Identity",
+   "description": "Deciding what kind of friend, partner, or family member one wants to be."
+  },
+  {
+   "sno": 84,
+   "plan": {
+    "9": "R9",
+    "10": "R10",
+    "11": "R11"
+   },
+   "cast": {
+    "9": [
+     "Sunaina",
+     "Chetan"
+    ],
+    "10": [
+     "Sunaina",
+     "Vikas"
+    ],
+    "11": [
+     "Rafiq",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Clique Dynamics",
+   "description": "Navigating the strict boundaries of who belongs to which social group."
+  },
+  {
+   "sno": 85,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Aadhya",
+     "Sarika"
+    ],
+    "10": [
+     "Lokesh",
+     "Afreen"
+    ],
+    "11": [
+     "Nikita",
+     "Charu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Status Seeking",
+   "description": "Engaging in behaviors or adopting trends specifically to elevate social standing among peers.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 86,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Lalremsiami",
+     "Sharmila"
+    ],
+    "10": [
+     "Hemant",
+     "Chinmay"
+    ],
+    "11": [
+     "Diego",
+     "Gabriel"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Social",
+   "subtopic": "Social Hierarchies",
+   "subtype": "Peer Influence",
+   "description": "Balancing the desire for individual authenticity with the intense pressure to conform."
+  },
+  {
+   "sno": 87,
+   "plan": {
+    "9": "R4",
+    "10": "R5",
+    "11": "R6"
+   },
+   "cast": {
+    "9": [
+     "Sabina",
+     "Raghav"
+    ],
+    "10": [
+     "Rashmi",
+     "Charu"
+    ],
+    "11": [
+     "Gurpreet",
+     "Ganga"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Advanced Communication",
+   "subtopic": "Conflict & Feedback",
+   "subtype": "Diplomacy & Feedback Receptivity",
+   "description": "Receiving constructive criticism non-defensively and resolving peer conflicts diplomatically without hostility.",
+   "graph_context": [
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 88,
+   "plan": {
+    "9": "R13",
+    "10": "R14",
+    "11": "R15"
+   },
+   "cast": {
+    "9": [
+     "Vijay",
+     "Ganga"
+    ],
+    "10": [
+     "Leela",
+     "Nirmala"
+    ],
+    "11": [
+     "Ojas",
+     "Bhavna"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Angst",
+   "description": "Feeling generalized anxiety, frustration, or dread about the world and one's place in it.",
+   "graph_context": [
+    "related mind states: anger, fear, anxiety"
+   ]
+  },
+  {
+   "sno": 89,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Ines",
+     "Astrid"
+    ],
+    "10": [
+     "Vidya",
+     "Mridul"
+    ],
+    "11": [
+     "Suraj",
+     "Wasim"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Passion",
+   "description": "Developing an intense drive and emotional investment in ideals, hobbies, or causes."
+  },
+  {
+   "sno": 90,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Sachin",
+     "Dolma"
+    ],
+    "10": [
+     "Jasleen",
+     "Minakshi"
+    ],
+    "11": [
+     "Rafiq",
+     "Minakshi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Emotional",
+   "subtopic": "Complex/Abstract Emotions",
+   "subtype": "Apathy",
+   "description": "Using emotional detachment or feigned lack of interest as a defense mechanism.",
+   "graph_context": [
+    "related mind states: interest, detachment"
+   ]
+  }
+ ]
+}

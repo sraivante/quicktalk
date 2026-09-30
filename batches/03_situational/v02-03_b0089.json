@@ -1,0 +1,268 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1198,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Rania",
+     "Mateo"
+    ],
+    "3": [
+     "Santosh",
+     "Imran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Chatting with an AI chatbot",
+   "subtype": "AI chatbot × Temptation [Actor]",
+   "description": "I am tempted to have AI write my assignment. Wise: notice the short-term relief and the long-term loss of skill; use it to explain and practise, and follow school rules.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, distrust, fear, trust",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 1199,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Pranav",
+     "Hafsa"
+    ],
+    "3": [
+     "Irawati",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Chatting with an AI chatbot",
+   "subtype": "AI chatbot × Companionship [Actor]",
+   "description": "A chat companion app feels like a friend or romantic partner. Wise: enjoy it as a tool, remember it's designed to keep me engaged, and keep real relationships alive.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, distrust, fear, temptation, trust",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 1200,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Farhan"
+    ],
+    "3": [
+     "Sarita",
+     "Vinita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Chatting with an AI chatbot",
+   "subtype": "AI chatbot × Privacy [Actor]",
+   "description": "I am about to paste my photo, address or family details into a chatbot. Wise: treat it like a public space; never share private identity information.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, distrust, fear, temptation, trust"
+   ]
+  },
+  {
+   "sno": 1201,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Varun",
+     "Keerthana"
+    ],
+    "3": [
+     "Rafiq",
+     "Reena"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Chatting with an AI chatbot",
+   "subtype": "Parent × Fear [Receiver]",
+   "description": "My parents worry that AI will take my future or ruin my mind. Wise: show them what I use it for, agree on limits, and talk about skills that stay valuable.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, distrust, temptation, trust",
+    "related mind states: fear, anxiety"
+   ]
+  },
+  {
+   "sno": 1202,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Nandini"
+    ],
+    "3": [
+     "Farhan",
+     "Asif"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Chatting with an AI chatbot",
+   "subtype": "Teacher × Suspicion [Receiver]",
+   "description": "A teacher suspects my work was AI-written when it was mostly mine. Wise: calmly show drafts and notes, and be honest about any help I used.",
+   "graph_context": [
+    "same situation, other stances at this age: deceit, dependence, fear, temptation, trust",
+    "related mind states: doubt, calm"
+   ]
+  },
+  {
+   "sno": 1203,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Ishita",
+     "Amandeep"
+    ],
+    "3": [
+     "Nadia",
+     "Chidi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Online stranger asks for secrets",
+   "subtype": "Online stranger × Flattery [Receiver]",
+   "description": "A stranger online calls me mature and special and asks me to keep our chats secret. Recognise it: secrecy and flattery are grooming warning signs. Tell a trusted adult; it is not my fault.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, loneliness, manipulation, protectiveness, shame",
+    "related mind states: anger, trust"
+   ]
+  },
+  {
+   "sno": 1204,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Nirmala",
+     "Dolma"
+    ],
+    "3": [
+     "Jyoti",
+     "Shalini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Online stranger asks for secrets",
+   "subtype": "Online stranger × Coercion [Receiver]",
+   "description": "Someone threatens to share my photos unless I send more. Do not comply or pay; stop replying, save evidence, tell an adult and report to cybercrime helplines. It is a crime, and the shame belongs to them.",
+   "graph_context": [
+    "same situation, other stances at this age: curiosity, loneliness, manipulation, protectiveness, shame",
+    "related mind states: anger, shame"
+   ]
+  },
+  {
+   "sno": 1205,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Usha"
+    ],
+    "3": [
+     "Shreya",
+     "Manoj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Online stranger asks for secrets",
+   "subtype": "Online stranger × Scam [Receiver]",
+   "description": "A message promises a prize, a job or easy money if I pay a small fee or share an OTP. Recognise it: real offers do not ask for money or codes. Do not share OTPs; tell a parent.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, loneliness, manipulation, protectiveness, shame",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1206,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Pradeep",
+     "Manjula"
+    ],
+    "3": [
+     "Trisha",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Online stranger asks for secrets",
+   "subtype": "Online stranger × Loneliness [Actor]",
+   "description": "I feel lonely and a stranger is kind to me. Wise: warmth is welcome, yet a friend who asks for secrecy, photos or money is unsafe. Keep chats open to a trusted adult.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, manipulation, protectiveness, shame",
+    "related mind states: affection, anger, loneliness, trust"
+   ]
+  },
+  {
+   "sno": 1207,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Shreya"
+    ],
+    "3": [
+     "Rafiq",
+     "Leela"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Online stranger asks for secrets",
+   "subtype": "Friend × Protective concern [Actor]",
+   "description": "I suspect a friend is being groomed online. Wise: don't shame them, listen, help them save evidence, and bring in a trusted adult or helpline. Their safety matters more than promises of secrecy.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, curiosity, loneliness, manipulation, shame",
+    "related mind states: shame, trust"
+   ]
+  }
+ ]
+}

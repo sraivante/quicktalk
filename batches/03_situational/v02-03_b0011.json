@@ -1,0 +1,267 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 418,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Lakshmi",
+     "Trisha"
+    ],
+    "3": [
+     "Maria",
+     "Uma"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Devotional life",
+   "subtype": "Guru or God × Worship & discernment",
+   "description": "Combines faith, rituals and service with critical thinking, staying wary of groups that demand blind obedience or funds.",
+   "graph_context": [
+    "same situation, other stances at this age: acceptance, gratitude"
+   ]
+  },
+  {
+   "sno": 419,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Baljeet",
+     "Payal"
+    ],
+    "3": [
+     "Indu",
+     "Tejas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Devotional life",
+   "subtype": "Faith community × Belonging",
+   "description": "Finds meaning and support in community and remains open to those outside it.",
+   "graph_context": [
+    "same situation, other stances at this age: gratitude, worship",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 420,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Mohit",
+     "Lalit"
+    ],
+    "3": [
+     "Chinmay",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Facing injustice at work",
+   "subtype": "Institution × Moral outrage",
+   "description": "Channels anger into evidence, allies and proper channels, and accepts personal cost when necessary.",
+   "graph_context": [
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 421,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Pooja"
+    ],
+    "3": [
+     "Aparna",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Old friend drifts away",
+   "subtype": "Friend × Nostalgia & acceptance",
+   "description": "Reaches out once without pressure and accepts natural changes in closeness.",
+   "graph_context": [
+    "same situation, other stances at this age: envy, grief, guilt, loyalty, rejection",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 422,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Yogesh",
+     "Vinita"
+    ],
+    "3": [
+     "Chetan",
+     "Arnab"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Stranger asks for help",
+   "subtype": "Stranger × Compassion & caution",
+   "description": "Helps within safe limits, checks the story where possible and does not give in to manipulation or guilt.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, gratitude",
+    "related mind states: anger, guilt, trust, empathy"
+   ]
+  },
+  {
+   "sno": 423,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Soo-ah",
+     "Ingrid"
+    ],
+    "3": [
+     "Lokesh",
+     "Sarita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Situational Awareness",
+   "subtopic": "Public criticism online",
+   "subtype": "Critic × Hurt & discernment",
+   "description": "Separates valid criticism from abuse, replies calmly or not at all, and avoids trading insults.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, compassion, fear, guilt, indifference, respect",
+    "related mind states: calm, hurt"
+   ]
+  },
+  {
+   "sno": 424,
+   "plan": {
+    "2": "R4",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Tenzin"
+    ],
+    "3": [
+     "Usha",
+     "Urmila"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Caregiver leaves the room",
+   "subtype": "Mother × Trust [Actor]",
+   "description": "The child has learned she always comes back, so protest is brief and play resumes. Caregivers build this by short, predictable goodbyes with a clear return word, never sneaking out.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, neglect",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 425,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Aparna"
+    ],
+    "3": [
+     "Usha",
+     "Tarun"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Caregiver leaves the room",
+   "subtype": "Mother × Anger [Actor]",
+   "description": "On her return the toddler may hit or turn away: the fear turned into fury. Mature response is calm welcome and naming it: you were upset when I went. Punishing the anger teaches hiding need.",
+   "graph_context": [
+    "same situation, other stances at this age: fear, neglect, trust",
+    "related mind states: anger, fear, calm"
+   ]
+  },
+  {
+   "sno": 426,
+   "plan": {
+    "2": "R8",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Beatriz",
+     "Alejandro"
+    ],
+    "3": [
+     "Damini",
+     "Rekha"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Caregiver leaves the room",
+   "subtype": "Mother × Neglect [Receiver]",
+   "description": "A child repeatedly left crying with no comfort learns that need brings nothing, and may go quiet or flat, which looks like being good. Caregivers should respond warmly and consistently; the child is never at fault.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, trust",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 427,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Preeti",
+     "Avni"
+    ],
+    "3": [
+     "Tanvir",
+     "Gurleen"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Situational Awareness",
+   "subtopic": "Caregiver leaves the room",
+   "subtype": "New daycare teacher × Trust [Actor]",
+   "description": "The child slowly borrows safety from a gentle new adult who greets warmly, holds and comforts. Wise caregivers stay a while at first, say goodbye honestly, and let the child bring a comfort toy.",
+   "graph_context": [
+    "same situation, other stances at this age: anger, fear, neglect",
+    "related mind states: trust"
+   ]
+  }
+ ]
+}

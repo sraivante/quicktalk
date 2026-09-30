@@ -1,0 +1,316 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4982,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Sharmila",
+     "Alka"
+    ],
+    "4": [
+     "Sachin",
+     "Dhruv"
+    ],
+    "5": [
+     "Kavitha",
+     "Shalini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Stereotypes and how to challenge them",
+   "subtype": "Challenging a stereotype in a conversation [Response]",
+   "description": "A young adult hears a sweeping remark and asks a question or gives a personal example instead of attacking. People change more when their dignity is safe, and gentle challenge plants a real doubt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: sadness, doubt, trust"
+   ]
+  },
+  {
+   "sno": 4983,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Abhinav",
+     "Jeevan"
+    ],
+    "4": [
+     "Kalyani",
+     "Minakshi"
+    ],
+    "5": [
+     "Asif",
+     "Ayesha"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Stereotypes and how to challenge them",
+   "subtype": "Knowing individuals across a divide [Response]",
+   "description": "A young adult makes real friendships with people from groups they were warned about and tells the stories. Personal contact is one of the strongest cures for prejudice.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "possibly related concept (heuristic): Contact hypothesis (mixing groups reduces prejudice)"
+   ]
+  },
+  {
+   "sno": 4984,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Varun",
+     "Payal"
+    ],
+    "4": [
+     "Rehana",
+     "Saurabh"
+    ],
+    "5": [
+     "Hafsa",
+     "Minakshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Two homes [Actor]",
+   "description": "A child of migrants speaks one language at home and another at school, and sometimes feels split. With warm support, the child grows into someone at ease in both worlds.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4985,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Keerthana",
+     "Mehak"
+    ],
+    "4": [
+     "Swati",
+     "Elizabeth"
+    ],
+    "5": [
+     "Deepika",
+     "Nitin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Neither here nor there [Actor]",
+   "description": "A teenager born abroad to Indian parents feels foreign in both India and the new country. The search for identity is intense; friends with similar backgrounds and open family talk help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4986,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Manoj"
+    ],
+    "4": [
+     "Vijay",
+     "Gargi"
+    ],
+    "5": [
+     "Ganga",
+     "Imran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Parents holding on to tradition [Observer]",
+   "description": "A parent abroad tightens rules on marriage, dress or language, fearing loss of the culture. It is love mixed with fear, and dialogue about what truly matters can soften rigid lines.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: affection, fear"
+   ]
+  },
+  {
+   "sno": 4987,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kavitha",
+     "Baljeet"
+    ],
+    "4": [
+     "Seema",
+     "Jasleen"
+    ],
+    "5": [
+     "Nazia",
+     "Tenzin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Not Indian enough or not local enough [Receiver]",
+   "description": "A young adult is told they are too Western at home and too foreign abroad. Hurtful labels show others' narrow ideas; the person can claim a blended identity without apology.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4988,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Rajni"
+    ],
+    "4": [
+     "Nilesh",
+     "Francis"
+    ],
+    "5": [
+     "Abhinav",
+     "Zainab"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Returning to India after years abroad [Actor]",
+   "description": "A young adult back in India finds that home has changed and that they have too, and feels out of step. Patience with both the place and oneself brings a new fit over time.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 4989,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Harsha",
+     "Parveen"
+    ],
+    "4": [
+     "Gabriel",
+     "Lars"
+    ],
+    "5": [
+     "Sangeeta",
+     "Sahil"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Choosing what to keep [Response]",
+   "description": "A young adult picks which customs, foods and values from each culture to hold as their own and passes them on with warmth. Identity becomes a garden tended by choice, not a cage.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4990,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Vaibhav",
+     "Tanuja"
+    ],
+    "4": [
+     "Vidya",
+     "Vishal"
+    ],
+    "5": [
+     "Yogesh",
+     "Amandeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Making a chosen community [Response]",
+   "description": "A young adult far from home builds a circle of friends who share a festival meal, a language or simply a kindness. Belonging can be built through shared time, not only shared ancestry.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 4991,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Tushar",
+     "Gurpreet"
+    ],
+    "4": [
+     "Santosh",
+     "Sunaina"
+    ],
+    "5": [
+     "Lalit",
+     "Ankita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Belonging when between cultures",
+   "subtype": "Welcoming the newcomer [Observer]",
+   "description": "A local sees a new arrival struggling with language and manners and offers a seat, an introduction or help with a form. Small welcomes make a place feel like home more than any speech.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  }
+ ]
+}

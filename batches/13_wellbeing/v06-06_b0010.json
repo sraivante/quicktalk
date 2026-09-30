@@ -1,0 +1,219 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 5286,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Maria",
+     "Arohi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Repair after wrongdoing [Response]",
+   "description": "A child who hurt a friend apologises and helps fix things, then is able to play again. Forgiveness of oneself follows real repair more easily than pure guilt or excuses.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: guilt, hurt"
+   ]
+  },
+  {
+   "sno": 5287,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Lalremsiami",
+     "Irawati"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Rumination after a slip [Actor]",
+   "description": "A teenager replays an embarrassing moment or a harsh remark for days. Harsh self-review feels like accountability but mostly produces shame and avoidance.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: shame, embarrassment",
+    "related concepts: avoidance"
+   ]
+  },
+  {
+   "sno": 5288,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Excuse versus forgiveness [Observer]",
+   "description": "A friend hears someone say it was not my fault every time. Self-forgiveness requires owning the harm first, whereas excuses skip that step and leave the guilt unresolved.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: guilt, determination"
+   ]
+  },
+  {
+   "sno": 5289,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Nandini",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Forgiving past choices [Actor]",
+   "description": "A young adult who wasted a year or hurt a partner keeps punishing themselves through lost opportunities. Learning that the past self did the best it knew at the time allows moving forward.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 5290,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Ada",
+     "Abebe"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Self-forgiveness",
+   "subtype": "Self-compassion practice [Response]",
+   "description": "A person speaks to themselves after failure as they would to a friend, naming the error and the effort. Self-compassion supports better change than self-contempt does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: contempt, empathy"
+   ]
+  },
+  {
+   "sno": 5291,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Kalyani",
+     "Ganga"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Hope",
+   "subtype": "Believing tomorrow will be good [Actor]",
+   "description": "A child plans tomorrow's picnic and is sure it will be sunny. Early hope is simple trust that adults will provide a good future, and broken promises damage it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: hope, trust"
+   ]
+  },
+  {
+   "sno": 5292,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Disha",
+     "Gurleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Hope",
+   "subtype": "Hope tied to effort [Actor]",
+   "description": "A child who practised spelling hopes to do well on the test and works harder because of it. Hope with a path attached keeps effort alive, while wishing alone does not.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 5293,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Noor",
+     "Yogesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Hope",
+   "subtype": "Hope collapsing after setbacks [Actor]",
+   "description": "A teenager who failed an exam concludes that everything is ruined and nothing will change. Hopelessness narrows thinking, and one adult or friend offering a concrete next step can widen it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 5294,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Sonali",
+     "Parveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Hope",
+   "subtype": "Offering hope to another [Response]",
+   "description": "A friend responds to another's despair by staying, listening, and pointing to a small next step, not by insisting everything will be fine. Hope is passed through presence more than promises.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: hope"
+   ]
+  },
+  {
+   "sno": 5295,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Sonali",
+     "Dolma"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Hope",
+   "subtype": "Hope without guarantee [Actor]",
+   "description": "A young adult applies for jobs or postings knowing many will fail, yet continues. Mature hope accepts uncertainty and still acts, unlike wishful hope that waits for fate.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hope"
+   ]
+  }
+ ]
+}

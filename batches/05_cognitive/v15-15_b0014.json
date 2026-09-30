@@ -1,0 +1,212 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 3700,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Disha",
+     "Chetan"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Correlation vs causation",
+   "subtype": "Asking about other explanations [Response]",
+   "description": "A careful analyst asks whether a third cause, reverse direction or coincidence could account for a link, and looks for a comparison group before claiming cause.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3701,
+   "plan": {
+    "15": "R7+T1"
+   },
+   "cast": {
+    "15": [
+     "Ramesh",
+     "Pooja"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Post hoc fallacy",
+   "subtype": "After this, therefore because of this [Actor]",
+   "description": "A child thinks the rain came because he did a dance or that he got fever because he ate ice cream once. Something that follows an event seems caused by it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3702,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Arnab",
+     "Zubin"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Post hoc fallacy",
+   "subtype": "Remedies and lucky charms [Actor]",
+   "description": "A teenager credits a tonic, a lucky charm or an app for recovering or scoring well, when things might have improved by themselves anyway.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3703,
+   "plan": {
+    "15": "R6+T1"
+   },
+   "cast": {
+    "15": [
+     "Harsha",
+     "Ganga"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Post hoc fallacy",
+   "subtype": "Cure stories and viral tips [Receiver]",
+   "description": "A student receives forwarded messages claiming a herb cured someone right after taking it. The timing sounds convincing but ignores natural recovery and other causes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3704,
+   "plan": {
+    "15": "R3"
+   },
+   "cast": {
+    "15": [
+     "Leela",
+     "Manjula"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Post hoc fallacy",
+   "subtype": "Testing before believing [Response]",
+   "description": "A wise person asks what would have happened without the treatment or change, looks for repeated and controlled evidence, and sees a doctor for real health problems.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 3705,
+   "plan": {
+    "15": "R1+T1"
+   },
+   "cast": {
+    "15": [
+     "Darshan",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False consensus effect",
+   "subtype": "Everyone thinks like me [Actor]",
+   "description": "A child assumes all friends like the same food, game and film he does, and is surprised or hurt when they differ. He believes his tastes are normal for all.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: surprise, hurt"
+   ]
+  },
+  {
+   "sno": 3706,
+   "plan": {
+    "15": "R13+T1"
+   },
+   "cast": {
+    "15": [
+     "Zubin",
+     "Naveen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False consensus effect",
+   "subtype": "Assuming friends agree [Actor]",
+   "description": "A teenager assumes everyone shares his opinion about a teacher or a celebrity and speaks bluntly, then feels attacked when others disagree.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3707,
+   "plan": {
+    "15": "R14+T1"
+   },
+   "cast": {
+    "15": [
+     "Joseph",
+     "Gurleen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False consensus effect",
+   "subtype": "Political and family talk [Actor]",
+   "description": "A young adult who mostly meets like-minded people thinks his view is nearly universal and is shocked at differing views at a family gathering.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 3708,
+   "plan": {
+    "15": "R14"
+   },
+   "cast": {
+    "15": [
+     "Ankita",
+     "Indu"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "False consensus effect",
+   "subtype": "Asking instead of assuming [Response]",
+   "description": "A mature person checks what others actually think, seeks out those unlike herself, and treats surprise at disagreement as a sign to learn.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: surprise"
+   ]
+  },
+  {
+   "sno": 3709,
+   "plan": {
+    "15": "R8+T1"
+   },
+   "cast": {
+    "15": [
+     "Bao",
+     "Mateo"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Curse of knowledge",
+   "subtype": "Cannot remember not knowing [Actor]",
+   "description": "An older child teaching a younger sibling skips steps that seem obvious to him and gets frustrated when the little one is lost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

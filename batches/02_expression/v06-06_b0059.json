@@ -1,0 +1,215 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2642,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Joseph",
+     "Ujjwal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Eyebrows in lively cultures [Mismatch]",
+   "description": "A person from a highly expressive culture may use big eyebrow movements while talking, while another finds them dramatic. Baseline expressiveness differs by person and culture, so compare against what is normal for them.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2643,
+   "plan": {
+    "6": "R10"
+   },
+   "cast": {
+    "6": [
+     "Bhupen",
+     "Vidya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Prolonged eye closure in exhaustion or calm [Mismatch]",
+   "description": "A young adult closing the eyes for long moments in a meeting may be tired, meditating, listening intently or overwhelmed. The same sign has several meanings, so a gentle check-in is better than guessing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: tiredness, calm, overwhelm"
+   ]
+  },
+  {
+   "sno": 2644,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Yash",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyes and eyelids",
+   "subtype": "Winking in professional or cross-cultural settings [Regulating]",
+   "description": "A young adult avoids winking at work or with new acquaintances because it can be misread as flirtatious or impolite in some cultures. Choosing clear words respects others.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2645,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Pankaj",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Direct gaze in interviews and dating [Regulating]",
+   "description": "A young adult adjusts gaze between direct and softer, as steady eye contact can signal confidence in one setting and intensity in another. Shy or neurodivergent people may find eye contact hard and can still listen well.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: shyness"
+   ]
+  },
+  {
+   "sno": 2646,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Lalremsiami",
+     "Preeti"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Gaze",
+   "subtype": "Gaze aversion when thinking [Mismatch]",
+   "description": "A person looks up or away while thinking or recalling, which is common and not evidence of lying or evasion. Judging honesty from gaze is unreliable, so listen to content and check facts.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2647,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Bidisha",
+     "Payal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Masks and hidden lower faces [Mismatch]",
+   "description": "A person wearing a mask shows only eyes and upper face, so smiles and nose or cheek signals are hidden. Voice, eyes and words carry more weight, and asking directly is helpful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2648,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Jatin",
+     "Wasim"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Nose and cheeks",
+   "subtype": "Nostril flare and tension in conflict [Interpreting]",
+   "description": "A young adult notices flared nostrils and tight cheeks in a heated discussion and reads rising anger, but may also be seeing effort or heat. A pause and a calm check-in help.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger, calm"
+   ]
+  },
+  {
+   "sno": 2649,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Hansa",
+     "Sahil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Downturned corners under stress [Interpreting]",
+   "description": "A young adult notices a friend's downturned mouth corners and thinks they may be sad or tired, then asks instead of assuming. A resting face can look sad without being sad.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: sadness, tiredness"
+   ]
+  },
+  {
+   "sno": 2650,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Baljeet",
+     "Mridul"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Lips",
+   "subtype": "Raised mouth corners as politeness versus joy [Mismatch]",
+   "description": "A young adult raises the mouth corners at work as polite friendliness even when stressed, and colleagues learn not to read every lift as happiness.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: joy"
+   ]
+  },
+  {
+   "sno": 2651,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Gopika",
+     "Harish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Jaw and tongue",
+   "subtype": "Dropped jaw in astonishment [Expressing]",
+   "description": "A young adult's jaw drops at surprising news, signalling astonishment or shock. The following reaction shows whether it is pleasant or upsetting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: surprise"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "stage": "execution",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5152,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Sachin",
+     "Damini"
+    ],
+    "4": [
+     "Pradeep",
+     "Manjula"
+    ],
+    "5": [
+     "Noa",
+     "Nkechi"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Collaboration handoffs",
+   "subtype": "Acknowledging and confirming receipt [Response]",
+   "description": "A wise receiver repeats back what they understood they now own and asks for anything missing before the giver leaves. Closing the loop at the moment of handoff avoids weeks of confusion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 5153,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Freya",
+     "Layla"
+    ],
+    "4": [
+     "Leela",
+     "Gopika"
+    ],
+    "5": [
+     "Mehak",
+     "Vaibhav"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Rushing to be done [Actor]",
+   "description": "A teenager hurries through homework to get to leisure and makes careless errors that later cost marks. Finishing fast feels like efficiency, but the work is often repeated or lost.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5154,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Akash",
+     "Disha"
+    ],
+    "4": [
+     "Elizabeth",
+     "Keerthana"
+    ],
+    "5": [
+     "Farhan",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Perfectionism slowing everything [Actor]",
+   "description": "A student rewrites the same page repeatedly, unable to submit anything not flawless. The standard feels like a virtue, but it hides fear of criticism and steals time from other important things.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: fear",
+    "possibly related concept (heuristic): Perfectionism"
+   ]
+  },
+  {
+   "sno": 5155,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Bao",
+     "Yosef"
+    ],
+    "4": [
+     "Gopika",
+     "Parul"
+    ],
+    "5": [
+     "Minakshi",
+     "Yogesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Basic checks before submitting [Response]",
+   "description": "A careful person uses a short checklist before sending or submitting, covering names, numbers, attachments and the original request. A two-minute check catches most embarrassing errors.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: embarrassment, detachment"
+   ]
+  },
+  {
+   "sno": 5156,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Sunaina"
+    ],
+    "4": [
+     "Swati",
+     "Deepak"
+    ],
+    "5": [
+     "Mehak",
+     "Imran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Quick fix that becomes permanent [Actor]",
+   "description": "A worker under pressure patches something in a hurry, promising to fix it properly later, and later never comes. Short-term shortcuts accumulate into a burden that slows everyone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5157,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Chetan",
+     "Ishita"
+    ],
+    "4": [
+     "Divyansh",
+     "Jyoti"
+    ],
+    "5": [
+     "Harish",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Team pushed to cut corners [Receiver]",
+   "description": "Staff told to deliver faster with the same resources feel torn between their own standards and the demand, and quietly carry the blame for defects. Moral discomfort builds when quality is silently sacrificed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5158,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Alka",
+     "Pankaj"
+    ],
+    "4": [
+     "Sonali",
+     "Rekha"
+    ],
+    "5": [
+     "Freya",
+     "Yosef"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Quality versus speed",
+   "subtype": "Deciding what must be excellent [Response]",
+   "description": "A wise worker decides which parts need care, such as safety, money and things hard to undo, and lets the rest be good enough. Matching effort to the cost of failure gives both speed and reliability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5159,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Vandana",
+     "Mohit"
+    ],
+    "4": [
+     "Ojas",
+     "Farida"
+    ],
+    "5": [
+     "Zeenat",
+     "Farida"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Spilled or broken things [Actor]",
+   "description": "A young child who spills milk or breaks a toy freezes, cries or hides, afraid of anger. Calm cleaning up together teaches that mistakes are fixable rather than shameful.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger, fear, shame, calm"
+   ]
+  },
+  {
+   "sno": 5160,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Madhav",
+     "Divyansh"
+    ],
+    "4": [
+     "Kamal",
+     "Ritu"
+    ],
+    "5": [
+     "Vinita",
+     "Uday"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Lying to avoid blame [Actor]",
+   "description": "A schoolchild who broke something or did poorly on a test says it was not them or hides the paper. Fear of punishment outweighs honesty, and harsh reactions teach better hiding rather than better behaviour.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5161,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Aadhya",
+     "Jyoti"
+    ],
+    "4": [
+     "Wasim",
+     "Afreen"
+    ],
+    "5": [
+     "Shalini",
+     "Yusuf"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Execution & Practical Skills",
+   "subtopic": "Handling mistakes and post-mortems",
+   "subtype": "Shame after an error [Actor]",
+   "description": "A teenager who made a visible error in class or a match replays it for days and avoids trying again. Shame makes a single event feel like a verdict on the whole self.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  }
+ ]
+}

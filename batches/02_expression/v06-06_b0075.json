@@ -1,0 +1,217 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 2802,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Rafiq"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Describing with hands to bridge language gaps [Regulating]",
+   "description": "A worker in a new city with limited shared language uses shapes, mime and pointing to make a request. Gestures can bridge but also mislead, since meanings vary, so checking with a confirming phrase or an image avoids mistakes.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2803,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Saurabh",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Descriptive gestures",
+   "subtype": "Gestures on video calls [Mismatch]",
+   "description": "A young professional finds hand descriptions are cropped or delayed on camera, so a shape or size may go unseen or be misread. Adding words, sharing a screen or a quick sketch reduces confusion where gestures are limited.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: confusion"
+   ]
+  },
+  {
+   "sno": 2804,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Sahil",
+     "Santosh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Desk slump and screen fatigue [Regulating]",
+   "description": "A young worker hunches over a laptop for hours, which reads as focus or exhaustion to others and can cause discomfort. Regular movement, an adjusted chair and breaks help body and mood, and coworkers should not assume laziness from posture.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: tiredness"
+   ]
+  },
+  {
+   "sno": 2805,
+   "plan": {
+    "6": "R7"
+   },
+   "cast": {
+    "6": [
+     "Keerthana",
+     "Yamini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Posture",
+   "subtype": "Posture in workplace hierarchy [Mismatch]",
+   "description": "A young professional meets bosses who lean back, sit tall or stand close, and finds that posture signals status differently across offices and cultures. Guessing attitude from body position alone is risky; behaviour over time tells more.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 2806,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Hafsa",
+     "Deepak"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Whole-body movement",
+   "subtype": "Restless pacing at work or in waiting rooms [Regulating]",
+   "description": "A young professional paces before an interview or bad news to burn nervous energy. Others may read it as impatience or worry; stepping out, breathing and a short walk usually help more than sitting rigid.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anxiety, boredom, relief from stress"
+   ]
+  },
+  {
+   "sno": 2807,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Paulo",
+     "Rafael"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Whole-body movement",
+   "subtype": "Walking away in conflict at work [Regulating]",
+   "description": "A young worker leaves the room during a heated exchange to avoid saying something regrettable. This can be sound de-escalation if followed by a return and a calm word; leaving abruptly with no explanation can read as disrespect.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, calm, regret"
+   ]
+  },
+  {
+   "sno": 2808,
+   "plan": {
+    "6": "R1"
+   },
+   "cast": {
+    "6": [
+     "Ayesha",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Withdrawal or protection",
+   "subtype": "Protective stance for others [Regulating]",
+   "description": "A young adult steps between a friend and a threat or shields a child from a crowd. Protection can be caring but should not escalate danger; calling authorities and moving everyone away are usually the wiser choices.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2809,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Gargi",
+     "Vandana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Withdrawal or protection",
+   "subtype": "Withdrawal after trauma or burnout [Mismatch]",
+   "description": "A young professional pulls back, avoids eye contact or startles easily after a hard period. It may reflect stress, grief or exhaustion; supportive people offer patience and professional help rather than pushing them to open up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: grief, surprise, tiredness, detachment"
+   ]
+  },
+  {
+   "sno": 2810,
+   "plan": {
+    "6": "R13"
+   },
+   "cast": {
+    "6": [
+     "Dolma",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Phone fiddling and screen-touching habits [Mismatch]",
+   "description": "A young adult picks up a phone, taps or scrolls in awkward moments as a comfort or an escape. It may show boredom, anxiety or urgent work, and others often read it as disrespect; a short explanation prevents hurt.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: admiration, anxiety, embarrassment, boredom",
+    "related concepts: boredom"
+   ]
+  },
+  {
+   "sno": 2811,
+   "plan": {
+    "6": "R11"
+   },
+   "cast": {
+    "6": [
+     "Yusuf",
+     "Ramesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-directed movements",
+   "subtype": "Rubbing temples and neck at work [Expressing]",
+   "description": "A young professional rubs the neck or temples during long meetings, signalling tiredness, tension or headache. Colleagues cannot tell which from the gesture alone; offering a break or asking kindly is better than guessing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: tiredness"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,321 @@
+{
+ "stage": "group",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 3379,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Chinmay",
+     "Francis"
+    ],
+    "4": [
+     "Devika",
+     "Sarita"
+    ],
+    "5": [
+     "Salma",
+     "Lokesh"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Dissenter labelled negative [Receiver]",
+   "description": "A team member who raises a risk is called negative or not a team player. They learn that honesty costs belonging and may go quiet or leave.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 3380,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Zeenat",
+     "Hafsa"
+    ],
+    "4": [
+     "Leela",
+     "Hafsa"
+    ],
+    "5": [
+     "Dilnaz",
+     "Vishal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Manager sensing false harmony [Observer]",
+   "description": "A manager notices that discussions end too easily and nobody argues. Instead of relief, they read this as a warning that people are not speaking up.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 3381,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Layla",
+     "Aiko"
+    ],
+    "4": [
+     "Tejas",
+     "Parveen"
+    ],
+    "5": [
+     "Elizabeth",
+     "Binita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Group Behaviour",
+   "subtopic": "Groupthink",
+   "subtype": "Inviting a devil's advocate [Response]",
+   "description": "A wise lead asks someone to argue against the plan, speaks last, and thanks the person who raises problems. Making dissent safe and normal protects the group from its own confidence.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: gratitude, trust"
+   ]
+  },
+  {
+   "sno": 3382,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Nikita",
+     "Anirban"
+    ],
+    "4": [
+     "Bilal",
+     "Soo-ah"
+    ],
+    "5": [
+     "Manoj",
+     "Sachin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Waiting for others to act [Actor]",
+   "description": "A child sees a classmate fall or get bullied and does nothing because many others are watching too. Each assumes someone else will step in, so nobody does.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "possibly related concept (heuristic): Moral disengagement: displacing and diffusing responsibility"
+   ]
+  },
+  {
+   "sno": 3383,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Usha",
+     "Wasim"
+    ],
+    "4": [
+     "Usha",
+     "Maria"
+    ],
+    "5": [
+     "Dhruv",
+     "Minakshi"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Telling a trusted adult [Response]",
+   "description": "A child learns that getting help from a teacher or parent is not tattling but caring. They practise saying I need help and pointing at one specific adult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 3384,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Farida",
+     "Sumit"
+    ],
+    "4": [
+     "Jahnavi",
+     "Divyansh"
+    ],
+    "5": [
+     "Raghav",
+     "Anjali"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Freezing from uncertainty [Actor]",
+   "description": "A teenager sees something troubling in a group, such as a fight or a drunk friend, and looks around to check whether it is serious. Seeing calm faces, they decide it must be fine.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: calm",
+    "possibly related concept (heuristic): Moral disengagement: displacing and diffusing responsibility"
+   ]
+  },
+  {
+   "sno": 3385,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Tushar",
+     "Mahima"
+    ],
+    "4": [
+     "Dolma",
+     "Rafiq"
+    ],
+    "5": [
+     "Sachin",
+     "Lakshmi"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Fear of embarrassment [Actor]",
+   "description": "A teenager hesitates to help because they fear looking foolish if they misread it. Social risk outweighs the victim's need in the moment, and guilt arrives later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: fear, embarrassment, guilt"
+   ]
+  },
+  {
+   "sno": 3386,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Ujjwal",
+     "Varun"
+    ],
+    "4": [
+     "Jaya",
+     "Tushar"
+    ],
+    "5": [
+     "Jamal",
+     "Valentina"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Being ignored while others watch [Receiver]",
+   "description": "A student being harassed notices that many people see it and nobody speaks. The silence of the crowd can hurt more than the act itself and teaches them they are alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 3387,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Thomas",
+     "Yash"
+    ],
+    "4": [
+     "Pranav",
+     "Jagdish"
+    ],
+    "5": [
+     "Jomon",
+     "Pankaj"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Small safe interventions [Response]",
+   "description": "A teenager chooses a low-risk action such as checking on the victim, distracting the aggressor or calling an adult. Safe helping is a range of options, not a heroic all-or-nothing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: hostility, trust"
+   ]
+  },
+  {
+   "sno": 3388,
+   "plan": {
+    "3": "R6",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Manjula",
+     "Vijay"
+    ],
+    "4": [
+     "Raghav",
+     "Dhruv"
+    ],
+    "5": [
+     "Ivan",
+     "Emil"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Group Behaviour",
+   "subtopic": "Bystander effect and diffusion of responsibility",
+   "subtype": "Group chat harm and silence [Observer]",
+   "description": "A student sees a cruel or dangerous post in a big group chat and assumes someone else will report it. The bigger the group, the smaller each person's felt duty.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7421,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Reena",
+     "Varun"
+    ],
+    "3": [
+     "Tarun",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: taking the conversation to private channels [Action]",
+   "description": "For a customer-specific complaint, the company offers a direct call or email for details and returns later to say the matter was resolved, protecting privacy and avoiding a public fight.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 7422,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Varun",
+     "Tanuja"
+    ],
+    "3": [
+     "Rekha",
+     "Aparna"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: ignoring everything and hoping it fades [Pitfall]",
+   "description": "The company stays silent about a real safety complaint. Silence reads as indifference, more users join in and a local issue becomes a wider reputation problem.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7423,
+   "plan": {
+    "2": "R9",
+    "3": "R10"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Rafiq"
+    ],
+    "3": [
+     "Nilesh",
+     "Vandana"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: seeking a trusted friend's view [Action]",
+   "description": "Before posting a response, the person shares the draft with a friend not emotionally involved, who suggests removing sarcasm and adding a concrete promise.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 7424,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Anjali",
+     "Lakshmi"
+    ],
+    "3": [
+     "Reena",
+     "Abhinav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: protecting mental health while the storm passes [Thinking]",
+   "description": "The person mutes notifications for two days, avoids checking metrics every hour, and talks with family, recognising that attention will move on and worth is not defined by strangers.",
+   "graph_context": [
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 7425,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Anirban",
+     "Akash"
+    ],
+    "3": [
+     "Imran",
+     "Vinita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: using legal remedies only for real harm [Revision]",
+   "description": "When some posts contain false and harmful claims, the person collects screenshots and consults a lawyer about lawful options, but does not threaten critics over honest disagreement.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  },
+  {
+   "sno": 7426,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Mridul",
+     "Hrithik"
+    ],
+    "3": [
+     "Urmila",
+     "Jasleen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Handling public criticism online",
+   "subtype": "Approach: updating the product and process after the episode [Revision]",
+   "description": "The team adds a support form, a public changelog and a quicker reply time, reasoning that most future public complaints can be handled earlier if channels for feedback exist.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination"
+   ]
+  },
+  {
+   "sno": 7427,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Elizabeth",
+     "Nikita"
+    ],
+    "3": [
+     "Sangeeta",
+     "Siddharth"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: clarifying what the mentee needs [Thinking]",
+   "description": "Before agreeing to mentor a college student, the young engineer asks about goals and challenges, realising that the student needs interview practice more than technical lectures."
+  },
+  {
+   "sno": 7428,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Nilesh"
+    ],
+    "3": [
+     "Nandini",
+     "Nazia"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: setting a simple recurring schedule [Action]",
+   "description": "The mentor and mentee meet for forty minutes every second Sunday with an agenda shared beforehand, and each session ends with one small task for the next time."
+  },
+  {
+   "sno": 7429,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Kiran",
+     "Ira"
+    ],
+    "3": [
+     "Mahima",
+     "Jyoti"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: giving answers instead of guiding [Pitfall]",
+   "description": "The mentor solves each problem for the mentee to be helpful. The mentee gets fast results but does not learn to think, and returns with the same kind of problem again."
+  },
+  {
+   "sno": 7430,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Arohi",
+     "Pooja"
+    ],
+    "3": [
+     "Aadhya",
+     "Nikita"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning to mentor others",
+   "subtype": "Approach: asking questions to build thinking [Thinking]",
+   "description": "Instead of giving the solution, the mentor asks what has been tried, what the options are and how each might fail, guiding the mentee to reason through the problem."
+  }
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1308,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Ujjwal",
+     "Karthik"
+    ],
+    "3": [
+     "Gurleen",
+     "Rehana"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Pressure to define the relationship [Receiver]",
+   "description": "They ask where this is going and you feel cornered. Wise: be honest about what you know and do not know, and avoid stringing them along. Immature: dodging, or saying yes to avoid a scene.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, dependence, fear, gratitude, respect, trust"
+   ]
+  },
+  {
+   "sno": 1309,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Santosh",
+     "Bidisha"
+    ],
+    "3": [
+     "Liam",
+     "Ada"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Growing apart [Actor]",
+   "description": "Goals and values start to diverge and you feel guilty. Wise: talk honestly early, and consider that ending kindly can be more respectful than staying out of guilt. Immature: quiet withdrawal until they give up.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect",
+    "related mind states: admiration, guilt, detachment"
+   ]
+  },
+  {
+   "sno": 1310,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Irawati",
+     "Tushar"
+    ],
+    "3": [
+     "Gautam",
+     "Zeenat"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Money and gifts [Actor]",
+   "description": "One of you pays more, and unspoken expectations build. Wise: talk openly about money, do not buy love or obligation, and respect each other's budget. Immature: keeping quiet then resenting them.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect",
+    "related mind states: affection, admiration, resentment"
+   ]
+  },
+  {
+   "sno": 1311,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Rekha",
+     "Akash"
+    ],
+    "3": [
+     "Ishita",
+     "Jaya"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Public display and social media [Actor]",
+   "description": "You want the relationship seen and validated online. Wise: notice whether the posting reflects closeness or replaces it. Immature: comparing your love with others' filtered posts.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 1312,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Yamini",
+     "Dolma"
+    ],
+    "3": [
+     "Lalremsiami",
+     "Joseph"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Committed romantic relationship",
+   "subtype": "Partner × Marriage talk and family [Actor]",
+   "description": "Marriage suddenly becomes real, with two families involved. Wise: be sure you both share values on work, parents and kids before rushing. Immature: agreeing to please everyone and postponing the hard questions.",
+   "graph_context": [
+    "same situation, other stances at this age: affection, coercion, dependence, fear, gratitude, respect"
+   ]
+  },
+  {
+   "sno": 1313,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Uma",
+     "Jyoti"
+    ],
+    "3": [
+     "Chaitanya",
+     "Urmila"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Jealousy [Actor]",
+   "description": "You feel a hot pang when they laugh with someone else. Wise: name the insecurity behind it and share it as your feeling, not an accusation. Immature: interrogating, demanding passwords or forbidding friends.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity",
+    "paired view exists: Receiver (S1314)",
+    "related mind states: amusement, jealousy, insecurity"
+   ]
+  },
+  {
+   "sno": 1314,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Shankar",
+     "Sunaina"
+    ],
+    "3": [
+     "Nandini",
+     "Tanvir"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Jealousy [Receiver]",
+   "description": "They get upset about your friends and you feel watched. Wise: reassure once and hold the line that trust is not shown by surrendering your freedom. Harmful: hiding people to keep the peace.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity",
+    "paired view exists: Actor (S1313)",
+    "related mind states: calm, jealousy, trust"
+   ]
+  },
+  {
+   "sno": 1315,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Hafsa",
+     "Chetan"
+    ],
+    "3": [
+     "Disha",
+     "Aparna"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Possessiveness [Actor]",
+   "description": "You want them only yours and feel entitled to know everything. Wise: see this as fear, not love, and see them as a separate person. Harmful: controlling clothes, contacts or location.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity, jealousy",
+    "paired view exists: Receiver (S1316)",
+    "related mind states: affection, fear"
+   ]
+  },
+  {
+   "sno": 1316,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Chidi",
+     "Siddiq"
+    ],
+    "3": [
+     "Tushar",
+     "Raghav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Possessiveness [Receiver]",
+   "description": "Their control is framed as love, and you slowly shrink your world. Wise: recognise the pattern, talk to a trusted friend or counsellor, and do not accept it as normal. It is not your fault.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, envy, insecurity, jealousy",
+    "paired view exists: Actor (S1315)",
+    "related mind states: affection, trust"
+   ]
+  },
+  {
+   "sno": 1317,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Madhuri",
+     "Yamini"
+    ],
+    "3": [
+     "Farhan",
+     "Devika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Situational Awareness",
+   "subtopic": "Partner jealous or possessive",
+   "subtype": "Partner × Envy of success [Actor]",
+   "description": "Your partner's promotion or rank makes you feel smaller though you love them. Wise: admit the envy privately, celebrate anyway, and work on your own path. Immature: undermining or mocking their achievement.",
+   "graph_context": [
+    "same situation, other stances at this age: distrust, insecurity, jealousy",
+    "paired view exists: Receiver (S1318)",
+    "related mind states: affection, envy"
+   ]
+  }
+ ]
+}

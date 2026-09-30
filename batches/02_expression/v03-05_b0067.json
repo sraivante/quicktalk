@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2722,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Kishore",
+     "Yash"
+    ],
+    "4": [
+     "Rukmini",
+     "Damini"
+    ],
+    "5": [
+     "Joseph",
+     "Yamini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Needs and preferences",
+   "subtype": "Reading a partner's or roommate's unspoken needs [Interpreting]",
+   "description": "A young adult notices signs such as quietness, irritability or clutter and infers a need for rest or space. These inferences can be wrong, so checking (\"Do you want company or quiet?\") is wiser than assuming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2723,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Seema",
+     "Hemant"
+    ],
+    "4": [
+     "Noor",
+     "Raghav"
+    ],
+    "5": [
+     "Sarika",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Giving feedback and rebuking [Expressing]",
+   "description": "A young adult gives feedback to a peer or project member with specific examples and a suggestion. A rebuke in public often produces defensiveness; private, timely and respectful feedback works better.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 2724,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Kashish",
+     "Nandini"
+    ],
+    "4": [
+     "Dhruv",
+     "Hemant"
+    ],
+    "5": [
+     "Pranav",
+     "Nazia"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Criticism and dissatisfaction",
+   "subtype": "Taking criticism without shrinking or bristling [Regulating]",
+   "description": "A young adult listens to feedback, asks clarifying questions and separates useful points from unfair ones. Immediate defence or total self-blame both make learning harder.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2725,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Jin",
+     "Oskar"
+    ],
+    "4": [
+     "Noor",
+     "Neelam"
+    ],
+    "5": [
+     "Ujjwal",
+     "Santosh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Contempt and ridicule as warning signs [Interpreting]",
+   "description": "A young adult recognises sneering, mockery and eye-rolls in a relationship as signs of disrespect that damage trust. Naming the pattern calmly, setting a limit or seeking help is wiser than trading insults.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, contempt, calm, trust"
+   ]
+  },
+  {
+   "sno": 2726,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Shalini",
+     "Siddharth"
+    ],
+    "4": [
+     "Rajni",
+     "Irawati"
+    ],
+    "5": [
+     "Rekha",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Conflict and antagonism",
+   "subtype": "Ultimatums in relationships [Mismatch]",
+   "description": "A young adult may face \"Do this or I leave\" from a friend, partner or family member. Some ultimatums state a real boundary, others are pressure or control; consider whether choices are respected and seek support if fear or coercion is present.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration, fear, resentment"
+   ]
+  },
+  {
+   "sno": 2727,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Manjula"
+    ],
+    "4": [
+     "Reena",
+     "Chinmay"
+    ],
+    "5": [
+     "Anjali",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Appeals to emotion, authority and logic [Interpreting]",
+   "description": "A young adult identifies appeals used in ads, politics and personal requests and weighs evidence. Emotional appeals are not always manipulation, but urgency, fear and flattery deserve extra scrutiny.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 2728,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Jeevan"
+    ],
+    "4": [
+     "Gargi",
+     "Nandini"
+    ],
+    "5": [
+     "Preeti",
+     "Chetan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Persuasion and negotiation",
+   "subtype": "Negotiating shared living or study arrangements [Expressing]",
+   "description": "A young adult negotiates chores, costs and schedules by stating interests, not just positions, and looking for options that serve both sides. Written agreements avoid later disagreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 2729,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Nilesh",
+     "Ankita"
+    ],
+    "4": [
+     "Pranav",
+     "Pallavi"
+    ],
+    "5": [
+     "Hafsa",
+     "Irawati"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Sharing memories and identity [Expressing]",
+   "description": "A young adult shares family stories, cultural background and personal milestones to be known. What to disclose is a personal choice, and no one is obliged to reveal private details, including identity, before feeling safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 2730,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Zainab",
+     "Sarika"
+    ],
+    "4": [
+     "Jatin",
+     "Payal"
+    ],
+    "5": [
+     "Chandrika",
+     "Nitin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Self-disclosure",
+   "subtype": "Vulnerability and building intimacy [Expressing]",
+   "description": "A young adult shares fears, history or hopes gradually with friends or partners and watches for reciprocity. Trust grows through matched, gradual sharing; sharing too much too soon can leave one feeling exposed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, hope, trust"
+   ]
+  },
+  {
+   "sno": 2731,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Yusuf",
+     "Varun"
+    ],
+    "4": [
+     "Anirban",
+     "Madhav"
+    ],
+    "5": [
+     "Vasudha",
+     "Yash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Humor and play",
+   "subtype": "Dry wit and comic understatement [Expressing]",
+   "description": "A young adult says \"It was slightly damp\" after a flood or \"Not my best day\" after a disaster. Understatement conveys coping and irony, and it depends on shared understanding of the true scale.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: overwhelm"
+   ]
+  }
+ ]
+}

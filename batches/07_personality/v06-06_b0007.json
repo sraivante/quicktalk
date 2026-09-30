@@ -1,0 +1,219 @@
+{
+ "stage": "personality",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4379,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Yash",
+     "Payal"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "Caregiver building safety [Response]",
+   "description": "A parent responds to distress with calm presence, names the feeling and repairs after their own mistakes. Perfection is not required; being reliably good enough is what builds trust.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: calm, trust"
+   ]
+  },
+  {
+   "sno": 4380,
+   "plan": {
+    "6": "R8"
+   },
+   "cast": {
+    "6": [
+     "Kaito",
+     "Clara"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "School-age confidence in friendships [Actor]",
+   "description": "A child makes friends, handles quarrels and asks for help without shame. Assumes people generally mean well, and can recover after a disagreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: shame"
+   ]
+  },
+  {
+   "sno": 4381,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Mridul",
+     "Chandrika"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "Teen who stays connected while separating [Actor]",
+   "description": "A teenager argues, seeks independence and still comes home to talk when troubled. Attachment shows up as trust that the bond survives disagreement.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 18–22, 23–26",
+    "related mind states: trust",
+    "possibly related concept (heuristic): Attachment-to-autonomy shifts"
+   ]
+  },
+  {
+   "sno": 4382,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Omkar",
+     "Francis"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "Adult relationships with trust [Actor]",
+   "description": "A young adult can say what they need, tolerate a partner's need for space and repair after fights. Closeness and independence coexist without constant fear of loss.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4383,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Avni",
+     "Naveen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "Friend noticing steady behaviour [Observer]",
+   "description": "A friend notices someone who keeps promises, admits mistakes and does not make every disagreement a crisis. Such reliability is worth learning from, and is not the absence of hurt but the ability to repair.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 4384,
+   "plan": {
+    "6": "R14"
+   },
+   "cast": {
+    "6": [
+     "Arnab",
+     "Bhupen"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Secure attachment",
+   "subtype": "Partner of a secure person [Receiver]",
+   "description": "A partner feels steady when the other gives consistency, listens during conflict and does not punish honesty. Security makes it easier for both to be vulnerable and to grow.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4385,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Farida",
+     "Kashish"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxious attachment",
+   "subtype": "Clingy toddler at parting [Actor]",
+   "description": "A toddler cries intensely when a caregiver leaves and is hard to settle on return, alternating between clinging and anger. Unsure comfort will be steady, so the child stays on alert.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4386,
+   "plan": {
+    "6": "R9"
+   },
+   "cast": {
+    "6": [
+     "Rekha",
+     "Chandrika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxious attachment",
+   "subtype": "Seeking constant reassurance [Actor]",
+   "description": "A child keeps checking where a parent is, asks repeatedly if they are loved and struggles with sleepovers. Fear of separation is real, and predictable goodbyes help more than dismissal.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, fear"
+   ]
+  },
+  {
+   "sno": 4387,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Pema",
+     "Farida"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxious attachment",
+   "subtype": "Friendship worry [Actor]",
+   "description": "A child fears being left out, over-reads a friend's silence and gets upset by any sign of preference for others. Needs help calming the alarm before deciding what the friend meant.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: fear, anxiety, calm"
+   ]
+  },
+  {
+   "sno": 4388,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Parveen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Personality & Individual Difference",
+   "subtopic": "Anxious attachment",
+   "subtype": "Parent reading the clinginess [Observer]",
+   "description": "A parent or teacher sees a child who shadows adults and needs many reassurances. Rather than calling it attention-seeking, they offer steady warmth and small independence steps.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: affection"
+   ]
+  }
+ ]
+}

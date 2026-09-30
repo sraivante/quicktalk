@@ -1,0 +1,292 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  12,
+  13,
+  14
+ ],
+ "rows": [
+  {
+   "sno": 191,
+   "plan": {
+    "12": "R15",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Maria",
+     "Zubin"
+    ],
+    "13": [
+     "Tenzin",
+     "Harish"
+    ],
+    "14": [
+     "Eshaan",
+     "Payal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Online Safety",
+   "subtype": "Privacy Basics & Reporting Discomfort",
+   "description": "Not sharing personal details and telling a trusted adult about upsetting or pressuring online contact.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 192,
+   "plan": {
+    "12": "R12",
+    "13": "R13+T1",
+    "14": "R14+T1"
+   },
+   "cast": {
+    "12": [
+     "Amandeep",
+     "Ayesha"
+    ],
+    "13": [
+     "Uday",
+     "Suraj"
+    ],
+    "14": [
+     "Madhav",
+     "Simran"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Digital Literacy",
+   "subtype": "Search, Ads vs. Facts & Source Awareness",
+   "description": "Using search sensibly and noticing sponsored content and unreliable claims."
+  },
+  {
+   "sno": 193,
+   "plan": {
+    "12": "R13",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Gautam",
+     "Devika"
+    ],
+    "13": [
+     "Jahnavi",
+     "Kalyani"
+    ],
+    "14": [
+     "Dhruv",
+     "Vishal"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "Screen Balance",
+   "subtype": "Games, Screens vs. Play & Sleep",
+   "description": "Balancing gaming and video with outdoor play, homework and sleep."
+  },
+  {
+   "sno": 194,
+   "plan": {
+    "12": "R7",
+    "13": "R8+T1",
+    "14": "R9+T1"
+   },
+   "cast": {
+    "12": [
+     "Tejas",
+     "Kamal"
+    ],
+    "13": [
+     "Siddiq",
+     "Nour"
+    ],
+    "14": [
+     "Nilesh",
+     "Tejas"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Digital & Technology",
+   "subtopic": "AI Awareness",
+   "subtype": "Machines Are Not People & Can Be Wrong",
+   "description": "Understanding that chatbots and voice assistants are programs that make mistakes and do not truly feel."
+  },
+  {
+   "sno": 195,
+   "plan": {
+    "12": "R4",
+    "13": "R5+T1",
+    "14": "R7+T1"
+   },
+   "cast": {
+    "12": [
+     "Ganga",
+     "Uma"
+    ],
+    "13": [
+     "Amandeep",
+     "Chandrika"
+    ],
+    "14": [
+     "Trisha",
+     "Lalremsiami"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Anger Management",
+   "subtype": "Pausing Before Retaliation",
+   "description": "Delaying a response to provocation and choosing words over blows."
+  },
+  {
+   "sno": 196,
+   "plan": {
+    "12": "R12",
+    "13": "R13+T1",
+    "14": "R14+T1"
+   },
+   "cast": {
+    "12": [
+     "Rehana",
+     "Chetan"
+    ],
+    "13": [
+     "Madhav",
+     "Santosh"
+    ],
+    "14": [
+     "Dolma",
+     "Yamini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Anxiety",
+   "subtype": "Exam & Performance Nervousness",
+   "description": "Recognizing nervousness before tests or recitals and using calming routines.",
+   "graph_context": [
+    "related mind states: anxiety, calm"
+   ]
+  },
+  {
+   "sno": 197,
+   "plan": {
+    "12": "R13",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Vaibhav",
+     "Minakshi"
+    ],
+    "13": [
+     "Ishita",
+     "Sachin"
+    ],
+    "14": [
+     "Vasudha",
+     "Jagdish"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Emotional",
+   "subtopic": "Self-Worth",
+   "subtype": "Early Body Image & Handling Teasing",
+   "description": "Coping with comparisons of looks and hurtful comments while keeping self-respect.",
+   "graph_context": [
+    "related mind states: admiration, hurt"
+   ]
+  },
+  {
+   "sno": 198,
+   "plan": {
+    "12": "R15",
+    "13": "R1+T1",
+    "14": "R2+T1"
+   },
+   "cast": {
+    "12": [
+     "Seema",
+     "Jyoti"
+    ],
+    "13": [
+     "Nilesh",
+     "Arohi"
+    ],
+    "14": [
+     "Gargi",
+     "Gautam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Bullying",
+   "subtype": "Recognizing, Reporting & Not Joining In",
+   "description": "Identifying bullying, seeking adult help and refusing to be a bystander who cheers it on."
+  },
+  {
+   "sno": 199,
+   "plan": {
+    "12": "R5",
+    "13": "R7+T1",
+    "14": "R8+T1"
+   },
+   "cast": {
+    "12": [
+     "Damini",
+     "Nazia"
+    ],
+    "13": [
+     "Suraj",
+     "Deepika"
+    ],
+    "14": [
+     "Kwame",
+     "Gabriel"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Peer Pressure",
+   "subtype": "Refusing Dares & Unsafe Requests",
+   "description": "Saying no to risky or unkind peer requests without losing the friendship.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 200,
+   "plan": {
+    "12": "R13",
+    "13": "R14+T1",
+    "14": "R15+T1"
+   },
+   "cast": {
+    "12": [
+     "Farhan",
+     "Ishita"
+    ],
+    "13": [
+     "Omkar",
+     "Swati"
+    ],
+    "14": [
+     "Ganga",
+     "Rekha"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Social",
+   "subtopic": "Teamwork",
+   "subtype": "Roles in Group Tasks & Sharing Credit",
+   "description": "Acting as leader, follower or contributor and giving credit fairly."
+  }
+ ]
+}

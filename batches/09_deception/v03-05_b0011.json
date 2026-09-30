@@ -1,0 +1,311 @@
+{
+ "stage": "deception",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 4689,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Ayesha",
+     "Farida"
+    ],
+    "4": [
+     "Aditi",
+     "Neelam"
+    ],
+    "5": [
+     "Sachin",
+     "Nandini"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Catfishing",
+   "subtype": "Checks that protect [Response]",
+   "description": "A person insists on a live video call early, does a reverse image search, and avoids sending money or private images to someone never met. A real person will accept these checks without anger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 4690,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Francis",
+     "Deepika"
+    ],
+    "4": [
+     "Tenzin",
+     "Anirban"
+    ],
+    "5": [
+     "Tanvir",
+     "Rukmini"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Romance scam",
+   "subtype": "Affection followed by an emergency [Receiver]",
+   "description": "A person forms a warm long-distance bond, then gets a story of a sudden crisis and a request for money. Love and fear of losing the person cloud judgement, and shame later often stops reporting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: affection, fear, shame"
+   ]
+  },
+  {
+   "sno": 4691,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Nirmala",
+     "Zainab"
+    ],
+    "4": [
+     "Santosh",
+     "Asif"
+    ],
+    "5": [
+     "Lokesh",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Romance scam",
+   "subtype": "Never send money to someone not met [Response]",
+   "description": "An adult treats any request for money, gift cards or crypto from an online partner as a stop sign, tells a friend, and reports it to the platform and cyber police. Scam victims deserve support, not blame.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 4692,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Alka",
+     "Nazia"
+    ],
+    "4": [
+     "Urmila",
+     "Avni"
+    ],
+    "5": [
+     "Uday",
+     "Wasim"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Romance scam",
+   "subtype": "Why the scammer builds a persona [Observer]",
+   "description": "A friend or bank worker sees a person repeatedly send money to a partner never met and gently asks questions instead of scolding. Scam operations are organised businesses, so the victim is up against professionals.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4693,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Lalit",
+     "Devika"
+    ],
+    "4": [
+     "Kunal",
+     "Nirmala"
+    ],
+    "5": [
+     "Manjula",
+     "Kamal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Job scam",
+   "subtype": "Easy work and upfront fee [Receiver]",
+   "description": "A job seeker gets an offer with high pay for little work, and is asked to pay a registration fee or deposit or to share bank details. Desperation for work makes the offer easy to believe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4694,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Leela"
+    ],
+    "4": [
+     "Afreen",
+     "Noor"
+    ],
+    "5": [
+     "Sudha",
+     "Kalyani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Job scam",
+   "subtype": "Task-for-pay tricks [Observer]",
+   "description": "A student sees a friend doing online likes or tasks for small payments that later require deposits to withdraw earnings. Warning them kindly that this is a common trap protects the group.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 4695,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R6"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Ganga"
+    ],
+    "4": [
+     "Pallavi",
+     "Shalini"
+    ],
+    "5": [
+     "Tarun",
+     "Tanvir"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Job scam",
+   "subtype": "Verifying an employer [Response]",
+   "description": "A person checks the company through official sites, refuses to pay for a job, and never lets someone else use their bank account or ID. Real employers do not charge to hire.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4696,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Joseph",
+     "Aditi"
+    ],
+    "4": [
+     "Tenzin",
+     "Sudha"
+    ],
+    "5": [
+     "Kunal",
+     "Kalyani"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Investment scam",
+   "subtype": "Promise of guaranteed returns [Receiver]",
+   "description": "A person is drawn by someone showing screenshots of big gains and a chance to join a group or app, and feels fear of missing out. Early small payouts build trust before larger deposits are lost.",
+   "graph_context": [
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 4697,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Jyoti",
+     "Lakshmi"
+    ],
+    "4": [
+     "Bhavna",
+     "Gargi"
+    ],
+    "5": [
+     "Jeevan",
+     "Noor"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Investment scam",
+   "subtype": "Slowing down and checking regulation [Response]",
+   "description": "An adult treats guaranteed high returns and pressure to move fast as warnings, checks registration with the official regulator, and talks to someone independent. Real investments carry risk, and they are not sold with secrecy."
+  },
+  {
+   "sno": 4698,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Pranav",
+     "Mridul"
+    ],
+    "4": [
+     "Yogesh",
+     "Jasleen"
+    ],
+    "5": [
+     "Mridul",
+     "Irawati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Honesty, Deception & Influence",
+   "subtopic": "Investment scam",
+   "subtype": "Losing savings and hiding it [Receiver]",
+   "description": "A person who lost money to a fake scheme feels shame and fear of family reaction and may stay silent or chase losses. Reporting early to the police and the regulator, and telling someone trusted, limits the damage.",
+   "graph_context": [
+    "related mind states: fear, shame, trust"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2312,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Lucia",
+     "Bao"
+    ],
+    "4": [
+     "Seema",
+     "Asif"
+    ],
+    "5": [
+     "Varun",
+     "Aditi"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visible reactions with multiple possible causes",
+   "subtype": "Trembling [Mismatch]",
+   "description": "A young child's shaking may reflect cold, fear, excitement or tiredness. Warmth and calm closeness address most causes, and a persistent tremor is a matter for a doctor.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: affection, fear, excitement, tiredness"
+   ]
+  },
+  {
+   "sno": 2313,
+   "plan": {
+    "3": "R7",
+    "4": "R8",
+    "5": "R9"
+   },
+   "cast": {
+    "3": [
+     "Pankaj",
+     "Dilnaz"
+    ],
+    "4": [
+     "Esther",
+     "Bao"
+    ],
+    "5": [
+     "Parul",
+     "Zeenat"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Exaggerated displays [Expressing]",
+   "description": "A preschooler wails theatrically over a small bump or squeals with over-large delight. Exaggeration often seeks attention or shows big feelings without control, and a calm response teaches proportion.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: joy, calm"
+   ]
+  },
+  {
+   "sno": 2314,
+   "plan": {
+    "3": "R4",
+    "4": "R7",
+    "5": "R8"
+   },
+   "cast": {
+    "3": [
+     "Mahima",
+     "Thomas"
+    ],
+    "4": [
+     "Rafiq",
+     "Elizabeth"
+    ],
+    "5": [
+     "Rosa",
+     "Tariq"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Intensity, timing, production, and style",
+   "subtype": "Literal and direct speech [Interpreting]",
+   "description": "A young child takes words at face value, such as hearing it is raining cats and dogs and looking for animals. Direct plain language is clearest for this age.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 2315,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Abhinav",
+     "Vandana"
+    ],
+    "4": [
+     "Shalini",
+     "Aparna"
+    ],
+    "5": [
+     "Farida",
+     "Deepika"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Expression & Mind State",
+   "subtopic": "Simultaneous or contrasting displays",
+   "subtype": "Laughing while embarrassed [Mismatch]",
+   "description": "A preschooler laughs nervously after being caught doing something wrong or being teased. The laugh is discomfort, not amusement, and a kind tone helps the child feel safe.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 7–12, 13–17, 18–22, 23–26",
+    "related mind states: amusement, anxiety, embarrassment, trust"
+   ]
+  },
+  {
+   "sno": 2316,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Gargi",
+     "Nirmala"
+    ],
+    "4": [
+     "Yash",
+     "Ayesha"
+    ],
+    "5": [
+     "Vandana",
+     "Uday"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Hiding a grimace to be polite [Regulating]",
+   "description": "A child learns to swallow a grimace at an unwanted gift or unpleasant food to avoid hurting someone. This display rule is a social skill, though constant hiding of real distress from trusted adults is worth gently noticing.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2317,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Ivan",
+     "Tomas"
+    ],
+    "4": [
+     "Tushar",
+     "Sabina"
+    ],
+    "5": [
+     "Rafiq",
+     "Samir"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Overall facial expressions",
+   "subtype": "Smirk and sneer as social judgement [Interpreting]",
+   "description": "A school-age child notices a classmate's smirk or sneer and reads possible mockery or superiority, though the same look can be nervousness. Asking or watching more context is wiser than assuming an insult.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 2318,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Pankaj",
+     "Lakshmi"
+    ],
+    "4": [
+     "Anirban",
+     "Mohit"
+    ],
+    "5": [
+     "Imran",
+     "Gurpreet"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Closed-mouth smile and shyness [Expressing]",
+   "description": "A school-age child gives a small closed-mouth smile when meeting new people, often carrying shyness or politeness rather than delight. Giving time and not forcing a bigger smile respects temperament.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: joy, admiration, shyness"
+   ]
+  },
+  {
+   "sno": 2319,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Simran",
+     "Nikita"
+    ],
+    "4": [
+     "Trisha",
+     "Nilesh"
+    ],
+    "5": [
+     "Zubin",
+     "Afreen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Smile variations",
+   "subtype": "Smile as appeasement [Mismatch]",
+   "description": "A child smiles nervously while being told off, which may signal fear, embarrassment or a wish to calm the adult, not amusement. Adults who read it as cheek risk punishing a frightened child.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: amusement, fear, anxiety, embarrassment"
+   ]
+  },
+  {
+   "sno": 2320,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Xin",
+     "Priscila"
+    ],
+    "4": [
+     "Bidisha",
+     "Imran"
+    ],
+    "5": [
+     "Chaitanya",
+     "Pradeep"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "Furrowed brow in schoolwork [Mismatch]",
+   "description": "A child furrows the brow over a maths problem, which peers may misread as anger at them. Explaining that the face means thinking can prevent needless friction.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2321,
+   "plan": {
+    "3": "R9",
+    "4": "R12",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Kalyani",
+     "Dolma"
+    ],
+    "4": [
+     "Nazia",
+     "Arnab"
+    ],
+    "5": [
+     "Bhupen",
+     "Sarita"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Expression & Mind State",
+   "subtopic": "Eyebrows and forehead",
+   "subtype": "One raised eyebrow [Interpreting]",
+   "description": "A school-age child sees a teacher raise one eyebrow and reads doubt, questioning or mild disapproval. Reading it as a question and offering an explanation works better than assuming anger.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26",
+    "related mind states: anger, doubt"
+   ]
+  }
+ ]
+}

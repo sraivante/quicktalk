@@ -1,0 +1,317 @@
+{
+ "stage": "cognitive",
+ "variant_ids": [
+  9,
+  10,
+  11
+ ],
+ "rows": [
+  {
+   "sno": 3760,
+   "plan": {
+    "9": "R15+T1",
+    "10": "R1+T1",
+    "11": "R2+T1"
+   },
+   "cast": {
+    "9": [
+     "Indu",
+     "Yash"
+    ],
+    "10": [
+     "Usha",
+     "Harish"
+    ],
+    "11": [
+     "Sonali",
+     "Rekha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reactance",
+   "subtype": "I do it myself [Actor]",
+   "description": "A preschooler refuses help or an instruction just because it was ordered, then complies happily if given a choice between two acceptable options.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 3761,
+   "plan": {
+    "9": "R5",
+    "10": "R6",
+    "11": "R7"
+   },
+   "cast": {
+    "9": [
+     "Jeevan",
+     "Pranav"
+    ],
+    "10": [
+     "Hrithik",
+     "Usha"
+    ],
+    "11": [
+     "Suraj",
+     "Pooja"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reactance",
+   "subtype": "Pushing back on control [Actor]",
+   "description": "A teenager told firmly what to do or whom to avoid does the opposite, protecting his sense of freedom. Heavy pressure can make risky things more tempting.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 23–26"
+   ]
+  },
+  {
+   "sno": 3762,
+   "plan": {
+    "9": "R6",
+    "10": "R7",
+    "11": "R8"
+   },
+   "cast": {
+    "9": [
+     "Sachin",
+     "Arohi"
+    ],
+    "10": [
+     "Manoj",
+     "Kunal"
+    ],
+    "11": [
+     "Tariq",
+     "Noa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reactance",
+   "subtype": "Parents facing resistance [Observer]",
+   "description": "A parent sees his strict rules produce secrecy and defiance, and shifts to explaining reasons, offering choices within limits and staying connected.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 23–26",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 3763,
+   "plan": {
+    "9": "R11",
+    "10": "R12",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Vishal",
+     "Lokesh"
+    ],
+    "10": [
+     "Baljeet",
+     "Dhruv"
+    ],
+    "11": [
+     "Siddharth",
+     "Simran"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Reactance",
+   "subtype": "Noticing my own bristle [Response]",
+   "description": "A young adult who feels irritated at advice or a rule asks whether he is rejecting the idea or just being told, and picks his response deliberately.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 13–17",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 3764,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Baljeet",
+     "Darshan"
+    ],
+    "10": [
+     "Ivan",
+     "Rosa"
+    ],
+    "11": [
+     "Ramesh",
+     "Gurleen"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ostrich effect",
+   "subtype": "Not looking at bad news [Actor]",
+   "description": "A teenager avoids checking exam results or a report card to postpone the sting, though not knowing leaves him more anxious and unprepared.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26",
+    "related mind states: anxiety"
+   ]
+  },
+  {
+   "sno": 3765,
+   "plan": {
+    "9": "R2",
+    "10": "R3",
+    "11": "R4"
+   },
+   "cast": {
+    "9": [
+     "Harish",
+     "Alka"
+    ],
+    "10": [
+     "Bhavna",
+     "Omkar"
+    ],
+    "11": [
+     "Devika",
+     "Kunal"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ostrich effect",
+   "subtype": "Avoiding bills and balances [Actor]",
+   "description": "A young adult stops opening bank messages or attendance records once things look bad, letting small problems grow. Looking away gives short relief and long trouble.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: relief"
+   ]
+  },
+  {
+   "sno": 3766,
+   "plan": {
+    "9": "R3",
+    "10": "R4",
+    "11": "R5"
+   },
+   "cast": {
+    "9": [
+     "Sudha",
+     "Nirmala"
+    ],
+    "10": [
+     "Jahnavi",
+     "Rukmini"
+    ],
+    "11": [
+     "Mridul",
+     "Gopika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ostrich effect",
+   "subtype": "Facing the numbers [Response]",
+   "description": "A mature person schedules a regular time to look at money, health and work data, ideally with a calm friend, so bad news is small and early and not large and late.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: detachment, calm"
+   ]
+  },
+  {
+   "sno": 3767,
+   "plan": {
+    "9": "R7",
+    "10": "R8",
+    "11": "R9"
+   },
+   "cast": {
+    "9": [
+     "Wasim",
+     "Rajni"
+    ],
+    "10": [
+     "Noa",
+     "Javier"
+    ],
+    "11": [
+     "Vasudha",
+     "Kashish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Ostrich effect",
+   "subtype": "Health check-ups avoided [Observer]",
+   "description": "A sibling notices someone ignoring symptoms or delaying a check-up out of fear. Gentle company to the appointment and qualified medical advice matter more than pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 3768,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R13"
+   },
+   "cast": {
+    "9": [
+     "Daniel",
+     "Leila"
+    ],
+    "10": [
+     "Imran",
+     "Lavanya"
+    ],
+    "11": [
+     "Vaibhav",
+     "Dolma"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental accounting",
+   "subtype": "Money in labelled pots [Actor]",
+   "description": "A child who received festival gift money feels free to spend it all on sweets, but would never spend the same amount from his pocket money. The source changes how the money feels.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 3769,
+   "plan": {
+    "9": "R8",
+    "10": "R9",
+    "11": "R10"
+   },
+   "cast": {
+    "9": [
+     "Gabriel",
+     "Nour"
+    ],
+    "10": [
+     "Sachin",
+     "Amandeep"
+    ],
+    "11": [
+     "Pranav",
+     "Ira"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Cognitive Machinery",
+   "subtopic": "Mental accounting",
+   "subtype": "Windfall money [Actor]",
+   "description": "A teenager treats a prize or a gift as fun money and spends it quickly, while guarding money he earned. Every rupee is the same but the mind sorts them differently.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: playfulness"
+   ]
+  }
+ ]
+}

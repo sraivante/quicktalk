@@ -1,0 +1,188 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 271,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Pranav",
+     "Sarika"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Career",
+   "subtopic": "Collaboration",
+   "subtype": "Remote & Hybrid Teamwork",
+   "description": "Communicating asynchronously and building trust with distant colleagues.",
+   "graph_context": [
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 272,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Sonali",
+     "Sudha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Leadership",
+   "subtopic": "Team Leadership",
+   "subtype": "Leading Small Teams & Projects",
+   "description": "Setting direction, dividing work and handling underperformance kindly."
+  },
+  {
+   "sno": 273,
+   "plan": {
+    "15": "R6"
+   },
+   "cast": {
+    "15": [
+     "Rajni",
+     "Manjula"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Credit & Debt",
+   "subtype": "Loans, Credit Scores & Debt Traps",
+   "description": "Understanding interest, EMIs, credit cards and how debt compounds.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 274,
+   "plan": {
+    "15": "R15"
+   },
+   "cast": {
+    "15": [
+     "Chinmay",
+     "Jahnavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Risk Cover",
+   "subtype": "Taxes & Insurance Basics",
+   "description": "Understanding income tax, health/life insurance and why cover matters early."
+  },
+  {
+   "sno": 275,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Nilesh",
+     "Sangeeta"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Financial Literacy",
+   "subtopic": "Investing",
+   "subtype": "Compounding, SIPs & Risk Appetite",
+   "description": "Starting small investments, understanding diversification and avoiding get-rich-quick schemes."
+  },
+  {
+   "sno": 276,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Avni",
+     "Rekha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Civic & Relational",
+   "subtopic": "Legal Literacy",
+   "subtype": "Rights, Contracts & Cyber Law Basics",
+   "description": "Reading agreements and knowing basic rights, tenancy, workplace and cyber-law obligations."
+  },
+  {
+   "sno": 277,
+   "plan": {
+    "15": "R1"
+   },
+   "cast": {
+    "15": [
+     "Yogesh",
+     "Anjali"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Health",
+   "subtopic": "Healthcare Navigation",
+   "subtype": "Choosing Doctors, Records & Insurance Claims",
+   "description": "Navigating healthcare systems, preventive checkups and medical decisions."
+  },
+  {
+   "sno": 278,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Kavitha",
+     "Maria"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Morality",
+   "subtopic": "Career Ethics",
+   "subtype": "Moral Dilemmas Under Financial Pressure",
+   "description": "Deciding when to refuse unethical work and how much career risk to bear."
+  },
+  {
+   "sno": 279,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Dilnaz",
+     "Kishore"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Cultural",
+   "subtopic": "Intercultural Competence",
+   "subtype": "Working & Living Across Cultures",
+   "description": "Adapting communication styles and respecting different work and social norms.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 280,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Kamal",
+     "Irfan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Spiritual / Meaning",
+   "subtopic": "Purpose",
+   "subtype": "Meaning, Purpose & Life Direction",
+   "description": "Exploring what makes work and life worthwhile beyond salary and status."
+  }
+ ]
+}

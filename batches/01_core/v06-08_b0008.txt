@@ -1,0 +1,41 @@
+STAGE: core
+Variant ids in this batch: 6, 7, 8 (3 per row). Rows in this batch: 10. Expected records: 30.
+
+RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
+R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
+R12: An observer's account: a neighbour, sibling, classmate or colleague describes what they saw, without knowing the protagonist's inner state for sure.
+R13: Before / during / after across a few days or weeks, in three short beats showing change over time; each beat happens on a different day.
+R14: An elder (grandparent, uncle, senior colleague) tells the story to a younger person as a memory or example, in their voice.
+R15: Third-person narrative with a complication or constraint added (time pressure, little money, a noisy place, a missing person, bad weather), still faithful to the row.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
+R3: First-person reflective account by the protagonist, looking back a little (for 7-12 keep it simple and short).
+R4: A note written by an adult who watched: caregiver, teacher, counsellor, coach or supervisor (their observations, plus what they did next).
+R5: A diary or journal entry by the protagonist, written the same day, informal.
+R7: Third-person narrative in a rural or small-town Indian setting (village, farm, kasba, local bus, temple fair, small shop).
+R8: Third-person narrative set outside India (any country), ordinary everyday detail.
+R9: Scene set inside an institution: school, hostel, clinic waiting room, workplace, sports club, community centre.
+
+STAGE INSTRUCTIONS
+Rows are developmental milestones or competencies. Show the milestone appearing (or being absent or delayed) in an ordinary scene at that age, with adults or peers responding naturally. Do not lecture. Application questions ask how a caregiver, teacher or the person could support it; keep support age-appropriate and non-clinical.
+
+TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the point of view of the passage.
+- [Actor] = the protagonist is the one feeling, thinking or doing it.
+- [Receiver] = the protagonist is affected by another person's stance or behaviour.
+- [Observer] = a bystander, peer, parent or colleague notices it.
+- [Response] = a mature way of handling or countering it is shown and its effect.
+- [Expressing] = the person produces or uses the signal; [Interpreting] = a person reads it in another; [Regulating] = controlling, softening or masking it; [Mismatch] = ambiguous, mixed, culturally variable or posed.
+- [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
+
+ROWS (JSON, each with its plan):
+{"sno": 71, "plan": {"6": "R1", "7": "R2", "8": "R3"}, "cast": {"6": ["Kunal", "Vijay"], "7": ["Chaitanya", "Ritu"], "8": ["Avni", "Ujjwal"]}, "age": "7–12", "topic": "Social / Mission", "subtopic": "Prosocial Care", "subtype": "Group & Community Care", "description": "Taking active responsibility for helping peers, caring for animals, or serving group roles.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26"]}
+{"sno": 72, "plan": {"6": "R1", "7": "R2", "8": "R3"}, "cast": {"6": ["Rashmi", "Vidya"], "7": ["Arohi", "Kiran"], "8": ["Francis", "Pankaj"]}, "age": "7–12", "topic": "Behavior", "subtopic": "Intelligent Decision-Making", "subtype": "Rule-Based Problem Solving", "description": "Using structured logic, step-by-step choices, and standard rules to resolve daily dilemmas.", "graph_context": ["this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26", "related mind states: determination"]}
+{"sno": 73, "plan": {"6": "R3", "7": "R4", "8": "R5"}, "cast": {"6": ["Yash", "Vikas"], "7": ["Damini", "Kishore"], "8": ["Yusuf", "Farida"]}, "age": "7–12", "topic": "Habits & Ethics", "subtopic": "Academic Discipline", "subtype": "Study & Work Ethics", "description": "Building diligent study routines, punctuality, and academic honesty vs. procrastination, slacking off, and cheating.", "graph_context": ["related concepts: procrastination"]}
+{"sno": 74, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Pranav", "Bhupen"], "7": ["Mei", "Wei"], "8": ["Gurleen", "Wasim"]}, "age": "7–12", "topic": "Financial Literacy", "subtopic": "Resource Management", "subtype": "Thrift & Value Awareness", "description": "Grasping money as exchanged value, practicing saving, avoiding wasteful consumption, and respecting resource limits.", "graph_context": ["related mind states: admiration"]}
+{"sno": 75, "plan": {"6": "R12", "7": "R13", "8": "R14"}, "cast": {"6": ["Zubin", "Raghav"], "7": ["Gopika", "Karthik"], "8": ["Hemant", "Nilesh"]}, "age": "7–12", "topic": "Civic & Relational", "subtopic": "Civic Identity", "subtype": "Patriotism & Institutional Respect", "description": "Honoring national symbols (flag, anthem), respecting school/civil rules, and valuing extended family and government institutions.", "graph_context": ["related mind states: admiration"]}
+{"sno": 76, "plan": {"6": "R12", "7": "R13", "8": "R14"}, "cast": {"6": ["Vijay", "Kashish"], "7": ["Nandini", "Pooja"], "8": ["Gurleen", "Arnab"]}, "age": "7–12", "topic": "Responsibility", "subtopic": "Spheres of Responsibility", "subtype": "Community & Environment", "description": "Taking personal ownership of homework/chores, respecting community spaces, caring for animals, and practicing respectful digital behavior.", "graph_context": ["this subtopic also appears at ages: 1–3, 4–6, 13–17, 18–22, 23–26", "related mind states: admiration"]}
+{"sno": 77, "plan": {"6": "R12", "7": "R13", "8": "R14"}, "cast": {"6": ["Asif", "Ganga"], "7": ["Anirban", "Pema"], "8": ["Jahnavi", "Tushar"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Abstract Thinking", "subtype": "Metacognition", "description": "Developing the ability to think about one's own thinking, analyze flaws, and self-reflect."}
+{"sno": 78, "plan": {"6": "R14", "7": "R15", "8": "R1"}, "cast": {"6": ["Gautam", "Jomon"], "7": ["Saurabh", "Harsha"], "8": ["Hansa", "Neelam"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Abstract Thinking", "subtype": "Hypothetical Reasoning", "description": "Asking \"what if\" questions and playing out complex scenarios that have not happened."}
+{"sno": 79, "plan": {"6": "R7", "7": "R8", "8": "R9"}, "cast": {"6": ["Pooja", "Kamal"], "7": ["Hiroshi", "Oskar"], "8": ["Trisha", "Siddharth"]}, "age": "13–17", "topic": "Cognitive", "subtopic": "Abstract Thinking", "subtype": "Systems Thinking", "description": "Understanding how multiple separate variables interact within a larger system."}
+{"sno": 80, "plan": {"6": "R3", "7": "R4", "8": "R5"}, "cast": {"6": ["Madhav", "Sumit"], "7": ["Sabina", "Harish"], "8": ["Usha", "Minakshi"]}, "age": "13–17", "topic": "Critical Thinking", "subtopic": "Metacognitive Virtues", "subtype": "Intellectual Humility & Bias Awareness", "description": "Recognizing personal cognitive biases, logical fallacies, emotional reasoning, and the limits of one's knowledge.", "graph_context": ["related concepts: emotional reasoning"]}
+
+Return exactly 30 JSON Lines and nothing else.

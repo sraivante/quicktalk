@@ -1,0 +1,215 @@
+{
+ "stage": "culture",
+ "variant_ids": [
+  6
+ ],
+ "rows": [
+  {
+   "sno": 4832,
+   "plan": {
+    "6": "R4"
+   },
+   "cast": {
+    "6": [
+     "Damini",
+     "Vaibhav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Pressure to marry [Receiver]",
+   "description": "A young adult hears relatives ask about marriage at every gathering and feels the clock being set. Family concern is often real love, but repeated pressure can hurry a lifelong decision.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: affection"
+   ]
+  },
+  {
+   "sno": 4833,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Deepak",
+     "Ayesha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Arranged marriage as partnership [Actor]",
+   "description": "A young adult takes part in an arranged match, meeting the person and talking with both families involved. Done well, arrangement is a shared search where both people keep a genuine right to say no.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26"
+   ]
+  },
+  {
+   "sno": 4834,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Farhan",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Compatibility beyond biodata [Response]",
+   "description": "A young adult looks past height, salary and caste on a biodata to values, temperament and respect. Long talks and time with the person reveal more than a résumé of qualities.",
+   "graph_context": [
+    "this subtopic also appears at ages: 23–26",
+    "related mind states: admiration"
+   ]
+  },
+  {
+   "sno": 4835,
+   "plan": {
+    "6": "R6"
+   },
+   "cast": {
+    "6": [
+     "Indu",
+     "Jagdish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Love marriage and family fear [Actor]",
+   "description": "A young adult in love with someone from another caste, faith or region fears family anger, and hides the relationship. Honest talk with trusted elders and patience can open ground that ultimatums close.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: affection, anger, fear, trust"
+   ]
+  },
+  {
+   "sno": 4836,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Parul",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Consent in arranged settings [Receiver]",
+   "description": "A young woman or man is told that everything is settled and only their nod is needed. Real consent requires time, information and a truly safe way to refuse without punishment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 4837,
+   "plan": {
+    "6": "R12"
+   },
+   "cast": {
+    "6": [
+     "Samir",
+     "Chaitanya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Parents' hopes and worries [Observer]",
+   "description": "Parents look for a match that is safe, well-off and respectable and fear community talk if it goes wrong. Their motive is often care, though it can blind them to what the young person actually wants.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: admiration, fear, anxiety, hope"
+   ]
+  },
+  {
+   "sno": 4838,
+   "plan": {
+    "6": "R15"
+   },
+   "cast": {
+    "6": [
+     "Afreen",
+     "Zubin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Refusing under pressure [Response]",
+   "description": "A young adult who does not want the match says so with reasons, offers alternatives and takes time before answering. A calm no repeated kindly is stronger than a sudden fight.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22",
+    "related mind states: calm"
+   ]
+  },
+  {
+   "sno": 4839,
+   "plan": {
+    "6": "R2"
+   },
+   "cast": {
+    "6": [
+     "Preeti",
+     "Irawati"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Culture & Society",
+   "subtopic": "Marriage expectations",
+   "subtype": "Choosing not to marry yet [Actor]",
+   "description": "A young adult wants to build a career, heal or simply wait, and faces questions about age and future. Clear boundaries and steady confidence show that a delay is a choice, not a failure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22"
+   ]
+  },
+  {
+   "sno": 4840,
+   "plan": {
+    "6": "R3"
+   },
+   "cast": {
+    "6": [
+     "Keerthana",
+     "Neelam"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Culture & Society",
+   "subtopic": "Dowry and gender-based pressure recognition",
+   "subtype": "Girls taught to save for marriage [Receiver]",
+   "description": "A teenage girl hears that her worth includes the wedding fund and that her brother's education comes first. She may feel like a burden; equal schooling and encouragement are the fair answer.",
+   "graph_context": [
+    "this subtopic also appears at ages: 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 4841,
+   "plan": {
+    "6": "R5"
+   },
+   "cast": {
+    "6": [
+     "Imran",
+     "Zubin"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Culture & Society",
+   "subtopic": "Dowry and gender-based pressure recognition",
+   "subtype": "Groom who refuses dowry [Response]",
+   "description": "A young man tells his family clearly that he will not take dowry and that the marriage will not depend on it. Speaking early, with firm respect, protects both the bride and his own integrity.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 23–26",
+    "related mind states: admiration, determination"
+   ]
+  }
+ ]
+}

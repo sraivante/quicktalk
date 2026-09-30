@@ -1,0 +1,318 @@
+{
+ "stage": "expression",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 2742,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Bhavna",
+     "Akash"
+    ],
+    "4": [
+     "Tejas",
+     "Sarita"
+    ],
+    "5": [
+     "Pankaj",
+     "Imran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Digital expression",
+   "subtype": "Formatting, emphasis and message structure [Expressing]",
+   "description": "A young adult uses bold, lists, line breaks and quoting to make messages clear, and uses italics or capitals to add emphasis. Overuse can seem aggressive or cluttered.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: hostility"
+   ]
+  },
+  {
+   "sno": 2743,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Sunaina",
+     "Mridul"
+    ],
+    "4": [
+     "Sudha",
+     "Karthik"
+    ],
+    "5": [
+     "Shankar",
+     "Yusuf"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Digital expression",
+   "subtype": "Group chats and unspoken norms [Interpreting]",
+   "description": "A young adult reads response speed, read receipts, silence and reactions in a group chat. Slow or absent replies often reflect busyness or preference, and are not reliable evidence of feelings.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2744,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Parveen",
+     "Yamini"
+    ],
+    "4": [
+     "Santosh",
+     "Nikita"
+    ],
+    "5": [
+     "Kalyani",
+     "Avni"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Digital expression",
+   "subtype": "Online conflict and de-escalation [Regulating]",
+   "description": "A young adult facing a heated thread pauses, avoids replying while angry, moves to a private or voice conversation and blocks or reports abuse. Screenshots can preserve evidence of harassment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2745,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Sarita",
+     "Ayesha"
+    ],
+    "4": [
+     "Divyansh",
+     "Lokesh"
+    ],
+    "5": [
+     "Zainab",
+     "Jomon"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Performing arts",
+   "subtype": "Acting a role versus feeling it [Mismatch]",
+   "description": "A young adult in a drama society plays a villain or a grieving parent convincingly without feeling it. Skilled performance shows that visible emotion can be crafted, so audiences should not equate a display with the actor's own state.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief"
+   ]
+  },
+  {
+   "sno": 2746,
+   "plan": {
+    "3": "R10",
+    "4": "R11",
+    "5": "R12"
+   },
+   "cast": {
+    "3": [
+     "Damini",
+     "Madhuri"
+    ],
+    "4": [
+     "Anjali",
+     "Ojas"
+    ],
+    "5": [
+     "Neelam",
+     "Bhupen"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Performing arts",
+   "subtype": "Cultural performance and shared ritual arts [Expressing]",
+   "description": "A young adult performs garba, qawwali, kathak or a folk song at a college fest, expressing devotion, pride or community. Meaning depends on tradition, so learners should ask about context before judging.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 2747,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Sudha",
+     "Pradeep"
+    ],
+    "4": [
+     "Hafsa",
+     "Suraj"
+    ],
+    "5": [
+     "Chetan",
+     "Ramesh"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Film, design and portfolio work [Expressing]",
+   "description": "A young adult shapes film, graphic design or architecture to communicate a viewpoint or emotion to strangers. Audiences read work through their own experience, so intent and reception can differ.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 2748,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Ayesha",
+     "Payal"
+    ],
+    "4": [
+     "Anjali",
+     "Darshan"
+    ],
+    "5": [
+     "Bhupen",
+     "Kashish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Interpreting art with humility [Interpreting]",
+   "description": "A young adult views a painting or film and forms a view of the maker's mood. Art reflects craft, tradition and audience as well as feeling, so the maker's state cannot be safely inferred from the work alone.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: trust, hurt"
+   ]
+  },
+  {
+   "sno": 2749,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Ojas"
+    ],
+    "4": [
+     "Aditi",
+     "Kiran"
+    ],
+    "5": [
+     "Rekha",
+     "Usha"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Visual and material expression",
+   "subtype": "Sculpture as expression of inner states [Expressing]",
+   "description": "Shaping clay, stone, wood or found objects lets a person express feelings that are hard to say, such as grief, pride or tension. Meaning is layered: the maker's intent and the viewer's reading may differ, and both are valid.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: grief, pride"
+   ]
+  },
+  {
+   "sno": 2750,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Manoj"
+    ],
+    "4": [
+     "Pema",
+     "Kashish"
+    ],
+    "5": [
+     "Dolma",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Body art and permanent choices [Expressing]",
+   "description": "A young adult chooses a tattoo, piercing or henna as a personal or cultural marker. Meaning is private and may change with time, so thinking through permanence and workplace norms is wise.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 2751,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Saurabh",
+     "Parul"
+    ],
+    "4": [
+     "Nitin",
+     "Payal"
+    ],
+    "5": [
+     "Varun",
+     "Akash"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Expression & Mind State",
+   "subtopic": "Appearance and identity presentation",
+   "subtype": "Interview and campus dress codes [Regulating]",
+   "description": "A young adult picks formal or smart clothing to fit an interview or event. Dress signals seriousness and respect in many settings, but first impressions from clothing are unreliable measures of ability.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 4–6, 7–12, 13–17, 23–26",
+    "related mind states: admiration"
+   ]
+  }
+ ]
+}

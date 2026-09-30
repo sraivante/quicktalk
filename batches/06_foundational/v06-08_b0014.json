@@ -1,0 +1,316 @@
+{
+ "stage": "foundational",
+ "variant_ids": [
+  6,
+  7,
+  8
+ ],
+ "rows": [
+  {
+   "sno": 5572,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Ujjwal",
+     "Ayesha"
+    ],
+    "7": [
+     "Chaitanya",
+     "Zainab"
+    ],
+    "8": [
+     "Hansa",
+     "Farida"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Using skills for a purpose beyond self [Actor]",
+   "description": "A young professional feels both content and restless, uses their skills to teach, build or serve, and sees growth as continuing, not a finish line.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: boredom"
+   ]
+  },
+  {
+   "sno": 5573,
+   "plan": {
+    "6": "R14",
+    "7": "R15",
+    "8": "R1"
+   },
+   "cast": {
+    "6": [
+     "Thomas",
+     "Aadhya"
+    ],
+    "7": [
+     "Anjali",
+     "Ankita"
+    ],
+    "8": [
+     "Rashmi",
+     "Hemant"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Self-actualisation",
+   "subtype": "Not waiting for perfect conditions [Response]",
+   "description": "An adult accepts that growth can begin amid limited means, starts with small acts of learning or creating, and does not treat comfort or wealth as a requirement for it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5574,
+   "plan": {
+    "6": "R7",
+    "7": "R8",
+    "8": "R9"
+   },
+   "cast": {
+    "6": [
+     "Chandrika",
+     "Francis"
+    ],
+    "7": [
+     "Thabo",
+     "Zeynep"
+    ],
+    "8": [
+     "Lalit",
+     "Sunaina"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: self-direction",
+   "subtype": "\"I want to do it myself\" [Actor]",
+   "description": "A child pushes an adult's hand away from the shoelaces and insists on tying them alone, taking pride in choosing and doing; the wish for independence grows from here.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26",
+    "related mind states: pride"
+   ]
+  },
+  {
+   "sno": 5575,
+   "plan": {
+    "6": "R5",
+    "7": "R6",
+    "8": "R7"
+   },
+   "cast": {
+    "6": [
+     "Payal",
+     "Uma"
+    ],
+    "7": [
+     "Sangeeta",
+     "Rehana"
+    ],
+    "8": [
+     "Farida",
+     "Jyoti"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: self-direction",
+   "subtype": "Wants to choose own subject and friends [Actor]",
+   "description": "A teenager wants to choose their stream and friends on their own judgment, and clashes with parents' plans; independence feels like part of who they are.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5576,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Chetan",
+     "Rehana"
+    ],
+    "7": [
+     "Sahil",
+     "Yogesh"
+    ],
+    "8": [
+     "Mohit",
+     "Hansa"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: self-direction",
+   "subtype": "Forging own path despite family pressure [Actor]",
+   "description": "A young adult explores an unusual career, accepting risk and disapproval; freedom and curiosity matter more to them than an approved route, though they still love their family.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: affection, curiosity"
+   ]
+  },
+  {
+   "sno": 5577,
+   "plan": {
+    "6": "R1",
+    "7": "R2",
+    "8": "R3"
+   },
+   "cast": {
+    "6": [
+     "Sonali",
+     "Lokesh"
+    ],
+    "7": [
+     "Anand",
+     "Swati"
+    ],
+    "8": [
+     "Asif",
+     "Aadhya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: self-direction",
+   "subtype": "Balancing independence with obligation [Response]",
+   "description": "An adult protects their freedom of choice while honouring duties to parents and colleagues, explaining reasons and staying open to others' views rather than simply defying.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5578,
+   "plan": {
+    "6": "R13",
+    "7": "R1+T1",
+    "8": "R2+T1"
+   },
+   "cast": {
+    "6": [
+     "Vishal",
+     "Avni"
+    ],
+    "7": [
+     "Vidya",
+     "Eshaan"
+    ],
+    "8": [
+     "Gautam",
+     "Divyansh"
+    ]
+   },
+   "age": "1–3",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: hedonism",
+   "subtype": "Wants warm, sweet, soft things now [Actor]",
+   "description": "A toddler seeks sweets, cuddles and bubbles and cries when they stop; seeking pleasure and comfort is a simple, natural drive at this age.",
+   "graph_context": [
+    "this subtopic also appears at ages: 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5579,
+   "plan": {
+    "6": "R11",
+    "7": "R13",
+    "8": "R14"
+   },
+   "cast": {
+    "6": [
+     "Seema",
+     "Shalini"
+    ],
+    "7": [
+     "Rajni",
+     "Zubin"
+    ],
+    "8": [
+     "Santosh",
+     "Hafsa"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: hedonism",
+   "subtype": "Lives for fun and good times [Actor]",
+   "description": "A teenager plans around films, outings and food, and finds long-term duty dull; the love of enjoyment brings vitality and friends, and can crowd out work if it rules everything.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 18–22, 23–26",
+    "related mind states: playfulness, affection"
+   ]
+  },
+  {
+   "sno": 5580,
+   "plan": {
+    "6": "R4",
+    "7": "R5",
+    "8": "R6"
+   },
+   "cast": {
+    "6": [
+     "Parveen",
+     "Kashish"
+    ],
+    "7": [
+     "Madhav",
+     "Uday"
+    ],
+    "8": [
+     "Ankita",
+     "Imran"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: hedonism",
+   "subtype": "Pleasure versus duty in the hostel [Actor]",
+   "description": "A young adult skips a study session for a late-night outing and enjoys it fully while feeling a pinch of guilt; enjoyment and responsibility pull in different directions.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 23–26",
+    "related mind states: guilt"
+   ]
+  },
+  {
+   "sno": 5581,
+   "plan": {
+    "6": "R9",
+    "7": "R10",
+    "8": "R11"
+   },
+   "cast": {
+    "6": [
+     "Raghav",
+     "Trisha"
+    ],
+    "7": [
+     "Charu",
+     "Sumit"
+    ],
+    "8": [
+     "Manjula",
+     "Vijay"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Foundational Concepts",
+   "subtopic": "Schwartz value: hedonism",
+   "subtype": "Savouring without being ruled by it [Response]",
+   "description": "An adult treats joy as valuable, taking real time for meals, rest and play, and keeps pleasure in balance with health and commitments instead of chasing the next thrill.",
+   "graph_context": [
+    "this subtopic also appears at ages: 1–3, 13–17, 18–22",
+    "related mind states: joy"
+   ]
+  }
+ ]
+}

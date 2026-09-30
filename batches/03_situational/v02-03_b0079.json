@@ -1,0 +1,265 @@
+{
+ "stage": "situational",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 1098,
+   "plan": {
+    "2": "R11",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Yamini"
+    ],
+    "3": [
+     "Chaitanya",
+     "Simran"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend cheats and I know",
+   "subtype": "Best friend × Loyalty [Actor]",
+   "description": "I know my friend copied on an exam and feel torn between loyalty and honesty. Wise: urge them privately to come clean and do not join in. Harmful: silent complicity.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, honesty, trust"
+   ]
+  },
+  {
+   "sno": 1099,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Nandini",
+     "Hemant"
+    ],
+    "3": [
+     "Thomas",
+     "Ankita"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend cheats and I know",
+   "subtype": "Best friend × Betrayal [Actor]",
+   "description": "I report cheating and feel like a traitor, then friends turn on me. Wise: acting on principle can cost belonging; accept it with steadiness and seek supportive people.",
+   "graph_context": [
+    "same situation, other stances at this age: coercion, honesty, loyalty, trust",
+    "related mind states: nostalgia"
+   ]
+  },
+  {
+   "sno": 1100,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Sarika"
+    ],
+    "3": [
+     "Bhupen",
+     "Salma"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend cheats and I know",
+   "subtype": "Classmate × Pressure [Receiver]",
+   "description": "Classmates ask me to share my answers and call me selfish if I refuse. Wise: refuse kindly, offer to study together, and accept some anger. Harmful: giving in to be liked.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, honesty, loyalty, trust",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 1101,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Kashish"
+    ],
+    "3": [
+     "Arnab",
+     "Nilesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend cheats and I know",
+   "subtype": "Best friend × Trust [Receiver]",
+   "description": "A friend confides they cheated and asks me to keep it secret. Wise: listen without judging, say I cannot approve, and encourage them to fix it. Harmful: acting as their alibi.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, honesty, loyalty",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 1102,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Rekha"
+    ],
+    "3": [
+     "Chetan",
+     "Lalremsiami"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Friend cheats and I know",
+   "subtype": "Teacher × Honesty [Actor]",
+   "description": "A teacher asks who cheated. Wise: weigh fairness to honest students against loyalty, and speak to the teacher privately when needed. Harmful: gossiping about it or lying outright.",
+   "graph_context": [
+    "same situation, other stances at this age: betrayal, coercion, loyalty, trust"
+   ]
+  },
+  {
+   "sno": 1103,
+   "plan": {
+    "2": "R3",
+    "3": "R4"
+   },
+   "cast": {
+    "2": [
+     "Arohi",
+     "Gopika"
+    ],
+    "3": [
+     "Yogesh",
+     "Vidya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Rival gets my place",
+   "subtype": "Rival × Envy [Actor]",
+   "description": "A rival got the captain spot or top rank I wanted and I feel it in my stomach. Wise: admit the envy, study what they did well, and keep working. Harmful: sabotage or spreading doubts.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, hatred, manipulation, respect",
+    "related mind states: doubt, envy"
+   ]
+  },
+  {
+   "sno": 1104,
+   "plan": {
+    "2": "R10",
+    "3": "R11"
+   },
+   "cast": {
+    "2": [
+     "Sahil",
+     "Uday"
+    ],
+    "3": [
+     "Pranav",
+     "Anirban"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Rival gets my place",
+   "subtype": "Rival × Hatred [Actor]",
+   "description": "I cannot stand even hearing their name. Wise: see how my hate is tying my energy to them and shift my focus to my own goals. Harmful: plotting to hurt their reputation.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, manipulation, respect",
+    "related mind states: hurt"
+   ]
+  },
+  {
+   "sno": 1105,
+   "plan": {
+    "2": "R4",
+    "3": "R5"
+   },
+   "cast": {
+    "2": [
+     "Harish",
+     "Sudha"
+    ],
+    "3": [
+     "Yogesh",
+     "Charu"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Rival gets my place",
+   "subtype": "Rival × Respect [Actor]",
+   "description": "We compete fiercely yet admire each other's work. Wise: let rivalry push both of us. Harmful: denying the friendship for fear of looking soft.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, hatred, manipulation",
+    "related mind states: admiration, fear"
+   ]
+  },
+  {
+   "sno": 1106,
+   "plan": {
+    "2": "R1",
+    "3": "R2"
+   },
+   "cast": {
+    "2": [
+     "Maria",
+     "Nirmala"
+    ],
+    "3": [
+     "Swati",
+     "Arnab"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Rival gets my place",
+   "subtype": "Rival × Gloating [Receiver]",
+   "description": "My rival boasts about beating me. Wise: stay composed, congratulate briefly, and use the sting as fuel. Harmful: returning insults or hiding for days.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, hatred, manipulation, respect"
+   ]
+  },
+  {
+   "sno": 1107,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sachin",
+     "Anirban"
+    ],
+    "3": [
+     "Dilnaz",
+     "Nandini"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Situational Awareness",
+   "subtopic": "Rival gets my place",
+   "subtype": "Rival × Being envied [Receiver]",
+   "description": "I won and now a former friend turns cold. Wise: stay gracious, share credit, and reach out once. Harmful: flaunting the win or pretending I did not care.",
+   "graph_context": [
+    "same situation, other stances at this age: contempt, envy, hatred, manipulation, respect"
+   ]
+  }
+ ]
+}

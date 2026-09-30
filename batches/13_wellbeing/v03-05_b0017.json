@@ -1,0 +1,316 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5356,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Elizabeth",
+     "Tarun"
+    ],
+    "4": [
+     "Hemant",
+     "Rukmini"
+    ],
+    "5": [
+     "Imran",
+     "Himani"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Difficult conversations",
+   "subtype": "Preparing the talk [Response]",
+   "description": "A young adult who must talk to a roommate or a parent about a hard matter thinks first of what they want, states facts and feelings, and invites the other view. Preparation reduces blame language.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5357,
+   "plan": {
+    "3": "R13",
+    "4": "R14",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Nitin",
+     "Yusuf"
+    ],
+    "4": [
+     "Vaibhav",
+     "Parul"
+    ],
+    "5": [
+     "Gurpreet",
+     "Nitin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Difficult conversations",
+   "subtype": "Being the one confronted [Receiver]",
+   "description": "A person told about a mistake feels hot shame and defends automatically. Listening first, asking for an example, and delaying the response until calmer allows learning from it.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22",
+    "related mind states: shame, calm"
+   ]
+  },
+  {
+   "sno": 5358,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Tanuja",
+     "Ujjwal"
+    ],
+    "4": [
+     "Pradeep",
+     "Sahil"
+    ],
+    "5": [
+     "Mahima",
+     "Kishore"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Difficult conversations",
+   "subtype": "Avoidance as kindness illusion [Observer]",
+   "description": "A manager or friend delays a needed truth to be nice and lets the problem grow. Delay often harms more than the discomfort of a timely, gentle conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5359,
+   "plan": {
+    "3": "R13",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Sarika",
+     "Ayesha"
+    ],
+    "4": [
+     "Pankaj",
+     "Elizabeth"
+    ],
+    "5": [
+     "Yusuf",
+     "Usha"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Giving and receiving bad news",
+   "subtype": "Blunt telling [Actor]",
+   "description": "A child says your dog died or grandma is sick without softening, unaware of the effect. Children speak truth plainly and need to learn that words land differently on different people.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5360,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Raghav",
+     "Divyansh"
+    ],
+    "4": [
+     "Hafsa",
+     "Kavitha"
+    ],
+    "5": [
+     "Lalit",
+     "Dilnaz"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Giving and receiving bad news",
+   "subtype": "Hearing hard news [Receiver]",
+   "description": "A child told about a parent's job loss or a pet's death may go quiet, ask odd questions or carry on playing. Reactions are varied and delayed, and honest, simple explanations reassure better than hiding.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 18–22, 23–26"
+   ]
+  },
+  {
+   "sno": 5361,
+   "plan": {
+    "3": "R1",
+    "4": "R2",
+    "5": "R3"
+   },
+   "cast": {
+    "3": [
+     "Kiran",
+     "Sarika"
+    ],
+    "4": [
+     "Gopika",
+     "Aditi"
+    ],
+    "5": [
+     "Aadhya",
+     "Ramesh"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Giving and receiving bad news",
+   "subtype": "Hiding bad news [Actor]",
+   "description": "A teenager conceals a failed test or a mistake for weeks out of fear of a parent's reaction. Fear of the response, not the news itself, drives concealment.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 18–22, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5362,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R10"
+   },
+   "cast": {
+    "3": [
+     "Lars",
+     "Camila"
+    ],
+    "4": [
+     "Nazia",
+     "Zubin"
+    ],
+    "5": [
+     "Vikas",
+     "Rashmi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Giving and receiving bad news",
+   "subtype": "Delivering clearly and kindly [Response]",
+   "description": "A young adult tells a friend about a painful truth, such as a breakup or a cancelled plan, in plain words, stays present and does not over-explain. Clear, short, warm delivery works better than hints.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: resentment, hurt"
+   ]
+  },
+  {
+   "sno": 5363,
+   "plan": {
+    "3": "R14",
+    "4": "R15",
+    "5": "R1"
+   },
+   "cast": {
+    "3": [
+     "Zubin",
+     "Uday"
+    ],
+    "4": [
+     "Maria",
+     "Arohi"
+    ],
+    "5": [
+     "Dilnaz",
+     "Kunal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Giving and receiving bad news",
+   "subtype": "Numb response [Receiver]",
+   "description": "A person told about a layoff or a diagnosis in the family goes flat and says okay. Shock often looks like calm, and the real reaction arrives hours or days later.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22",
+    "related mind states: surprise, detachment, calm"
+   ]
+  },
+  {
+   "sno": 5364,
+   "plan": {
+    "3": "R8",
+    "4": "R9",
+    "5": "R13"
+   },
+   "cast": {
+    "3": [
+     "Oskar",
+     "Astrid"
+    ],
+    "4": [
+     "Kiran",
+     "Tanvir"
+    ],
+    "5": [
+     "Bhavna",
+     "Lokesh"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Asking good questions",
+   "subtype": "Endless what and why [Actor]",
+   "description": "A child asks questions and often accepts any answer. Answers that invite further wondering, such as what do you think, teach that questions lead somewhere.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 18–22, 23–26",
+    "related mind states: curiosity, awe"
+   ]
+  },
+  {
+   "sno": 5365,
+   "plan": {
+    "3": "R3",
+    "4": "R4",
+    "5": "R5"
+   },
+   "cast": {
+    "3": [
+     "Manjula",
+     "Ishita"
+    ],
+    "4": [
+     "Devika",
+     "Lakshmi"
+    ],
+    "5": [
+     "Gautam",
+     "Mridul"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Asking good questions",
+   "subtype": "Questions as attention seeking [Actor]",
+   "description": "A child asks many questions to keep an adult engaged, not because of the topic. Noticing the need for connection and responding to it can reduce the pressure.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 18–22, 23–26",
+    "related mind states: interest"
+   ]
+  }
+ ]
+}

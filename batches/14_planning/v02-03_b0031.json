@@ -1,0 +1,265 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 6061,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Sunaina",
+     "Sudha"
+    ],
+    "3": [
+     "Zeenat",
+     "Irawati"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: working backward from the fair date [Thinking]",
+   "description": "A girl counts three weeks to the fair. She fixes the last week for making the display board and the middle for the experiment, so the start date follows from the end date.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, mental simulation, trial and error"
+   ]
+  },
+  {
+   "sno": 6062,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Raghav",
+     "Salma"
+    ],
+    "3": [
+     "Raghav",
+     "Gautam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: writing observations in a daily notebook [Action]",
+   "description": "A boy measures the plant height each morning and notes it with the date. The regular notes give him real numbers to show on the chart at the end.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, mental simulation, trial and error, working backward",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 6063,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Jeevan",
+     "Dilnaz"
+    ],
+    "3": [
+     "Eshaan",
+     "Santosh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: getting a parent to do the main work [Pitfall]",
+   "description": "A child lets his father assemble the model and write the report. It looks impressive but he cannot answer the judge's questions about how it works, and he learns little.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, mental simulation, trial and error, working backward"
+   ]
+  },
+  {
+   "sno": 6064,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Kavitha",
+     "Parul"
+    ],
+    "3": [
+     "Neelam",
+     "Lokesh"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: repeating the experiment when the result looks odd [Revision]",
+   "description": "One bean plant in the dark grows taller than expected. The girl realises she left the cupboard open, so she repeats the test with the door shut, and the result is clearer.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, externalising on paper, mental simulation, trial and error, working backward"
+   ]
+  },
+  {
+   "sno": 6065,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Dhruv",
+     "Eshaan"
+    ],
+    "3": [
+     "Chidi",
+     "Rafael"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: rehearsing how to explain the project to visitors [Action]",
+   "description": "A boy practises telling what he asked, what he did and what he found in a minute. He asks his sister to ask tricky questions so he is ready for the judges.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, trial and error, working backward"
+   ]
+  },
+  {
+   "sno": 6066,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Lalremsiami",
+     "Santosh"
+    ],
+    "3": [
+     "Alka",
+     "Jomon"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Planning a science fair project",
+   "subtype": "Approach: presenting an unexpected result honestly [Revision]",
+   "description": "The plant in the cupboard grew but stayed pale, not what the child predicted. She decides to show it as it was and explain what surprised her, rather than change the results.",
+   "graph_context": [
+    "same problem, other approaches: brainstorming, experiment and measure, externalising on paper, mental simulation, trial and error, working backward",
+    "related mind states: surprise, resentment"
+   ]
+  },
+  {
+   "sno": 6067,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Noor",
+     "Dilnaz"
+    ],
+    "3": [
+     "Nilesh",
+     "Vidya"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: getting used to water in the shallow end first [Thinking]",
+   "description": "A boy afraid of water begins by standing in the shallow part and splashing. He reasons that if he can feel safe there, he can take the next step to floating.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning, trial by imitation",
+    "related mind states: fear, trust"
+   ]
+  },
+  {
+   "sno": 6068,
+   "plan": {
+    "2": "R7",
+    "3": "R8"
+   },
+   "cast": {
+    "2": [
+     "Tenzin",
+     "Chaitanya"
+    ],
+    "3": [
+     "Vera",
+     "Xin"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: following the coach's step-by-step drills [Action]",
+   "description": "A girl practises kicking while holding the side, then blowing bubbles, then floating with a noodle. The coach keeps each step small so she does not feel overwhelmed.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning, trial by imitation",
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 6069,
+   "plan": {
+    "2": "R9",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Varun",
+     "Rekha"
+    ],
+    "3": [
+     "Francis",
+     "Gautam"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: jumping into the deep end to prove he is brave [Pitfall]",
+   "description": "A boy tries to impress friends by jumping into the deep pool without the coach. He panics and needs to be pulled out, and learns that courage without skill is dangerous.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, emotion-aware planning, trial by imitation",
+    "related mind states: anger"
+   ]
+  },
+  {
+   "sno": 6070,
+   "plan": {
+    "2": "R8",
+    "3": "R9"
+   },
+   "cast": {
+    "2": [
+     "Xin",
+     "Chidi"
+    ],
+    "3": [
+     "Zeenat",
+     "Jasleen"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Learning to swim",
+   "subtype": "Approach: noticing she is tense and relaxing her body [Revision]",
+   "description": "A child sinks each time she tries to float. The coach points out she is stiff, so she takes a slow breath, relaxes her arms and lets the water hold her.",
+   "graph_context": [
+    "same problem, other approaches: copying without fit, trial by imitation",
+    "related mind states: calm, relief from stress"
+   ]
+  }
+ ]
+}

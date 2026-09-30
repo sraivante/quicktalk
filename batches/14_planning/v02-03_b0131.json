@@ -1,0 +1,261 @@
+{
+ "stage": "planning",
+ "variant_ids": [
+  2,
+  3
+ ],
+ "rows": [
+  {
+   "sno": 7061,
+   "plan": {
+    "2": "R12",
+    "3": "R13"
+   },
+   "cast": {
+    "2": [
+     "Trisha",
+     "Dolma"
+    ],
+    "3": [
+     "Mahima",
+     "Kashish"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: copying the previous lead's style without fit [Pitfall]",
+   "description": "A lead imitates her old boss with daily long stand-ups and strict tracking. Her peer-age team feels policed and goes quiet, since the style suited a larger and more senior group.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, critical path, delegation, minimum viable version, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7062,
+   "plan": {
+    "2": "R15",
+    "3": "R1"
+   },
+   "cast": {
+    "2": [
+     "Francis",
+     "Divyansh"
+    ],
+    "3": [
+     "Omkar",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: hiding struggles to look capable [Pitfall]",
+   "description": "The lead reports everything as green for a month while integration problems grow. Because he never asked for help, the trouble surfaces only days before the release.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, copying without fit, critical path, delegation, minimum viable version, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7063,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Jyoti",
+     "Nirmala"
+    ],
+    "3": [
+     "Sangeeta",
+     "Madhav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: admitting overload and re-scoping with the manager [Revision]",
+   "description": "Noticing two sprints behind, the lead brings a clear list to her manager: what is done, what is at risk, and what can be cut. Two features move to phase two and morale recovers.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version"
+   ]
+  },
+  {
+   "sno": 7064,
+   "plan": {
+    "2": "R6",
+    "3": "R7"
+   },
+   "cast": {
+    "2": [
+     "Abhinav",
+     "Siddharth"
+    ],
+    "3": [
+     "Kalyani",
+     "Raghav"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: short retrospective and adaptive replanning [Revision]",
+   "description": "Every second Friday the team lists what worked and what did not. After noticing that code reviews wait for days, the lead sets a same-day review rule and velocity improves.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, copying without fit, critical path, delegation, minimum viable version, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7065,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Himani",
+     "Parveen"
+    ],
+    "3": [
+     "Ganga",
+     "Ojas"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "Leading a first project",
+   "subtype": "Approach: critical path thinking about dependent tasks [Thinking]",
+   "description": "The lead sees that the API contract blocks both mobile and web work. She finalises it in the first week with both teams, so the longest chain of dependent tasks is not delayed.",
+   "graph_context": [
+    "same problem, other approaches: adaptive replanning, avoidance and procrastination, copying without fit, delegation, minimum viable version, pre-mortem"
+   ]
+  },
+  {
+   "sno": 7066,
+   "plan": {
+    "2": "R11",
+    "3": "R12"
+   },
+   "cast": {
+    "2": [
+     "Gurpreet",
+     "Tanuja"
+    ],
+    "3": [
+     "Sarita",
+     "Suraj"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "An unrealistic deadline from a manager",
+   "subtype": "Approach: breaking work into estimated pieces to test feasibility [Thinking]",
+   "description": "Told to deliver a payments feature in two weeks, a developer lists every task with hours and sees it needs six weeks. The numbers give her a factual base rather than a feeling.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, commitment device, minimum viable version, planning fallacy, prioritising",
+    "related mind states: detachment"
+   ]
+  },
+  {
+   "sno": 7067,
+   "plan": {
+    "2": "R5",
+    "3": "R6"
+   },
+   "cast": {
+    "2": [
+     "Gurleen",
+     "Simran"
+    ],
+    "3": [
+     "Tenzin",
+     "Tanuja"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "An unrealistic deadline from a manager",
+   "subtype": "Approach: offering scope options instead of a flat no [Action]",
+   "description": "She brings the manager three choices: full feature in six weeks, core flow in two weeks with manual reconciliation, or a two-week prototype. The manager picks the core flow.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, commitment device, planning fallacy, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7068,
+   "plan": {
+    "2": "R2",
+    "3": "R3"
+   },
+   "cast": {
+    "2": [
+     "Shreya",
+     "Parul"
+    ],
+    "3": [
+     "Pradeep",
+     "Tarun"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "An unrealistic deadline from a manager",
+   "subtype": "Approach: prioritising by urgent versus important [Thinking]",
+   "description": "Given the tight date, the team asks which parts customers need on day one and which are nice to have. Reports and export are postponed while login and payment are protected.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, commitment device, minimum viable version, planning fallacy, task decomposition"
+   ]
+  },
+  {
+   "sno": 7069,
+   "plan": {
+    "2": "R13",
+    "3": "R14"
+   },
+   "cast": {
+    "2": [
+     "Rafiq",
+     "Shalini"
+    ],
+    "3": [
+     "Shankar",
+     "Shreya"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "An unrealistic deadline from a manager",
+   "subtype": "Approach: accepting silently and working nights [Pitfall]",
+   "description": "A junior lead says yes without checking the estimate and starts working until midnight. Quality falls, bugs reach production, and the manager assumes the deadline was reasonable next time.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, minimum viable version, planning fallacy, prioritising, task decomposition"
+   ]
+  },
+  {
+   "sno": 7070,
+   "plan": {
+    "2": "R14",
+    "3": "R15"
+   },
+   "cast": {
+    "2": [
+     "Siddharth",
+     "Elizabeth"
+    ],
+    "3": [
+     "Varun",
+     "Ujjwal"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Planning & Problem Solving",
+   "subtopic": "An unrealistic deadline from a manager",
+   "subtype": "Approach: planning fallacy from optimistic guessing [Pitfall]",
+   "description": "Wanting to please, the developer estimates based on the best case with no testing time. Reviews, environment issues and a colleague's leave then push delivery well beyond the promise.",
+   "graph_context": [
+    "same problem, other approaches: avoidance and procrastination, buffer and slack, commitment device, minimum viable version, prioritising, task decomposition",
+    "related mind states: hope"
+   ]
+  }
+ ]
+}

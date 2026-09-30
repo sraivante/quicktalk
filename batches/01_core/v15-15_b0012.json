@@ -1,0 +1,202 @@
+{
+ "stage": "core",
+ "variant_ids": [
+  15
+ ],
+ "rows": [
+  {
+   "sno": 111,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Kunal",
+     "Jagdish"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Critical Thinking",
+   "subtopic": "Media Literacy",
+   "subtype": "Open-Minded Information Filtering",
+   "description": "Identifying propaganda, emotional manipulation, and misinformation while evaluating opposing worldviews fairly."
+  },
+  {
+   "sno": 112,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Ujjwal",
+     "Jeevan"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Advanced Communication",
+   "subtopic": "Professional Relations",
+   "subtype": "Negotiation & Contract Diplomacy",
+   "description": "Advocating for personal interests and finding mutually beneficial compromises in personal, professional, or contractual settings.",
+   "graph_context": [
+    "related mind states: interest"
+   ]
+  },
+  {
+   "sno": 113,
+   "plan": {
+    "15": "R9"
+   },
+   "cast": {
+    "15": [
+     "Harish",
+     "Sumit"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Ambivalence",
+   "description": "Holding conflicting feelings simultaneously (excitement for independence alongside fear).",
+   "graph_context": [
+    "related mind states: fear, excitement"
+   ]
+  },
+  {
+   "sno": 114,
+   "plan": {
+    "15": "R10"
+   },
+   "cast": {
+    "15": [
+     "Imran",
+     "Pradeep"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Nostalgia",
+   "description": "Experiencing a bittersweet longing for the simplicity and safety of childhood.",
+   "graph_context": [
+    "related mind states: nostalgia, resentment, trust"
+   ]
+  },
+  {
+   "sno": 115,
+   "plan": {
+    "15": "R12"
+   },
+   "cast": {
+    "15": [
+     "Gopika",
+     "Abhinav"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Anticipation",
+   "description": "Feeling forward-looking energy and eagerness regarding adult possibilities.",
+   "graph_context": [
+    "related mind states: excitement"
+   ]
+  },
+  {
+   "sno": 116,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Gurleen",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Transitional Emotions",
+   "subtype": "Overwhelm",
+   "description": "Feeling paralyzed or flooded by the sudden influx of permanent adult responsibilities.",
+   "graph_context": [
+    "related mind states: overwhelm"
+   ]
+  },
+  {
+   "sno": 117,
+   "plan": {
+    "15": "R8"
+   },
+   "cast": {
+    "15": [
+     "Rania",
+     "Ines"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Sorrow",
+   "description": "Processing deeper, more complex real-world losses (long-term relationships, idealized futures).",
+   "graph_context": [
+    "related mind states: sadness"
+   ]
+  },
+  {
+   "sno": 118,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Anirban",
+     "Suraj"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Acceptance",
+   "description": "Acknowledging difficult realities and shifting circumstances without fighting them."
+  },
+  {
+   "sno": 119,
+   "plan": {
+    "15": "R4"
+   },
+   "cast": {
+    "15": [
+     "Jeevan",
+     "Tejas"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Emotional",
+   "subtopic": "Resilience & Grief",
+   "subtype": "Determination",
+   "description": "Building the emotional fortitude and grit to try again after significant setbacks.",
+   "graph_context": [
+    "related mind states: determination"
+   ]
+  },
+  {
+   "sno": 120,
+   "plan": {
+    "15": "R5"
+   },
+   "cast": {
+    "15": [
+     "Vishal",
+     "Anirban"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Humor & Play",
+   "subtopic": "Psychological Balance",
+   "subtype": "Adult Playfulness & Leisure Balance",
+   "description": "Maintaining capacity for lighthearted play, hobbies, and humor as essential counterweights to adult stress and burnout.",
+   "graph_context": [
+    "related mind states: amusement, playfulness"
+   ]
+  }
+ ]
+}

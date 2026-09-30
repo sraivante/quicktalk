@@ -1,0 +1,317 @@
+{
+ "stage": "wellbeing",
+ "variant_ids": [
+  3,
+  4,
+  5
+ ],
+ "rows": [
+  {
+   "sno": 5326,
+   "plan": {
+    "3": "R12",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Shalini",
+     "Sudha"
+    ],
+    "4": [
+     "Chaitanya",
+     "Sangeeta"
+    ],
+    "5": [
+     "Amandeep",
+     "Pallavi"
+    ]
+   },
+   "age": "18–22",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Listening levels",
+   "subtype": "Listening for feeling [Response]",
+   "description": "A young adult listens to a friend's story and reflects the emotion behind it, such as you sound really disappointed. Feeling-level listening lets the other person go deeper.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 23–26",
+    "related mind states: disappointment"
+   ]
+  },
+  {
+   "sno": 5327,
+   "plan": {
+    "3": "R9",
+    "4": "R10",
+    "5": "R11"
+   },
+   "cast": {
+    "3": [
+     "Ishita",
+     "Mahima"
+    ],
+    "4": [
+     "Ganga",
+     "Joseph"
+    ],
+    "5": [
+     "Bhupen",
+     "Pradeep"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Listening levels",
+   "subtype": "Listening to the unsaid [Observer]",
+   "description": "A person notices that a colleague saying I am fine has tight shoulders and a flat voice. Listening includes tone, pauses and what is avoided, and then gently checking rather than assuming.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17, 18–22"
+   ]
+  },
+  {
+   "sno": 5328,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Kalyani",
+     "Karthik"
+    ],
+    "4": [
+     "Usha",
+     "Jahnavi"
+    ],
+    "5": [
+     "Ishita",
+     "Raghav"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Small talk",
+   "subtype": "Simple greetings [Actor]",
+   "description": "A child says hello, tells what they ate and asks a friend for a name. Small talk starts as ritual exchanges that establish safety and connection.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26",
+    "related mind states: trust"
+   ]
+  },
+  {
+   "sno": 5329,
+   "plan": {
+    "3": "R2",
+    "4": "R3",
+    "5": "R4"
+   },
+   "cast": {
+    "3": [
+     "Preeti",
+     "Samir"
+    ],
+    "4": [
+     "Akash",
+     "Yamini"
+    ],
+    "5": [
+     "Lalit",
+     "Nandini"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Small talk",
+   "subtype": "Awkward filler [Actor]",
+   "description": "A child at a relatives' gathering is asked about class and marks over and over and gives one-word answers. Small talk from adults can feel like an interview, and a child relaxes when asked about a hobby instead.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: embarrassment, calm"
+   ]
+  },
+  {
+   "sno": 5330,
+   "plan": {
+    "3": "R15",
+    "4": "R1",
+    "5": "R2"
+   },
+   "cast": {
+    "3": [
+     "Vasudha",
+     "Sangeeta"
+    ],
+    "4": [
+     "Avni",
+     "Vaibhav"
+    ],
+    "5": [
+     "Zainab",
+     "Francis"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Small talk",
+   "subtype": "Fear of empty talk [Actor]",
+   "description": "A shy teenager thinks small talk is pointless or fake and freezes. Small talk is a low-stakes test of friendliness that opens the way for deeper conversation.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: fear, shyness"
+   ]
+  },
+  {
+   "sno": 5331,
+   "plan": {
+    "3": "R5",
+    "4": "R6",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Jeevan",
+     "Pranav"
+    ],
+    "4": [
+     "Nazia",
+     "Gurpreet"
+    ],
+    "5": [
+     "Sachin",
+     "Chandrika"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Small talk",
+   "subtype": "Small talk as skill [Response]",
+   "description": "A person asks an open follow-up, such as what got you into this, to lift small talk into a real exchange. Curiosity carries small talk further than clever lines.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17",
+    "related mind states: curiosity"
+   ]
+  },
+  {
+   "sno": 5332,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Ojas",
+     "Preeti"
+    ],
+    "4": [
+     "Hafsa",
+     "Vijay"
+    ],
+    "5": [
+     "Wasim",
+     "Tenzin"
+    ]
+   },
+   "age": "23–26",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Small talk",
+   "subtype": "Excluded from small talk [Receiver]",
+   "description": "A newcomer at a group lunch listens to references they do not understand. Including them with a quick explanation or a question is a simple kindness that changes their first weeks.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 13–17"
+   ]
+  },
+  {
+   "sno": 5333,
+   "plan": {
+    "3": "R9",
+    "4": "R13",
+    "5": "R15"
+   },
+   "cast": {
+    "3": [
+     "Sachin",
+     "Aditi"
+    ],
+    "4": [
+     "Himani",
+     "Joseph"
+    ],
+    "5": [
+     "Rukmini",
+     "Amandeep"
+    ]
+   },
+   "age": "4–6",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Starting a conversation",
+   "subtype": "Joining play [Actor]",
+   "description": "A child edges near others and offers a toy or asks can I play. Approaching with an offer, not a demand, tends to work best.",
+   "graph_context": [
+    "this subtopic also appears at ages: 7–12, 13–17, 23–26"
+   ]
+  },
+  {
+   "sno": 5334,
+   "plan": {
+    "3": "R4",
+    "4": "R5",
+    "5": "R7"
+   },
+   "cast": {
+    "3": [
+     "Suraj",
+     "Sunaina"
+    ],
+    "4": [
+     "Ganga",
+     "Hafsa"
+    ],
+    "5": [
+     "Afreen",
+     "Francis"
+    ]
+   },
+   "age": "7–12",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Starting a conversation",
+   "subtype": "Fear of rejection [Actor]",
+   "description": "A child rehearses in their head whom to approach at the new school and waits too long. Waiting for others to speak first is common, and the first hello is usually welcomed.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 13–17, 23–26",
+    "related mind states: fear"
+   ]
+  },
+  {
+   "sno": 5335,
+   "plan": {
+    "3": "R11",
+    "4": "R13",
+    "5": "R14"
+   },
+   "cast": {
+    "3": [
+     "Zeenat",
+     "Damini"
+    ],
+    "4": [
+     "Bhavna",
+     "Ira"
+    ],
+    "5": [
+     "Nikita",
+     "Lavanya"
+    ]
+   },
+   "age": "13–17",
+   "topic": "Wellbeing, Wisdom & Conversation",
+   "subtopic": "Starting a conversation",
+   "subtype": "Opening lines and status fear [Actor]",
+   "description": "A teenager worries that talking first to a crush or a popular peer looks desperate. The fear is mostly about being judged, and simple honest openers fare better than clever ones.",
+   "graph_context": [
+    "this subtopic also appears at ages: 4–6, 7–12, 23–26",
+    "related mind states: fear, anxiety"
+   ]
+  }
+ ]
+}
