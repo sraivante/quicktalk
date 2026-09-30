@@ -461,3 +461,4 @@ python3 scripts/export_dataset.py
 - Full groups 228-229 done (12 PASS). Critic: 6921 crisis safety-plan rows. Remaining agents: 234-235, 236-237, 238-239, 240-241. full: batches 1395/1418 (98.4%) | records 30060/30520 (98.5%) | rows 7459/7689 (97.0%)
 - Full groups 234-235 done (12 PASS, 0 WARN). Remaining agents: 236-237, 238-239, 240-241. full: batches 1414/1418 (99.7%) | records 30440/30520 (99.7%) | rows 7649/7689 (99.5%)
 - Full groups 238-239 done (12 PASS). Remaining agents: 236-237, 240-241. full: batches 1417/1418 (99.9%) | records 30500/30520 (99.9%) | rows 7679/7689 (99.9%)
+- Full groups 236-237 done (12 PASS; ~17 post-commit pronoun fixes re-synced). Remaining agent: 240-241 (last batch v02-03_b0192). full: batches 1417/1418 (99.9%) | records 30500/30520 (99.9%) | rows 7679/7689 (99.9%)
