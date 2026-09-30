@@ -339,3 +339,4 @@ python3 scripts/export_dataset.py
 - 10:51 Repair11 group 6 done. Running 8, 9.
 - 10:52 Repair11 group 8 done. Running 9. (Mixed-stage groups risk basename collisions in flat scratch dirs; full re-validation after group 9 will catch any mix-up.)
 - 10:54 **Repair11 COMPLETE.** Final re-validation: 1,050/1,050 pass with .ok; remaining WARNs (196 narrator, 5 feeling, 3 age, 2 same-person) are hand-checked false alarms. Export: 16,199 records, 64,796 QA, 0 dup. Next: commit_rows on the branch.
+- 11:30 **commit_rows DONE:** 8,628 commits pushed to claude/intelligent-ride-oxqjfy (data/rows 7,689 files, data/clusters 939; C0830 excluded). **FULL PHASE STARTED** (Opus): queue batches/queue_full.json (243 groups of <=6); each agent does 2 consecutive groups, staging .staging/f<N>/out/<stage>/. Progress: python3 <scratchpad>/progress.py full. After full generation: rerun commit_rows (merges new variants), scan + critic sample, export.
