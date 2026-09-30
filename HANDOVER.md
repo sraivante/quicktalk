@@ -133,7 +133,7 @@ python3 scripts/export_dataset.py
   - rule 8: show the adult's same-day response on the page; secrecy from an online contact means end the contact and tell an adult;
   - R2 reworded.
   NOT yet regenerated into MASTER.txt.
-  **Blocked (a permission check denied the edit, needs the user's OK):**
+  **DONE 2026-09-30 with the user's OK (was blocked):**
   - a validator WARN for he/she in first-person records;
   - a per-index hash in `cast_for` to break the fixed pairs;
   - then rerunning `make_batches.py --phase phase1` to rebuild MASTER.txt and the casts.
@@ -188,3 +188,4 @@ python3 scripts/export_dataset.py
 - **Session 2026-09-30 (cont.):** Foundational rerun f1 is done (b0005, 0006, 0010–0012). For the foundational critic: 5559 v1 (the teen only promises to tell Mummy tonight; not shown on the page); grief/disaster rows 5543 v2, 5549, 5550, 5553, 5556, 5560 v1; scare forwards 5489 v1, 5491 v2; risky dares 5484. Launched gen 89 (v04-05_b0011–b0016). Running: f2, 87, 88, 89. **Next gen group: 90.**
 - **Session 2026-09-30 (cont.):** Foundational rerun f2 is done. **Foundational v01-03 is complete (32/32).** All usage-limit reruns are done. More rows for the foundational critic: 5609 v1, 5611 v2/v3, 5657 v1, 5660 v2, 5675 v1 (discrimination/faith/grief). Launched gen 90 (v04-05_b0017–b0022). Running: 87, 88, 89, 90 (4 agents). **Next gen group: 91.**
 - **Session 2026-09-30 (cont.):** Gen group 87 is done (foundational v01-03_b0031–b0032 and v04-05_b0001–b0004). Launched gen 91 (v04-05_b0023–b0028). Running: 88, 89, 90, 91. **Next gen group: 92.**
+- **Session 2026-09-30 (cont.):** **The user approved the script changes; applied.** `validate_jsonl.py`: more kin terms count as gender cues (Apa, Maasi, Khala, Phuppo, Atya, Thakuma, Ajji, Veerji...), plus a WARN when a first-person passage has he/she in Q/A/grounding. `make_batches.py`: cast slots are hashed separately, cutting repeated name pairs per stage from 141 to 4. Phase1 batches were rebuilt: only `cast` changed (verified: 1,050 JSONs, 0 non-cast differences, manifest identical). MASTER.txt now includes the narrator-gender and same-day-response rules. Pilot batches were left as they were. Gen group 88 is done (foundational v04-05_b0005–b0010). Launched gen 92 (v04-05_b0029–b0032, the last foundational). Running: 89, 90, 91, 92. **Next gen group: 93** (07_personality). Then the foundational critic (include the rows flagged above).
