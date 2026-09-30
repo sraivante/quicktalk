@@ -392,3 +392,4 @@ python3 scripts/export_dataset.py
 - 16:07 Full groups 108-109 done (12 PASS, cognitive). Launched 112-113. **Next full pair: 114-115.** full: batches 636/1418 (44.9%) | records 13993/30520 (45.8%) | rows 3847/7689 (50.0%)
 - 16:08 Full groups 100-101 done (12 PASS). Launched 114-115. **Next full pair: 116-117.** full: batches 637/1418 (44.9%) | records 14023/30520 (45.9%) | rows 3847/7689 (50.0%)
 - 16:09 Full groups 104-105 done (12 PASS). CRITIC CHECK: 3610 v10 'losing stock' written as failing projects (fidelity). Launched 116-117. **Next full pair: 118-119.** full: batches 638/1418 (45.0%) | records 14053/30520 (46.0%) | rows 3847/7689 (50.0%)
+- 16:10 Full groups 96-97 done (12 PASS). Launched 118-119. **Next full pair: 120-121.** full: batches 639/1418 (45.1%) | records 14083/30520 (46.1%) | rows 3847/7689 (50.0%)
