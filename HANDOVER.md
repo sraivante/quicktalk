@@ -416,3 +416,4 @@ python3 scripts/export_dataset.py
 - Full groups 144-145 done (12 PASS; ~30 hand-found narrator pronoun fixes re-synced). Launched 160-161. **Next full pair: 162-163.** full: batches 898/1418 (63.3%) | records 20276/30520 (66.4%) | rows 4236/7689 (55.1%)
 - Full groups 138-139 done (12 PASS). Launched 162-163. **Next full pair: 164-165.** full: batches 905/1418 (63.8%) | records 20426/30520 (66.9%) | rows 4266/7689 (55.5%)
 - Full groups 150-151 done (12 PASS). Launched 164-165. **Next full pair: 166-167.** full: batches 913/1418 (64.4%) | records 20546/30520 (67.3%) | rows 4306/7689 (56.0%)
+- Full groups 152-153 done (12 PASS; 5664 male observer renamed Dorjee, 5708 sisters Rukhsar/Rehana). Launched 166-167. **Next full pair: 168-169.** full: batches 935/1418 (65.9%) | records 20946/30520 (68.6%) | rows 4406/7689 (57.3%)
