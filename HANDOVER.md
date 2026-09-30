@@ -406,3 +406,4 @@ python3 scripts/export_dataset.py
 - Full groups 116-117 done (12 PASS). Launched 140-141. **Next full pair: 142-143.** full: batches 781/1418 (55.1%) | records 17416/30520 (57.1%) | rows 3967/7689 (51.6%)
 - Full groups 128-129 done (12 PASS; 3888 cast name moved to fit the young-man role). Launched 142-143. **Next full pair: 144-145.** full: batches 794/1418 (56.0%) | records 17663/30520 (57.9%) | rows 4026/7689 (52.4%)
 - Full groups 126-127 done (12 PASS; 3744 used Nihal for a he-row). Launched 144-145. **Next full pair: 146-147.** full: batches 796/1418 (56.1%) | records 17723/30520 (58.1%) | rows 4036/7689 (52.5%)
+- Full groups 130-131 done (12 PASS). Launched 146-147. **Next full pair: 148-149.** full: batches 800/1418 (56.4%) | records 17803/30520 (58.3%) | rows 4056/7689 (52.8%)
