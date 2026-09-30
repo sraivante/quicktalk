@@ -455,3 +455,4 @@ python3 scripts/export_dataset.py
 - Full groups 222-223 done (12 PASS, planning). Critic: b0076 (leaked photo), b0079 (friend in crisis). Launched 238-239. **Next full pair: 240-241, then 242.** full: batches 1354/1418 (95.5%) | records 29242/30520 (95.8%) | rows 7050/7689 (91.7%)
 - Full groups 224-225 done (12 PASS, planning; post-commit fixes re-synced). Launched 240-241. **Next: group 242 (last, single group).** full: batches 1369/1418 (96.5%) | records 29542/30520 (96.8%) | rows 7200/7689 (93.6%)
 - Full groups 226-227 done (12 PASS, planning). Launched 242 (last group). All groups now launched; running: 228-229..240-241, 242. full: batches 1369/1418 (96.5%) | records 29542/30520 (96.8%) | rows 7200/7689 (93.6%)
+- Full groups 230-231 done (12 PASS, planning). All groups launched; no new launch. full: batches 1378/1418 (97.2%) | records 29722/30520 (97.4%) | rows 7290/7689 (94.8%)
