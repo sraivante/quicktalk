@@ -383,3 +383,4 @@ python3 scripts/export_dataset.py
 - 14:59 Full groups 74-75 done (12 PASS). Launched 94-95. **Next full pair: 96-97.** full: batches 500/1418 (35.3%) | records 10695/30520 (35.0%) | rows 3098/7689 (40.3%)
 - 15:01 Full groups 78-79 done (12 PASS). Launched 96-97. **Next full pair: 98-99.** full: batches 506/1418 (35.7%) | records 10805/30520 (35.4%) | rows 3128/7689 (40.7%)
 - 15:06 Full groups 88-89 done (12 PASS). Launched 98-99. **Next full pair: 100-101.** full: batches 519/1418 (36.6%) | records 10975/30520 (36.0%) | rows 3198/7689 (41.6%)
+- 15:18 Full groups 94-95 done (12 PASS). CRITIC CHECK: 3316 (04_dynamics v06-06_b0039-ish) faulty brakes changed to misreported accounts - possible dodge of the physical-danger rule; verify fidelity. Launched 100-101. **Next full pair: 102-103.** full: batches 551/1418 (38.9%) | records 11506/30520 (37.7%) | rows 3378/7689 (43.9%)
