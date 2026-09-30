@@ -306,3 +306,4 @@ python3 scripts/export_dataset.py
 - 10:35 Repair10 groups 10, 15 done. Running 11-14,16-19. **Next repair10 group: 20.**
 - 10:35 Repair10 groups 11, 13 done. Running 12,14,16-21. **Next repair10 group: 22.**
 - 10:36 Repair10 group 14 done. Running 12,16-22. **Next repair10 group: 23.** Leftover: 1793 v? (03_situational b0148) passage ends with speaker name 'Arnab' (R? not R11/R14).
+- 10:36 Repair10 group 12 done. Running 16-23. **Next repair10 group: 24.** Done: 0-15.
