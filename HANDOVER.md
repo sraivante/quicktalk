@@ -7,7 +7,38 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
-## Current state  (last updated: 2026-09-29, session 1: fixes applied, v2 check done, critic running)
+## Current state  (last updated: 2026-09-30, after full generation and commit_rows)
+
+- **Generation is complete.** Phase1: 1,050/1,050 batches. Full: 1,418/1,418 batches, 30,520 records, 7,689 rows. A full re-validation of every full-phase output gives 0 FAIL.
+- **Committed and pushed** to `claude/intelligent-ride-oxqjfy`: `out/` (via sync_out.py) and the per-row files via `commit_rows.py`. data/rows: 7,689 files / 45,780 records; data/clusters: 939 (C0830 excluded via config/export_exclude.txt). Total 46,719 = 16,199 phase1 + 30,520 full.
+- No agents are running. The working tree is clean.
+
+## Next action
+
+The next steps are the scripted pronoun scan, the critic sample of the flagged rows, the repair pass and then the export. Two decisions from the user change what the repair pass does (see Open decisions).
+
+1. **Scripted pronoun scan** over all records: he/she used for people the passage never genders (the validator misses this when someone else in the passage is gendered). Reuse `.staging/f158/audit.py` as a starting point. Write results to a file; never paste dataset content into chat.
+2. **Critic sample** (a separate Opus agent, not a generator) of every row flagged in the session log below: self-harm/suicide-risk, grooming, radicalisation, dowry/harassment scenes, 4174 (one variant may have softened "dark thoughts"), 4272/4276 (age band vs actor), 5086 v5 (recipe vs subtype), plus the phase1 flags (83 v9, 88 v11, 94 v15, 400 v3, 2759, 3316, 3610 v10, graph relational re-aims, 166 v11).
+3. **Repair pass** on the scan and critic findings, applying the user's decisions below.
+4. **Re-validate, re-run `commit_rows.py`** (merges fixes; never run sync_out or push by hand while it runs: a manual push caused a ref-lock race once), then **`export_dataset.py`**.
+
+Reference commands:
+```
+python3 scripts/status.py                  # progress
+python3 scripts/validate_jsonl.py <batch_json> <out.jsonl> --mark
+python3 scripts/sync_out.py --trailer "Co-Authored-By: ...\nClaude-Session: ..."
+python3 scripts/commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy --push-every 25 --trailer "Co-Authored-By: ...\nClaude-Session: ..."
+python3 scripts/export_dataset.py
+```
+
+## Open decisions / questions for the user
+
+1. **Couples:** when two cast names share the same usual gender, relationship scenes come out as same-sex couples. Reply 1 to keep that, 2 to let agents choose the partner's name (my recommendation), or 3 to make the partner opposite-sex by default.
+2. **Validator:** should I add family words like "mama", "chacha", "Nani", "chechi" and "di", and phrases like "the girl who", to its list of gender cues? Yes or no.
+
+## Earlier state (session 1, historical; kept for reference)
+
+### Current state (session 1)  (last updated: 2026-09-29, session 1: fixes applied, v2 check done, critic running)
 
 - **User decision (2026-09-29):** "do as your recommended plan", meaning (1) apply fixes, (2) regenerate 2–3 pilot batches to check them, (3) run the critic, (4) then phase1, (5) judge phase1 before full. The user has granted permission to edit prompts, config and scripts for these fixes.
 - **Step 1 done: fixes applied** (commit 9ad8586):
@@ -26,7 +57,7 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 - **How generation is done:** the main session writes records itself (the user prefers no subagents except where needed, e.g. the critic, which must be a separate agent). A scratch helper copies metadata and recipe from the batch JSON, writes the JSONL and warns on the nominal word range; then `validate_jsonl.py --mark`. Scratch files are not committed.
 - **Branch:** `claude/intelligent-ride-oxqjfy`. Nothing has been pushed through `commit_rows.py` yet.
 
-## Next action
+### Next action (session 1)
 
 **Phase1 is running** with the user's choice (option 1, 2026-09-29): Opus for core, foundational, cognitive, dynamics, personality, deception and body; Sonnet for the rest. Calibration (5 batches) is done and committed.
 
@@ -60,7 +91,7 @@ python3 scripts/commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy 
 python3 scripts/export_dataset.py
 ```
 
-## Open decisions / questions for the user
+### Open decisions (session 1, resolved)
 
 1. **Commit target for generated rows.** Run `commit_rows.py` with `--branch claude/intelligent-ride-oxqjfy` unless the user approves `main`. Pilot rows are not committed unless the user asks (`--include-pilot`).
 2. **Pack tooling lives in the data repo.** `commit_rows.py --repo .` writes `data/rows/*.jsonl` next to the framework CSV. There is no clash, but confirm the user is happy with this layout before large commits.
