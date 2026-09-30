@@ -448,3 +448,4 @@ python3 scripts/export_dataset.py
 - Full groups 204-205 done (12 PASS, 0 WARN, wellbeing; ~30 post-ship pronoun fixes re-synced). Launched 224-225. **Next full pair: 226-227.** full: batches 1258/1418 (88.7%) | records 27312/30520 (89.5%) | rows 6100/7689 (79.3%)
 - Full groups 202-203 done (12 PASS, wellbeing). Launched 226-227. **Next full pair: 228-229.** full: batches 1263/1418 (89.1%) | records 27422/30520 (89.8%) | rows 6140/7689 (79.9%)
 - Full groups 214-215 done (12 PASS, planning; post-commit fixes re-synced). Launched 228-229. **Next full pair: 230-231.** full: batches 1282/1418 (90.4%) | records 27802/30520 (91.1%) | rows 6330/7689 (82.3%)
+- Full groups 212-213 done (12 PASS, planning). Note: 5989 uses its own Rs figures (240 toy/20 pw) since 5986's Rs600/Rs50 would not make the 12->8 weeks sum work. Launched 230-231. **Next full pair: 232-233.** full: batches 1307/1418 (92.2%) | records 28302/30520 (92.7%) | rows 6580/7689 (85.6%)
