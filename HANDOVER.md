@@ -360,3 +360,4 @@ python3 scripts/export_dataset.py
 - 13:17 Full groups 40-41 done (12 PASS). Launched 48-49. **Next full pair: 50-51.** full: batches 256/1418 (18.1%) | records 5978/30520 (19.6%) | rows 1103/7689 (14.3%)
 - 13:18 Full groups 26-27 done (12 PASS). Launched 50-51. **Next full pair: 52-53.** full: batches 259/1418 (18.3%) | records 6028/30520 (19.8%) | rows 1103/7689 (14.3%)
 - 13:19 Full groups 32-33 done (12 PASS; 2732 v4 and 2759 v5 self-harm scenes with same-night response - critic sample). Launched 52-53. **Next full pair: 54-55.** (Full-phase rows are not yet in data/rows; the final commit_rows run will merge them, including any post-commit fixes.) full: batches 261/1418 (18.4%) | records 6068/30520 (19.9%) | rows 1113/7689 (14.5%)
+- 13:21 Full groups 30-31 done (12 PASS). Launched 54-55. **Next full pair: 56-57.** full: batches 266/1418 (18.8%) | records 6138/30520 (20.1%) | rows 1113/7689 (14.5%)
