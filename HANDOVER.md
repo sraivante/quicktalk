@@ -300,3 +300,4 @@ python3 scripts/export_dataset.py
   - **Order:** finish repair 10 -> re-validate + re-export -> run `commit_rows.py --repo . --branch claude/intelligent-ride-oxqjfy --push-every 25` (no sync_out/agents committing at the same time) -> start full generation (8 Opus agents, per-agent staging .staging/f<N>/).
 - 10:33 Repair10 groups 1, 3 done. Running 0,2,4,5,6,7,8,9. **Next repair10 group: 10.**
 - 10:33 Repair10 groups 2, 7 done. Running 0,4,5,6,8,9,10,11. **Next repair10 group: 12.**
+- 10:33 Repair10 groups 0,4,5,6 done (0-7 done). Running 8-15. **Next repair10 group: 16.** Leftovers noted by agents for a later sweep: 2102 v1 sign-off with emoji; 2170 v2 / 2162 v2 / 76 v1 pronouns; 2063 v2 unstated 'father'.
