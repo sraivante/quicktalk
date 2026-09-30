@@ -145,7 +145,7 @@ if bj.get('kind')=='cluster':
             a_=cw(qa[k]['a']); vocab=pw|lab if k==1 else pw
             if a_ and len(a_&vocab)/len(a_)<0.4: f.append(f'{CT[k]} answer not supported by passage')
         if not r.get('grounding','').strip(): f.append('missing grounding')
-        ms_feel_warn(cid, qa[2]); same_person_warn(cid, qa[2], qa[1], NAMESET); diag_warn(cid, r)
+        ms_feel_warn(cid, qa[2]); diag_warn(cid, r)  # clusters have no perspective question, so no same-person check
     for cid in cl:
         if seen[cid]!=1: cf[cid].append(f'expected 1 record, got {seen[cid]}')
     _recs=[json.loads(x) for x in open(OUT,encoding='utf-8').read().splitlines() if x.strip().startswith('{')]

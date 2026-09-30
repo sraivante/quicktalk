@@ -330,3 +330,4 @@ python3 scripts/export_dataset.py
 - 10:45 Repair10 group 43 done. Running 39,44,46,47,48.
 - 10:45 Repair10 group 44 done. Running 39,46,47,48.
 - 10:45 Repair10 group 39 done. Running 46,47,48.
+- 10:45 Repair10 group 47 (graph) done; it re-aimed relational questions because the validator applied the same-person check to clusters by mistake (removed now; the edited records still pass the relational-support check). Running 46, 48.
