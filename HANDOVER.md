@@ -446,3 +446,4 @@ python3 scripts/export_dataset.py
 - Full groups 200-201 done (12 PASS, 0 WARN). Launched 220-221. **Next full pair: 222-223.** full: batches 1228/1418 (86.6%) | records 26734/30520 (87.6%) | rows 5890/7689 (76.6%)
 - Full groups 210-211 done (12 PASS, planning v02-03). Launched 222-223. **Next full pair: 224-225.** full: batches 1241/1418 (87.5%) | records 26982/30520 (88.4%) | rows 5980/7689 (77.8%)
 - Full groups 204-205 done (12 PASS, 0 WARN, wellbeing; ~30 post-ship pronoun fixes re-synced). Launched 224-225. **Next full pair: 226-227.** full: batches 1258/1418 (88.7%) | records 27312/30520 (89.5%) | rows 6100/7689 (79.3%)
+- Full groups 202-203 done (12 PASS, wellbeing). Launched 226-227. **Next full pair: 228-229.** full: batches 1263/1418 (89.1%) | records 27422/30520 (89.8%) | rows 6140/7689 (79.9%)
