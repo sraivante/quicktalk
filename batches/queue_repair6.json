@@ -208,5 +208,33 @@
     "issue": "PERSPECTIVE (e): the grounding makes Sharmila the observing colleague (protagonist), but the perspective question centres Sharmila again rather than someone else. | SUGGESTED: Reframe perspective about Anirban or the users, e.g. 'How might Anirban see Mallika's plan when he hears \"just in case\"?' with an answer grounded in 'You think it'll fail?'."
    }
   ]
+ },
+ {
+  "stage": "06_foundational",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/06_foundational/v01-03_b0005.json",
+    "out/06_foundational/v01-03_b0005.jsonl"
+   ],
+   [
+    "batches/06_foundational/v01-03_b0012.json",
+    "out/06_foundational/v01-03_b0012.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 5559,
+    "variant": 1,
+    "batch": "out/06_foundational/v01-03_b0012.jsonl",
+    "issue": "A teen confides two weeks of headaches and sleeplessness to a peer (Asif) and only plans to tell Mummy tonight; the house rule needs the scene to reach an adult the same day ON THE PAGE. | SUGGESTED: add a short closing beat that evening where the teen tells Mummy and she listens, says it is not their fault and plans a doctor visit; update the application answer and grounding."
+   },
+   {
+    "sno": 5489,
+    "variant": 1,
+    "batch": "out/06_foundational/v01-03_b0005.jsonl",
+    "issue": "The child-lifter scare forward is rebutted only by \"this photo has been going round for years\"; make the debunk clear so the false claim is not left standing. | SUGGESTED: add a line where a trusted adult or the school/police notice confirms it is an old, false forward and the family decides not to forward it."
+   }
+  ]
  }
 ]
