@@ -254,3 +254,4 @@ python3 scripts/export_dataset.py
 - 08:10 graph 160/161 done (12 PASS). Launched final graph agent 180-182 (13 batches). All graph groups now launched. Running: 164,166,168,172,174,176,178,180. Left only: culture 106 (awaiting user). Progress: batches 989/1050 (94.2%) | records 15752/16200 (97.2%) | rows 8241/8629 (95.5%)
 - 08:10 graph 164/165 done (12 PASS). Running: 166,168,172,174,176,178,180 (7 agents; no groups left to launch except culture 106, awaiting user). Progress: batches 994/1050 (94.7%) | records 15782/16200 (97.4%) | rows 8271/8629 (95.9%)
 - 08:11 graph 166/167 done (12 PASS; g_b0072 took ~3 repair rounds - critic sample it). Running: 168,172,174,176,178,180 (6 agents). Progress: batches 994/1050 (94.7%) | records 15782/16200 (97.4%) | rows 8271/8629 (95.9%)
+- 08:13 graph 172/173 done (12 PASS, 1 repair round each). Running: 168,174,176,178,180 (5 agents). Progress: batches 1006/1050 (95.8%) | records 15854/16200 (97.9%) | rows 8343/8629 (96.7%)
