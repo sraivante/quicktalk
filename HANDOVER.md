@@ -459,3 +459,4 @@ python3 scripts/export_dataset.py
 - Full group 242 done (1 batch PASS, 0 WARN). Remaining agents: 232-233..240-241. full: batches 1382/1418 (97.5%) | records 29800/30520 (97.6%) | rows 7329/7689 (95.3%)
 - Full groups 232-233 done (12 PASS, 0 WARN; 10 post-commit fixes re-synced). Couples question examples: 7138 v3, 7189 v2 written as same-sex couples per cast. Remaining agents: 234-235..240-241. full: batches 1390/1418 (98.0%) | records 29960/30520 (98.2%) | rows 7409/7689 (96.4%)
 - Full groups 228-229 done (12 PASS). Critic: 6921 crisis safety-plan rows. Remaining agents: 234-235, 236-237, 238-239, 240-241. full: batches 1395/1418 (98.4%) | records 30060/30520 (98.5%) | rows 7459/7689 (97.0%)
+- Full groups 234-235 done (12 PASS, 0 WARN). Remaining agents: 236-237, 238-239, 240-241. full: batches 1414/1418 (99.7%) | records 30440/30520 (99.7%) | rows 7649/7689 (99.5%)
