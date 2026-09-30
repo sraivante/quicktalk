@@ -11,7 +11,7 @@ Output: `pilot/critic/critic_graph.jsonl` (one line per cluster, keyed by `clust
 | fix | 8 |
 | reject | 1 |
 
-By cluster type: approach_comparison 16 (15 pass, 1 fix), contrast 13 (12 pass, 1 fix), progression 11 (7 pass, 4 fix), concept_link 7 (6 pass, 1 reject), view_pair 5 (all pass), sequence 1 (fix).
+By cluster type: approach_comparison 15 (14 pass, 1 fix), contrast 14 (13 pass, 1 fix), progression 9 (5 pass, 4 fix), concept_link 6 (5 pass, 1 reject), view_pair 5 (4 pass, 1 fix), sequence 1 (fix).
 
 ## Weight rule (c): relation shown and every row on the page
 
@@ -30,7 +30,7 @@ By cluster type: approach_comparison 16 (15 pass, 1 fix), contrast 13 (12 pass, 
 ## Recurring patterns (ranked)
 
 1. **Cast gender vs row gender conflict (6 records: C0488, C0561, C0853, C0519, C0543, C0235).** Rows often fix a gender ("he", "her"), but the cast sampler hands out names without regard to it. Generators either invent non-cast names (Rohan, Dev, Arjun, Darshan, Anaya; acceptable, noted as pass) or use a cast name against its usual gender (C0235 fix, C0830 reject).
-2. **Progression and concept_link clusters built on shared labels rather than shared meaning (C0830, C0628, C0761).** All 4 fixes among progression clusters and the one reject are in these mined types. The contrast, view_pair and approach clusters are almost clean.
+2. **Progression and concept_link clusters built on shared labels rather than shared meaning (C0830, C0628, C0761).** Progression has the highest fix rate (4 of 9), and the only reject is a concept_link. The contrast, view_pair and approach clusters are almost clean.
 3. **Facts or labels in answers and grounding that the passage doesn't state (C0297, C0726, C0226).** C0726's grounding calls Wasim "autistic" although the passage never says so, which reads as a narrator diagnosis under rule (h).
 4. **Small prose defects from rewriting (C0519, C0637):** garbled sentences, or a story beat left unresolved.
 
