@@ -379,3 +379,4 @@ python3 scripts/export_dataset.py
 - 14:39 Full groups 70-71 done (12 PASS). Launched 86-87. **Next full pair: 88-89.** full: batches 454/1418 (32.0%) | records 9692/30520 (31.8%) | rows 2717/7689 (35.3%)
 - 14:40 Full groups 68-69 done (12 PASS). Launched 88-89. **Next full pair: 90-91.** Awaiting user on couples question (1/2/3). full: batches 456/1418 (32.2%) | records 9742/30520 (31.9%) | rows 2737/7689 (35.6%)
 - 14:51 Full groups 80-81 done (7 PASS; situational complete, dynamics started). Launched 90-91. **Next full pair: 92-93.** full: batches 480/1418 (33.9%) | records 10315/30520 (33.8%) | rows 2968/7689 (38.6%)
+- 14:55 Full groups 76-77 done (12 PASS). Launched 92-93. **Next full pair: 94-95.** full: batches 491/1418 (34.6%) | records 10545/30520 (34.6%) | rows 3058/7689 (39.8%)
