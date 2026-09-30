@@ -279,3 +279,4 @@ python3 scripts/export_dataset.py
 - 08:38 Repair9 group 15 done. Residual: 114 v4 (mental_state and perspective both centre Samir). Launched 25. Running: 17,18,20,21,22,23,24,25. **Next repair9 group: 26.** Done: 0-16, 19, 36.
 - 08:38 Repair9 group 18 done. Launched 26. Running: 17,20,21,22,23,24,25,26. **Next repair9 group: 27.** Done: 0-16, 18, 19, 36.
 - 08:38 Repair9 groups 20, 21, 23 done. Residual SAFETY item: 1286 v1 (03_situational b0097; hopelessness letter, writer promises helpline/counsellor Monday, no adult response on page). Launched 27, 28, 29. Running: 17,22,24,25,26,27,28,29. **Next repair9 group: 30.** Done: 0-16, 18-21, 23, 36.
+- 08:39 Repair9 group 22 done. Launched 30. Running: 17,24,25,26,27,28,29,30. **Next repair9 group: 31.** Done: 0-16, 18-23, 36.
