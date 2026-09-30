@@ -322,3 +322,4 @@ python3 scripts/export_dataset.py
 - 10:42 Repair10 groups 28, 29, 30, 32 done. Running 34,36-42. **Next repair10 group: 43.** Done: 0-33, 35. Leftover: 4331 v2 ends with 'Your Lalremsiami aunty' sign-off.
 - 10:43 Repair10 group 40 done. Running 34,36-39,41-43. **Next repair10 group: 44.**
 - 10:43 Repair10 group 37 done. Running 34,36,38,39,41-44. **Next repair10 group: 45.**
+- 10:43 Repair10 group 36 done. Running 34,38,39,41-45. **Next repair10 group: 46.**
