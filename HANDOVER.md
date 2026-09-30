@@ -332,3 +332,4 @@ python3 scripts/export_dataset.py
 - 10:45 Repair10 group 39 done. Running 46,47,48.
 - 10:45 Repair10 group 47 (graph) done; it re-aimed relational questions because the validator applied the same-person check to clusters by mistake (removed now; the edited records still pass the relational-support check). Running 46, 48.
 - 10:45 Repair10 group 46 done. Running 48 only. NOTE for review: groups 46-47 re-aimed ~32 graph relational questions (validator bug, now fixed); spot-check that they still need two rows.
+- 10:49 **Repair10 COMPLETE** (49/49; all 1,050 batches pass). Rescan: 188 no-feeling (partly newly visible after the check was tightened), 2 same-person, 3 age WARNs left (196 narrator WARNs are hand-checked false alarms). **Repair11** final sweep: batches/queue_repair11.json, 10 groups / 159 batches / 193 notes, .staging/critic/REPAIR11.md, scratch .staging/r11_<N>/.

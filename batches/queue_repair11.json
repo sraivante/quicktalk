@@ -1,0 +1,1876 @@
+[
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v01-03_b0003.json",
+"out/01_core/v01-03_b0003.jsonl"
+],
+[
+"batches/01_core/v01-03_b0004.json",
+"out/01_core/v01-03_b0004.jsonl"
+],
+[
+"batches/01_core/v01-03_b0005.json",
+"out/01_core/v01-03_b0005.jsonl"
+],
+[
+"batches/01_core/v01-03_b0008.json",
+"out/01_core/v01-03_b0008.jsonl"
+],
+[
+"batches/01_core/v01-03_b0009.json",
+"out/01_core/v01-03_b0009.jsonl"
+],
+[
+"batches/01_core/v01-03_b0015.json",
+"out/01_core/v01-03_b0015.jsonl"
+],
+[
+"batches/01_core/v01-03_b0016.json",
+"out/01_core/v01-03_b0016.jsonl"
+],
+[
+"batches/01_core/v01-03_b0017.json",
+"out/01_core/v01-03_b0017.jsonl"
+],
+[
+"batches/01_core/v01-03_b0026.json",
+"out/01_core/v01-03_b0026.jsonl"
+],
+[
+"batches/01_core/v01-03_b0028.json",
+"out/01_core/v01-03_b0028.jsonl"
+],
+[
+"batches/01_core/v01-03_b0029.json",
+"out/01_core/v01-03_b0029.jsonl"
+],
+[
+"batches/01_core/v01-03_b0031.json",
+"out/01_core/v01-03_b0031.jsonl"
+],
+[
+"batches/01_core/v04-05_b0005.json",
+"out/01_core/v04-05_b0005.jsonl"
+],
+[
+"batches/01_core/v04-05_b0008.json",
+"out/01_core/v04-05_b0008.jsonl"
+],
+[
+"batches/01_core/v04-05_b0012.json",
+"out/01_core/v04-05_b0012.jsonl"
+],
+[
+"batches/01_core/v04-05_b0027.json",
+"out/01_core/v04-05_b0027.jsonl"
+]
+],
+"critic": [
+{
+"sno": 21,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 24,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 31,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0004.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 42,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 42,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 78,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 81,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0009.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 149,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 152,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 161,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0017.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 161,
+"variant": 2,
+"batch": "out/01_core/v01-03_b0017.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 161,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0017.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 251,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0026.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 277,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0028.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 286,
+"variant": 3,
+"batch": "out/01_core/v01-03_b0029.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 308,
+"variant": 1,
+"batch": "out/01_core/v01-03_b0031.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 42,
+"variant": 4,
+"batch": "out/01_core/v04-05_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 75,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 112,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0012.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 267,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0027.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/01_core/v04-05_b0029.json",
+"out/01_core/v04-05_b0029.jsonl"
+],
+[
+"batches/01_core/v04-05_b0030.json",
+"out/01_core/v04-05_b0030.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0003.json",
+"out/02_expression/v01-02_b0003.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0007.json",
+"out/02_expression/v01-02_b0007.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0010.json",
+"out/02_expression/v01-02_b0010.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0022.json",
+"out/02_expression/v01-02_b0022.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0031.json",
+"out/02_expression/v01-02_b0031.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0033.json",
+"out/02_expression/v01-02_b0033.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0035.json",
+"out/02_expression/v01-02_b0035.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0036.json",
+"out/02_expression/v01-02_b0036.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0057.json",
+"out/02_expression/v01-02_b0057.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0060.json",
+"out/02_expression/v01-02_b0060.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0064.json",
+"out/02_expression/v01-02_b0064.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0065.json",
+"out/02_expression/v01-02_b0065.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0068.json",
+"out/02_expression/v01-02_b0068.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0069.json",
+"out/02_expression/v01-02_b0069.jsonl"
+]
+],
+"critic": [
+{
+"sno": 284,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0029.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 300,
+"variant": 5,
+"batch": "out/01_core/v04-05_b0030.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2083,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2122,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0007.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2157,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2276,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0022.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2369,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0031.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2383,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0033.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2386,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0033.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2410,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0035.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2417,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0036.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2417,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0036.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2624,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0057.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2656,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0060.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2694,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0064.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2697,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0064.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2704,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0065.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2739,
+"variant": 1,
+"batch": "out/02_expression/v01-02_b0068.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2751,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0069.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/02_expression/v01-02_b0082.json",
+"out/02_expression/v01-02_b0082.jsonl"
+],
+[
+"batches/02_expression/v01-02_b0083.json",
+"out/02_expression/v01-02_b0083.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0003.json",
+"out/03_situational/v01-01_b0003.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0010.json",
+"out/03_situational/v01-01_b0010.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0012.json",
+"out/03_situational/v01-01_b0012.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0014.json",
+"out/03_situational/v01-01_b0014.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0023.json",
+"out/03_situational/v01-01_b0023.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0035.json",
+"out/03_situational/v01-01_b0035.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0036.json",
+"out/03_situational/v01-01_b0036.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0038.json",
+"out/03_situational/v01-01_b0038.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0066.json",
+"out/03_situational/v01-01_b0066.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0077.json",
+"out/03_situational/v01-01_b0077.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0088.json",
+"out/03_situational/v01-01_b0088.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0100.json",
+"out/03_situational/v01-01_b0100.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0131.json",
+"out/03_situational/v01-01_b0131.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0139.json",
+"out/03_situational/v01-01_b0139.jsonl"
+]
+],
+"critic": [
+{
+"sno": 2875,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0082.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2876,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0082.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2883,
+"variant": 2,
+"batch": "out/02_expression/v01-02_b0083.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 345,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 408,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 433,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0012.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 453,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 543,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0023.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 666,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0035.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 676,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0036.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 690,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0038.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 977,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0066.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1081,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0077.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1195,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0088.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1311,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0100.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1618,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0131.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1701,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0139.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/03_situational/v01-01_b0151.json",
+"out/03_situational/v01-01_b0151.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0166.json",
+"out/03_situational/v01-01_b0166.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0169.json",
+"out/03_situational/v01-01_b0169.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0170.json",
+"out/03_situational/v01-01_b0170.jsonl"
+],
+[
+"batches/03_situational/v01-01_b0172.json",
+"out/03_situational/v01-01_b0172.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0007.json",
+"out/04_dynamics/v01-02_b0007.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0008.json",
+"out/04_dynamics/v01-02_b0008.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0010.json",
+"out/04_dynamics/v01-02_b0010.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0019.json",
+"out/04_dynamics/v01-02_b0019.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0024.json",
+"out/04_dynamics/v01-02_b0024.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0030.json",
+"out/04_dynamics/v01-02_b0030.jsonl"
+],
+[
+"batches/04_dynamics/v01-02_b0035.json",
+"out/04_dynamics/v01-02_b0035.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0001.json",
+"out/05_cognitive/v01-03_b0001.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0002.json",
+"out/05_cognitive/v01-03_b0002.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0003.json",
+"out/05_cognitive/v01-03_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0004.json",
+"out/05_cognitive/v01-03_b0004.jsonl"
+]
+],
+"critic": [
+{
+"sno": 1822,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0151.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1969,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0166.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 1977,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0166.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2006,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0169.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2014,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0170.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2036,
+"variant": 1,
+"batch": "out/03_situational/v01-01_b0172.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2977,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0007.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 2985,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3000,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3089,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0019.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3144,
+"variant": 1,
+"batch": "out/04_dynamics/v01-02_b0024.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3144,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0024.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3198,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0030.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3207,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0030.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3257,
+"variant": 2,
+"batch": "out/04_dynamics/v01-02_b0035.jsonl",
+"issue": "CHECK: passage states age 5 but the row is 13–17"
+},
+{
+"sno": 3574,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0001.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3581,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3586,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3599,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3605,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0004.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0005.json",
+"out/05_cognitive/v01-03_b0005.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0006.json",
+"out/05_cognitive/v01-03_b0006.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0008.json",
+"out/05_cognitive/v01-03_b0008.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0010.json",
+"out/05_cognitive/v01-03_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0012.json",
+"out/05_cognitive/v01-03_b0012.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0014.json",
+"out/05_cognitive/v01-03_b0014.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0015.json",
+"out/05_cognitive/v01-03_b0015.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0016.json",
+"out/05_cognitive/v01-03_b0016.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0021.json",
+"out/05_cognitive/v01-03_b0021.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0022.json",
+"out/05_cognitive/v01-03_b0022.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0025.json",
+"out/05_cognitive/v01-03_b0025.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0027.json",
+"out/05_cognitive/v01-03_b0027.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0028.json",
+"out/05_cognitive/v01-03_b0028.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0030.json",
+"out/05_cognitive/v01-03_b0030.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0034.json",
+"out/05_cognitive/v01-03_b0034.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0041.json",
+"out/05_cognitive/v01-03_b0041.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3615,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3615,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3624,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0006.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3642,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3646,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3647,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3665,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3688,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0012.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3702,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3712,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3716,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3718,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3722,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3726,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3727,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3779,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0021.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3787,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0022.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3812,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0025.jsonl",
+"issue": "CHECK: passage states age 8 but the row is 13–17"
+},
+{
+"sno": 3815,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0025.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3834,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0027.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3840,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0028.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3841,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0028.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3863,
+"variant": 1,
+"batch": "out/05_cognitive/v01-03_b0030.jsonl",
+"issue": "CHECK: passage states age 5 but the row is 13–17"
+},
+{
+"sno": 3901,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0034.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3973,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0041.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v01-03_b0049.json",
+"out/05_cognitive/v01-03_b0049.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0052.json",
+"out/05_cognitive/v01-03_b0052.jsonl"
+],
+[
+"batches/05_cognitive/v01-03_b0054.json",
+"out/05_cognitive/v01-03_b0054.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0001.json",
+"out/05_cognitive/v04-05_b0001.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0002.json",
+"out/05_cognitive/v04-05_b0002.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0003.json",
+"out/05_cognitive/v04-05_b0003.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0004.json",
+"out/05_cognitive/v04-05_b0004.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0010.json",
+"out/05_cognitive/v04-05_b0010.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0014.json",
+"out/05_cognitive/v04-05_b0014.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0015.json",
+"out/05_cognitive/v04-05_b0015.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0018.json",
+"out/05_cognitive/v04-05_b0018.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0019.json",
+"out/05_cognitive/v04-05_b0019.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0020.json",
+"out/05_cognitive/v04-05_b0020.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0022.json",
+"out/05_cognitive/v04-05_b0022.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0023.json",
+"out/05_cognitive/v04-05_b0023.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0026.json",
+"out/05_cognitive/v04-05_b0026.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4054,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0049.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4083,
+"variant": 2,
+"batch": "out/05_cognitive/v01-03_b0052.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4108,
+"variant": 3,
+"batch": "out/05_cognitive/v01-03_b0054.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3571,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0001.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3574,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0001.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3582,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3595,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3598,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3605,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0004.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3608,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0004.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3661,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3669,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3700,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3710,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3715,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3718,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3745,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0018.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3758,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0019.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3768,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0020.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3787,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0022.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3794,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0023.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3820,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0026.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3825,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0026.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/05_cognitive/v04-05_b0029.json",
+"out/05_cognitive/v04-05_b0029.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0030.json",
+"out/05_cognitive/v04-05_b0030.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0033.json",
+"out/05_cognitive/v04-05_b0033.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0035.json",
+"out/05_cognitive/v04-05_b0035.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0041.json",
+"out/05_cognitive/v04-05_b0041.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0042.json",
+"out/05_cognitive/v04-05_b0042.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0051.json",
+"out/05_cognitive/v04-05_b0051.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0053.json",
+"out/05_cognitive/v04-05_b0053.jsonl"
+],
+[
+"batches/05_cognitive/v04-05_b0054.json",
+"out/05_cognitive/v04-05_b0054.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0001.json",
+"out/06_foundational/v01-03_b0001.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0002.json",
+"out/06_foundational/v01-03_b0002.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0004.json",
+"out/06_foundational/v01-03_b0004.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0007.json",
+"out/06_foundational/v01-03_b0007.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0010.json",
+"out/06_foundational/v01-03_b0010.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0011.json",
+"out/06_foundational/v01-03_b0011.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0014.json",
+"out/06_foundational/v01-03_b0014.jsonl"
+]
+],
+"critic": [
+{
+"sno": 3851,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0029.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3851,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0029.jsonl",
+"issue": "CHECK: mental_state and perspective questions both centre Bhavna; centre different people"
+},
+{
+"sno": 3860,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0030.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3896,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0033.jsonl",
+"issue": "CHECK: mental_state and perspective questions both centre Neelam; centre different people"
+},
+{
+"sno": 3914,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0035.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3918,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0035.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3973,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0041.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3983,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0042.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4073,
+"variant": 4,
+"batch": "out/05_cognitive/v04-05_b0051.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4098,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0053.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4107,
+"variant": 5,
+"batch": "out/05_cognitive/v04-05_b0054.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5442,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0001.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5461,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5479,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0004.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5508,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0007.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5537,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5543,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0011.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5575,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/06_foundational/v01-03_b0017.json",
+"out/06_foundational/v01-03_b0017.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0018.json",
+"out/06_foundational/v01-03_b0018.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0020.json",
+"out/06_foundational/v01-03_b0020.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0022.json",
+"out/06_foundational/v01-03_b0022.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0025.json",
+"out/06_foundational/v01-03_b0025.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0026.json",
+"out/06_foundational/v01-03_b0026.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0027.json",
+"out/06_foundational/v01-03_b0027.jsonl"
+],
+[
+"batches/06_foundational/v01-03_b0028.json",
+"out/06_foundational/v01-03_b0028.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0002.json",
+"out/06_foundational/v04-05_b0002.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0005.json",
+"out/06_foundational/v04-05_b0005.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0010.json",
+"out/06_foundational/v04-05_b0010.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0019.json",
+"out/06_foundational/v04-05_b0019.jsonl"
+],
+[
+"batches/06_foundational/v04-05_b0021.json",
+"out/06_foundational/v04-05_b0021.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0003.json",
+"out/07_personality/v01-02_b0003.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0005.json",
+"out/07_personality/v01-02_b0005.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0009.json",
+"out/07_personality/v01-02_b0009.jsonl"
+]
+],
+"critic": [
+{
+"sno": 5602,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0017.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5621,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0018.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5621,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0018.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5637,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0020.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5660,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0022.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5684,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0025.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5697,
+"variant": 2,
+"batch": "out/06_foundational/v01-03_b0026.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5707,
+"variant": 3,
+"batch": "out/06_foundational/v01-03_b0027.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5712,
+"variant": 1,
+"batch": "out/06_foundational/v01-03_b0028.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5459,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5483,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5537,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5623,
+"variant": 5,
+"batch": "out/06_foundational/v04-05_b0019.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5642,
+"variant": 4,
+"batch": "out/06_foundational/v04-05_b0021.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4341,
+"variant": 1,
+"batch": "out/07_personality/v01-02_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4368,
+"variant": 2,
+"batch": "out/07_personality/v01-02_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4400,
+"variant": 1,
+"batch": "out/07_personality/v01-02_b0009.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/07_personality/v01-02_b0014.json",
+"out/07_personality/v01-02_b0014.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0015.json",
+"out/07_personality/v01-02_b0015.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0018.json",
+"out/07_personality/v01-02_b0018.jsonl"
+],
+[
+"batches/07_personality/v01-02_b0020.json",
+"out/07_personality/v01-02_b0020.jsonl"
+],
+[
+"batches/08_group/v01-02_b0002.json",
+"out/08_group/v01-02_b0002.jsonl"
+],
+[
+"batches/08_group/v01-02_b0009.json",
+"out/08_group/v01-02_b0009.jsonl"
+],
+[
+"batches/08_group/v01-02_b0010.json",
+"out/08_group/v01-02_b0010.jsonl"
+],
+[
+"batches/08_group/v01-02_b0012.json",
+"out/08_group/v01-02_b0012.jsonl"
+],
+[
+"batches/08_group/v01-02_b0013.json",
+"out/08_group/v01-02_b0013.jsonl"
+],
+[
+"batches/08_group/v01-02_b0014.json",
+"out/08_group/v01-02_b0014.jsonl"
+],
+[
+"batches/08_group/v01-02_b0015.json",
+"out/08_group/v01-02_b0015.jsonl"
+],
+[
+"batches/08_group/v01-02_b0016.json",
+"out/08_group/v01-02_b0016.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0003.json",
+"out/09_deception/v01-02_b0003.jsonl"
+],
+[
+"batches/09_deception/v01-02_b0005.json",
+"out/09_deception/v01-02_b0005.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0011.json",
+"out/10_culture/v01-02_b0011.jsonl"
+],
+[
+"batches/10_culture/v01-02_b0020.json",
+"out/10_culture/v01-02_b0020.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4449,
+"variant": 2,
+"batch": "out/07_personality/v01-02_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4466,
+"variant": 1,
+"batch": "out/07_personality/v01-02_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4493,
+"variant": 1,
+"batch": "out/07_personality/v01-02_b0018.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4518,
+"variant": 2,
+"batch": "out/07_personality/v01-02_b0020.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3362,
+"variant": 1,
+"batch": "out/08_group/v01-02_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3366,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3432,
+"variant": 1,
+"batch": "out/08_group/v01-02_b0009.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3432,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0009.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3444,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0010.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3464,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0012.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3472,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0013.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3486,
+"variant": 1,
+"batch": "out/08_group/v01-02_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3492,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0015.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3499,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 3506,
+"variant": 2,
+"batch": "out/08_group/v01-02_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4611,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4634,
+"variant": 2,
+"batch": "out/09_deception/v01-02_b0005.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4879,
+"variant": 1,
+"batch": "out/10_culture/v01-02_b0011.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4966,
+"variant": 2,
+"batch": "out/10_culture/v01-02_b0020.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+},
+{
+"stage": "mixed",
+"model": "opus",
+"batches": [
+[
+"batches/11_body/v01-02_b0002.json",
+"out/11_body/v01-02_b0002.jsonl"
+],
+[
+"batches/11_body/v01-02_b0003.json",
+"out/11_body/v01-02_b0003.jsonl"
+],
+[
+"batches/11_body/v01-02_b0014.json",
+"out/11_body/v01-02_b0014.jsonl"
+],
+[
+"batches/11_body/v01-02_b0018.json",
+"out/11_body/v01-02_b0018.jsonl"
+],
+[
+"batches/12_execution/v01-02_b0014.json",
+"out/12_execution/v01-02_b0014.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0001.json",
+"out/13_wellbeing/v01-02_b0001.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0003.json",
+"out/13_wellbeing/v01-02_b0003.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0008.json",
+"out/13_wellbeing/v01-02_b0008.jsonl"
+],
+[
+"batches/13_wellbeing/v01-02_b0016.json",
+"out/13_wellbeing/v01-02_b0016.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0034.json",
+"out/14_planning/v01-01_b0034.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0050.json",
+"out/14_planning/v01-01_b0050.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0099.json",
+"out/14_planning/v01-01_b0099.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0112.json",
+"out/14_planning/v01-01_b0112.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0184.json",
+"out/14_planning/v01-01_b0184.jsonl"
+],
+[
+"batches/14_planning/v01-01_b0193.json",
+"out/14_planning/v01-01_b0193.jsonl"
+]
+],
+"critic": [
+{
+"sno": 4134,
+"variant": 1,
+"batch": "out/11_body/v01-02_b0002.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4144,
+"variant": 2,
+"batch": "out/11_body/v01-02_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4256,
+"variant": 1,
+"batch": "out/11_body/v01-02_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 4290,
+"variant": 2,
+"batch": "out/11_body/v01-02_b0018.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5126,
+"variant": 2,
+"batch": "out/12_execution/v01-02_b0014.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5196,
+"variant": 2,
+"batch": "out/13_wellbeing/v01-02_b0001.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5218,
+"variant": 2,
+"batch": "out/13_wellbeing/v01-02_b0003.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5266,
+"variant": 1,
+"batch": "out/13_wellbeing/v01-02_b0008.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 5351,
+"variant": 1,
+"batch": "out/13_wellbeing/v01-02_b0016.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 6092,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0034.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 6253,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0050.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 6750,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0099.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 6873,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0112.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 7593,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0184.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+},
+{
+"sno": 7688,
+"variant": 1,
+"batch": "out/14_planning/v01-01_b0193.jsonl",
+"issue": "CHECK: mental_state answer names no feeling; name the emotion (e.g. anxious, ashamed, relieved)"
+}
+]
+}
+]
