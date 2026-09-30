@@ -1,0 +1,200 @@
+[
+ {
+  "stage": "07_personality",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/07_personality/v01-02_b0003.json",
+    "out/07_personality/v01-02_b0003.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0004.json",
+    "out/07_personality/v01-02_b0004.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0012.json",
+    "out/07_personality/v01-02_b0012.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0013.json",
+    "out/07_personality/v01-02_b0013.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0014.json",
+    "out/07_personality/v01-02_b0014.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0016.json",
+    "out/07_personality/v01-02_b0016.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0017.json",
+    "out/07_personality/v01-02_b0017.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0019.json",
+    "out/07_personality/v01-02_b0019.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0020.json",
+    "out/07_personality/v01-02_b0020.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0021.json",
+    "out/07_personality/v01-02_b0021.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 4344,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0003.jsonl",
+    "issue": "Literal answer copies the note's first person ('It caught the flaw in our checkout flow'); 'our' has no referent in an answer | SUGGESTED: 'It caught the flaw in the team's checkout flow.'"
+   },
+   {
+    "sno": 4350,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0004.jsonl",
+    "issue": "Literal question says 'the first five hundred rupees', implying a second five hundred; the passage gives no amount for the second request (bus fare) | SUGGESTED: 'What did Harsha say he needed five hundred rupees for?'"
+   },
+   {
+    "sno": 4438,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0012.jsonl",
+    "issue": "Grounding calls Maria 'a partner'; the passage never states the relationship | SUGGESTED: Grounding: 'A young adult writes to Maria about bossy checking...'."
+   },
+   {
+    "sno": 4431,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0012.jsonl",
+    "issue": "Perspective answer says 'her friend' for Hrithik; the passage never states that Ritu and Hrithik are friends | SUGGESTED: 'She would probably feel worried that Hrithik can't enjoy his own success.'"
+   },
+   {
+    "sno": 4441,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0013.jsonl",
+    "issue": "Observer row: the perspective question centres Joost, a third party; house rule asks it to centre the observed person (Elif) | SUGGESTED: Ask e.g. 'How might Elif feel seeing the calendar instead of hearing she is controlling?' (use 'Elif', no pronoun, since the passage never genders Elif)."
+   },
+   {
+    "sno": 4449,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0014.jsonl",
+    "issue": "Grounding says 'a family plan for medicine', but the passage never names the field (only a mock test at a coaching centre) | SUGGESTED: Grounding: 'a family plan for coaching and exams', or add 'medical entrance' to the passage's mock-test line."
+   },
+   {
+    "sno": 4472,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0016.jsonl",
+    "issue": "R14 perspective question centres the listener Aparna; in elder stories it must centre someone inside the story | SUGGESTED: Ask e.g. 'How might the shopkeeper have seen young Gurpreet when he finally came with the coins?' (shopkeeper laughed, then kept the promise)."
+   },
+   {
+    "sno": 4486,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0017.jsonl",
+    "issue": "R14 perspective question centres the listener Harsha; in elder stories it must centre someone inside the story | SUGGESTED: Ask e.g. 'What might Masterji have been feeling when he cried a little too, about his own son far away?'"
+   },
+   {
+    "sno": 4486,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0017.jsonl",
+    "issue": "Grounding calls Mrs Iyer 'a teacher', but the passage never states her role (only 'torch in hand' backstage) | SUGGESTED: Grounding: '...and an adult backstage who widens what feels safe for both', or add 'their class teacher' to the passage."
+   },
+   {
+    "sno": 4501,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0019.jsonl",
+    "issue": "Perspective question centres Ayesha, the protagonist ('How does Deepika's own experience change the way Ayesha sees the green button?') | SUGGESTED: Centre Deepika or Inaya, e.g. 'What might it mean to Deepika to share her own lift-crying story with Ayesha?'"
+   },
+   {
+    "sno": 4508,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0019.jsonl",
+    "issue": "Perspective question centres Daniel, the protagonist ('If you were Daniel...'); Minor: Toronto is the setting in three records of this stage | SUGGESTED: Centre Ms. Mina, e.g. 'How might Ms. Mina see Daniel after the drawbridge and the hidden book?'"
+   },
+   {
+    "sno": 4516,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0020.jsonl",
+    "issue": "Application question asks for the elder's advice to the listener ('What advice does Dolma give Abhinav...') rather than a choice or turning point | SUGGESTED: Ask e.g. 'What did Dolma change after Tashi's whisper, and why did it work?' (strained dal, a plate with little walls; the wars stopped)."
+   },
+   {
+    "sno": 4514,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0020.jsonl",
+    "issue": "mental_state answer lists behaviours (screamed, dropped, covered ears) but never names the feeling | SUGGESTED: 'He was frightened and overwhelmed by the noise: he screamed, dropped to the floor, covered his ears and would not go back in.'"
+   },
+   {
+    "sno": 4524,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0021.jsonl",
+    "issue": "mental_state answer describes behaviour only and names no feeling | SUGGESTED: 'He was too excited and happy about his baby sister to notice; he was busy showing how tiny she is.'"
+   }
+  ]
+ },
+ {
+  "stage": "07_personality",
+  "model": "opus",
+  "batches": [
+   [
+    "batches/07_personality/v01-02_b0022.json",
+    "out/07_personality/v01-02_b0022.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0023.json",
+    "out/07_personality/v01-02_b0023.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0024.json",
+    "out/07_personality/v01-02_b0024.jsonl"
+   ],
+   [
+    "batches/07_personality/v01-02_b0026.json",
+    "out/07_personality/v01-02_b0026.jsonl"
+   ]
+  ],
+  "critic": [
+   {
+    "sno": 4536,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0022.jsonl",
+    "issue": "Application question asks for the elder's advice to the listener ('What does Bhavna Bua advise Ojas...') rather than a choice or turning point in the story | SUGGESTED: Ask e.g. 'What was the turning point for young Bhavna, and why did it help?' (the English teacher noticed and took her to the counsellor)."
+   },
+   {
+    "sno": 4539,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0023.jsonl",
+    "issue": "Application question asks for the elder's advice/moral ('What does Vaibhav Chacha advise Suraj to watch for?') rather than a choice or turning point in the story | SUGGESTED: Ask e.g. 'What choice did Vaibhav Chacha make after the boy said \"Grey, Sir\", and why did it matter?' (he called the parents that same evening, leading to a doctor)."
+   },
+   {
+    "sno": 4542,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0023.jsonl",
+    "issue": "Perspective question centres Lalit, the protagonist ('How did Ira's response make it easier for Lalit?'); the answer is about Lalit's experience | SUGGESTED: Ask about Ira, e.g. 'What might Ira have been feeling when Lalit said the thought out loud?' (worried, yet steady enough to stay and act)."
+   },
+   {
+    "sno": 4556,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0024.jsonl",
+    "issue": "Observer row: the perspective question centres Mridul, a colleague (third party); house rule asks it to centre the observed student, Ritesh | SUGGESTED: Ask e.g. 'What might it be like for Ritesh to be asked \"what happened?\" and to be told before his seat changes?'"
+   },
+   {
+    "sno": 4572,
+    "variant": 2,
+    "batch": "out/07_personality/v01-02_b0026.jsonl",
+    "issue": "Self-harm scene: the helper's same-day response is not shown on the page; Ojas only offers to help find someone, and the care comes 'that week'. House rule asks that the helper stays and brings in help or a trusted adult the same day | SUGGESTED: Show Ojas staying with Sabina that afternoon and helping make the call (e.g. 'He sat with me while I called my sister, and we booked the doctor before we left the office'); keep 'began seeing a psychologist' later."
+   },
+   {
+    "sno": 4572,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0026.jsonl",
+    "issue": "Self-harm disclosure: Jahnavi stays tonight and plans a doctor visit tomorrow, but when Amma is told is left open; the trusted-adult step should be clearly same-day | SUGGESTED: Make it explicit: 'Can we tell Amma tonight, together, or do you want to?' ... 'You tell her. I'll be in the room.'"
+   },
+   {
+    "sno": 4573,
+    "variant": 1,
+    "batch": "out/07_personality/v01-02_b0026.jsonl",
+    "issue": "Suicide-risk scene: Neelam's 'It'd be easier for everyone if I just vanished' on Monday night is left unaddressed overnight before Baljeet asks on Tuesday; models delay after a warning remark | SUGGESTED: Keep Monday for quieter signs (skipping the mess, withdrawn) and Baljeet's fear of asking; move the 'vanished' remark to Tuesday, immediately before Baljeet asks directly."
+   }
+  ]
+ }
+]
