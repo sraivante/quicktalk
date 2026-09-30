@@ -283,3 +283,4 @@ python3 scripts/export_dataset.py
 - 08:39 Repair9 group 24 done. Residual: 3149 v1 (R14 perspective centres listener Mahima). Launched 31. Running: 17,25,26,27,28,29,30,31. **Next repair9 group: 32.** Done: 0-16, 18-24, 36.
 - 08:39 Repair9 group 29 done (13 flags, all false alarms; no change). Launched 32. Running: 17,25,26,27,28,30,31,32. **Next repair9 group: 33.** Done: 0-16, 18-24, 29, 36.
 - 08:40 Repair9 group 27 done (1 grounding fix). Launched 33. Running: 17,25,26,28,30,31,32,33. **Next repair9 group: 34.** Done: 0-16, 18-24, 27, 29, 36. (out/05_cognitive v01-03_b0014.. show modified while group 26 is mid-edit; sync after it reports.)
+- 08:40 Repair9 group 26 done. Launched 34. Running: 17,25,28,30,31,32,33,34. **Next repair9 group: 35 (last).** Done: 0-16, 18-24, 26, 27, 29, 36.
