@@ -374,3 +374,4 @@ python3 scripts/export_dataset.py
 - 14:21 Full groups 58-59 done (12 PASS). Launched 76-77. **Next full pair: 78-79.** full: batches 413/1418 (29.1%) | records 8854/30520 (29.0%) | rows 2313/7689 (30.1%)
 - 14:25 Full groups 60-61 done (12 PASS). Launched 78-79. **Next full pair: 80-81.** full: batches 423/1418 (29.8%) | records 9054/30520 (29.7%) | rows 2413/7689 (31.4%)
 - 14:26 Full groups 64-65 done (12 PASS). Launched 80-81. **Next full pair: 82-83.** full: batches 424/1418 (29.9%) | records 9074/30520 (29.7%) | rows 2423/7689 (31.5%)
+- 14:30 Full groups 72-73 done (12 PASS). Launched 82-83. **Next full pair: 84-85.** full: batches 433/1418 (30.5%) | records 9242/30520 (30.3%) | rows 2507/7689 (32.6%)
