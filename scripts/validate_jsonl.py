@@ -172,8 +172,8 @@ for x in allrecs:
     qa_=x.get('qa')
     if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {x.get("sno")} v{x.get("variant")}: mental_state question may be plain recall: {qa_[1].get("q")}')
 for x in allrecs:
-    ps=str(x.get('passage',''))
-    if len(re.findall(r"\bI\b|\bI'm\b|\bmy\b",ps))>=4:
+    ps=re.sub(r'"[^"]*"|“[^”]*”','',str(x.get('passage','')))  # narration only, not quoted speech
+    if len(re.findall(r"\bI\b|\bI'm\b|\bmy\b",ps))>=4 and not GPRON.search(ps):
         txt=' '.join(str(q.get('a',''))+' '+str(q.get('q','')) for q in (x.get('qa') or []) if isinstance(q,dict))+' '+str(x.get('grounding',''))
         if GPRON.search(txt): print(f'WARN {x.get("sno")} v{x.get("variant")}: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it')
 last_emo=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])==4 and ecount(str(x['qa'][3].get('a','')))>0)
