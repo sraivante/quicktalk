@@ -24,6 +24,9 @@ def git(*args, check=True):
 if not os.path.isdir(os.path.join(a.repo, '.git')): sys.exit('--repo must be a git clone')
 dirs = [os.path.join(ROOT, 'out')] + ([os.path.join(ROOT, 'pilot', 'out')] if a.include_pilot else [])
 rows, clus = {}, {}
+# ids dropped after review (shared with export_dataset.py): C0830 or sno-variant per line, text after # is the reason
+xp = os.path.join(ROOT, 'config', 'export_exclude.txt')
+EXCL = {l.split('#')[0].strip() for l in open(xp, encoding='utf-8')} - {''} if os.path.exists(xp) else set()
 for d in dirs:
     for f in sorted(glob.glob(os.path.join(d, '**', '*.jsonl'), recursive=True)):
         if not os.path.exists(re.sub(r'\.jsonl$', '', f) + '.ok'): continue
@@ -31,6 +34,7 @@ for d in dirs:
             if not l.strip(): continue
             r = json.loads(l)
             if str(r.get('passage', '')).strip() == 'SKIP': continue
+            if (r['cluster_id'] if 'cluster_id' in r else f"{r['sno']}-{r['variant']}") in EXCL: continue
             if 'cluster_id' in r: clus[r['cluster_id']] = r
             else: rows.setdefault(r['sno'], {})[r['variant']] = r
 if not a.dry_run:
