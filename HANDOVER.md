@@ -323,3 +323,4 @@ python3 scripts/export_dataset.py
 - 10:43 Repair10 group 40 done. Running 34,36-39,41-43. **Next repair10 group: 44.**
 - 10:43 Repair10 group 37 done. Running 34,36,38,39,41-44. **Next repair10 group: 45.**
 - 10:43 Repair10 group 36 done. Running 34,38,39,41-45. **Next repair10 group: 46.**
+- 10:43 Repair10 group 38 done. Running 34,39,41-46. **Next repair10 group: 47.**
