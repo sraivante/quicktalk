@@ -313,3 +313,4 @@ python3 scripts/export_dataset.py
 - 10:39 Repair10 group 20 done. Running 19,21-27. **Next repair10 group: 28.**
 - 10:39 Repair10 groups 19, 20, 21, 23 done. Feeling check tightened (stems must start the word; 'caused' no longer matches 'used') -> after repair10, rescan for newly visible no-feeling answers. Running 22,24-30. **Next repair10 group: 31.** Done: 0-21, 23.
 - 10:39 Repair10 group 24 done. Running 22,25-31. **Next repair10 group: 32.**
+- 10:40 Repair10 group 22 done. Running 25-32. **Next repair10 group: 33.** Done: 0-24.
