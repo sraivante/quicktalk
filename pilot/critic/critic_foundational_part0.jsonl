@@ -1,0 +1,55 @@
+{"sno": 5715, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5756, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5497, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5650, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5645, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5693, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5448, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5595, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5576, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5559, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5508, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5489, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5697, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5702, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5752, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5518, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5641, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5747, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5731, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5663, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5748, "variant": 3, "verdict": "fix", "issues": ["check (e): the perspective question ('Why might Ramesh be unsure of what Yamini was thinking?') asks about the observer-account form itself, not how Ramesh sees or is affected by Yamini's turnaround; it is answered by the recipe, not the scene"], "suggested_fix": "Ask e.g. 'What might it be like for Ramesh to watch Yamini go from head-down to drawing columns?' or 'What would change if Ramesh had offered comfort instead of staying quiet?'"}
+{"sno": 5532, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5585, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5668, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5493, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5485, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5603, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5608, "variant": 3, "verdict": "fix", "issues": ["house rule (b): row says the teenager wants to be seen as a good friend and son; the record's protagonist is a daughter (Zeenat, 'good daughter'), so the gender and role do not match the row"], "suggested_fix": "Recast the protagonist as a son (a boy's name, 'good son'), keeping the dance group/quiz clash and Abbu's reaction; adjust grounding to 'teenage boy'."}
+{"sno": 5694, "variant": 4, "verdict": "fix", "issues": ["house rule (a): the application question asks 'what might he do with it?' about Shankar, a diary narrator whose gender the passage never states (a signature is not a cue; 'him' in the passage refers to Lokesh)"], "suggested_fix": "Change the question to 'what might Shankar do with it?' and keep the answers name-only."}
+{"sno": 5550, "variant": 4, "verdict": "fix", "issues": ["check 2: the literal answer is in the letter's first person ('Our office collected forty bags'); it should be in the answer's own voice", "length: passage is 166 words, above the 160 cap for 23-26 (beyond the usual small tolerance)"], "suggested_fix": "Answer: 'Afreen's office collected forty bags.' Trim about 8-10 words (e.g. shorten the transcription sentence or 'I can respect it without living in it')."}
+{"sno": 5542, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5476, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5582, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5760, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5548, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5607, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5493, "variant": 2, "verdict": "fix", "issues": ["check 6 diversity: shares its key motive beat with 5493 v3 (both explain the downplaying through 'last year, a classmate got into the state team/squad and people mocked them for months'); the two variants turn on the same precedent"], "suggested_fix": "Give v2 a different cue for the fear, e.g. an older cousin teased at family gatherings for 'showing off', or friends' group chat going quiet after an earlier small win."}
+{"sno": 5591, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5548, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5456, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5489, "variant": 3, "verdict": "fix", "issues": ["house rule (j): misinformation row: the bird-flu voice-note claim ('anyone eating chicken this week would fall seriously ill') is stated in detail and the scene ends with Rajni certain and winning the likes; nothing on the page marks the claim as unverified except Vishal's question, so a reader could take it as true"], "suggested_fix": "Add one short line that shows the claim is unconfirmed (e.g. no notice existed, or the next morning the warden posts that there is no health department alert), or blur it to 'a scare about the mess chicken' without the specific illness claim."}
+{"sno": 5747, "variant": 1, "verdict": "fix", "issues": ["check 6 diversity: closely mirrors 5747 v4 (friend says 'It's one line'/'It's one test'; protagonist says 'I'm being realistic' in a calm voice that makes it sound true; both drop debate); the variants differ in names more than in situation"], "suggested_fix": "Change v1's final beat away from debate (e.g. skips a music exam or a science-club build) and vary the 'calm realism' line (e.g. Rekha writes a list of 'things I'm bad at' instead of saying it calmly)."}
+{"sno": 5538, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5632, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5676, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5695, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5706, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5751, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5717, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5668, "variant": 1, "verdict": "fix", "issues": ["fidelity/logic: Nazia's shirking thought ('Shreya always makes nice slides at the last minute. I'll do maths') does not show her expecting Shreya to cover Nazia's own part (the research), which is the row's point", "house rule (e): the mental_state question ('What did Shreya expect Nazia to do on Thursday?') is answered by recalling Shreya's stated thought; it does not probe the inner state"], "suggested_fix": "Make Nazia's thought 'Shreya's quick, she'll probably pull the research off the internet with the slides. I'll do maths.' Ask 'Why did it feel safe to Shreya to switch to chemistry?' or 'What was Shreya hoping on Thursday?'"}
+{"sno": 5465, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5723, "variant": 4, "verdict": "fix", "issues": ["check 9 / house rule (f): 😔 in the perspective answer on a stereotype/discrimination row; sensitive material allows none or one gentle emoji (🤍 🫂 🙏) only"], "suggested_fix": "Remove the 😔 (or replace with 🤍)."}
+{"sno": 5599, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5604, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5475, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
