@@ -1,0 +1,56 @@
+{"sno": 5575, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5742, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5643, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5647, "variant": 2, "verdict": "fix", "issues": ["GROUNDING/GENDER: the passage never says Lalit is Santosh's father (Lalit writes only as 'I', addressing 'Santosh's mother'); the perspective answer ('his father') and grounding ('A father respects his son's...') add a relationship and a gender the passage does not state."], "suggested_fix": "Use 'Lalit' in the perspective answer and 'An adult at home respects...' in grounding, or have the note state the relationship (e.g. 'I'm his dad; his mother is on night shift')."}
+{"sno": 5633, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5492, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5529, "variant": 1, "verdict": "fix", "issues": ["HOUSE RULE (h): mockery scene names the smirking colleagues by surnames 'Sharma and Bhatia' (and helper 'Dastur'), which carry caste/community cues the row does not need.", "PERSPECTIVE (e): 'How might Parul use this story at the office?' asks for a choice (application-like), not how Parul sees or is affected."], "suggested_fix": "Replace the surnames with first names or roles ('two colleagues by the tea urn', 'old Dastur' -> 'the old accounts clerk'); reframe perspective as 'What might hearing this be like for Parul, who feels nobody understands?'."}
+{"sno": 5641, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5444, "variant": 3, "verdict": "fix", "issues": ["GROUNDING: perspective answer calls Ojas 'a friend'; the passage never states Ojas's relationship to Harish."], "suggested_fix": "Change 'a friend is about to spend' to 'Harish is about to spend', or state the relationship in the passage."}
+{"sno": 5551, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5653, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5684, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5523, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5481, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5650, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5708, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5712, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5558, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5484, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5667, "variant": 3, "verdict": "fix", "issues": ["GROUNDING/ROW MATCH: grounding says Chandrika fears 'her brother' will cheat; the passage never says Amandeep is her brother and the row is about a friend."], "suggested_fix": "Grounding: '...because she fears her friend will cheat first...' (or 'her playmate')."}
+{"sno": 5603, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5615, "variant": 4, "verdict": "fix", "issues": ["CONSISTENCY: 'This year his brother Lokesh, fourteen, was learning' clashes with 'last year, when he had walked off too soon and Lokesh split three stems'; it is unclear whether Lokesh began this year or last."], "suggested_fix": "Change to 'This year his brother Lokesh, fourteen, was trying again' (or move the too-early episode to earlier this spring)."}
+{"sno": 5566, "variant": 4, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5680, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5726, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5693, "variant": 3, "verdict": "fix", "issues": ["EMOJI (9)/(f): the chat is a sensitive humiliation/bullying scene, yet the passage ends with Sangeeta's '👍'; the rule is no emojis in sensitive passages."], "suggested_fix": "Replace the final '👍' with a plain 'good' (or drop the line); keep the passage emoji-free."}
+{"sno": 5710, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5480, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5749, "variant": 5, "verdict": "fix", "issues": ["PERSPECTIVE (e): the grounding makes Sharmila the observing colleague (protagonist), but the perspective question centres Sharmila again rather than someone else."], "suggested_fix": "Reframe perspective about Anirban or the users, e.g. 'How might Anirban see Mallika's plan when he hears \"just in case\"?' with an answer grounded in 'You think it'll fail?'."}
+{"sno": 5539, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5489, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5566, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5498, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5458, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5604, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5708, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5521, "variant": 5, "verdict": "fix", "issues": ["MENTAL_STATE (e): the answer lists behaviours (giggles, presses her cheek, waves) but never names the inner state it asks for."], "suggested_fix": "Answer: 'She seems delighted and treats the letterbox like a friendly face; the giggling, cheek-press and wave show it.'"}
+{"sno": 5726, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5619, "variant": 5, "verdict": "fix", "issues": ["GROUNDING: grounding says 'a cousin asks'; the passage only has Vaibhav call Indu 'di', which can mean older sister or cousin."], "suggested_fix": "Grounding: '...when an older sister figure (Indu) asks' or simply '...when Indu asks'."}
+{"sno": 5496, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5508, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5442, "variant": 3, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5692, "variant": 1, "verdict": "fix", "issues": ["GROUNDING: grounding calls Pallavi didi 'an older cousin', but the passage only says she 'came for the holidays'; perspective answer calls Rumi 'a friend', also unstated (Rumi is a younger neighbour child)."], "suggested_fix": "Grounding: 'an older girl visiting for the holidays'; perspective answer: 'because it came from Himani, one of the players, rather than from didi'."}
+{"sno": 5740, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5529, "variant": 5, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5491, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5543, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5549, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5553, "variant": 1, "verdict": "fix", "issues": ["DISCLOSURE (c): Afreen reveals exhaustion and self-blame ('hating herself'); Ms Kurian stays, listens and takes her to the counsellor the same day (good), but never tells Afreen it is not her fault."], "suggested_fix": "Add one line from Ms Kurian, e.g. 'You haven't done anything wrong. You've been carrying too much on your own.', before walking her to the counsellor."}
+{"sno": 5556, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5560, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5609, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5611, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5657, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5660, "variant": 1, "verdict": "fix", "issues": ["PERSPECTIVE (e): 'What might Madhav do differently at work?' asks for a choice (duplicates application), not how Madhav sees or is affected by the story."], "suggested_fix": "Reframe: 'What might it be like for Madhav to hear his uncle felt he carried the whole district?' or ask how Selvam might have seen the new hill student."}
+{"sno": 5675, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
