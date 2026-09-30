@@ -1,0 +1,67 @@
+{"sno": 4856, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4882, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4838, "variant": 1, "stage": "culture", "verdict": "fix", "issues": ["Grounding says the no is repeated 'to the families'; the letter only mentions Vinita's own parents."], "suggested_fix": "Change grounding to 'repeats the calm no to her parents' (or 'to the family')."}
+{"sno": 4843, "variant": 2, "stage": "culture", "verdict": "fix", "issues": ["Dowry demands are never shown: the passage lists purchases and debt but no demand from the groom's side, so the row's 'meet demands out of fear' is only implied.", "Application answer says Uday 'borrowed from a bank'; the passage only shows 'the bank man visiting twice' (hidden fact).", "Row's second half (change needs many families to say no) is not shown; 'four families did the same' shows spread, not refusal, and the custom is never named as harmful (culture addendum)."], "suggested_fix": "Add one line showing the demand (e.g. a list from the groom's family) and one line where someone in the lane names the custom as harmful or a family declines; rewrite the application answer to 'took on bank debt and sold the plot' only if the passage states the loan."}
+{"sno": 4954, "variant": 2, "stage": "culture", "verdict": "fix", "issues": ["Receiver row: Eshaan's experience of feeling unfairly targeted is barely visible; the observer recipe leaves it as 'can't tell if hurt or just cross'.", "Complaint is about the ball hitting a car rather than noise, drifting from the 'noise complaints' subtype."], "suggested_fix": "Let Sudha overhear a line from Eshaan (e.g. 'We're always the problem') and make Mr. Khanna's complaint about the evening noise as well as the car."}
+{"sno": 4853, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4915, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4949, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4978, "variant": 2, "stage": "culture", "verdict": "fix", "issues": ["mental_state answer is ungrammatical from pronoun avoidance: 'answered with facts about own life'."], "suggested_fix": "Rewrite as 'answered with facts about Rashmi's own life' or 'with personal facts'."}
+{"sno": 4880, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4936, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4861, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4889, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4983, "variant": 1, "stage": "culture", "verdict": "fix", "issues": ["Passage says 'my relatives warned me' then Lalremsiami refers to 'your aunt', who was never introduced.", "Application answer says Varun 'arranged a meeting at Diwali'; the passage says the aunt wants to meet, nothing arranged."], "suggested_fix": "Have Varun say 'my aunt warned me' and change the answer to 'told the aunt about Lalremsiami, who now wants to meet at Diwali'."}
+{"sno": 4897, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4953, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4927, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4881, "variant": 2, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4898, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4935, "variant": 1, "stage": "culture", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4930, "variant": 1, "stage": "culture", "verdict": "pass", "issues": ["Forced item checked: bribe shown briefly, not instructional; shame is on the page and the application answer offers an honest talk. Passes."], "suggested_fix": ""}
+{"sno": 4930, "variant": 2, "stage": "culture", "verdict": "pass", "issues": ["Forced item checked: 'Don't tell Papa' secret is handled by the application answer (talk to mother or a trusted adult); not a harm disclosure. Passes."], "suggested_fix": ""}
+{"sno": 5194, "variant": 1, "stage": "execution", "verdict": "fix", "issues": ["Perspective question 'What did the compliance officer's reply show?' does not centre how another person sees or is affected; it reads as a second application question."], "suggested_fix": "Ask 'How might the compliance officer see Jasleen's email?' and answer from the thanks, review and keep-notes request."}
+{"sno": 5127, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5169, "variant": 2, "stage": "execution", "verdict": "fix", "issues": ["Perspective question 'Why might Jaya have written this letter to Mohit?' centres Jaya again, the same person as the mental_state question."], "suggested_fix": "Centre Mohit: 'How might Mohit use Jaya's letter?' or 'What might Mohit take from the two lists?'."}
+{"sno": 5089, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5123, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5111, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5013, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5114, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4998, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5099, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5117, "variant": 2, "stage": "execution", "verdict": "fix", "issues": ["Emoji added to the end of the last (perspective) answer by habit, which rule 10 forbids; it adds no feeling."], "suggested_fix": "Remove the 🙂 from the perspective answer."}
+{"sno": 5025, "variant": 2, "stage": "execution", "verdict": "fix", "issues": ["mental_state answer names no feeling for Chinmay ('the timing was never quite right', 'daunting' describes the task)."], "suggested_fix": "Name a feeling, e.g. 'Chinmay felt uneasy about the big chapter and relieved each time the start moved'."}
+{"sno": 5115, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5189, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5002, "variant": 2, "stage": "execution", "verdict": "fix", "issues": ["mental_state answer gives Mei's intention only and names no feeling."], "suggested_fix": "Add a feeling, e.g. 'Mei felt concerned but kind, and wanted Olga to see the gap without being blamed'."}
+{"sno": 5172, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5003, "variant": 1, "stage": "execution", "verdict": "fix", "issues": ["Timeline logic wobbles: the courier already has a delivery date (22nd) for the samples, yet Swati says Pooja should be 'asking the supplier for samples' today.", "Perspective answer says Swati wants Pooja to work out dates alone, but Swati states the conclusion herself."], "suggested_fix": "Make the samples not yet ordered ('the supplier needs a week to send them'), and drop 'work out the dates alone' from the answer or let Pooja reach the start date herself."}
+{"sno": 5118, "variant": 2, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5133, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5073, "variant": 1, "stage": "execution", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5296, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5427, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5355, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5232, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5348, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5438, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5378, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5418, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5217, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5343, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5348, "variant": 1, "stage": "wellbeing", "verdict": "fix", "issues": ["Age fit: the row is 23-26 but the elder describes being 'the boy who slept late' with no age, so the labelled person reads as a child or teen."], "suggested_fix": "Anchor the age, e.g. 'At twenty-three, back home after college, I was still the lazy one'."}
+{"sno": 5409, "variant": 1, "stage": "wellbeing", "verdict": "fix", "issues": ["Garbled self-introduction: 'When I was fifteen, I'm Vidya and I was already taller than my mother' mixes two sentences."], "suggested_fix": "Split it: 'I'm Vidya. When I was fifteen and already taller than my mother, my science teacher would say...'."}
+{"sno": 5428, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5369, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5206, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5260, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5435, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5224, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5285, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5315, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5358, "variant": 1, "stage": "wellbeing", "verdict": "fix", "issues": ["Observer tag: the observer (Shreya) appears only in the Monday beat and then vanishes; the passage centres Lalremsiami, the one delaying.", "mental_state centres Lalremsiami (the observed person) instead of the observer, and there is no Shreya inner state at all (house rule e)."], "suggested_fix": "Keep Shreya noticing in each beat (the tight jaw, Manoj's confusion) and ask the mental_state question about Shreya; keep the perspective question on Lalremsiami or Manoj."}
+{"sno": 5329, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5298, "variant": 2, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5297, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 5221, "variant": 1, "stage": "wellbeing", "verdict": "pass", "issues": [], "suggested_fix": ""}
