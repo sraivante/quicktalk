@@ -369,3 +369,4 @@ python3 scripts/export_dataset.py
 - 13:48 Full groups 50-51 done (8 PASS; expression complete, situational started). Launched 66-67. **Next full pair: 68-69.** full: batches 341/1418 (24.0%) | records 7414/30520 (24.3%) | rows 1593/7689 (20.7%)
 - 13:48 Full groups 52-53 done (12 PASS). Note for critic: 400 v3 agent reshaped a two-female-cast couple into husband+sister citing village setting (setting-based judgement; check). Launched 68-69. **Next full pair: 70-71.** full: batches 341/1418 (24.0%) | records 7414/30520 (24.3%) | rows 1593/7689 (20.7%)
 - 13:49 Full groups 54-55 done (12 PASS). Launched 70-71. **Next full pair: 72-73.** full: batches 343/1418 (24.2%) | records 7454/30520 (24.4%) | rows 1613/7689 (21.0%)
+- 13:52 Full groups 56-57 done (12 PASS). Launched 72-73. **Next full pair: 74-75.** full: batches 350/1418 (24.7%) | records 7594/30520 (24.9%) | rows 1683/7689 (21.9%)
