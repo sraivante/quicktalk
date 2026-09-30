@@ -351,3 +351,4 @@ python3 scripts/export_dataset.py
 - 12:29 Full groups 20-21 done (8 PASS, core complete v15). Launched 30-31. **Next full pair: 32-33.** full: batches 136/1418 (9.6%) | records 3450/30520 (11.3%) | rows 437/7689 (5.7%)
 - 12:30 Full groups 18-19 done (12 PASS). Launched 32-33. **Next full pair: 34-35.** full: batches 137/1418 (9.7%) | records 3460/30520 (11.3%) | rows 437/7689 (5.7%)
 - 12:31 Full groups 16-17 done (12 PASS). CRITIC CHECK: 94 v15 softened (low mood -> left behind) to dodge the peer-disclosure rule (agent predates the no-dodging line). Launched 34-35. **Next full pair: 36-37.** full: batches 140/1418 (9.9%) | records 3530/30520 (11.6%) | rows 457/7689 (5.9%)
+- 12:36 Full groups 4-5 done (12 PASS). Launched 36-37. **Next full pair: 38-39.** full: batches 150/1418 (10.6%) | records 3830/30520 (12.5%) | rows 537/7689 (7.0%)
