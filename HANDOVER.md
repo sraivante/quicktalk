@@ -274,3 +274,4 @@ python3 scripts/export_dataset.py
 - 08:37 Repair9 groups 0 (deception: 4625 same-night step, 4637 same-day, 4645 v2 new beat, feelings added) and 9 done. Launched 17, 18. Running: 10,12,13,14,15,16,17,18. **Next repair9 group: 20.** Done: 0-9, 11.
 - 08:37 Repair9 group 10 done (dynamics: 10 pronoun fixes, several found by sweep beyond the WARNs). Launched 20. Running: 12,13,14,15,16,17,18,20. **Next repair9 group: 21.** Done: 0-11.
 - 08:37 Repair9 group 16 done (8 pronoun/relationship fixes). Launched 21. Running: 12,13,14,15,17,18,20,21. **Next repair9 group: 22.** Done: 0-11, 16.
+- 08:37 Repair9 groups 12, 14, 19, 36 done. Launched 22, 23. Running: 13,15,17,18,20,21,22,23. **Next repair9 group: 24.** Done: 0-12, 14, 16, 19, 36.
