@@ -405,3 +405,4 @@ python3 scripts/export_dataset.py
 - 17:14 Full groups 118-119 done (12 PASS; ~20 post-ship pronoun fixes synced). Launched 138-139. **Next full pair: 140-141.** full: batches 762/1418 (53.7%) | records 17086/30520 (56.0%) | rows 3917/7689 (50.9%)
 - Full groups 116-117 done (12 PASS). Launched 140-141. **Next full pair: 142-143.** full: batches 781/1418 (55.1%) | records 17416/30520 (57.1%) | rows 3967/7689 (51.6%)
 - Full groups 128-129 done (12 PASS; 3888 cast name moved to fit the young-man role). Launched 142-143. **Next full pair: 144-145.** full: batches 794/1418 (56.0%) | records 17663/30520 (57.9%) | rows 4026/7689 (52.4%)
+- Full groups 126-127 done (12 PASS; 3744 used Nihal for a he-row). Launched 144-145. **Next full pair: 146-147.** full: batches 796/1418 (56.1%) | records 17723/30520 (58.1%) | rows 4036/7689 (52.5%)
