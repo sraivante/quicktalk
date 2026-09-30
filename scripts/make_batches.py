@@ -28,10 +28,10 @@ NAMES = json.load(open(J('config', 'names.json'), encoding='utf-8'))
 def cast_for(key, recipe, n=2, used=None):
     """Deterministic names; `used` (a dict name->count for the current batch) keeps any name to at most 2 uses per batch."""
     pool = NAMES['global'] if recipe.split('+')[0] == 'R8' else NAMES['india']
-    h = int(hashlib.sha1(str(key).encode()).hexdigest(), 16)
     out, i = [], 0
     while len(out) < n:
-        nm = pool[(h + i * 7919) % len(pool)]; i += 1
+        # hash each slot separately: a fixed step gave every first name the same partner across rows
+        nm = pool[int(hashlib.sha1(f'{key}:{i}'.encode()).hexdigest(), 16) % len(pool)]; i += 1
         if nm in out or (used is not None and used.get(nm, 0) >= 2 and i < 10 * len(pool)): continue
         out.append(nm)
     if used is not None:

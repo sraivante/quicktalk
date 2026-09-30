@@ -3,7 +3,7 @@ Variant ids in this batch: 1, 2 (2 per row). Rows in this batch: 1. Expected rec
 
 RECIPES USED IN THIS BATCH (each row's "plan" maps variant id to a code)
 R1: Third-person narrative in an urban Indian setting (city flat, colony, market, school, office).
-R2: Dialogue-heavy family or home scene (mostly spoken lines, little narration), any setting.
+R2: Dialogue-heavy scene (mostly spoken lines, little narration): a family or home scene when the counterpart is family; otherwise set where that relationship naturally happens (class, office, team, street), still mostly dialogue.
 
 STAGE INSTRUCTIONS
 Rows are one STAGE of a longer arc (see "Stage k: name" in the subtype). The passage must make the stage recognisable by its cues and hint at what came before, without narrating the whole arc. The application question asks what turning point or intervention is available at this stage. The perspective question asks what the other person in the arc is experiencing now. For addiction, extremism, scams, grief, burnout and self-harm-adjacent arcs, focus on recognition and support, no methods.
@@ -17,6 +17,6 @@ TAG RULE (applies when the subtype ends in a bracketed tag): the tag decides the
 - [Thinking] = the reasoning is visible (inner speech or explaining aloud); [Action] = ordered concrete steps; [Pitfall] = the approach visibly goes wrong with a consequence; [Revision] = the person notices trouble and changes course.
 
 ROWS (JSON, each with its plan):
-{"sno": 3348, "plan": {"1": "R1", "2": "R2"}, "cast": {"1": ["Pranav", "Vidya"], "2": ["Jeevan", "Rashmi"]}, "age": "23–26", "topic": "Interaction Dynamics", "subtopic": "Relocation adjustment", "subtype": "Stage 2: Logistics and small frustrations [Observer]", "description": "A local colleague sees a newcomer struggle with the flat, food and language and offers a lunch, a tip and a weekend invitation. Small local kindnesses shorten the hardest weeks more than grand welcomes.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: anger"]}
+{"sno": 3348, "plan": {"1": "R1", "2": "R2"}, "cast": {"1": ["Madhav", "Pema"], "2": ["Irawati", "Imran"]}, "age": "23–26", "topic": "Interaction Dynamics", "subtopic": "Relocation adjustment", "subtype": "Stage 2: Logistics and small frustrations [Observer]", "description": "A local colleague sees a newcomer struggle with the flat, food and language and offers a lunch, a tip and a weekend invitation. Small local kindnesses shorten the hardest weeks more than grand welcomes.", "graph_context": ["this subtopic also appears at ages: 18–22", "related mind states: anger"]}
 
 Return exactly 2 JSON Lines and nothing else.

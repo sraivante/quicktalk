@@ -40,7 +40,7 @@ def copied(passage, desc, n=5):
 MSCUE=re.compile(r"\b(feel|felt|think|thought|want|worr|afraid|scared|hope|intend|mean|suggest|show|reveal|why|mind|believe|sure|realis|realiz|expect|wish|proud|upset|angry|happy|sad|nervous|anxious|embarrass|asham|guilt|relie|seem|emotion|mood|made)",re.I)
 EMOQUOTA=0.6
 GPRON=re.compile(r"\b(he|she|him|his|her|hers|himself|herself)\b",re.I)
-GCUE=re.compile(r"\b(he|she|him|his|her|hers|himself|herself|boy|girl|man|woman|men|women|son|daughter|brother|sister|mother|father|mom|mum|dad|papa|mama|amma|appa|ammi|abbu|nani|nana|dadi|dada|aunt|aunty|auntie|uncle|didi|bhaiya|bhai|anna|akka|grandma|grandpa|grandmother|grandfather|wife|husband|girlfriend|boyfriend|sir|madam|ma'am|mr|mrs|ms|miss|lady|gentleman|beta|beti|nephew|niece|bhabhi|chacha|chachi|mami|masi|mausi|bua|khala|dadu|paati|thatha|ammamma|grandson|granddaughter|bride|groom|actress|waiter|waitress|queen|king|prince|princess)\b",re.I)
+GCUE=re.compile(r"\b(he|she|him|his|her|hers|himself|herself|boy|girl|man|woman|men|women|son|daughter|brother|sister|mother|father|mom|mum|dad|papa|mama|amma|appa|ammi|abbu|nani|nana|dadi|dada|aunt|aunty|auntie|uncle|didi|bhaiya|bhai|anna|akka|grandma|grandpa|grandmother|grandfather|wife|husband|girlfriend|boyfriend|sir|madam|ma'am|mr|mrs|ms|miss|lady|gentleman|beta|beti|nephew|niece|bhabhi|chacha|chachi|mami|masi|mausi|bua|khala|apa|maasi|mausa|atya|atte|phuppo|phupho|phupi|chachu|mamu|mama-ji|jiju|behen|bahen|bhabi|nanu|nanima|thakuma|thakurda|dida|dadima|ajji|ajja|ajoba|aaji|periamma|chithi|chitappa|periappa|athai|mami-ji|veerji|paaji|bibi|begum|miyan|amma-ji|papa-ji|dadu|paati|thatha|ammamma|grandson|granddaughter|bride|groom|actress|waiter|waitress|queen|king|prince|princess)\b",re.I)
 def ungendered_pronoun(r):
     """answers/grounding use he/she although the passage has no gender cue at all"""
     if GCUE.search(r.get('passage','')): return False
@@ -171,6 +171,11 @@ batch_checks(allrecs, fails)
 for x in allrecs:
     qa_=x.get('qa')
     if isinstance(qa_,list) and len(qa_)>1 and not MSCUE.search(str(qa_[1].get('q',''))): print(f'WARN {x.get("sno")} v{x.get("variant")}: mental_state question may be plain recall: {qa_[1].get("q")}')
+for x in allrecs:
+    ps=str(x.get('passage',''))
+    if len(re.findall(r"\bI\b|\bI'm\b|\bmy\b",ps))>=4:
+        txt=' '.join(str(q.get('a',''))+' '+str(q.get('q','')) for q in (x.get('qa') or []) if isinstance(q,dict))+' '+str(x.get('grounding',''))
+        if GPRON.search(txt): print(f'WARN {x.get("sno")} v{x.get("variant")}: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it')
 last_emo=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and len(x['qa'])==4 and ecount(str(x['qa'][3].get('a','')))>0)
 if allrecs and last_emo>max(2,len(allrecs)//4): fails['batch'].append(f'{last_emo}/{len(allrecs)} records put an emoji on the last answer (max 25%); place emojis where the feeling is, not by habit at the end')
 emo_recs=sum(1 for x in allrecs if isinstance(x.get('qa'),list) and any(isinstance(q,dict) and ecount(str(q.get('a','')))>0 for q in x['qa']))
