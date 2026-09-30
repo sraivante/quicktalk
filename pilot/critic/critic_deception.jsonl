@@ -1,0 +1,61 @@
+{"sno": 4688, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4689, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4705, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4739, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4697, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4615, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4672, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4751, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4726, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4679, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4770, "variant": 1, "verdict": "pass", "issues": ["minor: emoji placed at the end of the last answer; fine once, avoid as a habit."], "suggested_fix": ""}
+{"sno": 4606, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4697, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4627, "variant": 2, "verdict": "pass", "issues": ["minor: [Actor] row told via R12 observer; the privacy/secrecy distinction is voiced by Seema, not by the teen actor. Acceptable because the recipe requires an observer account."], "suggested_fix": ""}
+{"sno": 4768, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4666, "variant": 2, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Manjula realise' is answered with a realisation only."], "suggested_fix": "Add the feeling, e.g. 'Manjula felt guilty and dismayed, realising the softened messages had made Manjula part of the fight.'"}
+{"sno": 4734, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4692, "variant": 1, "verdict": "fix", "issues": ["(e) Observer row: mental_state and perspective both centre Gargi (the observed person); mental_state should centre the observer, Lalremsiami."], "suggested_fix": "Change mental_state to Lalremsiami, e.g. 'What was Lalremsiami feeling as she recognised the account number?' -> concerned and careful, wanting to protect Gargi without shaming her; keep perspective on Gargi."}
+{"sno": 4730, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4762, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'felt the pull of excuses' is a temptation, not an emotion."], "suggested_fix": "Name the feeling: 'Irfan felt ashamed and tempted to defend himself with excuses, but chose not to because the lie was his.'"}
+{"sno": 4658, "variant": 2, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'feels she must be at fault' is a belief; no emotion word although the passage gives burning cheeks."], "suggested_fix": "'It suggests she feels anxious and ashamed, no longer trusting her own memory, and rushes to take the blame even when almost sure she isn't at fault.'"}
+{"sno": 4682, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4668, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4712, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4765, "variant": 2, "verdict": "pass", "issues": ["minor: perspective question 'How did the officer respond' is a literal recount rather than the officer's view."], "suggested_fix": ""}
+{"sno": 4616, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4593, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4743, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: answer explains Ishita's aim (be paid on time) with no feeling."], "suggested_fix": "Re-ask as a feeling, e.g. 'How did Ishita feel telling Arnab about the late payments?' -> 'a little exposed but relieved to be honest, wanting terms built on the real need.'"}
+{"sno": 4722, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4758, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4623, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4718, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'Shreya was thinking about...' names no feeling."], "suggested_fix": "Add: 'Shreya felt amused and a little annoyed that the video had planted a worry she didn't have...'."}
+{"sno": 4768, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4668, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4749, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4683, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4748, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4716, "variant": 1, "verdict": "pass", "issues": ["minor: 'Chandan Glow' is an invented product name; fine if fictional but safer as 'a sandalwood face powder' to avoid colliding with a real brand."], "suggested_fix": ""}
+{"sno": 4618, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4769, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4624, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4624, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4625, "variant": 1, "verdict": "fix", "issues": ["(d) Safety/disclosure: Zainab says 'I'm so tired of everything' (possible self-harm warning sign) and the qualified help is deferred to 'Tomorrow, 11'; the diary ends overnight with only an alarm set. Asking 'do you feel safe' is in-beat, but no same-night safety step is shown."], "suggested_fix": "Add a same-night step in the entry: Yusuf agrees Zainab will call Yusuf or the hostel warden / a helpline tonight if the feelings get worse, and Yusuf checks in with Zainab before sleeping; or bring the counsellor/warden in that evening. Mirror it in the application answer."}
+{"sno": 4625, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4627, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Dilnaz realise' is answered with a realisation only."], "suggested_fix": "'Dilnaz felt scared and trapped while hiding the messages, then relieved on realising they were a dangerous secret, not privacy.'"}
+{"sno": 4637, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4637, "variant": 2, "verdict": "fix", "issues": ["(d) The head teacher saw the humiliating bench punishment 'the week before' and acted only after Hafsa lied; an adult noticing harm to a child waits a week."], "suggested_fix": "Have the head teacher see the bench that same morning (or act the day it was seen), then speak to Hafsa and Vinita Ma'am the same day."}
+{"sno": 4640, "variant": 1, "verdict": "fix", "issues": ["(c)/(5) TAG POV: [Observer] row, but the passage is told from Zubin, who both holds and catches his own bias (reads as Actor/Thinking); no bystander carries the POV.", "(e) mental_state answer gives a thought/want/realisation but names no feeling: 'Why did Zubin almost laugh Payal off' gives reasons only."], "suggested_fix": "Either shift POV to Payal (the bystander who watches Zubin trust the charming stall) or to a friend beside Zubin; and name a feeling in mental_state (e.g. 'Zubin felt at ease with the friendly man and faintly impatient with awkward Payal')."}
+{"sno": 4640, "variant": 2, "verdict": "fix", "issues": ["(e) Observer row: Bhavna is the observer, Pradeep the observed; mental_state centres Pradeep and perspective centres the second applicant, so the observed person is not the perspective centre."], "suggested_fix": "Make mental_state about Bhavna (e.g. uneasy that Pradeep is being charmed) and perspective about Pradeep (how he sees the first applicant after Bhavna's point)."}
+{"sno": 4641, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: Pablo 'knows' trust proves nothing and 'wants facts'; no emotion."], "suggested_fix": "'Pablo feels warmly towards the owner but uneasy about the cheap price, so he checks rather than relying on the feeling.'"}
+{"sno": 4641, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4642, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'What was Harish thinking' answered with reasoning only."], "suggested_fix": "'Harish felt uneasy about the big amount, new number and rush, but didn't want to accuse Amandeep, so checked through the saved number.'"}
+{"sno": 4642, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4643, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: answer says what Ayesha was thinking about (the notice board list) with no feeling; the passage offers 'my face went hot'."], "suggested_fix": "Ask about the moment of being seen through: 'How did Ayesha feel when Lokesh Sir mentioned the written test?' -> embarrassed, face hot, realising the praise had been about the team, not him."}
+{"sno": 4643, "variant": 2, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: 'What did Asif want' answered with a want only."], "suggested_fix": "Use the passage cue: 'He looked embarrassed' -> 'Asif felt embarrassed when the coach named the compliments, since he had hoped praise would win a starting place.'"}
+{"sno": 4644, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: Rafiq 'thought Jagdish might be jealous' with no feeling."], "suggested_fix": "'Rafiq felt stung and defensive about the criticism, so he suspected Jagdish might be jealous, while the seniors' praise felt good.'"}
+{"sno": 4644, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4645, "variant": 1, "verdict": "fix", "issues": ["(e) mental_state answer gives a thought/want/realisation but names no feeling: answer explains why refusing felt rude but names no emotion (passage gives 'ten feet tall')."], "suggested_fix": "'Amandeep felt flattered and warm, then awkward and almost guilty about pausing, because after the compliments disagreeing felt rude.'"}
+{"sno": 4645, "variant": 2, "verdict": "fix", "issues": ["(i) Central beat duplicates v1 of the same row: lavish praise followed by a fee request, then pause and verify. Only the setting (lunch vs chat) differs."], "suggested_fix": "Change what the flatterer wants in one variant to something non-money (e.g. a senior praising Anirban to get a proxy attendance signature or a vote), keeping the chat recipe and the pause-to-check."}
+{"sno": 4675, "variant": 1, "verdict": "pass", "issues": [], "suggested_fix": ""}
+{"sno": 4675, "variant": 2, "verdict": "pass", "issues": [], "suggested_fix": ""}
