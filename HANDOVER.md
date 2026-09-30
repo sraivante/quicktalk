@@ -408,3 +408,4 @@ python3 scripts/export_dataset.py
 - Full groups 126-127 done (12 PASS; 3744 used Nihal for a he-row). Launched 144-145. **Next full pair: 146-147.** full: batches 796/1418 (56.1%) | records 17723/30520 (58.1%) | rows 4036/7689 (52.5%)
 - Full groups 130-131 done (12 PASS). Launched 146-147. **Next full pair: 148-149.** full: batches 800/1418 (56.4%) | records 17803/30520 (58.3%) | rows 4056/7689 (52.8%)
 - Full groups 132-133 done (10 PASS; ~15 hidden-misgendering fixes by hand). Launched 148-149. **Next full pair: 150-151.** full: batches 806/1418 (56.8%) | records 17983/30520 (58.9%) | rows 4096/7689 (53.3%)
+- Full groups 134-135 done (12 PASS; all failed first run, mostly 4-6 length/pronouns; b0007/b0009 needed a 2nd repair — accepted, validator is the gate; 5608 son-row cast reassigned). Launched 150-151. **Next full pair: 152-153.** full: batches 842/1418 (59.4%) | records 19063/30520 (62.5%) | rows 4216/7689 (54.8%)
