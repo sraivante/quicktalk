@@ -427,3 +427,4 @@ python3 scripts/export_dataset.py
 - Full groups 168-169 done (12 PASS). Launched 182-183. **Next full pair: 184-185.** full: batches 1010/1418 (71.2%) | records 22407/30520 (73.4%) | rows 4797/7689 (62.4%)
 - Full groups 164-165 done (12 PASS). Launched 184-185. **Next full pair: 186-187.** full: batches 1027/1418 (72.4%) | records 22810/30520 (74.7%) | rows 4900/7689 (63.7%)
 - Full groups 176-177 done (12 PASS, deception stage). Critic must sample grooming/blackmail/self-harm-threat rows 4673, 4683-4686, 4726, 4728. Launched 186-187. **Next full pair: 188-189.** full: batches 1057/1418 (74.5%) | records 23423/30520 (76.7%) | rows 5030/7689 (65.4%)
+- Full groups 166-167 done (12 PASS; b0023 briefly in out/ pre-pass, verified committed copy passes). Launched 188-189. **Next full pair: 190-191.** full: batches 1065/1418 (75.1%) | records 23562/30520 (77.2%) | rows 5050/7689 (65.7%)
