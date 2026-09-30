@@ -1,0 +1,1323 @@
+core	v01-03_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0008	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 73 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 78 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0009	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 85 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 88 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0010	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 94 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 100 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0011	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 104 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0012	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 112 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 118 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0013	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 124 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0015	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 150 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0022	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 214 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0024	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 236 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0025	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 247 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0026	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 255 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 260 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0028	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 280 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v01-03_b0031	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 303 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v01-03_b0032	rc=0	fail=0	warn=0	All 7 rows passed.
+core	v04-05_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0005	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 49 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0008	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 72 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 77 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0009	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 89 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0010	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 100 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0011	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 104 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 106 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0012	rc=0	fail=0	warn=4	All 10 rows passed.
+	WARN 112 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 113 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 114 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 116 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0016	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 152 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0020	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 193 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0021	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 209 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0022	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 218 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0023	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 223 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 224 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 227 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0024	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 234 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0025	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 248 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0026	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 254 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0027	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 269 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 270 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0028	rc=0	fail=0	warn=4	All 10 rows passed.
+	WARN 273 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 275 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 276 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 277 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+core	v04-05_b0030	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 291 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 298 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 300 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0031	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 302 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 307 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 307 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+core	v04-05_b0032	rc=0	fail=0	warn=0	All 7 rows passed.
+expression	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0025	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0031	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 2364 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 2370 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0032	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2378 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0033	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2385 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0034	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0035	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0036	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0037	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0038	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2440 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0039	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0040	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0041	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2466 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0043	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0044	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 2498 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 2500 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0045	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2506 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0046	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2521 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0047	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0048	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0049	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0050	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2558 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0051	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0052	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0053	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0054	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0055	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0056	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0057	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 2629 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 2629 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0058	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2633 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0059	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0060	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0061	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0062	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0063	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 2690 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 2691 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0064	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0065	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2710 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0066	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0067	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0068	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0069	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0070	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2754 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0071	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0072	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0073	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0074	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0075	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0076	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0077	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0078	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0079	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0080	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 2854 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 2859 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+expression	v01-02_b0081	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0082	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0083	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0084	rc=0	fail=0	warn=0	All 10 rows passed.
+expression	v01-02_b0085	rc=0	fail=0	warn=0	All 6 rows passed.
+situational	v01-01_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0002	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 331 v1: mental_state question may be plain recall: How can you tell Binita was testing the rule and not just being rude when she said "No!"?
+situational	v01-01_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0005	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 360 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0025	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0032	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0033	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0034	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0035	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0036	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0037	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0038	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0039	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0040	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0041	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0043	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0044	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0045	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 758 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0046	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0047	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0048	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 788 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0049	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0050	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0051	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0052	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0053	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0054	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 854 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0055	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0056	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0057	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0058	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0059	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0060	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0061	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0062	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0063	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0064	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0065	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0066	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 974 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0067	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 986 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0068	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0069	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0070	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1009 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0071	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0072	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0073	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0074	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0075	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0076	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0077	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1084 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0078	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0079	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0080	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0081	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0082	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0083	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0084	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1155 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0085	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0086	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0087	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0088	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0089	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0090	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0091	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1219 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0092	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0093	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0094	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0095	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0096	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0097	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1286 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0098	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1293 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0099	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0100	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0101	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0102	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0103	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0104	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0105	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0106	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0107	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0108	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0109	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0110	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1408 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0111	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0112	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0113	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1446 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0114	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0115	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0116	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0117	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0118	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0119	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0120	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0121	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0122	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1528 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0123	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0124	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1552 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0125	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0126	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1570 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0127	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1585 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0128	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0129	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 1601 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0130	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0131	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0132	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0133	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0134	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0135	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0136	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0137	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0138	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0139	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0140	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 1708 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 1714 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0141	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0142	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0143	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0144	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0145	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0146	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0147	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0148	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0149	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0150	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0151	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0152	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0153	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0154	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0155	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0156	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0157	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0158	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0159	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0160	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0161	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0162	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0163	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0164	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0165	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0166	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0167	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0168	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0169	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0170	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0171	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0172	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0173	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2045 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+situational	v01-01_b0174	rc=0	fail=0	warn=0	All 10 rows passed.
+situational	v01-01_b0175	rc=0	fail=0	warn=0	All 4 rows passed.
+dynamics	v01-02_b0001	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2911 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0003	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2931 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0004	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2939 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0007	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2970 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0008	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2986 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0009	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 2988 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0010	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3006 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0014	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3043 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0017	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3068 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0020	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3104 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0025	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3149 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0026	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3165 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0027	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3170 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0030	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3199 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0031	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3212 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3215 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0032	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3220 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3222 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3223 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0033	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3233 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0034	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3244 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0035	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3251 v1: mental_state question may be plain recall: What fears are keeping Devika from voicing these doubts?
+	WARN 3250 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3255 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0036	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0037	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0038	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0039	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3297 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0040	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3306 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0041	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+dynamics	v01-02_b0043	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3331 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0044	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3346 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+dynamics	v01-02_b0045	rc=0	fail=0	warn=0	All 1 rows passed.
+cognitive	v01-03_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0002	rc=0	fail=0	warn=4	All 10 rows passed.
+	WARN 3584 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3585 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3585 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3589 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0003	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3590 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3594 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0004	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3605 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0005	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3618 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0006	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3624 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0008	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3641 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3648 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3649 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0010	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3662 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0011	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3670 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0012	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3684 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3685 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3685 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0014	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3702 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0016	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3726 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3727 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0018	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3742 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0019	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3750 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0020	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3764 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3769 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0021	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3771 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3775 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3775 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0022	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3784 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3785 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0023	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3796 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3796 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0025	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0026	rc=0	fail=0	warn=4	All 10 rows passed.
+	WARN 3821 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3822 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3823 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3824 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0030	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3863 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3866 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3867 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0032	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0033	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3892 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3895 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0034	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0035	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0036	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0037	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3935 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0038	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0039	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0040	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3964 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3965 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3968 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0041	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0043	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0044	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 4002 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4004 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4009 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0045	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0046	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 4021 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4024 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4028 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0047	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 4030 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4037 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0048	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 4041 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4049 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0049	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4056 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0050	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4063 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0051	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4072 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v01-03_b0052	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0053	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0054	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v01-03_b0055	rc=0	fail=0	warn=2	All 9 rows passed.
+	WARN 4114 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4116 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0001	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3579 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0002	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3585 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0003	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3596 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0004	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3601 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3609 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0005	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3611 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3615 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0009	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3651 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3654 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0010	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3661 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3662 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3669 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0011	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3671 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0013	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3696 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0014	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3708 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0015	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3718 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0018	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3746 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3748 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3748 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0020	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3763 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3766 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3768 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0021	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3774 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0022	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3786 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0024	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3804 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3806 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0025	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3815 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3815 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0026	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3822 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3827 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0027	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3832 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3833 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3838 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0028	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3845 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0029	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 3851 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3858 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0032	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0033	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3892 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0034	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0035	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0036	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3926 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0037	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0038	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 3940 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0039	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 3950 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3955 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3959 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0040	rc=0	fail=0	warn=4	All 10 rows passed.
+	WARN 3960 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3961 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3966 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 3968 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0041	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0043	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0044	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4006 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0045	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0046	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4020 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0047	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0048	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 4040 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4044 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0049	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4053 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0050	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0051	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 4070 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 4073 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0052	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4083 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0053	rc=0	fail=0	warn=0	All 10 rows passed.
+cognitive	v04-05_b0054	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 4109 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+cognitive	v04-05_b0055	rc=0	fail=0	warn=1	All 9 rows passed.
+	WARN 4118 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0003	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 5470 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5471 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0004	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5473 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0008	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5518 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0011	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5542 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0013	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 5568 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5569 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5570 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0015	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5585 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0016	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5594 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0018	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5614 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0019	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5623 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0020	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 5632 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5633 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5640 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0024	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 5675 v1: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5678 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0025	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5686 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0027	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5711 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0028	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 5713 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5721 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0030	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5736 v3: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v01-03_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v01-03_b0032	rc=0	fail=0	warn=1	All 9 rows passed.
+	WARN 5754 v2: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0001	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5450 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0003	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5469 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0004	rc=0	fail=0	warn=2	All 10 rows passed.
+	WARN 5476 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5476 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0005	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5485 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0006	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5498 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0007	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 5503 v4: mental_state question may be plain recall: What is Sudha unsure about as she stares at the photo?
+	WARN 5505 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5508 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0009	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5523 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0014	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5572 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0016	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5600 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0017	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5604 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0022	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5653 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0024	rc=0	fail=0	warn=3	All 10 rows passed.
+	WARN 5675 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5679 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+	WARN 5680 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0025	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5683 v4: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0027	rc=0	fail=0	warn=1	All 10 rows passed.
+	WARN 5702 v5: first-person passage and he/she in questions/answers/grounding; check the narrator is not gendered unless the passage states it
+foundational	v04-05_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+foundational	v04-05_b0032	rc=0	fail=0	warn=0	All 9 rows passed.
+personality	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0025	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+personality	v01-02_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+group	v01-02_b0023	rc=0	fail=0	warn=0	All 1 rows passed.
+deception	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+deception	v01-02_b0019	rc=0	fail=0	warn=0	All 3 rows passed.
+culture	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+culture	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+body	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+execution	v01-02_b0021	rc=0	fail=0	warn=0	All 4 rows passed.
+wellbeing	v01-02_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+wellbeing	v01-02_b0025	rc=0	fail=0	warn=0	All 6 rows passed.
+planning	v01-01_b0001	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0002	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0003	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0004	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0005	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0006	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0007	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0008	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0009	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0010	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0011	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0012	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0013	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0014	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0015	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0016	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0017	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0018	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0019	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0020	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0021	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0022	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0023	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0024	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0025	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0026	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0027	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0028	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0029	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0030	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0031	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0032	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0033	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0034	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0035	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0036	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0037	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0038	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0039	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0040	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0041	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0042	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0043	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0044	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0045	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0046	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0047	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0048	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0049	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0050	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0051	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0052	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0053	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0054	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0055	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0056	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0057	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0058	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0059	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0060	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0061	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0062	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0063	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0064	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0065	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0066	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0067	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0068	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0069	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0070	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0071	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0072	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0073	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0074	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0075	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0076	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0077	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0078	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0079	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0080	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0081	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0082	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0083	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0084	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0085	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0086	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0087	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0088	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0089	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0090	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0091	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0092	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0093	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0094	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0095	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0096	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0097	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0098	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0099	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0100	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0101	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0102	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0103	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0104	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0105	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0106	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0107	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0108	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0109	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0110	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0111	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0112	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0113	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0114	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0115	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0116	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0117	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0118	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0119	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0120	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0121	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0122	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0123	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0124	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0125	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0126	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0127	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0128	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0129	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0130	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0131	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0132	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0133	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0134	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0135	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0136	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0137	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0138	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0139	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0140	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0141	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0142	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0143	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0144	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0145	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0146	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0147	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0148	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0149	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0150	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0151	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0152	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0153	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0154	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0155	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0156	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0157	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0158	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0159	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0160	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0161	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0162	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0163	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0164	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0165	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0166	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0167	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0168	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0169	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0170	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0171	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0172	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0173	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0174	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0175	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0176	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0177	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0178	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0179	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0180	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0181	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0182	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0183	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0184	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0185	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0186	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0187	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0188	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0189	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0190	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0191	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0192	rc=0	fail=0	warn=0	All 10 rows passed.
+planning	v01-01_b0193	rc=0	fail=0	warn=0	All 9 rows passed.
+graph	g_b0001	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0002	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0003	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0004	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0005	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0006	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0007	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0008	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0009	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0010	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0011	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0012	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0013	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0014	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0015	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0016	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0017	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0018	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0019	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0020	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0021	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0022	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0023	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0024	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0025	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0026	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0027	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0028	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0029	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0030	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0031	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0032	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0033	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0034	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0035	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0036	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0037	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0038	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0039	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0040	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0041	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0042	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0043	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0044	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0045	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0046	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0047	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0048	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0049	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0050	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0051	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0052	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0053	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0054	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0055	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0056	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0057	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0058	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0059	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0060	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0061	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0062	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0063	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0064	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0065	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0066	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0067	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0068	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0069	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0070	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0071	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0072	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0073	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0074	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0075	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0076	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0077	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0078	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0079	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0080	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0081	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0082	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0083	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0084	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0085	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0086	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0087	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0088	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0089	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0090	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0091	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0092	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0093	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0094	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0095	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0096	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0097	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0098	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0099	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0100	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0101	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0102	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0103	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0104	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0105	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0106	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0107	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0108	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0109	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0110	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0111	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0112	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0113	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0114	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0115	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0116	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0117	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0118	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0119	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0120	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0121	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0122	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0123	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0124	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0125	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0126	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0127	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0128	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0129	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0130	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0131	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0132	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0133	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0134	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0135	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0136	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0137	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0138	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0139	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0140	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0141	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0142	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0143	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0144	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0145	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0146	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0147	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0148	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0149	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0150	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0151	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0152	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0153	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0154	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0155	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0156	rc=0	fail=0	warn=0	6/6 clusters passed.
+graph	g_b0157	rc=0	fail=0	warn=0	4/4 clusters passed.

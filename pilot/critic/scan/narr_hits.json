@@ -1,0 +1,42 @@
+[
+[
+"core",
+"out/01_core/v04-05_b0011.jsonl",
+104,
+4,
+"q",
+"How might Appa feel if he learned about the narrator's system?"
+],
+[
+"core",
+"out/01_core/v04-05_b0023.jsonl",
+227,
+4,
+"a",
+"The narrator has seen Irfan skipping dinner and training at midnight, and wants Irfan to get support before harming his health."
+],
+[
+"core",
+"out/01_core/v04-05_b0024.jsonl",
+234,
+4,
+"q",
+"How might the narrator's mother have felt noticing her son shut in his room?"
+],
+[
+"core",
+"out/01_core/v04-05_b0027.jsonl",
+269,
+4,
+"a",
+"He did not care about the topic, so it may have been dull for him, but that made him ideal because the narrator had to explain clearly without help."
+],
+[
+"expression",
+"out/02_expression/v01-02_b0032.jsonl",
+2378,
+2,
+"q",
+"How old was the storyteller when Devika Ma'am set her rule?"
+]
+]
