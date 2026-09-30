@@ -345,3 +345,4 @@ python3 scripts/export_dataset.py
 - 12:10 Full groups 8-9 done (12 PASS). Leftover: 166 v11 'take him' for ungendered Joseph. Launched 18-19. **Next full pair: 20-21.** full: batches 83/1418 (5.9%) | records 2461/30520 (8.1%) | rows 317/7689 (4.1%)
 - 12:11 Full groups 10-11 done (12 PASS). Launched 20-21. **Next full pair: 22-23.** full: batches 85/1418 (6.0%) | records 2521/30520 (8.3%) | rows 317/7689 (4.1%)
 - 12:12 Full groups 0-1 done (12 PASS). Launched 22-23. **Next full pair: 24-25.** full: batches 88/1418 (6.2%) | records 2591/30520 (8.5%) | rows 317/7689 (4.1%)
+- 12:12 Full groups 6-7 done (12 PASS). CRITIC CHECK: 83 v9 and 88 v11 (01_core v09-11) were softened to avoid safety triggers - check fidelity to row. Added no-dodging rule to FULL_GEN.md. Launched 24-25. **Next full pair: 26-27.** full: batches 88/1418 (6.2%) | records 2591/30520 (8.5%) | rows 317/7689 (4.1%)
