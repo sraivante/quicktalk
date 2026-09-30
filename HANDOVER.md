@@ -401,3 +401,4 @@ python3 scripts/export_dataset.py
 - 17:01 Full groups 124-125 done (12 PASS; cognitive v15 complete). Launched 130-131. **Next full pair: 132-133.** full: batches 731/1418 (51.6%) | records 16557/30520 (54.2%) | rows 3897/7689 (50.7%)
 - 17:03 Full groups 110-111 done (12 PASS). Launched 132-133. **Next full pair: 134-135.** full: batches 734/1418 (51.8%) | records 16627/30520 (54.5%) | rows 3897/7689 (50.7%)
 - 17:04 Full groups 122-123 done (12 PASS). Launched 134-135. **Next full pair: 136-137.** full: batches 738/1418 (52.0%) | records 16687/30520 (54.7%) | rows 3897/7689 (50.7%)
+- 17:12 Full groups 120-121 done (12 PASS). Launched 136-137. **Next full pair: 138-139.** full: batches 760/1418 (53.6%) | records 17046/30520 (55.9%) | rows 3907/7689 (50.8%)
