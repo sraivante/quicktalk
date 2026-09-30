@@ -415,3 +415,4 @@ python3 scripts/export_dataset.py
 - Full groups 142-143 done (12 PASS; post-commit pronoun fixes to b0023-b0031 re-synced). Launched 158-159. **Next full pair: 160-161.** full: batches 890/1418 (62.8%) | records 20116/30520 (65.9%) | rows 4226/7689 (55.0%)
 - Full groups 144-145 done (12 PASS; ~30 hand-found narrator pronoun fixes re-synced). Launched 160-161. **Next full pair: 162-163.** full: batches 898/1418 (63.3%) | records 20276/30520 (66.4%) | rows 4236/7689 (55.1%)
 - Full groups 138-139 done (12 PASS). Launched 162-163. **Next full pair: 164-165.** full: batches 905/1418 (63.8%) | records 20426/30520 (66.9%) | rows 4266/7689 (55.5%)
+- Full groups 150-151 done (12 PASS). Launched 164-165. **Next full pair: 166-167.** full: batches 913/1418 (64.4%) | records 20546/30520 (67.3%) | rows 4306/7689 (56.0%)
