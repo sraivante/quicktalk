@@ -255,3 +255,4 @@ python3 scripts/export_dataset.py
 - 08:10 graph 164/165 done (12 PASS). Running: 166,168,172,174,176,178,180 (7 agents; no groups left to launch except culture 106, awaiting user). Progress: batches 994/1050 (94.7%) | records 15782/16200 (97.4%) | rows 8271/8629 (95.9%)
 - 08:11 graph 166/167 done (12 PASS; g_b0072 took ~3 repair rounds - critic sample it). Running: 168,172,174,176,178,180 (6 agents). Progress: batches 994/1050 (94.7%) | records 15782/16200 (97.4%) | rows 8271/8629 (95.9%)
 - 08:13 graph 172/173 done (12 PASS, 1 repair round each). Running: 168,174,176,178,180 (5 agents). Progress: batches 1006/1050 (95.8%) | records 15854/16200 (97.9%) | rows 8343/8629 (96.7%)
+- 08:14 graph 168/169 done (12 PASS; several clusters took >1 repair round - critic sample g_b0073-84). Running: 174,176,178,180 (4 agents). Progress: batches 1012/1050 (96.4%) | records 15890/16200 (98.1%) | rows 8379/8629 (97.1%)
