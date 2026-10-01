@@ -575,3 +575,4 @@ python3 scripts/export_dataset.py
 - 22:40 Run 7 full model received (1.92B pretrain tokens, pretrain eval 3.21, chat eval 2.17); offline test running into train/test_run7/ (bad-data attempt's test moved to train/test_run7_baddata/).
 - 22:50 Run 7 full offline test: 29% (run 6 28%, run 5 22%). Gains: grammar 39%, multiline_complex 36%, simple one-liners 25%; losses: story 14%, multiturn 24%.
 - 23:23 Maths test (train/test_math/): run 7 GSM8K test 2%, fresh easy sums 1%, seen laghumath 18%, seen easy sums 16%; run 6 3% overall. Cause likely digit-merging tokenizer.
+- 23:39 Run 7b (chat-only re-run) prepared: train/colab/quicktalk_chat_only.ipynb; behaviour capped 15k, maths out, patterns x4, 3 passes. Step 2 data generation (multiturn, stories, 2-question multi_question, grammar rule-name Why) next.

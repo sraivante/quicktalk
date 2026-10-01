@@ -263,3 +263,10 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (362 MB, Drive id 1aS7sHohvQy-dmNsUG-VFzsRKB6qBKt7H), sent in 35 parts. The bad-data attempt's test moved to
   train/test_run7_baddata/; the full model's offline test goes to train/test_run7/.
   Full run 7 offline test: 29% overall (run 6 28%); train/test_run7/compare_run6.md.
+- **Run 7b prep (chat-only re-run, user approved the chat-mix change).** Run 7 chat training was 54% behaviour + 14%
+  maths; conversation patterns only 32% (multiturn 5.5%). quicktalk_lm.py: `prepare --sft-only` (chat token files
+  only) and `--cap type=N` (seeded random cap on a type, training set only; the eval set is unchanged so eval loss
+  compares with run 7's 2.168); counts() tolerates missing pretrain files. New notebook train/colab/quicktalk_chat_only.ipynb:
+  copies run 7's tokenizer + pretrain_final.pt into MyDrive/quicktalk_run7b, prepare --sft-only --chat-repeat 4
+  --cap behaviour=15000 --cap math=0, 3 passes, lr 1.5e-4. Mix after caps: patterns 72%, behaviour 28%; 81,148 chats,
+  11.9M tokens. Local CPU smoke test (prepare, plan, 3 sft steps) passed.

@@ -231,12 +231,22 @@ def cmd_prepare(a):
         os.replace(out + '.tmp', out)
         log(f'{name}: {total:,} tokens')
 
-    def write_chat(name, paths, repeat=1):
+    def write_chat(name, paths, repeat=1, cap=()):
         out = os.path.join(d, name + '.bin')
         if os.path.exists(out): log('exists, skipping', out); return
         ids, mask, starts, types = [], [], [], []
+        caps = dict((k, int(v)) for k, v in (x.split('=') for x in cap))      # e.g. behaviour=15000 math=0 (training set only)
         def records():
-            for r in iter_jsonl(paths):
+            rows = list(iter_jsonl(paths))
+            if caps:                                   # keep a fixed random sample of the capped types (seeded, so re-runs match)
+                rng, keep = random.Random(0), {}
+                for t, n in caps.items():
+                    idx = [i for i, r in enumerate(rows) if r.get('metadata', {}).get('type') == t]
+                    keep[t] = set(rng.sample(idx, min(n, len(idx))))
+                rows = [r for i, r in enumerate(rows) if r.get('metadata', {}).get('type') not in caps
+                        or i in keep[r['metadata']['type']]]
+                log(f'{name}: capped ' + ', '.join(f'{t} to {len(keep[t]):,}' for t in caps))
+            for r in rows:
                 t = r.get('metadata', {}).get('type', '?')
                 for _ in range(repeat if t not in ('behaviour', 'raga', 'math') else 1): yield r   # upsample conversation patterns (not behaviour, raga or the large math set)
         for r in records():
@@ -254,9 +264,10 @@ def cmd_prepare(a):
     extra = sorted(glob.glob(os.path.join(a.extra, '*.txt'))) if a.extra else []
     reps = dict((k, int(v)) for k, v in (x.split('=') for x in a.extra_repeat))   # e.g. wordnet.txt=3
     extra = [p for p in extra for _ in range(reps.get(os.path.basename(p), 1))]
-    write_text('pretrain_train', own + extra)
-    write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
-    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat)
+    if not a.sft_only:                                                       # --sft-only: chat data only (chat-only re-run)
+        write_text('pretrain_train', own + extra)
+        write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
+    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat, cap=a.cap)
     write_chat('sft_val', [os.path.join(a.data, 'eval', 'sft_eval_all.jsonl')])
 
 # ----------------------------------------------------------------------------------------------- model
@@ -329,7 +340,8 @@ def build_model(cfg):
 def counts(workdir):
     import numpy as np
     d = os.path.join(workdir, 'data')
-    n = lambda f, dt=np.uint16: os.path.getsize(os.path.join(d, f)) // np.dtype(dt).itemsize
+    n = lambda f, dt=np.uint16: (os.path.getsize(os.path.join(d, f)) // np.dtype(dt).itemsize
+                                 if os.path.exists(os.path.join(d, f)) else 0)    # no pretrain files in a chat-only run
     return {'pretrain_tokens': n('pretrain_train.bin'), 'sft_tokens': n('sft_train.bin'),
             'sft_trained_tokens': int(np.fromfile(os.path.join(d, 'sft_train_mask.bin'), dtype=np.uint8).sum()),
             'pretrain_val_tokens': n('pretrain_val.bin'), 'sft_val_tokens': n('sft_val.bin')}
@@ -512,6 +524,8 @@ def main():
     p.add_argument('--extra', help='folder of extra English pretraining text (*.txt) from the fetch command')
     p.add_argument('--own-repeat', type=int, default=1, help='repeat your own pretraining text N times')
     p.add_argument('--extra-repeat', action='append', default=[], help='repeat one extra file, e.g. wordnet.txt=3')
+    p.add_argument('--cap', action='append', default=[], help='keep at most N chats of a type, e.g. behaviour=15000 (math=0 drops it)')
+    p.add_argument('--sft-only', action='store_true', help='write only the chat token files (chat-only re-run)')
     p = sub.add_parser('fetch'); p.add_argument('--out', required=True)
     p.add_argument('--sets', default='tinystories,simplewiki', help='comma list: tinystories,simplewiki,wordnet,fineweb_edu,soda')
     p.add_argument('--fineweb-mb', type=int, default=1600, help='MB of FineWeb-Edu text to keep (~4 MB per 1M tokens)')
