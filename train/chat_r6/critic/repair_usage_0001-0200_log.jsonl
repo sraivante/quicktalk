@@ -1,0 +1,18 @@
+{"id": "usage-r6-0002", "problem": "topic mismatch (uncle, not friends)", "change": "topic -> family"}
+{"id": "usage-r6-0033", "problem": "topic festival does not fit an office phrase", "change": "topic -> work"}
+{"id": "usage-r6-0041", "problem": "topic sport does not fit key-in-the-house example", "change": "topic -> family"}
+{"id": "usage-r6-0052", "problem": "answer ignored the second half of the question (arm and a leg)", "change": "answer now says both idioms mean very expensive"}
+{"id": "usage-r6-0071", "problem": "\"only when executed\" overstated", "change": "added \"usually\""}
+{"id": "usage-r6-0074", "problem": "topic books does not fit", "change": "topic -> writing"}
+{"id": "usage-r6-0081", "problem": "topic feelings does not fit", "change": "topic -> writing"}
+{"id": "usage-r6-0082", "problem": "topic health does not fit", "change": "topic -> writing"}
+{"id": "usage-r6-0096", "problem": "first sentence contradicted itself (\"both common\" then one form \"the polite form\"); topic work", "change": "softened claim; topic -> school"}
+{"id": "usage-r6-0104", "problem": "topic travel does not fit (art class example)", "change": "topic -> school"}
+{"id": "usage-r6-0107", "problem": "topic family does not fit", "change": "topic -> work"}
+{"id": "usage-r6-0128", "problem": "said the second e was dropped but the misspelling drops the first; \"two twins\" redundant", "change": "corrected which e; changed example"}
+{"id": "usage-r6-0150", "problem": "\"only\" overstated", "change": "changed to \"usually said\""}
+{"id": "usage-r6-0168", "problem": "claim about \"they\" (many too) in questions/negatives was overstated", "change": "limited the claim to \"much\""}
+{"id": "usage-r6-0169", "problem": "example used \"i.e.\" for a list of examples (should be e.g.); topic food", "change": "fixed example; topic -> writing"}
+{"id": "usage-r6-0172", "problem": "neither offered word fits the blank; answer did not say so plainly; topic books", "change": "answer states plainly neither fits; topic -> writing"}
+{"id": "usage-r6-0175", "problem": "answer did not say why / just restated", "change": "says it is an irregularity and gives the contrast"}
+{"id": "usage-r6-0194", "problem": "topic travel does not fit", "change": "topic -> friends"}
