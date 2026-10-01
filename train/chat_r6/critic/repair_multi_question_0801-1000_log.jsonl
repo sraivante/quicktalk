@@ -1,0 +1,10 @@
+{"id": "multi_question-r6-0835", "problem": "Moon illusion stated as settled fact; cause is still debated", "change": "Hedged answer 5: names the size-comparison explanation as the usual one and says scientists still debate it"}
+{"id": "multi_question-r6-0862", "problem": "Wrong spelling note: 'careful' ends in a single l, not a double l", "change": "Corrected note: the double l comes where 'careful' meets '-ly'"}
+{"id": "multi_question-r6-0870", "problem": "Changed 'a hospital' to 'the hospital' without need; Why only explained 'a check-up'", "change": "Kept 'a hospital'; fixed only the missing article before 'check-up'"}
+{"id": "multi_question-r6-0876", "problem": "Why invented a past-time reading with no past marker in the sentence", "change": "Correction now uses the present 'enters' with the real rule, and mentions 'entered' if the past was meant"}
+{"id": "multi_question-r6-0928", "problem": "Stitch cause stated as settled; real cause is not fully known", "change": "Answer now says the cause is not fully known and names irritation of the diaphragm and belly lining"}
+{"id": "multi_question-r6-0930", "problem": "Sentence was already correct ('at the front of the school'), so nothing to fix", "change": "Replaced the sentence with a real error (missing 'for' after 'wait') and matching answer"}
+{"id": "multi_question-r6-0951", "problem": "Spelling note says a letter is missing, but 'convinient' has a wrong letter (i for e)", "change": "Note now says the 'i' after 'v' should be an 'e'"}
+{"id": "multi_question-r6-0968", "problem": "'mangos' is an accepted variant, so the sentence is not clearly wrong", "change": "Replaced with 'potatos', a clear misspelling, and a matching rule"}
+{"id": "multi_question-r6-0976", "problem": "Bicycle balance explained partly by a gyroscope myth", "change": "Answer now names steering corrections and wheel geometry, with the spinning wheels as a small help"}
+{"id": "multi_question-r6-0842", "problem": "metadata.topic 'school' fits none of the questions (static, sound, a word)", "change": "topic changed to nature"}
