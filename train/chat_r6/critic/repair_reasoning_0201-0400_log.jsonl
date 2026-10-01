@@ -1,0 +1,5 @@
+{"id": "reasoning-r6-0250", "problem": "Conclusion not supported: a refusal does not show she has no card", "change": "Answer now says it cannot be concluded, with the missing-premise reason."}
+{"id": "reasoning-r6-0236", "problem": "Hedge muddles a plain logic result", "change": "Stated the conclusion plainly."}
+{"id": "reasoning-r6-0259", "problem": "Overclaim about the brain's energy and muscle comparison", "change": "Replaced with the mental-effort cause."}
+{"id": "reasoning-r6-0275", "problem": "Doubtful claim that worms cannot breathe in wet soil", "change": "Used the safer damp-ground travel reason."}
+{"id": "reasoning-r6-0283", "problem": "Overclaim: slip 'cannot' cut the hand", "change": "Softened to 'much less likely'."}
