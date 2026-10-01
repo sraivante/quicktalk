@@ -1,0 +1,11 @@
+{"id": "multi_question-r6-0217", "problem": "Made the cooling mechanism accurate (evaporation)", "change": "Imprecise mechanism for panting"}
+{"id": "multi_question-r6-0220", "problem": "Named fermenting-fruit smell as the cause", "change": "Weak/imprecise cause (smell of sugar)"}
+{"id": "multi_question-r6-0236", "problem": "metadata.topic matches little of the message", "change": "topic festival -> school"}
+{"id": "multi_question-r6-0256", "problem": "Rewrote the Why with the two actual rules", "change": "Muddled reason in correction"}
+{"id": "multi_question-r6-0273", "problem": "metadata.topic matches little of the message", "change": "topic work -> school"}
+{"id": "multi_question-r6-0280", "problem": "Added starch stiffening", "change": "Incomplete science (staling is not only drying)"}
+{"id": "multi_question-r6-0285", "problem": "metadata.topic matches little of the message", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0322", "problem": "metadata.topic matches little of the message", "change": "topic food -> school"}
+{"id": "multi_question-r6-0344", "problem": "metadata.topic matches little of the message", "change": "topic health -> language"}
+{"id": "multi_question-r6-0388", "problem": "Distinguished existing yellow/orange from new red", "change": "Wrong science: red is newly made, not already present"}
+{"id": "multi_question-r6-0391", "problem": "Replaced glow with reflection", "change": "Wrong claim: eyes do not glow"}
