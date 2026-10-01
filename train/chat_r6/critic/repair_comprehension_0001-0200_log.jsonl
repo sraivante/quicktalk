@@ -1,0 +1,9 @@
+{"id": "comprehension-r6-0016", "problem": "'pale colour' is not in the excerpt (it only says a shrouded hue)", "change": "Answer now uses only the excerpt's description of the streaked, marbled body."}
+{"id": "comprehension-r6-0017", "problem": "'far-off home' and 'sea floor' go beyond the excerpt", "change": "Answer limited to what the excerpt says: the vial holds Nantucket soundings and the ship is homeward bound."}
+{"id": "comprehension-r6-0035", "problem": "'poor districts' is outside knowledge, not in the excerpt", "change": "Replaced with 'a byway of Walworth or Mile End'."}
+{"id": "comprehension-r6-0054", "problem": "Question assumes Natasha feels afraid, which the excerpt does not say", "change": "Question reworded to match the excerpt; answer unchanged."}
+{"id": "comprehension-r6-0065", "problem": "'refuses to be blamed' is not what she says; the warning answer was misdescribed", "change": "Answer now follows her actual words."}
+{"id": "comprehension-r6-0087", "problem": "'walks' is not in the excerpt (he 'set out')", "change": "'walks' changed to 'sets out'."}
+{"id": "comprehension-r6-0098", "problem": "'calmly' is not in the excerpt", "change": "Removed 'calmly'."}
+{"id": "comprehension-r6-0126", "problem": "Second sentence claimed the scene 'fits the picture', a judgement the excerpt does not make", "change": "Replaced with a plain statement from the excerpt."}
+{"id": "comprehension-r6-0172", "problem": "Added a reason ('the worst fear has already been felt') that the excerpt does not give", "change": "Answer now explains the phrase only from what the excerpt shows."}
