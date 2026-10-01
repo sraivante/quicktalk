@@ -516,3 +516,4 @@ python3 scripts/export_dataset.py
 - 02:20 User hit 'mount failed' in Colab cell 2. Notebook cell 2 now skips if mounted, 5-min timeout, prints fix steps. Uploaded v2 to Drive (https://colab.research.google.com/drive/16bO9ib23Z7gzVn5VJZfMbskm8cBe8Pgq); old copy renamed '(old - use v2)'.
 - 02:41 **First Colab run succeeded** on A100-40GB: pretrain 1,668 steps + sft 932 steps in ~2 min (~1.4M tok/s); sft eval loss 3.76 (ppl 43). Cell 8 chart bug (d.eval is a pandas method) fixed in repo notebook.
 - 02:44 Notebook v3: RUN=quicktalk_run2, 6+3 passes -> 12.6M params (d=320, 6 layers) at 10 tokens/param; reuses run 1 tokenizer/data; chat cell asks all runs the same 5 questions; new compare cell (params, eval losses). Uploading as v3 to Drive.
+- 02:45 v3 uploaded: https://colab.research.google.com/drive/1yB0qrcxsD2lBMdOcsNoDZIxAmmbJuxPd (v2 renamed 'run 1 done - use v3'). Next: user runs v3; read its outputs via Drive download and judge.
