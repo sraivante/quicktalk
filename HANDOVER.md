@@ -15,6 +15,13 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action
 
+**ACTIVE (2026-10-01): train/ build for the chat experiment.** User chose: leave behaviour data as is; books become a pretraining corpus; plus a SMALL chat-pattern set (~300-500 per type) only to teach conversation patterns; keep sources separate, build mixed train + per-type eval by script; commit at regular intervals.
+- Part 1 DONE: `scripts/build_behaviour_chat.py` -> train/sources/behaviour_chat_01..04.jsonl (46,719 multi-turn chats, metadata.group = sno) + corpus_behaviour.txt.
+- Part 2 DONE: `scripts/build_book_corpus.py` -> train/sources/books/*.txt (4.56M words, English only: Gutenberg text stripped; French/Italian/Latin/German/Sanskrit sentences and phrases removed; accents folded; Panchatantra two-page spreads re-ordered; REPORT.txt has counts) + train/sources/raga_qa.jsonl (338).
+- Part 3a NEXT: pilot ~20 per chat type (spec train/spec/CHAT_PATTERNS.md, validator scripts/validate_chat.py), then user review, then 3b full small set, then part 4 build script (mix, shuffle, split by group, manifest).
+
+**Earlier plan (paused by the user's choice above):**
+
 The next steps are the scripted pronoun scan, the critic sample of the flagged rows, the repair pass and then the export. Two decisions from the user change what the repair pass does (see Open decisions).
 
 1. **Scripted pronoun scan** over all records: he/she used for people the passage never genders (the validator misses this when someone else in the passage is gendered). Reuse `.staging/f158/audit.py` as a starting point. Write results to a file; never paste dataset content into chat.
