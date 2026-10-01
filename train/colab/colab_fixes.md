@@ -232,3 +232,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   4 GB was streamed (run 6: 1.6 GB took 11 min, so ~28 min expected); HF also warned about anonymous requests.
   Change: FineWeb fetch now logs progress every 20,000 documents; notebook cell 4 reads an optional Colab secret
   `HF_TOKEN` into the environment (token never stored in the notebook or repo).
+- Notebook cell 3 now updates an existing clone (fetch + reset) so a re-run in the same runtime picks up new code.
