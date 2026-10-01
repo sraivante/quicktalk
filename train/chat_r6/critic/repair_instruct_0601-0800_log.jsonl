@@ -1,0 +1,7 @@
+{"id": "instruct-r6-0628", "problem": "Answer was an unnatural fragment written to pass a minimum word count; prompt and answer did not read naturally.", "change": "Reworded the prompt (seven-word maximum) and wrote a natural six-word lowercase sentence."}
+{"id": "instruct-r6-0640", "problem": "Topic 'doctors' does not match a postman question.", "change": "Set topic to 'postal work'."}
+{"id": "instruct-r6-0646", "problem": "The Indian monsoon runs about four months (June to September), so 'the three months' was inaccurate.", "change": "Prompt now asks for the first three months; answer unchanged."}
+{"id": "instruct-r6-0661", "problem": "Over-claim that most animals cannot recognise old friends.", "change": "Replaced with a true, checkable fact that still starts with 'Unlike'."}
+{"id": "instruct-r6-0667", "problem": "Reason was weak and mixed size with coverage awkwardly.", "change": "Clearer one-sentence reason, still begins with 'No'."}
+{"id": "instruct-r6-0671", "problem": "Topic 'coffee shops' does not match ordering lemonade.", "change": "Set topic to 'drinks'."}
+{"id": "instruct-r6-0767", "problem": "Lines did not rhyme (ended 'be' and 'true') although the user asked for a rhyme.", "change": "First line now ends with 'you', which rhymes with 'true'."}
