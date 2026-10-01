@@ -93,11 +93,15 @@ def cmd_prepare(a):
         np.array(ids, dtype=np.uint16).tofile(out + '.tmp'); os.replace(out + '.tmp', out)
         log(f'{name}: {len(ids):,} tokens')
 
-    def write_chat(name, paths):
+    def write_chat(name, paths, repeat=1):
         out = os.path.join(d, name + '.bin')
         if os.path.exists(out): log('exists, skipping', out); return
         ids, mask, starts, types = [], [], [], []
-        for r in iter_jsonl(paths):
+        def records():
+            for r in iter_jsonl(paths):
+                t = r.get('metadata', {}).get('type', '?')
+                for _ in range(repeat if t not in ('behaviour', 'raga') else 1): yield r   # upsample conversation patterns
+        for r in records():
             starts.append(len(ids)); types.append(r.get('metadata', {}).get('type', '?'))
             for text, train in chat_text(r['messages']):
                 t = tok.encode(text).ids
@@ -110,7 +114,7 @@ def cmd_prepare(a):
 
     write_text('pretrain_train', files(a.data, 'pretrain_*.txt'))
     write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
-    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'))
+    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat)
     write_chat('sft_val', [os.path.join(a.data, 'eval', 'sft_eval_all.jsonl')])
 
 # ----------------------------------------------------------------------------------------------- model
@@ -344,6 +348,7 @@ def main():
         if data: p.add_argument('--data', required=True)
     p = sub.add_parser('tokenizer'); common(p, True); p.add_argument('--vocab', type=int, default=16384)
     p = sub.add_parser('prepare'); common(p, True)
+    p.add_argument('--chat-repeat', type=int, default=1, help='repeat the 12 conversation-pattern types N times in sft_train')
     p = sub.add_parser('plan'); common(p)
     p.add_argument('--tokens-per-param', type=float, default=10.0)
     p.add_argument('--pretrain-epochs', type=int, default=4); p.add_argument('--sft-epochs', type=int, default=2)
