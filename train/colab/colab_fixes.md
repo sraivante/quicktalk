@@ -99,4 +99,5 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Local test (stand-in files):** English filter removed a French aside and a Hindi line and folded "Cafe";
   own text written 3x; streaming prepare, plan, pretrain, chat stage and chat all ran on CPU.
 - **Expected:** ~0.6B pretraining tokens -> roughly 60-80M parameters; ~45-75 min training on the A100.
+- **Notebook:** v6 in Drive: https://colab.research.google.com/drive/1QWI780xEzpjioZ9bzjqQPVhFZBnjdyID
 - **Output:** _pending — waiting for the Colab run._
