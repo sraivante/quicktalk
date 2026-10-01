@@ -25,6 +25,9 @@ and follow it exactly; this file only adds the run-6 mechanics.
      spec in each message. Vocab words must come from `train/spec/vocab_words.txt` and must not be words already used
      in `train/chat/vocab.jsonl` or `train/pilot/vocab.jsonl`. No arithmetic.
    - dont_know, reasoning: follow "Run 6 additions" in the spec.
-6. Check your own work before writing each chunk: facts, grammar reasons, constraints, numbering.
-7. Do not commit. Do not touch other files. Final report: counts, validator result, judgement calls; never paste
+6. Read `train/chat_r6/critic/summary.md` (section "Instructions for the generators") and follow it: it lists
+   the mistakes the trial critic found (weak "Because" lines, questions that do not match their content, over-
+   correction, templated user turns, topic labels that do not fit).
+7. Check your own work before writing each chunk: facts, grammar reasons, constraints, numbering.
+8. Do not commit. Do not touch other files. Final report: counts, validator result, judgement calls; never paste
    dataset content.

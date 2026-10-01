@@ -1,0 +1,60 @@
+{"id": "grammar-r6-0019", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0080", "verdict": "pass", "problem": "Minor: 'must always be followed by a noun' ignores adjectives in between (your new pen).", "suggested_fix": "Optional: 'Your' needs a noun after it."}
+{"id": "grammar-r6-0112", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0064", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0115", "verdict": "fix", "problem": "'Dessert with two s' / 'Desert with one s' is awkward English for a model answer.", "suggested_fix": "Write: \"Desert\", spelled with one s, is dry, sandy land. \"Dessert\", with a double s, is a sweet dish."}
+{"id": "grammar-r6-0076", "verdict": "pass", "problem": "Prescriptive rule, correctly stated; fine for learners.", "suggested_fix": ""}
+{"id": "grammar-r6-0066", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0144", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0025", "verdict": "fix", "problem": "Correction changes more than needed: 'neither' was replaced by 'nor', and Why does not explain that swap. The minimal, more natural fix keeps 'neither'.", "suggested_fix": "I don't eat meat, and neither does my sister. Why: After 'neither' the helper verb comes before the subject, and 'and' joins the two parts."}
+{"id": "grammar-r6-0191", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0127", "verdict": "fix", "problem": "User asks 'What word is missing?' but nothing is missing: 'who' is the wrong word. The reply silently goes along with a wrong premise.", "suggested_fix": "Change the ask to 'Which word is wrong?', or start the reply with: No word is missing; 'who' should be 'whose'."}
+{"id": "grammar-r6-0048", "verdict": "pass", "problem": "Correct. Note: same reply opening 'Yes, it is correct.' as 0191, 0043, 0136 - vary it (see summary).", "suggested_fix": ""}
+{"id": "grammar-r6-0120", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0134", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0033", "verdict": "pass", "problem": "Correct, but near-duplicate pattern of 0018 ('X in our Y are ...').", "suggested_fix": "Vary the agreement errors across the run."}
+{"id": "grammar-r6-0184", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0018", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0183", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0094", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0043", "verdict": "fix", "problem": "Declared fully correct, but 'slept early' is Indian-English usage; standard English is 'went to bed early'. Why has three reasons (spec: one or two) and padding about 'slept'.", "suggested_fix": "Either use an unambiguously correct sentence, or correct to 'so we went to bed early' with Why: we 'go to bed' early; 'sleep early' is not standard. Keep Why to two reasons."}
+{"id": "grammar-r6-0105", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0118", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0164", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0130", "verdict": "fix", "problem": "'She plays violin' is accepted in American English, so the rule 'instruments take the' is overstated as absolute.", "suggested_fix": "Why: In British and Indian English we usually say 'play the' + instrument."}
+{"id": "grammar-r6-0008", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0136", "verdict": "pass", "problem": "Correct. Same 'Yes, it is correct.' opening as three others - vary.", "suggested_fix": "e.g. 'This sentence is already right.'"}
+{"id": "grammar-r6-0029", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0099", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0035", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "grammar-r6-0095", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0007", "verdict": "fix", "problem": "Answer 3: the 'Because' sentence does not explain why we say sorry; it states a different benefit.", "suggested_fix": "3. It shows we did not mean to bump them. Because saying sorry tells the other person it was an accident."}
+{"id": "multi_question-r6-0003", "verdict": "fix", "problem": "Answer 3 is factually overstated: many birds' eggs do survive in the open (ground-nesting birds).", "suggested_fix": "3. A nest keeps the eggs safe and warm. Because eggs left in the open are easy for animals, rain or cold to harm."}
+{"id": "multi_question-r6-0182", "verdict": "fix", "problem": "Q4 'Could you explain passive for me?' in a grammar-help message most likely means the passive voice; the reply answers the adjective instead.", "suggested_fix": "Either reword Q4 to 'What does the word \"passive\" mean?' or answer: In the passive voice the object becomes the subject, e.g. 'The cake was eaten.'"}
+{"id": "multi_question-r6-0053", "verdict": "fix", "problem": "Answer 2 'Because' is circular ('ripening changes the fruit').", "suggested_fix": "2. As a mango ripens, its starch turns into sugar. Because of that change, a ripe mango tastes sweeter."}
+{"id": "multi_question-r6-0179", "verdict": "fix", "problem": "Answer 5: 'their plans' has no clear antecedent. User turn uses mechanical connectors 'Then,' 'Next,' 'Next,' that read like a template, not how people type.", "suggested_fix": "5. I don't know, because I can't see the shops' plans. Look for notices at the market or ask a shopkeeper. Drop most 'Next,' connectors."}
+{"id": "multi_question-r6-0120", "verdict": "fix", "problem": "Answer 2 'Because' just restates the first sentence.", "suggested_fix": "2. Lifts carry people and heavy things up many floors. Because climbing so many stairs is hard, especially for old people or anyone with heavy bags."}
+{"id": "multi_question-r6-0158", "verdict": "pass", "problem": "'by cycle' is Indian English; acceptable under the spec.", "suggested_fix": ""}
+{"id": "multi_question-r6-0197", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0172", "verdict": "fix", "problem": "metadata.topic 'festival' matches none of the questions. User line 'And one more: correct this sentence: ...' has a doubled colon.", "suggested_fix": "Set topic to 'books' or 'language'; write 'And one more, correct this: She asked for a informations.'"}
+{"id": "multi_question-r6-0082", "verdict": "fix", "problem": "Q2 gives the correct spelling inside the question, so the spelling question is empty; answer 'not ber' targets an error the user did not make.", "suggested_fix": "Q2: 'Is it \"libary\" or \"library\"?' A2: 'It is \"library\", with an r after the b.'"}
+{"id": "multi_question-r6-0155", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0124", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0079", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0052", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0075", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0018", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0187", "verdict": "fix", "problem": "Opens with the same 4 words as 0079 ('Can you tell me'); validator WARN. Content is fine.", "suggested_fix": "Start with another phrasing, e.g. 'What is the meaning of \"compromise\"?'"}
+{"id": "multi_question-r6-0083", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0171", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0091", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0104", "verdict": "fix", "problem": "Q4 is garbled ('what is today's date in the school calendar for a holiday?'). Answer 3 'Because' is circular. Answer 5 keeps 'in class'; 'in the class'/'in our class' is more standard.", "suggested_fix": "Q4: 'When is our next school holiday?' A3: 'Helping makes us feel useful and connected. Because we see that we made someone's day better.'"}
+{"id": "multi_question-r6-0020", "verdict": "fix", "problem": "metadata.topic 'weather' matches nothing in the message.", "suggested_fix": "Set topic to 'home' or 'sport'."}
+{"id": "multi_question-r6-0080", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0023", "verdict": "pass", "problem": "Fine, but 'informations'/'advice' errors repeat across 0172, 0023, 0070.", "suggested_fix": "Vary error kinds in the run."}
+{"id": "multi_question-r6-0180", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0070", "verdict": "fix", "problem": "metadata.topic 'weather' matches nothing in the message.", "suggested_fix": "Set topic to 'language' or 'friends'."}
+{"id": "multi_question-r6-0005", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0157", "verdict": "pass", "problem": "", "suggested_fix": ""}
+{"id": "multi_question-r6-0031", "verdict": "fix", "problem": "Answer 1 is wrong science: 'spreads its weight over a large area' is not why boats float, and the coin part of the question is not answered.", "suggested_fix": "1. A boat's shape pushes aside a lot of water, and the water pushes it up. Because a coin is small and heavy for its size, it pushes aside too little water and sinks."}
+{"id": "multi_question-r6-0090", "verdict": "pass", "problem": "", "suggested_fix": ""}
