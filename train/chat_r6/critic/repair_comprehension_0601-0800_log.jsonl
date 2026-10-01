@@ -1,0 +1,31 @@
+{"id": "comprehension-r6-0607", "problem": "Adds 'Kaurava' which the excerpt does not say", "change": "Answer now says 'his troops' as the excerpt does"}
+{"id": "comprehension-r6-0612", "problem": "Garbled answer; the excerpt says no resolution could withstand the enchanted air", "change": "Rewrote answer with the excerpt's own claim"}
+{"id": "comprehension-r6-0616", "problem": "Question says 'the girls', which the excerpt does not show", "change": "Removed 'for the girls'"}
+{"id": "comprehension-r6-0618", "problem": "Calls the listener 'the narrator' although the excerpt does not say so", "change": "Answer says 'the listener'"}
+{"id": "comprehension-r6-0624", "problem": "Awkward 'shakes a head' and 'promises to see about it' mismatch", "change": "Smoothed wording to match the excerpt"}
+{"id": "comprehension-r6-0633", "problem": "Question asserts Karp and Dron are 'the two tall peasants'; excerpt does not say so", "change": "Question names Karp and Dron directly"}
+{"id": "comprehension-r6-0635", "problem": "'blade' is not in the excerpt (it says 'instrument')", "change": "Used the excerpt's word"}
+{"id": "comprehension-r6-0637", "problem": "'without peace' is added; excerpt only says he fell asleep", "change": "Removed the unsupported outcome"}
+{"id": "comprehension-r6-0638", "problem": "'own mark' differs from excerpt's 'his own work'", "change": "Used the excerpt's wording"}
+{"id": "comprehension-r6-0642", "problem": "'natural eye' is not in the excerpt", "change": "Used 'this eye of thine' idea"}
+{"id": "comprehension-r6-0643", "problem": "'a rarity' is not the excerpt's phrase; 'he' for Mr. Rivers a little loose", "change": "Used the excerpt's 'lusus naturae' and named Mr. Rivers"}
+{"id": "comprehension-r6-0646", "problem": "Answer does not say who leads; 'first of the party' is in the excerpt", "change": "Added that Mr. Rochester and the lady are first"}
+{"id": "comprehension-r6-0647", "problem": "Ambiguous 'he' with no antecedent in the answer", "change": "Replaced with 'the one being sent'"}
+{"id": "comprehension-r6-0652", "problem": "Answer does not name Perth or answer the ask directly", "change": "Answer names Perth's request"}
+{"id": "comprehension-r6-0655", "problem": "Question calls the eight 'visitors'; excerpt does not say so", "change": "Question says 'eight people'"}
+{"id": "comprehension-r6-0684", "problem": "'behind her' is not in the excerpt", "change": "Removed it"}
+{"id": "comprehension-r6-0687", "problem": "'never looks better' overstates 'I do not recollect'", "change": "Used the narrator's own hedge"}
+{"id": "comprehension-r6-0692", "problem": "Question says 'wipe'; answer says 'pupils' not in excerpt", "change": "Question uses 'pass her handkerchief'; answer says 'first class'"}
+{"id": "comprehension-r6-0697", "problem": "Question calls the speaker 'the girl'; excerpt does not say so", "change": "Question says 'the speaker'"}
+{"id": "comprehension-r6-0701", "problem": "'could serve' is not in the excerpt", "change": "Used 'hinted something about his coffin'"}
+{"id": "comprehension-r6-0724", "problem": "Question asks why, but the excerpt gives no reason", "change": "Question asks how Natasha feels about the costume"}
+{"id": "comprehension-r6-0732", "problem": "'says how it could be done' overclaims; speaker only offers", "change": "Used the speaker's offer"}
+{"id": "comprehension-r6-0735", "problem": "Garbled question and answer; Daruka's gender not shown", "change": "Rewrote question and answer, no pronoun for Daruka"}
+{"id": "comprehension-r6-0736", "problem": "'the other two' is not what the excerpt says", "change": "Reworded to match 'us together'"}
+{"id": "comprehension-r6-0744", "problem": "Question gives the narrator a gender ('himself') the excerpt does not show", "change": "Question uses neutral wording"}
+{"id": "comprehension-r6-0748", "problem": "Question opens with 'he' with no antecedent", "change": "Question names Pierre"}
+{"id": "comprehension-r6-0752", "problem": "'the rich man' is not named in the excerpt", "change": "Used 'him'"}
+{"id": "comprehension-r6-0756", "problem": "Question gives narrator a gender; answer adds 'responded with kindness' not in excerpt", "change": "Neutral question; answer keeps the excerpt's phrase"}
+{"id": "comprehension-r6-0760", "problem": "'the strangers' and 'someone' are not in the excerpt; unclear reference", "change": "Used the excerpt's own words"}
+{"id": "comprehension-r6-0775", "problem": "'him' could be read as Joe", "change": "Named the child"}
+{"id": "comprehension-r6-0799", "problem": "Says the buffalo were 'hunted away'; excerpt does not say so", "change": "Stated only what the excerpt says"}
