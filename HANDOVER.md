@@ -544,3 +544,4 @@ python3 scripts/export_dataset.py
 - 07:20 Run 6: all 13 types started. Repaired+merged 0001-0200: grammar(28), multi_question(68), reasoning(10), dont_know(100, openings). scripts/check_r6_dupes.py added (2 exact repeats found, fixed). Queue: .staging/r6_queue.md.
 - 07:55 Run 6: ~2,900 written. Repaired+merged 0001-0200 for 8 types (fixes: grammar 28, mq 68, reasoning 10, dont_know 100, vocab 40, instruct 3, usage 18, multiturn 5). Validator UNSURE phrases widened. 12 gens + 2 repairs running.
 - 08:30 Run 6 progress: see .staging/r6_queue.md; ~4,600 written, repairs merged per batch (logs in train/chat_r6/critic/).
+- 09:05 Run 6 ~6,300 written; queue in .staging/r6_queue.md.
