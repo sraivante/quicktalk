@@ -1,0 +1,5 @@
+{"id": "hinglish_esl-r6-0213", "problem": "Reply dropped 'phir bhi na hataye' (it is still not removed) and did not address the society office as the listener", "change": "Added that the neighbour was already asked and the garbage is still there"}
+{"id": "hinglish_esl-r6-0229", "problem": "Friend version asked if tea exists, which changes the meaning of 'aur chai dena'", "change": "Friend version now asks for more tea"}
+{"id": "hinglish_esl-r6-0244", "problem": "User asked 'Is it fine?' but reply did not answer; no reason for the fix", "change": "Added 'No' and the superlative reason"}
+{"id": "hinglish_esl-r6-0277", "problem": "User asked 'Is it right?' but reply did not answer; no reason for the fix", "change": "Added 'No' and the reason"}
+{"id": "hinglish_esl-r6-0278", "problem": "No reason given for removing 'about'", "change": "Added the reason"}
