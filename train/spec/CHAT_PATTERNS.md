@@ -1,0 +1,65 @@
+# Chat-pattern set: spec for generators
+
+Purpose: a SMALL set (a few hundred per type) that teaches a small from-scratch model the shape of each conversation
+pattern. The model's "human" flavour comes from the behaviour data; its reading comes from the book corpus. These
+examples only show HOW to answer each kind of request. Quality and variety matter more than volume.
+
+## Format (every type)
+
+One JSON object per line:
+
+```json
+{"messages": [{"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}],
+ "metadata": {"type": "grammar", "id": "grammar-p0001", "group": "grammar-p0001", "source": "generated", "topic": "school"}}
+```
+
+- Roles alternate `user`, `assistant`, starting with `user` and ending with `assistant`. No system messages.
+- `metadata.type` is one of the 12 type names below; `id` is unique; `group` is the id unless several examples share
+  one source text (then they share a group, e.g. `book:Jane_Eyre:p1234`), so train/eval splits keep them together.
+- `metadata.source`: `generated`, or `book:<file name without .txt>` when the example uses a book excerpt, or
+  `behaviour:<sno>-<variant>` when it uses a behaviour passage.
+- `metadata.topic`: a short everyday topic word (school, family, friends, food, travel, work, health, money, festival,
+  sport, nature, books, feelings, ...). Spread topics; no topic more than 4 times in 20.
+
+## Rules for every example
+
+1. **Assistant text is clear, modern, correct English.** Short sentences, plain words, standard grammar. Indian
+   settings, names and everyday words (tiffin, auto, chai) are welcome; no slang a learner should not copy.
+2. **English only** in assistant text. Only `hinglish_esl` user turns may contain Hinglish (Roman-script Hindi mixed
+   with English). No other scripts or languages anywhere.
+3. **Book text is input, not a model.** Old or verse English from the books may appear in a user turn as the text
+   to work on; the assistant never imitates it.
+4. **Copy book excerpts exactly** (from `train/sources/books/*.txt`, a paragraph or 2-6 consecutive sentences). Do
+   not invent quotations or put words in a real author's mouth.
+5. **Facts must be true.** Literature answers must be checkable in the book file. If unsure, choose another question.
+6. **Safety (project rule):** no instructions to deceive, coerce, stalk or harm; no medical, legal or financial
+   advice; no diagnoses. Sad or hard topics are fine when handled kindly. No real brands, apps or public figures
+   (config/blocklist.json); authors and characters of the source books are allowed.
+7. **Variety:** vary openings, question wording, names (Indian and international, mixed genders), lengths and
+   topics. Never start two examples in a batch with the same 4 words. No emoji.
+8. **Assistant voice:** friendly and direct. No "Great question!", no "As an AI", no sign-offs. Do not end every
+   reply with a question.
+9. Never paste dataset content into chat with the orchestrator; write files.
+
+## The 12 types
+
+| type | turns (user+assistant pairs) | user | assistant | length (assistant words) |
+|---|---|---|---|---|
+| grammar | 1 | a sentence or two with 1-3 real learner errors, asking to fix it (vary the ask) | the corrected text, then "Why:" one or two short reasons naming the rule | 15-60 |
+| multiturn | 2-5 | everyday chat: plans, a problem, sharing news, asking opinion, small talk; follow-ups that depend on earlier turns | natural replies that remember earlier turns; may ask one question back | 10-80 per turn |
+| vocab | 1 | asks the meaning of one word (take words from train/spec/vocab_words.txt) | meaning in simple words, part of speech, one modern example sentence; mention an old sense only if the book use differs | 20-60 |
+| rewrite | 1 | an instruction (simpler / more polite / formal / informal / shorter / modern English / change tense / active voice) + a text (own sentence, behaviour passage bit, or book excerpt) | only the rewritten text, no preamble | 10-120 |
+| comprehension | 1 | a short book excerpt (40-150 words) + one question | a short answer that the excerpt supports, in own words | 5-50 |
+| writing | 1 | a writing task: short note, message, invitation, apology, description, diary entry, tiny story, paragraph on a topic; states length or audience | the text itself, fitting the length asked | 30-150 |
+| usage | 1 | a question about an idiom, a phrasal verb, a pair of confused words (affect/effect, lend/borrow, since/for...) or a spelling | the answer, then one or two example sentences | 20-70 |
+| hinglish_esl | 1-3 | Hinglish ("Kal mujhe interview hai, how to introduce myself?") or learner English with mistakes; asks for English help, translation or meaning | clear simple English only; when translating, give the English version; when correcting, show the fix | 10-90 per turn |
+| summary | 1 | a text (book excerpt 120-350 words, or a behaviour passage) + a request to summarize (vary: one line / three sentences / for a child) | the summary at the asked length, own words | 10-70 |
+| literature | 1 | a question about a source book: plot, character, who/what/why, moral of a Panchatantra story, Ramayana/Mahabharata episode, a raga basic | a short true answer, 1-3 sentences | 8-60 |
+| instruct | 1 | a task with an explicit constraint (exactly N items, under N words, start each line with X, one sentence, use the word Y, no word Z, numbered steps, question form) | output that meets every constraint exactly | 5-100 |
+| reasoning | 1 | an everyday common-sense, cause-effect, simple number or logic question | the answer first, then "Because ..." with the short reasoning | 15-70 |
+
+## Pilot
+
+Write 20 examples per assigned type into `train/pilot/<type>.jsonl`, ids `<type>-p0001`.., then run
+`python3 scripts/validate_chat.py train/pilot/<type>.jsonl --type <type>` and fix every FAIL. Report counts and
+anything you could not do. Do not commit.
