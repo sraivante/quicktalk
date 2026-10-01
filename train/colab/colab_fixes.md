@@ -130,3 +130,11 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   download, then calls `google.colab.runtime.unassign()` to disconnect. For run 5 (already running) the user adds
   this cell at the end and presses its play button; Colab queues it after the running cells.
 - **Monitoring:** Claude polls Drive every ~5 min (train.log, notebook outputs) and judges the chat test.
+
+## Finish cell fix — slow / broken browser download
+- **Issue:** user reported the model download taking a long time. Cause: cell 11 called `files.download()`, which streams
+  the 258 MB zip from the Colab runtime through the notebook connection to the browser (slow, often stalls for files
+  this size), and the cell then disconnected the runtime 90 s later, which cuts that download off.
+- **Change:** cell 11 no longer offers a browser download; download the zip from Google Drive instead. Before
+  disconnecting it now calls `drive.flush_and_unmount()` so the Drive upload is complete before the runtime goes.
+- **Output:** run 5 zip is intact in Drive (258.5 MB, 05:02); user to download it from drive.google.com.
