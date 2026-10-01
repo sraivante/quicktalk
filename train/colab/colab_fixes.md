@@ -246,3 +246,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   Change: cell 5 now stops if plan.json reports < 1B pretraining tokens. Notebook v8.3 on Drive
   (id 1G1z1cuhXq8_bUDyTbi1amkK62KdTn50h); v8.2 renamed old. Expected full run at 250k tok/s: downloads ~30 min,
   tokenizing ~30-40 min, pretraining 1.92B tokens ~2.2 h, chat training ~10 min: ~3.3 h total.
+- **Run 7 (bad-data attempt) finished 15:09 UTC** and was zipped (quicktalk_run7_model.zip, 362 MB, Drive id
+  1gWwm_MjfGJP9BgEEAjttyiyTjjfwWjTR). 97.6M params; pretrain 1,122 steps on the 73.5M-token set (eval 3.49, run 6:
+  3.19 after 1.32B tokens); chat 1,406 steps, eval 2.79 (run 6: 2.29; the eval split differs). User sent it in 35 parts;
+  offline test running into train/test_run7/ for comparison. The full ~1.9B-token run 7 is still to do (v8.3).
