@@ -14,7 +14,7 @@ One JSON object per line:
 ```
 
 - Roles alternate `user`, `assistant`, starting with `user` and ending with `assistant`. No system messages.
-- `metadata.type` is one of the 12 type names below; `id` is unique; `group` is the id unless several examples share
+- `metadata.type` is one of the type names below (12 original + 2 added for run 6); `id` is unique; `group` is the id unless several examples share
   one source text (then they share a group, e.g. `book:Jane_Eyre:p1234`), so train/eval splits keep them together.
 - `metadata.source`: `generated`, or `book:<file name without .txt>` when the example uses a book excerpt, or
   `behaviour:<sno>-<variant>` when it uses a behaviour passage.
@@ -44,7 +44,7 @@ One JSON object per line:
    reply with a question.
 9. Never paste dataset content into chat with the orchestrator; write files.
 
-## The 12 types
+## The types
 
 | type | turns (user+assistant pairs) | user | assistant | length (assistant words) |
 |---|---|---|---|---|
@@ -59,7 +59,23 @@ One JSON object per line:
 | summary | 1 | a text (book excerpt 120-350 words, or a behaviour passage) + a request to summarize (vary: one line / three sentences / for a child) | the summary at the asked length, own words | 10-70 |
 | literature | 1 | a question about a source book: plot, character, who/what/why, moral of a Panchatantra story, Ramayana/Mahabharata episode, a raga basic | a short true answer, 1-3 sentences | 8-60 |
 | instruct | 1 | a task with an explicit constraint (exactly N items, under N words, start each line with X, one sentence, use the word Y, no word Z, numbered steps, question form) | output that meets every constraint exactly | 5-100 |
-| reasoning | 1 | an everyday common-sense, cause-effect, simple number or logic question | the answer first, then "Because ..." with the short reasoning | 15-70 |
+| reasoning | 1 | an everyday common-sense, cause-effect, simple number or logic question (from run 6: NO numbers or arithmetic, see below) | the answer first, then "Because ..." with the short reasoning | 15-70 |
+| multi_question | 1 | 2-5 independent questions in ONE message, on one line or several; kinds: word meaning, idiom/usage, spelling, a sentence to correct, everyday reasoning, simple advice, a request it cannot know (see dont_know). Never arithmetic. | one numbered answer per question, in the order asked, each on its own line starting "1.", "2.", ...; each answer short (1-2 sentences, same rules as the matching type, e.g. a correction keeps its reason) and never merged with another | 15-200 total |
+| dont_know | 1 | a question the model cannot answer: today's/recent news, scores, weather, prices, timetables, the user's own details ("what is my friend's name?"), private facts about people, very specific facts (exact dates, numbers, rare names), exact maths it cannot do reliably | says plainly it does not know or cannot check ("I don't know." / "I'm not sure." / "I can't see the news."), gives the short reason, then one useful next step (who or where to ask, what to check). Never guesses a fact, never makes one up | 8-60 |
+
+## Run 6 additions (agreed with the user 2026-10-01)
+
+- **reasoning:** new examples are everyday reasoning only: cause and effect, common sense, social sense, simple logic,
+  planning. No numbers, sums, prices, times or measurements (`validate_chat.py --no-arithmetic` fails any digit). The
+  existing 200 (90 with numbers) stay as they are.
+- **multi_question:** set `metadata.n_questions` (2-5) and spread it evenly. Write the questions the way people type
+  them (sometimes one line, sometimes a list, sometimes with "Also," or "And one more:"). Answer every question; when
+  one cannot be known, that numbered answer says so (dont_know style) and the others are still answered.
+- **dont_know:** spread the kinds evenly (recent events, personal/user details, private people, live data such as
+  prices/weather/timetables, very specific facts, maths). Keep the reply calm and helpful, not apologetic; do not say
+  "As an AI". The next step must be safe and general (ask a teacher, check the official website, use a calculator),
+  never medical, legal or financial advice.
+- **literature:** no new examples (knowledge is not the goal of this run).
 
 ## Pilot
 

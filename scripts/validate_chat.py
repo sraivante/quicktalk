@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate chat-pattern JSONL files (train/spec/CHAT_PATTERNS.md).
-  python scripts/validate_chat.py <file.jsonl> [--type <type>]
+  python scripts/validate_chat.py <file.jsonl> [--type <type>] [--no-arithmetic]
+--no-arithmetic: reasoning examples may not contain digits (run 6 onward: everyday reasoning only, no sums).
 Prints FAIL lines (must fix) and WARN lines (look at it). Exit code 1 if any FAIL.
 """
 import json, os, re, sys, collections
@@ -9,7 +10,10 @@ TYPES = {  # type: (min pairs, max pairs, min words per assistant turn, max word
     'grammar': (1, 1, 8, 75), 'multiturn': (2, 5, 3, 100), 'vocab': (1, 1, 12, 80), 'rewrite': (1, 1, 4, 150),
     'comprehension': (1, 1, 3, 65), 'writing': (1, 1, 20, 180), 'usage': (1, 1, 12, 90), 'hinglish_esl': (1, 3, 4, 110),
     'summary': (1, 1, 6, 90), 'literature': (1, 1, 5, 75), 'instruct': (1, 1, 2, 120), 'reasoning': (1, 1, 10, 90),
+    'multi_question': (1, 1, 15, 200), 'dont_know': (1, 1, 8, 70),
 }
+UNSURE = re.compile(r"\b(i don't know|i do not know|i'm not sure|i am not sure|i can't (see|check|know|tell|look up)|"
+                    r"i cannot (see|check|know|tell|look up)|i have no way|i don't have)\b", re.I)
 BL = [t.lower() for t in json.load(open(os.path.join(ROOT, 'config', 'blocklist.json')))['terms']]
 BAD_OPEN = re.compile(r'^(great question|good question|sure[,!]|certainly[,!]|of course[,!]|absolutely[,!]|as an ai)', re.I)
 SIGNOFF = re.compile(r'(hope this helps|happy learning|let me know if)', re.I)
@@ -18,6 +22,7 @@ EMOJI = re.compile('[\U0001F300-\U0001FAFF☀-➿]')
 args = sys.argv[1:]
 if not args: sys.exit(__doc__)
 path = args[0]; want = args[args.index('--type') + 1] if '--type' in args else None
+no_arith = '--no-arithmetic' in args
 fails = warns = 0; ids = set(); opens = collections.Counter(); topics = collections.Counter(); asst_seen = collections.Counter()
 def F(i, m):
     global fails; fails += 1; print(f'FAIL line {i}: {m}')
@@ -64,6 +69,14 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
     if t == 'grammar':
         if not re.search(r'\bwhy\b', a0, re.I): F(i, 'grammar answer must give the reason ("Why: ...")')
     if t == 'reasoning' and not re.search(r'\bbecause\b', a0, re.I): F(i, 'reasoning answer must explain with "Because ..."')
+    if t == 'reasoning' and no_arith and re.search(r'\d', u0 + a0): F(i, 'no arithmetic in new reasoning examples (digits found)')
+    if t == 'multi_question':
+        k = md.get('n_questions')
+        nums = re.findall(r'(?m)^(\d)\. ', a0)
+        if k not in (2, 3, 4, 5): F(i, 'multi_question needs metadata.n_questions 2-5')
+        elif nums != [str(x) for x in range(1, k + 1)]: F(i, f'multi_question answer must number its answers 1.-{k}. at line starts, in order (found {nums})')
+        if re.search(r'\d\s*[-+*/x]\s*\d', u0): F(i, 'no arithmetic questions in multi_question')
+    if t == 'dont_know' and not UNSURE.search(a0): F(i, 'dont_know answer must say plainly that it does not know / cannot check')
     if t in ('vocab', 'usage') and len(re.findall(r'[.!?]', a0)) < 2: W(i, f'{t} answer should include an example sentence')
     if t in ('comprehension', 'summary', 'rewrite') and src.startswith('book:'):
         book = open(os.path.join(ROOT, 'train', 'sources', 'books', src[5:] + '.txt'), encoding='utf-8').read()

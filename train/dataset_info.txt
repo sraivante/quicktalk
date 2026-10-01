@@ -173,4 +173,4 @@ Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenize
   Pretraining additions (downloaded in Colab, English-only filters):
     WordNet definitions written as sentences (~10M tokens, repeated 3x)
     more general text (e.g. FineWeb-Edu sample ~400M tokens, ODC-By) and, if approved, SODA dialogues (CC BY 4.0)
-  Pending user approval: spec changes in train/spec/CHAT_PATTERNS.md, counts per type, which pretraining sources.
+  Approved: spec changes (done 2026-10-01), 1,000 per type. Pending: go-ahead after the cost estimate; SODA yes/no.
