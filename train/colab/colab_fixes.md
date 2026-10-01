@@ -251,3 +251,6 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   3.19 after 1.32B tokens); chat 1,406 steps, eval 2.79 (run 6: 2.29; the eval split differs). User sent it in 35 parts;
   offline test running into train/test_run7/ for comparison. The full ~1.9B-token run 7 is still to do (v8.3).
   Offline test of this model: 13% overall (run 6 28%, run 5 22%); train/test_run7/compare_run6.md.
+- 15:5x UTC: v8.3 stopped correctly at the cell 5 guard (folder not yet deleted); HF_TOKEN secret still not seen.
+  Change: cell 4 now asks for the token in a hidden getpass box when no secret is available (session only, never
+  saved in the notebook). Notebook v8.4 on Drive (id 1mchgUVXMHbT33OgfUUGY_islsU-9zoUD); v8.3 renamed old.
