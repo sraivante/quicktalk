@@ -154,3 +154,23 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Reading:** the model learned the behaviour-passage format (94% of chat data) far better than the 12 chat patterns
   (2,400 examples), even though every test question was seen in training. It has fluent English but little stored
   knowledge, and it copies formats ("It is an adjective", "Why:") without the content.
+
+## Run 6 preparation — pipeline changes (code only; not run in Colab yet)
+- **Issue:** run 6 keeps the 69.5M model and adds data: continued pretraining on dictionary text, FineWeb-Edu and SODA,
+  then chat training with ~13,000 new chat-pattern examples (user approved 2026-10-01).
+- **Change (`quicktalk_lm.py`):**
+  - `fetch --sets wordnet,fineweb_edu,soda [--fineweb-mb 1600]`: WordNet (via nltk) written as sentences ("X is an
+    adjective. It means ... Example: ..."), up to 3 senses, lowercase words/phrases of up to 3 words; FineWeb-Edu
+    `sample-10BT` streamed, `int_score >= 3`, English, >= 80 words, until ~1.6 GB (~400M tokens); SODA
+    (`allenai/soda`) as narrative + "Speaker: line" turns. All through the same English-only cleaner. The old
+    default (`tinystories,simplewiki`) is unchanged.
+  - `prepare --extra-repeat wordnet.txt=3`: repeat one extra file.
+  - `plan --shape 640,12,10`: keep a fixed model size (run 5's) instead of sizing from data.
+  - `train --stage pretrain --init-from <run5 pretrain_final.pt>`: continue from run 5's weights with a fresh
+    schedule; a resumable `pretrain_latest.pt` still wins, so a disconnect resumes instead of restarting; a shape
+    mismatch stops with a clear message.
+  - `scripts/build_train.py` now also reads `train/chat_r6/` (eval split per type is re-drawn, so run 6 eval loss is
+    not directly comparable with runs 1-5).
+- **Output (CPU test with stand-in datasets, tiny 128x4 model):** WordNet/FineWeb/SODA files written as expected
+  (non-English line dropped, low-score doc dropped, accents folded); prepare with WordNet x3, plan with fixed shape,
+  pretrain from init weights, chat stage all ran; resume and mismatch paths checked.

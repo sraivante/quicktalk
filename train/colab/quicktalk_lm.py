@@ -63,12 +63,74 @@ def english_clean(text):
         out.append(line.rstrip())
     return '\n'.join(out).strip()
 
+POS = {'n': 'a noun', 'v': 'a verb', 'a': 'an adjective', 's': 'an adjective', 'r': 'an adverb'}
+
+def fetch_wordnet(out):
+    """WordNet definitions written as plain sentences: one paragraph per word, up to 3 senses."""
+    import nltk
+    nltk.download('wordnet', quiet=True); nltk.download('omw-1.4', quiet=True)
+    from nltk.corpus import wordnet as wn
+    n = 0
+    with open(out + '.tmp', 'w', encoding='utf-8') as w:
+        for lemma in sorted(set(wn.all_lemma_names())):
+            word = lemma.replace('_', ' ')
+            if not re.fullmatch(r"[a-z][a-z' -]*", word) or len(word.split()) > 3: continue
+            senses = wn.synsets(lemma)[:3]
+            if not senses: continue
+            lines = []
+            for k, sy in enumerate(senses):
+                gloss = sy.definition().strip().rstrip('.;')
+                if not gloss: continue
+                pos = POS.get(sy.pos(), 'a word')
+                lead = f'"{word.capitalize()}" is {pos}. It means {gloss}.' if k == 0 else f'As {pos}, it can also mean {gloss}.'
+                ex = [e for e in sy.examples() if lemma.split('_')[0] in e.lower()][:1]
+                lines.append(lead + (f' Example: "{ex[0][0].upper() + ex[0][1:]}."' if ex else ''))
+            if lines: w.write(english_clean(' '.join(lines)) + '\n\n'); n += 1
+    os.replace(out + '.tmp', out); log(f'wordnet: {n:,} words')
+
+def fetch_fineweb_edu(out, mb):
+    """A sample of FineWeb-Edu (educational web text, score >= 3), streamed until about `mb` MB of text."""
+    from datasets import load_dataset
+    ds = load_dataset('HuggingFaceFW/fineweb-edu', name='sample-10BT', split='train', streaming=True)
+    n, size = 0, 0
+    with open(out + '.tmp', 'w', encoding='utf-8') as w:
+        for row in ds:
+            if row.get('int_score', 3) < 3 or row.get('language', 'en') != 'en': continue
+            text = english_clean(row['text'])
+            paras = [q.strip() for q in text.split('\n') if len(q.split()) >= 8]
+            if len(' '.join(paras).split()) < 80: continue
+            doc = '\n'.join(paras) + '\n\n'; w.write(doc); n += 1; size += len(doc)
+            if size >= mb * 1_000_000: break
+    os.replace(out + '.tmp', out); log(f'fineweb_edu: {n:,} documents')
+
+def fetch_soda(out):
+    """SODA social dialogues (allenai/soda): the situation, then the conversation, one dialogue per block."""
+    from datasets import load_dataset
+    ds = load_dataset('allenai/soda', split='train')
+    n = 0
+    with open(out + '.tmp', 'w', encoding='utf-8') as w:
+        for row in ds:
+            turns = [f'{sp}: {ut.strip()}' for sp, ut in zip(row['speakers'], row['dialogue']) if ut.strip()]
+            if len(turns) < 2: continue
+            doc = english_clean(row['narrative'].strip() + '\n' + '\n'.join(turns))
+            if doc: w.write(re.sub(r'\n\s*\n+', '\n', doc) + '\n\n'); n += 1
+    os.replace(out + '.tmp', out); log(f'soda: {n:,} dialogues')
+
 def cmd_fetch(a):
-    """Download TinyStories (simple stories) and Simple English Wikipedia as English-only plain text into --out.
-    One document per block, documents separated by a blank line. Skips files that already exist."""
+    """Download extra English text as plain text into --out (one document per block, blank line between).
+    --sets picks which: tinystories, simplewiki (run 5), wordnet, fineweb_edu, soda (run 6). Existing files are kept."""
     os.makedirs(a.out, exist_ok=True)
+    sets = a.sets.split(',')
+    for name, fn in (('wordnet', lambda o: fetch_wordnet(o)), ('fineweb_edu', lambda o: fetch_fineweb_edu(o, a.fineweb_mb)),
+                     ('soda', lambda o: fetch_soda(o))):
+        if name not in sets: continue
+        o = os.path.join(a.out, name + '.txt')
+        if os.path.exists(o): log('exists, skipping', o)
+        else: fn(o)
+        log(f'{name}.txt: {os.path.getsize(o) / 1e6:,.0f} MB')
+    if 'tinystories' not in sets and 'simplewiki' not in sets: return
     ts = os.path.join(a.out, 'tinystories.txt')
-    if not os.path.exists(ts):
+    if 'tinystories' in sets and not os.path.exists(ts):
         from huggingface_hub import hf_hub_download
         src = hf_hub_download('roneneldan/TinyStories', 'TinyStoriesV2-GPT4-train.txt', repo_type='dataset',
                               local_dir=os.path.join(a.out, '_hf'))
@@ -84,7 +146,7 @@ def cmd_fetch(a):
         os.replace(ts + '.tmp', ts); log(f'tinystories: {n:,} stories')
     else: log('exists, skipping', ts)
     sw = os.path.join(a.out, 'simplewiki.txt')
-    if not os.path.exists(sw):
+    if 'simplewiki' in sets and not os.path.exists(sw):
         from datasets import load_dataset
         ds = load_dataset('wikimedia/wikipedia', '20231101.simple', split='train')
         n = 0
@@ -96,7 +158,8 @@ def cmd_fetch(a):
                     w.write(row['title'] + '\n' + '\n'.join(paras) + '\n\n'); n += 1
         os.replace(sw + '.tmp', sw); log(f'simplewiki: {n:,} articles')
     else: log('exists, skipping', sw)
-    for f in (ts, sw): log(f'{os.path.basename(f)}: {os.path.getsize(f) / 1e6:,.0f} MB')
+    for f in (ts, sw):
+        if os.path.exists(f): log(f'{os.path.basename(f)}: {os.path.getsize(f) / 1e6:,.0f} MB')
 
 # ----------------------------------------------------------------------------------------------- tokenizer
 def cmd_tokenizer(a):
@@ -188,6 +251,8 @@ def cmd_prepare(a):
 
     own = files(a.data, 'pretrain_*.txt') * a.own_repeat                       # your text, repeated so it is not drowned out
     extra = sorted(glob.glob(os.path.join(a.extra, '*.txt'))) if a.extra else []
+    reps = dict((k, int(v)) for k, v in (x.split('=') for x in a.extra_repeat))   # e.g. wordnet.txt=3
+    extra = [p for p in extra for _ in range(reps.get(os.path.basename(p), 1))]
     write_text('pretrain_train', own + extra)
     write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
     write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat)
@@ -274,6 +339,7 @@ def cmd_plan(a):
     seen = a.pretrain_epochs * c['pretrain_tokens'] + a.sft_epochs * c['sft_tokens']
     target = seen / a.tokens_per_param
     best = min(PRESETS, key=lambda p: abs(math.log(model_params(V, p[0], p[1]) / target)))
+    if a.shape: best = tuple(int(x) for x in a.shape.split(','))      # keep a fixed model size (e.g. continue run 5)
     d, L, H = best; P = model_params(V, d, L)
     plan = dict(c, vocab=V, pretrain_epochs=a.pretrain_epochs, sft_epochs=a.sft_epochs, tokens_seen=seen,
                 tokens_per_param=a.tokens_per_param, target_params=int(target), d=d, layers=L, heads=H,
@@ -343,6 +409,11 @@ def cmd_train(a):
         model.load_state_dict(s['model']); opt.load_state_dict(s['opt']); step, best = s['step'], s.get('best', best)
         random.setstate(s['py_rng']); torch.set_rng_state(s['torch_rng'])
         log(f'resumed {a.stage} from step {step}/{steps}')
+    elif a.init_from and not chat:
+        src = torch.load(a.init_from, map_location=dev, weights_only=False)
+        if any(src['cfg'][k] != cfg[k] for k in ('vocab', 'd', 'layers', 'heads', 'block')):
+            sys.exit(f'--init-from shape {src["cfg"]} does not match plan {cfg}; use plan --shape d,layers,heads')
+        model.load_state_dict(src['model']); log(f'pretrain continues from {a.init_from} (weights only, new schedule)')
     elif chat:
         src = os.path.join(ck, 'pretrain_final.pt')
         if not os.path.exists(src): sys.exit('pretrain_final.pt not found: run --stage pretrain first')
@@ -439,11 +510,15 @@ def main():
     p.add_argument('--chat-repeat', type=int, default=1, help='repeat the 12 conversation-pattern types N times in sft_train')
     p.add_argument('--extra', help='folder of extra English pretraining text (*.txt) from the fetch command')
     p.add_argument('--own-repeat', type=int, default=1, help='repeat your own pretraining text N times')
+    p.add_argument('--extra-repeat', action='append', default=[], help='repeat one extra file, e.g. wordnet.txt=3')
     p = sub.add_parser('fetch'); p.add_argument('--out', required=True)
+    p.add_argument('--sets', default='tinystories,simplewiki', help='comma list: tinystories,simplewiki,wordnet,fineweb_edu,soda')
+    p.add_argument('--fineweb-mb', type=int, default=1600, help='MB of FineWeb-Edu text to keep (~4 MB per 1M tokens)')
     p = sub.add_parser('plan'); common(p)
     p.add_argument('--tokens-per-param', type=float, default=10.0)
     p.add_argument('--pretrain-epochs', type=int, default=4); p.add_argument('--sft-epochs', type=int, default=2)
     p.add_argument('--block', type=int, default=512); p.add_argument('--dropout', type=float, default=0.1)
+    p.add_argument('--shape', help='fix the model shape "d,layers,heads" instead of sizing it from the data')
     p = sub.add_parser('train'); common(p)
     p.add_argument('--stage', choices=['pretrain', 'sft'], required=True)
     p.add_argument('--batch', type=int, default=64); p.add_argument('--lr', type=float, default=0)
@@ -454,6 +529,7 @@ def main():
     p.add_argument('--no-compile', action='store_true'); p.add_argument('--force', action='store_true')
     p.add_argument('--allow-cpu', action='store_true'); p.add_argument('--allow-any-gpu', action='store_true')
     p.add_argument('--data-dir', help='read token files from here instead of <workdir>/data')
+    p.add_argument('--init-from', help='pretrain stage: start from these weights (e.g. run 5 pretrain_final.pt)')
     p = sub.add_parser('chat'); common(p); p.add_argument('--ckpt')
     p.add_argument('--prompt', action='append'); p.add_argument('--max-new', type=int, default=150)
     p.add_argument('--temperature', type=float, default=0.8); p.add_argument('--top-k', type=int, default=40)
