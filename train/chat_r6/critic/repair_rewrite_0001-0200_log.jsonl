@@ -1,0 +1,15 @@
+{"id": "rewrite-r6-0005", "problem": "Says the floor is wet (not in source) and drops the hurt warning", "change": "Kept slippery tiles and the risk of getting hurt"}
+{"id": "rewrite-r6-0030", "problem": "Adds a specific time (after ten) that the source does not give", "change": "Removed the invented time"}
+{"id": "rewrite-r6-0032", "problem": "Adds a promise (someone will be with you shortly) not in the source", "change": "Removed the added promise"}
+{"id": "rewrite-r6-0052", "problem": "Adds a claim (you are getting better) that is not in the source", "change": "Replaced with a neutral encouragement"}
+{"id": "rewrite-r6-0071", "problem": "Last sentence is redundant and muddles the meaning (well and going well)", "change": "Clear request that all be prosperous and well"}
+{"id": "rewrite-r6-0074", "problem": "Unsafe speed is stronger than too fast", "change": "Changed to excessive speed"}
+{"id": "rewrite-r6-0076", "problem": "Narrowed all electronic devices to phone only", "change": "Kept all devices"}
+{"id": "rewrite-r6-0077", "problem": "Invents praise (the flavour is nice) not in the source and may be untrue", "change": "Kind wording that keeps only the real point"}
+{"id": "rewrite-r6-0086", "problem": "Asked for very simple sentences but sentences stay long and compound", "change": "Rewrote in short simple sentences, all points kept"}
+{"id": "rewrite-r6-0087", "problem": "Day two is one day after day one, not two days", "change": "Changed to the next day"}
+{"id": "rewrite-r6-0091", "problem": "Guards is a guess for ordered bands", "change": "Neutral wording"}
+{"id": "rewrite-r6-0117", "problem": "Says the noise woke the speaker (not in the source)", "change": "Used disturbed"}
+{"id": "rewrite-r6-0125", "problem": "Calls Sudha her mother (not stated) and last clause is unclear", "change": "Used Sudha, clearer clauses"}
+{"id": "rewrite-r6-0145", "problem": "Promised a vote overstates maybe tomorrow, we have to vote", "change": "Matches the source"}
+{"id": "rewrite-r6-0152", "problem": "Awkward English (asked of what)", "change": "Natural wording"}
