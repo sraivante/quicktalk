@@ -262,3 +262,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (run 6: 2.285; same sft eval split as run 7's earlier attempt, run 6's differs). Zip quicktalk_run7_model.zip
   (362 MB, Drive id 1aS7sHohvQy-dmNsUG-VFzsRKB6qBKt7H), sent in 35 parts. The bad-data attempt's test moved to
   train/test_run7_baddata/; the full model's offline test goes to train/test_run7/.
+  Full run 7 offline test: 29% overall (run 6 28%); train/test_run7/compare_run6.md.
