@@ -202,3 +202,6 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Reading:** the early rise (3.29 -> 3.40-3.45) is the expected shift when the mix moves to web text/dialogues and the
   learning rate jumps back up; eval has been falling steadily since step ~1,600. Expected end of pretraining ~12:15 UTC,
   chat stage ~5 min after; final verdict after cell 9/10 and the offline test.
+- **Check 11:55 UTC (step 14,600/20,211, 72%):** eval loss 3.356 (7,000) -> 3.314 (9,000s) -> 3.290 (12,000) -> 3.249
+  (14,000) -> 3.244 (14,600): now **below run 5's final 3.29** on the same eval text. Train loss ~1.9, lr 8e-5 (cosine
+  decay), 318k tok/s steady, checkpoints every 1,000-2,000 steps. Pretraining ends ~12:15 UTC; chat stage next.
