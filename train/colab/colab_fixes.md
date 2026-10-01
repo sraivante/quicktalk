@@ -254,3 +254,6 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - 15:5x UTC: v8.3 stopped correctly at the cell 5 guard (folder not yet deleted); HF_TOKEN secret still not seen.
   Change: cell 4 now asks for the token in a hidden getpass box when no secret is available (session only, never
   saved in the notebook). Notebook v8.4 on Drive (id 1mchgUVXMHbT33OgfUUGY_islsU-9zoUD); v8.3 renamed old.
+- User asked for a notebook with their HF read token built in: v8.5_private on Drive only
+  (id 1rGrgRCmNvOvmmmVZaMqefjB28Xrrt0cT) = v8.4 with the token set in cell 4. The token is NOT in the repo; the
+  repo notebook keeps the secret/getpass version.
