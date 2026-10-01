@@ -1,0 +1,20 @@
+{"id": "multiturn-r6-0449", "problem": "assumed the colleague's gender before the user gave it", "change": "used neutral their/they"}
+{"id": "multiturn-r6-0457", "problem": "assumed the teacher's gender", "change": "used 'your teacher'"}
+{"id": "multiturn-r6-0469", "problem": "odd word split; weak meaning of synthesis", "change": "split photo/synthesis with real meanings"}
+{"id": "multiturn-r6-0471", "problem": "invented a river bridge the user never mentioned; odd line", "change": "replaced with neutral 'last stop'; fixed opening line"}
+{"id": "multiturn-r6-0473", "problem": "assumed a care sheet the user never mentioned", "change": "ask shop or vet instead"}
+{"id": "multiturn-r6-0480", "problem": "'Tell us' addressed a group that does not exist", "change": "reworded to 'Decide'"}
+{"id": "multiturn-r6-0486", "problem": "assumed a father or sibling exists", "change": "someone else at home"}
+{"id": "multiturn-r6-0488", "problem": "assumed the user uses the gift", "change": "made conditional"}
+{"id": "multiturn-r6-0489", "problem": "assumed team lead's gender", "change": "neutral they"}
+{"id": "multiturn-r6-0495", "problem": "assumed teacher's gender", "change": "'your teacher'"}
+{"id": "multiturn-r6-0519", "problem": "butter or cheese question not answered", "change": "answered both with a real difference, kept plain option"}
+{"id": "multiturn-r6-0530", "problem": "gave health advice (shoes, soft ground, rest) for knee pain", "change": "handed to parents and doctor, no advice; topic set to health"}
+{"id": "multiturn-r6-0531", "problem": "assumed the user has a jacket or shawl", "change": "conditional windproof layer"}
+{"id": "multiturn-r6-0545", "problem": "assumed the father drinks tea", "change": "a nice mug"}
+{"id": "multiturn-r6-0548", "problem": "gave injury advice (avoid sports, heavy walking)", "change": "handed to doctor, no advice"}
+{"id": "multiturn-r6-0574", "problem": "invented a phone the user never mentioned; unclear advice", "change": "replaced with reading time before bed"}
+{"id": "multiturn-r6-0576", "problem": "assumed teacher's gender", "change": "'your teacher'"}
+{"id": "multiturn-r6-0581", "problem": "gave health advice for itchy eyes", "change": "handed to parents and doctor"}
+{"id": "multiturn-r6-0592", "problem": "assumed teacher's gender", "change": "'the teacher'"}
+{"id": "multiturn-r6-0598", "problem": "assumed a cone is available", "change": "water bottles as markers"}
