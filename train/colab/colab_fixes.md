@@ -250,3 +250,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   1gWwm_MjfGJP9BgEEAjttyiyTjjfwWjTR). 97.6M params; pretrain 1,122 steps on the 73.5M-token set (eval 3.49, run 6:
   3.19 after 1.32B tokens); chat 1,406 steps, eval 2.79 (run 6: 2.29; the eval split differs). User sent it in 35 parts;
   offline test running into train/test_run7/ for comparison. The full ~1.9B-token run 7 is still to do (v8.3).
+  Offline test of this model: 13% overall (run 6 28%, run 5 22%); train/test_run7/compare_run6.md.
