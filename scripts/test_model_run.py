@@ -21,7 +21,7 @@ ap.add_argument('--rep-penalty', type=float, default=1.3); ap.add_argument('--se
 ap.add_argument('--threads', type=int, default=os.cpu_count())
 a = ap.parse_args()
 torch.set_num_threads(a.threads); torch.manual_seed(a.seed)
-LONG = {'story', 'writing', 'multi_question', 'multiline_complex', 'multiline_simple'}
+LONG = {'story', 'writing', 'multi_question', 'multiline_complex', 'multiline_simple', 'gsm8k_test', 'laghumath_seen'}
 
 s = torch.load(a.ckpt, map_location='cpu', weights_only=False)
 cfg = s['cfg']; model = qlm.build_model(cfg)
