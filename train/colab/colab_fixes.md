@@ -257,3 +257,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - User asked for a notebook with their HF read token built in: v8.5_private on Drive only
   (id 1rGrgRCmNvOvmmmVZaMqefjB28Xrrt0cT) = v8.4 with the token set in cell 4. The token is NOT in the repo; the
   repo notebook keeps the secret/getpass version.
+- **Run 7 (full) done, 19:32 UTC** with v8.5_private. 97.6M params, pretrain 1,920,303,259 tokens (19.7 per param,
+  Chinchilla), 29,302 steps 17:09-19:27 (2 h 18 min), final pretrain eval 3.206; chat 1,406 steps, eval 2.168
+  (run 6: 2.285; same sft eval split as run 7's earlier attempt, run 6's differs). Zip quicktalk_run7_model.zip
+  (362 MB, Drive id 1aS7sHohvQy-dmNsUG-VFzsRKB6qBKt7H), sent in 35 parts. The bad-data attempt's test moved to
+  train/test_run7_baddata/; the full model's offline test goes to train/test_run7/.

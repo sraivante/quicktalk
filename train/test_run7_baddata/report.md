@@ -1,4 +1,4 @@
-# Run 7 model test: 375 questions from the training material
+# Run 7 (bad-data attempt, 73.5M pretrain tokens) model test: 375 questions from the training material
 
 Accuracy = mean grade (correct = 1, partial = 0.5, wrong = 0), graded by reading each answer against the training reference (stories: relevance, coherence and length). Word overlap = content-word F1 with the training answer.
 
