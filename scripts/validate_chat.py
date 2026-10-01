@@ -12,6 +12,7 @@ TYPES = {  # type: (min pairs, max pairs, min words per assistant turn, max word
     'comprehension': (1, 1, 3, 65), 'writing': (1, 1, 20, 180), 'usage': (1, 1, 12, 90), 'hinglish_esl': (1, 3, 4, 110),
     'summary': (1, 1, 6, 90), 'literature': (1, 1, 5, 75), 'instruct': (1, 1, 2, 120), 'reasoning': (1, 1, 10, 90),
     'multi_question': (1, 1, 15, 200), 'dont_know': (1, 1, 8, 70),
+    'math': (1, 1, 1, 260),   # run 7: converted maths Q&A (laghumath curriculum, GSM8K word problems)
 }
 UNSURE = re.compile(r"\b(i don't know|i do not know|i'm not sure|i am not sure|i can't (see|check|know|tell|look up|be sure)|"
                     r"i cannot (see|check|know|tell|look up|be sure)|i have no way|i don't have|i do not have|"

@@ -237,7 +237,7 @@ def cmd_prepare(a):
         def records():
             for r in iter_jsonl(paths):
                 t = r.get('metadata', {}).get('type', '?')
-                for _ in range(repeat if t not in ('behaviour', 'raga') else 1): yield r   # upsample conversation patterns
+                for _ in range(repeat if t not in ('behaviour', 'raga', 'math') else 1): yield r   # upsample conversation patterns (not behaviour, raga or the large math set)
         for r in records():
             starts.append(len(ids)); types.append(r.get('metadata', {}).get('type', '?'))
             for text, train in chat_text(r['messages']):

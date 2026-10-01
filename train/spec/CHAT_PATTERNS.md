@@ -93,6 +93,10 @@ One JSON object per line:
   answered in order with a short answer; never switch into a different format inside an answer.
 - **rewrite (+300):** instructions whose change is obvious and checkable (tense, person, formal/casual, polite,
   shorter, simpler); the output must clearly differ from the input in the asked way.
+- **math (converted, not generated; user request 2026-10-01):** `scripts/build_math_chat.py` turns the user's own
+  maths curriculum (github.com/sraivante/laghumath, stages 0-8 = school level) and GSM8K train (MIT licence) into
+  `train/math/*_chat.jsonl` (type `math`). The full curriculum text (all stages) also goes into pretraining
+  (`train/sources/math/`). Math is NOT upsampled in chat training (1x). GSM8K test is kept for testing only.
 - New examples go to `train/chat_r7/<type>.jsonl` (ids `<type>-r7-NNNN`; easy maths `reasoning-r7m-NNNN`).
 
 ## Pilot

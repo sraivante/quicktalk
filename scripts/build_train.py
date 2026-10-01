@@ -35,7 +35,9 @@ norm = lambda s: re.sub(r'\s+', ' ', s).strip()
 # ---- chat data -------------------------------------------------------------------------------
 chat = collections.defaultdict(list)                       # type -> examples
 for f in sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r7', '*.jsonl'))) + \
-        sorted(glob.glob(os.path.join(T, 'pilot', '*.jsonl'))):   # chat_r6 = run 6 additions (1,000 per type)
+        sorted(glob.glob(os.path.join(T, 'pilot', '*.jsonl'))) + \
+        sorted(glob.glob(os.path.join(T, 'math', '*_chat.jsonl'))):   # chat_r6/r7 = run 6/7 additions; math = run 7
+
     for r in load(f): chat[r['metadata']['type']].append(r)
 behaviour = [r for f in sorted(glob.glob(os.path.join(T, 'sources', 'behaviour_chat_*.jsonl'))) for r in load(f)]
 raga = load(os.path.join(T, 'sources', 'raga_qa.jsonl'))
@@ -107,6 +109,11 @@ for f in sorted(glob.glob(os.path.join(T, 'sources', 'books', '*.txt'))):
             pre_eval.append('\n\n'.join(chunk)); continue
         keep = [p for p in chunk if not has_eval(p)]; dropped += len(chunk) - len(keep)
         if keep: blocks.append('\n\n'.join(keep))
+for f in sorted(glob.glob(os.path.join(T, 'sources', 'math', '*.txt'))):   # run 7: maths curriculum text
+    for p in open(f, encoding='utf-8').read().split('\n\n'):
+        if not p.strip(): continue
+        if has_eval(p): dropped += 1
+        else: blocks.append(p)
 beh_paras = [p for p in open(os.path.join(T, 'sources', 'corpus_behaviour.txt'), encoding='utf-8').read().split('\n\n') if p.strip()]
 for p in beh_paras:
     if norm(p) in eval_passages: pre_eval.append(p)
