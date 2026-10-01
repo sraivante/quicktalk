@@ -574,3 +574,4 @@ python3 scripts/export_dataset.py
 - 15:45 Run 7 bad-data model (73.5M pretrain tokens) tested: 13% overall vs run 6 28% (train/test_run7/). Real run 7 still to train with v8.3 after deleting MyDrive/quicktalk_run7.
 - 22:40 Run 7 full model received (1.92B pretrain tokens, pretrain eval 3.21, chat eval 2.17); offline test running into train/test_run7/ (bad-data attempt's test moved to train/test_run7_baddata/).
 - 22:50 Run 7 full offline test: 29% (run 6 28%, run 5 22%). Gains: grammar 39%, multiline_complex 36%, simple one-liners 25%; losses: story 14%, multiturn 24%.
+- 23:23 Maths test (train/test_math/): run 7 GSM8K test 2%, fresh easy sums 1%, seen laghumath 18%, seen easy sums 16%; run 6 3% overall. Cause likely digit-merging tokenizer.
