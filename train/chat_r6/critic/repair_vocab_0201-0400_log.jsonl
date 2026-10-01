@@ -1,0 +1,26 @@
+{"id": "vocab-r6-0206", "problem": "Example repeats the idea twice (approximate ... about)", "change": "Removed the redundant 'about' in the example"}
+{"id": "vocab-r6-0209", "problem": "metadata.topic does not fit the content", "change": "Changed topic to community"}
+{"id": "vocab-r6-0221", "problem": "metadata.topic does not fit the content", "change": "Changed topic to weather"}
+{"id": "vocab-r6-0225", "problem": "metadata.topic does not fit the content", "change": "Changed topic to town"}
+{"id": "vocab-r6-0236", "problem": "metadata.topic does not fit the content", "change": "Changed topic to weather"}
+{"id": "vocab-r6-0240", "problem": "metadata.topic does not fit the content", "change": "Changed topic to science"}
+{"id": "vocab-r6-0243", "problem": "metadata.topic does not fit the content", "change": "Changed topic to science"}
+{"id": "vocab-r6-0246", "problem": "metadata.topic does not fit the content", "change": "Changed topic to family"}
+{"id": "vocab-r6-0251", "problem": "metadata.topic does not fit the content", "change": "Changed topic to music"}
+{"id": "vocab-r6-0262", "problem": "Answer is about a brother but example uses cousins", "change": "Example now uses brothers"}
+{"id": "vocab-r6-0274", "problem": "Question asks why the guard says it; answer only defines the word", "change": "Added one sentence saying why a guard says it"}
+{"id": "vocab-r6-0279", "problem": "metadata.topic does not fit the content", "change": "Changed topic to science"}
+{"id": "vocab-r6-0286", "problem": "Answer reassures about a family member's mood, edging toward advice", "change": "Reworded to say only what the word names"}
+{"id": "vocab-r6-0293", "problem": "metadata.topic does not fit the content", "change": "Changed topic to weather"}
+{"id": "vocab-r6-0302", "problem": "metadata.topic does not fit the content", "change": "Changed topic to weather"}
+{"id": "vocab-r6-0319", "problem": "metadata.topic does not fit the content", "change": "Changed topic to science"}
+{"id": "vocab-r6-0325", "problem": "Example does not fit the sense (a bee landing does not sting)", "change": "Example now says the bee stung him"}
+{"id": "vocab-r6-0334", "problem": "metadata.topic does not fit the content", "change": "Changed topic to town"}
+{"id": "vocab-r6-0351", "problem": "metadata.topic does not fit the content", "change": "Changed topic to history"}
+{"id": "vocab-r6-0363", "problem": "Question asks about ceremonial dress; answer never mentions dress", "change": "Added a sentence linking the word to dress"}
+{"id": "vocab-r6-0372", "problem": "metadata.topic does not fit the content", "change": "Changed topic to history"}
+{"id": "vocab-r6-0377", "problem": "metadata.topic does not fit the content", "change": "Changed topic to friends"}
+{"id": "vocab-r6-0384", "problem": "Question asks how hatching differs from cracking; answer ignores cracking", "change": "Added a sentence contrasting cracking with hatching"}
+{"id": "vocab-r6-0391", "problem": "metadata.topic does not fit the content", "change": "Changed topic to weather"}
+{"id": "vocab-r6-0393", "problem": "metadata.topic does not fit the content", "change": "Changed topic to art"}
+{"id": "vocab-r6-0400", "problem": "Question asks why a spiteful remark hurts; answer only defines the word", "change": "Added a sentence giving the reason"}
