@@ -239,3 +239,10 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   asserts every extra set was downloaded before `prepare` runs.
 - Notebook v8.2 on Drive (id 12UpTplht6_tYz152iMYWgcDKiETWRi5D) = repo notebook with the cell 5 download guard;
   v8.1 renamed "(old - use v8.2)".
+- **Run 7, 14:58 UTC: re-run on v8.2 without deleting the folder.** quicktalk_run7/data, plan.json and checkpoints
+  from the interrupted attempt were still there, so cell 5 skipped the downloads (the new guard only runs when fetch
+  runs) and training started on the 73.5M-token set: 1,122 pretrain steps, 250k tok/s, eval 3.73 at step 600 (no use).
+  HF_TOKEN secret not set ("no HF_TOKEN secret"). Fix: stop, delete the whole MyDrive/quicktalk_run7 folder, Run all.
+  Change: cell 5 now stops if plan.json reports < 1B pretraining tokens. Notebook v8.3 on Drive
+  (id 1G1z1cuhXq8_bUDyTbi1amkK62KdTn50h); v8.2 renamed old. Expected full run at 250k tok/s: downloads ~30 min,
+  tokenizing ~30-40 min, pretraining 1.92B tokens ~2.2 h, chat training ~10 min: ~3.3 h total.
