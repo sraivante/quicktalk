@@ -12,6 +12,8 @@ set teaches it how to answer different kinds of requests.
 | `eval/pretrain_eval.txt` | held-out text for perplexity |
 | `manifest.json` | seed, counts and share per type, which groups went to eval |
 
+Every dataset (sources, paths, sizes, licences, downloads, Drive artefacts, test sets): `train/dataset_info.txt`.
+
 Splits are by group (all variants of a behaviour row, or one source text, stay on one side). Nothing in eval appears in
 training or in the pretraining text (checked).
 

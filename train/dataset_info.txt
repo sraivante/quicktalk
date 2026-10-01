@@ -1,0 +1,176 @@
+QUICKTALK DATASET INFO
+======================
+Reference list of every dataset used to train the QuickTalk model: what it is, where it lives, how it was built,
+how big it is, its licence, and where it is used. Paths are relative to the repo root (sraivante/quicktalk, branch
+claude/intelligent-ride-oxqjfy) unless they start with MyDrive/ (Google Drive) or /content/ (Colab runtime).
+Update this file whenever a dataset is added, changed or removed.
+Last updated: 2026-10-01 (after run 5 and its offline test; run 6 additions listed at the end as PLANNED).
+
+
+1. OVERVIEW: WHAT GOES INTO TRAINING
+------------------------------------
+Stage 1, pretraining (plain text, next-word prediction):
+  - Books (English only), 4.56M words                  -> own text
+  - Behaviour passages, 5.83M words                     -> own text
+  - TinyStories (run 5 onward), ~537M tokens            -> downloaded in Colab
+  - Simple English Wikipedia (run 5 onward), ~54M tokens -> downloaded in Colab
+Stage 2, chat fine-tuning (user/assistant chats, loss on assistant replies only):
+  - Behaviour chats, 46,719 records (45,804 in training)
+  - 12 chat-pattern types, 2,640 examples (2,400 full run + 240 pilot; 200 per type in training)
+  - Raga Q&A, 338 (308 in training)
+
+Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenizer):
+  pretraining 633,043,461 tokens = own text x3 (42.4M) + Simple Wikipedia (53.7M) + TinyStories (537M)
+  chat        16,059,994 tokens, 53,312 chats (chat patterns x3), 4,397,582 assistant (trained) tokens
+  model       69.5M parameters (d=640, 12 layers, 10 heads), 10 tokens seen per parameter
+
+
+2. SOURCE DATA (OWN)
+--------------------
+2.1 Human behaviour framework
+  Path:     data/human_development_framework_v9.csv (+ .xlsx)
+  What:     7,689 rows of human behaviour, mindset and execution, ages 1-26 (1-3, 4-6, 7-12, 13-17, 18-22, 23-26),
+            57 topics. Columns: S.No, Age, Topic, Subtopic, Subtype, Human Learning & Development.
+  Related:  kg/ (knowledge graph, ~940 clusters of related rows), config/ (variants, recipes), prompts/ (generation
+            prompts), spec/ and source/ (how rows were written). See README.md.
+  Rule:     do not edit the CSV, config or prompts without the user's approval.
+
+2.2 Behaviour records (generated from the framework)
+  Path:     data/rows/NNNNN.jsonl (7,689 files, one per S.No) and data/clusters/CNNNN.jsonl (939 cluster files)
+  What:     each record = one passage (40-160 words by age) + 4 Q&A (literal, mental_state, application,
+            perspective; graph records: literal, relational, mental_state, application) + grounding line.
+            Fields include sno, variant, recipe, age, topic, subtopic, subtype, passage, qa.
+  Built by: generation subagents (pipeline in README.md, scripts/make_batches.py, validate_jsonl.py, commit_rows.py).
+  Size:     ~46,700 records (data/ is ~101 MB).
+
+2.3 Book zips (as supplied by the user)
+  Path:     compressdata/
+    complete_panchatantra_english_stories_with_morals.zip   (279 KB)
+    complete_ramayana_mahabharata_english_txt.zip           (6.1 MB)
+    english_big_vocabulary_novels_txt.zip                   (3.9 MB)
+    indian_raga_teaching_english_with_qa.zip                (27 KB)
+  Licence:  the texts are public-domain works (Project Gutenberg editions; Gutenberg header/footer removed).
+
+
+3. BUILT SOURCES (train/sources/)
+---------------------------------
+3.1 Books, cleaned, English only
+  Path:     train/sources/books/*.txt (17 files) + train/sources/books/REPORT.txt (per-file counts, what was dropped)
+  Built by: python3 scripts/build_book_corpus.py   (from compressdata/*.zip)
+  Cleaning: Gutenberg text and numbered footnotes removed; foreign sentences/phrases (French, Italian, Latin,
+            German, Spanish, Sanskrit) and non-Latin scripts removed; accents folded to ASCII; Panchatantra
+            two-page spreads split and narrow-column prose re-joined.
+  Books:    War and Peace (Tolstoy), Moby Dick (Melville), Great Expectations (Dickens), Jane Eyre (C. Bronte),
+            Dracula (Stoker), Pride and Prejudice (Austen), Frankenstein (Shelley), Wuthering Heights (E. Bronte),
+            Adventures of Sherlock Holmes (Doyle), Alice in Wonderland (Carroll), Mahabharata (Ganguli, 4 volumes),
+            Ramayana of Valmiki (Griffith verse), Panchatantra (Ryder), Raga Teaching Book.
+  Size:     4,556,318 words kept (26.0 MB).
+
+3.2 Behaviour as chats
+  Path:     train/sources/behaviour_chat_01.jsonl .. _04.jsonl (15,000 records per part)
+  Built by: python3 scripts/build_behaviour_chat.py   (from data/rows and data/clusters)
+  Format:   {"messages": [...], "metadata": {source, id, group, age, topic, subtype, qa_types}}
+            First user turn: "Read this:\n\n{passage}\n\n{question 1}", then questions 2-4 as follow-up turns.
+  Size:     46,719 chats.
+
+3.3 Behaviour passages as plain text
+  Path:     train/sources/corpus_behaviour.txt
+  Built by: scripts/build_behaviour_chat.py
+  Size:     5,829,153 words.
+
+3.4 Raga Q&A
+  Path:     train/sources/raga_qa.jsonl
+  Built by: scripts/build_book_corpus.py   (from the raga zip)
+  Size:     338 Q&A.
+
+
+4. CHAT PATTERNS (train/chat/, train/pilot/)
+--------------------------------------------
+  Spec:     train/spec/CHAT_PATTERNS.md (format and rules for each type), train/spec/CHAT_FULL.md (full-run mechanics,
+            book allocation), train/spec/vocab_words.txt (9,493 words for vocab/usage).
+  Path:     train/chat/<type>.jsonl (200 per type, full run) and train/pilot/<type>.jsonl (20 per type, pilot;
+            pilot critic review in train/pilot/critic/).
+  Types:    grammar, multiturn, vocab, rewrite, comprehension, writing, usage, hinglish_esl, summary, literature,
+            instruct, reasoning (90 of the 200 reasoning examples contain numbers/arithmetic).
+  Built by: Sonnet generation subagents, checked by scripts/validate_chat.py (roles, word ranges per type,
+            blocklist, ASCII, verbatim whole-sentence excerpts with balanced quotes, "Why:"/"Because" lines), and
+            reviewed by a separate critic agent. All 2,400 full-run examples: 0 validator failures.
+  Format:   {"messages": [...], "metadata": {"type", "group", ...}}
+
+
+5. TRAINING BUILD (train/build/) - what the model actually reads
+---------------------------------------------------------------
+  Built by: python3 scripts/build_train.py --seed 1234 --chat-repeat 1 --chat-eval 20 --behaviour-eval-frac 0.02
+            --book-eval-frac 0.01        (layout described in train/README.md; counts in train/build/manifest.json)
+  Files:
+    train/build/pretrain_01.txt, pretrain_02.txt   books + behaviour passages, shuffled in blocks, eval text removed
+                                                   (72,427 blocks, 10,256,960 words; 410 paragraphs dropped for
+                                                   overlap with eval)
+    train/build/sft_train_01.jsonl, _02.jsonl      all chats mixed and shuffled: 48,512 examples
+                                                   (behaviour 45,804 = 94.4%; each chat type 200 = 0.41%; raga 308)
+    train/build/eval/sft_eval_<type>.jsonl         held out per type: behaviour 915, raga 30, each chat type 20
+    train/build/eval/sft_eval_all.jsonl            all of the above (1,185)
+    train/build/eval/pretrain_eval.txt             787 held-out blocks, 109,750 words
+    train/build/manifest.json                      seed, counts, shares, which groups went to eval
+  Splits are by group (all variants of a behaviour row / one source text stay on one side); nothing in eval appears
+  in training or in the pretraining text (checked).
+  Chat-pattern upsampling is applied later, in Colab: quicktalk_lm.py prepare --chat-repeat N (runs 4-5: N=3).
+
+
+6. DOWNLOADED DATA (Colab only, run 5 onward)
+---------------------------------------------
+  Downloaded by: python train/colab/quicktalk_lm.py fetch --out /content/extra   (in Colab; this repo's container
+                 cannot reach Hugging Face). Not stored in the repo or Drive; re-downloaded when needed.
+  Cleaning:      English only: lines with non-Latin scripts dropped, "(French: ...)"-style asides removed, accents
+                 folded to ASCII; Wikipedia references sections cut.
+6.1 TinyStories
+  Source:   Hugging Face roneneldan/TinyStories, file TinyStoriesV2-GPT4-train.txt
+  Licence:  CDLA-Sharing-1.0
+  Size:     2,190 MB text, ~537M tokens
+6.2 Simple English Wikipedia
+  Source:   Hugging Face wikimedia/wikipedia, config 20231101.simple
+  Licence:  CC BY-SA
+  Size:     155,858 articles, 202 MB, ~54M tokens
+  Use:      both go into pretraining only (quicktalk_lm.py prepare --extra /content/extra --own-repeat 3) and a 150 MB
+            sample into tokenizer training (tokenizer --extra --extra-sample-mb 150).
+
+
+7. COLAB / DRIVE ARTEFACTS
+--------------------------
+  Code:       train/colab/quicktalk_lm.py (fetch, tokenizer, prepare, plan, train, chat), quicktalk_train.ipynb
+  History:    train/colab/colab_fixes.md (every run: issue, change, output)
+  Drive:      MyDrive/quicktalk_run, _run2 .. _run5   per-run folders: tokenizer.json, plan.json, data/*.bin (token
+              files), checkpoints/ (pretrain_final.pt, sft_final.pt, *_latest.pt), log_*.csv, train.log
+              MyDrive/quicktalk_run5_model.zip   run 5 model zip (258.5 MB): sft_final.pt, tokenizer.json, plan.json,
+              quicktalk_lm.py, log_pretrain.csv, log_sft.csv, train.log
+  Token files (per run, in data/): pretrain_train.bin, pretrain_val.bin, sft_train.bin (+ _mask, _starts, _types),
+              sft_val.bin (+ _mask, _starts, _types)
+
+
+8. TEST SETS
+------------
+  Held-out eval:  train/build/eval/ (see section 5); used for eval loss during training.
+  Run 5 offline test: train/test_run5/
+    testset.jsonl   375 questions, ALL from training material (sft_train + story subjects from the training books /
+                    TinyStories), 10 categories: simple/complex one-liners, multi-line simple/complex, 2-5 questions in
+                    one message, multi-turn, stories, writing, grammar, passages
+    answers.jsonl   run 5 answers (greedy, repetition penalty 1.3); grades.jsonl (1 / 0.5 / 0 with a reason)
+    report.md, results.csv   accuracy tables; overall 22%
+    Built/run by:   scripts/test_model_build.py, test_model_run.py, test_model_report.py
+
+
+9. PLANNED FOR RUN 6 (agreed with the user 2026-10-01; not built yet)
+--------------------------------------------------------------------
+  Model size stays 69.5M. Nothing existing is removed; balance comes from adding data.
+  Chat patterns (+~13,000, same pipeline: Sonnet generator, validate_chat.py, separate critic):
+    +1,000 each: vocab, usage, grammar (correct "Why:"), instruct, hinglish_esl, rewrite, comprehension, summary,
+                 writing, multiturn, reasoning (everyday reasoning only, NO arithmetic)
+    new type multi_question (1,000): 2-5 questions in one message, answered in order
+    new type dont_know (1,000): honest "I don't know" for things the model cannot know (news, prices, personal
+                 details, very specific facts, reliable maths)
+    no new literature (knowledge) or arithmetic examples
+    hold out ~30 new examples per type as an unseen test
+  Pretraining additions (downloaded in Colab, English-only filters):
+    WordNet definitions written as sentences (~10M tokens, repeated 3x)
+    more general text (e.g. FineWeb-Edu sample ~400M tokens, ODC-By) and, if approved, SODA dialogues (CC BY 4.0)
+  Pending user approval: spec changes in train/spec/CHAT_PATTERNS.md, counts per type, which pretraining sources.
