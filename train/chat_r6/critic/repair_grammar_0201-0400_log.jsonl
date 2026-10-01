@@ -1,0 +1,11 @@
+{"id": "grammar-r6-0239", "problem": "Why states 'say' is never used with 'truth' as absolute.", "change": "Softened Why."}
+{"id": "grammar-r6-0243", "problem": "'denied giving' changes the meaning (says he did not give one, not that he would not).", "change": "Used 'refused to give'; Why names deny vs refuse."}
+{"id": "grammar-r6-0257", "problem": "metadata.topic 'feelings' does not fit a singer on stage.", "change": "Topic set to music."}
+{"id": "grammar-r6-0306", "problem": "metadata.topic 'home' does not fit reading a novel.", "change": "Topic set to books."}
+{"id": "grammar-r6-0338", "problem": "Why says 'take' does not go with prize; 'took first prize' is usual English.", "change": "Reworded Why to the usual phrase 'win a prize'."}
+{"id": "grammar-r6-0339", "problem": "Why said 'pass' means to go by, but 'pass the time' is also standard; misleading.", "change": "Reworded Why to say 'spend the holidays' is the usual phrase."}
+{"id": "grammar-r6-0352", "problem": "Repeated 'Yes, X is right/correct' opening for an already-correct reply.", "change": "Reworded the opening only."}
+{"id": "grammar-r6-0353", "problem": "metadata.topic 'festival' does not fit a weekly temple visit with grandfather.", "change": "Topic set to family."}
+{"id": "grammar-r6-0396", "problem": "Repeated 'Yes, X is right' opening for an already-correct reply.", "change": "Reworded the opening only."}
+{"id": "grammar-r6-0398", "problem": "Repeated stock opening (same as 0248) for an already-correct reply.", "change": "Reworded the opening only."}
+{"id": "grammar-r6-0399", "problem": "Repeated stock opening (same as 0247) for an already-correct reply.", "change": "Reworded the opening only."}
