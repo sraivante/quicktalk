@@ -1,0 +1,3 @@
+{"id": "instruct-r6-0292", "problem": "Topic 'dialogue' is a form, not a topic.", "change": "Topic set to food."}
+{"id": "instruct-r6-0483", "problem": "Repeated word in 'Cool Lemon Cooler'.", "change": "Changed to 'Fresh Lemon Cooler' (three words, title case)."}
+{"id": "instruct-r6-0609", "problem": "Old oxygen explanation of yawning stated as fact.", "change": "Hedged: reason not known; may help cool the brain and keep us alert. Still two sentences, no 'tired'."}
