@@ -1,0 +1,27 @@
+{"id": "writing-r6-0402", "problem": "topic does not fit (school invitation)", "change": "topic family -> school"}
+{"id": "writing-r6-0407", "problem": "invented a name (Dev) the user did not give", "change": "removed the name; added a few words to stay near 70"}
+{"id": "writing-r6-0413", "problem": "topic does not fit (restaurant complaint)", "change": "topic neighbours -> food"}
+{"id": "writing-r6-0416", "problem": "topic does not fit", "change": "topic school -> places"}
+{"id": "writing-r6-0417", "problem": "invented a name (Zoya) in a diary entry", "change": "removed the name"}
+{"id": "writing-r6-0424", "problem": "invented a regional kin term (Ajji) the user did not use", "change": "used 'my grandmother'"}
+{"id": "writing-r6-0425", "problem": "topic does not fit (fear of dark)", "change": "topic animals -> feelings"}
+{"id": "writing-r6-0426", "problem": "68 words for about 80 (-15%)", "change": "added one sentence"}
+{"id": "writing-r6-0430", "problem": "sender 'Music Department' invented; topic work does not fit", "change": "removed invented sign-off; topic -> school"}
+{"id": "writing-r6-0438", "problem": "63 words for about 55 (+15%)", "change": "tightened to about 58"}
+{"id": "writing-r6-0448", "problem": "lines are 9 words, not about eight", "change": "each line now exactly eight words"}
+{"id": "writing-r6-0459", "problem": "topic 'books' does not fit", "change": "topic -> school"}
+{"id": "writing-r6-0481", "problem": "invented a name (Kavita) for the friend", "change": "removed the name; kept length near 70"}
+{"id": "writing-r6-0482", "problem": "invented regional kin term (Ajji)", "change": "used 'my grandmother'"}
+{"id": "writing-r6-0498", "problem": "invented kin term (Dada)", "change": "used 'Grandpa'"}
+{"id": "writing-r6-0499", "problem": "'wait a bit / do not flit' is a forced, meaningless rhyme", "change": "rewrote lines 3-4 with a real rhyme"}
+{"id": "writing-r6-0529", "problem": "topic 'nature' does not fit", "change": "topic -> school"}
+{"id": "writing-r6-0534", "problem": "invented kin term (Dada)", "change": "used 'my grandfather'"}
+{"id": "writing-r6-0541", "problem": "topic 'weather' does not fit", "change": "topic -> home"}
+{"id": "writing-r6-0548", "problem": "lines 1-2 (side / cry) do not rhyme", "change": "rewrote lines 1-2 with a real rhyme"}
+{"id": "writing-r6-0551", "problem": "invented a name (Meera) for the sister", "change": "greeting Dear Sister"}
+{"id": "writing-r6-0553", "problem": "invented kin term (Dada)", "change": "used 'Grandpa'"}
+{"id": "writing-r6-0568", "problem": "topic 'technology' does not fit", "change": "topic -> community"}
+{"id": "writing-r6-0571", "problem": "added an unasked requirement and an invented sender (Staff Room)", "change": "removed both; kept about 40 words"}
+{"id": "writing-r6-0577", "problem": "topic 'family' does not fit", "change": "topic -> everyday"}
+{"id": "writing-r6-0583", "problem": "invented kin term and an added number (two miles)", "change": "used 'my grandfather'; removed number"}
+{"id": "writing-r6-0599", "problem": "last two lines do not make sense ('instead')", "change": "rewrote final line"}
