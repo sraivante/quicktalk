@@ -580,3 +580,4 @@ python3 scripts/export_dataset.py
 - 23:48 Run 8 grammar Why repair merged: all 1,220 grammar rows (train/chat 200, pilot 20, chat_r6 1000) now use rule-name Why (99 'no error' rows); 2 independent reviewers fixed 67; logs train/chat_r8/critic/grammar_{A,B}_log.jsonl; all 0 FAIL with --run8. multi_question r8 600 written (2 batches reviewed), multiturn/stories still generating.
 - 23:52 Run 8 multiturn: 1,000 rows (8 batches generated, each independently reviewed, 225 fixed) in train/chat_r8/multiturn.jsonl; recall-style last turns ~15%.
 - 23:53 Run 8 multi_question final: 600 rows, 3 independent reviews + 2 repeat passes (45 rows changed), no repeated question within the file or vs chat_r6/r7.
+- 23:58 Run 8 stories: 800 (writing, kind=story) in train/chat_r8/writing.jsonl, 4 batches each independently reviewed (112 fixed incl. ~30 child-safety fixes, ~25 near-duplicate plots rewritten). Dupes check vs all chat data running; then build_train.
