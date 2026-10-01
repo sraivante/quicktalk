@@ -1,0 +1,24 @@
+{"id": "multiturn-r8-0880", "problem": "last user turn unnatural (asks own name to introduce himself to his sister)", "action": "rewrote last pair to recall the detective book"}
+{"id": "multiturn-r8-0881", "problem": "last user turn unnatural (asks where she herself was)", "action": "reworded last user turn"}
+{"id": "multiturn-r8-0889", "problem": "confusing advice wording (warm water after lunch)", "action": "clarified sentence"}
+{"id": "multiturn-r8-0892", "problem": "awkward grammar; last reply said keep tip for next summer although user tries it tomorrow", "action": "fixed grammar and last reply"}
+{"id": "multiturn-r8-0899", "problem": "last reply misstated the order of earlier suggestions", "action": "corrected recall"}
+{"id": "multiturn-r8-0916", "problem": "last user turn confusing and reply logic muddled", "action": "reworded last pair"}
+{"id": "multiturn-r8-0918", "problem": "comma splice", "action": "split sentence"}
+{"id": "multiturn-r8-0921", "problem": "awkward phrasing; last reply ignored the tulsi and jasmine detail", "action": "fixed wording, last reply now uses the detail"}
+{"id": "multiturn-r8-0922", "problem": "word form error", "action": "fixed"}
+{"id": "multiturn-r8-0935", "problem": "'group photo' for two people", "action": "fixed"}
+{"id": "multiturn-r8-0940", "problem": "assumed gender before user said it", "action": "reworded"}
+{"id": "multiturn-r8-0949", "problem": "awkward greeting to a third person", "action": "reworded"}
+{"id": "multiturn-r8-0958", "problem": "subject-verb agreement, odd wording", "action": "fixed"}
+{"id": "multiturn-r8-0960", "problem": "awkward phrase", "action": "fixed"}
+{"id": "multiturn-r8-0962", "problem": "awkward, slightly dismissive phrasing", "action": "reworded"}
+{"id": "multiturn-r8-0968", "problem": "weak logic in last reply", "action": "reworded"}
+{"id": "multiturn-r8-0970", "problem": "assumed gender before user said it", "action": "reworded"}
+{"id": "multiturn-r8-0975", "problem": "odd gift item", "action": "replaced"}
+{"id": "multiturn-r8-0978", "problem": "assistant was scripted to confuse the user's name, then corrected", "action": "rewrote turns 6-8 so the last turn recalls Ryan sweating and the timer"}
+{"id": "multiturn-r8-0980", "problem": "assumed Pari arrives later", "action": "reworded"}
+{"id": "multiturn-r8-0983", "problem": "illogical sentence", "action": "reworded"}
+{"id": "multiturn-r8-0988", "problem": "grammar", "action": "fixed"}
+{"id": "multiturn-r8-0992", "problem": "last reply did not use the mela detail; odd ending line", "action": "reworded"}
+{"id": "multiturn-r8-0994", "problem": "subject-verb agreement", "action": "fixed"}

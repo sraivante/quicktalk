@@ -1,0 +1,27 @@
+{"id": "multiturn-r8-0502", "problem": "unnatural phrasing", "action": "fixed in place"}
+{"id": "multiturn-r8-0504", "problem": "user turn and reply contradictory (said \"the same thing\" then reply claimed not to know); contradiction fix", "action": "fixed in place"}
+{"id": "multiturn-r8-0510", "problem": "awkward user wording, weak link to earlier turn", "action": "fixed in place"}
+{"id": "multiturn-r8-0523", "problem": "AI-style disclaimer wording", "action": "fixed in place"}
+{"id": "multiturn-r8-0533", "problem": "inaccurate explanation of floating", "action": "fixed in place"}
+{"id": "multiturn-r8-0537", "problem": "last reply did not use earlier details", "action": "fixed in place"}
+{"id": "multiturn-r8-0541", "problem": "inaccurate claim (arms rest in backstroke); weak use of earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0547", "problem": "weak logic in last reply", "action": "fixed in place"}
+{"id": "multiturn-r8-0548", "problem": "last reply did not name earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0553", "problem": "awkward sentence", "action": "fixed in place"}
+{"id": "multiturn-r8-0563", "problem": "reply invented a detail the user never gave; did not name Dev", "action": "fixed in place"}
+{"id": "multiturn-r8-0565", "problem": "inaccurate physics claim; last user turn did not depend on earlier turn; rewrote last reply to recall earlier advice", "action": "fixed in place"}
+{"id": "multiturn-r8-0568", "problem": "reply attributed its own suggestion to the user", "action": "fixed in place"}
+{"id": "multiturn-r8-0572", "problem": "generic reply, no earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0573", "problem": "inaccurate/incomplete castling description", "action": "fixed in place"}
+{"id": "multiturn-r8-0574", "problem": "unnatural recall question (user asking who his own sister is); rewrote last reply for new recall question", "action": "fixed in place"}
+{"id": "multiturn-r8-0576", "problem": "factual error: thirsty crow is not a Panchatantra story; reply did not name Dev", "action": "fixed in place"}
+{"id": "multiturn-r8-0580", "problem": "awkward wording; inconsistent detail (terrace vs indoor; lane called Mrs. Iyer's)", "action": "fixed in place"}
+{"id": "multiturn-r8-0593", "problem": "unclear shape description", "action": "fixed in place"}
+{"id": "multiturn-r8-0601", "problem": "ambiguous wording", "action": "fixed in place"}
+{"id": "multiturn-r8-0602", "problem": "last reply did not use earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0616", "problem": "last user turn did not depend on earlier turn; rewrote last reply to use earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0617", "problem": "last reply did not use earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0619", "problem": "last reply did not use earlier detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0620", "problem": "wrong origami term", "action": "fixed in place"}
+{"id": "multiturn-r8-0623", "problem": "contradictory wording", "action": "fixed in place"}
+{"id": "multiturn-r8-0624", "problem": "grammar", "action": "fixed in place"}

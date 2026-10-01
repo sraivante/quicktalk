@@ -1,0 +1,26 @@
+{"id": "multiturn-r8-0129", "problem": "illogical phrase in last reply", "action": "fixed in place"}
+{"id": "multiturn-r8-0137", "problem": "assumed spouse gender not given earlier", "action": "fixed in place"}
+{"id": "multiturn-r8-0140", "problem": "awkward phrasing", "action": "fixed in place"}
+{"id": "multiturn-r8-0146", "problem": "stated a speculative outcome as fact", "action": "fixed in place"}
+{"id": "multiturn-r8-0148", "problem": "invented detail not given earlier", "action": "fixed in place"}
+{"id": "multiturn-r8-0149", "problem": "last user turn was confused and redundant; last reply rewritten to match new recall question", "action": "fixed in place"}
+{"id": "multiturn-r8-0158", "problem": "advice contradicted the later reply about not relaying each side", "action": "fixed in place"}
+{"id": "multiturn-r8-0163", "problem": "implied friendship lasted his whole life", "action": "fixed in place"}
+{"id": "multiturn-r8-0176", "problem": "assumed spouse detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0179", "problem": "last reply did not use earlier detail by name", "action": "fixed in place"}
+{"id": "multiturn-r8-0186", "problem": "assistant invented friend names as if known; last user turn rewritten to recall a real earlier detail; last reply rewritten to match new recall question", "action": "fixed in place"}
+{"id": "multiturn-r8-0187", "problem": "wording", "action": "fixed in place"}
+{"id": "multiturn-r8-0193", "problem": "user asked and answered own question", "action": "fixed in place"}
+{"id": "multiturn-r8-0197", "problem": "invented a friend name never mentioned", "action": "fixed in place"}
+{"id": "multiturn-r8-0203", "problem": "reply implied it knew the subject", "action": "fixed in place"}
+{"id": "multiturn-r8-0208", "problem": "assumed photographer gender", "action": "fixed in place"}
+{"id": "multiturn-r8-0209", "problem": "unsupported causal claim", "action": "fixed in place"}
+{"id": "multiturn-r8-0214", "problem": "grammar", "action": "fixed in place"}
+{"id": "multiturn-r8-0221", "problem": "misattributed the reception idea to Hannah", "action": "fixed in place"}
+{"id": "multiturn-r8-0225", "problem": "praise contradicted the user honest view; tense error", "action": "fixed in place"}
+{"id": "multiturn-r8-0227", "problem": "assumed photographer gender", "action": "fixed in place"}
+{"id": "multiturn-r8-0235", "problem": "last user turn asked about something already plainly stated together; last reply rewritten to match new recall question", "action": "fixed in place"}
+{"id": "multiturn-r8-0236", "problem": "reply did not answer the train question sensibly", "action": "fixed in place"}
+{"id": "multiturn-r8-0237", "problem": "lateness did not match the times given; timing aligned with earlier turn", "action": "fixed in place"}
+{"id": "multiturn-r8-0242", "problem": "invented relationship detail", "action": "fixed in place"}
+{"id": "multiturn-r8-0243", "problem": "assumed the tailor option failed", "action": "fixed in place"}

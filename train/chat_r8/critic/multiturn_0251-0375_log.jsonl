@@ -1,0 +1,20 @@
+{"id": "multiturn-r8-0271", "problem": "unnatural user phrasing", "action": "fixed in place"}
+{"id": "multiturn-r8-0277", "problem": "reply contradicts earlier method (ginger boiled for all)", "action": "fixed in place"}
+{"id": "multiturn-r8-0283", "problem": "self-contradictory instruction", "action": "fixed in place"}
+{"id": "multiturn-r8-0285", "problem": "reply misstates what user did earlier", "action": "fixed in place"}
+{"id": "multiturn-r8-0300", "problem": "custard needs cooking, contradicted no-cook request", "action": "fixed in place"}
+{"id": "multiturn-r8-0301", "problem": "assumed mother had died", "action": "fixed in place"}
+{"id": "multiturn-r8-0302", "problem": "awkward user turn", "action": "fixed in place"}
+{"id": "multiturn-r8-0319", "problem": "hing advice inaccurate (added first, not last)", "action": "fixed in place"}
+{"id": "multiturn-r8-0331", "problem": "garbled soaking instruction", "action": "fixed in place"}
+{"id": "multiturn-r8-0337", "problem": "user addressed himself by name", "action": "fixed in place"}
+{"id": "multiturn-r8-0341", "problem": "grammar", "action": "fixed in place"}
+{"id": "multiturn-r8-0343", "problem": "contradiction (plain dosa vs potato filling) and invented sister", "action": "fixed in place"}
+{"id": "multiturn-r8-0350", "problem": "third-person address to user", "action": "fixed in place"}
+{"id": "multiturn-r8-0354", "problem": "third-person address to user", "action": "fixed in place"}
+{"id": "multiturn-r8-0355", "problem": "unclear sentence", "action": "fixed in place"}
+{"id": "multiturn-r8-0363", "problem": "boiled eggs in kettle contradicts water-only rule", "action": "fixed in place"}
+{"id": "multiturn-r8-0365", "problem": "factual wording error (shelled egg)", "action": "fixed in place"}
+{"id": "multiturn-r8-0366", "problem": "awkward sentence", "action": "fixed in place"}
+{"id": "multiturn-r8-0370", "problem": "unidiomatic English", "action": "fixed in place"}
+{"id": "multiturn-r8-0371", "problem": "third-person address to user", "action": "fixed in place"}

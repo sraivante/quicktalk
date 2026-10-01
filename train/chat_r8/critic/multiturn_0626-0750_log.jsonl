@@ -1,0 +1,33 @@
+{"id": "multiturn-r8-0627", "problem": "final user turn generic; tied to notebook advice", "action": "rewrote last pair"}
+{"id": "multiturn-r8-0630", "problem": "final user turn generic; did not depend on earlier detail", "action": "rewrote last pair to use textbooks-near-door detail"}
+{"id": "multiturn-r8-0633", "problem": "recall reply ignored the user's 'a few'", "action": "corrected last reply"}
+{"id": "multiturn-r8-0636", "problem": "final user turn leaned only loosely on earlier turns", "action": "rewrote last pair to depend on feeling shy"}
+{"id": "multiturn-r8-0653", "problem": "final user turn did not refer back clearly", "action": "rewrote last pair to recall the housing worry"}
+{"id": "multiturn-r8-0654", "problem": "final user turn was a closing remark, weak dependence", "action": "rewrote last pair to use ten slides and Friday"}
+{"id": "multiturn-r8-0655", "problem": "last reply did not name Lucas or Ella", "action": "added names to last reply"}
+{"id": "multiturn-r8-0658", "problem": "final user turn vague", "action": "rewrote last pair to recall advice and biology detail"}
+{"id": "multiturn-r8-0660", "problem": "final user turn did not refer back", "action": "rewrote last pair to use labels and third floor"}
+{"id": "multiturn-r8-0664", "problem": "final user turn weakly tied to earlier turn", "action": "rewrote last pair to depend on the manager detail"}
+{"id": "multiturn-r8-0665", "problem": "final user turn weak reference", "action": "rewrote last pair to refer to restaurant and dosa"}
+{"id": "multiturn-r8-0667", "problem": "last reply did not name Mrs. Pillai and was unclear", "action": "rewrote last reply with names and times"}
+{"id": "multiturn-r8-0670", "problem": "final user turn only loosely tied to earlier turns", "action": "rewrote last pair to use chemistry and numericals"}
+{"id": "multiturn-r8-0673", "problem": "last reply did not use earlier detail by name", "action": "added name and setting to last reply"}
+{"id": "multiturn-r8-0674", "problem": "last reply did not name Adam", "action": "added name and job to last reply"}
+{"id": "multiturn-r8-0676", "problem": "final user turn generic", "action": "rewrote last pair to depend on Varun eating alone"}
+{"id": "multiturn-r8-0678", "problem": "final user turn weakly tied", "action": "rewrote last pair to use Friday trial and Ella"}
+{"id": "multiturn-r8-0680", "problem": "final user turn weakly tied", "action": "rewrote last pair to refer to not sewing and deliveries"}
+{"id": "multiturn-r8-0681", "problem": "final user turn weakly tied", "action": "rewrote last pair to refer to volume request and exams"}
+{"id": "multiturn-r8-0690", "problem": "recall question was confusing (item number)", "action": "clarified last pair"}
+{"id": "multiturn-r8-0696", "problem": "last reply did not name Nikhil or the beaker", "action": "added names to last reply"}
+{"id": "multiturn-r8-0697", "problem": "last reply did not use name", "action": "added name to last reply"}
+{"id": "multiturn-r8-0702", "problem": "awkward user wording", "action": "smoothed last pair"}
+{"id": "multiturn-r8-0703", "problem": "reply framed recall as new advice", "action": "corrected last reply"}
+{"id": "multiturn-r8-0706", "problem": "last reply did not use earlier detail", "action": "added drawer detail"}
+{"id": "multiturn-r8-0709", "problem": "final user turn generic", "action": "rewrote last pair to use cultural night and Imran"}
+{"id": "multiturn-r8-0722", "problem": "last reply did not use earlier details", "action": "added parents and Adam"}
+{"id": "multiturn-r8-0724", "problem": "last reply did not name Imran", "action": "added name to last reply"}
+{"id": "multiturn-r8-0728", "problem": "last reply did not use earlier detail", "action": "added names to last reply"}
+{"id": "multiturn-r8-0730", "problem": "last reply did not use names", "action": "added names to last reply"}
+{"id": "multiturn-r8-0737", "problem": "reply addressed the user as Divya, who is the cousin (incoherent)", "action": "fixed last reply"}
+{"id": "multiturn-r8-0738", "problem": "last reply was illogical (called bringing a set kind)", "action": "rewrote last reply"}
+{"id": "multiturn-r8-0741", "problem": "last reply did not name Megha", "action": "added earlier detail to last reply"}

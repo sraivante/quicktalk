@@ -1,0 +1,41 @@
+{"id": "multiturn-r8-0377", "problem": "last reply did not use the grandmother's name", "action": "reply now names Kamala Aaji and her tulsi"}
+{"id": "multiturn-r8-0383", "problem": "duplicated words in user turn", "action": "fixed user wording"}
+{"id": "multiturn-r8-0387", "problem": "awkward phrase in reply", "action": "reworded"}
+{"id": "multiturn-r8-0390", "problem": "last user turn weakly tied to earlier details", "action": "last turn asks to combine earlier details; reply uses Olivia, Block C, green gate"}
+{"id": "multiturn-r8-0391", "problem": "reply did not name the earlier detail", "action": "reply now names the backwaters Dad wanted"}
+{"id": "multiturn-r8-0392", "problem": "last user turn did not depend on earlier turns", "action": "last turn now refers back to the start of the ride; reply uses the headache and music"}
+{"id": "multiturn-r8-0393", "problem": "last user turn weakly tied; odd advice line", "action": "last turn now depends on the old window seat; reply names it; fixed jacket line"}
+{"id": "multiturn-r8-0397", "problem": "last user turn repeated advice already given", "action": "last turn now builds on the jacket and Shimla; reply uses both"}
+{"id": "multiturn-r8-0401", "problem": "last user turn weakly tied", "action": "last turn now refers back to Olivia's love of birds"}
+{"id": "multiturn-r8-0405", "problem": "reply misquoted earlier detail (clean trains) and gave money advice", "action": "reply now matches what Mrs. Dsouza said; removed saving advice"}
+{"id": "multiturn-r8-0406", "problem": "last user turn not tied to earlier turns", "action": "last turn now asks back about Aunt Sana; reply names her"}
+{"id": "multiturn-r8-0407", "problem": "user called the assistant's idea 'my idea'", "action": "reworded the recall question"}
+{"id": "multiturn-r8-0408", "problem": "reply did not clearly use the earlier detail", "action": "reply now names his roses and film songs"}
+{"id": "multiturn-r8-0411", "problem": "last user turn not tied to earlier turns", "action": "last turn now refers to the terrace and favourite cousins; reply names Mia and Emma"}
+{"id": "multiturn-r8-0414", "problem": "reply invented a detail (books on the floor)", "action": "removed the invented detail"}
+{"id": "multiturn-r8-0415", "problem": "last user turn weakly tied", "action": "last turn now asks about both earlier promises; reply names Tara and the test"}
+{"id": "multiturn-r8-0417", "problem": "reply did not use the earlier detail", "action": "reply now uses the newspaper and window seat"}
+{"id": "multiturn-r8-0419", "problem": "reply used few earlier details", "action": "reply now uses the jalebi and seventieth birthday"}
+{"id": "multiturn-r8-0421", "problem": "reply did not use an earlier detail", "action": "reply now refers to not painting since last year"}
+{"id": "multiturn-r8-0424", "problem": "missing article; weak tie to earlier detail", "action": "fixed article; reply uses Olivia disliking cold"}
+{"id": "multiturn-r8-0425", "problem": "last user turn not tied to earlier turns", "action": "last turn now refers to the loud call with his boss; reply uses it"}
+{"id": "multiturn-r8-0430", "problem": "reply could use the earlier landmark", "action": "reply now names St. Mary's School"}
+{"id": "multiturn-r8-0439", "problem": "last user turn not tied to earlier turns", "action": "last turn now refers to the buffaloes"}
+{"id": "multiturn-r8-0440", "problem": "reply did not use earlier detail", "action": "reply now refers to the sore foot"}
+{"id": "multiturn-r8-0442", "problem": "reply did not use names or earlier details", "action": "reply now names Tara, the cold and the shifted Sunday"}
+{"id": "multiturn-r8-0444", "problem": "last turn weakly tied", "action": "reply now links back to the shoes advice"}
+{"id": "multiturn-r8-0448", "problem": "awkward wording", "action": "reworded two replies"}
+{"id": "multiturn-r8-0454", "problem": "suggested front seat for a ten-year-old", "action": "changed to window seat"}
+{"id": "multiturn-r8-0455", "problem": "capitalisation of Uncle", "action": "fixed"}
+{"id": "multiturn-r8-0457", "problem": "last turn weakly tied; reply used no earlier detail", "action": "both now refer to the conductor and the ten rupee notes"}
+{"id": "multiturn-r8-0461", "problem": "reply wrongly said the user could still reach the Friday function", "action": "corrected"}
+{"id": "multiturn-r8-0463", "problem": "last turn not tied to earlier turns", "action": "last turn and reply now use the fort, market, auto and ghewar"}
+{"id": "multiturn-r8-0465", "problem": "reply used no earlier detail", "action": "reply now uses the three-month course"}
+{"id": "multiturn-r8-0470", "problem": "reply weakly tied", "action": "reply now names Ajji and her reaction"}
+{"id": "multiturn-r8-0477", "problem": "reply invented a duration; weak tie", "action": "removed invented detail; reply uses village, farm, river"}
+{"id": "multiturn-r8-0483", "problem": "ambiguous wording", "action": "fixed user wording"}
+{"id": "multiturn-r8-0486", "problem": "duplicated words in user turn", "action": "fixed"}
+{"id": "multiturn-r8-0491", "problem": "reply did not name Emma", "action": "reply now names Emma"}
+{"id": "multiturn-r8-0493", "problem": "mild health advice", "action": "removed fluids advice"}
+{"id": "multiturn-r8-0495", "problem": "wording", "action": "reworded wheelchair line"}
+{"id": "multiturn-r8-0500", "problem": "reply weakly tied", "action": "reply now names the cheese sandwich and grapes"}
