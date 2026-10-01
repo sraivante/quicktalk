@@ -1,0 +1,13 @@
+{"id": "rewrite-r7-0041", "problem": "Output changes the tense/meaning (\"will be cancelled\" became \"is cancelled\")", "change": "Kept the future tense"}
+{"id": "rewrite-r7-0062", "problem": "topic travel does not fit packing a bag", "change": "topic changed to home"}
+{"id": "rewrite-r7-0080", "problem": "Output merges two separate actions (I wash / she wipes) so the meaning changes; ask not checkable", "change": "Replaced with a clean I-to-we example"}
+{"id": "rewrite-r7-0118", "problem": "Output changes the meaning (need became grateful) instead of making the request polite", "change": "Turned the need into a polite request"}
+{"id": "rewrite-r7-0120", "problem": "\"competition\" changed to \"game\", a different event", "change": "Used \"contest\""}
+{"id": "rewrite-r7-0128", "problem": "topic family does not fit leaving early", "change": "topic changed to daily"}
+{"id": "rewrite-r7-0135", "problem": "Formal ask answered only with a polite wording", "change": "Made the wording formal"}
+{"id": "rewrite-r7-0144", "problem": "Output adds a wrong detail (slippery is not smooth) and keeps the same easy sentence", "change": "New harder input and a faithful simple output"}
+{"id": "rewrite-r7-0150", "problem": "\"runner\"/\"last\" change the details of the original (athlete, final)", "change": "Kept athlete and final"}
+{"id": "rewrite-r7-0197", "problem": "Output reads awkwardly (never shouts, even at our mistakes) and loses \"at us\"", "change": "Fixed the wording"}
+{"id": "rewrite-r7-0209", "problem": "topic sport does not fit carrying bags", "change": "topic changed to home"}
+{"id": "rewrite-r7-0225", "problem": "topic feelings does not fit a delay apology", "change": "topic changed to daily"}
+{"id": "rewrite-r7-0255", "problem": "topic work does not fit leaving now", "change": "topic changed to daily"}

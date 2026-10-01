@@ -1,0 +1,82 @@
+{"id": "reasoning-r7m-0010", "problem": "Answer says \"pieces\" while the question is about slices", "change": "Used \"slices\""}
+{"id": "reasoning-r7m-0011", "problem": "Topic games does not fit a pure subtraction", "change": "topic numbers"}
+{"id": "reasoning-r7m-0012", "problem": "Double \"because\" chain, and topic school", "change": "One clean reason; topic numbers"}
+{"id": "reasoning-r7m-0013", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0014", "problem": "Circular reason (\"less because bigger\") and topic", "change": "Gave a real reason; topic numbers"}
+{"id": "reasoning-r7m-0037", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0049", "problem": "Awkward question wording (\"a track is run 10 times\")", "change": "Natural wording"}
+{"id": "reasoning-r7m-0052", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0066", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0068", "problem": "Double \"because\" chain, topic school", "change": "One clean reason; topic numbers"}
+{"id": "reasoning-r7m-0073", "problem": "Near-identical template reused many times in the file (farmer picked)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0083", "problem": "Near-identical template reused many times in the file (tanks)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0084", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0089", "problem": "Near-identical template reused many times in the file (sister age)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0090", "problem": "Near-identical template reused many times in the file (rangoli)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0100", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0107", "problem": "Near-identical template reused many times in the file (pakoras)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0108", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0115", "problem": "Multi-digit multiplication (26 x 9) is harder than the easy-maths limit", "change": "Easier numbers"}
+{"id": "reasoning-r7m-0117", "problem": "Answer says \"2 tickets\" though the question is about auto fare for 2 people", "change": "Reworded the answer"}
+{"id": "reasoning-r7m-0122", "problem": "Near-identical template reused many times in the file (three matches)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0123", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0132", "problem": "Double \"because\" chain, topic games", "change": "One clean reason; topic numbers"}
+{"id": "reasoning-r7m-0140", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0142", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0151", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0157", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0160", "problem": "Answer has no unit and \"twice\" wording", "change": "Added the unit"}
+{"id": "reasoning-r7m-0164", "problem": "Topic home does not fit", "change": "topic daily"}
+{"id": "reasoning-r7m-0167", "problem": "Near-identical template reused many times in the file (pakoras)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0169", "problem": "Near-identical template reused many times in the file (three matches)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0173", "problem": "Near-identical template reused many times in the file (who scored more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0174", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0178", "problem": "Near-identical template reused many times in the file (N minus N)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0179", "problem": "Near-identical template reused many times in the file (journey left)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0183", "problem": "Near-identical template reused many times in the file (walk to class)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0187", "problem": "Near-identical template reused many times in the file (who has more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0189", "problem": "Multi-digit multiplication (41 x 5) is harder than the easy-maths limit", "change": "Easier numbers"}
+{"id": "reasoning-r7m-0190", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0202", "problem": "Near-identical template reused many times in the file (half of)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0204", "problem": "Near-identical template reused many times in the file (bus people)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0205", "problem": "Near-identical template reused many times in the file (N x N = ?)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0207", "problem": "Near-identical template reused many times in the file (quick one times)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0210", "problem": "Near-identical template reused many times in the file (farmer picked)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0218", "problem": "Near-identical template reused many times in the file (multiplied by)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0219", "problem": "Near-identical template reused many times in the file (target runs)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0222", "problem": "Circular reason (more because bigger)", "change": "Gave a real reason"}
+{"id": "reasoning-r7m-0223", "problem": "Near-identical template reused many times in the file (three matches)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0224", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0227", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0230", "problem": "Near-identical template reused many times in the file (quick one times)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0233", "problem": "Near-identical template reused many times in the file (bus before lunch)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0240", "problem": "Near-identical template reused many times in the file (fours and sixes)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0242", "problem": "Answer says boxes though the question says packets", "change": "Used packets"}
+{"id": "reasoning-r7m-0243", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0245", "problem": "Near-identical template reused many times in the file (friends share a bill)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0246", "problem": "Near-identical template reused many times in the file (who has more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0247", "problem": "Near-identical template reused many times in the file (box holds)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0248", "problem": "Near-identical template reused many times in the file (multiplied by)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0249", "problem": "Double \"because\" chain", "change": "One clean reason"}
+{"id": "reasoning-r7m-0252", "problem": "Near-identical template reused many times in the file (walk to class)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0253", "problem": "Near-identical template reused many times in the file (multiplied by)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0257", "problem": "Near-identical template reused many times in the file (marks total)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0258", "problem": "Near-identical template reused many times in the file (target runs)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0263", "problem": "Near-identical template reused many times in the file (multiplied by)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0264", "problem": "Near-identical template reused many times in the file (spends at the fair)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0267", "problem": "Near-identical template reused many times in the file (boxes together)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0268", "problem": "Near-identical template reused many times in the file (half of)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0279", "problem": "Near-identical template reused many times in the file (walk to class)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0280", "problem": "Awkward question wording (\"a track is run 6 times\")", "change": "Natural wording"}
+{"id": "reasoning-r7m-0281", "problem": "Near-identical template reused many times in the file (multiplied by)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0283", "problem": "Near-identical template reused many times in the file (who has more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0286", "problem": "Near-identical template reused many times in the file (pakoras)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0287", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0288", "problem": "Near-identical template reused many times in the file (N x N = ?)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0289", "problem": "Near-identical template reused many times in the file (walk to class)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0290", "problem": "Near-identical template reused many times in the file (three matches)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0292", "problem": "Near-identical template reused many times in the file (walk to class)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0293", "problem": "Topic does not fit a plain number question", "change": "topic numbers"}
+{"id": "reasoning-r7m-0294", "problem": "Near-identical template reused many times in the file (who scored more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0295", "problem": "Near-identical template reused many times in the file (who has more)", "change": "Rewritten as a different everyday question with a recomputed answer"}
+{"id": "reasoning-r7m-0299", "problem": "Near-identical template reused many times in the file (car drives)", "change": "Rewritten as a different everyday question with a recomputed answer"}
