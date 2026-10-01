@@ -25,6 +25,11 @@ and follow it exactly; this file only adds the run-6 mechanics.
      spec in each message. Vocab words must come from `train/spec/vocab_words.txt` and must not be words already used
      in `train/chat/vocab.jsonl` or `train/pilot/vocab.jsonl`. No arithmetic.
    - dont_know, reasoning: follow "Run 6 additions" in the spec.
+   - comprehension, summary, rewrite, literature: use the book allocation in `train/spec/CHAT_FULL.md` item 5
+     (including its note on Mahabharata quote balance); excerpts must be copied exactly and must not repeat any excerpt
+     already used in `train/chat/` or `train/chat_r6/`.
+   - vocab, usage: vocab words from `train/spec/vocab_words.txt`, never one already used in `train/chat/vocab.jsonl`,
+     `train/pilot/vocab.jsonl` or `train/chat_r6/vocab.jsonl`.
 6. Read `train/chat_r6/critic/summary.md` (section "Instructions for the generators") and follow it: it lists
    the mistakes the trial critic found (weak "Because" lines, questions that do not match their content, over-
    correction, templated user turns, topic labels that do not fit).
