@@ -1,0 +1,5 @@
+{"id": "multiturn-r6-0221", "problem": "'Violin pick' is not a real item (picks are for guitars), so the V suggestion is wrong", "change": "Replaced with a toy violin"}
+{"id": "multiturn-r6-0224", "problem": "Assumed oil or butter, which the user did not list", "change": "Oil or butter is now optional, with a dry-pan alternative"}
+{"id": "multiturn-r6-0252", "problem": "Suggested joke line is nonsensical and could sound mocking", "change": "Replaced with a plain, kind request"}
+{"id": "multiturn-r6-0283", "problem": "Knitting fix is garbled and does not explain how to avoid adding a stitch", "change": "Clear advice: count stitches and avoid an extra loop at the row start"}
+{"id": "multiturn-r6-0286", "problem": "Says the swap keeps the line's meaning, but bright and light differ in meaning", "change": "Reply now only praises the swap and suggests reading aloud"}
