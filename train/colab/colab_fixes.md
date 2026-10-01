@@ -227,3 +227,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (5,959 chats, stages 1-8, plus all stages as 2.09M words of pretraining text) and GSM8K train (7,384 chats; test
   1,299 kept for testing). `validate_chat.py` gains type `math`; `quicktalk_lm.py prepare` does not upsample `math`
   (patterns 3x, math 1x). train/build: 75,895 chats. Notebook v8 cell 0 text updated.
+- **Upload:** v8 in Drive as `quicktalk_train_v8.ipynb` (https://colab.research.google.com/drive/1s7WCUAmYrEauzxaD2xlPh9UaOWrCDDlq); v7 renamed.

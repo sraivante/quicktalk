@@ -568,3 +568,4 @@ python3 scripts/export_dataset.py
 
 - 14:05 Run 7 prepared (user chose ~100M + recommended fixes): see Current state.
 - 14:15 Maths added (laghumath + GSM8K) via scripts/build_math_chat.py; train/build rebuilt (75,895 chats).
+- 14:15 Notebook v8 uploaded to Drive: https://colab.research.google.com/drive/1s7WCUAmYrEauzxaD2xlPh9UaOWrCDDlq (v7 renamed 'run 6 done - use v8').
