@@ -330,13 +330,18 @@ def cmd_chat(a):
     while True:
         q = prompts.pop(0) if prompts else (None if scripted else input('you> ').strip())
         if not q: break
+        if scripted and not a.keep_history: history = []   # scripted test prompts are independent questions
         history.append({'role': 'user', 'content': q})
         text = ''.join(t for t, _ in chat_text(history))[:-len('<|endoftext|>')] + '<|assistant|>\n'
         ids = tok.encode(text).ids[-(s['cfg']['block'] - a.max_new):]
         x = torch.tensor([ids], device=dev); out = []
         with torch.no_grad():
             for _ in range(a.max_new):
-                logits = model(x[:, -s['cfg']['block']:])[0][0, -1].float() / a.temperature
+                logits = model(x[:, -s['cfg']['block']:])[0][0, -1].float()
+                if a.rep_penalty != 1.0 and out:            # discourage tokens already used in this reply
+                    seen = torch.tensor(sorted(set(out)), device=dev)
+                    logits[seen] = torch.where(logits[seen] > 0, logits[seen] / a.rep_penalty, logits[seen] * a.rep_penalty)
+                logits = logits / a.temperature
                 v, _ = torch.topk(logits, a.top_k); logits[logits < v[-1]] = -float('inf')
                 nxt = torch.multinomial(torch.softmax(logits, -1), 1).item()
                 if nxt in (end, eot): break
@@ -370,6 +375,8 @@ def main():
     p = sub.add_parser('chat'); common(p); p.add_argument('--ckpt')
     p.add_argument('--prompt', action='append'); p.add_argument('--max-new', type=int, default=150)
     p.add_argument('--temperature', type=float, default=0.8); p.add_argument('--top-k', type=int, default=40)
+    p.add_argument('--rep-penalty', type=float, default=1.3, help='>1 discourages repeating tokens within a reply')
+    p.add_argument('--keep-history', action='store_true', help='scripted prompts share one conversation')
     a = ap.parse_args()
     {'tokenizer': cmd_tokenizer, 'prepare': cmd_prepare, 'plan': cmd_plan, 'train': cmd_train, 'chat': cmd_chat}[a.cmd](a)
 
