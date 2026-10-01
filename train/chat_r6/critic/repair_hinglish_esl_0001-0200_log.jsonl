@@ -1,0 +1,16 @@
+{"id": "hinglish_esl-r6-0006", "problem": "Awkward preposition use ('come to') for a train arriving", "change": "Reworded to natural 'arrive at'"}
+{"id": "hinglish_esl-r6-0027", "problem": "'I will reach' without a place is not natural standard English", "change": "Changed to 'I will be there'"}
+{"id": "hinglish_esl-r6-0028", "problem": "The 'free' in the user's request was dropped from the translation", "change": "Used 'throw in' (idiom for adding free) and explained it"}
+{"id": "hinglish_esl-r6-0038", "problem": "Why did not explain will -> would; reason muddled", "change": "Added reason for would and clarified base form"}
+{"id": "hinglish_esl-r6-0042", "problem": "Reply invented 'I bought this yesterday' and did not say return", "change": "Matched return request, removed invented detail"}
+{"id": "hinglish_esl-r6-0081", "problem": "Message spoke about 'your uncle' though the user's own uncle has died", "change": "Neutral condolence wording that fits the situation"}
+{"id": "hinglish_esl-r6-0088", "problem": "'Obediently' wrongly said to mean 'respectfully'", "change": "Corrected the explanation"}
+{"id": "hinglish_esl-r6-0119", "problem": "Dubious claim that 'inside' sounds stronger near a door", "change": "Removed the unfounded claim"}
+{"id": "hinglish_esl-r6-0139", "problem": "'lower the AC' is unnatural", "change": "Used 'turn the AC down'"}
+{"id": "hinglish_esl-r6-0149", "problem": "Why did not explain will -> would", "change": "Added reason for would"}
+{"id": "hinglish_esl-r6-0163", "problem": "Reply invented 'education loans'", "change": "Removed invented loan type"}
+{"id": "hinglish_esl-r6-0176", "problem": "Why wrongly said 'very much' is not used before 'interested' (it is fine)", "change": "Kept 'very much'; reason now only about the preposition"}
+{"id": "hinglish_esl-r6-0181", "problem": "'stay' was changed to 'living' without a reason", "change": "Kept 'stay' to keep the fix minimal"}
+{"id": "hinglish_esl-r6-0185", "problem": "'You can add the size' did not match the example given", "change": "Removed the wrong 'size' remark"}
+{"id": "hinglish_esl-r6-0197", "problem": "Reply changed the meaning to 'I come from' and Why was weak", "change": "Gave a direct translation first"}
+{"id": "hinglish_esl-r6-0199", "problem": "Confusing closing sentence", "change": "Replaced with a clear alternative"}
