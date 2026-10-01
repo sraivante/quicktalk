@@ -1,0 +1,2 @@
+{"id": "instruct-r6-0578", "problem": "Answer was a fragment, not a sentence as asked", "change": "Rewrote as a full sentence of 10 words without the word itself."}
+{"id": "instruct-r6-0585", "problem": "Masala tea steps had no spices, so it was plain tea", "change": "Added ginger and cardamom in step 2; verbs still all different."}
