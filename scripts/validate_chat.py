@@ -2,6 +2,7 @@
 """Validate chat-pattern JSONL files (train/spec/CHAT_PATTERNS.md).
   python scripts/validate_chat.py <file.jsonl> [--type <type>] [--no-arithmetic]
 --no-arithmetic: reasoning examples may not contain digits (run 6 onward: everyday reasoning only, no sums).
+--short-why: grammar "Why:" line must be at most 15 words (run 7 style); dont_know may not be about maths.
 Prints FAIL lines (must fix) and WARN lines (look at it). Exit code 1 if any FAIL.
 """
 import json, os, re, sys, collections
@@ -25,6 +26,7 @@ args = sys.argv[1:]
 if not args: sys.exit(__doc__)
 path = args[0]; want = args[args.index('--type') + 1] if '--type' in args else None
 no_arith = '--no-arithmetic' in args
+short_why = '--short-why' in args
 fails = warns = 0; ids = set(); opens = collections.Counter(); topics = collections.Counter(); asst_seen = collections.Counter()
 def F(i, m):
     global fails; fails += 1; print(f'FAIL line {i}: {m}')
@@ -70,6 +72,10 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
     u0, a0 = msgs[0]['content'], msgs[1]['content']
     if t == 'grammar':
         if not re.search(r'\bwhy\b', a0, re.I): F(i, 'grammar answer must give the reason ("Why: ...")')
+        mw = re.search(r'Why:(.*)', a0, re.S)
+        if short_why and mw and len(mw.group(1).split()) > 15: F(i, f'"Why:" is {len(mw.group(1).split())} words (max 15, run 7 style)')
+    if t == 'dont_know' and short_why and (md.get('topic') in ('maths', 'math', 'numbers') or re.search(r'\d+\s*[-+*/x%]\s*\d|\d+\s*%', u0)):
+        F(i, 'run 7: dont_know is not used for maths')
     if t == 'reasoning' and not re.search(r'\bbecause\b', a0, re.I): F(i, 'reasoning answer must explain with "Because ..."')
     if t == 'reasoning' and no_arith and re.search(r'\d', u0 + a0): F(i, 'no arithmetic in new reasoning examples (digits found)')
     if t == 'multi_question':

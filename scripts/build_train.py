@@ -34,7 +34,7 @@ norm = lambda s: re.sub(r'\s+', ' ', s).strip()
 
 # ---- chat data -------------------------------------------------------------------------------
 chat = collections.defaultdict(list)                       # type -> examples
-for f in sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + \
+for f in sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r7', '*.jsonl'))) + \
         sorted(glob.glob(os.path.join(T, 'pilot', '*.jsonl'))):   # chat_r6 = run 6 additions (1,000 per type)
     for r in load(f): chat[r['metadata']['type']].append(r)
 behaviour = [r for f in sorted(glob.glob(os.path.join(T, 'sources', 'behaviour_chat_*.jsonl'))) for r in load(f)]

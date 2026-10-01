@@ -77,6 +77,24 @@ One JSON object per line:
   never medical, legal or financial advice.
 - **literature:** no new examples (knowledge is not the goal of this run).
 
+## Run 7 changes (agreed with the user 2026-10-01, after the run 6 test)
+
+- **grammar "Why:" (all grammar data, and corrections inside multi_question and hinglish_esl):** one fixed short style.
+  After the corrected text, one line: `Why: <rule>.` with one short clause per fix, separated by "; ", at most 15
+  words in total, plain words, naming the trigger and the fix, e.g. `Why: "yesterday" needs the past tense (went).`
+  or `Why: "she" takes "doesn't"; "advice" has no plural.` No long explanations, no "because" chains.
+- **dont_know:** no maths. "I don't know" is only for things the model cannot know (recent events, the user's own
+  details, private people, live data, very specific facts). The run-6 maths rows are replaced by these kinds.
+- **easy maths is allowed again (reasoning, new rows only):** small whole-number sums a child can do in their head
+  (add, subtract, times tables, simple money/time). The reply gives the answer first, then one short working line
+  (e.g. "60. Because 15 x 4 = 60."). No hard arithmetic (no percentages of large numbers, no long division).
+- **multi_question (+500):** familiar everyday topics only (school, home, friends, food, weather, simple word meanings,
+  easy grammar fixes, easy sums); 2-3 questions in most messages (2: 40%, 3: 40%, 4: 15%, 5: 5%); every question
+  answered in order with a short answer; never switch into a different format inside an answer.
+- **rewrite (+300):** instructions whose change is obvious and checkable (tense, person, formal/casual, polite,
+  shorter, simpler); the output must clearly differ from the input in the asked way.
+- New examples go to `train/chat_r7/<type>.jsonl` (ids `<type>-r7-NNNN`; easy maths `reasoning-r7m-NNNN`).
+
 ## Pilot
 
 Write 20 examples per assigned type into `train/pilot/<type>.jsonl`, ids `<type>-p0001`.., then run

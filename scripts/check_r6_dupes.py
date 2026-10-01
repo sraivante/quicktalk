@@ -14,8 +14,8 @@ def load(paths):
         for l in open(p, encoding='utf-8'):
             if l.strip():
                 r = json.loads(l); yield r['metadata']['id'], norm(r['messages'][0]['content'])
-r6_files = sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl')))
-want = sys.argv[1:] or [os.path.basename(p)[:-6] for p in r6_files]
+r6_files = sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r7', '*.jsonl')))
+want = sys.argv[1:] or sorted({os.path.basename(p)[:-6] for p in r6_files})
 old = list(load(sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'pilot', '*.jsonl')))))
 new = list(load(r6_files))
 pool = old + new
@@ -27,7 +27,7 @@ exact = collections.defaultdict(list)
 for k, (i, t) in enumerate(pool): exact[t].append(k)
 n = 0
 for k0, (i, t) in enumerate(pool):
-    if k0 < len(old) or i.rsplit('-r6-', 1)[0] not in want: continue
+    if k0 < len(old) or re.split(r'-r[67]m?-', i)[0] not in want: continue
     s = sets[k0]; hits = set()
     for k in exact[t]:
         if k != k0 and (k < k0 or k < len(old)): hits.add((pool[k][0], 'exact'))
