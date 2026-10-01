@@ -60,7 +60,7 @@ for r in rows:   # finer groups for the breakdown table
     r['group'] = {'passage': 'passage: fact from the text' if n <= 40 else 'passage: follow-up (feelings, advice)',
                   'multi_question': f'multi_question: {2 + (n - 1) // 10} questions'}.get(r['category'], r['category'])
 fixed = sum(1 for r in gr if r['note'].startswith(('correction right', 'acceptable fix')))
-md = ['# Run 5 model test: 375 questions from the training material', '',
+md = [f"# Run {os.path.basename(os.path.normpath(a.dir)).split('run')[-1]} model test: {len(tests)} questions from the training material", '',
       'Accuracy = mean grade (correct = 1, partial = 0.5, wrong = 0), graded by reading each answer against the training '
       'reference (stories: relevance, coherence and length). Word overlap = content-word F1 with the training answer.', '',
       '## By category', '', summary('category'), '',

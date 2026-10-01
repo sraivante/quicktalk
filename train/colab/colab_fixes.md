@@ -209,3 +209,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   eval text); chat stage 1,136 steps, chat eval loss 2.27 best / 2.285 final (run 5: 2.76, but run 6 has a different
   eval split, so not comparable). Cell 11 saved `MyDrive/quicktalk_run6_model.zip` (258.5 MB, verified) at 12:21 UTC.
   Zip received in the sandbox in 28 parts, joined and verified; offline test (train/test_run6/) running.
+- **Run 6 offline test (train/test_run6/):** same 375 questions as run 5, overall **28%** (run 5: 22%). Up: passage
+  64% (50), writing 33% (17), story 32% (22), multi-line complex 30% (16), grammar 30% (21), complex one-liner 19%
+  (12). Down/flat: multi-question 0% (1), multi-turn 34% (38), multi-line simple 18% (27), simple one-liner 11% (13).
+  "I don't know" now also used for two easy sums. Comparison: `train/test_run6/compare_run5.md`.
