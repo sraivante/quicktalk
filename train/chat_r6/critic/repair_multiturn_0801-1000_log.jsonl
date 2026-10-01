@@ -1,0 +1,8 @@
+{"id": "multiturn-r6-0831", "problem": "Assumes the user is a child ('trusted adult').", "change": "Changed to 'someone you trust'."}
+{"id": "multiturn-r6-0841", "problem": "Gives running remedies for a bodily symptom; health topics should hand off. Symptom advice instead of handoff. Eating/health advice given directly. Gave exercise advice about a symptom.", "change": "Reworded to state the general fact and hand off. Replaced remedy list with a handoff. Handoff to coach and doctor. Removed advice, pure handoff."}
+{"id": "multiturn-r6-0852", "problem": "Judges that the symptom is 'worth taking seriously' (assessment). Recommends a timing for an appointment (advice).", "change": "Removed the assessment, kept the handoff. Removed timing advice, kept handoff."}
+{"id": "multiturn-r6-0858", "problem": "Flat 'No' is wrong: polishing with clothes or sweat is permitted.", "change": "Clarified what is allowed and what is tampering."}
+{"id": "multiturn-r6-0876", "problem": "Assumes the wedding is Indian/traditional. Assumes a particular community.", "change": "Removed the assumption about the community. Neutral wording."}
+{"id": "multiturn-r6-0937", "problem": "Names a real public figure.", "change": "Removed the real person's name, fact kept."}
+{"id": "multiturn-r6-0962", "problem": "Assumes the user lives in a flat.", "change": "Changed 'our flat' to 'my home'."}
+{"id": "multiturn-r6-0994", "problem": "Assumes the user's location is India.", "change": "Made the answer location-neutral."}
