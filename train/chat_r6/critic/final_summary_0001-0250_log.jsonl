@@ -1,0 +1,169 @@
+{"id": "summary-r6-0003", "problem": "length", "change": "words 46->34, longest sentence 17->13"}
+{"id": "summary-r6-0006", "problem": "length+gender", "change": "words 28->25, longest sentence 28->25; removed unsupported he/she"}
+{"id": "summary-r6-0007", "problem": "old_wording", "change": "modern wording"}
+{"id": "summary-r6-0008", "problem": "length+gender", "change": "words 41->33, longest sentence 22->17; removed unsupported he/she"}
+{"id": "summary-r6-0009", "problem": "length+gender", "change": "words 49->35, longest sentence 33->21; removed unsupported he/she"}
+{"id": "summary-r6-0011", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0012", "problem": "length+gender", "change": "words 29->20, longest sentence 29->20; removed unsupported he/she"}
+{"id": "summary-r6-0016", "problem": "length+gender", "change": "words 54->41, longest sentence 33->25; removed unsupported he/she"}
+{"id": "summary-r6-0018", "problem": "length+gender", "change": "words 45->42, longest sentence 27->24; removed unsupported he/she"}
+{"id": "summary-r6-0020", "problem": "length+gender", "change": "words 50->37, longest sentence 29->22; removed unsupported he/she"}
+{"id": "summary-r6-0022", "problem": "length+old_wording+gender+grounding", "change": "words 35->22, longest sentence 35->22; modern wording; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0024", "problem": "length+gender", "change": "words 40->36, longest sentence 16->13; removed unsupported he/she"}
+{"id": "summary-r6-0025", "problem": "length+gender", "change": "words 56->52, longest sentence 34->21; removed unsupported he/she"}
+{"id": "summary-r6-0026", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0029", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0030", "problem": "length", "change": "words 48->29, longest sentence 18->11"}
+{"id": "summary-r6-0031", "problem": "length", "change": "words 27->22, longest sentence 27->22"}
+{"id": "summary-r6-0032", "problem": "length+topic", "change": "words 44->34, longest sentence 26->20; topic manners -> family"}
+{"id": "summary-r6-0033", "problem": "length+gender", "change": "words 40->25, longest sentence 40->25; removed unsupported he/she"}
+{"id": "summary-r6-0034", "problem": "length", "change": "words 30->25, longest sentence 30->25"}
+{"id": "summary-r6-0035", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0036", "problem": "length+gender", "change": "words 51->38, longest sentence 25->14; removed unsupported he/she"}
+{"id": "summary-r6-0039", "problem": "length+gender", "change": "words 34->21, longest sentence 34->21; removed unsupported he/she"}
+{"id": "summary-r6-0040", "problem": "length", "change": "words 45->38, longest sentence 26->20"}
+{"id": "summary-r6-0041", "problem": "length", "change": "words 43->44, longest sentence 31->22"}
+{"id": "summary-r6-0042", "problem": "length", "change": "words 39->29, longest sentence 25->16"}
+{"id": "summary-r6-0043", "problem": "length+gender", "change": "words 46->40, longest sentence 27->22; removed unsupported he/she"}
+{"id": "summary-r6-0045", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0047", "problem": "length+gender", "change": "words 51->32, longest sentence 20->12; removed unsupported he/she"}
+{"id": "summary-r6-0048", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0049", "problem": "length+gender", "change": "words 43->41, longest sentence 27->25; removed unsupported he/she"}
+{"id": "summary-r6-0050", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0051", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0052", "problem": "length+gender", "change": "words 53->41, longest sentence 29->22; removed unsupported he/she"}
+{"id": "summary-r6-0055", "problem": "length+gender", "change": "words 38->21, longest sentence 38->21; removed unsupported he/she"}
+{"id": "summary-r6-0056", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0057", "problem": "length+old_wording+gender", "change": "words 33->26, longest sentence 33->26; modern wording; removed unsupported he/she"}
+{"id": "summary-r6-0060", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0062", "problem": "length+gender", "change": "words 58->52, longest sentence 24->19; removed unsupported he/she"}
+{"id": "summary-r6-0064", "problem": "grounding", "change": "fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0066", "problem": "length", "change": "words 30->24, longest sentence 18->12"}
+{"id": "summary-r6-0067", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0068", "problem": "length+gender", "change": "words 41->34, longest sentence 24->21; removed unsupported he/she"}
+{"id": "summary-r6-0069", "problem": "length+gender", "change": "words 43->39, longest sentence 23->20; removed unsupported he/she"}
+{"id": "summary-r6-0070", "problem": "length+gender+grounding", "change": "words 33->24, longest sentence 33->24; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0071", "problem": "old_wording", "change": "modern wording"}
+{"id": "summary-r6-0072", "problem": "grounding", "change": "fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0073", "problem": "length+old_wording+topic", "change": "words 50->46, longest sentence 28->24; modern wording; topic books -> religion"}
+{"id": "summary-r6-0074", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0075", "problem": "length+gender", "change": "words 42->33, longest sentence 31->22; removed unsupported he/she"}
+{"id": "summary-r6-0076", "problem": "length+topic", "change": "words 30->20, longest sentence 30->20; topic nature -> weather"}
+{"id": "summary-r6-0077", "problem": "length+gender+grounding", "change": "words 33->22, longest sentence 33->22; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0079", "problem": "length+gender", "change": "words 31->22, longest sentence 31->22; removed unsupported he/she"}
+{"id": "summary-r6-0080", "problem": "old_wording", "change": "modern wording"}
+{"id": "summary-r6-0082", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0084", "problem": "length", "change": "words 32->21, longest sentence 32->21"}
+{"id": "summary-r6-0085", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0086", "problem": "length+gender", "change": "words 72->59, longest sentence 26->26; removed unsupported he/she"}
+{"id": "summary-r6-0087", "problem": "length+gender", "change": "words 27->22, longest sentence 27->22; removed unsupported he/she"}
+{"id": "summary-r6-0088", "problem": "length", "change": "tightened wording"}
+{"id": "summary-r6-0090", "problem": "length+gender", "change": "words 45->41, longest sentence 28->22; removed unsupported he/she"}
+{"id": "summary-r6-0091", "problem": "length+gender", "change": "words 37->22, longest sentence 37->22; removed unsupported he/she"}
+{"id": "summary-r6-0093", "problem": "length+gender", "change": "words 46->38, longest sentence 17->14; removed unsupported he/she"}
+{"id": "summary-r6-0094", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0099", "problem": "length+gender", "change": "words 53->39, longest sentence 31->22; removed unsupported he/she"}
+{"id": "summary-r6-0100", "problem": "length", "change": "words 39->39, longest sentence 26->26"}
+{"id": "summary-r6-0101", "problem": "old_wording+gender+topic", "change": "modern wording; removed unsupported he/she; topic food -> home"}
+{"id": "summary-r6-0103", "problem": "length+gender", "change": "words 36->25, longest sentence 36->25; removed unsupported he/she"}
+{"id": "summary-r6-0104", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0105", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0106", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0107", "problem": "length+gender", "change": "words 39->38, longest sentence 26->25; removed unsupported he/she"}
+{"id": "summary-r6-0108", "problem": "length+gender", "change": "words 36->24, longest sentence 36->24; removed unsupported he/she"}
+{"id": "summary-r6-0109", "problem": "length+gender", "change": "words 33->23, longest sentence 33->23; removed unsupported he/she"}
+{"id": "summary-r6-0111", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0112", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0114", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0116", "problem": "length+gender", "change": "words 35->20, longest sentence 35->20; removed unsupported he/she"}
+{"id": "summary-r6-0117", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0119", "problem": "length+gender", "change": "words 29->24, longest sentence 29->24; removed unsupported he/she"}
+{"id": "summary-r6-0122", "problem": "topic", "change": "topic work -> money"}
+{"id": "summary-r6-0123", "problem": "length+gender+grounding", "change": "words 34->23, longest sentence 34->23; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0125", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0128", "problem": "length+gender+topic", "change": "words 32->22, longest sentence 32->22; removed unsupported he/she; topic work -> mystery"}
+{"id": "summary-r6-0129", "problem": "length+gender", "change": "words 35->24, longest sentence 35->24; removed unsupported he/she"}
+{"id": "summary-r6-0130", "problem": "length+gender", "change": "words 32->23, longest sentence 32->23; removed unsupported he/she"}
+{"id": "summary-r6-0132", "problem": "length+gender", "change": "words 35->23, longest sentence 35->23; removed unsupported he/she"}
+{"id": "summary-r6-0134", "problem": "length+gender", "change": "words 50->31, longest sentence 20->11; removed unsupported he/she"}
+{"id": "summary-r6-0135", "problem": "old_wording+gender", "change": "modern wording; removed unsupported he/she"}
+{"id": "summary-r6-0138", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0139", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0140", "problem": "length", "change": "words 33->21, longest sentence 33->21"}
+{"id": "summary-r6-0143", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0145", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0146", "problem": "length+gender", "change": "words 47->42, longest sentence 18->15; removed unsupported he/she"}
+{"id": "summary-r6-0148", "problem": "length+gender+grounding", "change": "words 50->40, longest sentence 28->21; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0149", "problem": "length+gender", "change": "words 38->24, longest sentence 38->24; removed unsupported he/she"}
+{"id": "summary-r6-0151", "problem": "length+gender+grounding", "change": "words 50->37, longest sentence 32->21; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0152", "problem": "length", "change": "words 45->40, longest sentence 27->22"}
+{"id": "summary-r6-0154", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0155", "problem": "length+gender", "change": "words 48->38, longest sentence 27->19; removed unsupported he/she"}
+{"id": "summary-r6-0156", "problem": "length+gender", "change": "words 50->44, longest sentence 29->23; removed unsupported he/she"}
+{"id": "summary-r6-0158", "problem": "length+gender", "change": "words 43->40, longest sentence 26->23; removed unsupported he/she"}
+{"id": "summary-r6-0159", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0160", "problem": "length+gender", "change": "words 33->26, longest sentence 33->26; removed unsupported he/she"}
+{"id": "summary-r6-0161", "problem": "gender+grounding", "change": "removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0162", "problem": "length+gender", "change": "words 43->37, longest sentence 30->24; removed unsupported he/she"}
+{"id": "summary-r6-0163", "problem": "length", "change": "words 45->42, longest sentence 25->22"}
+{"id": "summary-r6-0164", "problem": "length+gender", "change": "words 32->25, longest sentence 32->25; removed unsupported he/she"}
+{"id": "summary-r6-0165", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0166", "problem": "length", "change": "words 26->22, longest sentence 26->22"}
+{"id": "summary-r6-0168", "problem": "length+gender", "change": "words 26->19, longest sentence 26->19; removed unsupported he/she"}
+{"id": "summary-r6-0169", "problem": "length+gender", "change": "words 61->57, longest sentence 28->24; removed unsupported he/she"}
+{"id": "summary-r6-0171", "problem": "length+gender", "change": "words 58->50, longest sentence 24->18; removed unsupported he/she"}
+{"id": "summary-r6-0172", "problem": "length", "change": "tightened wording"}
+{"id": "summary-r6-0173", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0174", "problem": "length", "change": "words 34->21, longest sentence 34->21"}
+{"id": "summary-r6-0178", "problem": "length", "change": "words 32->24, longest sentence 32->24"}
+{"id": "summary-r6-0179", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0183", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0186", "problem": "length+gender", "change": "words 41->21, longest sentence 41->21; removed unsupported he/she"}
+{"id": "summary-r6-0187", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0188", "problem": "length+gender", "change": "words 48->32, longest sentence 30->19; removed unsupported he/she"}
+{"id": "summary-r6-0189", "problem": "topic", "change": "topic work -> friends"}
+{"id": "summary-r6-0190", "problem": "length+gender", "change": "words 53->33, longest sentence 35->18; removed unsupported he/she"}
+{"id": "summary-r6-0191", "problem": "length+gender", "change": "words 26->20, longest sentence 26->20; removed unsupported he/she"}
+{"id": "summary-r6-0193", "problem": "topic", "change": "topic children -> family"}
+{"id": "summary-r6-0198", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0200", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0203", "problem": "length", "change": "tightened wording"}
+{"id": "summary-r6-0204", "problem": "length+gender", "change": "words 35->24, longest sentence 35->24; removed unsupported he/she"}
+{"id": "summary-r6-0205", "problem": "length+gender", "change": "words 51->45, longest sentence 26->25; removed unsupported he/she"}
+{"id": "summary-r6-0206", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0207", "problem": "length+gender", "change": "words 50->41, longest sentence 30->22; removed unsupported he/she"}
+{"id": "summary-r6-0208", "problem": "length", "change": "words 48->47, longest sentence 33->19"}
+{"id": "summary-r6-0209", "problem": "length+gender", "change": "words 78->61, longest sentence 36->22; removed unsupported he/she"}
+{"id": "summary-r6-0210", "problem": "length+gender", "change": "words 38->33, longest sentence 27->23; removed unsupported he/she"}
+{"id": "summary-r6-0211", "problem": "length", "change": "words 44->36, longest sentence 29->21"}
+{"id": "summary-r6-0212", "problem": "length", "change": "words 48->42, longest sentence 28->22"}
+{"id": "summary-r6-0213", "problem": "length+gender", "change": "words 71->44, longest sentence 25->18; removed unsupported he/she"}
+{"id": "summary-r6-0215", "problem": "length+gender", "change": "words 54->44, longest sentence 28->23; removed unsupported he/she"}
+{"id": "summary-r6-0216", "problem": "length", "change": "words 35->22, longest sentence 35->22"}
+{"id": "summary-r6-0217", "problem": "length+old_wording+gender+topic", "change": "words 64->62, longest sentence 26->24; modern wording; removed unsupported he/she; topic work -> duty"}
+{"id": "summary-r6-0218", "problem": "length+gender+topic", "change": "words 47->43, longest sentence 26->22; removed unsupported he/she; topic festival -> religion"}
+{"id": "summary-r6-0219", "problem": "length+gender", "change": "words 40->37, longest sentence 26->22; removed unsupported he/she"}
+{"id": "summary-r6-0220", "problem": "topic", "change": "topic festival -> party"}
+{"id": "summary-r6-0221", "problem": "length+gender", "change": "words 49->38, longest sentence 32->21; removed unsupported he/she"}
+{"id": "summary-r6-0222", "problem": "length", "change": "words 46->44, longest sentence 26->24"}
+{"id": "summary-r6-0223", "problem": "length+gender", "change": "words 72->57, longest sentence 29->23; removed unsupported he/she"}
+{"id": "summary-r6-0225", "problem": "topic", "change": "topic books -> duty"}
+{"id": "summary-r6-0227", "problem": "length+gender", "change": "words 51->44, longest sentence 28->23; removed unsupported he/she"}
+{"id": "summary-r6-0228", "problem": "length+gender+grounding", "change": "words 48->41, longest sentence 31->24; removed unsupported he/she; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0229", "problem": "length+gender", "change": "words 58->48, longest sentence 31->22; removed unsupported he/she"}
+{"id": "summary-r6-0230", "problem": "length", "change": "words 67->59, longest sentence 29->24"}
+{"id": "summary-r6-0231", "problem": "length+old_wording", "change": "words 50->45, longest sentence 29->24; modern wording"}
+{"id": "summary-r6-0232", "problem": "length+gender", "change": "words 71->54, longest sentence 28->21; removed unsupported he/she"}
+{"id": "summary-r6-0234", "problem": "length+gender", "change": "words 37->25, longest sentence 37->25; removed unsupported he/she"}
+{"id": "summary-r6-0235", "problem": "length", "change": "words 31->22, longest sentence 31->22"}
+{"id": "summary-r6-0236", "problem": "length", "change": "words 31->23, longest sentence 31->23"}
+{"id": "summary-r6-0238", "problem": "topic", "change": "topic festival -> party"}
+{"id": "summary-r6-0239", "problem": "length", "change": "words 47->42, longest sentence 30->25"}
+{"id": "summary-r6-0240", "problem": "length", "change": "words 66->61, longest sentence 27->22"}
+{"id": "summary-r6-0242", "problem": "length+old_wording+grounding", "change": "words 74->65, longest sentence 31->25; modern wording; fixed unsupported/misordered detail or linked names"}
+{"id": "summary-r6-0243", "problem": "length+gender+topic", "change": "words 50->47, longest sentence 33->21; removed unsupported he/she; topic festival -> religion"}
+{"id": "summary-r6-0244", "problem": "length", "change": "words 34->23, longest sentence 34->23"}
+{"id": "summary-r6-0245", "problem": "gender", "change": "removed unsupported he/she"}
+{"id": "summary-r6-0247", "problem": "length", "change": "words 53->48, longest sentence 30->25"}
+{"id": "summary-r6-0249", "problem": "length+gender", "change": "words 49->44, longest sentence 29->26; removed unsupported he/she"}
+{"id": "summary-r6-0250", "problem": "length", "change": "words 50->46, longest sentence 29->25"}
