@@ -101,3 +101,12 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Expected:** ~0.6B pretraining tokens -> roughly 60-80M parameters; ~45-75 min training on the A100.
 - **Notebook:** v6 in Drive: https://colab.research.google.com/drive/1QWI780xEzpjioZ9bzjqQPVhFZBnjdyID
 - **Output:** _pending — waiting for the Colab run._
+
+## Finish cell (cell 11) — zip model, verify, disconnect
+- **Issue:** user wants the finished model zipped and the A100 runtime disconnected automatically; Claude can read
+  Drive but cannot run cells or control the Colab runtime from the container.
+- **Change:** new last cell: waits until `sft_final.pt` exists, zips the model + tokenizer + plan + code + logs, checks
+  the zip (`testzip`), copies it to `MyDrive/<RUN>_model.zip`, re-checks size and integrity, offers a browser
+  download, then calls `google.colab.runtime.unassign()` to disconnect. For run 5 (already running) the user adds
+  this cell at the end and presses its play button; Colab queues it after the running cells.
+- **Monitoring:** Claude polls Drive every ~5 min (train.log, notebook outputs) and judges the chat test.
