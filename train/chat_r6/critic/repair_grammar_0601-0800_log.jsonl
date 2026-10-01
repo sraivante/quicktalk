@@ -1,0 +1,8 @@
+{"id": "grammar-r6-0623", "problem": "Over-correction: replaced the user's \"between\" and added a word when changing one word was enough", "change": "Corrected to \"between 5 and 10\"; Why names the matching pair"}
+{"id": "grammar-r6-0635", "problem": "Repeated stock opening \"Yes, it is correct.\" (3 times in range)", "change": "Rotated the opening wording"}
+{"id": "grammar-r6-0639", "problem": "Over-correction: also deleted \"why\" (a normal, correct word) without explaining it", "change": "Kept \"why\"; changed only \"because\" to \"that\" and rewrote the Why to match"}
+{"id": "grammar-r6-0653", "problem": "Wrong correction: added \"the\" to a name that is normally used without it, and the Why claimed the opposite", "change": "Rewrote as a no-change answer with a hedged Why about varying usage"}
+{"id": "grammar-r6-0667", "problem": "Over-correction: added a second clause and claimed it was required", "change": "Kept the user's structure; only the word order is changed; formal option mentioned as optional"}
+{"id": "grammar-r6-0699", "problem": "The reply never answered the question asked (is it a real word) and treated a variety word as a plain error", "change": "Answers the question, hedges as a variety, offers a neutral alternative"}
+{"id": "grammar-r6-0721", "problem": "Repeated stock opening \"Yes, it is correct.\"", "change": "Rotated the opening wording"}
+{"id": "grammar-r6-0793", "problem": "Over-confident \"Yes, that is fine\" for a semicolon before a question, which style guides treat as optional", "change": "Hedged: acceptable but a full stop works equally well"}
