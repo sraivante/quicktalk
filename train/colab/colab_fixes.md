@@ -100,7 +100,22 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   own text written 3x; streaming prepare, plan, pretrain, chat stage and chat all ran on CPU.
 - **Expected:** ~0.6B pretraining tokens -> roughly 60-80M parameters; ~45-75 min training on the A100.
 - **Notebook:** v6 in Drive: https://colab.research.google.com/drive/1QWI780xEzpjioZ9bzjqQPVhFZBnjdyID
-- **Output:** _pending — waiting for the Colab run._
+- **Output:** fetch + tokenizer + prepare 03:56-04:10 (TinyStories 2,190 MB, Simple Wikipedia 155,858 articles / 202 MB;
+  pretraining 633.0M tokens = own text 3x 42.4M + wiki 53.7M + TinyStories 537M; chat 53,312 chats, 16.06M tokens).
+  Plan: 69.5M parameters (d=640, 12 layers, 10 heads), 665M tokens seen. Pretraining 9,660 steps 04:10-04:46 at
+  ~318k tok/s (~36 min); eval loss on own held-out text 5.29 -> 3.29 (ppl 27.0), train ~1.4 (TinyStories is easy).
+  Chat stage 981 steps 04:46-04:49; chat eval loss 2.76 (ppl 15.8; lowest 2.76 at step 400 too, so no overfitting
+  trend but no gain after step 400). Not strictly comparable with runs 1-4 (new tokenizer, same vocab size), but
+  clearly lower than run 2's 3.31.
+- **Chat test (same 6 questions, temperature 0.6):** best so far. Replies are fluent, grammatical and mostly on topic:
+  upset friend -> "tell your friend to stay calm"; exam nerves -> "breathe, drink water"; thank-you note is a coherent
+  short note. Still wrong on facts/skills: "diligent" defined wrongly with invented words, the grammar fix not applied
+  ("She likes them too much"), a stray "Why:" line after the exam answer, and "How was your day" drifts into a story.
+- **Verdict:** clear step up from runs 1-4 (data size was the bottleneck); usable as the experiment's best checkpoint,
+  not a reliable assistant. Next levers if wanted: more chat-pattern examples (word meanings, grammar fixes), or more
+  pretraining text for a larger model under the same 10x rule.
+- **Finish:** cell 11 had not been added to the running notebook, so no zip and no automatic disconnect after the
+  run; user asked to add/run it (it zips immediately because `sft_final.pt` exists, then disconnects).
 
 ## Finish cell (cell 11) — zip model, verify, disconnect
 - **Issue:** user wants the finished model zipped and the A100 runtime disconnected automatically; Claude can read

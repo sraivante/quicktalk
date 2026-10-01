@@ -529,3 +529,4 @@ python3 scripts/export_dataset.py
 - 03:38 Run 5 prepared (user approved adding TinyStories + Simple English Wikipedia): fetch command, streaming prepare, own text 3x, notebook v6. Logged in colab_fixes.md.
 - 03:39 v6 uploaded: https://colab.research.google.com/drive/1QWI780xEzpjioZ9bzjqQPVhFZBnjdyID (v5 renamed).
 - 03:57 Run 5 in progress (TinyStories downloaded; tokenizing). Added finish cell 11 (zip to Drive, verify, unassign runtime) to repo notebook; user to paste it into the running v6. Polling Drive every 5 min via send_later.
+- 04:52 Run 5 done (04:49): 69.5M params, 633M pretrain tokens, ~39 min on A100. Chat eval 2.76 (run 2: 3.31). Chat test best so far: fluent, mostly on topic; still wrong on word meanings/grammar fixes. Cell 11 was not in the running notebook: no zip yet, runtime still connected; asked user to add/run cell 11. Still polling Drive for MyDrive/quicktalk_run5_model.zip. Logged in colab_fixes.md.
