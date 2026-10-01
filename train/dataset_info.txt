@@ -4,7 +4,7 @@ Reference list of every dataset used to train the QuickTalk model: what it is, w
 how big it is, its licence, and where it is used. Paths are relative to the repo root (sraivante/quicktalk, branch
 claude/intelligent-ride-oxqjfy) unless they start with MyDrive/ (Google Drive) or /content/ (Colab runtime).
 Update this file whenever a dataset is added, changed or removed.
-Last updated: 2026-10-01 (after run 5 and its offline test; run 6 additions listed at the end as PLANNED).
+Last updated: 2026-10-01 (run 6 chat data built and train/build/ rebuilt; run 6 Colab run not done yet).
 
 
 1. OVERVIEW: WHAT GOES INTO TRAINING
@@ -106,10 +106,12 @@ Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenize
     train/build/pretrain_01.txt, pretrain_02.txt   books + behaviour passages, shuffled in blocks, eval text removed
                                                    (72,427 blocks, 10,256,960 words; 410 paragraphs dropped for
                                                    overlap with eval)
-    train/build/sft_train_01.jsonl, _02.jsonl      all chats mixed and shuffled: 48,512 examples
+    train/build/sft_train_01..03.jsonl             all chats mixed and shuffled: 61,472 examples (run 6 build;
+                                                   run 5 build had 48,512)
                                                    (behaviour 45,804 = 94.4%; each chat type 200 = 0.41%; raga 308)
     train/build/eval/sft_eval_<type>.jsonl         held out per type: behaviour 915, raga 30, each chat type 20
-    train/build/eval/sft_eval_all.jsonl            all of the above (1,185)
+                                                   (run 6: 13-20 of each type's 20 are run-6 examples, unseen in training)
+    train/build/eval/sft_eval_all.jsonl            all of the above (1,225 in the run 6 build)
     train/build/eval/pretrain_eval.txt             787 held-out blocks, 109,750 words
     train/build/manifest.json                      seed, counts, shares, which groups went to eval
   Splits are by group (all variants of a behaviour row / one source text stay on one side); nothing in eval appears
@@ -159,18 +161,35 @@ Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenize
     Built/run by:   scripts/test_model_build.py, test_model_run.py, test_model_report.py
 
 
-9. PLANNED FOR RUN 6 (agreed with the user 2026-10-01; not built yet)
---------------------------------------------------------------------
-  Model size stays 69.5M. Nothing existing is removed; balance comes from adding data.
-  Chat patterns (+~13,000, same pipeline: Sonnet generator, validate_chat.py, separate critic):
-    +1,000 each: vocab, usage, grammar (correct "Why:"), instruct, hinglish_esl, rewrite, comprehension, summary,
-                 writing, multiturn, reasoning (everyday reasoning only, NO arithmetic)
-    new type multi_question (1,000): 2-5 questions in one message, answered in order
-    new type dont_know (1,000): honest "I don't know" for things the model cannot know (news, prices, personal
-                 details, very specific facts, reliable maths)
-    no new literature (knowledge) or arithmetic examples
-    hold out ~30 new examples per type as an unseen test
-  Pretraining additions (downloaded in Colab, English-only filters):
-    WordNet definitions written as sentences (~10M tokens, repeated 3x)
-    more general text (e.g. FineWeb-Edu sample ~400M tokens, ODC-By) and, if approved, SODA dialogues (CC BY 4.0)
-  Approved: spec changes (done 2026-10-01), 1,000 per type. Pending: go-ahead after the cost estimate; SODA yes/no.
+9. RUN 6 ADDITIONS (built 2026-10-01; Colab run 6 not done yet)
+--------------------------------------------------------------
+  Model size stays 69.5M. Nothing existing was removed; balance comes from adding data.
+  Chat patterns: train/chat_r6/<type>.jsonl, 1,000 per type x 13 types = 13,000 examples, ids <type>-r6-0001..1000.
+    types: comprehension, dont_know (new), grammar, hinglish_esl, instruct, multi_question (new), multiturn, reasoning
+           (no arithmetic), rewrite, summary, usage, vocab, writing. No new literature.
+    Spec: train/spec/CHAT_PATTERNS.md (+ "Run 6 additions"), CHAT_RUN6.md (generation), CHAT_REPAIR6.md (repair).
+    Made by: Sonnet generator agents in batches of 200 (chunks of 50, validated each); a separate Sonnet repair agent
+      per 200-batch (fixes merged by scripts/merge_r6_fixes.py); then an independent Opus final critic on a 30-per-type
+      sample, followed by full-file passes where it found systematic problems (dont_know plain "I don't know" first;
+      reasoning one "Because"; multi_question; comprehension and summary topics/plain wording/no invented gender;
+      writing 1-500 invented details) and one-off fixes.
+    Checks: scripts/validate_chat.py (0 FAIL on all 13 files; --no-arithmetic for reasoning), scripts/check_r6_dupes.py
+      (0 exact/near repeats against train/chat, train/pilot and all of chat_r6).
+    Logs: train/chat_r6/critic/ (repair_*_log.jsonl per batch, final_*_log.jsonl for final passes, trial summary.md).
+    Sources inside the examples: own sentences; behaviour passages from data/rows; book excerpts copied exactly from
+      train/sources/books (comprehension: novels 01-05 + Mahabharata 1-2; summary: novels 06-10 + Mahabharata 3-4;
+      rewrite: Ramayana; Panchatantra almost unused because its clean stretches ran out).
+    Known deviations (reported to the user): multi_question topic "language" is 18% (spec cap 15%); 363 summary book
+      excerpts are 80-118 words (spec says 120-350); 100 comprehension examples use behaviour passages (allocation
+      lists books only); dont_know includes "I don't know" for exact maths (user excluded arithmetic for now).
+  train/build/ rebuilt with run 6: python3 scripts/build_train.py (defaults). sft_train 61,472 examples
+    (behaviour 45,804; each pattern type ~1,200 incl. earlier data, dont_know/multi_question 980; literature 200;
+    raga 308). Eval split re-drawn, so run 6 eval loss is not directly comparable with runs 1-5.
+    Tokenized with run 5's tokenizer and --chat-repeat 2: sft_train 76,832 chats, 18.6M tokens (5.6M trained).
+  Pretraining additions (downloaded in Colab by quicktalk_lm.py fetch, English-only filters):
+    WordNet definitions as sentences (nltk wordnet; repeated 3x via --extra-repeat wordnet.txt=3)
+    FineWeb-Edu sample-10BT, int_score >= 3, ~1.6 GB (~400M tokens), licence ODC-By
+    SODA (allenai/soda) social dialogues, licence CC BY 4.0
+    plus TinyStories and Simple English Wikipedia again (as run 5) and own text 3x.
+  Colab: train/colab/quicktalk_train.ipynb (v7), RUN=quicktalk_run6, continues from MyDrive/quicktalk_run5/
+    checkpoints/pretrain_final.pt with run 5's tokenizer, lr 3e-4, shape 640,12,10.

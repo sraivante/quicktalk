@@ -174,3 +174,17 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Output (CPU test with stand-in datasets, tiny 128x4 model):** WordNet/FineWeb/SODA files written as expected
   (non-English line dropped, low-score doc dropped, accents folded); prepare with WordNet x3, plan with fixed shape,
   pretrain from init weights, chat stage all ran; resume and mismatch paths checked.
+
+## Run 6 data built + notebook v7 (2026-10-01)
+- **Issue:** run 6 needs the 13,000 new chat examples in `train/build/` and a notebook that continues from run 5.
+- **Change:**
+  - `train/chat_r6/` finished: 13 types x 1,000, validated (0 FAIL), 0 repeats, repaired per batch plus final
+    critic passes (details in `train/dataset_info.txt` section 9).
+  - `train/build/` rebuilt with `scripts/build_train.py`: sft_train 61,472 examples (was 48,512); eval split re-drawn.
+  - Notebook v7 (`quicktalk_train.ipynb`): `RUN='quicktalk_run6'`; cell 2 checks run 5's `pretrain_final.pt` exists
+    and copies run 5's `tokenizer.json`; cell 4 also installs nltk; cell 5 fetches
+    `tinystories,simplewiki,wordnet,fineweb_edu,soda`, prepares with `--chat-repeat 2 --extra-repeat wordnet.txt=3`,
+    plans with `--shape 640,12,10`; cell 6 pretrains with `--init-from` run 5 and `--lr 3e-4`, then chat stage;
+    cell 9 adds a multi-question and an "I don't know" prompt.
+- **Output (local check):** `prepare` on the rebuilt `train/build/` with run 5's tokenizer: sft_train 76,832 chats,
+  18.6M tokens (5.6M trained); own pretraining text x3 = 42.5M tokens. Colab run not done yet.

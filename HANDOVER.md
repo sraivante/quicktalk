@@ -7,6 +7,26 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
+## Current state — chat experiment (last updated: 2026-10-01 08:50 UTC)
+
+- **Run 6 chat data DONE:** `train/chat_r6/` 13 types x 1,000 = 13,000 examples; 0 FAIL (validate_chat.py), 0 repeats
+  (check_r6_dupes.py); per-batch repairs + final Opus critic sample + full-file passes merged; logs in
+  `train/chat_r6/critic/`. Details and known deviations: `train/dataset_info.txt` section 9.
+- **train/build/ rebuilt** with run 6 (sft_train 61,472). Notebook v7 (`train/colab/quicktalk_train.ipynb`) is ready
+  for run 6 (continues from run 5 weights + tokenizer). Logged in `train/colab/colab_fixes.md`.
+- No agents running; progress/checkpoint loops stopped. Queue notes: `.staging/r6_queue.md` (git-ignored).
+
+## Next action (chat experiment)
+
+1. User uploads notebook v7 to Colab (A100) and runs it (needs MyDrive/quicktalk_run5 from run 5). Expect downloads
+   ~15-25 min, tokenizing ~20-30 min, training ~60-90 min. Cell 11 zips the model to Drive and disconnects.
+2. After the run: log results in colab_fixes.md; re-run the offline test (scripts/test_model_run.py +
+   test_model_report.py on train/test_run5/testset.jsonl, and the run-6 eval examples) and compare with run 5's 22%.
+3. Open decisions for the user (asked 2026-10-01): (a) keep dont_know "I don't know" for exact maths? (b) 363 summary
+   book excerpts are 80-118 words vs the spec's 120-350: keep / replace / change spec? (c) 100 comprehension examples
+   use behaviour passages: keep? (d) multi_question "language" topic at 18% vs 15% cap: keep? (e) hinglish "wo" ->
+   "He" + note to use "she" for a woman (14 rows): keep or make neutral?
+
 ## Current state  (last updated: 2026-09-30, after full generation and commit_rows)
 
 - **Generation is complete.** Phase1: 1,050/1,050 batches. Full: 1,418/1,418 batches, 30,520 records, 7,689 rows. A full re-validation of every full-phase output gives 0 FAIL.
@@ -545,3 +565,4 @@ python3 scripts/export_dataset.py
 - 07:55 Run 6: ~2,900 written. Repaired+merged 0001-0200 for 8 types (fixes: grammar 28, mq 68, reasoning 10, dont_know 100, vocab 40, instruct 3, usage 18, multiturn 5). Validator UNSURE phrases widened. 12 gens + 2 repairs running.
 - 08:30 Run 6 progress: see .staging/r6_queue.md; ~4,600 written, repairs merged per batch (logs in train/chat_r6/critic/).
 - 09:05 Run 6 ~6,300 written; queue in .staging/r6_queue.md.
+- 08:50 Run 6 chat data complete: 13 x 1,000, all repaired; final Opus critic (30/type) -> full-file passes (dont_know plain admission 725 rows, reasoning 412, multi_question 547, comprehension 558, summary 822, writing 1-500 276) + one-offs; 0 FAIL, 0 repeats. train/build rebuilt (sft 61,472); notebook v7 committed; dataset_info.txt section 9 + colab_fixes.md updated. Next: user runs v7.
