@@ -85,13 +85,22 @@ def split_spreads(t):
     flush()
     return '\n'.join(out)
 
-def paragraphs(t):
+def paragraphs(t, narrow=False):
     for para in re.split(r'\n\s*\n', t):
-        ls = [l.rstrip() for l in para.split('\n') if l.strip()]
+        ls = [l.rstrip().replace(' _', ' ') for l in para.split('\n') if l.strip().strip('_')]
+        ls = [re.sub(r'^(\s*)_', r'\1', l) for l in ls]
         ls = [l for l in ls if not re.fullmatch(r'\s*[\divxlcIVXLC.\-*\s]{1,12}\s*', l)]  # page numbers, rule lines
         if not ls: continue
         verse = len(ls) >= 2 and sum(len(l.strip()) for l in ls) / len(ls) < 48
-        if verse: txt = '\n'.join(l.strip() for l in ls)
+        if verse and narrow:  # narrow page columns (Panchatantra): a long line is wrapped prose, a short one is verse
+            txt = ''
+            for l in ls:
+                l = l.strip()
+                if not txt: txt = l
+                elif txt.endswith('-') and l[:1].islower(): txt = txt[:-1] + l
+                elif len(txt.split('\n')[-1]) >= 40 and not re.search(r'[.!?:"]$', txt): txt += ' ' + l
+                else: txt += '\n' + l
+        elif verse: txt = '\n'.join(l.strip() for l in ls)
         else:
             txt = ''
             for l in ls:
@@ -146,7 +155,7 @@ for zname, pat, merged in BOOKS:
         t = strip_gutenberg(raw)
         if 'panchatantra' in zname: t = split_spreads(t)
         stats = collections.Counter(); kept = []
-        for para in paragraphs(t):
+        for para in paragraphs(t, narrow='panchatantra' in zname):
             c = clean_para(para, stats, lang_filter='raga' not in zname, epic='ramayana' in zname)  # raga book: note names (Sa Re Ga Ma) are not a language
             if c: kept.append(c)
         name = merged or re.sub(r'^\d\d_', '', mm.group(1))

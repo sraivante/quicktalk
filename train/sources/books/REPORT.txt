@@ -12,19 +12,19 @@ Mahabharata_Ganguli_Volume_1_Books_1_to_3               Mahabharata_Ganguli_Volu
 Mahabharata_Ganguli_Volume_2_Books_4_to_7               Mahabharata_Ganguli_Volume_2_Books_4_to_ words_in=  669590 paras_kept=  1617 words_kept=  629059 dropped={'gutenberg/transcriber': 12, 'heading/blank': 598, 'too short': 14, 'footnote': 840}
 Mahabharata_Ganguli_Volume_3_Books_8_to_12              Mahabharata_Ganguli_Volume_3_Books_8_to_ words_in=  812933 paras_kept=  1953 words_kept=  719708 dropped={'gutenberg/transcriber': 11, 'too short': 23, 'heading/blank': 377, 'footnote': 1943}
 Mahabharata_Ganguli_Volume_4_Books_13_to_18             Mahabharata_Ganguli_Volume_4_Books_13_to words_in=  445000 paras_kept=  1468 words_kept=  390155 dropped={'gutenberg/transcriber': 9, 'too short': 27, 'heading/blank': 322, 'footnote': 915}
-Ramayana_of_Valmiki_English_Verse_Griffith              Ramayana_of_Valmiki_English_Verse_Griffi words_in=  402181 paras_kept=  2413 words_kept=  351065 dropped={'too short': 915, 'heading/blank': 272, 'foreign sentence': 1976, 'foreign phrase': 13, 'footnote': 1156}
-Panchatantra_Ryder                                      00_Translator_Introduction               words_in=    2338 paras_kept=     5 words_kept=    2299 dropped={'foreign phrase': 1}
-Panchatantra_Ryder                                      01_Author_Preface                        words_in=     968 paras_kept=     4 words_kept=     944 dropped={}
-Panchatantra_Ryder                                      02_Book_1_The_Loss_of_Friends_Part_1     words_in=   15241 paras_kept=    62 words_kept=   14863 dropped={'too short': 1, 'foreign sentence': 1}
-Panchatantra_Ryder                                      03_Book_1_The_Loss_of_Friends_Part_2     words_in=   15048 paras_kept=    49 words_kept=   14680 dropped={}
-Panchatantra_Ryder                                      04_Book_1_The_Loss_of_Friends_Part_3     words_in=   12959 paras_kept=    43 words_kept=   12647 dropped={'too short': 2, 'heading/blank': 1}
-Panchatantra_Ryder                                      05_Book_2_The_Winning_of_Friends         words_in=   16229 paras_kept=    61 words_kept=   15820 dropped={'heading/blank': 3}
-Panchatantra_Ryder                                      06_Book_3_Crows_and_Owls_Part_1          words_in=   11123 paras_kept=    35 words_kept=   10828 dropped={'foreign phrase': 1}
-Panchatantra_Ryder                                      07_Book_3_Crows_and_Owls_Part_2          words_in=    7962 paras_kept=    20 words_kept=    7759 dropped={}
-Panchatantra_Ryder                                      08_Book_4_Loss_of_Gains                  words_in=    9711 paras_kept=    37 words_kept=    9489 dropped={}
-Panchatantra_Ryder                                      09_Book_5_Ill_Considered_Action          words_in=   10069 paras_kept=    40 words_kept=    9841 dropped={'heading/blank': 2}
+Ramayana_of_Valmiki_English_Verse_Griffith              Ramayana_of_Valmiki_English_Verse_Griffi words_in=  402181 paras_kept=  2386 words_kept=  350509 dropped={'too short': 914, 'heading/blank': 272, 'foreign sentence': 1968, 'foreign phrase': 13, 'footnote': 1184}
+Panchatantra_Ryder                                      00_Translator_Introduction               words_in=    2338 paras_kept=     5 words_kept=    2286 dropped={'foreign phrase': 1}
+Panchatantra_Ryder                                      01_Author_Preface                        words_in=     968 paras_kept=     4 words_kept=     939 dropped={}
+Panchatantra_Ryder                                      02_Book_1_The_Loss_of_Friends_Part_1     words_in=   15241 paras_kept=    62 words_kept=   14802 dropped={'too short': 1, 'foreign phrase': 1}
+Panchatantra_Ryder                                      03_Book_1_The_Loss_of_Friends_Part_2     words_in=   15048 paras_kept=    49 words_kept=   14612 dropped={}
+Panchatantra_Ryder                                      04_Book_1_The_Loss_of_Friends_Part_3     words_in=   12959 paras_kept=    43 words_kept=   12601 dropped={'too short': 2, 'heading/blank': 1}
+Panchatantra_Ryder                                      05_Book_2_The_Winning_of_Friends         words_in=   16229 paras_kept=    61 words_kept=   15764 dropped={'heading/blank': 3}
+Panchatantra_Ryder                                      06_Book_3_Crows_and_Owls_Part_1          words_in=   11123 paras_kept=    35 words_kept=   10809 dropped={'foreign phrase': 1}
+Panchatantra_Ryder                                      07_Book_3_Crows_and_Owls_Part_2          words_in=    7962 paras_kept=    20 words_kept=    7735 dropped={}
+Panchatantra_Ryder                                      08_Book_4_Loss_of_Gains                  words_in=    9711 paras_kept=    37 words_kept=    9467 dropped={}
+Panchatantra_Ryder                                      09_Book_5_Ill_Considered_Action          words_in=   10069 paras_kept=    40 words_kept=    9805 dropped={'heading/blank': 2}
 Panchatantra_Ryder                                      Panchatantra_Story_Moral_Index           words_in=    1201 paras_kept=    89 words_kept=    1088 dropped={'heading/blank': 5}
 Raga_Teaching_Book                                      30_Day_Raga_Practice_Plan                words_in=     509 paras_kept=    37 words_kept=     509 dropped={}
 Raga_Teaching_Book                                      Complete_Indian_Raga_Teaching_Book_Engli words_in=    3066 paras_kept=    84 words_kept=    2948 dropped={'heading/blank': 20}
 Raga_Teaching_Book                                      Hindustani_and_Carnatic_Raga_Overview    words_in=     394 paras_kept=    18 words_kept=     384 dropped={'too short': 5}
-TOTAL words kept: 4557224
+TOTAL words kept: 4556318
