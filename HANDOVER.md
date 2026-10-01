@@ -525,3 +525,4 @@ python3 scripts/export_dataset.py
 - 03:16 Run 3 result: overfit (patterns 8x x 3 passes = 24 views; train 2.1 / eval 3.81, worse than run 2's 3.31); chat test bug: scripted prompts shared one history (topic carry-over). Fixed chat: fresh history per scripted prompt, --rep-penalty 1.3. Notebook v5 = run 4 (chat-repeat 3, sft 2 passes from run 2 pretrain).
 - 03:16 v5 uploaded: https://colab.research.google.com/drive/1xzi4GX8GKtjEl6p3pz1XYjV85GWT-PKu (v4 renamed). Honest ceiling: 12.6M params on 29M unique tokens gives fluent-ish but loose replies; real gain needs more data (pretraining text) under the 10x rule.
 - 03:20 Created train/colab/colab_fixes.md (full history: pipeline, mount fix, runs 1-4); rule added to Next action.
+- 03:32 Run 4 done: chat eval 3.47; formats right, content not meaningful in any run. Verdict: data/size-limited; proposed adding ~500M tokens of simple English pretraining text -> ~50M model. Logged in colab_fixes.md.

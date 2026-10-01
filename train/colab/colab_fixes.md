@@ -64,7 +64,19 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Change:** chat-repeat 3 with 2 chat passes (~6 views per pattern example), from run 2's pretrained weights.
   `chat`: each scripted prompt now starts a fresh conversation (`--keep-history` to share one), and a repetition
   penalty (`--rep-penalty`, default 1.3) discourages word loops. Cell 9 uses temperature 0.6.
-- **Output:** _pending — waiting for the Colab run._
+- **Output:** prepare: 53,312 chats, 15.76M tokens (patterns ~13% of chats); chat stage 962 steps in ~1 min.
+  Chat eval loss 3.47 (ppl 32.2): better than run 3 (3.81), worse than run 2 (3.31; run 2 trained more on the
+  behaviour chats that make up most of the eval set). No overfitting (train ~3.1 vs eval 3.47).
+- **Chat test (fresh conversation per question, rep-penalty 1.3, temperature 0.6), all runs:** every run now picks
+  the right *format* for the request (word question -> "It means ... It is a noun ... Example:"; grammar -> "Why:";
+  note -> "Dear ..."), and run 4 does so most consistently, but the *content* is not meaningful in any run (wrong
+  meaning for "diligent", grammar fix not applied, invented words like "bigure"). Run 1's earlier topic loops are
+  gone, confirming the old test bug.
+- **Verdict:** not good enough for real chat. Training settings are no longer the bottleneck: at 12.6M parameters
+  and 29M unique tokens the model learns formats but not meaning. Best checkpoints: run 2 (lowest eval loss) and
+  run 4 (best format following).
+- **Next (proposed):** add a large amount of simple modern English pretraining text so the 10x rule allows a larger
+  model (e.g. ~500M tokens -> ~50M parameters, about an hour on the A100). Pending user decision on sources.
 
 ## Notes for future changes
 - Under the 10x rule, model size is capped by data: 29M unique tokens supports ~10-13M parameters at 4-6 passes.
