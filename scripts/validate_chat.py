@@ -69,8 +69,11 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
         book = open(os.path.join(ROOT, 'train', 'sources', 'books', src[5:] + '.txt'), encoding='utf-8').read()
         norm = lambda x: re.sub(r'\s+', ' ', x)
         bnorm = norm(book)
-        quoted = [q for q in re.split(r'\n\s*\n|"', u0) if len(q.split()) >= 12]
-        if quoted and not any(norm(q.strip())[:80] in bnorm for q in quoted): F(i, 'book excerpt not found verbatim in the book file (copy it exactly)')
+        chunks = [norm(c.strip()) for m in msgs if m['role'] == 'user' for c in re.split(r'\n\s*\n', m['content']) if len(c.split()) >= 20]
+        found = [c for c in chunks if c in bnorm]
+        if chunks and not found: F(i, 'no book excerpt found verbatim in the book file (copy the whole excerpt exactly, in its own paragraph)')
+        for c in found:
+            if c.count('"') % 2: F(i, 'book excerpt cuts a quotation open (unbalanced double quotes); start and end on whole sentences')
     if t == 'multiturn' and len(msgs) >= 4 and all(m['content'].rstrip().endswith('?') for m in msgs if m['role'] == 'assistant'): W(i, 'every assistant turn ends with a question')
 for o, k in opens.items():
     if k > 1: W(0, f'{k} examples open with the same 4 words: {o!r}')

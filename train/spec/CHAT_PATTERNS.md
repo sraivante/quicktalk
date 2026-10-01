@@ -30,7 +30,10 @@ One JSON object per line:
 3. **Book text is input, not a model.** Old or verse English from the books may appear in a user turn as the text
    to work on; the assistant never imitates it.
 4. **Copy book excerpts exactly** (from `train/sources/books/*.txt`, a paragraph or 2-6 consecutive sentences). Do
-   not invent quotations or put words in a real author's mouth.
+   not invent quotations or put words in a real author's mouth. An excerpt starts and ends on whole sentences and
+   never cuts a quotation open: its double quote marks must balance. Put the excerpt in its own paragraph (blank line
+   before and after). The Panchatantra file is OCR text with verse mixed in: use it only where a clean, balanced
+   stretch exists; otherwise pick another book.
 5. **Facts must be true.** Literature answers must be checkable in the book file. If unsure, choose another question.
 6. **Safety (project rule):** no instructions to deceive, coerce, stalk or harm; no medical, legal or financial
    advice; no diagnoses. Sad or hard topics are fine when handled kindly. No real brands, apps or public figures
