@@ -237,3 +237,5 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   interrupted `fetch`, so `prepare` built pretrain_train.bin from own text + WordNet only (73.5M tokens instead of
   ~1.9B) in MyDrive/quicktalk_run7/data. Fix: delete that `data` folder (and plan.json) and re-run. Change: cell 5 now
   asserts every extra set was downloaded before `prepare` runs.
+- Notebook v8.2 on Drive (id 12UpTplht6_tYz152iMYWgcDKiETWRi5D) = repo notebook with the cell 5 download guard;
+  v8.1 renamed "(old - use v8.2)".

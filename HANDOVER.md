@@ -17,7 +17,9 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action (chat experiment)
 
-1. User runs notebook v8 on an A100 (needs MyDrive/quicktalk_run6/tokenizer.json). ~1 h data prep + ~2.5-3 h training.
+1. User re-runs run 7 with notebook v8.2 (Drive id 12UpTplht6_tYz152iMYWgcDKiETWRi5D) after deleting
+   MyDrive/quicktalk_run7/data (+plan.json; first attempt's fetch was interrupted -> 73.5M-token pretrain file) and adding
+   the HF_TOKEN Colab secret. ~1 h data prep + ~2.5-3 h training.
 2. After the run: log in colab_fixes.md; split zip into <10 MB parts for the sandbox; run scripts/test_model_run.py on
    train/test_run6/testset.jsonl into train/test_run7/, grade with 3 independent agents (calibrate on run 6 grades),
    report + compare with runs 5/6. Also test on run-7 unseen eval chats.
