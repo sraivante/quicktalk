@@ -1,0 +1,2 @@
+{"id": "instruct-r6-0818", "problem": "Goal of chess described as trapping the king, which is imprecise.", "change": "Reworded to say checkmate the king (8 words, under 12)."}
+{"id": "instruct-r6-0907", "problem": "Masala tea steps had no spices, so the recipe was not masala tea.", "change": "Step 2 now adds ginger and cardamom; five steps, distinct opening words kept."}
