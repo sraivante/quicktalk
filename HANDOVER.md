@@ -15,6 +15,9 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action
 
+**Colab rule (user, 2026-10-01):** after EVERY change to the Colab pipeline or notebook, and after every Colab run, add an entry to `train/colab/colab_fixes.md` (issue, change, output) and commit it in the same commit. Do it immediately.
+
+
 **ACTIVE (2026-10-01): train/ build for the chat experiment.** User chose: leave behaviour data as is; books become a pretraining corpus; plus a SMALL chat-pattern set (~300-500 per type) only to teach conversation patterns; keep sources separate, build mixed train + per-type eval by script; commit at regular intervals.
 - Part 1 DONE: `scripts/build_behaviour_chat.py` -> train/sources/behaviour_chat_01..04.jsonl (46,719 multi-turn chats, metadata.group = sno) + corpus_behaviour.txt.
 - Part 2 DONE: `scripts/build_book_corpus.py` -> train/sources/books/*.txt (4.56M words, English only: Gutenberg text stripped; French/Italian/Latin/German/Sanskrit sentences and phrases removed; accents folded; Panchatantra two-page spreads re-ordered; REPORT.txt has counts) + train/sources/raga_qa.jsonl (338).
@@ -521,3 +524,4 @@ python3 scripts/export_dataset.py
 - 03:09 v4 uploaded: https://colab.research.google.com/drive/1h84auhU_DSAspCSJtcfOr32H_1FUhV7z (v3 renamed). Waiting for user to run run 3.
 - 03:16 Run 3 result: overfit (patterns 8x x 3 passes = 24 views; train 2.1 / eval 3.81, worse than run 2's 3.31); chat test bug: scripted prompts shared one history (topic carry-over). Fixed chat: fresh history per scripted prompt, --rep-penalty 1.3. Notebook v5 = run 4 (chat-repeat 3, sft 2 passes from run 2 pretrain).
 - 03:16 v5 uploaded: https://colab.research.google.com/drive/1xzi4GX8GKtjEl6p3pz1XYjV85GWT-PKu (v4 renamed). Honest ceiling: 12.6M params on 29M unique tokens gives fluent-ish but loose replies; real gain needs more data (pretraining text) under the 10x rule.
+- 03:20 Created train/colab/colab_fixes.md (full history: pipeline, mount fix, runs 1-4); rule added to Next action.
