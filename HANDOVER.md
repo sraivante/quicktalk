@@ -35,7 +35,7 @@ python3 scripts/export_dataset.py
 
 1. **Couples:** when two cast names share the same usual gender, relationship scenes come out as same-sex couples. Reply 1 to keep that, 2 to let agents choose the partner's name (my recommendation), or 3 to make the partner opposite-sex by default.
 2. **Validator:** should I add family words like "mama", "chacha", "Nani", "chechi" and "di", and phrases like "the girl who", to its list of gender cues? Yes or no.
-3. **New English-skills mix (2026-10-01):** user shared a 12-file SFT mix (grammar 15%, multiturn 14%, vocab 12%, rewrite 12%, comprehension 10%, writing 8%, usage 8%, Hinglish/ESL 6%, summary 5%, literature 4%, instruct 4%, reasoning 2%) and asked if it fits. Analysis given in chat; waiting on: scope (adds to or replaces the behaviour dataset?), target total size, and the rest of the user's truncated message.
+3. **New English-skills mix (2026-10-01):** user shared a 12-file SFT mix (grammar 15%, multiturn 14%, vocab 12%, rewrite 12%, comprehension 10%, writing 8%, usage 8%, Hinglish/ESL 6%, summary 5%, literature 4%, instruct 4%, reasoning 2%) and asked if it fits. Analysis given in chat; User answer (2026-10-01): it is an experiment; behaviour data stays as the human flavour, books and the English mix are added so the model can hold a common chat and has things to talk about. Proposed (in chat): pretrain on books + behaviour passages; SFT ~100k with a chat-heavier mix (multiturn 20%, behaviour QA 15% ready, grammar 10, vocab 8, rewrite 8, writing 7, Hinglish 6, literature/GK 6, usage 5, summary 5, instruct 5, reasoning 5). Waiting on: approve mix and size.
 
 ## Earlier state (session 1, historical; kept for reference)
 
