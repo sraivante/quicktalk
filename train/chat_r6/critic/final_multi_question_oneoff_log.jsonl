@@ -1,0 +1,10 @@
+{"id": "multi_question-r6-0051", "problem": "comma splice in example; answer 2 weak claim and missing sunlight", "change": "fixed example punctuation; answer 2 gives direct answer plus full cause"}
+{"id": "multi_question-r6-0167", "problem": "moving air 'carries away sweat' is loose science", "change": "answer 1 now says it speeds evaporation"}
+{"id": "multi_question-r6-0161", "problem": "topic 'family' does not fit", "change": "topic set to school"}
+{"id": "multi_question-r6-0250", "problem": "templated connectors Then/Next in user turn", "change": "rewrote user turn with new lines and one Also"}
+{"id": "multi_question-r6-0218", "problem": "topic 'travel' does not fit", "change": "topic set to news"}
+{"id": "multi_question-r6-0512", "problem": "invented detail about father enjoying telling", "change": "removed invented detail"}
+{"id": "multi_question-r6-0404", "problem": "'is it a hard word' not answered", "change": "added short reply"}
+{"id": "multi_question-r6-0795", "problem": "consist defined without 'of'", "change": "now 'consist of'"}
+{"id": "multi_question-r6-0674", "problem": "spelling note pointed at 'gi' instead of 'ie'", "change": "corrected note"}
+{"id": "multi_question-r6-0961", "problem": "ask not met (explain to child) and header mismatch", "change": "user turn simplified"}
