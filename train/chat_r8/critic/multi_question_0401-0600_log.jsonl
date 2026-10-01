@@ -1,0 +1,8 @@
+{"id": "multi_question-r8-0404", "problem": "answer 2 assumed the friend's gender", "action": "replaced 'her/she' with neutral wording"}
+{"id": "multi_question-r8-0474", "problem": "question 2 had an odd premise (cup vs freezer)", "action": "rewrote question 2 and its answer"}
+{"id": "multi_question-r8-0486", "problem": "answer 1 vague; answer 2 reason unnatural ('I have no clock')", "action": "rewrote both answers"}
+{"id": "multi_question-r8-0505", "problem": "question 1 wording unnatural", "action": "reworded question 1"}
+{"id": "multi_question-r8-0543", "problem": "answer 2 assumed the friend's gender", "action": "neutral wording"}
+{"id": "multi_question-r8-0560", "problem": "Why line not in trigger -> fix style", "action": "reformatted Why"}
+{"id": "multi_question-r8-0570", "problem": "answer 1 assumed the friend's gender", "action": "neutral wording"}
+{"id": "multi_question-r8-0572", "problem": "answer 1 wrongly said both tenses were possible", "action": "corrected answer and clarified question"}

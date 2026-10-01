@@ -1,0 +1,14 @@
+{"id": "multi_question-r8-0023", "problem": "correction changed \"than me\" to \"than I do\" without a stated reason", "action": "kept minimal fix, Why trigger made the subject"}
+{"id": "multi_question-r8-0037", "problem": "Why rule name wrong (verb form)", "action": "renamed rule to word choice"}
+{"id": "multi_question-r8-0063", "problem": "unnatural phrasing in model answer", "action": "rewrote answer 1 in natural English"}
+{"id": "multi_question-r8-0079", "problem": "Why rule name wrong (future tense for a present-tense fix)", "action": "renamed rule to present tense"}
+{"id": "multi_question-r8-0095", "problem": "Why merged two fixes into one clause", "action": "split into perfect tense and preposition clauses"}
+{"id": "multi_question-r8-0105", "problem": "wrong extra Why clause; moon answer inaccurate (moon is also seen by day)", "action": "removed false clause; corrected moon fact"}
+{"id": "multi_question-r8-0119", "problem": "Why rule name wrong and fixes merged", "action": "renamed to perfect tense and added preposition clause"}
+{"id": "multi_question-r8-0131", "problem": "correction changed more than the Why explained", "action": "Why now covers every change"}
+{"id": "multi_question-r8-0139", "problem": "second question and answer duplicated row 0099 word for word", "action": "replaced second question with a different word"}
+{"id": "multi_question-r8-0153", "problem": "sentence to correct had no real error; invented fix", "action": "replaced with a sentence that has a real error"}
+{"id": "multi_question-r8-0158", "problem": "user question said \"your house\", which the answer did not match", "action": "user question now asks about the user's own house"}
+{"id": "multi_question-r8-0168", "problem": "correct-sentence answer lacked the no-error Why line", "action": "added no-error Why line"}
+{"id": "multi_question-r8-0183", "problem": "answer said full stop or conjunction but used a semicolon; changed it's without reason", "action": "made answer consistent and minimal"}
+{"id": "multi_question-r8-0197", "problem": "used a cannot-know answer for a knowable fact", "action": "answered with the usual depth"}

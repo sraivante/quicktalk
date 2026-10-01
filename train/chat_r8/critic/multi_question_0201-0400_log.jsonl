@@ -1,0 +1,30 @@
+{"id": "multi_question-r8-0201", "problem": "user message ran two questions together with no punctuation", "action": "fixed in place"}
+{"id": "multi_question-r8-0205", "problem": "vague spelling tip", "action": "fixed in place"}
+{"id": "multi_question-r8-0210", "problem": "two questions joined abruptly, did not read as one natural message", "action": "fixed in place"}
+{"id": "multi_question-r8-0216", "problem": "weak/unclear advice", "action": "fixed in place"}
+{"id": "multi_question-r8-0218", "problem": "awkward definition wording", "action": "fixed in place"}
+{"id": "multi_question-r8-0219", "problem": "repetitive answer with no example", "action": "fixed in place"}
+{"id": "multi_question-r8-0224", "problem": "second question was trivial and unnatural; answer to replaced question", "action": "fixed in place"}
+{"id": "multi_question-r8-0244", "problem": "repeated opener (Doubts, doubts.) across rows", "action": "fixed in place"}
+{"id": "multi_question-r8-0246", "problem": "repeated opener across rows; example sentence did not fit the idiom", "action": "fixed in place"}
+{"id": "multi_question-r8-0249", "problem": "missing punctuation between questions", "action": "fixed in place"}
+{"id": "multi_question-r8-0276", "problem": "unclear spelling explanation", "action": "fixed in place"}
+{"id": "multi_question-r8-0277", "problem": "unnatural phrasing", "action": "fixed in place"}
+{"id": "multi_question-r8-0290", "problem": "repeated opener across rows; imprecise spelling explanation", "action": "fixed in place"}
+{"id": "multi_question-r8-0303", "problem": "repeated opener across rows", "action": "fixed in place"}
+{"id": "multi_question-r8-0325", "problem": "opener did not make sense", "action": "fixed in place"}
+{"id": "multi_question-r8-0327", "problem": "unclear correction reason", "action": "fixed in place"}
+{"id": "multi_question-r8-0328", "problem": "repeated opener across rows; memory tip was unclear", "action": "fixed in place"}
+{"id": "multi_question-r8-0330", "problem": "example blurred the two words", "action": "fixed in place"}
+{"id": "multi_question-r8-0346", "problem": "repeated opener across rows", "action": "fixed in place"}
+{"id": "multi_question-r8-0347", "problem": "second answer (origami frog) was too vague to follow; answer to replaced question", "action": "fixed in place"}
+{"id": "multi_question-r8-0350", "problem": "confusing simile in steps", "action": "fixed in place"}
+{"id": "multi_question-r8-0357", "problem": "example did not use the idiom", "action": "fixed in place"}
+{"id": "multi_question-r8-0365", "problem": "missing punctuation between questions", "action": "fixed in place"}
+{"id": "multi_question-r8-0368", "problem": "repeated opener across rows", "action": "fixed in place"}
+{"id": "multi_question-r8-0372", "problem": "opener did not fit the questions", "action": "fixed in place"}
+{"id": "multi_question-r8-0373", "problem": "confusing explanation", "action": "fixed in place"}
+{"id": "multi_question-r8-0381", "problem": "unnatural example for further", "action": "fixed in place"}
+{"id": "multi_question-r8-0384", "problem": "contradictory advice wording", "action": "fixed in place"}
+{"id": "multi_question-r8-0385", "problem": "inaccurate spelling statement", "action": "fixed in place"}
+{"id": "multi_question-r8-0393", "problem": "verb spelling (practise) inconsistent with British spelling", "action": "fixed in place"}
