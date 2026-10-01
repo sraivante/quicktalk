@@ -22,6 +22,9 @@ full-run mechanics.
    - rewrite: your own sentences, behaviour passages, the Ramayana and the Panchatantra (clean balanced stretches only).
    - literature: questions may cover any book, but do not quote long excerpts; spread across all books and the raga book.
    - vocab: words from `train/spec/vocab_words.txt` not used in the pilot.
+   - Note: Mahabharata paragraphs usually open a speech quote that closes only paragraphs later, so most fail the
+     balanced-quote rule; use a Mahabharata excerpt only when its quotes balance (or it has none), otherwise take
+     more from your novels. The Panchatantra rarely has a clean stretch.
 6. Check your own work before writing each chunk: facts against the book files, arithmetic, instruct constraints
    (count them), grammar reasons.
 7. Do not commit. Do not touch other files. Your final report: counts, validator result, judgement calls; never paste
