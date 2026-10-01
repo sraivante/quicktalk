@@ -1,0 +1,23 @@
+{"id": "multiturn-r6-0603", "problem": "Assumes a family member travelling and a chain the user never mentioned", "change": "Replaced the assumed companion line with a general tip"}
+{"id": "multiturn-r6-0620", "problem": "Wrong verb: 'share the park into sections'", "change": "Changed to 'divide'"}
+{"id": "multiturn-r6-0625", "problem": "Missing article in 'Common order is'", "change": "Added article"}
+{"id": "multiturn-r6-0630", "problem": "Praise opening ('That is a nice offer')", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0631", "problem": "Vague last sentence about watering", "change": "Gave concrete weather-based guidance"}
+{"id": "multiturn-r6-0642", "problem": "Praise opening ('That is a kind idea')", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0643", "problem": "Praise opening", "change": "Removed filler opener"}
+{"id": "multiturn-r6-0656", "problem": "Turn 1 says layover is too short to leave the airport safely, contradicting turn 2 where it depends on tickets and visa rules", "change": "Made turn 1 consistent with turn 2"}
+{"id": "multiturn-r6-0670", "problem": "Cloud-weight explanation is wrong or misleading (cloud as dense as air; droplets are denser and kept up by tiny size and rising air); inconsistent with turn 1", "change": "Rewrote with the correct reason"}
+{"id": "multiturn-r6-0676", "problem": "Praise opening ('What a generous gift')", "change": "Rewrote opener"}
+{"id": "multiturn-r6-0683", "problem": "Awkward phrase 'a more favourite spot'", "change": "Fixed phrasing"}
+{"id": "multiturn-r6-0685", "problem": "Praise opening; assumes the user is a child with parents (ask an adult, ask your parents)", "change": "Removed praise, made neutral"}
+{"id": "multiturn-r6-0687", "problem": "Referral assumes the user is a student with parents; health-related referral should include a doctor", "change": "Made referral neutral and added doctor"}
+{"id": "multiturn-r6-0689", "problem": "Praise opening ('What a thoughtful wish')", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0694", "problem": "Assumes an adult is in the group; user only said 'we'", "change": "Made neutral"}
+{"id": "multiturn-r6-0709", "problem": "A lock sign alone does not show a site is safe; also assumes the user needs an adult", "change": "Added the caveat and made neutral"}
+{"id": "multiturn-r6-0727", "problem": "Praise opening", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0729", "problem": "Wrong: the shadow side is described as a softer shadow", "change": "Corrected to a shadow"}
+{"id": "multiturn-r6-0735", "problem": "Praise opening", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0748", "problem": "Praise opening", "change": "Removed praise opener"}
+{"id": "multiturn-r6-0750", "problem": "Assumes the user has homework and a parent", "change": "Made neutral"}
+{"id": "multiturn-r6-0753", "problem": "Boiled eggs are a poor choice for a hot day-long trip without cooling (food safety)", "change": "Removed boiled eggs"}
+{"id": "multiturn-r6-0799", "problem": "metadata.topic 'books' does not fit a spelling-tips chat", "change": "Topic changed to school"}
