@@ -189,3 +189,16 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Output (local check):** `prepare` on the rebuilt `train/build/` with run 5's tokenizer: sft_train 76,832 chats,
   18.6M tokens (5.6M trained); own pretraining text x3 = 42.5M tokens. Colab run not done yet.
 - **Upload:** v7 in Drive as `quicktalk_train_v7.ipynb` (https://colab.research.google.com/drive/1rVwippfXp4G9RQH1R6oVn7FjwabEiMGC); v6 renamed "(run 5 done - use v7)".
+
+## Run 6 in progress (2026-10-01, checked 11:30 UTC)
+- **Setup (cells 1-5) all OK on A100-40GB.** Fetch: WordNet 144,473 words (20 MB); FineWeb-Edu 345,422 docs (1,601 MB);
+  SODA 1,191,137 dialogues (1,060 MB); TinyStories 2,717,462 stories; Simple Wikipedia 155,858 articles. Tokenizer:
+  run 5's reused. pretrain_train 1,324,499,334 tokens (own x3 42.5M, FineWeb ~387M, Simple Wiki ~54M, SODA ~287M,
+  TinyStories ~537M, WordNet x3 ~17M); sft_train 76,832 chats / 18.6M tokens; plan 69.5M params (shape 640,12,10).
+  Fetch + tokenizing took ~44 min (10:16-11:00).
+- **Pretraining (continued from run 5):** 20,211 steps x 128 x 512, lr 3e-4, ~319k tok/s (~0.2 s/step).
+  Eval loss (same held-out books/behaviour eval text as run 5): 3.400 at step 200 -> 3.435 (800) -> 3.410 (3,000)
+  -> 3.381 (5,000) -> 3.356 (7,000) -> 3.345 (7,200). Run 5 ended pretraining at 3.29 on this eval text.
+- **Reading:** the early rise (3.29 -> 3.40-3.45) is the expected shift when the mix moves to web text/dialogues and the
+  learning rate jumps back up; eval has been falling steadily since step ~1,600. Expected end of pretraining ~12:15 UTC,
+  chat stage ~5 min after; final verdict after cell 9/10 and the offline test.
