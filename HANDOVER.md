@@ -566,3 +566,4 @@ python3 scripts/export_dataset.py
 - 08:30 Run 6 progress: see .staging/r6_queue.md; ~4,600 written, repairs merged per batch (logs in train/chat_r6/critic/).
 - 09:05 Run 6 ~6,300 written; queue in .staging/r6_queue.md.
 - 08:50 Run 6 chat data complete: 13 x 1,000, all repaired; final Opus critic (30/type) -> full-file passes (dont_know plain admission 725 rows, reasoning 412, multi_question 547, comprehension 558, summary 822, writing 1-500 276) + one-offs; 0 FAIL, 0 repeats. train/build rebuilt (sft 61,472); notebook v7 committed; dataset_info.txt section 9 + colab_fixes.md updated. Next: user runs v7.
+- 10:11 Notebook v7 uploaded to Drive: https://colab.research.google.com/drive/1rVwippfXp4G9RQH1R6oVn7FjwabEiMGC (v6 renamed 'run 5 done - use v7'). Next: user runs v7 on A100.

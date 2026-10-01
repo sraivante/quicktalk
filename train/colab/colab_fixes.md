@@ -188,3 +188,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
     cell 9 adds a multi-question and an "I don't know" prompt.
 - **Output (local check):** `prepare` on the rebuilt `train/build/` with run 5's tokenizer: sft_train 76,832 chats,
   18.6M tokens (5.6M trained); own pretraining text x3 = 42.5M tokens. Colab run not done yet.
+- **Upload:** v7 in Drive as `quicktalk_train_v7.ipynb` (https://colab.research.google.com/drive/1rVwippfXp4G9RQH1R6oVn7FjwabEiMGC); v6 renamed "(run 5 done - use v7)".
