@@ -1,0 +1,17 @@
+{"id": "reasoning-r6-0808", "problem": "Because only restated the premise and ignored the 'in the room' limit", "change": "Reasoning now names both gaps (colour and room)"}
+{"id": "reasoning-r6-0820", "problem": "Trade-name style word 'thermos' in the question", "change": "Changed to 'vacuum flask'"}
+{"id": "reasoning-r6-0858", "problem": "Mechanism stated as certain; it is only a leading explanation", "change": "Hedged with 'is thought to'"}
+{"id": "reasoning-r6-0867", "problem": "Grammar slip 'cords gives'", "change": "Fixed agreement"}
+{"id": "reasoning-r6-0868", "problem": "Awkward phrase 'serve only a reader'", "change": "Clearer wording"}
+{"id": "reasoning-r6-0897", "problem": "Overclaimed: tread does little on smooth wet roads for bicycles", "change": "Limited the claim to loose or muddy ground"}
+{"id": "reasoning-r6-0899", "problem": "Awkward, weak Because", "change": "Names the shared cause (dawn)"}
+{"id": "reasoning-r6-0901", "problem": "Overgeneral: some polyester fabrics are cooler than cotton", "change": "Hedged with 'usually' and noted the exception"}
+{"id": "reasoning-r6-0909", "problem": "Vague 'balances the pressure'", "change": "Names the real mechanism"}
+{"id": "reasoning-r6-0930", "problem": "False claim: potters usually centre clay at a fast wheel speed, not slowly", "change": "Replaced with a true question and answer on the same topic"}
+{"id": "reasoning-r6-0940", "problem": "Implied all spiders use webs", "change": "Added 'Many'"}
+{"id": "reasoning-r6-0943", "problem": "Premise (rice on plate) did not match the question (dal on table)", "change": "Premise and question now match so the inference is valid"}
+{"id": "reasoning-r6-0968", "problem": "Microbes feed on sugars, not directly on starch; awkward 'bowls'", "change": "Fixed the science and the question wording"}
+{"id": "reasoning-r6-0970", "problem": "Muddled cause and effect order", "change": "Clear order: softening, push, warping"}
+{"id": "reasoning-r6-0971", "problem": "Speculative mechanism stated as fact", "change": "Hedged with 'many' and 'helps'"}
+{"id": "reasoning-r6-0976", "problem": "Weak first sentence ('rain cools the air above')", "change": "Names the cold downdraft"}
+{"id": "reasoning-r6-0990", "problem": "Dubious premise (fresh tastes sweeter) with a circular Because", "change": "Replaced with a true spoilage question on the same topic"}
