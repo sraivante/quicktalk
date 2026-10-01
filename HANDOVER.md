@@ -34,8 +34,8 @@ python3 scripts/export_dataset.py
 ## Open decisions / questions for the user
 
 1. **Couples:** when two cast names share the same usual gender, relationship scenes come out as same-sex couples. Reply 1 to keep that, 2 to let agents choose the partner's name (my recommendation), or 3 to make the partner opposite-sex by default.
-3. **New English-skills mix (2026-10-01):** user shared a 12-file SFT mix (grammar 15%, multiturn 14%, vocab 12%, rewrite 12%, comprehension 10%, writing 8%, usage 8%, Hinglish/ESL 6%, summary 5%, literature 4%, instruct 4%, reasoning 2%) and asked if it fits. Analysis given in chat; waiting on: scope (adds to or replaces the behaviour dataset?), target total size, and the rest of the user's truncated message.
 2. **Validator:** should I add family words like "mama", "chacha", "Nani", "chechi" and "di", and phrases like "the girl who", to its list of gender cues? Yes or no.
+3. **New English-skills mix (2026-10-01):** user shared a 12-file SFT mix (grammar 15%, multiturn 14%, vocab 12%, rewrite 12%, comprehension 10%, writing 8%, usage 8%, Hinglish/ESL 6%, summary 5%, literature 4%, instruct 4%, reasoning 2%) and asked if it fits. Analysis given in chat; waiting on: scope (adds to or replaces the behaviour dataset?), target total size, and the rest of the user's truncated message.
 
 ## Earlier state (session 1, historical; kept for reference)
 
