@@ -1,0 +1,30 @@
+{"id": "rewrite-r6-0205", "problem": "formal register barely applied (almost unchanged)", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0219", "problem": "asked for easier words and shorter sentences; sentences stayed long and words unchanged", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0221", "problem": "asked to shorten a lot; output almost as long as source (84 vs 86 words)", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0224", "problem": "asked for three sentences; output counted quotation-internal sentences and was barely shorter", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0226", "problem": "asked to shorten; output barely shorter than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0244", "problem": "simplify request barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0247", "problem": "reported speech turned the opening question into a statement", "change": "reply now reports the question as a question (asking why), still no quotation marks"}
+{"id": "rewrite-r6-0257", "problem": "asked for simpler, friendlier words; text almost unchanged", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0261", "problem": "asked to shorten; output as long as source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0264", "problem": "asked for simpler English but kept archaic wording (host, shelving, hero's grace)", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0267", "problem": "easier for a child barely applied; long sentences unchanged", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0281", "problem": "asked to shorten; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0282", "problem": "asked to shorten; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0296", "problem": "asked to cut to three sentences; barely shorter", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0299", "problem": "plainer words request barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0308", "problem": "asked to shorten; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0309", "problem": "asked to shorten; output barely shorter", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0326", "problem": "asked to boil down; output barely shorter and used quotation-internal sentences", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0332", "problem": "asked to shorten to three sentences; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0336", "problem": "asked to reduce to four sentences; output longer than source and quote held extra sentences", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0357", "problem": "asked to condense to two sentences; no shorter than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0363", "problem": "young-child short sentences barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0369", "problem": "plainer words request barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0373", "problem": "easier words request barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0374", "problem": "asked for a bit shorter; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0375", "problem": "asked to condense to three sentences; output longer than source and quote held extra sentences", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0385", "problem": "asked for two sentences; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0387", "problem": "simple words for a young child barely applied", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0389", "problem": "asked to shorten to about three sentences; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
+{"id": "rewrite-r6-0395", "problem": "asked to condense to three sentences; output longer than source", "change": "rewrote the assistant reply to follow the instruction, same meaning, no new facts"}
