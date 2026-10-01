@@ -1,0 +1,6 @@
+{"id": "usage-r6-0822", "problem": "apostrophe-plural claim stated mangoes as the only form; mangos is accepted too", "change": "rewrote assistant text minimally"}
+{"id": "usage-r6-0868", "problem": "Why named a double t as the fix, but the user's spelling already has double t; the missing letter is h", "change": "rewrote assistant text minimally"}
+{"id": "usage-r6-0888", "problem": "British and Indian meanings overstated (Britain varies, e.g. Scotland); hedged and limited to England", "change": "rewrote assistant text minimally"}
+{"id": "usage-r6-0924", "problem": "note did not name the letter actually missing from the user's spelling (the e after nin)", "change": "rewrote assistant text minimally"}
+{"id": "usage-r6-0926", "problem": "second example used i.e. for a list of examples (should be e.g.) and examples lacked the comma the answer mentioned", "change": "rewrote assistant text minimally"}
+{"id": "usage-r6-0972", "problem": "grading threshold stated as flat fact for India and Britain; hedged and separated", "change": "rewrote assistant text minimally"}
