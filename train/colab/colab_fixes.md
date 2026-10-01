@@ -205,3 +205,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Check 11:55 UTC (step 14,600/20,211, 72%):** eval loss 3.356 (7,000) -> 3.314 (9,000s) -> 3.290 (12,000) -> 3.249
   (14,000) -> 3.244 (14,600): now **below run 5's final 3.29** on the same eval text. Train loss ~1.9, lr 8e-5 (cosine
   decay), 318k tok/s steady, checkpoints every 1,000-2,000 steps. Pretraining ends ~12:15 UTC; chat stage next.
+- **Run 6 finished (2026-10-01):** pretraining 20,211 steps ended 12:15 UTC, final eval loss **3.191** (run 5: 3.29, same
+  eval text); chat stage 1,136 steps, chat eval loss 2.27 best / 2.285 final (run 5: 2.76, but run 6 has a different
+  eval split, so not comparable). Cell 11 saved `MyDrive/quicktalk_run6_model.zip` (258.5 MB, verified) at 12:21 UTC.
+  Zip received in the sandbox in 28 parts, joined and verified; offline test (train/test_run6/) running.
