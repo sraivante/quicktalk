@@ -19,6 +19,7 @@ Read first: `train/spec/CHAT_PATTERNS.md` (rules, type table, "Run 6 additions")
    `.staging/r6_repair/<type>_<first>-<last>.jsonl`. Keep changes minimal; do not rewrite good examples. If an
    example cannot be fixed well, rewrite it completely as a new example of the same type (same id).
 4. Also write `.staging/r6_repair/<type>_<first>-<last>_log.jsonl`: one line per changed id {"id", "problem", "change"}.
+4b. Run `python3 scripts/check_r6_dupes.py <type>` and rewrite every id in your range that it lists as a new example.
 5. Validate your fixes file: `python3 scripts/validate_chat.py .staging/r6_repair/<type>_<first>-<last>.jsonl --type
    <type>` (add `--no-arithmetic` for reasoning). Ignore WARNs about repeated openings across a small file; fix FAILs.
 6. Do not commit. Do not touch other files. Final report: how many checked, how many changed, top problems; never

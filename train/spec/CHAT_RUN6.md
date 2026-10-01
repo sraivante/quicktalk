@@ -33,6 +33,8 @@ and follow it exactly; this file only adds the run-6 mechanics.
 6. Read `train/chat_r6/critic/summary.md` (section "Instructions for the generators") and follow it: it lists
    the mistakes the trial critic found (weak "Because" lines, questions that do not match their content, over-
    correction, templated user turns, topic labels that do not fit).
+6b. Before your final report run `python3 scripts/check_r6_dupes.py <type>` and replace every id it lists (exact or
+   near repeats of earlier data), then validate again.
 7. Check your own work before writing each chunk: facts, grammar reasons, constraints, numbering.
 8. Do not commit. Do not touch other files. Final report: counts, validator result, judgement calls; never paste
    dataset content.
