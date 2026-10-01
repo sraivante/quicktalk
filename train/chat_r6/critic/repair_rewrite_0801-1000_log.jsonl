@@ -1,0 +1,12 @@
+{"id": "rewrite-r6-0813", "problem": "Ambiguous 'she knew' (could be Shreya or Himani)", "change": "Named Himani as the one who knew the codebase"}
+{"id": "rewrite-r6-0814", "problem": "Meaning changed: 'asking who would give up' became an order; 'detours' became 'places'", "change": "Kept the question as a question and the dropped detours as long detours, in short child sentences"}
+{"id": "rewrite-r6-0821", "problem": "Cause 'because we bought several notebooks' lost", "change": "Restored the reason in simple words"}
+{"id": "rewrite-r6-0846", "problem": "Added pronoun gender (he) not in the source", "change": "Removed the pronoun"}
+{"id": "rewrite-r6-0855", "problem": "Added name Nilesh not in the passage", "change": "Replaced the invented name with a pronoun"}
+{"id": "rewrite-r6-0891", "problem": "Added detail 'study alone' not in the source", "change": "Used 'alone', which keeps the original meaning"}
+{"id": "rewrite-r6-0935", "problem": "Added gender and relationship (He, his mother) not in the notes", "change": "Neutral wording; turned 'call mother' into a request"}
+{"id": "rewrite-r6-0956", "problem": "Invented the action 'called' and the speaker 'I'", "change": "Used neutral full sentences that add no action"}
+{"id": "rewrite-r6-0967", "problem": "'book' is an invented detail", "change": "Used 'have', which matches 'I want'"}
+{"id": "rewrite-r6-0980", "problem": "Invented 'attached'; flat accusation became vague", "change": "Said 'sent' and kept the point polite"}
+{"id": "rewrite-r6-0981", "problem": "Invented 'phones ring' for 'lines explode'", "change": "Used a general description of many people contacting them"}
+{"id": "rewrite-r6-1000", "problem": "Added first person and past tense not in the fragments", "change": "Neutral present-style full sentences"}
