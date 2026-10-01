@@ -28,6 +28,13 @@ if not args: sys.exit(__doc__)
 path = args[0]; want = args[args.index('--type') + 1] if '--type' in args else None
 no_arith = '--no-arithmetic' in args
 short_why = '--short-why' in args
+run8 = '--run8' in args   # run 8 data: rule-name Why, multiturn 3-5 pairs, stories 80-150 words, 2-question multi_question
+RULES = ['subject-verb agreement', 'past tense', 'present tense', 'future tense', 'perfect tense', 'continuous tense',
+         'verb form', 'article', 'plural', 'uncountable noun', 'preposition', 'pronoun', 'possessive', 'word order',
+         'comparative', 'superlative', 'question form', 'negative', 'spelling', 'capital letter', 'punctuation',
+         'apostrophe', 'missing word', 'extra word', 'word choice', 'conjunction']
+RULE_WHY = re.compile(r'^Why: (?:' + '|'.join(map(re.escape, RULES)) + r') \([^()\n]+ -> [^()\n]+\)(?:; (?:'
+                      + '|'.join(map(re.escape, RULES)) + r') \([^()\n]+ -> [^()\n]+\))*\.$', re.M)
 fails = warns = 0; ids = set(); opens = collections.Counter(); topics = collections.Counter(); asst_seen = collections.Counter()
 def F(i, m):
     global fails; fails += 1; print(f'FAIL line {i}: {m}')
@@ -74,7 +81,11 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
     if t == 'grammar':
         if not re.search(r'\bwhy\b', a0, re.I): F(i, 'grammar answer must give the reason ("Why: ...")')
         mw = re.search(r'Why:(.*)', a0, re.S)
-        if short_why and mw and len(mw.group(1).split()) > 15: F(i, f'"Why:" is {len(mw.group(1).split())} words (max 15, run 7 style)')
+        if short_why and not run8 and mw and len(mw.group(1).split()) > 15: F(i, f'"Why:" is {len(mw.group(1).split())} words (max 15, run 7 style)')
+        if run8:
+            wl = [l for l in a0.split('\n') if l.startswith('Why:')]
+            if len(wl) != 1 or not RULE_WHY.match(wl[0]): F(i, 'run 8: one line "Why: <rule> (<trigger> -> <fix>); ...." with rules from the list')
+            elif len(wl[0].split()) - 1 > 20: F(i, f'run 8: "Why:" is {len(wl[0].split()) - 1} words (max 20)')
     if t == 'dont_know' and short_why and (md.get('topic') in ('maths', 'math', 'numbers') or re.search(r'\d+\s*[-+*/x%]\s*\d|\d+\s*%', u0)):
         F(i, 'run 7: dont_know is not used for maths')
     if t == 'reasoning' and not re.search(r'\bbecause\b', a0, re.I): F(i, 'reasoning answer must explain with "Because ..."')
@@ -85,6 +96,13 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
         if k not in (2, 3, 4, 5): F(i, 'multi_question needs metadata.n_questions 2-5')
         elif nums != [str(x) for x in range(1, k + 1)]: F(i, f'multi_question answer must number its answers 1.-{k}. at line starts, in order (found {nums})')
         if re.search(r'\d\s*[-+*/x]\s*\d', u0): F(i, 'no arithmetic questions in multi_question')
+    if run8 and t == 'multiturn':
+        if not 3 <= len(msgs) // 2 <= 5: F(i, 'run 8: multiturn needs 3-5 pairs')
+        if md.get('n_pairs') != len(msgs) // 2: F(i, 'run 8: metadata.n_pairs must equal the number of pairs')
+        if not all(15 <= len(m['content'].split()) <= 70 for m in msgs if m['role'] == 'assistant'): F(i, 'run 8: multiturn assistant turns 15-70 words')
+    if run8 and t == 'writing' and md.get('kind') == 'story':
+        if not 80 <= len(a0.split()) <= 150: F(i, f'run 8: story has {len(a0.split())} words (80-150)')
+    if run8 and t == 'multi_question' and md.get('n_questions') != 2: F(i, 'run 8: multi_question has exactly 2 questions')
     if t == 'dont_know' and not UNSURE.search(a0): F(i, 'dont_know answer must say plainly that it does not know / cannot check')
     if t in ('vocab', 'usage') and len(re.findall(r'[.!?]', a0)) < 2: W(i, f'{t} answer should include an example sentence')
     if t in ('comprehension', 'summary', 'rewrite') and src.startswith('book:'):

@@ -99,6 +99,34 @@ One JSON object per line:
   (`train/sources/math/`). Math is NOT upsampled in chat training (1x). GSM8K test is kept for testing only.
 - New examples go to `train/chat_r7/<type>.jsonl` (ids `<type>-r7-NNNN`; easy maths `reasoning-r7m-NNNN`).
 
+## Run 8 data (agreed with the user 2026-10-01, after the run 7 test: stories 14%, multiturn 24%, multi_question 5%)
+
+New examples go to `train/chat_r8/<type>.jsonl` (ids `<type>-r8-NNNN`; stories `writing-r8s-NNNN`). Validate with
+`python3 scripts/validate_chat.py <file> --type <type> --short-why --run8`.
+
+- **multiturn (+1,000):** 3-5 user/assistant pairs (3: 35%, 4: 40%, 5: 25%). The LAST user turn must depend on an
+  earlier turn (refers back with "that", "the second one", "what I told you", a name or detail given before, a change
+  of plan); the last assistant reply must use that earlier detail correctly and by name. Mix kinds: planning, a
+  problem, sharing news, asking advice on everyday things, small talk, a story the user tells in parts, recall checks
+  ("what was the name of my cousin I mentioned?"). Assistant turns 15-70 words, warm and specific, no lists.
+  Set `metadata.n_pairs`.
+- **stories (+800, type `writing`, `metadata.kind = "story"`):** the user asks for a story in one sentence (vary:
+  "Tell me a story about...", "Write a short story where...", "Make up a bedtime story for my little brother about...",
+  sometimes with a constraint: a title, a happy ending, for a 6-year-old, set in a village, with a talking animal).
+  The assistant writes ONLY the story, 80-150 words, past tense, named characters, a clear beginning, a problem and
+  an ending that resolves it; it fits every constraint asked. No moral lecture at the end, no "Once upon a time" in
+  more than 1 story in 10, no title unless asked.
+- **multi_question (+600):** exactly 2 questions (`n_questions = 2`), familiar topics (word meaning, easy grammar fix,
+  everyday reasoning, simple advice, spelling, one dont_know kind); the user writes them naturally (one line, two
+  lines, "Also, ..."). Answers "1." and "2.", each 1-2 short sentences. A correction answer keeps the rule-name Why.
+- **grammar "Why:" rule names (all 1,220 grammar rows; repair, not new rows):** the Why line names the rule from a
+  fixed list, then the trigger and fix in brackets: `Why: <rule> (<trigger> -> <fix>); <rule> (...).` e.g.
+  `Why: past tense ("yesterday" -> "went"); article ("an" -> "a" before "university").` At most 20 words; one clause
+  per fix; rules: subject-verb agreement, past tense, present tense, future tense, perfect tense, continuous tense,
+  verb form, article, plural, uncountable noun, preposition, pronoun, possessive, word order, comparative,
+  superlative, question form, negative, spelling, capital letter, punctuation, apostrophe, missing word, extra word,
+  word choice, conjunction. The corrected text itself is not changed unless it is wrong.
+
 ## Pilot
 
 Write 20 examples per assigned type into `train/pilot/<type>.jsonl`, ids `<type>-p0001`.., then run

@@ -34,7 +34,7 @@ norm = lambda s: re.sub(r'\s+', ' ', s).strip()
 
 # ---- chat data -------------------------------------------------------------------------------
 chat = collections.defaultdict(list)                       # type -> examples
-for f in sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r7', '*.jsonl'))) + \
+for f in sorted(glob.glob(os.path.join(T, 'chat', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r6', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r7', '*.jsonl'))) + sorted(glob.glob(os.path.join(T, 'chat_r8', '*.jsonl'))) + \
         sorted(glob.glob(os.path.join(T, 'pilot', '*.jsonl'))) + \
         sorted(glob.glob(os.path.join(T, 'math', '*_chat.jsonl'))):   # chat_r6/r7 = run 6/7 additions; math = run 7
 
