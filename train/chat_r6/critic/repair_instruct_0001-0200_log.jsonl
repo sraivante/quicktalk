@@ -1,0 +1,3 @@
+{"id": "instruct-r6-0025", "problem": "dangling \"next\" with no context in the user turn", "change": "reworded user turn only; answer already met all constraints"}
+{"id": "instruct-r6-0051", "problem": "\"comma-separated\" repeated twice in the user turn", "change": "reworded user turn only; answer already met all constraints"}
+{"id": "instruct-r6-0158", "problem": "user turn repeats \"after class\" and reads awkwardly", "change": "reworded user turn only; answer already met all constraints"}
