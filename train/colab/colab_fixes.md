@@ -233,3 +233,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   Change: FineWeb fetch now logs progress every 20,000 documents; notebook cell 4 reads an optional Colab secret
   `HF_TOKEN` into the environment (token never stored in the notebook or repo).
 - Notebook cell 3 now updates an existing clone (fetch + reset) so a re-run in the same runtime picks up new code.
+- **Run 7, 14:46 UTC: FineWeb fetch interrupted (stop button) -> bad token files.** The cell continued after the
+  interrupted `fetch`, so `prepare` built pretrain_train.bin from own text + WordNet only (73.5M tokens instead of
+  ~1.9B) in MyDrive/quicktalk_run7/data. Fix: delete that `data` folder (and plan.json) and re-run. Change: cell 5 now
+  asserts every extra set was downloaded before `prepare` runs.
