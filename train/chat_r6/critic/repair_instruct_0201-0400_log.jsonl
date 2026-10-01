@@ -1,0 +1,4 @@
+{"id": "instruct-r6-0201", "problem": "Ladle is not needed for cooking rice; replaced with water", "change": "Replaced ladle with water."}
+{"id": "instruct-r6-0248", "problem": "Salt is not part of plain lemon water", "change": "Replaced salt with ice cubes."}
+{"id": "instruct-r6-0360", "problem": "First sentence called the lost ice cream a tasty treat, which is not cheering", "change": "Rewrote the first sentence as sympathy."}
+{"id": "instruct-r6-0311", "problem": "topic night does not fit an auto ride on a bumpy road", "change": "Set topic to transport."}
