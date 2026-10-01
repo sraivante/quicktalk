@@ -34,6 +34,7 @@ python3 scripts/export_dataset.py
 ## Open decisions / questions for the user
 
 1. **Couples:** when two cast names share the same usual gender, relationship scenes come out as same-sex couples. Reply 1 to keep that, 2 to let agents choose the partner's name (my recommendation), or 3 to make the partner opposite-sex by default.
+3. **New English-skills mix (2026-10-01):** user shared a 12-file SFT mix (grammar 15%, multiturn 14%, vocab 12%, rewrite 12%, comprehension 10%, writing 8%, usage 8%, Hinglish/ESL 6%, summary 5%, literature 4%, instruct 4%, reasoning 2%) and asked if it fits. Analysis given in chat; waiting on: scope (adds to or replaces the behaviour dataset?), target total size, and the rest of the user's truncated message.
 2. **Validator:** should I add family words like "mama", "chacha", "Nani", "chechi" and "di", and phrases like "the girl who", to its list of gender cues? Yes or no.
 
 ## Earlier state (session 1, historical; kept for reference)
@@ -495,3 +496,5 @@ python3 scripts/export_dataset.py
 - Full groups 236-237 done (12 PASS; ~17 post-commit pronoun fixes re-synced). Remaining agent: 240-241 (last batch v02-03_b0192). full: batches 1417/1418 (99.9%) | records 30500/30520 (99.9%) | rows 7679/7689 (99.9%)
 - **FULL GENERATION 100% COMPLETE.** Groups 240-241 done (12 PASS; 7641/7669/7576 cast swaps). full: batches 1418/1418 | records 30520/30520 | rows 7689/7689. Full re-validation of all 1418 outputs: 0 FAIL. No agents running. Next: commit_rows --branch claude/intelligent-ride-oxqjfy (merges full variants), then scripted scan (narrator pronouns; reuse .staging/f158/audit.py), critic sample of flagged rows, repair, export. Still waiting on user: couples 1/2/3; validator gender-cue list yes/no.
 - **commit_rows (full) DONE** (3 runs; 2 container restarts + 1 push race, resumed safely). Final run 3,040 commits, all pushed. data/rows: 7,689 files / 45,780 records; data/clusters: 939 (C0830 excluded). Total 46,719 = 16,199 phase1 + 30,520 full. Next: scripted scan, critic sample, repair, export. Waiting on user: couples 1/2/3; validator gender cues yes/no.
+
+- 2026-10-01 Added 4 source zips to compressdata/ (10 public-domain novels; Ramayana Griffith + Mahabharata Ganguli; Panchatantra Ryder 1925 OCR; raga teaching pack with 338 QA). Analysed the user's 12-file English-skills mix against them: books cover comprehension/literature/summary and part of vocab/rewrite; grammar, multiturn, writing, usage, Hinglish and instruct have no source and must be generated. Panchatantra OCR has interleaved two-column verse and needs cleaning; Gutenberg headers must be stripped.
