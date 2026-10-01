@@ -1,0 +1,53 @@
+{"id": "hinglish_esl-r6-0403", "problem": "Reply said \"of us\"; the user asked for a photo of themselves only", "change": "Changed to \"take my photo\""}
+{"id": "hinglish_esl-r6-0406", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"family\""}
+{"id": "hinglish_esl-r6-0414", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"shop\""}
+{"id": "hinglish_esl-r6-0416", "problem": "Casual version said \"Say that again\", not the same as \"speak more clearly\"", "change": "Casual version now asks to say it more clearly"}
+{"id": "hinglish_esl-r6-0419", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"school\""}
+{"id": "hinglish_esl-r6-0422", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"appearance\""}
+{"id": "hinglish_esl-r6-0423", "problem": "Reply said \"stay and have dinner\"; user only said to eat before leaving", "change": "Changed to \"have something to eat before you go\""}
+{"id": "hinglish_esl-r6-0427", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"family\""}
+{"id": "hinglish_esl-r6-0431", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"home\""}
+{"id": "hinglish_esl-r6-0432", "problem": "metadata.topic did not describe the situation", "change": "Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0433", "problem": "Reply added \"You'll do well\", which the user did not say", "change": "Removed the added prediction"}
+{"id": "hinglish_esl-r6-0436", "problem": "metadata.topic did not describe the situation", "change": "Relabelled topic to \"music\""}
+{"id": "hinglish_esl-r6-0437", "problem": "Reply stated the dish has meat; user only said it does not look vegetarian", "change": "Changed to \"does not look vegetarian\""}
+{"id": "hinglish_esl-r6-0440", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"shop\""}
+{"id": "hinglish_esl-r6-0444", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"school\""}
+{"id": "hinglish_esl-r6-0448", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"hobbies\""}
+{"id": "hinglish_esl-r6-0453", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"money\""}
+{"id": "hinglish_esl-r6-0458", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0462", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0466", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"home\""}
+{"id": "hinglish_esl-r6-0470", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"class\""}
+{"id": "hinglish_esl-r6-0474", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"office\""}
+{"id": "hinglish_esl-r6-0480", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"travel\""}
+{"id": "hinglish_esl-r6-0485", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"school\""}
+{"id": "hinglish_esl-r6-0489", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"money\""}
+{"id": "hinglish_esl-r6-0494", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"feelings\""}
+{"id": "hinglish_esl-r6-0500", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0502", "problem": "Explanation of past perfect (\"only just changed your mind\") was wrong", "change": "Corrected explanation"}
+{"id": "hinglish_esl-r6-0503", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"school\""}
+{"id": "hinglish_esl-r6-0508", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0511", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0514", "problem": "metadata.topic did not describe the situation", "change": "Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0516", "problem": "metadata.topic did not describe the situation", "change": "Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0521", "problem": "Vague/misleading past perfect explanation", "change": "Clarified explanation"}
+{"id": "hinglish_esl-r6-0522", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"shop\""}
+{"id": "hinglish_esl-r6-0526", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0531", "problem": "metadata.topic did not describe the situation", "change": "Relabelled topic to \"family\""}
+{"id": "hinglish_esl-r6-0535", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"home\""}
+{"id": "hinglish_esl-r6-0539", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"study\""}
+{"id": "hinglish_esl-r6-0544", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"school\""}
+{"id": "hinglish_esl-r6-0545", "problem": "Reply added \"I know you can do well\"; meaning was to say kindly that he should focus on studies", "change": "Said it kindly with care, no added claim"}
+{"id": "hinglish_esl-r6-0547", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0553", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"clothes\""}
+{"id": "hinglish_esl-r6-0558", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0562", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0567", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"family\""}
+{"id": "hinglish_esl-r6-0571", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"home\""}
+{"id": "hinglish_esl-r6-0576", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0581", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"food\""}
+{"id": "hinglish_esl-r6-0586", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"college\""}
+{"id": "hinglish_esl-r6-0591", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}
+{"id": "hinglish_esl-r6-0595", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"daily life\""}
+{"id": "hinglish_esl-r6-0599", "problem": "Correction gave no reason for the fix; metadata.topic did not describe the situation", "change": "Added a short matching \"Why:\" reason; Relabelled topic to \"friends\""}

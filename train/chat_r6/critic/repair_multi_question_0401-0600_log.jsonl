@@ -1,0 +1,56 @@
+{"id": "multi_question-r6-0406", "problem": "metadata.topic matches little of the message", "change": "topic home -> travel"}
+{"id": "multi_question-r6-0413", "problem": "metadata.topic matches little of the message", "change": "topic books -> school"}
+{"id": "multi_question-r6-0442", "problem": "metadata.topic matches little of the message", "change": "topic sport -> school"}
+{"id": "multi_question-r6-0455", "problem": "Awkward, imprecise meaning of idiom", "change": "Reworded meaning"}
+{"id": "multi_question-r6-0486", "problem": "Q5 sentence is already correct; reason about a comma was weak", "change": "Gave a real tense error to fix"}
+{"id": "multi_question-r6-0487", "problem": "Dont_know answer hedged with \"not sure\" instead of saying plainly it does not know", "change": "Plain \"I don't know\""}
+{"id": "multi_question-r6-0489", "problem": "metadata.topic matches little of the message", "change": "topic friends -> school"}
+{"id": "multi_question-r6-0490", "problem": "metadata.topic matches little of the message", "change": "topic work -> sport"}
+{"id": "multi_question-r6-0491", "problem": "metadata.topic matches little of the message", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0493", "problem": "metadata.topic matches little of the message", "change": "topic home -> language"}
+{"id": "multi_question-r6-0494", "problem": "metadata.topic matches little of the message", "change": "topic school -> language"}
+{"id": "multi_question-r6-0497", "problem": "Wrong science: sea holds heat so coastal evenings are milder, not cooler; answer contradicted itself", "change": "Question and answer now say coastal evenings are milder because water cools slowly"}
+{"id": "multi_question-r6-0498", "problem": "metadata.topic matches little of the message", "change": "topic festival -> school"}
+{"id": "multi_question-r6-0501", "problem": "metadata.topic matches little of the message", "change": "topic school -> language"}
+{"id": "multi_question-r6-0502", "problem": "Wrong word origin: \"grateful\" does not come from \"grate\"", "change": "Gave correct spelling hint"}
+{"id": "multi_question-r6-0509", "problem": "metadata.topic matches little of the message", "change": "topic weather -> language"}
+{"id": "multi_question-r6-0510", "problem": "metadata.topic matches little of the message", "change": "topic family -> language"}
+{"id": "multi_question-r6-0513", "problem": "Dont_know hedged with \"not sure\"", "change": "Plain statement it does not know"}
+{"id": "multi_question-r6-0514", "problem": "metadata.topic matches little of the message", "change": "topic home -> language"}
+{"id": "multi_question-r6-0515", "problem": "metadata.topic matches little of the message", "change": "topic friends -> language"}
+{"id": "multi_question-r6-0517", "problem": "metadata.topic matches little of the message", "change": "topic family -> language"}
+{"id": "multi_question-r6-0518", "problem": "metadata.topic matches little of the message", "change": "topic weather -> school"}
+{"id": "multi_question-r6-0524", "problem": "Dont_know hedged with \"not sure\"; antecedent unclear", "change": "Plain statement it does not know"}
+{"id": "multi_question-r6-0525", "problem": "Example sentence is ungrammatical", "change": "Fixed example to a proper question"}
+{"id": "multi_question-r6-0526", "problem": "metadata.topic matches little of the message", "change": "topic weather -> language"}
+{"id": "multi_question-r6-0527", "problem": "Dont_know hedged with \"not sure\"", "change": "Plain statement it does not know"}
+{"id": "multi_question-r6-0528", "problem": "metadata.topic matches little of the message", "change": "topic friends -> school"}
+{"id": "multi_question-r6-0529", "problem": "metadata.topic matches little of the message", "change": "topic school -> language"}
+{"id": "multi_question-r6-0530", "problem": "metadata.topic matches little of the message", "change": "topic food -> school"}
+{"id": "multi_question-r6-0531", "problem": "metadata.topic matches little of the message", "change": "topic home -> language"}
+{"id": "multi_question-r6-0533", "problem": "metadata.topic matches little of the message", "change": "topic food -> language"}
+{"id": "multi_question-r6-0536", "problem": "metadata.topic matches little of the message", "change": "topic food -> school"}
+{"id": "multi_question-r6-0537", "problem": "metadata.topic matches little of the message", "change": "topic weather -> school"}
+{"id": "multi_question-r6-0540", "problem": "metadata.topic matches little of the message", "change": "topic festival -> school"}
+{"id": "multi_question-r6-0541", "problem": "Garbled cause", "change": "Clear reason for carrying an umbrella"}
+{"id": "multi_question-r6-0543", "problem": "metadata.topic matches little of the message", "change": "topic sport -> school"}
+{"id": "multi_question-r6-0545", "problem": "metadata.topic matches little of the message", "change": "topic work -> language"}
+{"id": "multi_question-r6-0546", "problem": "metadata.topic matches little of the message", "change": "topic work -> school"}
+{"id": "multi_question-r6-0547", "problem": "metadata.topic matches little of the message", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0550", "problem": "metadata.topic matches little of the message", "change": "topic work -> language"}
+{"id": "multi_question-r6-0558", "problem": "metadata.topic matches little of the message", "change": "topic health -> language"}
+{"id": "multi_question-r6-0559", "problem": "metadata.topic matches little of the message", "change": "topic weather -> language"}
+{"id": "multi_question-r6-0563", "problem": "metadata.topic matches little of the message", "change": "topic feelings -> language"}
+{"id": "multi_question-r6-0564", "problem": "metadata.topic matches little of the message", "change": "topic festival -> school"}
+{"id": "multi_question-r6-0568", "problem": "metadata.topic matches little of the message", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0571", "problem": "metadata.topic matches little of the message", "change": "topic books -> language"}
+{"id": "multi_question-r6-0572", "problem": "metadata.topic matches little of the message", "change": "topic health -> language"}
+{"id": "multi_question-r6-0574", "problem": "Sentence \"near to the window\" is not an error, so the correction was wrong", "change": "Gave a real error (\"in front the\") with correct reason"}
+{"id": "multi_question-r6-0575", "problem": "metadata.topic matches little of the message", "change": "topic work -> school"}
+{"id": "multi_question-r6-0576", "problem": "metadata.topic matches little of the message", "change": "topic family -> language"}
+{"id": "multi_question-r6-0584", "problem": "metadata.topic matches little of the message", "change": "topic work -> language"}
+{"id": "multi_question-r6-0586", "problem": "metadata.topic matches little of the message", "change": "topic weather -> language"}
+{"id": "multi_question-r6-0589", "problem": "metadata.topic matches little of the message", "change": "topic friends -> language"}
+{"id": "multi_question-r6-0594", "problem": "metadata.topic matches little of the message", "change": "topic sport -> language"}
+{"id": "multi_question-r6-0597", "problem": "metadata.topic matches little of the message", "change": "topic health -> language"}
+{"id": "multi_question-r6-0599", "problem": "metadata.topic matches little of the message", "change": "topic books -> language"}
