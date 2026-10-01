@@ -14,7 +14,7 @@ last checkpoint. All state lives in --workdir (put it on Google Drive).
 Sizing rule (the user's "10x" rule instead of Chinchilla's 20x): tokens seen in training = 10 x parameters.
 Tokens seen = epochs_pretrain x pretrain tokens + epochs_sft x sft tokens.
 """
-import argparse, glob, json, math, os, random, shutil, sys, time
+import argparse, glob, json, math, os, random, re, shutil, sys, time
 
 SPECIALS = ['<|endoftext|>', '<|user|>', '<|assistant|>', '<|end|>', '<|pad|>']
 
@@ -44,6 +44,60 @@ def iter_jsonl(paths):
 def files(data, pattern):
     return sorted(glob.glob(os.path.join(data, pattern)))
 
+# ----------------------------------------------------------------------------------------------- fetch extra text
+LANG_PAREN = re.compile(r'\s*\((?:[^()]*?\b(?:French|German|Spanish|Latin|Italian|Hindi|Sanskrit|Arabic|Greek|Japanese|'
+                        r'Chinese|Mandarin|Russian|Portuguese|Dutch|Korean|Persian|Urdu|Bengali|Tamil|Telugu|Marathi|'
+                        r'Gujarati|Punjabi|Hebrew|Turkish|Polish|Swedish|Norwegian|Danish|Finnish|Czech|Hungarian|'
+                        r'Vietnamese|Thai|Indonesian|Malay|Swahili|Irish|Welsh|Scots|Gaelic|pronounced|IPA|lit\.)[^()]*)\)')
+
+def english_clean(text):
+    """English only: drop lines with non-Latin scripts, remove '(French: ...)'-style asides, fold accents to ASCII."""
+    import unicodedata
+    out = []
+    for line in text.split('\n'):
+        if any(ord(c) > 0x24f and unicodedata.category(c).startswith('L') for c in line): continue
+        line = LANG_PAREN.sub('', line)
+        line = line.replace('\u2018', "'").replace('\u2019', "'").replace('\u201c', '"').replace('\u201d', '"')
+        line = ''.join(c for c in unicodedata.normalize('NFKD', line) if not unicodedata.combining(c))
+        line = ''.join(c for c in line if ord(c) < 128 or c in '\u2014\u2013')
+        out.append(line.rstrip())
+    return '\n'.join(out).strip()
+
+def cmd_fetch(a):
+    """Download TinyStories (simple stories) and Simple English Wikipedia as English-only plain text into --out.
+    One document per block, documents separated by a blank line. Skips files that already exist."""
+    os.makedirs(a.out, exist_ok=True)
+    ts = os.path.join(a.out, 'tinystories.txt')
+    if not os.path.exists(ts):
+        from huggingface_hub import hf_hub_download
+        src = hf_hub_download('roneneldan/TinyStories', 'TinyStoriesV2-GPT4-train.txt', repo_type='dataset',
+                              local_dir=os.path.join(a.out, '_hf'))
+        n = 0
+        with open(src, encoding='utf-8', errors='replace') as f, open(ts + '.tmp', 'w', encoding='utf-8') as w:
+            buf = []
+            for line in f:
+                if line.strip() == '<|endoftext|>':
+                    story = english_clean(''.join(buf)); buf = []
+                    story = re.sub(r'\n\s*\n+', '\n', story)            # one story = one document
+                    if len(story.split()) >= 20: w.write(story + '\n\n'); n += 1
+                else: buf.append(line)
+        os.replace(ts + '.tmp', ts); log(f'tinystories: {n:,} stories')
+    else: log('exists, skipping', ts)
+    sw = os.path.join(a.out, 'simplewiki.txt')
+    if not os.path.exists(sw):
+        from datasets import load_dataset
+        ds = load_dataset('wikimedia/wikipedia', '20231101.simple', split='train')
+        n = 0
+        with open(sw + '.tmp', 'w', encoding='utf-8') as w:
+            for row in ds:
+                body = row['text'].split('\nReferences')[0].split('\nRelated pages')[0].split('\nOther websites')[0]
+                paras = [q.strip() for q in english_clean(body).split('\n') if len(q.split()) >= 8]
+                if len(' '.join(paras).split()) >= 40:
+                    w.write(row['title'] + '\n' + '\n'.join(paras) + '\n\n'); n += 1
+        os.replace(sw + '.tmp', sw); log(f'simplewiki: {n:,} articles')
+    else: log('exists, skipping', sw)
+    for f in (ts, sw): log(f'{os.path.basename(f)}: {os.path.getsize(f) / 1e6:,.0f} MB')
+
 # ----------------------------------------------------------------------------------------------- tokenizer
 def cmd_tokenizer(a):
     from tokenizers import Tokenizer, models, pre_tokenizers, decoders, trainers
@@ -60,6 +114,13 @@ def cmd_tokenizer(a):
                 if buf: yield ''.join(buf)
         for r in iter_jsonl(files(a.data, 'sft_train_*.jsonl')):
             yield ''.join(t for t, _ in chat_text(r['messages']))
+        for p in (sorted(glob.glob(os.path.join(a.extra, '*.txt'))) if a.extra else []):   # sample of extra text
+            with open(p, encoding='utf-8') as f:
+                got = 0
+                while got < a.extra_sample_mb * 1_000_000:
+                    chunk = f.read(1_000_000)
+                    if not chunk: break
+                    got += len(chunk); yield chunk
     tok = Tokenizer(models.BPE())
     tok.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=False)
     tok.decoder = decoders.ByteLevel()
@@ -82,16 +143,29 @@ def cmd_prepare(a):
     assert tok.get_vocab_size() < 65535
 
     def write_text(name, paths):
+        """Stream paragraphs (blank-line separated) through the tokenizer into a uint16 file; low memory."""
         out = os.path.join(d, name + '.bin')
         if os.path.exists(out): log('exists, skipping', out); return
-        ids = []
-        for p in paths:
-            paras = open(p, encoding='utf-8').read().split('\n\n')
-            for i in range(0, len(paras), 2000):
-                for enc in tok.encode_batch(paras[i:i + 2000]):
-                    ids.extend(enc.ids); ids.append(eot)
-        np.array(ids, dtype=np.uint16).tofile(out + '.tmp'); os.replace(out + '.tmp', out)
-        log(f'{name}: {len(ids):,} tokens')
+        total = 0
+        with open(out + '.tmp', 'wb') as w:
+            def flush(paras):
+                nonlocal total
+                if not paras: return
+                ids = []
+                for enc in tok.encode_batch(paras): ids.extend(enc.ids); ids.append(eot)
+                np.array(ids, dtype=np.uint16).tofile(w); total += len(ids)
+            for p in paths:
+                paras, cur = [], []
+                with open(p, encoding='utf-8') as f:
+                    for line in f:
+                        if line.strip(): cur.append(line); continue
+                        if cur: paras.append(''.join(cur).strip()); cur = []
+                        if len(paras) >= 5000: flush(paras); paras = []
+                if cur: paras.append(''.join(cur).strip())
+                flush(paras)
+                log(f'  {name}: {os.path.basename(p)} done, {total:,} tokens so far')
+        os.replace(out + '.tmp', out)
+        log(f'{name}: {total:,} tokens')
 
     def write_chat(name, paths, repeat=1):
         out = os.path.join(d, name + '.bin')
@@ -112,7 +186,9 @@ def cmd_prepare(a):
         np.array(ids, dtype=np.uint16).tofile(out + '.tmp'); os.replace(out + '.tmp', out)
         log(f'{name}: {len(starts):,} chats, {len(ids):,} tokens, {sum(mask):,} trained (assistant) tokens')
 
-    write_text('pretrain_train', files(a.data, 'pretrain_*.txt'))
+    own = files(a.data, 'pretrain_*.txt') * a.own_repeat                       # your text, repeated so it is not drowned out
+    extra = sorted(glob.glob(os.path.join(a.extra, '*.txt'))) if a.extra else []
+    write_text('pretrain_train', own + extra)
     write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
     write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat)
     write_chat('sft_val', [os.path.join(a.data, 'eval', 'sft_eval_all.jsonl')])
@@ -123,7 +199,8 @@ def model_params(vocab, d, L):
 
 PRESETS = [  # (d_model, layers, heads)
     (128, 4, 4), (192, 4, 4), (256, 4, 4), (256, 6, 4), (320, 6, 5), (384, 6, 6), (384, 8, 6),
-    (448, 8, 7), (512, 8, 8), (512, 10, 8), (576, 12, 9), (640, 12, 10), (768, 12, 12),
+    (448, 8, 7), (512, 8, 8), (512, 10, 8), (576, 10, 9), (576, 12, 9), (640, 10, 10), (640, 12, 10),
+    (768, 10, 12), (768, 12, 12),
 ]
 
 def build_model(cfg):
@@ -254,7 +331,7 @@ def cmd_train(a):
     tokens = plan['pretrain_tokens'] * plan['pretrain_epochs'] if not chat else plan['sft_tokens'] * plan['sft_epochs']
     B = a.batch; steps = a.max_steps or max(1, math.ceil(tokens / (B * cfg['block'])))
     lr = a.lr if a.lr else (6e-4 if not chat else 1e-4)
-    warm = min(200 if not chat else 50, steps // 10 + 1)
+    warm = min(max(200, steps // 100) if not chat else 50, steps // 10 + 1)
     model = build_model(cfg).to(dev)
     decay = [p for n, p in model.named_parameters() if p.dim() >= 2]
     other = [p for n, p in model.named_parameters() if p.dim() < 2]
@@ -356,8 +433,13 @@ def main():
         p.add_argument('--workdir', required=True)
         if data: p.add_argument('--data', required=True)
     p = sub.add_parser('tokenizer'); common(p, True); p.add_argument('--vocab', type=int, default=16384)
+    p.add_argument('--extra', help='folder of extra text; a sample is used to train the tokenizer')
+    p.add_argument('--extra-sample-mb', type=int, default=150)
     p = sub.add_parser('prepare'); common(p, True)
     p.add_argument('--chat-repeat', type=int, default=1, help='repeat the 12 conversation-pattern types N times in sft_train')
+    p.add_argument('--extra', help='folder of extra English pretraining text (*.txt) from the fetch command')
+    p.add_argument('--own-repeat', type=int, default=1, help='repeat your own pretraining text N times')
+    p = sub.add_parser('fetch'); p.add_argument('--out', required=True)
     p = sub.add_parser('plan'); common(p)
     p.add_argument('--tokens-per-param', type=float, default=10.0)
     p.add_argument('--pretrain-epochs', type=int, default=4); p.add_argument('--sft-epochs', type=int, default=2)
@@ -378,7 +460,7 @@ def main():
     p.add_argument('--rep-penalty', type=float, default=1.3, help='>1 discourages repeating tokens within a reply')
     p.add_argument('--keep-history', action='store_true', help='scripted prompts share one conversation')
     a = ap.parse_args()
-    {'tokenizer': cmd_tokenizer, 'prepare': cmd_prepare, 'plan': cmd_plan, 'train': cmd_train, 'chat': cmd_chat}[a.cmd](a)
+    {'fetch': cmd_fetch, 'tokenizer': cmd_tokenizer, 'prepare': cmd_prepare, 'plan': cmd_plan, 'train': cmd_train, 'chat': cmd_chat}[a.cmd](a)
 
 if __name__ == '__main__':
     main()

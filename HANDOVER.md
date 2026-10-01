@@ -526,3 +526,4 @@ python3 scripts/export_dataset.py
 - 03:16 v5 uploaded: https://colab.research.google.com/drive/1xzi4GX8GKtjEl6p3pz1XYjV85GWT-PKu (v4 renamed). Honest ceiling: 12.6M params on 29M unique tokens gives fluent-ish but loose replies; real gain needs more data (pretraining text) under the 10x rule.
 - 03:20 Created train/colab/colab_fixes.md (full history: pipeline, mount fix, runs 1-4); rule added to Next action.
 - 03:32 Run 4 done: chat eval 3.47; formats right, content not meaningful in any run. Verdict: data/size-limited; proposed adding ~500M tokens of simple English pretraining text -> ~50M model. Logged in colab_fixes.md.
+- 03:38 Run 5 prepared (user approved adding TinyStories + Simple English Wikipedia): fetch command, streaming prepare, own text 3x, notebook v6. Logged in colab_fixes.md.

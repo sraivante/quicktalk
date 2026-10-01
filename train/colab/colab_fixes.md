@@ -84,3 +84,19 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   tokens would allow a 50-100M model under the same rule).
 - Judge runs by chat eval loss on the same eval set plus the fixed 6-question chat test; chat eval loss is only
   comparable between runs with the same eval file (all runs so far use `sft_eval_all.jsonl`).
+
+## Run 5 (`quicktalk_run5`, notebook v6) — add simple English pretraining text (user approved)
+- **Issue:** runs 1-4 showed the model is data/size-limited (formats learned, meaning not).
+- **Change:** `quicktalk_lm.py fetch` downloads, in Colab (this container cannot reach Hugging Face), TinyStories
+  (`roneneldan/TinyStories`, TinyStoriesV2-GPT4-train.txt; CDLA-Sharing-1.0) and Simple English Wikipedia
+  (`wikimedia/wikipedia` 20231101.simple; CC BY-SA) into `/content/extra`, English only: lines with non-Latin
+  scripts dropped, "(French: ...)"-style asides removed, accents folded to ASCII, references sections cut.
+  `tokenizer --extra` adds a 150 MB sample of that text to tokenizer training (new tokenizer for this run).
+  `prepare --extra --own-repeat 3` writes your books + behaviour passages 3x plus the extra text; tokenization now
+  streams to disk (no 500M-token list in memory). Chat data unchanged (patterns 3x, 2 passes). Plan: 1 pretraining
+  pass, 10 tokens/param, dropout 0; larger presets added (up to 768 x 12). Pretraining uses batch 128 x 512,
+  checkpoint every 1,000 steps / 10 minutes (bigger checkpoints). Warmup = 1% of steps (min 200).
+- **Local test (stand-in files):** English filter removed a French aside and a Hindi line and folded "Cafe";
+  own text written 3x; streaming prepare, plan, pretrain, chat stage and chat all ran on CPU.
+- **Expected:** ~0.6B pretraining tokens -> roughly 60-80M parameters; ~45-75 min training on the A100.
+- **Output:** _pending — waiting for the Colab run._
