@@ -10,7 +10,7 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 ## Current state — chat experiment (last updated: 2026-10-01 14:05 UTC)
 
 - **Run 6 done:** 69.5M, offline test 28% (run 5 22%); `train/test_run6/` (compare_run5.md).
-- **Run 7 prepared:** 97.6M model from scratch (~2B tokens), chat-data fixes and `train/chat_r7/` (1,100 new examples);
+- **Run 7 prepared:** 97.6M model from scratch (~2B tokens), chat-data fixes, `train/chat_r7/` (1,100 new) and maths (`train/math/`: laghumath 5,959 + GSM8K 7,384);
   `train/build/` rebuilt (sft 62,572); notebook v8 in the repo (and Drive). Details: `train/dataset_info.txt` §10,
   `train/colab/colab_fixes.md`.
 - No agents running.
@@ -567,3 +567,4 @@ python3 scripts/export_dataset.py
 - 13:02 Run 6 done: pretrain eval 3.191 (run 5 3.29); offline test 28% (run 5 22%); report train/test_run6/ (compare_run5.md). scripts/test_model_report.py title now follows the folder name.
 
 - 14:05 Run 7 prepared (user chose ~100M + recommended fixes): see Current state.
+- 14:15 Maths added (laghumath + GSM8K) via scripts/build_math_chat.py; train/build rebuilt (75,895 chats).

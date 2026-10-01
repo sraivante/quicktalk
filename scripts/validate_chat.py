@@ -48,7 +48,7 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
     if md.get('id') in ids: F(i, f'duplicate id {md.get("id")}')
     ids.add(md.get('id')); topics[md.get('topic')] += 1
     src = str(md.get('source', ''))
-    if not (src == 'generated' or re.match(r'^(book:[A-Za-z0-9_]+|behaviour:\d+-\d+|behaviour:C\d+)$', src)): F(i, f'metadata.source {src!r} not generated/book:<file>/behaviour:<id>')
+    if not (src == 'generated' or re.match(r'^(book:[A-Za-z0-9_]+|behaviour:\d+-\d+|behaviour:C\d+|laghumath:A\d+|gsm8k:(train|test))$', src)): F(i, f'metadata.source {src!r} not generated/book:<file>/behaviour:<id>')
     if src.startswith('book:') and not os.path.exists(os.path.join(ROOT, 'train', 'sources', 'books', src[5:] + '.txt')): F(i, f'book file for {src} not found')
     if not msgs or any(set(m) != {'role', 'content'} or not str(m['content']).strip() for m in msgs): F(i, 'messages must be non-empty {role, content}'); continue
     roles = [m['role'] for m in msgs]

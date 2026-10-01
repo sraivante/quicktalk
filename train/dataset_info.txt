@@ -211,3 +211,16 @@ Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenize
   train/build/ rebuilt: sft_train 62,572 (multi_question 1,480, reasoning 1,500, rewrite 1,500, others as run 6).
   Colab notebook v8: RUN=quicktalk_run7, FineWeb-Edu 4,000 MB (~1B tokens), patterns 3x, shape 768,12,12, lr 6e-4,
     pretraining from scratch (~2B tokens, ~20 tokens per parameter).
+  MATHS (added to run 7 at the user's request, 2026-10-01):
+    Built by: python3 scripts/build_math_chat.py (deterministic; needs a clone of github.com/sraivante/laghumath at
+      /home/user/sraivante/laghumath; downloads GSM8K from github.com/openai/grade-school-math, cached in .staging/math/)
+    train/math/laghumath_chat.jsonl  5,959 chats (type math) from the user's curriculum, stages 1-8 (A0 skipped:
+      set-up scripts and shape drawings): D questions (answer + "Teacher explains"), "Now you try" items, M drills
+      (lettered parts, split above 260 words); items with diagrams/tables or unmappable symbols dropped. Licence: user's own.
+    train/math/gsm8k_chat.jsonl  7,384 chats from GSM8K train (MIT licence): steps without <<calc>> notes, then
+      "The answer is N."; 89 dropped (non-ASCII or blocked words).
+    train/math/gsm8k_test.jsonl  1,299 GSM8K test problems in the same format: NOT used for training (for testing).
+    train/sources/math/laghumath.txt  all stages A0-A13 as plain text (2.09M words; lines with unmappable symbols
+      dropped), added to the pretraining corpus by build_train.py (and repeated 3x with your own text in prepare).
+    In chat training maths is used once (not upsampled like the conversation patterns).
+  train/build/ (run 7, final): sft_train 75,895 chats (math 13,323), pretrain 12.35M words of own text.

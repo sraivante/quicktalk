@@ -223,3 +223,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   `check_r6_dupes.py` also read `train/chat_r7/`; `merge_r6_fixes.py --dir` merges into any data folder.
 - **Output (local check):** CPU smoke test of shape 768,12,12 on the real token files: 97,555,968 params, pretrain and
   chat stages train, evaluate and save. train/build: 62,572 chat examples, 0 FAIL, 0 repeats. Colab run not done yet.
+- **Maths added to run 7 (user request):** `scripts/build_math_chat.py` converts the user's laghumath curriculum
+  (5,959 chats, stages 1-8, plus all stages as 2.09M words of pretraining text) and GSM8K train (7,384 chats; test
+  1,299 kept for testing). `validate_chat.py` gains type `math`; `quicktalk_lm.py prepare` does not upsample `math`
+  (patterns 3x, math 1x). train/build: 75,895 chats. Notebook v8 cell 0 text updated.
