@@ -247,6 +247,10 @@ def cmd_train(a):
     cfg = dict(vocab=plan['vocab'], d=plan['d'], layers=plan['layers'], heads=plan['heads'], block=plan['block'],
                dropout=plan['dropout'] if a.stage == 'pretrain' else 0.0)
     chat = a.stage == 'sft'
+    src_ck = os.path.join(ck, 'pretrain_final.pt')
+    if chat and os.path.exists(src_ck):   # chat stage: model shape always comes from the pretrained weights
+        pc = torch.load(src_ck, map_location='cpu', weights_only=False)['cfg']
+        cfg.update({k: pc[k] for k in ('vocab', 'd', 'layers', 'heads', 'block')})
     tokens = plan['pretrain_tokens'] * plan['pretrain_epochs'] if not chat else plan['sft_tokens'] * plan['sft_epochs']
     B = a.batch; steps = a.max_steps or max(1, math.ceil(tokens / (B * cfg['block'])))
     lr = a.lr if a.lr else (6e-4 if not chat else 1e-4)
