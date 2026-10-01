@@ -1,0 +1,8 @@
+{"id": "vocab-r6-0405", "problem": "Example uses the flower sense, not the seating sense asked", "change": "Example now uses the seating sense"}
+{"id": "vocab-r6-0432", "problem": "metadata.topic does not fit", "change": "Changed topic to community"}
+{"id": "vocab-r6-0435", "problem": "Question asks why it is the hardest; answer only says what it is used for", "change": "Added one sentence giving the cause"}
+{"id": "vocab-r6-0474", "problem": "Example uses a club, not the volcano asked about", "change": "Example now uses the volcano"}
+{"id": "vocab-r6-0484", "problem": "Question asks where the phrase comes from; answer ignores it", "change": "Added one sentence on how the word is formed"}
+{"id": "vocab-r6-0541", "problem": "Question asks about ships and prisons; answer only covers ships", "change": "Added a sentence on prisons"}
+{"id": "vocab-r6-0577", "problem": "Example is about people, question is about a plant; topic does not fit", "change": "Example now uses a plant; topic changed to nature"}
+{"id": "vocab-r6-0590", "problem": "Example uses a boat, but the sense given is a person", "change": "Example now uses a person"}
