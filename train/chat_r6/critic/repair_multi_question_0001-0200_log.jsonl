@@ -1,0 +1,68 @@
+{"id": "multi_question-r6-0003", "problem": "Overstated claim in answer 3", "change": "Rewrote answer 3 with a true cause (critic fix)"}
+{"id": "multi_question-r6-0004", "problem": "Spelling question already gives the correct spelling", "change": "Question now offers a real choice (definately/definitely); answer adjusted"}
+{"id": "multi_question-r6-0007", "problem": "weak/circular Because in answer 3", "change": "Gave the real reason for saying sorry (critic fix)"}
+{"id": "multi_question-r6-0012", "problem": "Vague answer and cause for why flowers close at night", "change": "Rewrote answer 2 with pollen protection and absence of pollinators"}
+{"id": "multi_question-r6-0013", "problem": "Circular Because in answer 1", "change": "Gave a mechanism (barrier against dirt and germs)"}
+{"id": "multi_question-r6-0019", "problem": "metadata.topic matches nothing in the message", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0020", "problem": "metadata.topic matches nothing in the message", "change": "topic weather -> home (critic fix)"}
+{"id": "multi_question-r6-0030", "problem": "Weak Because: does not say why cows chew for long", "change": "Explained cud chewing and tough plant fibre"}
+{"id": "multi_question-r6-0031", "problem": "Wrong science (weight spread out) and coin part unanswered", "change": "Rewrote answer 1 on displaced water for boat and coin (critic fix)"}
+{"id": "multi_question-r6-0038", "problem": "Because restates the answer (echo)", "change": "Added why the reflection is heard separately in a big hall"}
+{"id": "multi_question-r6-0039", "problem": "metadata.topic matches nothing", "change": "topic health -> language"}
+{"id": "multi_question-r6-0045", "problem": "metadata.topic matches nothing", "change": "topic money -> language"}
+{"id": "multi_question-r6-0047", "problem": "Circular Because in answer 4", "change": "Gave the real reason (scalding, heat loss)"}
+{"id": "multi_question-r6-0048", "problem": "Vague Because in answer 3", "change": "Explained energy of loud sound on eardrum and delicate inner ear"}
+{"id": "multi_question-r6-0049", "problem": "Because restates the answer", "change": "Said how a lock prevents theft"}
+{"id": "multi_question-r6-0051", "problem": "Circular Because (damp cloth causes damp smell)", "change": "Explained germ growth in damp cloth and drying"}
+{"id": "multi_question-r6-0053", "problem": "weak/circular Because in answer 2", "change": "Gave the real cause (starch to sugar) (critic fix)"}
+{"id": "multi_question-r6-0055", "problem": "Because restates the answer", "change": "Said why a lit lamp wastes power"}
+{"id": "multi_question-r6-0059", "problem": "Comma splice not fixed; only the full stop was mentioned; topic odd", "change": "Split into two sentences; Why names both points; topic work -> language"}
+{"id": "multi_question-r6-0062", "problem": "'look at the mirror' marked flatly wrong; topic mismatch", "change": "Softened to the usual rule; topic food -> language"}
+{"id": "multi_question-r6-0067", "problem": "Imprecise cause for candle going out", "change": "Said the flame uses up the oxygen under the glass"}
+{"id": "multi_question-r6-0070", "problem": "metadata.topic matches nothing", "change": "topic weather -> language (critic fix)"}
+{"id": "multi_question-r6-0076", "problem": "metadata.topic matches nothing", "change": "topic health -> language"}
+{"id": "multi_question-r6-0082", "problem": "Spelling question gives the correct spelling; circular Because in answer 3", "change": "Q2 now a real choice (libary/library); rewrote answers 2 and 3 (critic fix)"}
+{"id": "multi_question-r6-0087", "problem": "Dont-know answer does not say plainly it does not know", "change": "Now says 'I don't know that number, and I can't look it up'"}
+{"id": "multi_question-r6-0088", "problem": "Confusing spelling hint", "change": "Spelled out the letters clearly"}
+{"id": "multi_question-r6-0093", "problem": "Overconfident science in answer 5", "change": "Hedged and gave a fuller cause"}
+{"id": "multi_question-r6-0096", "problem": "Because restates the answer", "change": "Explained smooth water film reflecting light in one direction"}
+{"id": "multi_question-r6-0097", "problem": "metadata.topic matches nothing", "change": "topic money -> food"}
+{"id": "multi_question-r6-0098", "problem": "metadata.topic matches nothing", "change": "topic health -> school"}
+{"id": "multi_question-r6-0099", "problem": "metadata.topic matches nothing", "change": "topic work -> language"}
+{"id": "multi_question-r6-0100", "problem": "Because is not a cause", "change": "Said the peel is a protective skin, not the edible part"}
+{"id": "multi_question-r6-0102", "problem": "metadata.topic matches nothing", "change": "topic work -> sport"}
+{"id": "multi_question-r6-0104", "problem": "Garbled Q4; circular Because in answer 3; two 'Next,'", "change": "Rewrote Q4 and answer 3 (critic fix)"}
+{"id": "multi_question-r6-0107", "problem": "Cause incomplete (why pumping makes it hard)", "change": "Said pumping adds air and raises pressure"}
+{"id": "multi_question-r6-0111", "problem": "Over-general spelling rule", "change": "Said some words ending in o (e.g. potatoes) add es"}
+{"id": "multi_question-r6-0118", "problem": "Because restates the answer", "change": "Named evaporation energy from the sun's heat"}
+{"id": "multi_question-r6-0120", "problem": "weak/circular Because in answer 2", "change": "Gave the real reason (critic fix)"}
+{"id": "multi_question-r6-0121", "problem": "Circular Because (low light stretches shadow)", "change": "Explained slanting light"}
+{"id": "multi_question-r6-0122", "problem": "metadata.topic matches nothing", "change": "topic money -> school"}
+{"id": "multi_question-r6-0123", "problem": "Pronoun 'their' has unclear antecedent in dont-know answer", "change": "Named 'the shop's plans'"}
+{"id": "multi_question-r6-0137", "problem": "Confusing, circular answer about green signal", "change": "Said the signal means traffic has stopped, making crossing safe"}
+{"id": "multi_question-r6-0141", "problem": "Circular Because in answer 4", "change": "Said wagging is how dogs signal feelings"}
+{"id": "multi_question-r6-0144", "problem": "Circular Because in answer 2", "change": "Explained that we see by light bouncing into our eyes"}
+{"id": "multi_question-r6-0146", "problem": "metadata.topic matches nothing", "change": "topic work -> language"}
+{"id": "multi_question-r6-0147", "problem": "Circular Because (lighter things float)", "change": "Explained buoyancy from surrounding air"}
+{"id": "multi_question-r6-0150", "problem": "metadata.topic matches nothing", "change": "topic health -> school"}
+{"id": "multi_question-r6-0160", "problem": "metadata.topic matches nothing", "change": "topic weather -> school"}
+{"id": "multi_question-r6-0164", "problem": "metadata.topic matches nothing", "change": "topic health -> language"}
+{"id": "multi_question-r6-0165", "problem": "Q1 and Q2 test the same error (duplicate)", "change": "Replaced Q2 with a different error (then/than)"}
+{"id": "multi_question-r6-0169", "problem": "Fire answer lacks a safety limit", "change": "Added: leave and tell an adult if flames or thick smoke"}
+{"id": "multi_question-r6-0170", "problem": "Two 'Next,' in one message", "change": "Second 'Next,' -> 'Then,'"}
+{"id": "multi_question-r6-0171", "problem": "metadata.topic matches nothing", "change": "topic work -> language"}
+{"id": "multi_question-r6-0172", "problem": "metadata.topic mismatch; doubled colon; two 'Next,'", "change": "topic -> language, reworded the last line, second 'Next,' -> 'Then,' (critic fix)"}
+{"id": "multi_question-r6-0176", "problem": "Two 'Next,' in one message", "change": "Second 'Next,' -> 'Then,'"}
+{"id": "multi_question-r6-0177", "problem": "Because only covers one half of the answer", "change": "Added why stories carry lessons"}
+{"id": "multi_question-r6-0178", "problem": "Vague Because in answer 3", "change": "Said rain washes dust off and leaves show green"}
+{"id": "multi_question-r6-0179", "problem": "'their plans' has no clear antecedent; three connectors 'Then/Next/Next'", "change": "Named 'the shops' plans'; second 'Next,' -> 'Also,' (critic fix)"}
+{"id": "multi_question-r6-0182", "problem": "Ambiguous 'passive' answered only as an adjective", "change": "Answer now covers the grammar sense and the adjective (critic fix)"}
+{"id": "multi_question-r6-0183", "problem": "metadata.topic matches nothing", "change": "topic work -> language"}
+{"id": "multi_question-r6-0184", "problem": "Answer 1 is a fragment with a weak Because", "change": "Complete sentence; Because gives the cause"}
+{"id": "multi_question-r6-0186", "problem": "metadata.topic matches nothing", "change": "topic health -> language"}
+{"id": "multi_question-r6-0187", "problem": "Same 4-word opening as 0079", "change": "Reworded Q1 (critic fix)"}
+{"id": "multi_question-r6-0190", "problem": "Reversed cause in answer 1; topic mismatch", "change": "Said friction heat ignites chemicals in the match head; topic sport -> home"}
+{"id": "multi_question-r6-0192", "problem": "Weak Because in answer 4", "change": "Fish active at dawn, cooler calmer water, fresh catch"}
+{"id": "multi_question-r6-0195", "problem": "metadata.topic matches nothing", "change": "topic festival -> books"}
+{"id": "multi_question-r6-0199", "problem": "metadata.topic matches nothing", "change": "topic festival -> language"}
+{"id": "multi_question-r6-0200", "problem": "'Singular' is also a grammar term; only the ordinary sense given", "change": "Answer now says both senses"}
