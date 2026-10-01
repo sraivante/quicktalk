@@ -12,8 +12,10 @@ TYPES = {  # type: (min pairs, max pairs, min words per assistant turn, max word
     'summary': (1, 1, 6, 90), 'literature': (1, 1, 5, 75), 'instruct': (1, 1, 2, 120), 'reasoning': (1, 1, 10, 90),
     'multi_question': (1, 1, 15, 200), 'dont_know': (1, 1, 8, 70),
 }
-UNSURE = re.compile(r"\b(i don't know|i do not know|i'm not sure|i am not sure|i can't (see|check|know|tell|look up)|"
-                    r"i cannot (see|check|know|tell|look up)|i have no way|i don't have)\b", re.I)
+UNSURE = re.compile(r"\b(i don't know|i do not know|i'm not sure|i am not sure|i can't (see|check|know|tell|look up|be sure)|"
+                    r"i cannot (see|check|know|tell|look up|be sure)|i have no way|i don't have|i do not have|"
+                    r"(not|isn't) something i can (see|check|know|tell|look up)|no way (for me )?to (know|see|check|tell)|"
+                    r"i wouldn't know|i'm unable to (see|check|know|tell))\b", re.I)
 BL = [t.lower() for t in json.load(open(os.path.join(ROOT, 'config', 'blocklist.json')))['terms']]
 BAD_OPEN = re.compile(r'^(great question|good question|sure[,!]|certainly[,!]|of course[,!]|absolutely[,!]|as an ai)', re.I)
 SIGNOFF = re.compile(r'(hope this helps|happy learning|let me know if)', re.I)
