@@ -213,3 +213,13 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   64% (50), writing 33% (17), story 32% (22), multi-line complex 30% (16), grammar 30% (21), complex one-liner 19%
   (12). Down/flat: multi-question 0% (1), multi-turn 34% (38), multi-line simple 18% (27), simple one-liner 11% (13).
   "I don't know" now also used for two easy sums. Comparison: `train/test_run6/compare_run5.md`.
+
+## Run 7 preparation (2026-10-01): 97.6M model from scratch + chat-data fixes
+- **Issue:** run 6 test (28%) showed: multi-question 0%, grammar "Why:" never right, rewrites copying the input,
+  "I don't know" used for easy sums. User chose a ~100M model and the recommended fixes.
+- **Change:** notebook v8: `RUN='quicktalk_run7'` (tokenizer copied from run 6), `SHAPE='768,12,12'` (97.6M),
+  `FINEWEB_MB=4000`, `CHAT_REPEAT=3`, `PRE_LR=6e-4`, no `--init-from` (new size: from scratch); cell 9 adds a sum
+  and a past-tense rewrite prompt. Data: see `train/dataset_info.txt` section 10. `build_train.py` and
+  `check_r6_dupes.py` also read `train/chat_r7/`; `merge_r6_fixes.py --dir` merges into any data folder.
+- **Output (local check):** CPU smoke test of shape 768,12,12 on the real token files: 97,555,968 params, pretrain and
+  chat stages train, evaluate and save. train/build: 62,572 chat examples, 0 FAIL, 0 repeats. Colab run not done yet.

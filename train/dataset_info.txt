@@ -193,3 +193,21 @@ Run 5 token counts (from MyDrive/quicktalk_run5/plan.json, 16,384-token tokenize
     plus TinyStories and Simple English Wikipedia again (as run 5) and own text 3x.
   Colab: train/colab/quicktalk_train.ipynb (v7), RUN=quicktalk_run6, continues from MyDrive/quicktalk_run5/
     checkpoints/pretrain_final.pt with run 5's tokenizer, lr 3e-4, shape 640,12,10.
+
+10. RUN 7 CHANGES (built 2026-10-01, after the run 6 test; Colab run 7 not done yet)
+-----------------------------------------------------------------------------------
+  Model: NEW 97.6M model (d 768, 12 layers, 12 heads), trained from scratch; same tokenizer as runs 5-6.
+  Spec: train/spec/CHAT_PATTERNS.md "Run 7 changes"; validator flag --short-why (grammar Why <= 15 words; no maths in
+    dont_know).
+  Fixes to existing chat data (logs in train/chat_r6/critic/r7fix_*):
+    grammar "Why:" rewritten to one short rule (train/chat 200, train/pilot 20, train/chat_r6 1,000);
+    over-long Why lines shortened in train/chat_r6 multi_question (85 rows) and hinglish_esl (106 rows);
+    dont_know maths rows (158) replaced by non-maths unknowables; 1 near-repeat replaced.
+  New chat data train/chat_r7/ (Sonnet generators, separate Sonnet repair; logs in train/chat_r7/critic/):
+    multi_question 500 (ids multi_question-r7-0001..0500; everyday topics, 2-3 questions mostly)
+    rewrite 300 (rewrite-r7-0001..0300; tense, person, formal/casual, polite, shorter, simpler x 50)
+    reasoning 300 easy maths (reasoning-r7m-0001..0300; small whole numbers, answer + one "Because" working line,
+      every answer recomputed by script)
+  train/build/ rebuilt: sft_train 62,572 (multi_question 1,480, reasoning 1,500, rewrite 1,500, others as run 6).
+  Colab notebook v8: RUN=quicktalk_run7, FineWeb-Edu 4,000 MB (~1B tokens), patterns 3x, shape 768,12,12, lr 6e-4,
+    pretraining from scratch (~2B tokens, ~20 tokens per parameter).

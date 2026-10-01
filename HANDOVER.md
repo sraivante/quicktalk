@@ -7,25 +7,22 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
-## Current state — chat experiment (last updated: 2026-10-01 08:50 UTC)
+## Current state — chat experiment (last updated: 2026-10-01 14:05 UTC)
 
-- **Run 6 chat data DONE:** `train/chat_r6/` 13 types x 1,000 = 13,000 examples; 0 FAIL (validate_chat.py), 0 repeats
-  (check_r6_dupes.py); per-batch repairs + final Opus critic sample + full-file passes merged; logs in
-  `train/chat_r6/critic/`. Details and known deviations: `train/dataset_info.txt` section 9.
-- **train/build/ rebuilt** with run 6 (sft_train 61,472). Notebook v7 (`train/colab/quicktalk_train.ipynb`) is ready
-  for run 6 (continues from run 5 weights + tokenizer). Logged in `train/colab/colab_fixes.md`.
-- No agents running; progress/checkpoint loops stopped. Queue notes: `.staging/r6_queue.md` (git-ignored).
+- **Run 6 done:** 69.5M, offline test 28% (run 5 22%); `train/test_run6/` (compare_run5.md).
+- **Run 7 prepared:** 97.6M model from scratch (~2B tokens), chat-data fixes and `train/chat_r7/` (1,100 new examples);
+  `train/build/` rebuilt (sft 62,572); notebook v8 in the repo (and Drive). Details: `train/dataset_info.txt` §10,
+  `train/colab/colab_fixes.md`.
+- No agents running.
 
 ## Next action (chat experiment)
 
-1. User uploads notebook v7 to Colab (A100) and runs it (needs MyDrive/quicktalk_run5 from run 5). Expect downloads
-   ~15-25 min, tokenizing ~20-30 min, training ~60-90 min. Cell 11 zips the model to Drive and disconnects.
-2. After the run: log results in colab_fixes.md; re-run the offline test (scripts/test_model_run.py +
-   test_model_report.py on train/test_run5/testset.jsonl, and the run-6 eval examples) and compare with run 5's 22%.
-3. Open decisions for the user (asked 2026-10-01): (a) keep dont_know "I don't know" for exact maths? (b) 363 summary
-   book excerpts are 80-118 words vs the spec's 120-350: keep / replace / change spec? (c) 100 comprehension examples
-   use behaviour passages: keep? (d) multi_question "language" topic at 18% vs 15% cap: keep? (e) hinglish "wo" ->
-   "He" + note to use "she" for a woman (14 rows): keep or make neutral?
+1. User runs notebook v8 on an A100 (needs MyDrive/quicktalk_run6/tokenizer.json). ~1 h data prep + ~2.5-3 h training.
+2. After the run: log in colab_fixes.md; split zip into <10 MB parts for the sandbox; run scripts/test_model_run.py on
+   train/test_run6/testset.jsonl into train/test_run7/, grade with 3 independent agents (calibrate on run 6 grades),
+   report + compare with runs 5/6. Also test on run-7 unseen eval chats.
+3. Open for the user: easy-maths file still has some paired templates; "team/band are" corrections in 3 multi_question
+   rows; earlier open decisions (summary excerpt length, comprehension behaviour passages, hinglish "wo").
 
 ## Current state  (last updated: 2026-09-30, after full generation and commit_rows)
 
@@ -568,3 +565,4 @@ python3 scripts/export_dataset.py
 - 08:50 Run 6 chat data complete: 13 x 1,000, all repaired; final Opus critic (30/type) -> full-file passes (dont_know plain admission 725 rows, reasoning 412, multi_question 547, comprehension 558, summary 822, writing 1-500 276) + one-offs; 0 FAIL, 0 repeats. train/build rebuilt (sft 61,472); notebook v7 committed; dataset_info.txt section 9 + colab_fixes.md updated. Next: user runs v7.
 - 10:11 Notebook v7 uploaded to Drive: https://colab.research.google.com/drive/1rVwippfXp4G9RQH1R6oVn7FjwabEiMGC (v6 renamed 'run 5 done - use v7'). Next: user runs v7 on A100.
 - 13:02 Run 6 done: pretrain eval 3.191 (run 5 3.29); offline test 28% (run 5 22%); report train/test_run6/ (compare_run5.md). scripts/test_model_report.py title now follows the folder name.
+\n- 14:05 Run 7 prepared (user chose ~100M + recommended fixes): see Current state.\n
