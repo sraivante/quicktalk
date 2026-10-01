@@ -114,8 +114,13 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Verdict:** clear step up from runs 1-4 (data size was the bottleneck); usable as the experiment's best checkpoint,
   not a reliable assistant. Next levers if wanted: more chat-pattern examples (word meanings, grammar fixes), or more
   pretraining text for a larger model under the same 10x rule.
-- **Finish:** cell 11 had not been added to the running notebook, so no zip and no automatic disconnect after the
-  run; user asked to add/run it (it zips immediately because `sft_final.pt` exists, then disconnects).
+- **Finish:** cell 11 had not been added to the running notebook, so no zip and no automatic disconnect right after
+  the run; user then added and ran it. `MyDrive/quicktalk_run5_model.zip` saved 05:02, 258.5 MB (sft_final.pt,
+  tokenizer.json, plan.json, quicktalk_lm.py, log_*.csv, train.log). The cell copies to Drive only after the local zip
+  passes `testzip`, and disconnects only if the Drive copy also verifies; its printed output was not saved to the
+  notebook (runtime disconnected before autosave), so the disconnect was not seen directly. Resumable checkpoints,
+  `pretrain_final.pt` and token data stay in `MyDrive/quicktalk_run5/`.
+- **Lesson:** add the finish cell before pressing Run all; a cell added after the run adds ~15 min of idle A100 time.
 
 ## Finish cell (cell 11) — zip model, verify, disconnect
 - **Issue:** user wants the finished model zipped and the A100 runtime disconnected automatically; Claude can read
