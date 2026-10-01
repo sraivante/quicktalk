@@ -1,0 +1,10 @@
+{"id": "reasoning-r6-0001", "problem": "Answer was a Because clause (answer not first)", "change": "Answer sentence first, then the Because line."}
+{"id": "reasoning-r6-0004", "problem": "Exact repeat of existing training question", "change": "Replaced with a new sound question."}
+{"id": "reasoning-r6-0011", "problem": "Mechanism vague (balloon pulls on wall charges)", "change": "Stated the induced charge shift properly."}
+{"id": "reasoning-r6-0023", "problem": "Answer vague and Because mixed up needs with the cause", "change": "Answer names the real cause: sensing gravity and light."}
+{"id": "reasoning-r6-0027", "problem": "Wrong science: mirror does not send writing reversed by itself; explanation garbled", "change": "Rewrote with the correct cause."}
+{"id": "reasoning-r6-0034", "problem": "Fish do not take in air; imprecise", "change": "Changed to dissolved oxygen and added the lung point."}
+{"id": "reasoning-r6-0073", "problem": "Answer was a Because clause (answer not first)", "change": "Answer first, then Because."}
+{"id": "reasoning-r6-0125", "problem": "Presented a digestion myth as the cause", "change": "Gave a comfort reason and said it is not strict."}
+{"id": "reasoning-r6-0152", "problem": "Cold-water-start claim is doubtful science", "change": "Replaced with a sound rice question."}
+{"id": "reasoning-r6-0155", "problem": "Hedge muddles a plain logic result", "change": "Stated the conclusion plainly."}
