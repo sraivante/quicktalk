@@ -84,7 +84,8 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
         if short_why and not run8 and mw and len(mw.group(1).split()) > 15: F(i, f'"Why:" is {len(mw.group(1).split())} words (max 15, run 7 style)')
         if run8:
             wl = [l for l in a0.split('\n') if l.startswith('Why:')]
-            if len(wl) != 1 or not RULE_WHY.match(wl[0]): F(i, 'run 8: one line "Why: <rule> (<trigger> -> <fix>); ...." with rules from the list')
+            if len(wl) != 1 or not (RULE_WHY.match(wl[0]) or re.match(r'^Why: no error \([^()\n]+\)\.$', wl[0])):
+                F(i, 'run 8: one line "Why: <rule> (<trigger> -> <fix>); ...." with rules from the list, or "Why: no error (...)."')
             elif len(wl[0].split()) - 1 > 20: F(i, f'run 8: "Why:" is {len(wl[0].split()) - 1} words (max 20)')
     if t == 'dont_know' and short_why and (md.get('topic') in ('maths', 'math', 'numbers') or re.search(r'\d+\s*[-+*/x%]\s*\d|\d+\s*%', u0)):
         F(i, 'run 7: dont_know is not used for maths')

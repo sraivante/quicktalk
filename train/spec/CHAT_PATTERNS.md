@@ -125,7 +125,8 @@ New examples go to `train/chat_r8/<type>.jsonl` (ids `<type>-r8-NNNN`; stories `
   per fix; rules: subject-verb agreement, past tense, present tense, future tense, perfect tense, continuous tense,
   verb form, article, plural, uncountable noun, preposition, pronoun, possessive, word order, comparative,
   superlative, question form, negative, spelling, capital letter, punctuation, apostrophe, missing word, extra word,
-  word choice, conjunction. The corrected text itself is not changed unless it is wrong.
+  word choice, conjunction. The corrected text itself is not changed unless it is wrong. When the sentence is already
+  correct, the line is `Why: no error (<rule>: "<phrase>" is correct).`
 
 ## Pilot
 
