@@ -1,0 +1,240 @@
+{"id": "comprehension-p0001", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt. Excerpt verbatim (131 words); answer supported."}
+{"id": "comprehension-p0002", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0003", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0004", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0005", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0006", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0007", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0008", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0009", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0010", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0011", "verdict": "fix", "reason": "Excerpt is verbatim but stops inside an open quotation (the speech continues in the source), leaving an unclosed quote mark; end at a clean boundary."}
+{"id": "comprehension-p0012", "verdict": "fix", "reason": "Excerpt ends inside an open quotation (no closing mark), and the user calls it 'the start' of the story though the story begins earlier in Ryder."}
+{"id": "comprehension-p0013", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0014", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0015", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0016", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0017", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0018", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0019", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "comprehension-p0020", "verdict": "pass", "reason": "Excerpt verbatim in book file, length in range; answer supported by excerpt."}
+{"id": "grammar-p0001", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0002", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0003", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0004", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0005", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0006", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0007", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0008", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0009", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0010", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0011", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0012", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0013", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0014", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0015", "verdict": "fix", "reason": "'late by two hours' is acceptable English, so treating it as an error (and the 'usual word order' reason) teaches a false rule; keep only the tense fix."}
+{"id": "grammar-p0016", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0017", "verdict": "pass", "reason": "Errors real, fix correct, Why names the rule."}
+{"id": "grammar-p0018", "verdict": "fix", "reason": "Rewrites 'without it sticking' (already correct) to 'so that it does not stick' without explaining; a correction should change only real errors."}
+{"id": "grammar-p0019", "verdict": "fix", "reason": "Changes 'their' to 'her' as a grammar error; singular 'their' after 'each' is standard modern English. Fix only 'have'->'has' or explain that both are fine."}
+{"id": "grammar-p0020", "verdict": "fix", "reason": "'The team are' is correct British English, and 'won'->'have won' is changed but not explained in Why. Pick unambiguous errors (good->well, comma splice) and explain every change."}
+{"id": "hinglish_esl-p0001", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0002", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0003", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0004", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0005", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0006", "verdict": "pass", "reason": "Clear English only; translation/correction correct. Correct fix of present perfect + for; no medical advice."}
+{"id": "hinglish_esl-p0007", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0008", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0009", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0010", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0011", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0012", "verdict": "fix", "reason": "Invents a sample identity ('this is Neha from Accounts') for an unnamed user; the follow-up note helps, but a model will learn to assign names. Use a clear placeholder ('this is [your name] from [your team]')."}
+{"id": "hinglish_esl-p0013", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0014", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0015", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0016", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0017", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0018", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0019", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "hinglish_esl-p0020", "verdict": "pass", "reason": "Clear English only; translation/correction correct."}
+{"id": "instruct-p0001", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0002", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0003", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0004", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0005", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0006", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0007", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0008", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0009", "verdict": "fix", "reason": "The one-sentence wish is a comma splice ('Happy birthday, Grandma, you have been...'); not correct English for a constraint example. Use a dash, 'because', or rephrase."}
+{"id": "instruct-p0010", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0011", "verdict": "pass", "reason": "All constraints met (counted). Exactly 10 words; checked."}
+{"id": "instruct-p0012", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0013", "verdict": "pass", "reason": "All constraints met (counted). Each sentence has exactly six words; checked."}
+{"id": "instruct-p0014", "verdict": "pass", "reason": "All constraints met (counted). Six items, alphabetical; checked."}
+{"id": "instruct-p0015", "verdict": "pass", "reason": "All constraints met (counted). 20 words, includes 'agenda'; checked."}
+{"id": "instruct-p0016", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0017", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0018", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0019", "verdict": "pass", "reason": "All constraints met (counted)."}
+{"id": "instruct-p0020", "verdict": "pass", "reason": "All constraints met (counted). Five words, different vowels a/e/i/o/u; checked."}
+{"id": "literature-p0001", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ryder: monkey claims his heart is kept in the rose-apple tree."}
+{"id": "literature-p0002", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ryder: turtle speaks and falls."}
+{"id": "literature-p0003", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0004", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ryder: reflection, echo, leaps in."}
+{"id": "literature-p0005", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ryder: blue jackal, howls with jackals."}
+{"id": "literature-p0006", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0007", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Griffith: bow bursts in two."}
+{"id": "literature-p0008", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Ring 'bore his name' in Griffith; 'golden' is unverified but harmless."}
+{"id": "literature-p0009", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ganguli (vulture, head only)."}
+{"id": "literature-p0010", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0011", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0012", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ganguli: century of sons boon."}
+{"id": "literature-p0013", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Checked in Ganguli: Vrihannala, bangles over bowstring marks."}
+{"id": "literature-p0014", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0015", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0016", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0017", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0018", "verdict": "pass", "reason": "Fact checked against the book file; short and correct."}
+{"id": "literature-p0019", "verdict": "pass", "reason": "Fact checked against the book file; short and correct. Matches Raga_Teaching_Book text."}
+{"id": "literature-p0020", "verdict": "fix", "reason": "Q asks which note matters most; the source lists Ga as vadi (most important note) while the answer gives tivra Ma. Reword the question to 'which note is characteristic' or answer with vadi Ga plus tivra Ma."}
+{"id": "multiturn-p0001", "verdict": "fix", "reason": "Assistant assumes the five-year-old is a boy ('beside him'); the user never said. Use neutral wording."}
+{"id": "multiturn-p0002", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0003", "verdict": "fix", "reason": "Assistant assumes the best friend is female ('She could be worried'); the user never said. Use 'they' or ask."}
+{"id": "multiturn-p0004", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0005", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0006", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe. Shimla facts checked: December is cold and snow is possible; advice is hedged. Good memory of earlier turns."}
+{"id": "multiturn-p0007", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0008", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0009", "verdict": "fix", "reason": "Assistant assumes the friend and the coach are male ('happy for him', 'drills he likes'); not stated by the user."}
+{"id": "multiturn-p0010", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0011", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0012", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0013", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0014", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0015", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0016", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0017", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0018", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0019", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "multiturn-p0020", "verdict": "pass", "reason": "Natural, remembers earlier turns, safe."}
+{"id": "reasoning-p0001", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed. Arithmetic correct. Note: spec forces a standalone 'Because ...' fragment (see summary)."}
+{"id": "reasoning-p0002", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0003", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0004", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0005", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0006", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0007", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0008", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0009", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0010", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0011", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0012", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0013", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0014", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0015", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0016", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0017", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0018", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0019", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "reasoning-p0020", "verdict": "pass", "reason": "Answer and reasoning correct; answer-first format followed."}
+{"id": "rewrite-p0001", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0002", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0003", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0004", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0005", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0006", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0007", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0008", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0009", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0010", "verdict": "fix", "reason": "Changes meaning: source says she 'wrote' a message and 'forgot to check her phone'; rewrite says 'sent' and 'forgot her phone' (= left it behind). Also 'calm' is added."}
+{"id": "rewrite-p0011", "verdict": "fix", "reason": "'marks are not everything about him' is awkward and breaks the past-tense backshift; use 'marks were not everything' or 'she said his marks did not define him'."}
+{"id": "rewrite-p0012", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used. Checked: 'the pocket' -> 'her pocket' is the natural reading in context (Shreya produces the truck; source avoids pronouns) and the user asked to fix odd wording; no real meaning change."}
+{"id": "rewrite-p0013", "verdict": "fix", "reason": "Reported speech of 'let's try again' is rendered loosely as 'and then they would try again'; should be 'and suggested that they try again after that'."}
+{"id": "rewrite-p0014", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0015", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0016", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0017", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0018", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0019", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "rewrite-p0020", "verdict": "pass", "reason": "Rewrite faithful, meets the instruction, no preamble; book excerpt verbatim where used."}
+{"id": "summary-p0001", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0002", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0003", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0004", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0005", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0006", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0007", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0008", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0009", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0010", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0011", "verdict": "fix", "reason": "Excerpt begins mid-quotation (opening quote mark dropped, closing one kept), so quote marks are unbalanced; start at the sentence that opens the speech."}
+{"id": "summary-p0012", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0013", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0014", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0015", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0016", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0017", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0018", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0019", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length."}
+{"id": "summary-p0020", "verdict": "pass", "reason": "Excerpt verbatim / behaviour passage; summary accurate and at requested length. Uses 'she' for Leela; source avoids pronouns but name is conventionally female - acceptable."}
+{"id": "usage-p0001", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0002", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0003", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0004", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0005", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0006", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0007", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0008", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0009", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0010", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0011", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0012", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0013", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0014", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0015", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0016", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0017", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0018", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0019", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "usage-p0020", "verdict": "pass", "reason": "Explanation correct with fitting examples."}
+{"id": "vocab-p0001", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0002", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0003", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0004", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0005", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0006", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0007", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0008", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0009", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0010", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0011", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0012", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0013", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0014", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0015", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0016", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0017", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct. 'condescension' of Lady Catherine is in Pride and Prejudice; old vs modern sense correct."}
+{"id": "vocab-p0018", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct. 'very sensible of the honour' is in Pride and Prejudice; old sense correct."}
+{"id": "vocab-p0019", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "vocab-p0020", "verdict": "pass", "reason": "Meaning, part of speech and modern example correct."}
+{"id": "writing-p0001", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0002", "verdict": "fix", "reason": "Invents a fact about the user (turning thirteen) that the user did not give; an invitation sent as written would be wrong."}
+{"id": "writing-p0003", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0004", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0005", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0006", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0007", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English. Onam facts checked: Kerala harvest festival, pookalam, sadya on banana leaf, avial/sambar/payasam, boat races - all correct. 78 words."}
+{"id": "writing-p0008", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0009", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0010", "verdict": "fix", "reason": "Signs as 'Kabir' and invents a sibling 'Riya' for an unnamed user; leave the name as a placeholder or ask."}
+{"id": "writing-p0011", "verdict": "fix", "reason": "Signs the note 'Sana' although the user gave no name."}
+{"id": "writing-p0012", "verdict": "fix", "reason": "Missing-pet poster invents facts the owner did not give (pink collar, Tuesday evening, Lake Road); a real poster with wrong details is harmful. Use only given facts plus clear placeholders."}
+{"id": "writing-p0013", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0014", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0015", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0016", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0017", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0018", "verdict": "fix", "reason": "Invents both names (Priya, Megha) and the bill amount (1,840 rupees); use placeholders for amounts and names the user must supply."}
+{"id": "writing-p0019", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
+{"id": "writing-p0020", "verdict": "pass", "reason": "Fits task, length and audience; clear modern English."}
