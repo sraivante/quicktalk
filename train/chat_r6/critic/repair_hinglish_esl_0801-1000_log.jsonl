@@ -1,0 +1,18 @@
+{"id": "hinglish_esl-r6-0807", "problem": "topic does not fit (journey question tagged college)", "change": "topic set to travel"}
+{"id": "hinglish_esl-r6-0812", "problem": "English adds \"today\", not in the Hinglish", "change": "removed \"today\""}
+{"id": "hinglish_esl-r6-0815", "problem": "\"Please\" added to \"Mithai kha lo\"", "change": "plain imperative"}
+{"id": "hinglish_esl-r6-0817", "problem": "user asks if the sentence is okay but the reply does not say it is wrong", "change": "reply now starts with \"No.\" and keeps the same fix"}
+{"id": "hinglish_esl-r6-0839", "problem": "called \"I want a tea\" wrong and claimed \"a tea\" needs \"a cup of\"; \"a tea\" is acceptable, only the politeness differs", "change": "reply says it is not wrong but blunt; Why now only about politeness"}
+{"id": "hinglish_esl-r6-0845", "problem": "topic hospital but situation is school", "change": "topic set to school"}
+{"id": "hinglish_esl-r6-0867", "problem": "\"Nothing is decided yet\" is unnatural for the Hinglish", "change": "\"Nothing has been decided yet.\""}
+{"id": "hinglish_esl-r6-0870", "problem": "corrected sentence still had \"a ... accommodation\" (uncountable), so a sentence presented as fixed was wrong", "change": "new sentence with the same two misspellings used correctly"}
+{"id": "hinglish_esl-r6-0873", "problem": "English adds \"always\" not in the Hinglish", "change": "removed \"always\""}
+{"id": "hinglish_esl-r6-0875", "problem": "English adds \"for the test\", an assumption", "change": "neutral meaning"}
+{"id": "hinglish_esl-r6-0883", "problem": "\"the sweetest fruit\" is singular, so the corrected plural sentence reads wrong; topic school mismatched", "change": "new sentence with correct plural agreement, topic home"}
+{"id": "hinglish_esl-r6-0891", "problem": "topic weather does not fit the question", "change": "topic set to language"}
+{"id": "hinglish_esl-r6-0906", "problem": "\"I have no idea\" changes more than the wrong part; Why wording imprecise", "change": "minimal fix \"I don't have any idea\"; Why states stative verb rule"}
+{"id": "hinglish_esl-r6-0931", "problem": "Why says an adjective \"needs am\", imprecise", "change": "Why now says an adjective needs a form of \"be\""}
+{"id": "hinglish_esl-r6-0948", "problem": "Why does not explain the missing letters in the user's spelling", "change": "Why gives the full spelling and the silent-d note"}
+{"id": "hinglish_esl-r6-0949", "problem": "answer adds \"first seven days\", an assumption", "change": "neutral wording"}
+{"id": "hinglish_esl-r6-0959", "problem": "English adds \"the\"", "change": "removed \"the\""}
+{"id": "hinglish_esl-r6-0980", "problem": "user says \"Likho\" (write) but reply starts \"Say:\"", "change": "changed to \"Write:\""}
