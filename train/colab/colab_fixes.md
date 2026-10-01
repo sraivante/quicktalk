@@ -138,3 +138,19 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
 - **Change:** cell 11 no longer offers a browser download; download the zip from Google Drive instead. Before
   disconnecting it now calls `drive.flush_and_unmount()` so the Drive upload is complete before the runtime goes.
 - **Output:** run 5 zip is intact in Drive (258.5 MB, 05:02); user to download it from drive.google.com.
+
+## Run 5 offline test — 375 questions from the training material
+- **Issue:** user asked for a thorough test of the run 5 model over many question patterns, using only training material.
+- **Change:** `scripts/test_model_build.py` (test set: 10 categories, 375 questions, all from `sft_train` or story subjects
+  from the training books/TinyStories), `scripts/test_model_run.py` (CPU, KV cache, greedy + repetition penalty 1.3),
+  `scripts/test_model_report.py` (tables). Model rebuilt in the sandbox from 28 uploaded zip chunks (size and
+  `testzip` verified). A first pass cut the start of 17 long prompts (answer budget too large); fixed (whole prompt
+  kept, answer budget shrinks) and those 17 re-run. Every answer graded by reading it against the training reference.
+- **Output:** overall 22% (28 correct, 111 partial, 236 wrong). Best: passage facts 58%, follow-up questions on a
+  passage 35%, multi-turn replies 38% (on topic, rarely exact). Weak: word meanings 13%, idioms/usage 5%, literature
+  facts 5%, arithmetic/reasoning 15%, instructions 13%, Hinglish 7%. Grammar: corrected sentence right 15/40, but the
+  "Why:" line was wrong every time. Several questions in one message: 1% (answers at most one, often merging them).
+  Full tables: `train/test_run5/report.md`, `results.csv`.
+- **Reading:** the model learned the behaviour-passage format (94% of chat data) far better than the 12 chat patterns
+  (2,400 examples), even though every test question was seen in training. It has fluent English but little stored
+  knowledge, and it copies formats ("It is an adjective", "Why:") without the content.

@@ -52,8 +52,10 @@ def step(ids, cache, pos):
 
 def generate(messages, max_new):
     text = ''.join(t for t, _ in qlm.chat_text(messages))[:-len('<|endoftext|>')] + '<|assistant|>\n'
-    ids = tok.encode(text).ids; truncated = len(ids) > cfg['block'] - max_new
-    ids = ids[-(cfg['block'] - max_new):]
+    ids = tok.encode(text).ids
+    truncated = len(ids) > cfg['block'] - 64             # keep the whole prompt whenever 64+ tokens are left to answer
+    if truncated: ids = ids[-(cfg['block'] - 64):]
+    max_new = min(max_new, cfg['block'] - len(ids))     # long prompts get a shorter answer budget instead of a cut prompt
     cache, out = [], []
     logits = step(torch.tensor([ids]), cache, 0); pos = len(ids)
     for _ in range(max_new):
