@@ -100,6 +100,7 @@ def fetch_fineweb_edu(out, mb):
             paras = [q.strip() for q in text.split('\n') if len(q.split()) >= 8]
             if len(' '.join(paras).split()) < 80: continue
             doc = '\n'.join(paras) + '\n\n'; w.write(doc); n += 1; size += len(doc)
+            if n % 20000 == 0: log(f'  fineweb_edu: {n:,} documents, {size / 1e6:,.0f} / {mb:,} MB')
             if size >= mb * 1_000_000: break
     os.replace(out + '.tmp', out); log(f'fineweb_edu: {n:,} documents')
 

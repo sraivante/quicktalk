@@ -228,3 +228,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   1,299 kept for testing). `validate_chat.py` gains type `math`; `quicktalk_lm.py prepare` does not upsample `math`
   (patterns 3x, math 1x). train/build: 75,895 chats. Notebook v8 cell 0 text updated.
 - **Upload:** v8 in Drive as `quicktalk_train_v8.ipynb` (https://colab.research.google.com/drive/1s7WCUAmYrEauzxaD2xlPh9UaOWrCDDlq); v7 renamed.
+- **Run 7, 14:42 UTC: FineWeb-Edu step looked stuck.** Cause: `fetch_fineweb_edu` printed nothing until the whole
+  4 GB was streamed (run 6: 1.6 GB took 11 min, so ~28 min expected); HF also warned about anonymous requests.
+  Change: FineWeb fetch now logs progress every 20,000 documents; notebook cell 4 reads an optional Colab secret
+  `HF_TOKEN` into the environment (token never stored in the notebook or repo).
