@@ -333,4 +333,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   blocked; CPU would also take ~7 h per model), so train/colab/hellaswag_earlier_runs.ipynb scores the chat models in
   MyDrive/quicktalk_run7_model.zip and quicktalk_run7c_model.zip (run 7's base model was deleted) plus SmolLM2-135M
   base and instruct, in its own runtime/folder; results to MyDrive/hellaswag_results/. hellaswag_eval.py uses float16
-  on GPUs without bfloat16 (T4).
+  on GPUs without bfloat16 (T4). Drive copy quicktalk_hellaswag_earlier_runs.ipynb (id 13cJfHAede3hAGoQZFQGo1TnT83ImsDvU).
