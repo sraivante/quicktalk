@@ -1,0 +1,375 @@
+{"id": "simple_oneliner_001", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_002", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_003", "grade": 0, "note": "opposite meaning (cruel)"}
+{"id": "simple_oneliner_004", "grade": 1, "note": "definition right; example weak"}
+{"id": "simple_oneliner_005", "grade": 1, "note": "bad word right; cruel/unkind close enough"}
+{"id": "simple_oneliner_006", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_007", "grade": 0, "note": "no good/bad; definition garbled"}
+{"id": "simple_oneliner_008", "grade": 0.5, "note": "sudden urge right; wrong part of speech, no impulse buy"}
+{"id": "simple_oneliner_009", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_010", "grade": 0.5, "note": "narrow opening right; contradiction, nonsense example"}
+{"id": "simple_oneliner_011", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_012", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_013", "grade": 1, "note": "honest and truthful right"}
+{"id": "simple_oneliner_014", "grade": 0, "note": "not deep understanding"}
+{"id": "simple_oneliner_015", "grade": 1, "note": "definition matches reference"}
+{"id": "simple_oneliner_016", "grade": 1, "note": "meaning right; garbled prefix"}
+{"id": "simple_oneliner_017", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_018", "grade": 0, "note": "circular, no meaning"}
+{"id": "simple_oneliner_019", "grade": 0, "note": "wrong meanings"}
+{"id": "simple_oneliner_020", "grade": 0.5, "note": "licence noun right; verb rule wrong"}
+{"id": "simple_oneliner_021", "grade": 0.5, "note": "easy to see right; wrong addition, bad examples"}
+{"id": "simple_oneliner_022", "grade": 0.5, "note": "manage partly; difficulty missing; bad example"}
+{"id": "simple_oneliner_023", "grade": 1, "note": "spelling right"}
+{"id": "simple_oneliner_024", "grade": 0, "note": "wrong meaning"}
+{"id": "simple_oneliner_025", "grade": 0, "note": "says no; wrong"}
+{"id": "simple_oneliner_026", "grade": 0, "note": "three swaras wrong"}
+{"id": "simple_oneliner_027", "grade": 0.5, "note": "samvadi right; vadi wrong"}
+{"id": "simple_oneliner_028", "grade": 0, "note": "vadi and samvadi wrong"}
+{"id": "simple_oneliner_029", "grade": 0, "note": "wrong mood"}
+{"id": "simple_oneliner_030", "grade": 0, "note": "no Sa/tuning reason"}
+{"id": "simple_oneliner_031", "grade": 0, "note": "vadi and samvadi wrong"}
+{"id": "simple_oneliner_032", "grade": 0, "note": "nonsense reason"}
+{"id": "simple_oneliner_033", "grade": 1, "note": "correct time"}
+{"id": "simple_oneliner_034", "grade": 0.5, "note": "one swara wrong (komal Dha)"}
+{"id": "simple_oneliner_035", "grade": 0, "note": "garbled; vadi wrong"}
+{"id": "simple_oneliner_036", "grade": 0, "note": "wrong thaat (Kalyan)"}
+{"id": "simple_oneliner_037", "grade": 0, "note": "evening, not night"}
+{"id": "simple_oneliner_038", "grade": 0.5, "note": "romantic right; devotional not dreamy"}
+{"id": "simple_oneliner_039", "grade": 0, "note": "wrong thaat (Kalyan)"}
+{"id": "simple_oneliner_040", "grade": 0, "note": "nonsense"}
+{"id": "simple_oneliner_041", "grade": 0, "note": "no heart trick"}
+{"id": "simple_oneliner_042", "grade": 0, "note": "wrong count and names"}
+{"id": "simple_oneliner_043", "grade": 0, "note": "not octaves; nonsense"}
+{"id": "simple_oneliner_044", "grade": 0, "note": "no estate name"}
+{"id": "simple_oneliner_045", "grade": 0, "note": "wrong mother; marriage missing"}
+{"id": "simple_oneliner_046", "grade": 0, "note": "wrong losses"}
+{"id": "simple_oneliner_047", "grade": 0, "note": "no rain/illness"}
+{"id": "simple_oneliner_048", "grade": 0, "note": "no Castle; wrong"}
+{"id": "simple_oneliner_049", "grade": 0, "note": "Bali's death missing; nonsense"}
+{"id": "simple_oneliner_050", "grade": 0, "note": "bow not broken; no Sita"}
+{"id": "complex_oneliner_001", "grade": 0, "note": "no finish time"}
+{"id": "complex_oneliner_002", "grade": 0, "note": "no practice/safety reason"}
+{"id": "complex_oneliner_003", "grade": 0, "note": "no percentage"}
+{"id": "complex_oneliner_004", "grade": 0, "note": "wrong total"}
+{"id": "complex_oneliner_005", "grade": 0, "note": "no germs; nonsense"}
+{"id": "complex_oneliner_006", "grade": 0, "note": "no fraction"}
+{"id": "complex_oneliner_007", "grade": 0, "note": "wrong change"}
+{"id": "complex_oneliner_008", "grade": 0, "note": "multiplied, wrong"}
+{"id": "complex_oneliner_009", "grade": 0, "note": "wrong number"}
+{"id": "complex_oneliner_010", "grade": 0, "note": "wrong (80)"}
+{"id": "complex_oneliner_011", "grade": 0, "note": "no friction; nonsense"}
+{"id": "complex_oneliner_012", "grade": 0, "note": "no weekly total"}
+{"id": "complex_oneliner_013", "grade": 0.5, "note": "shared activity right; no teamwork/trust"}
+{"id": "complex_oneliner_014", "grade": 0.5, "note": "sweat right; reason garbled"}
+{"id": "complex_oneliner_015", "grade": 0, "note": "nonsense reason"}
+{"id": "complex_oneliner_016", "grade": 0, "note": "no sun warming; nonsense"}
+{"id": "complex_oneliner_017", "grade": 0, "note": "wrong cost"}
+{"id": "complex_oneliner_018", "grade": 0.5, "note": "No right; explanation incomplete, junk added"}
+{"id": "complex_oneliner_019", "grade": 0.5, "note": "Yes right; reasoning nonsense"}
+{"id": "complex_oneliner_020", "grade": 0, "note": "wrong amount"}
+{"id": "complex_oneliner_021", "grade": 0, "note": "wrong product (45)"}
+{"id": "complex_oneliner_022", "grade": 0, "note": "no -ing words"}
+{"id": "complex_oneliner_023", "grade": 0, "note": "not about monsoon"}
+{"id": "complex_oneliner_024", "grade": 0, "note": "not a question"}
+{"id": "complex_oneliner_025", "grade": 0, "note": "not goodbye phrases; no formality order"}
+{"id": "complex_oneliner_026", "grade": 0, "note": "three items, not night sights"}
+{"id": "complex_oneliner_027", "grade": 0, "note": "no 15:45"}
+{"id": "complex_oneliner_028", "grade": 0, "note": "no request, no whenever"}
+{"id": "complex_oneliner_029", "grade": 0.5, "note": "format right; one reason only"}
+{"id": "complex_oneliner_030", "grade": 1, "note": "one short question"}
+{"id": "complex_oneliner_031", "grade": 0, "note": "two sentences, over limit, not Delhi forecast"}
+{"id": "complex_oneliner_032", "grade": 0, "note": "not four bicycle parts"}
+{"id": "complex_oneliner_033", "grade": 0, "note": "not 5-7-5"}
+{"id": "complex_oneliner_034", "grade": 0, "note": "wrong function"}
+{"id": "complex_oneliner_035", "grade": 0, "note": "uses \"people\""}
+{"id": "complex_oneliner_036", "grade": 0, "note": "not a Rakhi message"}
+{"id": "complex_oneliner_037", "grade": 0, "note": "only \"went\" fixed"}
+{"id": "complex_oneliner_038", "grade": 0, "note": "nonsense phrase"}
+{"id": "complex_oneliner_039", "grade": 0, "note": "wrong meaning (sore throat)"}
+{"id": "complex_oneliner_040", "grade": 0, "note": "irrelevant reply"}
+{"id": "complex_oneliner_041", "grade": 0, "note": "says correct; wrong"}
+{"id": "complex_oneliner_042", "grade": 0, "note": "does not say AC not working"}
+{"id": "complex_oneliner_043", "grade": 0, "note": "no Congratulations"}
+{"id": "complex_oneliner_044", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "complex_oneliner_045", "grade": 0, "note": "misses loose port"}
+{"id": "complex_oneliner_046", "grade": 0, "note": "meaning not explained"}
+{"id": "complex_oneliner_047", "grade": 0.5, "note": "meal partly right; no packed lunch"}
+{"id": "complex_oneliner_048", "grade": 0, "note": "wrong translation"}
+{"id": "complex_oneliner_049", "grade": 0, "note": "not lonely"}
+{"id": "complex_oneliner_050", "grade": 0, "note": "heavy rain meaning not given"}
+{"id": "multiline_simple_001", "grade": 0.5, "note": "key lines kept; not short sentences; terrace, marks lost"}
+{"id": "multiline_simple_002", "grade": 0, "note": "not formal; garbled, invented ending"}
+{"id": "multiline_simple_003", "grade": 0, "note": "ignores required opening; clause lost"}
+{"id": "multiline_simple_004", "grade": 0.5, "note": "first line right; Sugriva part garbled"}
+{"id": "multiline_simple_005", "grade": 0.5, "note": "meaning kept; barely modernised"}
+{"id": "multiline_simple_006", "grade": 0, "note": "not narration; snail answer reversed"}
+{"id": "multiline_simple_007", "grade": 0, "note": "mostly copied; march order garbled"}
+{"id": "multiline_simple_008", "grade": 0, "note": "not modernised; meaning garbled"}
+{"id": "multiline_simple_009", "grade": 0, "note": "names confused; not brief; invented"}
+{"id": "multiline_simple_010", "grade": 0, "note": "meaning lost; invented"}
+{"id": "multiline_simple_011", "grade": 0, "note": "tense unchanged; content changed"}
+{"id": "multiline_simple_012", "grade": 0, "note": "no reported speech"}
+{"id": "multiline_simple_013", "grade": 0, "note": "garbled; wrong meaning"}
+{"id": "multiline_simple_014", "grade": 0.5, "note": "first sentence future; rest past"}
+{"id": "multiline_simple_015", "grade": 0, "note": "not past; stance reversed"}
+{"id": "multiline_simple_016", "grade": 0.5, "note": "letter form, content kept; wrong addressee, invented end"}
+{"id": "multiline_simple_017", "grade": 0, "note": "disguise lost; repetition"}
+{"id": "multiline_simple_018", "grade": 0, "note": "mostly invented"}
+{"id": "multiline_simple_019", "grade": 0.5, "note": "first half right; ending wrong"}
+{"id": "multiline_simple_020", "grade": 0, "note": "person not changed"}
+{"id": "multiline_simple_021", "grade": 0, "note": "garbled; assent lost"}
+{"id": "multiline_simple_022", "grade": 0, "note": "flowers and senses lost"}
+{"id": "multiline_simple_023", "grade": 0, "note": "obey and circling lost"}
+{"id": "multiline_simple_024", "grade": 0, "note": "tense not changed"}
+{"id": "multiline_simple_025", "grade": 0.5, "note": "main lines kept; wings, stick missing"}
+{"id": "multiline_simple_026", "grade": 0, "note": "request missing; invented ending"}
+{"id": "multiline_simple_027", "grade": 0, "note": "over 40 words; content invented"}
+{"id": "multiline_simple_028", "grade": 0, "note": "not first person; scrambled"}
+{"id": "multiline_simple_029", "grade": 0, "note": "not formal; meaning lost"}
+{"id": "multiline_simple_030", "grade": 0.5, "note": "partly simplified; no-pictures missing"}
+{"id": "multiline_complex_001", "grade": 1, "note": "fond, clinging, devouring present; some garble"}
+{"id": "multiline_complex_002", "grade": 0.5, "note": "tufted arms/legs, cling; sailors/crowding unclear"}
+{"id": "multiline_complex_003", "grade": 0, "note": "name origin wrong; lists sons instead"}
+{"id": "multiline_complex_004", "grade": 0, "note": "chicken, cheese, salad missing"}
+{"id": "multiline_complex_005", "grade": 1, "note": "milk and forests right; honey slightly invented"}
+{"id": "multiline_complex_006", "grade": 0, "note": "wrong reason; cook point missing"}
+{"id": "multiline_complex_007", "grade": 0.5, "note": "Clarriker's better right; soldiering advice missing"}
+{"id": "multiline_complex_008", "grade": 0.5, "note": "no English, mixes French; middle garbled"}
+{"id": "multiline_complex_009", "grade": 0.5, "note": "patient right; rest invented"}
+{"id": "multiline_complex_010", "grade": 0, "note": "neither intrusion nor speeches reason given"}
+{"id": "multiline_complex_011", "grade": 0.5, "note": "bow right; purpose to slay Drona missing"}
+{"id": "multiline_complex_012", "grade": 0, "note": "says they feared Napoleon; wrong"}
+{"id": "multiline_complex_013", "grade": 0.5, "note": "blessing, suffering partly; friends request missing"}
+{"id": "multiline_complex_014", "grade": 0, "note": "certainty point garbled, nonsense"}
+{"id": "multiline_complex_015", "grade": 0, "note": "does not answer; garbled"}
+{"id": "multiline_complex_016", "grade": 0, "note": "says not careless; slate missing"}
+{"id": "multiline_complex_017", "grade": 0.5, "note": "sulky, leaves; antagonism/useless missing"}
+{"id": "multiline_complex_018", "grade": 0.5, "note": "no extra preparation right but wrong person"}
+{"id": "multiline_complex_019", "grade": 1, "note": "new sinister hidden feeling noticed"}
+{"id": "multiline_complex_020", "grade": 0.5, "note": "pain right; trust/hope garbled, calm invented"}
+{"id": "multiline_complex_021", "grade": 0, "note": "letters, father reading garbled"}
+{"id": "multiline_complex_022", "grade": 0.5, "note": "fear and plan right; pride, rule missing; long"}
+{"id": "multiline_complex_023", "grade": 0.5, "note": "fire and Heathcliff scene; reading missing"}
+{"id": "multiline_complex_024", "grade": 0.5, "note": "storm, Holmes right; mostly copied, wife missing"}
+{"id": "multiline_complex_025", "grade": 0, "note": "says creature eats lamb; offer wrong"}
+{"id": "multiline_complex_026", "grade": 0, "note": "pressure and posting missed"}
+{"id": "multiline_complex_027", "grade": 0, "note": "main idea missed"}
+{"id": "multiline_complex_028", "grade": 1, "note": "grand dinner, praise, seating, Jenkinson right"}
+{"id": "multiline_complex_029", "grade": 0.5, "note": "looks first, stories; poison check, ending wrong"}
+{"id": "multiline_complex_030", "grade": 0.5, "note": "slightly more pay; costs/daughter garbled"}
+{"id": "multiline_complex_031", "grade": 0, "note": "wrong reader; letter and distrust missing"}
+{"id": "multiline_complex_032", "grade": 0, "note": "Windibank disguise trick missing"}
+{"id": "multiline_complex_033", "grade": 0, "note": "imagination point partial; rest garbled"}
+{"id": "multiline_complex_034", "grade": 0, "note": "Justine's character and innocence missing"}
+{"id": "multiline_complex_035", "grade": 0, "note": "climb right; feelings wrong"}
+{"id": "multiline_complex_036", "grade": 0.5, "note": "complex, theory listed; untenable missing, contradiction"}
+{"id": "multiline_complex_037", "grade": 0, "note": "pity, death, dream comfort missing"}
+{"id": "multiline_complex_038", "grade": 0, "note": "walks, escape from Lady Catherine missing"}
+{"id": "multiline_complex_039", "grade": 0.5, "note": "lost concern; reasons garbled"}
+{"id": "multiline_complex_040", "grade": 1, "note": "mourning outside city, sages visit right"}
+{"id": "multi_question_001", "grade": 0, "note": "0 of 2 correct"}
+{"id": "multi_question_002", "grade": 0, "note": "0 of 2; raga and Yaksha missed"}
+{"id": "multi_question_003", "grade": 0.25, "note": "discreet half right, discrete missing; roses wrong"}
+{"id": "multi_question_004", "grade": 0, "note": "Bhairavi mood wrong; Pierre missing"}
+{"id": "multi_question_005", "grade": 0, "note": "spelling and taans wrong"}
+{"id": "multi_question_006", "grade": 0, "note": "0 of 2 correct"}
+{"id": "multi_question_007", "grade": 0.25, "note": "10 handshakes only, garbled; notebooks missing"}
+{"id": "multi_question_008", "grade": 0.25, "note": "fun/funny partly; Holi, shadav unanswered"}
+{"id": "multi_question_009", "grade": 0, "note": "0 of 2 correct"}
+{"id": "multi_question_010", "grade": 0, "note": "0 of 2 correct"}
+{"id": "multi_question_011", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_012", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_013", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_014", "grade": 0, "note": "0 of 3; tortoise 45 minutes wrong"}
+{"id": "multi_question_015", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_016", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_017", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_018", "grade": 0, "note": "0 of 3; nonsense arithmetic"}
+{"id": "multi_question_019", "grade": 0.17, "note": "deliberate half right; others wrong/missing"}
+{"id": "multi_question_020", "grade": 0, "note": "0 of 3 correct"}
+{"id": "multi_question_021", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_022", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_023", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_024", "grade": 0.12, "note": "count on me partly; others wrong"}
+{"id": "multi_question_025", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_026", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_027", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_028", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_029", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_030", "grade": 0, "note": "0 of 4 correct"}
+{"id": "multi_question_031", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_032", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_033", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_034", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_035", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_036", "grade": 0.1, "note": "believe spelling right, nonsense reason; rest wrong"}
+{"id": "multi_question_037", "grade": 0, "note": "0 of 5; age 5 wrong"}
+{"id": "multi_question_038", "grade": 0, "note": "0 of 5; row 15 metres wrong"}
+{"id": "multi_question_039", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multi_question_040", "grade": 0, "note": "0 of 5 correct"}
+{"id": "multiturn_001", "grade": 0, "note": "does not say go anyway; club teacher odd"}
+{"id": "multiturn_002", "grade": 0.5, "note": "positive acknowledgment; startled claim odd"}
+{"id": "multiturn_003", "grade": 0.5, "note": "break after lunch ok; vague, garbled"}
+{"id": "multiturn_004", "grade": 0.5, "note": "simple dishes ok; roommate cooking together missed"}
+{"id": "multiturn_005", "grade": 0.5, "note": "fix it right; tell her early missing, garbled"}
+{"id": "multiturn_006", "grade": 0, "note": "ignores parents' remark and own sleep"}
+{"id": "multiturn_007", "grade": 0, "note": "ignores card game; cricket/carrom off"}
+{"id": "multiturn_008", "grade": 0, "note": "odd sweets rule; no list advice"}
+{"id": "multiturn_009", "grade": 0.5, "note": "approves note; second sentence odd"}
+{"id": "multiturn_010", "grade": 0, "note": "calls it a strength; misreads worry"}
+{"id": "multiturn_011", "grade": 0, "note": "says cook ten minutes; soggy point missing"}
+{"id": "multiturn_012", "grade": 0.5, "note": "says yes; just repeats history"}
+{"id": "multiturn_013", "grade": 0, "note": "right notes, not feeling; off point"}
+{"id": "multiturn_014", "grade": 0, "note": "no dance kind named"}
+{"id": "multiturn_015", "grade": 0, "note": "says red comes from chlorophyll; wrong"}
+{"id": "multiturn_016", "grade": 0, "note": "does not address running out"}
+{"id": "multiturn_017", "grade": 0, "note": "no amount given; odd rest"}
+{"id": "multiturn_018", "grade": 0, "note": "repeats earlier advice; ignores walls"}
+{"id": "multiturn_019", "grade": 0.5, "note": "tell manager right; record point garbled"}
+{"id": "multiturn_020", "grade": 0, "note": "does not handle naming; calls it lovely name"}
+{"id": "multiturn_021", "grade": 0.5, "note": "says yes; routine/privacy talk missing"}
+{"id": "multiturn_022", "grade": 0, "note": "ignores name; spider caught odd"}
+{"id": "multiturn_023", "grade": 0, "note": "ignores scooters; repeats flags"}
+{"id": "multiturn_024", "grade": 0, "note": "does not answer alone vs group"}
+{"id": "multiturn_025", "grade": 0, "note": "no folding technique"}
+{"id": "story_001", "grade": 0.5, "note": "third-person bio; wrong class, age contradictions"}
+{"id": "story_002", "grade": 0.5, "note": "on topic, right length; fear unresolved, contradictions"}
+{"id": "story_003", "grade": 0, "note": "no night breakdown rescue; incoherent"}
+{"id": "story_004", "grade": 0.5, "note": "gentle bedtime tone; moon only secondary"}
+{"id": "story_005", "grade": 0.5, "note": "kite and roof present; finds it in room, muddled"}
+{"id": "story_006", "grade": 0, "note": "no haunting belief or twist; incoherent"}
+{"id": "story_007", "grade": 0, "note": "puppy one line; drifts to sweets"}
+{"id": "story_008", "grade": 0.5, "note": "burnt rice, father laughs; sequence muddled, short"}
+{"id": "story_009", "grade": 0, "note": "goldfish missing; girl finds magic fish"}
+{"id": "story_010", "grade": 0, "note": "tiffin not really lost; incoherent"}
+{"id": "story_011", "grade": 0, "note": "no family secret repeated"}
+{"id": "story_012", "grade": 0, "note": "grandfather does not teach; drifts to Chloe"}
+{"id": "story_013", "grade": 0, "note": "never misses train; incoherent"}
+{"id": "story_014", "grade": 0, "note": "not the fable; incoherent weighing plot"}
+{"id": "story_015", "grade": 0, "note": "ants peripheral; story about a key"}
+{"id": "story_016", "grade": 0.5, "note": "lion and carpenter meet; thin, gender mix"}
+{"id": "story_017", "grade": 0, "note": "jackal already king; drifts"}
+{"id": "story_018", "grade": 0, "note": "no crossing to Lanka; boat story"}
+{"id": "story_019", "grade": 0, "note": "Arjuna is a bird; no archery test"}
+{"id": "story_020", "grade": 0, "note": "injury story; no Wonderland"}
+{"id": "story_021", "grade": 0.5, "note": "girl finds puppy; short, garbled ending"}
+{"id": "story_022", "grade": 0, "note": "ball never lost; drifts"}
+{"id": "story_023", "grade": 0.5, "note": "bird learns to fly; muddled ending"}
+{"id": "story_024", "grade": 0.5, "note": "friends share lunch; some confusion"}
+{"id": "story_025", "grade": 0.5, "note": "cat fears rain, calms; cat/girl confusion"}
+{"id": "writing_001", "grade": 0.5, "note": "encouraging but short, one garbled line"}
+{"id": "writing_002", "grade": 0.0, "note": "no case for libraries; incoherent"}
+{"id": "writing_003", "grade": 0.5, "note": "clean-up message; weak plastic description"}
+{"id": "writing_004", "grade": 0.5, "note": "details right; short, flat, odd line"}
+{"id": "writing_005", "grade": 0.0, "note": "market setting but incoherent sentences"}
+{"id": "writing_006", "grade": 0.0, "note": "third-person garble, not a message"}
+{"id": "writing_007", "grade": 0.5, "note": "condolence opening; \"to me\", odd ending"}
+{"id": "writing_008", "grade": 0.5, "note": "potluck invite fine; \"Dear potluck\", no time"}
+{"id": "writing_009", "grade": 0.0, "note": "letter to parents, not a description"}
+{"id": "writing_010", "grade": 0.0, "note": "letter to mother, not recipe intro"}
+{"id": "writing_011", "grade": 0.5, "note": "stars present; short, last line incoherent"}
+{"id": "writing_012", "grade": 0.5, "note": "one funny line; rest incoherent"}
+{"id": "writing_013", "grade": 0.5, "note": "notice form, do not disturb; garbled"}
+{"id": "writing_014", "grade": 1.0, "note": "diary, peacock dance, right length; minor oddities"}
+{"id": "writing_015", "grade": 0.0, "note": "\"Dear Diary\", not future-self letter"}
+{"id": "grammar_001", "grade": 0.5, "note": "\"decorate\" fixed, \"lights\" missed; Why wrong"}
+{"id": "grammar_002", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_003", "grade": 0.5, "note": "sentence not fixed; Why gives an -> a fix"}
+{"id": "grammar_004", "grade": 0.5, "note": "correction right; Why nonsense"}
+{"id": "grammar_005", "grade": 0.5, "note": "correction right; Why nonsense"}
+{"id": "grammar_006", "grade": 0.0, "note": "says sentence is correct"}
+{"id": "grammar_007", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_008", "grade": 0.5, "note": "\"are\" right but drops words; Why says no error"}
+{"id": "grammar_009", "grade": 0.0, "note": "no correction, off-topic reply"}
+{"id": "grammar_010", "grade": 0.0, "note": "\"have a headache since\" still wrong"}
+{"id": "grammar_011", "grade": 0.0, "note": "not corrected"}
+{"id": "grammar_012", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_013", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_014", "grade": 0.0, "note": "invents details; not corrected"}
+{"id": "grammar_015", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_016", "grade": 0.0, "note": "not corrected"}
+{"id": "grammar_017", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_018", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_019", "grade": 0.5, "note": "correction right; Why wrong rule"}
+{"id": "grammar_020", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_021", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_022", "grade": 0.0, "note": "no correction, off-topic"}
+{"id": "grammar_023", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_024", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_025", "grade": 0.5, "note": "correction right; Why trigger wrong"}
+{"id": "grammar_026", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_027", "grade": 0.0, "note": "drops \"Sara and\"; Why wrong"}
+{"id": "grammar_028", "grade": 0.5, "note": "correction right; Why empty"}
+{"id": "grammar_029", "grade": 0.0, "note": "not corrected"}
+{"id": "grammar_030", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_031", "grade": 0.0, "note": "not corrected"}
+{"id": "grammar_032", "grade": 0.5, "note": "\"repair\" fixed; comma splice left; Why wrong"}
+{"id": "grammar_033", "grade": 0.0, "note": "not corrected; Why wrong"}
+{"id": "grammar_034", "grade": 0.0, "note": "says correct"}
+{"id": "grammar_035", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_036", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_037", "grade": 0.0, "note": "answers question, no correction"}
+{"id": "grammar_038", "grade": 0.5, "note": "correction right; Why wrong"}
+{"id": "grammar_039", "grade": 0.5, "note": "\"in 1950\" right, drops village; Why wrong"}
+{"id": "grammar_040", "grade": 0.0, "note": "no correction, nonsense"}
+{"id": "passage_001", "grade": 1.0, "note": "correct"}
+{"id": "passage_002", "grade": 1.0, "note": "correct"}
+{"id": "passage_003", "grade": 0.0, "note": "wrong (desk leg)"}
+{"id": "passage_004", "grade": 1.0, "note": "correct"}
+{"id": "passage_005", "grade": 1.0, "note": "correct"}
+{"id": "passage_006", "grade": 1.0, "note": "correct"}
+{"id": "passage_007", "grade": 1.0, "note": "correct"}
+{"id": "passage_008", "grade": 1.0, "note": "correct"}
+{"id": "passage_009", "grade": 0.0, "note": "wrong (roti)"}
+{"id": "passage_010", "grade": 0.0, "note": "wrong count (eight)"}
+{"id": "passage_011", "grade": 1.0, "note": "correct, extra detail"}
+{"id": "passage_012", "grade": 0.5, "note": "half-inch right, booklet part missing"}
+{"id": "passage_013", "grade": 1.0, "note": "correct"}
+{"id": "passage_014", "grade": 1.0, "note": "correct"}
+{"id": "passage_015", "grade": 0.0, "note": "wrong (microphone)"}
+{"id": "passage_016", "grade": 0.0, "note": "wrong (volcanoes)"}
+{"id": "passage_017", "grade": 1.0, "note": "correct"}
+{"id": "passage_018", "grade": 1.0, "note": "correct"}
+{"id": "passage_019", "grade": 1.0, "note": "correct"}
+{"id": "passage_020", "grade": 1.0, "note": "correct"}
+{"id": "passage_021", "grade": 1.0, "note": "correct"}
+{"id": "passage_022", "grade": 0.0, "note": "wrong (54 percent)"}
+{"id": "passage_023", "grade": 1.0, "note": "correct"}
+{"id": "passage_024", "grade": 0.0, "note": "no place given (Kolkata)"}
+{"id": "passage_025", "grade": 0.5, "note": "tub only; spoon missing"}
+{"id": "passage_026", "grade": 1.0, "note": "correct"}
+{"id": "passage_027", "grade": 1.0, "note": "correct"}
+{"id": "passage_028", "grade": 0.0, "note": "no place given (bus home)"}
+{"id": "passage_029", "grade": 1.0, "note": "correct"}
+{"id": "passage_030", "grade": 0.0, "note": "wrong (quiet time alone)"}
+{"id": "passage_031", "grade": 0.0, "note": "wrong (day six)"}
+{"id": "passage_032", "grade": 1.0, "note": "correct"}
+{"id": "passage_033", "grade": 1.0, "note": "correct"}
+{"id": "passage_034", "grade": 1.0, "note": "correct"}
+{"id": "passage_035", "grade": 0.5, "note": "fish only; bed missing"}
+{"id": "passage_036", "grade": 1.0, "note": "correct"}
+{"id": "passage_037", "grade": 1.0, "note": "correct"}
+{"id": "passage_038", "grade": 1.0, "note": "correct"}
+{"id": "passage_039", "grade": 1.0, "note": "correct"}
+{"id": "passage_040", "grade": 1.0, "note": "correct, clumsy wording"}
+{"id": "passage_041", "grade": 0.0, "note": "wrong feeling (anxious vs furious)"}
+{"id": "passage_042", "grade": 0.0, "note": "misses posting making time"}
+{"id": "passage_043", "grade": 0.0, "note": "wrong view (worried vs respectful support)"}
+{"id": "passage_044", "grade": 1.0, "note": "pleased feeling right; odd tail"}
+{"id": "passage_045", "grade": 0.0, "note": "wrong feeling and reason"}
+{"id": "passage_046", "grade": 0.5, "note": "embarrassed right; wrong reason"}
+{"id": "passage_047", "grade": 0.0, "note": "misses being seen/heard"}
+{"id": "passage_048", "grade": 0.0, "note": "misses small step rebuilding contact"}
+{"id": "passage_049", "grade": 0.0, "note": "misses step-by-step from certain fact"}
+{"id": "passage_050", "grade": 0.0, "note": "says grateful; no thank-you contrast"}
+{"id": "passage_051", "grade": 0.5, "note": "fear right; reason missing"}
+{"id": "passage_052", "grade": 0.5, "note": "anxious right; wrongly says cried with her"}
+{"id": "passage_053", "grade": 0.0, "note": "no clear feeling; says kept sending replies"}
+{"id": "passage_054", "grade": 1.0, "note": "tell Ammi about camp; core advice right"}
+{"id": "passage_055", "grade": 0.0, "note": "hurt/defensive instead of relief"}
+{"id": "passage_056", "grade": 0.5, "note": "keeps calls, diya; no Diwali video call"}
+{"id": "passage_057", "grade": 0.0, "note": "first part contradicted; bystander idea wrong"}
+{"id": "passage_058", "grade": 0.5, "note": "shared stories right; no four hands teamwork"}
+{"id": "passage_059", "grade": 0.5, "note": "realisation right; misses surprise and relief"}
+{"id": "passage_060", "grade": 0.5, "note": "frightened right; misses practising hard"}
