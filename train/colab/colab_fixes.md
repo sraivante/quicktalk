@@ -321,4 +321,5 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   1,500, json_output 1,500, context_qa 2,000, greeting 800, dont_know +500, comprehension +1,500; 20 per new type held
   out for eval). New `prepare --type-repeat type=N` (training set only) overrides --chat-repeat for one type; the
   notebook repeats the six focus types 3x (other patterns 2x, behaviour cap 25,000, maths 1x). Resulting chat mix
-  (local prepare): 101,691 chats; behaviour 24.6%, maths 13.1%, the six focus types 29.2%. Notebook ready for run 8.
+  (local prepare): 101,691 chats; behaviour 24.6%, maths 13.1%, the six focus types 29.2%. Notebook ready for run 8:
+  Drive copy quicktalk_train_run8_v9.ipynb (id 1hbPrDHidoaKU62cJbEKZoxgHniTmPSuu).

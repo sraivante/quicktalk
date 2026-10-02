@@ -23,7 +23,7 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action (run 8)
 
-1. User runs the run 8 notebook (Drive copy) on an A100 with the HF_TOKEN secret: ~1-2 h downloads, 2-4 h tokenizing,
+1. User runs the run 8 notebook (Drive: quicktalk_train_run8_v9.ipynb, id 1hbPrDHidoaKU62cJbEKZoxgHniTmPSuu) on an A100 with the HF_TOKEN secret: ~1-2 h downloads, 2-4 h tokenizing,
    11-14 h pretraining, ~15 min chat. Help with any Colab errors (log every change in colab_fixes.md).
 2. After the run: zip parts to the sandbox; answer train/test_fair (fair, held out) and the old 375-question test;
    grade with 3 independent agents; compare with run 7, 7c and SmolLM2; maths test (digit tokenizer).
