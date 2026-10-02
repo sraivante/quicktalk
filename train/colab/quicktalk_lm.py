@@ -14,7 +14,7 @@ last checkpoint. All state lives in --workdir (put it on Google Drive).
 Sizing rule (the user's "10x" rule instead of Chinchilla's 20x): tokens seen in training = 10 x parameters.
 Tokens seen = epochs_pretrain x pretrain tokens + epochs_sft x sft tokens.
 """
-import argparse, glob, json, math, os, random, re, shutil, sys, time
+import argparse, glob, json, math, multiprocessing as mp, os, random, re, shutil, sys, time
 
 SPECIALS = ['<|endoftext|>', '<|user|>', '<|assistant|>', '<|end|>', '<|pad|>']
 
@@ -55,6 +55,7 @@ def english_clean(text):
     import unicodedata
     out = []
     for line in text.split('\n'):
+        if line.isascii(): out.append(LANG_PAREN.sub('', line).rstrip()); continue   # fast path, same result
         if any(ord(c) > 0x24f and unicodedata.category(c).startswith('L') for c in line): continue
         line = LANG_PAREN.sub('', line)
         line = line.replace('\u2018', "'").replace('\u2019', "'").replace('\u201c', '"').replace('\u201d', '"')
@@ -104,6 +105,16 @@ def fetch_fineweb_edu(out, mb):
             if size >= mb * 1_000_000: break
     os.replace(out + '.tmp', out); log(f'fineweb_edu: {n:,} documents')
 
+def clean_fineweb_batch(rows):
+    """One batch of (text, int_score) FineWeb rows -> cleaned documents (runs in a worker process)."""
+    out, n = [], 0
+    for text, sc in rows:
+        if sc is not None and sc < 3: continue
+        paras = [q.strip() for q in english_clean(text).split('\n') if len(q.split()) >= 8]
+        if len(' '.join(paras).split()) < 80: continue
+        out.append('\n'.join(paras) + '\n\n'); n += 1
+    return ''.join(out), n
+
 def fetch_fineweb_files(out, n, tmp):
     """Run 8: the first `n` parquet shards of FineWeb-Edu sample-10BT, one text file per shard (fineweb10bt_NN.txt).
     Each shard downloads with resume; a finished shard is skipped on re-runs, so an interrupted fetch loses little."""
@@ -117,16 +128,14 @@ def fetch_fineweb_files(out, n, tmp):
         if os.path.exists(o): log('exists, skipping', o); continue
         src = hf_hub_download('HuggingFaceFW/fineweb-edu', name, repo_type='dataset', local_dir=tmp)
         pf = pq.ParquetFile(src); cols = [c for c in ('text', 'int_score') if c in pf.schema_arrow.names]
-        docs = 0
-        with open(o + '.tmp', 'w', encoding='utf-8') as w:
+        def batches():
             for b in pf.iter_batches(batch_size=2000, columns=cols):
-                d = b.to_pydict()
-                for text, sc in zip(d['text'], d.get('int_score', [3] * len(d['text']))):
-                    if sc is not None and sc < 3: continue
-                    paras = [q.strip() for q in english_clean(text).split('\n') if len(q.split()) >= 8]
-                    if len(' '.join(paras).split()) < 80: continue
-                    w.write('\n'.join(paras) + '\n\n'); docs += 1
-        os.replace(o + '.tmp', o); os.remove(src)
+                d = b.to_pydict(); yield list(zip(d['text'], d.get('int_score', [3] * len(d['text']))))
+        docs, local = 0, os.path.join(tmp, os.path.basename(o))       # clean on every core, write to local disk
+        with open(local, 'w', encoding='utf-8') as w, mp.Pool(os.cpu_count()) as pool:
+            for text, n in pool.imap(clean_fineweb_batch, batches(), chunksize=1):
+                w.write(text); docs += n
+        shutil.copy(local, o + '.tmp'); os.replace(o + '.tmp', o); os.remove(local); os.remove(src)   # one copy to Drive
         log(f'fineweb10bt_{k:02d}: {docs:,} documents, {os.path.getsize(o) / 1e6:,.0f} MB ({k + 1}/{len(names)})')
 
 def fetch_soda(out):
@@ -245,9 +254,9 @@ def cmd_prepare(a):
             def flush(paras):
                 nonlocal total
                 if not paras: return
-                ids = []
-                for enc in tok.encode_batch(paras): ids.extend(enc.ids); ids.append(eot)
-                np.array(ids, dtype=np.uint16).tofile(w); total += len(ids)
+                sep = np.array([eot], dtype=np.uint16)      # encode_batch runs on every core; numpy avoids a Python loop
+                ids = np.concatenate([x for e in tok.encode_batch(paras) for x in (np.array(e.ids, dtype=np.uint16), sep)])
+                ids.tofile(w); total += len(ids)
             for p in paths:
                 paras, cur = [], []
                 with open(p, encoding='utf-8') as f:

@@ -334,3 +334,10 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   MyDrive/quicktalk_run7_model.zip and quicktalk_run7c_model.zip (run 7's base model was deleted) plus SmolLM2-135M
   base and instruct, in its own runtime/folder; results to MyDrive/hellaswag_results/. hellaswag_eval.py uses float16
   on GPUs without bfloat16 (T4). Drive copy quicktalk_hellaswag_earlier_runs.ipynb (id 13cJfHAede3hAGoQZFQGo1TnT83ImsDvU).
+- **Speed and cost fix during run 8 (user rule: use all cores).** Run 8's download stage took ~17.5 min per FineWeb
+  shard: text cleaning ran on one CPU core and wrote straight to Drive, and the whole data preparation (~5 h) held an
+  A100 it does not need. Changes: english_clean has an ASCII fast path (same output); fetch_fineweb_files cleans in a
+  process pool on every core, writes to the local disk and copies to Drive once; prepare writes token ids with numpy
+  instead of a Python loop. Local checks: cleaned text and token files are byte-identical to the old code; cleaning
+  3x faster on 4 cores (expected ~6-8x on Colab). Notebook: cells 1-5 run on a CPU runtime (no A100 needed), cell 6
+  asserts an A100 before training. Drive copy v10 (see HANDOVER). Finished shards from the running session are kept.
