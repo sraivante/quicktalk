@@ -323,3 +323,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   notebook repeats the six focus types 3x (other patterns 2x, behaviour cap 25,000, maths 1x). Resulting chat mix
   (local prepare): 101,691 chats; behaviour 24.6%, maths 13.1%, the six focus types 29.2%. Notebook ready for run 8:
   Drive copy quicktalk_train_run8_v9.ipynb (id 1hbPrDHidoaKU62cJbEKZoxgHniTmPSuu).
+- **HellaSwag check added (separate from the run 8 training; no change to quicktalk_lm.py or the main notebook).**
+  New train/colab/hellaswag_eval.py scores a QuickTalk checkpoint or a Hugging Face model on HellaSwag validation
+  (10,042 items, log-likelihood of each ending; acc and acc_norm) and train/colab/hellaswag_run8.ipynb runs it after
+  run 8 in its own runtime and folder (/content/qt_eval): base model, chat model, and SmolLM2-135M base with the same
+  scorer. Results to MyDrive/quicktalk_run8/hellaswag_*.json. CPU smoke test on a toy checkpoint passed.
