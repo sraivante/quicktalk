@@ -7,6 +7,27 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
+## Current state — run 8 data (last updated: 2026-10-02 05:20 UTC)
+
+- User chose **Path A** (keep training from scratch) with 6 focus capabilities, keeping all earlier specs:
+  messy questions, JSON output, context QA, greeting/politeness, short polite don't-know, passage questions.
+  Spec: train/spec/CHAT_PATTERNS.md "Run 8 capabilities"; validator `--run8`.
+- Staging in `.staging/r8/` (brief BRIEF.md, reviewer brief review/NEW_REVIEW.md, review logs in review/):
+  - Wave 1 written: greeting 800 (4x200, reviewed), json_output 1,500 (6x250; reviewed 1,2,3,5,6; 4 in review),
+    messy_question 1,500 (6x250; 6 reviewed, 1-5 in review). Name "Claude" removed from greeting rows.
+  - Wave 2 writing: context_qa 2,000 (8x250), dont_know +500 (2x250), comprehension +1,500 (6x250; 1-3 running,
+    4-6 queued: agent limit 20).
+- Held-out fair test `train/test_fair/testset.jsonl` (210 items, never trained on) written; independent review running.
+- Not committed yet. Run 8 notebook waits for the user's Drive-space choice: (a) token bin on Colab local disk,
+  (b) ~5B tokens.
+
+## Next action (run 8)
+
+1. As each batch finishes: launch an opus reviewer (NEW_REVIEW.md prompt shape), then merge reviewed batches into
+   `train/chat_r8/<type>.jsonl`, validate `--run8`, dupes check (also against train/test_fair), rebuild train/build,
+   commit + push, update this file and colab_fixes if the pipeline changes.
+2. Run 8 notebook: digit tokenizer, context 1,024, ~10B tokens (or 5B), rebalanced mix, keep-best; grade on test_fair.
+
 ## Current state — chat experiment (last updated: 2026-10-01 14:05 UTC)
 
 - **Run 6 done:** 69.5M, offline test 28% (run 5 22%); `train/test_run6/` (compare_run5.md).
