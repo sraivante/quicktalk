@@ -340,4 +340,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   process pool on every core, writes to the local disk and copies to Drive once; prepare writes token ids with numpy
   instead of a Python loop. Local checks: cleaned text and token files are byte-identical to the old code; cleaning
   3x faster on 4 cores (expected ~6-8x on Colab). Notebook: cells 1-5 run on a CPU runtime (no A100 needed), cell 6
-  asserts an A100 before training. Drive copy v10 (see HANDOVER). Finished shards from the running session are kept.
+  asserts an A100 before training. Drive copy quicktalk_train_run8_v10.ipynb (id 1tEDaa_tfpnPY8Rsy39DMbjLBqC-1x-Qf). Finished shards from the running session are kept.
