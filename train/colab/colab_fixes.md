@@ -290,3 +290,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   Chat-only notebook set to run 7c: patterns 2x, 2 passes (pattern rows seen 4x), behaviour cap 25,000, lr 1e-4,
   eval every 100 steps, keep-best. Smoke-tested on CPU.
   Run 7c notebook on Drive: id 17SdXfdM-kOsFD2LnarqQrnnyOe1n0oiI (7b notebook renamed done).
+- **Run 7c first attempt: "pretrain_final.pt not found".** While freeing Drive space, all model files were deleted
+  (both pretrain_final.pt copies, all sft_final.pt and all *_model.zip) and the Trash emptied. Change: chat-only
+  notebook cell 2 falls back to MyDrive/quicktalk_run7_model.zip (the user still has it locally): it extracts run 7's
+  chat model (sft_final.pt) as the start weights. So run 7c starts from run 7's chat model (same 1.9B-token
+  pretraining + run 7 chat training) instead of the bare pretrained model. Fallback logic tested locally.
