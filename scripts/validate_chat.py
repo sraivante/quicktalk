@@ -12,7 +12,8 @@ TYPES = {  # type: (min pairs, max pairs, min words per assistant turn, max word
     'comprehension': (1, 1, 3, 65), 'writing': (1, 1, 20, 180), 'usage': (1, 1, 12, 90), 'hinglish_esl': (1, 3, 4, 110),
     'summary': (1, 1, 6, 90), 'literature': (1, 1, 5, 75), 'instruct': (1, 1, 2, 120), 'reasoning': (1, 1, 10, 90),
     'multi_question': (1, 1, 15, 200), 'dont_know': (1, 1, 8, 70),
-    'math': (1, 1, 1, 260),   # run 7: converted maths Q&A (laghumath curriculum, GSM8K word problems)
+    'math': (1, 1, 1, 260),
+    'messy_question': (1, 1, 15, 90), 'json_output': (1, 1, 3, 120), 'context_qa': (1, 1, 3, 60), 'greeting': (1, 3, 2, 45),   # run 7: converted maths Q&A (laghumath curriculum, GSM8K word problems)
 }
 UNSURE = re.compile(r"\b(i don't know|i do not know|i'm not sure|i am not sure|i can't (see|check|know|tell|look up|be sure)|"
                     r"i cannot (see|check|know|tell|look up|be sure)|i have no way|i don't have|i do not have|"
@@ -104,6 +105,21 @@ for i, line in enumerate(open(path, encoding='utf-8'), 1):
     if run8 and t == 'writing' and md.get('kind') == 'story':
         if not 80 <= len(a0.split()) <= 150: F(i, f'run 8: story has {len(a0.split())} words (80-150)')
     if run8 and t == 'multi_question' and md.get('n_questions') != 2: F(i, 'run 8: multi_question has exactly 2 questions')
+    if run8 and t == 'dont_know' and len(a0.split()) > 40: F(i, f'run 8: dont_know reply has {len(a0.split())} words (max 40)')
+    if t == 'json_output':
+        try:
+            jv = json.loads(a0)
+            if isinstance(jv, dict) and md.get('keys') and list(jv.keys()) != md['keys']: F(i, f'JSON keys {list(jv.keys())} != metadata.keys {md["keys"]}')
+            if isinstance(jv, dict) and not md.get('keys'): F(i, 'json_output needs metadata.keys (top-level keys)')
+        except Exception as e: F(i, f'assistant reply is not valid JSON only ({e})')
+    if t == 'context_qa':
+        k = md.get('kind')
+        if k not in ('in_context', 'general', 'unknown'): F(i, 'context_qa needs metadata.kind in_context/general/unknown')
+        elif k == 'general' and not a0.startswith("The text doesn't say, but"): F(i, 'general: reply must start "The text doesn\'t say, but"')
+        elif k == 'unknown' and not (a0.startswith("The text doesn't say,") and re.search(r"\b(don't know|can't know|cannot know)\b", a0)): F(i, 'unknown: reply must start "The text doesn\'t say," and say it does not know')
+        elif k == 'in_context' and a0.startswith("The text doesn't say"): F(i, 'in_context: answer from the text')
+        if len(u0.split()) < 45: F(i, 'context_qa: user turn needs a 40-180 word context plus a question')
+    if t == 'messy_question' and len(re.split(r'(?<=[.!?])\s+', a0.strip())) < 2: F(i, 'messy_question: first a one-sentence restatement, then the answer')
     if t == 'dont_know' and not UNSURE.search(a0): F(i, 'dont_know answer must say plainly that it does not know / cannot check')
     if t in ('vocab', 'usage') and len(re.findall(r'[.!?]', a0)) < 2: W(i, f'{t} answer should include an example sentence')
     if t in ('comprehension', 'summary', 'rewrite') and src.startswith('book:'):

@@ -128,6 +128,26 @@ New examples go to `train/chat_r8/<type>.jsonl` (ids `<type>-r8-NNNN`; stories `
   word choice, conjunction. The corrected text itself is not changed unless it is wrong. When the sentence is already
   correct, the line is `Why: no error (<rule>: "<phrase>" is correct).`
 
+## Run 8 capabilities (agreed with the user 2026-10-02: keep every earlier type and rule, add these as the focus)
+
+The user's six goals: (1) understand messy or misspelled questions and answer them (or say politely it does not
+know), (2) answer in a JSON structure when asked, (3) answer from a given context, or from its own knowledge when the
+context lacks it, (4) greet and stay polite, (5) say "I don't know" politely and briefly, never a meaningless
+paragraph, (6) answer questions about given passages. New rows go to `train/chat_r8/<type>.jsonl`
+(ids `<type>-r8-NNNN`); validate with `python3 scripts/validate_chat.py <file> --type <type> --short-why --run8`.
+
+| type | turns | user | assistant | length (assistant words) |
+|---|---|---|---|---|
+| messy_question (new, 1,500) | 1 | an everyday question written badly: 2+ real misspellings, missing words, ESL word order or text-speak ("I wat fli a plain what should i do", "hw to make tea wit milk"); vary how messy (light / heavy) | first ONE short sentence that states the understood question plainly ("You want to learn to fly a plane." / "You're asking how to make milk tea."), then the answer in 1-4 plain sentences. If it is something the model cannot know or a specialist matter (medical, legal, money), the answer part is a polite short don't-know with one safe next step. Never comment on the spelling, never "correct" the user unless asked | 15-90 |
+| json_output (new, 1,500) | 1 | asks for the answer as JSON: names the keys ("as JSON with keys name, age, city"), gives an example shape, or just says "in JSON"; kinds: extract facts from a short given text, answer a question as fields, list items, classify (sentiment, topic, yes/no), convert a sentence into fields | ONLY the JSON (no code fences, no words before or after), valid, double quotes, keys exactly as asked (snake_case when not given), values correct and supported by the text; arrays for lists; numbers as numbers; null when the text lacks a value. Set `metadata.keys` to the top-level keys | 3-120 |
+| context_qa (new, 2,000) | 1 | a short context (40-180 words: a notice, message, note, short article, story bit; generated, never copied from books) + one question. `metadata.kind`: `in_context` (50%), `general` (30%: the text lacks it but it is common knowledge), `unknown` (20%: neither) | in_context: the answer from the text in own words (1-2 sentences). general: starts "The text doesn't say, but" + the common-knowledge answer. unknown: starts "The text doesn't say," + "and I don't know" (or "and I can't know that") + one short next step. Never invent details | 3-60 |
+| greeting (new, 800) | 1-3 | greetings, how-are-you, thanks, goodbyes, introductions, apologies, compliments, "good morning/night", festival wishes; sometimes followed by a small request in the same chat | warm, polite, short; returns the greeting, may ask ONE friendly question back; when a request follows, greet briefly then help | 2-45 |
+| dont_know (+500, run 8 rule for new rows) | 1 | as before, plus topics outside its knowledge (specialist, very recent, private, exact niche facts) | polite and SHORT: says it does not know or cannot check, one-sentence reason, one safe next step. At most 40 words, no padding, no lecture | 8-40 |
+| comprehension (+1,500, generated passages) | 1 | a generated passage (80-220 words, everyday Indian/international settings; `source: generated`) + one question; 50% literal (who/what/where/when), 50% inference (why, how did X feel, what will probably happen, what does this show) | the answer, 1-2 sentences, supported by the passage; inference answers give the clue from the text ("because she ...") | 5-50 |
+
+Safety rule 6 applies to all of them (no medical, legal or financial advice; messy questions about health/money get
+a polite pointer to a doctor / trusted adult / official source).
+
 ## Pilot
 
 Write 20 examples per assigned type into `train/pilot/<type>.jsonl`, ids `<type>-p0001`.., then run
