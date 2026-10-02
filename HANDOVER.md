@@ -586,3 +586,4 @@ python3 scripts/export_dataset.py
 - 01:40 Run 7b: test 40% but held-out loss worse than run 7 (memorised; see colab_fixes). Run 7c notebook ready (less repetition + keep-best).
 - 01:55 Drive cleanup deleted all model files incl. pretrain_final.pt; 7c notebook now starts from run 7's chat model via MyDrive/quicktalk_run7_model.zip (user re-uploads it).
 - 02:35 Run 7c: test 25%, held-out ~run 7 (old types) and better on new formats. Waiting for SmolLM2-135M reference answers (Colab).
+- 04:19 SmolLM2-135M-Instruct reference: 9% on our 375-question test (run 7 29%, run 6 28%, run 5 22%); grammar 0%, rewrites 0%; fluent but does not do our task formats. train/test_smollm2/.

@@ -304,3 +304,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   multi_question 1.85->1.71, multiturn 2.84->2.68, stories 3.39->2.88. So 7c ~ run 7 on old skills and a little better
   on the new formats, but the offline test drops 4 points: the chat-mix changes move results only a few points.
   Fix: newer transformers returns a dict from apply_chat_template(return_tensors=...); test_hf_model.py now renders the chat text and tokenizes it (works on old and new versions). First Colab try wrote 0 answers.
+- SmolLM2-135M-Instruct reference test done (Colab T4, 375 answers, 44 min): 9% overall vs run 7 29%; train/test_smollm2/report.md and compare_runs.md.
