@@ -276,3 +276,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   tokens; mix behaviour 22%, multiturn 20%, writing+stories 14%, multi_question 11%. Note: the chat eval set changed
   slightly with the rebuild (new rows in some eval types), so 7b's chat eval loss is close to, not exactly comparable
   with, run 7's 2.168; the offline 375-question test stays the comparison.
+- **Run 7b done 00:50 UTC 2026-10-02** (chat-only from run 7 pretrain_final.pt, with run 8 chat data): 1,251 sft steps,
+  4.4 min; zip quicktalk_run7b_model.zip (362 MB, Drive id 1_M9YcLXJOHmwFWrQcCckEdY4NckyMuRg), sent in 35 parts.
+  Overfitting: train loss 1.11 -> 0.49 while chat eval loss was best at step 400 (2.28) and ended 2.43 (run 7: 2.17;
+  eval set slightly changed and ~75% behaviour, which 7b trained on much less). Patterns x4 x 3 passes = each pattern
+  row seen 12 times: too many. Offline test into train/test_run7b/.
