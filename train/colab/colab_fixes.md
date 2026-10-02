@@ -289,3 +289,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (saves sft_best.pt at the lowest eval and makes it the final model) and evals now use the same batches every time.
   Chat-only notebook set to run 7c: patterns 2x, 2 passes (pattern rows seen 4x), behaviour cap 25,000, lr 1e-4,
   eval every 100 steps, keep-best. Smoke-tested on CPU.
+  Run 7c notebook on Drive: id 17SdXfdM-kOsFD2LnarqQrnnyOe1n0oiI (7b notebook renamed done).
