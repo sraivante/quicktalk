@@ -21,6 +21,15 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 - **Drive decision made:** ~350 GB free -> full ~10B tokens. Run 8 notebook (train/colab/quicktalk_train.ipynb) ready:
   digit tokenizer, block 1024, 10 FineWeb shards, focus types 3x. Waiting for the user to run it on Colab.
 
+- **HellaSwag (2026-10-02, train/test_hellaswag/results.md):** run 7 29.8%, run 7c 29.7% (chat models), SmolLM2-135M
+  base 43.1%, instruct 42.9% (acc_norm, same scorer; random 25%). Run 7 = GPT-2-small level; gap to SmolLM2 = data.
+- **Run 8 status (2026-10-02 ~08:30 UTC):** user switched the running A100 session to the all-cores code (cell 3 re-run,
+  then cell 5): FineWeb shards now ~2 min each (was ~17.5). All 10 shards + wordnet + soda done; tinystories /
+  simplewiki, tokenizer, token files next; pretraining expected to start ~10:10 UTC, finish ~21:30-22:30 UTC.
+  CHECK: Drive lists fineweb10bt_07.txt at 0.87 GB (others ~3.3 GB): it overwrote the stopped run's partial .tmp and
+  the Drive upload may lag. After prepare, compare data/pretrain_train_parts/*fineweb10bt_07*.bin with the others
+  (~0.8B tokens); if small, re-make shard 07 (delete it, re-run fetch) before any future run.
+
 ## Next action (run 8)
 
 0. DONE 2026-10-02: all-cores FineWeb cleaning + numpy token writing + data prep on CPU runtime (notebook v10, Drive id
