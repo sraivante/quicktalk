@@ -296,3 +296,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   chat model (sft_final.pt) as the start weights. So run 7c starts from run 7's chat model (same 1.9B-token
   pretraining + run 7 chat training) instead of the bare pretrained model. Fallback logic tested locally.
   Run 7c notebook v2 on Drive: id 1n5KuMT7h_CKs_W_hu4DGjpmI9hydoHEm (v1 renamed old).
+- SmolLM2-135M-Instruct reference test: huggingface.co is blocked in the Claude sandbox, so train/colab/smollm2_reference_test.ipynb (Drive id 1uqM3en_1WHMYt7MsKE0hFISNVP2mrlZ5) answers the 375 questions in Colab (scripts/test_hf_model.py, same decoding) into MyDrive/smollm2_135m_answers.jsonl; graded here like the runs.
