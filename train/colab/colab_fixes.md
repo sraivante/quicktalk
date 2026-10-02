@@ -281,3 +281,11 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   Overfitting: train loss 1.11 -> 0.49 while chat eval loss was best at step 400 (2.28) and ended 2.43 (run 7: 2.17;
   eval set slightly changed and ~75% behaviour, which 7b trained on much less). Patterns x4 x 3 passes = each pattern
   row seen 12 times: too many. Offline test into train/test_run7b/.
+- **Run 7b result and run 7c prep.** 7b offline test 40% (run 7 29%), but on held-out chats (eval rows held out for
+  both models) 7b's loss is WORSE than run 7 for every comparable type (behaviour 2.43 vs 2.16, comprehension 2.25 vs
+  1.97, instruct 2.78 vs 2.51, vocab 2.78 vs 2.54, reasoning 3.52 vs 3.16, hinglish 2.05 vs 1.81); on the 21 held-out
+  run 8 rows: multi_question 1.45 vs 1.85, writing 3.25 vs 3.39 (better), multiturn 3.00 vs 2.84 (worse). So the test
+  gain is mostly memorisation (the test questions come from training data). Change: quicktalk_lm.py `train --keep-best`
+  (saves sft_best.pt at the lowest eval and makes it the final model) and evals now use the same batches every time.
+  Chat-only notebook set to run 7c: patterns 2x, 2 passes (pattern rows seen 4x), behaviour cap 25,000, lr 1e-4,
+  eval every 100 steps, keep-best. Smoke-tested on CPU.

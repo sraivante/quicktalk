@@ -399,6 +399,7 @@ def cmd_train(a):
     elif not a.allow_cpu: sys.exit('No GPU. Set the Colab runtime to A100 (or pass --allow-cpu for a local test).')
     ck = os.path.join(a.workdir, 'checkpoints'); os.makedirs(ck, exist_ok=True)
     latest, final = os.path.join(ck, f'{a.stage}_latest.pt'), os.path.join(ck, f'{a.stage}_final.pt')
+    bestf = os.path.join(ck, f'{a.stage}_best.pt')
     if os.path.exists(final) and not a.force: log(f'{a.stage} already finished: {final}'); return
     cfg = dict(vocab=plan['vocab'], d=plan['d'], layers=plan['layers'], heads=plan['heads'], block=plan['block'],
                dropout=plan['dropout'] if a.stage == 'pretrain' else 0.0)
@@ -442,7 +443,7 @@ def cmd_train(a):
         return lr * (0.1 + 0.9 * 0.5 * (1 + math.cos(math.pi * min(1.0, (i - warm) / max(1, steps - warm)))))
     @torch.no_grad()
     def evaluate():
-        cmodel.eval(); ls = []
+        cmodel.eval(); ls = []; val.rng = np.random.default_rng(7)   # same eval batches every time, so evals compare
         for _ in range(a.eval_batches):
             x, y, m = val.batch(B, dev)
             with amp: ls.append(cmodel(x, y, m)[1].item())
@@ -465,14 +466,23 @@ def cmd_train(a):
             tps = a.log_every * B * cfg['block'] / (time.time() - t0); t0 = time.time()
             log(f'{a.stage} step {step}/{steps} loss {loss.item():.4f} lr {lr_at(step):.2e} {tps / 1e3:.0f}k tok/s')
         if step % a.eval_every == 0 or step == steps:
-            v = evaluate(); best = min(best, v)
+            v = evaluate()
             log(f'  eval loss {v:.4f} (ppl {math.exp(min(v, 20)):.1f})')
+            if a.keep_best and v < best:              # --keep-best: remember the weights with the lowest eval loss
+                torch.save({'model': model.state_dict(), 'cfg': cfg, 'stage': a.stage, 'step': step, 'eval': v}, bestf + '.tmp')
+                os.replace(bestf + '.tmp', bestf); log(f'  best so far (step {step}): {bestf}')
+            best = min(best, v)
             logf.write(f'{step},{loss.item():.4f},{v:.4f}\n'); logf.flush()
         if step % a.ckpt_every == 0 or time.time() - t_ck > a.ckpt_minutes * 60:
             save_ckpt(latest, state()); t_ck = time.time(); log(f'  checkpoint saved at step {step}')
     save_ckpt(latest, state())
-    torch.save({'model': model.state_dict(), 'cfg': cfg, 'stage': a.stage, 'step': step}, final + '.tmp'); os.replace(final + '.tmp', final)
-    log(f'{a.stage} finished: {final}')
+    if a.keep_best and os.path.exists(bestf):        # the final model is the best-eval one, not the last step
+        b = torch.load(bestf, map_location='cpu', weights_only=False)
+        torch.save(b, final + '.tmp'); os.replace(final + '.tmp', final)
+        log(f'{a.stage} finished: {final} = best eval {b["eval"]:.4f} at step {b["step"]} (last step {step})')
+    else:
+        torch.save({'model': model.state_dict(), 'cfg': cfg, 'stage': a.stage, 'step': step}, final + '.tmp'); os.replace(final + '.tmp', final)
+        log(f'{a.stage} finished: {final}')
 
 # ----------------------------------------------------------------------------------------------- chat
 def cmd_chat(a):
@@ -542,6 +552,7 @@ def main():
     p.add_argument('--eval-batches', type=int, default=20)
     p.add_argument('--ckpt-every', type=int, default=200); p.add_argument('--ckpt-minutes', type=float, default=5)
     p.add_argument('--no-compile', action='store_true'); p.add_argument('--force', action='store_true')
+    p.add_argument('--keep-best', action='store_true', help='save the lowest-eval weights and use them as the final model')
     p.add_argument('--allow-cpu', action='store_true'); p.add_argument('--allow-any-gpu', action='store_true')
     p.add_argument('--data-dir', help='read token files from here instead of <workdir>/data')
     p.add_argument('--init-from', help='pretrain stage: start from these weights (e.g. run 5 pretrain_final.pt)')

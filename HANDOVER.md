@@ -583,3 +583,4 @@ python3 scripts/export_dataset.py
 - 23:58 Run 8 stories: 800 (writing, kind=story) in train/chat_r8/writing.jsonl, 4 batches each independently reviewed (112 fixed incl. ~30 child-safety fixes, ~25 near-duplicate plots rewritten). Dupes check vs all chat data running; then build_train.
 - 00:31 Run 8 data complete and built: train/build rebuilt (sft_train 78,295). Dupes check: 2 near repeats fixed (log train/chat_r8/critic/dupes_fix_log.jsonl). Run 7b notebook (Drive 1fhFY8f277yLe3SOcpDZg6ZWMAVvDfv8I) now trains on this data. Next: user runs 7b; test with test_model_run.py into train/test_run7b/.
 - 01:21 Run 7b received: chat eval best 2.28 at step 400, ended 2.43 (over-trained: patterns seen 12x). Offline test answers in train/test_run7b/, 3 graders running (calibrated on run 7).
+- 01:40 Run 7b: test 40% but held-out loss worse than run 7 (memorised; see colab_fixes). Run 7c notebook ready (less repetition + keep-best).
