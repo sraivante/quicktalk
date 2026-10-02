@@ -305,3 +305,15 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   on the new formats, but the offline test drops 4 points: the chat-mix changes move results only a few points.
   Fix: newer transformers returns a dict from apply_chat_template(return_tensors=...); test_hf_model.py now renders the chat text and tokenizes it (works on old and new versions). First Colab try wrote 0 answers.
 - SmolLM2-135M-Instruct reference test done (Colab T4, 375 answers, 44 min): 9% overall vs run 7 29%; train/test_smollm2/report.md and compare_runs.md.
+- **Run 8 pipeline (2026-10-02).** User has ~350 GB free on Google Drive, so run 8 uses the full plan. Changes in
+  quicktalk_lm.py: `tokenizer --digits` (pre-tokenizer splits every digit into its own token; run 7's BPE merged
+  digits, which is why maths failed); `fetch --sets fineweb_files --fineweb-files N --tmp DIR` downloads whole
+  FineWeb-Edu sample-10BT parquet shards one at a time (resumable per shard, parquet deleted after conversion to
+  fineweb10bt_NN.txt); `prepare --parts` writes one token file per source into data/pretrain_train_parts/ (finished
+  parts are skipped on re-run; training samples parts by size; counts() sums them). Main notebook set to run 8:
+  RUN quicktalk_run8, new digit tokenizer (no tokenizer copied from older runs), block 1024, 10 FineWeb shards +
+  earlier extra sets (~8-10B tokens), downloads kept on Drive in MyDrive/quicktalk_extra8, patterns 2x, behaviour cap
+  25,000, maths uncapped, 2 chat passes with keep-best (eval every 100 steps), pretrain checkpoints every 15 min,
+  plan guard expects > 5B tokens. Local CPU smoke test (digit tokenizer round-trip, prepare --parts incl. skip on
+  re-run, plan --block 1024, 4 pretrain + 4 sft steps with keep-best, chat) passed. Not run on Colab yet: wait until
+  the run 8 chat data is final in train/build.

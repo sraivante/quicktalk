@@ -104,6 +104,31 @@ def fetch_fineweb_edu(out, mb):
             if size >= mb * 1_000_000: break
     os.replace(out + '.tmp', out); log(f'fineweb_edu: {n:,} documents')
 
+def fetch_fineweb_files(out, n, tmp):
+    """Run 8: the first `n` parquet shards of FineWeb-Edu sample-10BT, one text file per shard (fineweb10bt_NN.txt).
+    Each shard downloads with resume; a finished shard is skipped on re-runs, so an interrupted fetch loses little."""
+    from huggingface_hub import HfApi, hf_hub_download
+    import pyarrow.parquet as pq
+    names = sorted(f for f in HfApi().list_repo_files('HuggingFaceFW/fineweb-edu', repo_type='dataset')
+                   if f.startswith('sample/10BT/') and f.endswith('.parquet'))[:n]
+    assert names, 'no FineWeb-Edu sample/10BT parquet files found'
+    for k, name in enumerate(names):
+        o = os.path.join(out, f'fineweb10bt_{k:02d}.txt')
+        if os.path.exists(o): log('exists, skipping', o); continue
+        src = hf_hub_download('HuggingFaceFW/fineweb-edu', name, repo_type='dataset', local_dir=tmp)
+        pf = pq.ParquetFile(src); cols = [c for c in ('text', 'int_score') if c in pf.schema_arrow.names]
+        docs = 0
+        with open(o + '.tmp', 'w', encoding='utf-8') as w:
+            for b in pf.iter_batches(batch_size=2000, columns=cols):
+                d = b.to_pydict()
+                for text, sc in zip(d['text'], d.get('int_score', [3] * len(d['text']))):
+                    if sc is not None and sc < 3: continue
+                    paras = [q.strip() for q in english_clean(text).split('\n') if len(q.split()) >= 8]
+                    if len(' '.join(paras).split()) < 80: continue
+                    w.write('\n'.join(paras) + '\n\n'); docs += 1
+        os.replace(o + '.tmp', o); os.remove(src)
+        log(f'fineweb10bt_{k:02d}: {docs:,} documents, {os.path.getsize(o) / 1e6:,.0f} MB ({k + 1}/{len(names)})')
+
 def fetch_soda(out):
     """SODA social dialogues (allenai/soda): the situation, then the conversation, one dialogue per block."""
     from datasets import load_dataset
@@ -119,9 +144,12 @@ def fetch_soda(out):
 
 def cmd_fetch(a):
     """Download extra English text as plain text into --out (one document per block, blank line between).
-    --sets picks which: tinystories, simplewiki (run 5), wordnet, fineweb_edu, soda (run 6). Existing files are kept."""
+    --sets picks which: tinystories, simplewiki (run 5), wordnet, fineweb_edu, soda (run 6), fineweb_files (run 8:
+    whole FineWeb-Edu sample-10BT shards, --fineweb-files of them). Existing files are kept."""
     os.makedirs(a.out, exist_ok=True)
     sets = a.sets.split(',')
+    if 'fineweb_files' in sets:
+        fetch_fineweb_files(a.out, a.fineweb_files, a.tmp or os.path.join(a.out, '_hf'))
     for name, fn in (('wordnet', lambda o: fetch_wordnet(o)), ('fineweb_edu', lambda o: fetch_fineweb_edu(o, a.fineweb_mb)),
                      ('soda', lambda o: fetch_soda(o))):
         if name not in sets: continue
@@ -186,11 +214,13 @@ def cmd_tokenizer(a):
                     if not chunk: break
                     got += len(chunk); yield chunk
     tok = Tokenizer(models.BPE())
-    tok.pre_tokenizer = pre_tokenizers.ByteLevel(add_prefix_space=False)
+    bl = pre_tokenizers.ByteLevel(add_prefix_space=False)
+    # run 8 --digits: every digit is its own token, so the model sees numbers digit by digit (maths)
+    tok.pre_tokenizer = pre_tokenizers.Sequence([pre_tokenizers.Digits(individual_digits=True), bl]) if a.digits else bl
     tok.decoder = decoders.ByteLevel()
     tr = trainers.BpeTrainer(vocab_size=a.vocab, min_frequency=2, special_tokens=SPECIALS,
                              initial_alphabet=pre_tokenizers.ByteLevel.alphabet())
-    log(f'training BPE tokenizer, vocab {a.vocab}')
+    log(f'training BPE tokenizer, vocab {a.vocab}' + (', single digits' if a.digits else ''))
     tok.train_from_iterator(texts(), trainer=tr)
     tok.save(out + '.tmp'); os.replace(out + '.tmp', out)
     log('saved', out)
@@ -264,7 +294,12 @@ def cmd_prepare(a):
     extra = sorted(glob.glob(os.path.join(a.extra, '*.txt'))) if a.extra else []
     reps = dict((k, int(v)) for k, v in (x.split('=') for x in a.extra_repeat))   # e.g. wordnet.txt=3
     extra = [p for p in extra for _ in range(reps.get(os.path.basename(p), 1))]
-    if not a.sft_only:                                                       # --sft-only: chat data only (chat-only re-run)
+    if a.sft_only: pass                                                      # --sft-only: chat data only (chat-only re-run)
+    elif a.parts:          # run 8: one token file per source file (pretrain_train_parts/); finished parts are skipped
+        pdir = os.path.join(d, 'pretrain_train_parts'); os.makedirs(pdir, exist_ok=True)
+        for k, p in enumerate(own + extra): write_text(os.path.join(pdir, f'{k:03d}_' + os.path.basename(p)[:-4]), [p])
+        write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
+    else:
         write_text('pretrain_train', own + extra)
         write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
     write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat, cap=a.cap)
@@ -342,7 +377,8 @@ def counts(workdir):
     d = os.path.join(workdir, 'data')
     n = lambda f, dt=np.uint16: (os.path.getsize(os.path.join(d, f)) // np.dtype(dt).itemsize
                                  if os.path.exists(os.path.join(d, f)) else 0)    # no pretrain files in a chat-only run
-    return {'pretrain_tokens': n('pretrain_train.bin'), 'sft_tokens': n('sft_train.bin'),
+    parts = sum(os.path.getsize(f) // 2 for f in glob.glob(os.path.join(d, 'pretrain_train_parts', '*.bin')))
+    return {'pretrain_tokens': n('pretrain_train.bin') or parts, 'sft_tokens': n('sft_train.bin'),
             'sft_trained_tokens': int(np.fromfile(os.path.join(d, 'sft_train_mask.bin'), dtype=np.uint8).sum()),
             'pretrain_val_tokens': n('pretrain_val.bin'), 'sft_val_tokens': n('sft_val.bin')}
 
@@ -365,7 +401,13 @@ def cmd_plan(a):
 class Data:
     def __init__(s, d, name, chat, block, seed):
         import numpy as np
-        s.ids = np.memmap(os.path.join(d, name + '.bin'), dtype=np.uint16, mode='r')
+        one = os.path.join(d, name + '.bin')
+        paths = [one] if os.path.exists(one) else sorted(glob.glob(os.path.join(d, name + '_parts', '*.bin')))
+        assert paths, f'no token file for {name} in {d}'
+        s.parts = [np.memmap(p, dtype=np.uint16, mode='r') for p in paths]
+        s.parts = [x for x in s.parts if len(x) > block + 1]
+        s.ids = s.parts[0]
+        w = np.array([len(x) - block - 1 for x in s.parts], dtype=np.float64); s.p = w / w.sum()   # windows per part
         s.mask = np.memmap(os.path.join(d, name + '_mask.bin'), dtype=np.uint8, mode='r') if chat else None
         s.starts = np.fromfile(os.path.join(d, name + '_starts.bin'), dtype=np.int64) if chat else None
         s.block, s.rng = block, np.random.default_rng(seed)
@@ -373,11 +415,14 @@ class Data:
         import numpy as np, torch
         hi = len(s.ids) - s.block - 1
         if s.starts is not None:   # chat: windows begin at a chat start
-            st = s.rng.choice(s.starts[s.starts < hi], B)
-        else:
-            st = s.rng.integers(0, hi, B)
-        x = np.stack([s.ids[i:i + s.block] for i in st]).astype(np.int64)
-        y = np.stack([s.ids[i + 1:i + 1 + s.block] for i in st]).astype(np.int64)
+            st = s.rng.choice(s.starts[s.starts < hi], B); src = [s.ids] * B
+        elif len(s.parts) == 1:
+            st = s.rng.integers(0, hi, B); src = [s.ids] * B
+        else:                      # several part files: pick a part (by size), then a window in it
+            src = [s.parts[k] for k in s.rng.choice(len(s.parts), B, p=s.p)]
+            st = [s.rng.integers(0, len(z) - s.block - 1) for z in src]
+        x = np.stack([z[i:i + s.block] for z, i in zip(src, st)]).astype(np.int64)
+        y = np.stack([z[i + 1:i + 1 + s.block] for z, i in zip(src, st)]).astype(np.int64)
         m = np.stack([s.mask[i + 1:i + 1 + s.block] for i in st]) if s.mask is not None else None
         t = lambda z: torch.from_numpy(z).to(device, non_blocking=True)
         return t(x), t(y), (t(m) if m is not None else None)
@@ -529,6 +574,7 @@ def main():
     p = sub.add_parser('tokenizer'); common(p, True); p.add_argument('--vocab', type=int, default=16384)
     p.add_argument('--extra', help='folder of extra text; a sample is used to train the tokenizer')
     p.add_argument('--extra-sample-mb', type=int, default=150)
+    p.add_argument('--digits', action='store_true', help='run 8: split numbers into single digits')
     p = sub.add_parser('prepare'); common(p, True)
     p.add_argument('--chat-repeat', type=int, default=1, help='repeat the 12 conversation-pattern types N times in sft_train')
     p.add_argument('--extra', help='folder of extra English pretraining text (*.txt) from the fetch command')
@@ -536,9 +582,12 @@ def main():
     p.add_argument('--extra-repeat', action='append', default=[], help='repeat one extra file, e.g. wordnet.txt=3')
     p.add_argument('--cap', action='append', default=[], help='keep at most N chats of a type, e.g. behaviour=15000 (math=0 drops it)')
     p.add_argument('--sft-only', action='store_true', help='write only the chat token files (chat-only re-run)')
+    p.add_argument('--parts', action='store_true', help='run 8: one pretraining token file per source (resumable)')
     p = sub.add_parser('fetch'); p.add_argument('--out', required=True)
     p.add_argument('--sets', default='tinystories,simplewiki', help='comma list: tinystories,simplewiki,wordnet,fineweb_edu,soda')
     p.add_argument('--fineweb-mb', type=int, default=1600, help='MB of FineWeb-Edu text to keep (~4 MB per 1M tokens)')
+    p.add_argument('--fineweb-files', type=int, default=10, help='fineweb_files: how many sample-10BT shards (~0.7-0.9B tokens each)')
+    p.add_argument('--tmp', help='folder for parquet downloads (deleted after conversion); default <out>/_hf')
     p = sub.add_parser('plan'); common(p)
     p.add_argument('--tokens-per-param', type=float, default=10.0)
     p.add_argument('--pretrain-epochs', type=int, default=4); p.add_argument('--sft-epochs', type=int, default=2)

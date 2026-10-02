@@ -7,26 +7,29 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ---
 
-## Current state — run 8 data (last updated: 2026-10-02 05:20 UTC)
+## Current state — run 8 data (last updated: 2026-10-02 06:00 UTC)
 
 - User chose **Path A** (keep training from scratch) with 6 focus capabilities, keeping all earlier specs:
   messy questions, JSON output, context QA, greeting/politeness, short polite don't-know, passage questions.
   Spec: train/spec/CHAT_PATTERNS.md "Run 8 capabilities"; validator `--run8`.
-- Staging in `.staging/r8/` (brief BRIEF.md, reviewer brief review/NEW_REVIEW.md, review logs in review/):
-  - Wave 1 written: greeting 800 (4x200, reviewed), json_output 1,500 (6x250; reviewed 1,2,3,5,6; 4 in review),
-    messy_question 1,500 (6x250; 6 reviewed, 1-5 in review). Name "Claude" removed from greeting rows.
-  - Wave 2 writing: context_qa 2,000 (8x250), dont_know +500 (2x250), comprehension +1,500 (6x250; 1-3 running,
-    4-6 queued: agent limit 20).
-- Held-out fair test `train/test_fair/testset.jsonl` (210 items, never trained on) written; independent review running.
-- Not committed yet. Run 8 notebook waits for the user's Drive-space choice: (a) token bin on Colab local disk,
-  (b) ~5B tokens.
+- Staging in `.staging/r8/` (brief BRIEF.md, reviewer brief review/NEW_REVIEW.md, logs in review/, merge.py merges
+  reviewed batches into train/chat_r8/<type>.jsonl, fair_dupes.py checks closeness to the held-out test).
+- **Committed** in train/chat_r8: greeting 800, json_output 1,500, messy_question 1,500, dont_know 500 (all reviewed by
+  a separate agent, cross-batch deduplicated, 0 FAIL/0 WARN, no near-copies of older rows or test_fair).
+- **In progress:** context_qa 2,000 (all 8 batches reviewed; cross-batch repeat fix running; also rewrites test item
+  story_003 that is close to writing-r8s-0361), comprehension 1,500 (all 6 reviewed; cross-batch fix running).
+- Held-out fair test `train/test_fair/testset.jsonl` (210 items) committed and independently reviewed.
+- **Drive decision made:** user has ~350 GB free on Drive -> full ~10B tokens. Run 8 pipeline + notebook done
+  (colab_fixes.md entry "Run 8 pipeline"); smoke-tested on CPU; NOT to be run until train/build is rebuilt.
 
 ## Next action (run 8)
 
-1. As each batch finishes: launch an opus reviewer (NEW_REVIEW.md prompt shape), then merge reviewed batches into
-   `train/chat_r8/<type>.jsonl`, validate `--run8`, dupes check (also against train/test_fair), rebuild train/build,
-   commit + push, update this file and colab_fixes if the pipeline changes.
-2. Run 8 notebook: digit tokenizer, context 1,024, ~10B tokens (or 5B), rebalanced mix, keep-best; grade on test_fair.
+1. When the two fixers finish: verify merged context_qa/comprehension (validate --run8, check_r6_dupes, fair_dupes),
+   commit them (+ test_fair story_003 change).
+2. Rebuild train/build (`python3 scripts/build_train.py`), check counts, commit; then tell the user the notebook is
+   ready (main notebook train/colab/quicktalk_train.ipynb, upload a copy to Drive). Expected ~1-2 h downloads,
+   2-4 h tokenizing, 11-14 h pretraining.
+3. After the run: grade on train/test_fair (fair) and the old 375-question test; compare with run 7 and SmolLM2.
 
 ## Current state — chat experiment (last updated: 2026-10-01 14:05 UTC)
 
