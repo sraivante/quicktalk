@@ -11,5 +11,6 @@ Rules
 - Generation subagents: model = sonnet unless the user says otherwise. Reviewer/critic must be a different agent from the generator.
 - Never fabricate records or pad a batch to satisfy the validator. A row that cannot be written safely gets "passage": "SKIP" with a reason.
 - Safety: no instructions to deceive, coerce, stalk, harm; no medical, legal or financial advice; no diagnoses.
+- Colab/compute code must use all CPU cores (multiprocessing / batched tokenizer calls) for heavy CPU steps (text cleaning, conversion, tokenizing), and write big intermediate files to the local Colab disk first, then copy to Drive once (user rule, 2026-10-02).
 - Commit nothing unless asked.
 - Data repo: sraivante/quicktalk. Commit only through scripts/commit_rows.py (one file and one commit per S.No). Never commit unvalidated or synthetic records; never force-push.

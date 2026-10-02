@@ -23,6 +23,9 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
 
 ## Next action (run 8)
 
+0. User rule (2026-10-02): heavy CPU steps in Colab code must use all cores. TODO after run 8's download stage is finished
+   (not mid-run): make `fetch_fineweb_files` clean documents with a process pool and write to local disk, then copy to
+   Drive (now ~17 min per shard on one core; expected ~2-4 min). Log in colab_fixes.md.
 1. User runs the run 8 notebook (Drive: quicktalk_train_run8_v9.ipynb, id 1hbPrDHidoaKU62cJbEKZoxgHniTmPSuu) on an A100 with the HF_TOKEN secret: ~1-2 h downloads, 2-4 h tokenizing,
    11-14 h pretraining, ~15 min chat. Help with any Colab errors (log every change in colab_fixes.md).
 2. After the run: user runs quicktalk_hellaswag_run8.ipynb (Drive id 1fLqduAcsdVFZqZpsekvdxONtG0xmly-f) in a new runtime; zip parts to the sandbox; answer train/test_fair (fair, held out) and the old 375-question test;
