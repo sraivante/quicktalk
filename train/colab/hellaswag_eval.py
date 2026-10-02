@@ -49,7 +49,8 @@ def main():
         logits_of = lambda x: model(x)[0]
         block, name = s['cfg']['block'], path
     n = right = right_norm = 0; t0 = time.time()
-    amp = torch.autocast('cuda', dtype=torch.bfloat16) if dev == 'cuda' else torch.autocast('cpu', enabled=False)
+    half = torch.bfloat16 if dev == 'cuda' and torch.cuda.is_bf16_supported() else torch.float16   # T4: float16
+    amp = torch.autocast('cuda', dtype=half) if dev == 'cuda' else torch.autocast('cpu', enabled=False)
     for ctx, ends, label in items(a):
         c = encode(ctx); scores, norms = [], []
         for e in ends:

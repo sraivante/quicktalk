@@ -329,3 +329,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   run 8 in its own runtime and folder (/content/qt_eval): base model, chat model, and SmolLM2-135M base with the same
   scorer. Results to MyDrive/quicktalk_run8/hellaswag_*.json. CPU smoke test on a toy checkpoint passed.
   Drive copy quicktalk_hellaswag_run8.ipynb (id 1fLqduAcsdVFZqZpsekvdxONtG0xmly-f).
+- **HellaSwag for earlier runs.** HellaSwag cannot be downloaded in the Claude sandbox (Hugging Face and GitHub
+  blocked; CPU would also take ~7 h per model), so train/colab/hellaswag_earlier_runs.ipynb scores the chat models in
+  MyDrive/quicktalk_run7_model.zip and quicktalk_run7c_model.zip (run 7's base model was deleted) plus SmolLM2-135M
+  base and instruct, in its own runtime/folder; results to MyDrive/hellaswag_results/. hellaswag_eval.py uses float16
+  on GPUs without bfloat16 (T4).
