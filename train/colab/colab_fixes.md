@@ -297,3 +297,9 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   pretraining + run 7 chat training) instead of the bare pretrained model. Fallback logic tested locally.
   Run 7c notebook v2 on Drive: id 1n5KuMT7h_CKs_W_hu4DGjpmI9hydoHEm (v1 renamed old).
 - SmolLM2-135M-Instruct reference test: huggingface.co is blocked in the Claude sandbox, so train/colab/smollm2_reference_test.ipynb (Drive id 1uqM3en_1WHMYt7MsKE0hFISNVP2mrlZ5) answers the 375 questions in Colab (scripts/test_hf_model.py, same decoding) into MyDrive/smollm2_135m_answers.jsonl; graded here like the runs.
+- **Run 7c result** (chat-only from run 7's CHAT model, run 8 data, patterns 2x, 2 passes, keep-best): eval best at
+  step 100 of 774 (1.994), so the final model is run 7 + 100 steps. Offline test 25% (run 7 29%, 7b 40%); no word-for-
+  word copies. Held-out loss (rows never trained on by 7 or 7c), run 7 -> 7c: behaviour 2.16->2.19, comprehension
+  1.97->2.00, instruct 2.51->2.51, vocab 2.54->2.60, reasoning 3.16->3.11, hinglish 1.81->1.80; new run 8 rows:
+  multi_question 1.85->1.71, multiturn 2.84->2.68, stories 3.39->2.88. So 7c ~ run 7 on old skills and a little better
+  on the new formats, but the offline test drops 4 points: the chat-mix changes move results only a few points.
