@@ -261,11 +261,12 @@ def cmd_prepare(a):
         os.replace(out + '.tmp', out)
         log(f'{name}: {total:,} tokens')
 
-    def write_chat(name, paths, repeat=1, cap=()):
+    def write_chat(name, paths, repeat=1, cap=(), type_repeat=()):
         out = os.path.join(d, name + '.bin')
         if os.path.exists(out): log('exists, skipping', out); return
         ids, mask, starts, types = [], [], [], []
         caps = dict((k, int(v)) for k, v in (x.split('=') for x in cap))      # e.g. behaviour=15000 math=0 (training set only)
+        trep = dict((k, int(v)) for k, v in (x.split('=') for x in type_repeat))   # run 8: e.g. json_output=3 overrides --chat-repeat
         def records():
             rows = list(iter_jsonl(paths))
             if caps:                                   # keep a fixed random sample of the capped types (seeded, so re-runs match)
@@ -278,7 +279,8 @@ def cmd_prepare(a):
                 log(f'{name}: capped ' + ', '.join(f'{t} to {len(keep[t]):,}' for t in caps))
             for r in rows:
                 t = r.get('metadata', {}).get('type', '?')
-                for _ in range(repeat if t not in ('behaviour', 'raga', 'math') else 1): yield r   # upsample conversation patterns (not behaviour, raga or the large math set)
+                n = trep.get(t, repeat if t not in ('behaviour', 'raga', 'math') else 1)   # upsample conversation patterns (not behaviour, raga or the large math set)
+                for _ in range(n): yield r
         for r in records():
             starts.append(len(ids)); types.append(r.get('metadata', {}).get('type', '?'))
             for text, train in chat_text(r['messages']):
@@ -302,7 +304,7 @@ def cmd_prepare(a):
     else:
         write_text('pretrain_train', own + extra)
         write_text('pretrain_val', [os.path.join(a.data, 'eval', 'pretrain_eval.txt')])
-    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat, cap=a.cap)
+    write_chat('sft_train', files(a.data, 'sft_train_*.jsonl'), repeat=a.chat_repeat, cap=a.cap, type_repeat=a.type_repeat)
     write_chat('sft_val', [os.path.join(a.data, 'eval', 'sft_eval_all.jsonl')])
 
 # ----------------------------------------------------------------------------------------------- model
@@ -582,6 +584,7 @@ def main():
     p.add_argument('--extra-repeat', action='append', default=[], help='repeat one extra file, e.g. wordnet.txt=3')
     p.add_argument('--cap', action='append', default=[], help='keep at most N chats of a type, e.g. behaviour=15000 (math=0 drops it)')
     p.add_argument('--sft-only', action='store_true', help='write only the chat token files (chat-only re-run)')
+    p.add_argument('--type-repeat', action='append', default=[], help='repeat one chat type N times (training set only), e.g. json_output=3')
     p.add_argument('--parts', action='store_true', help='run 8: one pretraining token file per source (resumable)')
     p = sub.add_parser('fetch'); p.add_argument('--out', required=True)
     p.add_argument('--sets', default='tinystories,simplewiki', help='comma list: tinystories,simplewiki,wordnet,fineweb_edu,soda')

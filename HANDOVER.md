@@ -14,22 +14,19 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   Spec: train/spec/CHAT_PATTERNS.md "Run 8 capabilities"; validator `--run8`.
 - Staging in `.staging/r8/` (brief BRIEF.md, reviewer brief review/NEW_REVIEW.md, logs in review/, merge.py merges
   reviewed batches into train/chat_r8/<type>.jsonl, fair_dupes.py checks closeness to the held-out test).
-- **Committed** in train/chat_r8: greeting 800, json_output 1,500, messy_question 1,500, dont_know 500 (all reviewed by
-  a separate agent, cross-batch deduplicated, 0 FAIL/0 WARN, no near-copies of older rows or test_fair).
-- **In progress:** context_qa 2,000 (all 8 batches reviewed; cross-batch repeat fix running; also rewrites test item
-  story_003 that is close to writing-r8s-0361), comprehension 1,500 (all 6 reviewed; cross-batch fix running).
+- **All run 8 data committed** in train/chat_r8 (greeting 800, json_output 1,500, messy_question 1,500, dont_know 500,
+  context_qa 2,000, comprehension 1,500; each reviewed by a separate agent, cross-batch deduplicated, 0 FAIL/0 WARN,
+  no near-copies of older rows or test_fair). train/build rebuilt: sft_train 86,015.
 - Held-out fair test `train/test_fair/testset.jsonl` (210 items) committed and independently reviewed.
-- **Drive decision made:** user has ~350 GB free on Drive -> full ~10B tokens. Run 8 pipeline + notebook done
-  (colab_fixes.md entry "Run 8 pipeline"); smoke-tested on CPU; NOT to be run until train/build is rebuilt.
+- **Drive decision made:** ~350 GB free -> full ~10B tokens. Run 8 notebook (train/colab/quicktalk_train.ipynb) ready:
+  digit tokenizer, block 1024, 10 FineWeb shards, focus types 3x. Waiting for the user to run it on Colab.
 
 ## Next action (run 8)
 
-1. When the two fixers finish: verify merged context_qa/comprehension (validate --run8, check_r6_dupes, fair_dupes),
-   commit them (+ test_fair story_003 change).
-2. Rebuild train/build (`python3 scripts/build_train.py`), check counts, commit; then tell the user the notebook is
-   ready (main notebook train/colab/quicktalk_train.ipynb, upload a copy to Drive). Expected ~1-2 h downloads,
-   2-4 h tokenizing, 11-14 h pretraining.
-3. After the run: grade on train/test_fair (fair) and the old 375-question test; compare with run 7 and SmolLM2.
+1. User runs the run 8 notebook (Drive copy) on an A100 with the HF_TOKEN secret: ~1-2 h downloads, 2-4 h tokenizing,
+   11-14 h pretraining, ~15 min chat. Help with any Colab errors (log every change in colab_fixes.md).
+2. After the run: zip parts to the sandbox; answer train/test_fair (fair, held out) and the old 375-question test;
+   grade with 3 independent agents; compare with run 7, 7c and SmolLM2; maths test (digit tokenizer).
 
 ## Current state — chat experiment (last updated: 2026-10-01 14:05 UTC)
 

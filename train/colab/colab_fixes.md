@@ -317,3 +317,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   plan guard expects > 5B tokens. Local CPU smoke test (digit tokenizer round-trip, prepare --parts incl. skip on
   re-run, plan --block 1024, 4 pretrain + 4 sft steps with keep-best, chat) passed. Not run on Colab yet: wait until
   the run 8 chat data is final in train/build.
+- **Run 8 data final; train/build rebuilt (2026-10-02).** sft_train 86,015 examples (+8,000 run 8 rows: messy_question
+  1,500, json_output 1,500, context_qa 2,000, greeting 800, dont_know +500, comprehension +1,500; 20 per new type held
+  out for eval). New `prepare --type-repeat type=N` (training set only) overrides --chat-repeat for one type; the
+  notebook repeats the six focus types 3x (other patterns 2x, behaviour cap 25,000, maths 1x). Resulting chat mix
+  (local prepare): 101,691 chats; behaviour 24.6%, maths 13.1%, the six focus types 29.2%. Notebook ready for run 8.
