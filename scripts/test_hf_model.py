@@ -23,7 +23,8 @@ with open(a.out, 'a', encoding='utf-8') as f:
     for n, it in enumerate(items, 1):
         if it['id'] in done: continue
         msgs = it['history'] + [{'role': 'user', 'content': it['question']}]
-        ids = tok.apply_chat_template(msgs, add_generation_prompt=True, return_tensors='pt').to(dev)
+        text = tok.apply_chat_template(msgs, add_generation_prompt=True, tokenize=False)   # text first: newer transformers
+        ids = tok(text, return_tensors='pt', add_special_tokens=False).input_ids.to(dev)   # return a dict, not a tensor
         with torch.no_grad():
             out = model.generate(ids, max_new_tokens=300 if it['category'] in LONG else 200, do_sample=False,
                                  repetition_penalty=a.rep_penalty, pad_token_id=tok.eos_token_id)
