@@ -328,3 +328,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (10,042 items, log-likelihood of each ending; acc and acc_norm) and train/colab/hellaswag_run8.ipynb runs it after
   run 8 in its own runtime and folder (/content/qt_eval): base model, chat model, and SmolLM2-135M base with the same
   scorer. Results to MyDrive/quicktalk_run8/hellaswag_*.json. CPU smoke test on a toy checkpoint passed.
+  Drive copy quicktalk_hellaswag_run8.ipynb (id 1fLqduAcsdVFZqZpsekvdxONtG0xmly-f).
