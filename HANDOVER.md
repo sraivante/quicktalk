@@ -581,3 +581,4 @@ python3 scripts/export_dataset.py
 - 23:52 Run 8 multiturn: 1,000 rows (8 batches generated, each independently reviewed, 225 fixed) in train/chat_r8/multiturn.jsonl; recall-style last turns ~15%.
 - 23:53 Run 8 multi_question final: 600 rows, 3 independent reviews + 2 repeat passes (45 rows changed), no repeated question within the file or vs chat_r6/r7.
 - 23:58 Run 8 stories: 800 (writing, kind=story) in train/chat_r8/writing.jsonl, 4 batches each independently reviewed (112 fixed incl. ~30 child-safety fixes, ~25 near-duplicate plots rewritten). Dupes check vs all chat data running; then build_train.
+- 00:31 Run 8 data complete and built: train/build rebuilt (sft_train 78,295). Dupes check: 2 near repeats fixed (log train/chat_r8/critic/dupes_fix_log.jsonl). Run 7b notebook (Drive 1fhFY8f277yLe3SOcpDZg6ZWMAVvDfv8I) now trains on this data. Next: user runs 7b; test with test_model_run.py into train/test_run7b/.

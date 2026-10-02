@@ -270,3 +270,9 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   copies run 7's tokenizer + pretrain_final.pt into MyDrive/quicktalk_run7b, prepare --sft-only --chat-repeat 4
   --cap behaviour=15000 --cap math=0, 3 passes, lr 1.5e-4. Mix after caps: patterns 72%, behaviour 28%; 81,148 chats,
   11.9M tokens. Local CPU smoke test (prepare, plan, 3 sft steps) passed.
+- **Run 8 chat data added to train/build (rebuild after Step 2).** sft_train 78,295 examples (+2,600 r8 rows: multiturn
+  1,000, stories 800, multi_question 600; grammar Why rule-name rewrite). The run 7b notebook clones the latest build,
+  so run 7b now also includes this data. With its caps (behaviour 15,000, math 0, patterns x4): 90,748 chats, 13.7M
+  tokens; mix behaviour 22%, multiturn 20%, writing+stories 14%, multi_question 11%. Note: the chat eval set changed
+  slightly with the rebuild (new rows in some eval types), so 7b's chat eval loss is close to, not exactly comparable
+  with, run 7's 2.168; the offline 375-question test stays the comparison.
