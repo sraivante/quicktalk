@@ -295,3 +295,4 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   notebook cell 2 falls back to MyDrive/quicktalk_run7_model.zip (the user still has it locally): it extracts run 7's
   chat model (sft_final.pt) as the start weights. So run 7c starts from run 7's chat model (same 1.9B-token
   pretraining + run 7 chat training) instead of the bare pretrained model. Fallback logic tested locally.
+  Run 7c notebook v2 on Drive: id 1n5KuMT7h_CKs_W_hu4DGjpmI9hydoHEm (v1 renamed old).
