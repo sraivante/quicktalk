@@ -2,3 +2,5 @@
 {"model": "quicktalk_run7c (sft_final.pt, chat)", "items": 10042, "acc": 0.2776, "acc_norm": 0.2967}
 {"model": "HuggingFaceTB/SmolLM2-135M", "items": 10042, "acc": 0.3547, "acc_norm": 0.4307}
 {"model": "HuggingFaceTB/SmolLM2-135M-Instruct", "items": 10042, "acc": 0.3497, "acc_norm": 0.4289}
+{"model": "quicktalk_run8 (pretrain_final.pt, base)", "items": 10042, "acc": 0.3012, "acc_norm": 0.3343}
+{"model": "quicktalk_run8 (sft_final.pt, chat)", "items": 10042, "acc": 0.3047, "acc_norm": 0.3363}

@@ -39,4 +39,5 @@ Greedy decoding, repetition penalty 1.3 (scripts/test_model_run.py). Grades: `gr
   material, which run 8's mix covers relatively less.
 - Maths (auto-graded): run 8 4%, run 7 6% (`train/test_math/report.md`). The digit tokenizer did not by itself teach
   arithmetic; worked digit-by-digit arithmetic data is needed.
-- HellaSwag: pending (user runs train/colab/hellaswag_run8.ipynb).
+- HellaSwag (common sense, train/test_hellaswag/results.md): run 8 33.6% (chat) / 33.4% (base) vs run 7 29.8%,
+  SmolLM2-135M 43.1%.

@@ -10,6 +10,8 @@ characters) is the number usually published. Scorer: `train/colab/hellaswag_eval
 | random guessing | - | - | 25.0% | 25.0% |
 | run 7 (chat model) | 97.6M | ~2B tokens | 27.95% | **29.8%** |
 | run 7c (chat model) | 97.6M | ~2B tokens (+ chat re-run) | 27.76% | **29.7%** |
+| run 8 (base model) | 97.6M | 8.23B tokens, digit tokenizer, 1,024 context | 30.12% | **33.4%** |
+| run 8 (chat model) | 97.6M | same + run 8 chat data | 30.47% | **33.6%** |
 | SmolLM2-135M (base) | 135M | ~2T tokens | 35.47% | **43.1%** |
 | SmolLM2-135M-Instruct | 135M | ~2T tokens | 34.97% | **42.9%** |
 
@@ -29,7 +31,13 @@ MobileLLM-125M ~39%, SmolLM2-135M ~42% (our scorer gives 43.1%, so it matches th
 - HellaSwag measures general common sense only. It does not measure our six focus skills (messy questions, JSON,
   answers from a given text, greetings, polite "I don't know", passages); `train/test_fair/` does.
 
-## Expectation for run 8
+## Run 8 result (2026-10-03)
+
+Run 8 scores 33.4% (base) / 33.6% (chat), +3.8 points over run 7 (29.8%), at the top of the 31-34% expected range:
+above GPT-2 small (~30%), still ~10 points below SmolLM2-135M (43.1%, trained on ~250x more tokens). Scoring took
+~15 s per model on the A100 with the batched, all-cores scorer (was ~12 min per model one item at a time).
+
+## Expectation for run 8 (written before the run)
 
 Run 8 (same 97.6M size, ~8-9B tokens, digit tokenizer, 1,024 context): roughly 31-34% acc_norm. Score it with
 `train/colab/hellaswag_run8.ipynb` after training (base model and chat model, same scorer). Reaching SmolLM2-135M's
