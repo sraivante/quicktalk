@@ -348,3 +348,7 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   eval 2.06 -> best 1.887 at step 500 (final model = step 500, keep-best). Zip MyDrive/quicktalk_run8_model.zip
   (363 MB, Drive id 1wz-qqP5QB9wXX0qLbMzX0m5TQt0WF2hz) at 20:48 UTC. Losses are not directly comparable with run 7
   (new digit tokenizer, new chat eval set); compare by tests.
+- **HellaSwag run 8 notebook v2.** train/colab/hellaswag_run8.ipynb rewritten: scores run 8 base (pretrain_final.pt) and
+  chat (sft_final.pt) into MyDrive/hellaswag_results/quicktalk_run8_{base,chat}.json (skips finished ones), drops the
+  SmolLM2 re-run (already scored: 43.1%), prints the full comparison. Drive copy quicktalk_hellaswag_run8_v2.ipynb
+  (id 1d3jtl1CW_FRr9cDZdX_ni_sUH6y-Wjtt).
