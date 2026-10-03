@@ -35,6 +35,13 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   sandbox, run train/test_fair + old 375-question test + maths test, grade with 3 independent agents, compare with
   run 7/7c/SmolLM2; user runs quicktalk_hellaswag_run8.ipynb for HellaSwag.
 
+- **RUN 8 RESULTS (2026-10-03):** fair held-out test (blind, 3 graders) run 8 46% vs run 7 23% / 7c 26%; six focus skills
+  52% vs 23% (context_qa 67% vs 17%, greeting 75% vs 25%, JSON valid 90% vs 0%, messy 28% vs 2%, dont_know 90% vs
+  80%). Old 375-question test 28.2% (run 7 29.0%). Maths 4% (run 7 6%): digit tokenizer alone did not help.
+  Reports: train/test_fair/report.md, train/test_run8/report.md, train/test_math/report.md. HellaSwag pending.
+  Ideas for run 9: worked arithmetic data; JSON rows penalising extra keys; context_qa "general" + passage inference
+  rows; FineWeb-Edu score 4-5 upweight, source tags, dedup; re-make fineweb10bt_07; H100 if available.
+
 ## Next action (run 8)
 
 0. DONE 2026-10-02: all-cores FineWeb cleaning + numpy token writing + data prep on CPU runtime (notebook v10, Drive id

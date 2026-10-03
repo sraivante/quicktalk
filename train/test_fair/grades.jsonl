@@ -1,0 +1,630 @@
+{"id": "messy_question_001", "model": "run8", "grade": 0.5, "note": "A restates, tips muddled"}
+{"id": "messy_question_001", "model": "run7c", "grade": 0.0, "note": "A restates, tips muddled"}
+{"id": "messy_question_001", "model": "run7", "grade": 0.0, "note": "A restates, tips muddled"}
+{"id": "messy_question_002", "model": "run8", "grade": 0.0, "note": "no answer; echoes or nonsense"}
+{"id": "messy_question_002", "model": "run7", "grade": 0.0, "note": "no answer; echoes or nonsense"}
+{"id": "messy_question_002", "model": "run7c", "grade": 0.0, "note": "no answer; echoes or nonsense"}
+{"id": "messy_question_003", "model": "run7c", "grade": 0.0, "note": "B restates, size right, wind speeds wrong"}
+{"id": "messy_question_003", "model": "run8", "grade": 0.5, "note": "B restates, size right, wind speeds wrong"}
+{"id": "messy_question_003", "model": "run7", "grade": 0.0, "note": "B restates, size right, wind speeds wrong"}
+{"id": "messy_question_004", "model": "run7c", "grade": 0.0, "note": "B misreads but suggests practice"}
+{"id": "messy_question_004", "model": "run8", "grade": 0.5, "note": "B misreads but suggests practice"}
+{"id": "messy_question_004", "model": "run7", "grade": 0.0, "note": "B misreads but suggests practice"}
+{"id": "messy_question_005", "model": "run7c", "grade": 0.0, "note": "B ten minutes right, then wrong simmer advice"}
+{"id": "messy_question_005", "model": "run8", "grade": 0.5, "note": "B ten minutes right, then wrong simmer advice"}
+{"id": "messy_question_005", "model": "run7", "grade": 0.0, "note": "B ten minutes right, then wrong simmer advice"}
+{"id": "messy_question_006", "model": "run8", "grade": 0.5, "note": "A restates, partial letter, no structure"}
+{"id": "messy_question_006", "model": "run7", "grade": 0.0, "note": "A restates, partial letter, no structure"}
+{"id": "messy_question_006", "model": "run7c", "grade": 0.0, "note": "A restates, partial letter, no structure"}
+{"id": "messy_question_007", "model": "run7", "grade": 0.0, "note": "B morning, wrong reason; A,C no clear answer"}
+{"id": "messy_question_007", "model": "run8", "grade": 0.5, "note": "B morning, wrong reason; A,C no clear answer"}
+{"id": "messy_question_007", "model": "run7c", "grade": 0.0, "note": "B morning, wrong reason; A,C no clear answer"}
+{"id": "messy_question_008", "model": "run7", "grade": 0.0, "note": "none explains scattering"}
+{"id": "messy_question_008", "model": "run8", "grade": 0.0, "note": "none explains scattering"}
+{"id": "messy_question_008", "model": "run7c", "grade": 0.0, "note": "none explains scattering"}
+{"id": "messy_question_009", "model": "run8", "grade": 0.0, "note": "C sensible apology, no restatement"}
+{"id": "messy_question_009", "model": "run7", "grade": 0.0, "note": "C sensible apology, no restatement"}
+{"id": "messy_question_009", "model": "run7c", "grade": 0.5, "note": "C sensible apology, no restatement"}
+{"id": "messy_question_010", "model": "run8", "grade": 0.0, "note": "no LBW expansion"}
+{"id": "messy_question_010", "model": "run7", "grade": 0.0, "note": "no LBW expansion"}
+{"id": "messy_question_010", "model": "run7c", "grade": 0.0, "note": "no LBW expansion"}
+{"id": "messy_question_011", "model": "run8", "grade": 0.0, "note": "A restates but fold steps wrong"}
+{"id": "messy_question_011", "model": "run7", "grade": 0.0, "note": "A restates but fold steps wrong"}
+{"id": "messy_question_011", "model": "run7c", "grade": 0.0, "note": "A restates but fold steps wrong"}
+{"id": "messy_question_012", "model": "run8", "grade": 0.5, "note": "A,B vague tips assuming partners, no restatement"}
+{"id": "messy_question_012", "model": "run7c", "grade": 0.5, "note": "A,B vague tips assuming partners, no restatement"}
+{"id": "messy_question_012", "model": "run7", "grade": 0.0, "note": "A,B vague tips assuming partners, no restatement"}
+{"id": "messy_question_013", "model": "run7", "grade": 0.5, "note": "A says not okay, nonsense reason; C needless decline"}
+{"id": "messy_question_013", "model": "run7c", "grade": 0.0, "note": "A says not okay, nonsense reason; C needless decline"}
+{"id": "messy_question_013", "model": "run8", "grade": 0.0, "note": "A says not okay, nonsense reason; C needless decline"}
+{"id": "messy_question_014", "model": "run7", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_014", "model": "run8", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_014", "model": "run7c", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_015", "model": "run7c", "grade": 0.0, "note": "all facts wrong"}
+{"id": "messy_question_015", "model": "run7", "grade": 0.0, "note": "all facts wrong"}
+{"id": "messy_question_015", "model": "run8", "grade": 0.0, "note": "all facts wrong"}
+{"id": "messy_question_016", "model": "run7", "grade": 0.0, "note": "B partly right meaning, bad example; C wrong"}
+{"id": "messy_question_016", "model": "run7c", "grade": 0.5, "note": "B partly right meaning, bad example; C wrong"}
+{"id": "messy_question_016", "model": "run8", "grade": 0.0, "note": "B partly right meaning, bad example; C wrong"}
+{"id": "messy_question_017", "model": "run7c", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_017", "model": "run8", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_017", "model": "run7", "grade": 0.0, "note": "no answer"}
+{"id": "messy_question_018", "model": "run7", "grade": 0.0, "note": "none gives sensible tips"}
+{"id": "messy_question_018", "model": "run8", "grade": 0.0, "note": "none gives sensible tips"}
+{"id": "messy_question_018", "model": "run7c", "grade": 0.0, "note": "none gives sensible tips"}
+{"id": "messy_question_019", "model": "run7c", "grade": 0.5, "note": "A,B gas right plus invented claims"}
+{"id": "messy_question_019", "model": "run8", "grade": 0.5, "note": "A,B gas right plus invented claims"}
+{"id": "messy_question_019", "model": "run7", "grade": 0.0, "note": "A,B gas right plus invented claims"}
+{"id": "messy_question_020", "model": "run8", "grade": 0.0, "note": "none says 11"}
+{"id": "messy_question_020", "model": "run7", "grade": 0.0, "note": "none says 11"}
+{"id": "messy_question_020", "model": "run7c", "grade": 0.0, "note": "none says 11"}
+{"id": "messy_question_021", "model": "run7c", "grade": 0.0, "note": "C garbled restatement, ask teacher"}
+{"id": "messy_question_021", "model": "run7", "grade": 0.0, "note": "C garbled restatement, ask teacher"}
+{"id": "messy_question_021", "model": "run8", "grade": 0.5, "note": "C garbled restatement, ask teacher"}
+{"id": "messy_question_022", "model": "run8", "grade": 0.5, "note": "A restates, misses warm clothes"}
+{"id": "messy_question_022", "model": "run7", "grade": 0.0, "note": "A restates, misses warm clothes"}
+{"id": "messy_question_022", "model": "run7c", "grade": 0.0, "note": "A restates, misses warm clothes"}
+{"id": "messy_question_023", "model": "run7c", "grade": 0.0, "note": "no correct translation; B endorses Hinglish"}
+{"id": "messy_question_023", "model": "run7", "grade": 0.0, "note": "no correct translation; B endorses Hinglish"}
+{"id": "messy_question_023", "model": "run8", "grade": 0.0, "note": "no correct translation; B endorses Hinglish"}
+{"id": "messy_question_024", "model": "run7c", "grade": 0.0, "note": "no 206"}
+{"id": "messy_question_024", "model": "run7", "grade": 0.0, "note": "no 206"}
+{"id": "messy_question_024", "model": "run8", "grade": 0.0, "note": "no 206"}
+{"id": "messy_question_025", "model": "run7c", "grade": 0.5, "note": "A blunt wording; C vague polite line"}
+{"id": "messy_question_025", "model": "run7", "grade": 0.0, "note": "A blunt wording; C vague polite line"}
+{"id": "messy_question_025", "model": "run8", "grade": 0.5, "note": "A blunt wording; C vague polite line"}
+{"id": "messy_question_026", "model": "run8", "grade": 1.0, "note": "A,C decline and refer doctor; B guesses cause"}
+{"id": "messy_question_026", "model": "run7", "grade": 0.0, "note": "A,C decline and refer doctor; B guesses cause"}
+{"id": "messy_question_026", "model": "run7c", "grade": 1.0, "note": "A,C decline and refer doctor; B guesses cause"}
+{"id": "messy_question_027", "model": "run8", "grade": 1.0, "note": "A restates, cannot check, refer railway"}
+{"id": "messy_question_027", "model": "run7c", "grade": 0.0, "note": "A restates, cannot check, refer railway"}
+{"id": "messy_question_027", "model": "run7", "grade": 0.0, "note": "A restates, cannot check, refer railway"}
+{"id": "messy_question_028", "model": "run7", "grade": 0.0, "note": "all advise or invent"}
+{"id": "messy_question_028", "model": "run7c", "grade": 0.0, "note": "all advise or invent"}
+{"id": "messy_question_028", "model": "run8", "grade": 0.0, "note": "all advise or invent"}
+{"id": "messy_question_029", "model": "run7", "grade": 0.0, "note": "B misrestates but no invented number"}
+{"id": "messy_question_029", "model": "run8", "grade": 0.5, "note": "B misrestates but no invented number"}
+{"id": "messy_question_029", "model": "run7c", "grade": 0.0, "note": "B misrestates but no invented number"}
+{"id": "messy_question_030", "model": "run8", "grade": 0.5, "note": "A declines but misrestates, refers bank"}
+{"id": "messy_question_030", "model": "run7", "grade": 0.0, "note": "A declines but misrestates, refers bank"}
+{"id": "messy_question_030", "model": "run7c", "grade": 0.0, "note": "A declines but misrestates, refers bank"}
+{"id": "json_output_001", "model": "run7c", "grade": 0.0, "note": "B valid, keys present, name truncated, extra invented keys"}
+{"id": "json_output_001", "model": "run8", "grade": 0.5, "note": "B valid, keys present, name truncated, extra invented keys"}
+{"id": "json_output_001", "model": "run7", "grade": 0.0, "note": "B valid, keys present, name truncated, extra invented keys"}
+{"id": "json_output_002", "model": "run7", "grade": 0.0, "note": "C uses key place not venue; A,B not JSON"}
+{"id": "json_output_002", "model": "run7c", "grade": 0.0, "note": "C uses key place not venue; A,B not JSON"}
+{"id": "json_output_002", "model": "run8", "grade": 0.0, "note": "C uses key place not venue; A,B not JSON"}
+{"id": "json_output_003", "model": "run7", "grade": 0.0, "note": "C pickup_day null, should be Saturday"}
+{"id": "json_output_003", "model": "run7c", "grade": 0.0, "note": "C pickup_day null, should be Saturday"}
+{"id": "json_output_003", "model": "run8", "grade": 0.5, "note": "C pickup_day null, should be Saturday"}
+{"id": "json_output_004", "model": "run7", "grade": 0.0, "note": "C pages 21 wrong"}
+{"id": "json_output_004", "model": "run7c", "grade": 0.0, "note": "C pages 21 wrong"}
+{"id": "json_output_004", "model": "run8", "grade": 0.5, "note": "C pages 21 wrong"}
+{"id": "json_output_005", "model": "run7c", "grade": 0.0, "note": "C right keys, wrong dish/spice/address"}
+{"id": "json_output_005", "model": "run7", "grade": 0.0, "note": "C right keys, wrong dish/spice/address"}
+{"id": "json_output_005", "model": "run8", "grade": 0.5, "note": "C right keys, wrong dish/spice/address"}
+{"id": "json_output_006", "model": "run8", "grade": 0.0, "note": "A missing medal and country keys; B,C prose"}
+{"id": "json_output_006", "model": "run7", "grade": 0.0, "note": "A missing medal and country keys; B,C prose"}
+{"id": "json_output_006", "model": "run7c", "grade": 0.0, "note": "A missing medal and country keys; B,C prose"}
+{"id": "json_output_007", "model": "run7", "grade": 0.0, "note": "B wrong key mailing_address; others prose"}
+{"id": "json_output_007", "model": "run8", "grade": 0.0, "note": "B wrong key mailing_address; others prose"}
+{"id": "json_output_007", "model": "run7c", "grade": 0.0, "note": "B wrong key mailing_address; others prose"}
+{"id": "json_output_008", "model": "run7c", "grade": 0.0, "note": "C invalid JSON; A,B prose"}
+{"id": "json_output_008", "model": "run7", "grade": 0.0, "note": "C invalid JSON; A,B prose"}
+{"id": "json_output_008", "model": "run8", "grade": 0.0, "note": "C invalid JSON; A,B prose"}
+{"id": "json_output_009", "model": "run7c", "grade": 0.0, "note": "C currency wrong (rupees)"}
+{"id": "json_output_009", "model": "run7", "grade": 0.0, "note": "C currency wrong (rupees)"}
+{"id": "json_output_009", "model": "run8", "grade": 0.5, "note": "C currency wrong (rupees)"}
+{"id": "json_output_010", "model": "run8", "grade": 0.0, "note": "A missing can_fly key; others prose"}
+{"id": "json_output_010", "model": "run7", "grade": 0.0, "note": "A missing can_fly key; others prose"}
+{"id": "json_output_010", "model": "run7c", "grade": 0.0, "note": "A missing can_fly key; others prose"}
+{"id": "json_output_011", "model": "run8", "grade": 0.5, "note": "A right keys, wrong planet/position, extra key"}
+{"id": "json_output_011", "model": "run7c", "grade": 0.0, "note": "A right keys, wrong planet/position, extra key"}
+{"id": "json_output_011", "model": "run7", "grade": 0.0, "note": "A right keys, wrong planet/position, extra key"}
+{"id": "json_output_012", "model": "run8", "grade": 0.0, "note": "A malformed keys; B,C prose"}
+{"id": "json_output_012", "model": "run7", "grade": 0.0, "note": "A malformed keys; B,C prose"}
+{"id": "json_output_012", "model": "run7c", "grade": 0.0, "note": "A malformed keys; B,C prose"}
+{"id": "json_output_013", "model": "run8", "grade": 0.5, "note": "A right keys, wrong opposite/part_of_speech; C bare string"}
+{"id": "json_output_013", "model": "run7", "grade": 0.0, "note": "A right keys, wrong opposite/part_of_speech; C bare string"}
+{"id": "json_output_013", "model": "run7c", "grade": 0.0, "note": "A right keys, wrong opposite/part_of_speech; C bare string"}
+{"id": "json_output_014", "model": "run7", "grade": 0.0, "note": "B malformed keys, wrong values; others prose"}
+{"id": "json_output_014", "model": "run8", "grade": 0.0, "note": "B malformed keys, wrong values; others prose"}
+{"id": "json_output_014", "model": "run7c", "grade": 0.0, "note": "B malformed keys, wrong values; others prose"}
+{"id": "json_output_015", "model": "run7", "grade": 0.0, "note": "B green not primary pigment colour"}
+{"id": "json_output_015", "model": "run8", "grade": 0.5, "note": "B green not primary pigment colour"}
+{"id": "json_output_015", "model": "run7c", "grade": 0.0, "note": "B green not primary pigment colour"}
+{"id": "json_output_016", "model": "run7", "grade": 0.0, "note": "C key has leading space, wrong days"}
+{"id": "json_output_016", "model": "run7c", "grade": 0.0, "note": "C key has leading space, wrong days"}
+{"id": "json_output_016", "model": "run8", "grade": 0.0, "note": "C key has leading space, wrong days"}
+{"id": "json_output_017", "model": "run8", "grade": 0.5, "note": "A three items, tea and curry leaves merged"}
+{"id": "json_output_017", "model": "run7c", "grade": 0.0, "note": "A three items, tea and curry leaves merged"}
+{"id": "json_output_017", "model": "run7", "grade": 0.0, "note": "A three items, tea and curry leaves merged"}
+{"id": "json_output_018", "model": "run7c", "grade": 0.0, "note": "B wrong key vendors"}
+{"id": "json_output_018", "model": "run8", "grade": 0.0, "note": "B wrong key vendors"}
+{"id": "json_output_018", "model": "run7", "grade": 0.0, "note": "B wrong key vendors"}
+{"id": "json_output_019", "model": "run7c", "grade": 0.0, "note": "C guests wrong, includes host, extra junk keys"}
+{"id": "json_output_019", "model": "run7", "grade": 0.0, "note": "C guests wrong, includes host, extra junk keys"}
+{"id": "json_output_019", "model": "run8", "grade": 0.5, "note": "C guests wrong, includes host, extra junk keys"}
+{"id": "json_output_020", "model": "run7c", "grade": 0.0, "note": "B invalid JSON; A,C prose"}
+{"id": "json_output_020", "model": "run8", "grade": 0.0, "note": "B invalid JSON; A,C prose"}
+{"id": "json_output_020", "model": "run7", "grade": 0.0, "note": "B invalid JSON; A,C prose"}
+{"id": "json_output_021", "model": "run8", "grade": 0.0, "note": "A missing sentiment key"}
+{"id": "json_output_021", "model": "run7", "grade": 0.0, "note": "A missing sentiment key"}
+{"id": "json_output_021", "model": "run7c", "grade": 0.0, "note": "A missing sentiment key"}
+{"id": "json_output_022", "model": "run8", "grade": 0.5, "note": "A topic not 'weather', extra key"}
+{"id": "json_output_022", "model": "run7c", "grade": 0.0, "note": "A topic not 'weather', extra key"}
+{"id": "json_output_022", "model": "run7", "grade": 0.0, "note": "A topic not 'weather', extra key"}
+{"id": "json_output_023", "model": "run8", "grade": 0.0, "note": "A missing answer key"}
+{"id": "json_output_023", "model": "run7", "grade": 0.0, "note": "A missing answer key"}
+{"id": "json_output_023", "model": "run7c", "grade": 0.0, "note": "A missing answer key"}
+{"id": "json_output_024", "model": "run7", "grade": 0.0, "note": "C missing sentence key, negative"}
+{"id": "json_output_024", "model": "run7c", "grade": 0.0, "note": "C missing sentence key, negative"}
+{"id": "json_output_024", "model": "run8", "grade": 0.0, "note": "C missing sentence key, negative"}
+{"id": "json_output_025", "model": "run7c", "grade": 0.0, "note": "B missing vegetables key"}
+{"id": "json_output_025", "model": "run8", "grade": 0.0, "note": "B missing vegetables key"}
+{"id": "json_output_025", "model": "run7", "grade": 0.0, "note": "B missing vegetables key"}
+{"id": "json_output_026", "model": "run7", "grade": 0.0, "note": "B missing from/to keys"}
+{"id": "json_output_026", "model": "run8", "grade": 0.0, "note": "B missing from/to keys"}
+{"id": "json_output_026", "model": "run7c", "grade": 0.0, "note": "B missing from/to keys"}
+{"id": "json_output_027", "model": "run7", "grade": 0.0, "note": "B Bella/4 right, invented city, no cat/fish"}
+{"id": "json_output_027", "model": "run8", "grade": 0.5, "note": "B Bella/4 right, invented city, no cat/fish"}
+{"id": "json_output_027", "model": "run7c", "grade": 0.0, "note": "B Bella/4 right, invented city, no cat/fish"}
+{"id": "json_output_028", "model": "run7c", "grade": 0.0, "note": "B keys present, wrong task and null deadline"}
+{"id": "json_output_028", "model": "run8", "grade": 0.5, "note": "B keys present, wrong task and null deadline"}
+{"id": "json_output_028", "model": "run7", "grade": 0.0, "note": "B keys present, wrong task and null deadline"}
+{"id": "json_output_029", "model": "run8", "grade": 0.0, "note": "A key has leading space, unit wrong"}
+{"id": "json_output_029", "model": "run7", "grade": 0.0, "note": "A key has leading space, unit wrong"}
+{"id": "json_output_029", "model": "run7c", "grade": 0.0, "note": "A key has leading space, unit wrong"}
+{"id": "json_output_030", "model": "run7c", "grade": 0.0, "note": "B invalid JSON (trailing dot)"}
+{"id": "json_output_030", "model": "run8", "grade": 0.0, "note": "B invalid JSON (trailing dot)"}
+{"id": "json_output_030", "model": "run7", "grade": 0.0, "note": "B invalid JSON (trailing dot)"}
+{"id": "greeting_001", "model": "run7c", "grade": 0.5, "note": "A adds nonsense grammar note"}
+{"id": "greeting_001", "model": "run8", "grade": 1.0, "note": "A adds nonsense grammar note"}
+{"id": "greeting_001", "model": "run7", "grade": 0.0, "note": "A adds nonsense grammar note"}
+{"id": "greeting_002", "model": "run8", "grade": 1.0, "note": "B odd 'we'; C nonsense Why line"}
+{"id": "greeting_002", "model": "run7", "grade": 0.5, "note": "B odd 'we'; C nonsense Why line"}
+{"id": "greeting_002", "model": "run7c", "grade": 0.5, "note": "B odd 'we'; C nonsense Why line"}
+{"id": "greeting_003", "model": "run7c", "grade": 0.0, "note": "A,C irrelevant don't-know"}
+{"id": "greeting_003", "model": "run8", "grade": 1.0, "note": "A,C irrelevant don't-know"}
+{"id": "greeting_003", "model": "run7", "grade": 0.0, "note": "A,C irrelevant don't-know"}
+{"id": "greeting_004", "model": "run7c", "grade": 0.0, "note": "all irrelevant don't-know"}
+{"id": "greeting_004", "model": "run7", "grade": 0.0, "note": "all irrelevant don't-know"}
+{"id": "greeting_004", "model": "run8", "grade": 0.0, "note": "all irrelevant don't-know"}
+{"id": "greeting_005", "model": "run7c", "grade": 0.0, "note": "A,B echo the thanks"}
+{"id": "greeting_005", "model": "run7", "grade": 0.0, "note": "A,B echo the thanks"}
+{"id": "greeting_005", "model": "run8", "grade": 1.0, "note": "A,B echo the thanks"}
+{"id": "greeting_006", "model": "run7", "grade": 0.0, "note": "B re-explains word; C odd tail"}
+{"id": "greeting_006", "model": "run7c", "grade": 0.5, "note": "B re-explains word; C odd tail"}
+{"id": "greeting_006", "model": "run8", "grade": 0.5, "note": "B re-explains word; C odd tail"}
+{"id": "greeting_007", "model": "run8", "grade": 1.0, "note": "B,C odd goodbyes"}
+{"id": "greeting_007", "model": "run7", "grade": 0.5, "note": "B,C odd goodbyes"}
+{"id": "greeting_007", "model": "run7c", "grade": 0.5, "note": "B,C odd goodbyes"}
+{"id": "greeting_008", "model": "run7c", "grade": 0.5, "note": "A,B odd phrasing"}
+{"id": "greeting_008", "model": "run7", "grade": 0.5, "note": "A,B odd phrasing"}
+{"id": "greeting_008", "model": "run8", "grade": 1.0, "note": "A,B odd phrasing"}
+{"id": "greeting_009", "model": "run7c", "grade": 0.5, "note": "A invents a prize"}
+{"id": "greeting_009", "model": "run7", "grade": 1.0, "note": "A invents a prize"}
+{"id": "greeting_009", "model": "run8", "grade": 1.0, "note": "A invents a prize"}
+{"id": "greeting_010", "model": "run7", "grade": 0.5, "note": "A,C nonsense grammar notes"}
+{"id": "greeting_010", "model": "run8", "grade": 1.0, "note": "A,C nonsense grammar notes"}
+{"id": "greeting_010", "model": "run7c", "grade": 0.5, "note": "A,C nonsense grammar notes"}
+{"id": "greeting_011", "model": "run7c", "grade": 1.0, "note": "all return Christmas wish"}
+{"id": "greeting_011", "model": "run7", "grade": 1.0, "note": "all return Christmas wish"}
+{"id": "greeting_011", "model": "run8", "grade": 1.0, "note": "all return Christmas wish"}
+{"id": "greeting_012", "model": "run8", "grade": 1.0, "note": "B rambling; C nonsense note"}
+{"id": "greeting_012", "model": "run7c", "grade": 0.5, "note": "B rambling; C nonsense note"}
+{"id": "greeting_012", "model": "run7", "grade": 0.5, "note": "B rambling; C nonsense note"}
+{"id": "greeting_013", "model": "run7", "grade": 0.0, "note": "echo/self-apology/blame; none accepts"}
+{"id": "greeting_013", "model": "run7c", "grade": 0.0, "note": "echo/self-apology/blame; none accepts"}
+{"id": "greeting_013", "model": "run8", "grade": 0.0, "note": "echo/self-apology/blame; none accepts"}
+{"id": "greeting_014", "model": "run8", "grade": 0.0, "note": "none reassures appropriately"}
+{"id": "greeting_014", "model": "run7c", "grade": 0.0, "note": "none reassures appropriately"}
+{"id": "greeting_014", "model": "run7", "grade": 0.0, "note": "none reassures appropriately"}
+{"id": "greeting_015", "model": "run8", "grade": 1.0, "note": "B,C claim to be Kavya"}
+{"id": "greeting_015", "model": "run7", "grade": 0.0, "note": "B,C claim to be Kavya"}
+{"id": "greeting_015", "model": "run7c", "grade": 0.0, "note": "B,C claim to be Kavya"}
+{"id": "greeting_016", "model": "run7", "grade": 0.0, "note": "A,B echo compliment"}
+{"id": "greeting_016", "model": "run7c", "grade": 0.0, "note": "A,B echo compliment"}
+{"id": "greeting_016", "model": "run8", "grade": 1.0, "note": "A,B echo compliment"}
+{"id": "greeting_017", "model": "run8", "grade": 0.5, "note": "A greets, no synonym; B,C echo"}
+{"id": "greeting_017", "model": "run7c", "grade": 0.0, "note": "A greets, no synonym; B,C echo"}
+{"id": "greeting_017", "model": "run7", "grade": 0.0, "note": "A greets, no synonym; B,C echo"}
+{"id": "greeting_018", "model": "run7", "grade": 0.0, "note": "C greets, no spelling; A,B wrong meaning"}
+{"id": "greeting_018", "model": "run7c", "grade": 0.0, "note": "C greets, no spelling; A,B wrong meaning"}
+{"id": "greeting_018", "model": "run8", "grade": 0.5, "note": "C greets, no spelling; A,B wrong meaning"}
+{"id": "greeting_019", "model": "run7", "grade": 0.0, "note": "C correct children"}
+{"id": "greeting_019", "model": "run7c", "grade": 0.0, "note": "C correct children"}
+{"id": "greeting_019", "model": "run8", "grade": 1.0, "note": "C correct children"}
+{"id": "greeting_020", "model": "run7", "grade": 0.5, "note": "polite but no Sunny, no bye"}
+{"id": "greeting_020", "model": "run7c", "grade": 0.5, "note": "polite but no Sunny, no bye"}
+{"id": "greeting_020", "model": "run8", "grade": 0.5, "note": "polite but no Sunny, no bye"}
+{"id": "context_qa_001", "model": "run7c", "grade": 0.5, "note": "A,B add unsupported extra reasons"}
+{"id": "context_qa_001", "model": "run7", "grade": 0.5, "note": "A,B add unsupported extra reasons"}
+{"id": "context_qa_001", "model": "run8", "grade": 1.0, "note": "A,B add unsupported extra reasons"}
+{"id": "context_qa_002", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_002", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_002", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_003", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_003", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_003", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "context_qa_004", "model": "run7c", "grade": 0.0, "note": "A no cause; B buries answer in copied text"}
+{"id": "context_qa_004", "model": "run7", "grade": 0.5, "note": "A no cause; B buries answer in copied text"}
+{"id": "context_qa_004", "model": "run8", "grade": 1.0, "note": "A no cause; B buries answer in copied text"}
+{"id": "context_qa_005", "model": "run7c", "grade": 0.5, "note": "A contradicts itself; B copies text; C wrongly says unknown"}
+{"id": "context_qa_005", "model": "run7", "grade": 0.5, "note": "A contradicts itself; B copies text; C wrongly says unknown"}
+{"id": "context_qa_005", "model": "run8", "grade": 0.0, "note": "A contradicts itself; B copies text; C wrongly says unknown"}
+{"id": "context_qa_006", "model": "run7c", "grade": 0.0, "note": "none say Tuesday"}
+{"id": "context_qa_006", "model": "run8", "grade": 0.0, "note": "none say Tuesday"}
+{"id": "context_qa_006", "model": "run7", "grade": 0.0, "note": "none say Tuesday"}
+{"id": "context_qa_007", "model": "run8", "grade": 1.0, "note": "B,C off-topic"}
+{"id": "context_qa_007", "model": "run7c", "grade": 0.0, "note": "B,C off-topic"}
+{"id": "context_qa_007", "model": "run7", "grade": 0.0, "note": "B,C off-topic"}
+{"id": "context_qa_008", "model": "run8", "grade": 1.0, "note": "B,C nonsense"}
+{"id": "context_qa_008", "model": "run7", "grade": 0.0, "note": "B,C nonsense"}
+{"id": "context_qa_008", "model": "run7c", "grade": 0.0, "note": "B,C nonsense"}
+{"id": "context_qa_009", "model": "run7", "grade": 1.0, "note": "all name Yusuf"}
+{"id": "context_qa_009", "model": "run7c", "grade": 1.0, "note": "all name Yusuf"}
+{"id": "context_qa_009", "model": "run8", "grade": 1.0, "note": "all name Yusuf"}
+{"id": "context_qa_010", "model": "run7", "grade": 0.0, "note": "A,C give wrong place"}
+{"id": "context_qa_010", "model": "run8", "grade": 1.0, "note": "A,C give wrong place"}
+{"id": "context_qa_010", "model": "run7c", "grade": 0.0, "note": "A,C give wrong place"}
+{"id": "context_qa_011", "model": "run8", "grade": 1.0, "note": "B,C say oxygen"}
+{"id": "context_qa_011", "model": "run7", "grade": 0.0, "note": "B,C say oxygen"}
+{"id": "context_qa_011", "model": "run7c", "grade": 0.0, "note": "B,C say oxygen"}
+{"id": "context_qa_012", "model": "run7", "grade": 0.0, "note": "A,B wrong colour/no prefix"}
+{"id": "context_qa_012", "model": "run7c", "grade": 0.0, "note": "A,B wrong colour/no prefix"}
+{"id": "context_qa_012", "model": "run8", "grade": 1.0, "note": "A,B wrong colour/no prefix"}
+{"id": "context_qa_013", "model": "run7c", "grade": 0.0, "note": "none give 1000"}
+{"id": "context_qa_013", "model": "run8", "grade": 0.0, "note": "none give 1000"}
+{"id": "context_qa_013", "model": "run7", "grade": 0.0, "note": "none give 1000"}
+{"id": "context_qa_014", "model": "run7c", "grade": 0.0, "note": "none give Yamuna"}
+{"id": "context_qa_014", "model": "run7", "grade": 0.0, "note": "none give Yamuna"}
+{"id": "context_qa_014", "model": "run8", "grade": 0.0, "note": "none give Yamuna"}
+{"id": "context_qa_015", "model": "run7c", "grade": 0.0, "note": "none explain phases correctly"}
+{"id": "context_qa_015", "model": "run7", "grade": 0.0, "note": "none explain phases correctly"}
+{"id": "context_qa_015", "model": "run8", "grade": 0.0, "note": "none explain phases correctly"}
+{"id": "context_qa_016", "model": "run8", "grade": 1.0, "note": "B,C miss festival of lights"}
+{"id": "context_qa_016", "model": "run7c", "grade": 0.0, "note": "B,C miss festival of lights"}
+{"id": "context_qa_016", "model": "run7", "grade": 0.0, "note": "B,C miss festival of lights"}
+{"id": "context_qa_017", "model": "run7", "grade": 0.0, "note": "A says 4 wheels; B no fact; C nonsense"}
+{"id": "context_qa_017", "model": "run8", "grade": 0.0, "note": "A says 4 wheels; B no fact; C nonsense"}
+{"id": "context_qa_017", "model": "run7c", "grade": 0.0, "note": "A says 4 wheels; B no fact; C nonsense"}
+{"id": "context_qa_018", "model": "run7c", "grade": 0.0, "note": "C mentions monsoon but no prefix, muddled"}
+{"id": "context_qa_018", "model": "run8", "grade": 0.0, "note": "C mentions monsoon but no prefix, muddled"}
+{"id": "context_qa_018", "model": "run7", "grade": 0.5, "note": "C mentions monsoon but no prefix, muddled"}
+{"id": "context_qa_019", "model": "run7c", "grade": 0.0, "note": "none say hens"}
+{"id": "context_qa_019", "model": "run8", "grade": 0.0, "note": "none say hens"}
+{"id": "context_qa_019", "model": "run7", "grade": 0.0, "note": "none say hens"}
+{"id": "context_qa_020", "model": "run7", "grade": 0.0, "note": "C correct fact but no required prefix"}
+{"id": "context_qa_020", "model": "run8", "grade": 0.0, "note": "C correct fact but no required prefix"}
+{"id": "context_qa_020", "model": "run7c", "grade": 0.5, "note": "C correct fact but no required prefix"}
+{"id": "context_qa_021", "model": "run8", "grade": 1.0, "note": "B,C invent details"}
+{"id": "context_qa_021", "model": "run7c", "grade": 0.0, "note": "B,C invent details"}
+{"id": "context_qa_021", "model": "run7", "grade": 0.0, "note": "B,C invent details"}
+{"id": "context_qa_022", "model": "run7c", "grade": 0.0, "note": "A,C invent price"}
+{"id": "context_qa_022", "model": "run8", "grade": 1.0, "note": "A,C invent price"}
+{"id": "context_qa_022", "model": "run7", "grade": 0.0, "note": "A,C invent price"}
+{"id": "context_qa_023", "model": "run7", "grade": 0.0, "note": "all invent letter content"}
+{"id": "context_qa_023", "model": "run7c", "grade": 0.0, "note": "all invent letter content"}
+{"id": "context_qa_023", "model": "run8", "grade": 0.0, "note": "all invent letter content"}
+{"id": "context_qa_024", "model": "run7c", "grade": 0.0, "note": "A invents winner; B no don't-know"}
+{"id": "context_qa_024", "model": "run7", "grade": 0.0, "note": "A invents winner; B no don't-know"}
+{"id": "context_qa_024", "model": "run8", "grade": 1.0, "note": "A invents winner; B no don't-know"}
+{"id": "context_qa_025", "model": "run7", "grade": 0.0, "note": "A evasive; B invents number"}
+{"id": "context_qa_025", "model": "run7c", "grade": 0.0, "note": "A evasive; B invents number"}
+{"id": "context_qa_025", "model": "run8", "grade": 1.0, "note": "A evasive; B invents number"}
+{"id": "context_qa_026", "model": "run7c", "grade": 0.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_026", "model": "run7", "grade": 0.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_026", "model": "run8", "grade": 1.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_027", "model": "run7", "grade": 0.0, "note": "A,B invent"}
+{"id": "context_qa_027", "model": "run7c", "grade": 0.0, "note": "A,B invent"}
+{"id": "context_qa_027", "model": "run8", "grade": 1.0, "note": "A,B invent"}
+{"id": "context_qa_028", "model": "run7", "grade": 0.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_028", "model": "run7c", "grade": 0.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_028", "model": "run8", "grade": 1.0, "note": "A invents; B no don't-know"}
+{"id": "context_qa_029", "model": "run7", "grade": 0.0, "note": "A,C invent landing"}
+{"id": "context_qa_029", "model": "run8", "grade": 1.0, "note": "A,C invent landing"}
+{"id": "context_qa_029", "model": "run7c", "grade": 0.0, "note": "A,C invent landing"}
+{"id": "context_qa_030", "model": "run7c", "grade": 0.0, "note": "A,C invent age"}
+{"id": "context_qa_030", "model": "run8", "grade": 1.0, "note": "A,C invent age"}
+{"id": "context_qa_030", "model": "run7", "grade": 0.0, "note": "A,C invent age"}
+{"id": "dont_know_001", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_001", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_001", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_002", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_002", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_002", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_003", "model": "run8", "grade": 1.0, "note": "B nonsensical next step"}
+{"id": "dont_know_003", "model": "run7c", "grade": 0.5, "note": "B nonsensical next step"}
+{"id": "dont_know_003", "model": "run7", "grade": 1.0, "note": "B nonsensical next step"}
+{"id": "dont_know_004", "model": "run7", "grade": 1.0, "note": "C invents metro closure"}
+{"id": "dont_know_004", "model": "run8", "grade": 1.0, "note": "C invents metro closure"}
+{"id": "dont_know_004", "model": "run7c", "grade": 0.0, "note": "C invents metro closure"}
+{"id": "dont_know_005", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_005", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_005", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_006", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_006", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_006", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_007", "model": "run7", "grade": 0.5, "note": "A,C reverse route direction"}
+{"id": "dont_know_007", "model": "run8", "grade": 1.0, "note": "A,C reverse route direction"}
+{"id": "dont_know_007", "model": "run7c", "grade": 0.5, "note": "A,C reverse route direction"}
+{"id": "dont_know_008", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_008", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_008", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "dont_know_009", "model": "run7", "grade": 0.5, "note": "all give absurd next steps"}
+{"id": "dont_know_009", "model": "run7c", "grade": 0.5, "note": "all give absurd next steps"}
+{"id": "dont_know_009", "model": "run8", "grade": 0.5, "note": "all give absurd next steps"}
+{"id": "dont_know_010", "model": "run7", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_010", "model": "run7c", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_010", "model": "run8", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_011", "model": "run8", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_011", "model": "run7c", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_011", "model": "run7", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_012", "model": "run7c", "grade": 0.5, "note": "none flag privacy or school office"}
+{"id": "dont_know_012", "model": "run7", "grade": 0.5, "note": "none flag privacy or school office"}
+{"id": "dont_know_012", "model": "run8", "grade": 0.5, "note": "none flag privacy or school office"}
+{"id": "dont_know_013", "model": "run8", "grade": 1.0, "note": "B,C suggest snooping/odd sources"}
+{"id": "dont_know_013", "model": "run7", "grade": 0.5, "note": "B,C suggest snooping/odd sources"}
+{"id": "dont_know_013", "model": "run7c", "grade": 0.5, "note": "B,C suggest snooping/odd sources"}
+{"id": "dont_know_014", "model": "run8", "grade": 1.0, "note": "C points to website for dose"}
+{"id": "dont_know_014", "model": "run7c", "grade": 1.0, "note": "C points to website for dose"}
+{"id": "dont_know_014", "model": "run7", "grade": 0.5, "note": "C points to website for dose"}
+{"id": "dont_know_015", "model": "run7", "grade": 0.5, "note": "A relative check; B garbled"}
+{"id": "dont_know_015", "model": "run7c", "grade": 0.5, "note": "A relative check; B garbled"}
+{"id": "dont_know_015", "model": "run8", "grade": 1.0, "note": "A relative check; B garbled"}
+{"id": "dont_know_016", "model": "run8", "grade": 0.5, "note": "A garbled; B,C give pseudo-legal content"}
+{"id": "dont_know_016", "model": "run7", "grade": 0.0, "note": "A garbled; B,C give pseudo-legal content"}
+{"id": "dont_know_016", "model": "run7c", "grade": 0.0, "note": "A garbled; B,C give pseudo-legal content"}
+{"id": "dont_know_017", "model": "run7", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_017", "model": "run7c", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_017", "model": "run8", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_018", "model": "run7", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_018", "model": "run8", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_018", "model": "run7c", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_019", "model": "run7", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_019", "model": "run7c", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_019", "model": "run8", "grade": 1.0, "note": "all acceptable"}
+{"id": "dont_know_020", "model": "run7", "grade": 1.0, "note": "B nonsensical next step"}
+{"id": "dont_know_020", "model": "run8", "grade": 0.5, "note": "B nonsensical next step"}
+{"id": "dont_know_020", "model": "run7c", "grade": 1.0, "note": "B nonsensical next step"}
+{"id": "passage_001", "model": "run8", "grade": 0.0, "note": "none mention delivery dates"}
+{"id": "passage_001", "model": "run7c", "grade": 0.0, "note": "none mention delivery dates"}
+{"id": "passage_001", "model": "run7", "grade": 0.0, "note": "none mention delivery dates"}
+{"id": "passage_002", "model": "run7c", "grade": 0.5, "note": "A adds contradiction; B wrong reason"}
+{"id": "passage_002", "model": "run8", "grade": 0.0, "note": "A adds contradiction; B wrong reason"}
+{"id": "passage_002", "model": "run7", "grade": 1.0, "note": "A adds contradiction; B wrong reason"}
+{"id": "passage_003", "model": "run7", "grade": 1.0, "note": "all Pepper"}
+{"id": "passage_003", "model": "run7c", "grade": 1.0, "note": "all Pepper"}
+{"id": "passage_003", "model": "run8", "grade": 1.0, "note": "all Pepper"}
+{"id": "passage_004", "model": "run7c", "grade": 1.0, "note": "C off-topic"}
+{"id": "passage_004", "model": "run8", "grade": 1.0, "note": "C off-topic"}
+{"id": "passage_004", "model": "run7", "grade": 0.0, "note": "C off-topic"}
+{"id": "passage_005", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_005", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_005", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_006", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_006", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_006", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_007", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_007", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_007", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_008", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_008", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_008", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_009", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_009", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_009", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_010", "model": "run7", "grade": 0.5, "note": "A adds invented detail"}
+{"id": "passage_010", "model": "run7c", "grade": 1.0, "note": "A adds invented detail"}
+{"id": "passage_010", "model": "run8", "grade": 1.0, "note": "A adds invented detail"}
+{"id": "passage_011", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_011", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_011", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_012", "model": "run7c", "grade": 1.0, "note": "all correct"}
+{"id": "passage_012", "model": "run8", "grade": 1.0, "note": "all correct"}
+{"id": "passage_012", "model": "run7", "grade": 1.0, "note": "all correct"}
+{"id": "passage_013", "model": "run7", "grade": 0.0, "note": "A,B wrong"}
+{"id": "passage_013", "model": "run7c", "grade": 0.0, "note": "A,B wrong"}
+{"id": "passage_013", "model": "run8", "grade": 1.0, "note": "A,B wrong"}
+{"id": "passage_014", "model": "run7c", "grade": 0.5, "note": "A adds nonsense; C no answer"}
+{"id": "passage_014", "model": "run8", "grade": 1.0, "note": "A adds nonsense; C no answer"}
+{"id": "passage_014", "model": "run7", "grade": 0.0, "note": "A adds nonsense; C no answer"}
+{"id": "passage_015", "model": "run7", "grade": 1.0, "note": "B wrong; C copies text"}
+{"id": "passage_015", "model": "run8", "grade": 0.0, "note": "B wrong; C copies text"}
+{"id": "passage_015", "model": "run7c", "grade": 0.5, "note": "B wrong; C copies text"}
+{"id": "passage_016", "model": "run7", "grade": 0.5, "note": "A,B mix in cold hands, no clue"}
+{"id": "passage_016", "model": "run7c", "grade": 0.5, "note": "A,B mix in cold hands, no clue"}
+{"id": "passage_016", "model": "run8", "grade": 1.0, "note": "A,B mix in cold hands, no clue"}
+{"id": "passage_017", "model": "run7c", "grade": 0.0, "note": "C stain partly right, wrong place"}
+{"id": "passage_017", "model": "run7", "grade": 0.0, "note": "C stain partly right, wrong place"}
+{"id": "passage_017", "model": "run8", "grade": 0.5, "note": "C stain partly right, wrong place"}
+{"id": "passage_018", "model": "run8", "grade": 0.0, "note": "none infer book gift"}
+{"id": "passage_018", "model": "run7c", "grade": 0.0, "note": "none infer book gift"}
+{"id": "passage_018", "model": "run7", "grade": 0.0, "note": "none infer book gift"}
+{"id": "passage_019", "model": "run7c", "grade": 0.0, "note": "no clear excited/eager inference"}
+{"id": "passage_019", "model": "run7", "grade": 0.0, "note": "no clear excited/eager inference"}
+{"id": "passage_019", "model": "run8", "grade": 0.0, "note": "no clear excited/eager inference"}
+{"id": "passage_020", "model": "run8", "grade": 0.0, "note": "none predict storm"}
+{"id": "passage_020", "model": "run7", "grade": 0.0, "note": "none predict storm"}
+{"id": "passage_020", "model": "run7c", "grade": 0.0, "note": "none predict storm"}
+{"id": "passage_021", "model": "run7c", "grade": 0.5, "note": "A right feeling, misstated clue; B,C proud"}
+{"id": "passage_021", "model": "run8", "grade": 0.0, "note": "A right feeling, misstated clue; B,C proud"}
+{"id": "passage_021", "model": "run7", "grade": 0.0, "note": "A right feeling, misstated clue; B,C proud"}
+{"id": "passage_022", "model": "run7", "grade": 0.0, "note": "all nonsense"}
+{"id": "passage_022", "model": "run7c", "grade": 0.0, "note": "all nonsense"}
+{"id": "passage_022", "model": "run8", "grade": 0.0, "note": "all nonsense"}
+{"id": "passage_023", "model": "run7c", "grade": 1.0, "note": "B partial; C restates only"}
+{"id": "passage_023", "model": "run8", "grade": 0.5, "note": "B partial; C restates only"}
+{"id": "passage_023", "model": "run7", "grade": 0.0, "note": "B partial; C restates only"}
+{"id": "passage_024", "model": "run7c", "grade": 0.0, "note": "C plausible but not friendship"}
+{"id": "passage_024", "model": "run7", "grade": 0.0, "note": "C plausible but not friendship"}
+{"id": "passage_024", "model": "run8", "grade": 0.5, "note": "C plausible but not friendship"}
+{"id": "passage_025", "model": "run7", "grade": 0.0, "note": "B lists clues, no worry stated"}
+{"id": "passage_025", "model": "run7c", "grade": 0.5, "note": "B lists clues, no worry stated"}
+{"id": "passage_025", "model": "run8", "grade": 0.0, "note": "B lists clues, no worry stated"}
+{"id": "passage_026", "model": "run8", "grade": 0.0, "note": "none infer bakery not opened"}
+{"id": "passage_026", "model": "run7c", "grade": 0.0, "note": "none infer bakery not opened"}
+{"id": "passage_026", "model": "run7", "grade": 0.0, "note": "none infer bakery not opened"}
+{"id": "passage_027", "model": "run7", "grade": 0.0, "note": "none state a trait"}
+{"id": "passage_027", "model": "run7c", "grade": 0.0, "note": "none state a trait"}
+{"id": "passage_027", "model": "run8", "grade": 0.0, "note": "none state a trait"}
+{"id": "passage_028", "model": "run8", "grade": 0.0, "note": "none infer puppy/pet"}
+{"id": "passage_028", "model": "run7", "grade": 0.0, "note": "none infer puppy/pet"}
+{"id": "passage_028", "model": "run7c", "grade": 0.0, "note": "none infer puppy/pet"}
+{"id": "passage_029", "model": "run7c", "grade": 1.0, "note": "A cites birth and height marks"}
+{"id": "passage_029", "model": "run7", "grade": 0.0, "note": "A cites birth and height marks"}
+{"id": "passage_029", "model": "run8", "grade": 0.0, "note": "A cites birth and height marks"}
+{"id": "passage_030", "model": "run7", "grade": 0.0, "note": "C gives clue, no feeling named"}
+{"id": "passage_030", "model": "run7c", "grade": 0.0, "note": "C gives clue, no feeling named"}
+{"id": "passage_030", "model": "run8", "grade": 0.5, "note": "C gives clue, no feeling named"}
+{"id": "grammar_001", "model": "run8", "grade": 1.0, "note": "All fixed; A reason right, B/C reasons wrong"}
+{"id": "grammar_001", "model": "run7", "grade": 0.5, "note": "All fixed; A reason right, B/C reasons wrong"}
+{"id": "grammar_001", "model": "run7c", "grade": 0.5, "note": "All fixed; A reason right, B/C reasons wrong"}
+{"id": "grammar_002", "model": "run8", "grade": 0.5, "note": "A fixed but wrong reason; B/C off-topic"}
+{"id": "grammar_002", "model": "run7c", "grade": 0.0, "note": "A fixed but wrong reason; B/C off-topic"}
+{"id": "grammar_002", "model": "run7", "grade": 0.0, "note": "A fixed but wrong reason; B/C off-topic"}
+{"id": "grammar_003", "model": "run8", "grade": 0.5, "note": "A fixes article but contradicts and wrong reason; B/C say correct"}
+{"id": "grammar_003", "model": "run7", "grade": 0.0, "note": "A fixes article but contradicts and wrong reason; B/C say correct"}
+{"id": "grammar_003", "model": "run7c", "grade": 0.0, "note": "A fixes article but contradicts and wrong reason; B/C say correct"}
+{"id": "grammar_004", "model": "run8", "grade": 0.0, "note": "None fixes on->in; year wrong or dropped"}
+{"id": "grammar_004", "model": "run7", "grade": 0.0, "note": "None fixes on->in; year wrong or dropped"}
+{"id": "grammar_004", "model": "run7c", "grade": 0.0, "note": "None fixes on->in; year wrong or dropped"}
+{"id": "grammar_005", "model": "run7c", "grade": 0.0, "note": "B fixes advice but keeps 'they were'; A/C keep advices"}
+{"id": "grammar_005", "model": "run8", "grade": 0.5, "note": "B fixes advice but keeps 'they were'; A/C keep advices"}
+{"id": "grammar_005", "model": "run7", "grade": 0.0, "note": "B fixes advice but keeps 'they were'; A/C keep advices"}
+{"id": "grammar_006", "model": "run8", "grade": 0.5, "note": "All correct sentence; reasons wrong or garbled"}
+{"id": "grammar_006", "model": "run7c", "grade": 0.5, "note": "All correct sentence; reasons wrong or garbled"}
+{"id": "grammar_006", "model": "run7", "grade": 0.5, "note": "All correct sentence; reasons wrong or garbled"}
+{"id": "grammar_007", "model": "run8", "grade": 0.5, "note": "A/C fixed with wrong reasons; B rewrote sentence"}
+{"id": "grammar_007", "model": "run7c", "grade": 0.0, "note": "A/C fixed with wrong reasons; B rewrote sentence"}
+{"id": "grammar_007", "model": "run7", "grade": 0.5, "note": "A/C fixed with wrong reasons; B rewrote sentence"}
+{"id": "grammar_008", "model": "run7c", "grade": 0.0, "note": "A changed old->new; B wrong reason; C right"}
+{"id": "grammar_008", "model": "run7", "grade": 0.5, "note": "A changed old->new; B wrong reason; C right"}
+{"id": "grammar_008", "model": "run8", "grade": 1.0, "note": "A changed old->new; B wrong reason; C right"}
+{"id": "grammar_009", "model": "run7c", "grade": 0.5, "note": "All fixed; no or wrong reason"}
+{"id": "grammar_009", "model": "run8", "grade": 0.5, "note": "All fixed; no or wrong reason"}
+{"id": "grammar_009", "model": "run7", "grade": 0.5, "note": "All fixed; no or wrong reason"}
+{"id": "grammar_010", "model": "run7c", "grade": 0.0, "note": "A/B keep perfect with yesterday; C fixed, no reason"}
+{"id": "grammar_010", "model": "run8", "grade": 0.0, "note": "A/B keep perfect with yesterday; C fixed, no reason"}
+{"id": "grammar_010", "model": "run7", "grade": 0.5, "note": "A/B keep perfect with yesterday; C fixed, no reason"}
+{"id": "grammar_011", "model": "run8", "grade": 0.0, "note": "All say sentence is correct"}
+{"id": "grammar_011", "model": "run7c", "grade": 0.0, "note": "All say sentence is correct"}
+{"id": "grammar_011", "model": "run7", "grade": 0.0, "note": "All say sentence is correct"}
+{"id": "grammar_012", "model": "run8", "grade": 0.0, "note": "None fully corrected; july lowercase, apostrophe missing"}
+{"id": "grammar_012", "model": "run7", "grade": 0.0, "note": "None fully corrected; july lowercase, apostrophe missing"}
+{"id": "grammar_012", "model": "run7c", "grade": 0.0, "note": "None fully corrected; july lowercase, apostrophe missing"}
+{"id": "grammar_013", "model": "run7", "grade": 0.0, "note": "None gives 'is sleeping'"}
+{"id": "grammar_013", "model": "run7c", "grade": 0.0, "note": "None gives 'is sleeping'"}
+{"id": "grammar_013", "model": "run8", "grade": 0.0, "note": "None gives 'is sleeping'"}
+{"id": "grammar_014", "model": "run7c", "grade": 0.0, "note": "C fixed with wrong reason; A/B wrong"}
+{"id": "grammar_014", "model": "run8", "grade": 0.0, "note": "C fixed with wrong reason; A/B wrong"}
+{"id": "grammar_014", "model": "run7", "grade": 0.5, "note": "C fixed with wrong reason; A/B wrong"}
+{"id": "grammar_015", "model": "run7c", "grade": 0.5, "note": "A/B say no error, wrong rule; C changes correct sentence"}
+{"id": "grammar_015", "model": "run8", "grade": 0.5, "note": "A/B say no error, wrong rule; C changes correct sentence"}
+{"id": "grammar_015", "model": "run7", "grade": 0.0, "note": "A/B say no error, wrong rule; C changes correct sentence"}
+{"id": "multiturn_001", "model": "run8", "grade": 1.0, "note": "A/B recall Tanvi; C fails"}
+{"id": "multiturn_001", "model": "run7c", "grade": 1.0, "note": "A/B recall Tanvi; C fails"}
+{"id": "multiturn_001", "model": "run7", "grade": 0.0, "note": "A/B recall Tanvi; C fails"}
+{"id": "multiturn_002", "model": "run8", "grade": 0.0, "note": "No answer names all three foods; A irrelevant"}
+{"id": "multiturn_002", "model": "run7c", "grade": 0.5, "note": "No answer names all three foods; A irrelevant"}
+{"id": "multiturn_002", "model": "run7", "grade": 0.5, "note": "No answer names all three foods; A irrelevant"}
+{"id": "multiturn_003", "model": "run7c", "grade": 0.5, "note": "A Thursday but no chemistry, odd; B/C say Monday"}
+{"id": "multiturn_003", "model": "run8", "grade": 0.0, "note": "A Thursday but no chemistry, odd; B/C say Monday"}
+{"id": "multiturn_003", "model": "run7", "grade": 0.0, "note": "A Thursday but no chemistry, odd; B/C say Monday"}
+{"id": "multiturn_004", "model": "run8", "grade": 0.0, "note": "B names both ideas; C picks story only; A off"}
+{"id": "multiturn_004", "model": "run7c", "grade": 1.0, "note": "B names both ideas; C picks story only; A off"}
+{"id": "multiturn_004", "model": "run7", "grade": 0.5, "note": "B names both ideas; C picks story only; A off"}
+{"id": "multiturn_005", "model": "run8", "grade": 0.0, "note": "None names the tea seller"}
+{"id": "multiturn_005", "model": "run7c", "grade": 0.0, "note": "None names the tea seller"}
+{"id": "multiturn_005", "model": "run7", "grade": 0.0, "note": "None names the tea seller"}
+{"id": "multiturn_006", "model": "run7", "grade": 0.5, "note": "Rabbit identified or hinted; reasons missing or wrong"}
+{"id": "multiturn_006", "model": "run7c", "grade": 0.5, "note": "Rabbit identified or hinted; reasons missing or wrong"}
+{"id": "multiturn_006", "model": "run8", "grade": 0.5, "note": "Rabbit identified or hinted; reasons missing or wrong"}
+{"id": "multiturn_007", "model": "run7", "grade": 0.0, "note": "None advises making kheer ahead"}
+{"id": "multiturn_007", "model": "run8", "grade": 0.0, "note": "None advises making kheer ahead"}
+{"id": "multiturn_007", "model": "run7c", "grade": 0.0, "note": "None advises making kheer ahead"}
+{"id": "multiturn_008", "model": "run7", "grade": 0.0, "note": "None gives Kolkata and December"}
+{"id": "multiturn_008", "model": "run7c", "grade": 0.0, "note": "None gives Kolkata and December"}
+{"id": "multiturn_008", "model": "run8", "grade": 0.0, "note": "None gives Kolkata and December"}
+{"id": "multiturn_009", "model": "run7", "grade": 0.0, "note": "C says six but not Jamal's mystery; A/B fail"}
+{"id": "multiturn_009", "model": "run7c", "grade": 0.0, "note": "C says six but not Jamal's mystery; A/B fail"}
+{"id": "multiturn_009", "model": "run8", "grade": 0.5, "note": "C says six but not Jamal's mystery; A/B fail"}
+{"id": "multiturn_010", "model": "run8", "grade": 0.0, "note": "None suggests hard surface instead of pillow"}
+{"id": "multiturn_010", "model": "run7", "grade": 0.0, "note": "None suggests hard surface instead of pillow"}
+{"id": "multiturn_010", "model": "run7c", "grade": 0.0, "note": "None suggests hard surface instead of pillow"}
+{"id": "multiturn_011", "model": "run7", "grade": 0.0, "note": "B gives Japanese hardest, misses French"}
+{"id": "multiturn_011", "model": "run8", "grade": 0.5, "note": "B gives Japanese hardest, misses French"}
+{"id": "multiturn_011", "model": "run7c", "grade": 0.0, "note": "B gives Japanese hardest, misses French"}
+{"id": "multiturn_012", "model": "run7", "grade": 0.0, "note": "None says 5 pm"}
+{"id": "multiturn_012", "model": "run7c", "grade": 0.0, "note": "None says 5 pm"}
+{"id": "multiturn_012", "model": "run8", "grade": 0.0, "note": "None says 5 pm"}
+{"id": "multiturn_013", "model": "run8", "grade": 0.5, "note": "A/B mention Sunil/music without clear choice; C generic"}
+{"id": "multiturn_013", "model": "run7c", "grade": 0.5, "note": "A/B mention Sunil/music without clear choice; C generic"}
+{"id": "multiturn_013", "model": "run7", "grade": 0.0, "note": "A/B mention Sunil/music without clear choice; C generic"}
+{"id": "multiturn_014", "model": "run7", "grade": 1.0, "note": "A dress correct; B contradicts itself; C fails"}
+{"id": "multiturn_014", "model": "run8", "grade": 0.5, "note": "A dress correct; B contradicts itself; C fails"}
+{"id": "multiturn_014", "model": "run7c", "grade": 0.0, "note": "A dress correct; B contradicts itself; C fails"}
+{"id": "multiturn_015", "model": "run8", "grade": 0.0, "note": "No retelling of the story"}
+{"id": "multiturn_015", "model": "run7c", "grade": 0.0, "note": "No retelling of the story"}
+{"id": "multiturn_015", "model": "run7", "grade": 0.0, "note": "No retelling of the story"}
+{"id": "story_001", "model": "run8", "grade": 0.5, "note": "A/C partly fit, weak resolution; B incoherent"}
+{"id": "story_001", "model": "run7c", "grade": 0.0, "note": "A/C partly fit, weak resolution; B incoherent"}
+{"id": "story_001", "model": "run7", "grade": 0.5, "note": "A/C partly fit, weak resolution; B incoherent"}
+{"id": "story_002", "model": "run7", "grade": 0.0, "note": "B kite lost and returned; A/C incoherent, no happy ending"}
+{"id": "story_002", "model": "run7c", "grade": 1.0, "note": "B kite lost and returned; A/C incoherent, no happy ending"}
+{"id": "story_002", "model": "run8", "grade": 0.0, "note": "B kite lost and returned; A/C incoherent, no happy ending"}
+{"id": "story_003", "model": "run8", "grade": 0.0, "note": "None tells bridge washed away and solved"}
+{"id": "story_003", "model": "run7c", "grade": 0.0, "note": "None tells bridge washed away and solved"}
+{"id": "story_003", "model": "run7", "grade": 0.0, "note": "None tells bridge washed away and solved"}
+{"id": "story_004", "model": "run8", "grade": 0.5, "note": "A crow helps boy (lost toy, not lost); B short; C incoherent"}
+{"id": "story_004", "model": "run7", "grade": 0.0, "note": "A crow helps boy (lost toy, not lost); B short; C incoherent"}
+{"id": "story_004", "model": "run7c", "grade": 0.0, "note": "A crow helps boy (lost toy, not lost); B short; C incoherent"}
+{"id": "story_005", "model": "run8", "grade": 0.5, "note": "No titles; A coherent robot dance; B/C incoherent"}
+{"id": "story_005", "model": "run7c", "grade": 0.0, "note": "No titles; A coherent robot dance; B/C incoherent"}
+{"id": "story_005", "model": "run7", "grade": 0.0, "note": "No titles; A coherent robot dance; B/C incoherent"}
+{"id": "story_006", "model": "run7", "grade": 0.5, "note": "A has sorry but too short; B no sorry; C incoherent"}
+{"id": "story_006", "model": "run7c", "grade": 0.0, "note": "A has sorry but too short; B no sorry; C incoherent"}
+{"id": "story_006", "model": "run8", "grade": 0.0, "note": "A has sorry but too short; B no sorry; C incoherent"}
+{"id": "story_007", "model": "run7", "grade": 0.5, "note": "A snail wins but short; B/C off-request"}
+{"id": "story_007", "model": "run8", "grade": 0.0, "note": "A snail wins but short; B/C off-request"}
+{"id": "story_007", "model": "run7c", "grade": 0.0, "note": "A snail wins but short; B/C off-request"}
+{"id": "story_008", "model": "run7c", "grade": 0.0, "note": "No girl finding and returning wallet"}
+{"id": "story_008", "model": "run7", "grade": 0.0, "note": "No girl finding and returning wallet"}
+{"id": "story_008", "model": "run8", "grade": 0.0, "note": "No girl finding and returning wallet"}
+{"id": "story_009", "model": "run7c", "grade": 1.0, "note": "A fits, no magic; C odd; B mentions magic, unresolved"}
+{"id": "story_009", "model": "run7", "grade": 0.0, "note": "A fits, no magic; C odd; B mentions magic, unresolved"}
+{"id": "story_009", "model": "run8", "grade": 0.5, "note": "A fits, no magic; C odd; B mentions magic, unresolved"}
+{"id": "story_010", "model": "run7c", "grade": 0.5, "note": "A name confusion; B short, unnamed; C not a cat"}
+{"id": "story_010", "model": "run7", "grade": 0.5, "note": "A name confusion; B short, unnamed; C not a cat"}
+{"id": "story_010", "model": "run8", "grade": 0.0, "note": "A name confusion; B short, unnamed; C not a cat"}
+{"id": "multi_question_001", "model": "run7c", "grade": 0.0, "note": "Fragile wrong in all; tomorrow never spelled"}
+{"id": "multi_question_001", "model": "run8", "grade": 0.0, "note": "Fragile wrong in all; tomorrow never spelled"}
+{"id": "multi_question_001", "model": "run7", "grade": 0.0, "note": "Fragile wrong in all; tomorrow never spelled"}
+{"id": "multi_question_002", "model": "run8", "grade": 0.5, "note": "Q1 goes correct; Q2 evaporation missed by all"}
+{"id": "multi_question_002", "model": "run7", "grade": 0.5, "note": "Q1 goes correct; Q2 evaporation missed by all"}
+{"id": "multi_question_002", "model": "run7c", "grade": 0.5, "note": "Q1 goes correct; Q2 evaporation missed by all"}
+{"id": "multi_question_003", "model": "run8", "grade": 0.5, "note": "A tip ok, hydrate wrong; B/C both wrong"}
+{"id": "multi_question_003", "model": "run7", "grade": 0.0, "note": "A tip ok, hydrate wrong; B/C both wrong"}
+{"id": "multi_question_003", "model": "run7c", "grade": 0.0, "note": "A tip ok, hydrate wrong; B/C both wrong"}
+{"id": "multi_question_004", "model": "run8", "grade": 0.5, "note": "All say don't know; none gives modern"}
+{"id": "multi_question_004", "model": "run7", "grade": 0.5, "note": "All say don't know; none gives modern"}
+{"id": "multi_question_004", "model": "run7c", "grade": 0.5, "note": "All say don't know; none gives modern"}
+{"id": "multi_question_005", "model": "run7", "grade": 0.0, "note": "Cooler and lend/borrow wrong in all"}
+{"id": "multi_question_005", "model": "run7c", "grade": 0.0, "note": "Cooler and lend/borrow wrong in all"}
+{"id": "multi_question_005", "model": "run8", "grade": 0.0, "note": "Cooler and lend/borrow wrong in all"}
+{"id": "multi_question_006", "model": "run8", "grade": 0.0, "note": "C 12 and plenty right; A/B wrong"}
+{"id": "multi_question_006", "model": "run7", "grade": 0.0, "note": "C 12 and plenty right; A/B wrong"}
+{"id": "multi_question_006", "model": "run7c", "grade": 1.0, "note": "C 12 and plenty right; A/B wrong"}
+{"id": "multi_question_007", "model": "run8", "grade": 0.5, "note": "A/C receive and have, reasons wrong; B fails"}
+{"id": "multi_question_007", "model": "run7", "grade": 0.0, "note": "A/C receive and have, reasons wrong; B fails"}
+{"id": "multi_question_007", "model": "run7c", "grade": 0.5, "note": "A/C receive and have, reasons wrong; B fails"}
+{"id": "multi_question_008", "model": "run8", "grade": 0.5, "note": "Q1 don't know correct; Q2 sun shade missed"}
+{"id": "multi_question_008", "model": "run7", "grade": 0.5, "note": "Q1 don't know correct; Q2 sun shade missed"}
+{"id": "multi_question_008", "model": "run7c", "grade": 0.5, "note": "Q1 don't know correct; Q2 sun shade missed"}
+{"id": "multi_question_009", "model": "run7c", "grade": 0.0, "note": "B tip ok; C partial deadline plus tip; A wrong"}
+{"id": "multi_question_009", "model": "run7", "grade": 0.5, "note": "B tip ok; C partial deadline plus tip; A wrong"}
+{"id": "multi_question_009", "model": "run8", "grade": 0.5, "note": "B tip ok; C partial deadline plus tip; A wrong"}
+{"id": "multi_question_010", "model": "run7", "grade": 0.0, "note": "Idiom and leaves wrong in all"}
+{"id": "multi_question_010", "model": "run8", "grade": 0.0, "note": "Idiom and leaves wrong in all"}
+{"id": "multi_question_010", "model": "run7c", "grade": 0.0, "note": "Idiom and leaves wrong in all"}
