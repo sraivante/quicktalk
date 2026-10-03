@@ -57,6 +57,9 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   1.0 vs eval 2.17). Fair test 1% (blind, 3 graders; run 8/7c re-grades reproduced earlier scores), old 375 test 0%,
   maths 1%, HellaSwag ~26% (user-reported). It outputs memorised templates unrelated to the question. Report:
   train/test_ext11m/COMPARE.md. Runner: scripts/test_hf_local_run.py. Model files kept only in the scratchpad.
+  Dataset (Drive folder 97fc7fb348b2a28d5fce8da4) is tokenized shards only; its card says MCQ banks are 964,032
+  numeric vs 60 language questions. NEXT: user runs train/colab/ext11m_data_check.ipynb; then read
+  MyDrive/ext11m_check/summary.json and answer whether a 101M model on this data would help.
 
 ## Next action (run 8)
 

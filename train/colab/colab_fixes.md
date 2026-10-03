@@ -364,3 +364,11 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   smoke test, then creates <user>/LMLM_97M_1 and uploads the folder once. The token is read from the Colab secret
   HF_TOKEN (or a getpass box) and is never printed or saved; no token in the notebook. Drive copy
   quicktalk_publish_hf_LMLM_97M_1_v1.ipynb (id 1qjXSHAsIubOhjFQ2Oi0-UP0KbBc6FIYT).
+- **External 11M model: dataset + in-domain check.** New train/colab/ext11m_data_check.ipynb (CPU runtime). It finds the
+  user's tokenized dataset cache (folder 97fc7fb348b2a28d5fce8da4: train/, evaluation/, tokenizer/) and the 11M model,
+  then copies all evaluation shards and 40 random train shards to the local disk in parallel. It decodes them on all
+  cores with a process pool and measures repetition: unique replies, top replies and openings, distinct trigrams,
+  MCQ/digit share. It then runs an in-domain test: 300 held-out conversations, first user turn -> model reply vs
+  reference (exact, F1, same opening, verbatim copy of a train reply). Output: MyDrive/ext11m_check/summary.json +
+  samples.jsonl. Tested locally on synthetic shards with the real model. Drive copy ext11m_data_check.ipynb
+  (id 1yOfWk1_vzfKJ6ZRT2Cy4stSnhlk8U1Ix).
