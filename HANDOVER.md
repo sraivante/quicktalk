@@ -53,6 +53,11 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   advised to rotate it after publishing. **PUBLISHED 2026-10-03: https://huggingface.co/sraivante/LMLM_97M_1 (public, 8 files;
   re-download check answered correctly).**
 
+- **External 11M model tested (2026-10-03):** user-supplied GPT-2 model (10.9M params, 3.37B tokens of Q&A/MCQ, train loss
+  1.0 vs eval 2.17). Fair test 1% (blind, 3 graders; run 8/7c re-grades reproduced earlier scores), old 375 test 0%,
+  maths 1%, HellaSwag ~26% (user-reported). It outputs memorised templates unrelated to the question. Report:
+  train/test_ext11m/COMPARE.md. Runner: scripts/test_hf_local_run.py. Model files kept only in the scratchpad.
+
 ## Next action (run 8)
 
 0. DONE 2026-10-02: all-cores FineWeb cleaning + numpy token writing + data prep on CPU runtime (notebook v10, Drive id

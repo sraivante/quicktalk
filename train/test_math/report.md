@@ -30,3 +30,11 @@ the model writes the trained format ("Because 29 + 34 = ..."), but the arithmeti
 Splitting digits makes arithmetic learnable; it does not teach it. A ~100M model needs far more worked arithmetic in
 training (thousands of generated sums with digit-by-digit / column working) for this to improve. The grader was checked
 by hand on run 8 answers: it reads the numbers correctly.
+
+## External 11M model (2026-10-03)
+
+| answers | gsm8k_test | easy_fresh | laghumath_seen | easy_seen | ALL |
+|---|---|---|---|---|---|
+| train/test_math/answers_ext11m_rep1.0.jsonl | 0% (1/200) | 0% (0/100) | 0% (0/80) | 4% (2/50) | 1% |
+
+User-supplied 11M GPT-2 model (see train/test_ext11m/COMPARE.md); it mostly outputs unrelated templates.

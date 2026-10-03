@@ -33,6 +33,12 @@ These are taken from public papers and leaderboards. Our scorer gives SmolLM2-13
 | SmolLM-135M (v1) | 135M | 600B | ~41% |
 | SmolLM2-135M | 135M | 2T | ~42% |
 
+## Other models reported by the user (scorer not confirmed)
+
+| Model | Parameters | Training tokens | acc_norm |
+|---|---|---|---|
+| External "English discussion" GPT-2 (from scratch, Q&A/MCQ data) | 10.9M | 3.37B | ~26% (user-reported, Colab) |
+
 ## Method (to reproduce, or to add a model fairly)
 
 - **Data:** HellaSwag validation split, all 10,042 items (`Rowan/hellaswag` on Hugging Face, split `validation`).
