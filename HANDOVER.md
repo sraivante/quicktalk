@@ -50,7 +50,8 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   train/colab/publish_hf.ipynb (CPU runtime) in Colab: converts sft_final.pt / pretrain_final.pt to safetensors,
   smoke-tests, uploads to <user>/LMLM_97M_1 (public by default, PRIVATE flag in cell 1). Drive copy quicktalk_publish_hf_LMLM_97M_1_v1.ipynb (id 1qjXSHAsIubOhjFQ2Oi0-UP0KbBc6FIYT); an empty placeholder EMPTY_placeholder_safe_to_delete.ipynb (id 1paiZdjJAsAqjfoj7RPe-m2vsHbYf_Yk6) was made by mistake, user may delete it. The token comes ONLY from the
   Colab secret HF_TOKEN or a getpass box. The user pasted a write token in chat: never write it anywhere; the user was
-  advised to rotate it after publishing. NEXT: user runs the notebook; then confirm the repo URL.
+  advised to rotate it after publishing. **PUBLISHED 2026-10-03: https://huggingface.co/sraivante/LMLM_97M_1 (public, 8 files;
+  re-download check answered correctly).**
 
 ## Next action (run 8)
 
