@@ -30,6 +30,11 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   the Drive upload may lag. After prepare, compare data/pretrain_train_parts/*fineweb10bt_07*.bin with the others
   (~0.8B tokens); if small, re-make shard 07 (delete it, re-run fetch) before any future run.
 
+- **RUN 8 FINISHED 2026-10-02 20:48 UTC:** pretrain 8.23B tokens, eval 3.18; chat best eval 1.887 (step 500/558);
+  zip MyDrive/quicktalk_run8_model.zip (Drive id 1wz-qqP5QB9wXX0qLbMzX0m5TQt0WF2hz). NEXT: get zip parts into the
+  sandbox, run train/test_fair + old 375-question test + maths test, grade with 3 independent agents, compare with
+  run 7/7c/SmolLM2; user runs quicktalk_hellaswag_run8.ipynb for HellaSwag.
+
 ## Next action (run 8)
 
 0. DONE 2026-10-02: all-cores FineWeb cleaning + numpy token writing + data prep on CPU runtime (notebook v10, Drive id

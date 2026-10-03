@@ -341,3 +341,10 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   instead of a Python loop. Local checks: cleaned text and token files are byte-identical to the old code; cleaning
   3x faster on 4 cores (expected ~6-8x on Colab). Notebook: cells 1-5 run on a CPU runtime (no A100 needed), cell 6
   asserts an A100 before training. Drive copy quicktalk_train_run8_v10.ipynb (id 1tEDaa_tfpnPY8Rsy39DMbjLBqC-1x-Qf). Finished shards from the running session are kept.
+- **Run 8 done (2026-10-02/03).** Data prep finished 09:34 UTC; cell 6 was started only at 10:50 UTC (cells 6-11 had
+  been aborted by the earlier stop; user re-ran "Run focused cell and all cells below"). Pretraining 125,600 steps x 64 x
+  1,024 tokens (8.23B tokens; fineweb10bt_07 contributed only 0.21B because its Drive copy was truncated) at a steady
+  238k tok/s, 10:50-20:41 UTC (~9 h 50 min). Pretrain eval loss 4.69 (step 1k) -> 3.18 (final). Chat training 558 steps,
+  eval 2.06 -> best 1.887 at step 500 (final model = step 500, keep-best). Zip MyDrive/quicktalk_run8_model.zip
+  (363 MB, Drive id 1wz-qqP5QB9wXX0qLbMzX0m5TQt0WF2hz) at 20:48 UTC. Losses are not directly comparable with run 7
+  (new digit tokenizer, new chat eval set); compare by tests.
