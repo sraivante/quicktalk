@@ -358,3 +358,8 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   threads. Checked on the real run 8 model (60 items): identical acc/acc_norm to the old one-at-a-time version, 2.4x
   faster on a 4-core CPU; on a GPU the gain is much larger (64 endings per pass instead of 1). --batch sets the size.
   The run 8 HellaSwag notebook clones the latest code, so it picks this up automatically.
+- **Publish to Hugging Face (LMLM_97M_1).** New train/colab/publish_hf.ipynb (CPU runtime is enough): clones the repo
+  (train/colab + hf/LMLM_97M_1), converts run 8 sft_final.pt and pretrain_final.pt to float32 safetensors (weights only)
+  on the local disk, copies tokenizer.json, config.json, quicktalk_lm.py, inference.py and the model card, runs a
+  smoke test, then creates <user>/LMLM_97M_1 and uploads the folder once. The token is read from the Colab secret
+  HF_TOKEN (or a getpass box) and is never printed or saved; no token in the notebook.

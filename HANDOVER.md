@@ -43,6 +43,15 @@ This file keeps consecutive Claude Code sessions in sync. Every session:
   Ideas for run 9: worked arithmetic data; JSON rows penalising extra keys; context_qa "general" + passage inference
   rows; FineWeb-Edu score 4-5 upweight, source tags, dedup; re-make fineweb10bt_07; H100 if available.
 
+- **HUGGING FACE PUBLISH (2026-10-03):** user asked to publish run 8 as **LMLM_97M_1**. Model card
+  hf/LMLM_97M_1/README.md (all comparison tables, real sample answers good and bad, dataset links (no data uploaded),
+  knowledge levels, purpose/use cases, limitations; license apache-2.0 by default) + hf/LMLM_97M_1/inference.py (tested
+  locally on run 8: same answers as the tests). huggingface.co is blocked in the sandbox, so the user runs
+  train/colab/publish_hf.ipynb (CPU runtime) in Colab: converts sft_final.pt / pretrain_final.pt to safetensors,
+  smoke-tests, uploads to <user>/LMLM_97M_1 (public by default, PRIVATE flag in cell 1). The token comes ONLY from the
+  Colab secret HF_TOKEN or a getpass box. The user pasted a write token in chat: never write it anywhere; the user was
+  advised to rotate it after publishing. NEXT: user runs the notebook; then confirm the repo URL.
+
 ## Next action (run 8)
 
 0. DONE 2026-10-02: all-cores FineWeb cleaning + numpy token writing + data prep on CPU runtime (notebook v10, Drive id
