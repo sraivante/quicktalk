@@ -352,3 +352,9 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   chat (sft_final.pt) into MyDrive/hellaswag_results/quicktalk_run8_{base,chat}.json (skips finished ones), drops the
   SmolLM2 re-run (already scored: 43.1%), prints the full comparison. Drive copy quicktalk_hellaswag_run8_v2.ipynb
   (id 1d3jtl1CW_FRr9cDZdX_ni_sUH6y-Wjtt).
+- **HellaSwag scorer uses all cores and batches (user rule).** hellaswag_eval.py now tokenizes every context and ending
+  in one batch call (tokenizers' encode_batch / the fast HF tokenizer, all CPU cores), sorts endings by length and scores
+  64 per forward pass with right padding (causal model: padding never changes the scored positions), torch uses all CPU
+  threads. Checked on the real run 8 model (60 items): identical acc/acc_norm to the old one-at-a-time version, 2.4x
+  faster on a 4-core CPU; on a GPU the gain is much larger (64 endings per pass instead of 1). --batch sets the size.
+  The run 8 HellaSwag notebook clones the latest code, so it picks this up automatically.

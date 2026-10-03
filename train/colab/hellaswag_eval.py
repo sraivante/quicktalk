@@ -28,6 +28,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--workdir'); ap.add_argument('--ckpt'); ap.add_argument('--hf-model')
     ap.add_argument('--jsonl'); ap.add_argument('--limit', type=int, default=0); ap.add_argument('--out')
+    ap.add_argument('--batch', type=int, default=64, help='endings scored per forward pass')
     a = ap.parse_args()
     import torch
     dev = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -35,7 +36,7 @@ def main():
         from transformers import AutoModelForCausalLM, AutoTokenizer
         htok = AutoTokenizer.from_pretrained(a.hf_model)
         model = AutoModelForCausalLM.from_pretrained(a.hf_model, torch_dtype=torch.float32).to(dev).eval()
-        encode = lambda s: htok(s, add_special_tokens=False).input_ids
+        encode_all = lambda texts: htok(texts, add_special_tokens=False).input_ids     # fast tokenizer: all cores
         logits_of = lambda x: model(x).logits
         block, name = 2048, a.hf_model
     else:
@@ -45,27 +46,45 @@ def main():
         path = a.ckpt or os.path.join(a.workdir, 'checkpoints', 'pretrain_final.pt')
         s = torch.load(path, map_location=dev, weights_only=False)
         model = q.build_model(s['cfg']).to(dev); model.load_state_dict(s['model']); model.eval()
-        encode = lambda t: tok.encode(t).ids
+        encode_all = lambda texts: [e.ids for e in tok.encode_batch(texts)]           # all CPU cores
         logits_of = lambda x: model(x)[0]
         block, name = s['cfg']['block'], path
-    n = right = right_norm = 0; t0 = time.time()
+    torch.set_num_threads(os.cpu_count())
     half = torch.bfloat16 if dev == 'cuda' and torch.cuda.is_bf16_supported() else torch.float16   # T4: float16
     amp = torch.autocast('cuda', dtype=half) if dev == 'cuda' else torch.autocast('cpu', enabled=False)
-    for ctx, ends, label in items(a):
-        c = encode(ctx); scores, norms = [], []
-        for e in ends:
-            full = encode(ctx + ' ' + e)
+    data = list(items(a))
+    if a.limit: data = data[:a.limit]
+    # tokenize everything up front in one batch call per list (uses every CPU core)
+    ctx_ids = encode_all([c for c, _, _ in data])
+    full_ids = encode_all([c + ' ' + e for c, ends, _ in data for e in ends])
+    rows = []                                       # (item index, ending index, tokens, first ending position, ending chars)
+    for i, (c, ends, _) in enumerate(data):
+        for j, e in enumerate(ends):
+            full, cc = full_ids[4 * i + j], ctx_ids[i]
             k = 0                                   # ending tokens start where the context tokens stop matching
-            while k < min(len(c), len(full) - 1) and c[k] == full[k]: k += 1
+            while k < min(len(cc), len(full) - 1) and cc[k] == full[k]: k += 1
             k = max(1, k)
             if len(full) > block: cut = len(full) - block; full = full[cut:]; k = max(1, k - cut)
-            x = torch.tensor([full], device=dev)
-            with torch.no_grad(), amp: lp = torch.log_softmax(logits_of(x)[0].float(), -1)
-            tgt = x[0, k:]; ll = lp[k - 1:-1].gather(1, tgt[:, None]).sum().item()
-            scores.append(ll); norms.append(ll / max(1, len(e)))
-        n += 1; right += max(range(4), key=lambda i: scores[i]) == label; right_norm += max(range(4), key=lambda i: norms[i]) == label
-        if n % 1000 == 0: print(f'{n} items  acc {right / n:.3f}  acc_norm {right_norm / n:.3f}  {time.time() - t0:.0f}s', flush=True)
-        if a.limit and n >= a.limit: break
+            rows.append((i, j, full, k, len(e)))
+    ll = [[0.0] * 4 for _ in data]
+    order = sorted(range(len(rows)), key=lambda r: len(rows[r][2]))      # similar lengths together: little padding
+    t0 = time.time()
+    for bi in range(0, len(order), a.batch):
+        batch = [rows[r] for r in order[bi:bi + a.batch]]
+        L = max(len(r[2]) for r in batch)
+        x = torch.zeros(len(batch), L, dtype=torch.long)
+        for b, r in enumerate(batch): x[b, :len(r[2])] = torch.tensor(r[2])   # right padding: causal, so it never
+        x = x.to(dev)                                                           # changes the scored positions
+        with torch.no_grad(), amp: lp = torch.log_softmax(logits_of(x).float(), -1)
+        for b, (i, j, full, k, _) in enumerate(batch):
+            tgt = x[b, k:len(full)]
+            ll[i][j] = lp[b, k - 1:len(full) - 1].gather(1, tgt[:, None]).sum().item()
+        if (bi // a.batch) % 50 == 0: print(f'{bi + len(batch)}/{len(rows)} endings scored, {time.time() - t0:.0f}s', flush=True)
+    right = right_norm = 0
+    for i, (_, ends, label) in enumerate(data):
+        right += max(range(4), key=lambda j: ll[i][j]) == label
+        right_norm += max(range(4), key=lambda j: ll[i][j] / max(1, len(ends[j]))) == label
+    n = len(data)
     res = {'model': name, 'items': n, 'acc': round(right / n, 4), 'acc_norm': round(right_norm / n, 4)}
     print(json.dumps(res))
     if a.out: json.dump(res, open(a.out, 'w'), indent=1)
