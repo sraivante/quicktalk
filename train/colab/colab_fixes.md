@@ -362,4 +362,5 @@ context 512; batch 64 x 512 tokens; sizing rule 10 training tokens per parameter
   (train/colab + hf/LMLM_97M_1), converts run 8 sft_final.pt and pretrain_final.pt to float32 safetensors (weights only)
   on the local disk, copies tokenizer.json, config.json, quicktalk_lm.py, inference.py and the model card, runs a
   smoke test, then creates <user>/LMLM_97M_1 and uploads the folder once. The token is read from the Colab secret
-  HF_TOKEN (or a getpass box) and is never printed or saved; no token in the notebook.
+  HF_TOKEN (or a getpass box) and is never printed or saved; no token in the notebook. Drive copy
+  quicktalk_publish_hf_LMLM_97M_1_v1.ipynb (id 1qjXSHAsIubOhjFQ2Oi0-UP0KbBc6FIYT).
