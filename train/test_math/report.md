@@ -17,3 +17,16 @@ Findings
 - Likely main cause: the tokenizer merges digits into arbitrary chunks (517 multi-digit tokens; "3528" -> "35","28",
   "1234" -> "12","34"), so the model cannot learn place value / column arithmetic. Small models need one token per
   digit for arithmetic. A fix needs a new tokenizer (split digits) and pretraining from scratch.
+
+## Run 8 (digit tokenizer, 8.23B tokens), 2026-10-03
+
+| answers | gsm8k_test | easy_fresh | laghumath_seen | easy_seen | ALL |
+|---|---|---|---|---|---|
+| train/test_math/answers_run7_rep1.0.jsonl | 2% (3/200) | 1% (1/100) | 18% (14/80) | 16% (8/50) | 6% |
+| train/test_math/answers_run8_rep1.0.jsonl | 1% (2/200) | 2% (2/100) | 12% (10/80) | 6% (3/50) | 4% |
+
+Run 8 did not improve maths (4% vs run 7 6% overall). The digit tokenizer works (numbers are now single digits), and
+the model writes the trained format ("Because 29 + 34 = ..."), but the arithmetic itself is wrong (e.g. 29 + 34 = 15).
+Splitting digits makes arithmetic learnable; it does not teach it. A ~100M model needs far more worked arithmetic in
+training (thousands of generated sums with digit-by-digit / column working) for this to improve. The grader was checked
+by hand on run 8 answers: it reads the numbers correctly.
